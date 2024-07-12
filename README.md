@@ -99,35 +99,35 @@ For a complete list, see the full spreadsheet below:
 | **[Heads and Tails Marketing](https://www.headsandtailsmarketing.com)** | **[Sales And Marketing Internship (Paid)](https://jobright.ai/jobs/info/66909288a49d07cc6b583800?utm_source=1065&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 11 |
 | **[Evolvez Agency](https://www.evolvez.co)** | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7de?utm_source=1065&utm_campaign=git)** | Little Rock, AR | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7dd?utm_source=1065&utm_campaign=git)** | DeKalb, IL | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e2?utm_source=1065&utm_campaign=git)** | Wilmington, DE | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7df?utm_source=1065&utm_campaign=git)** | St Petersburg, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e0?utm_source=1065&utm_campaign=git)** | Duluth, MN | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e2?utm_source=1065&utm_campaign=git)** | Wilmington, DE | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e1?utm_source=1065&utm_campaign=git)** | Rochester, NH | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e6?utm_source=1065&utm_campaign=git)** | Rochester, MN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e4?utm_source=1065&utm_campaign=git)** | Anchorage, AK | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e6?utm_source=1065&utm_campaign=git)** | Rochester, MN | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e3?utm_source=1065&utm_campaign=git)** | Jacksonville, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e5?utm_source=1065&utm_campaign=git)** | Allendale, MI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690a9710020afd5a76da0fd?utm_source=1065&utm_campaign=git)** | Nacogdoches, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e7?utm_source=1065&utm_campaign=git)** | Waipahu, HI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690a9710020afd5a76da0fd?utm_source=1065&utm_campaign=git)** | Nacogdoches, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690a9be0020afd5a76da7e8?utm_source=1065&utm_campaign=git)** | Owensboro, KY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fe?utm_source=1065&utm_campaign=git)** | Arcata, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480900?utm_source=1065&utm_campaign=git)** | Rochester Hills, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808ff?utm_source=1065&utm_campaign=git)** | Wilmington, NC | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fe?utm_source=1065&utm_campaign=git)** | Arcata, CA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fc?utm_source=1065&utm_campaign=git)** | Waterbury, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fd?utm_source=1065&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fb?utm_source=1065&utm_campaign=git)** | Cheyenne, WY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fa?utm_source=1065&utm_campaign=git)** | Tulsa, OK | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fc?utm_source=1065&utm_campaign=git)** | Waterbury, CT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b24808fd?utm_source=1065&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480903?utm_source=1065&utm_campaign=git)** | Dallas, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480904?utm_source=1065&utm_campaign=git)** | Ogden, UT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480902?utm_source=1065&utm_campaign=git)** | Augusta, ME | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480903?utm_source=1065&utm_campaign=git)** | Dallas, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480901?utm_source=1065&utm_campaign=git)** | Edwardsville, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480905?utm_source=1065&utm_campaign=git)** | Louisville, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480907?utm_source=1065&utm_campaign=git)** | Geneseo, NY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480906?utm_source=1065&utm_campaign=git)** | Potsdam, NY | On Site | Jul 11 |
 | **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6690958acef80c7d0d7be14c?utm_source=1065&utm_campaign=git)** | Austin, TX | On Site | Jul 11 |
 | **[Evolvez Agency](https://www.evolvez.co)** | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb6837f?utm_source=1065&utm_campaign=git)** | Nampa, ID | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68381?utm_source=1065&utm_campaign=git)** | Carrollton, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68382?utm_source=1065&utm_campaign=git)** | Cleveland, OH | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68381?utm_source=1065&utm_campaign=git)** | Carrollton, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68380?utm_source=1065&utm_campaign=git)** | St Cloud, MN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68383?utm_source=1065&utm_campaign=git)** | Toledo, OH | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b05d1f8d1bc97eb68384?utm_source=1065&utm_campaign=git)** | Rochester, NY | On Site | Jul 11 |
@@ -164,16 +164,16 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1881f8d1bc97eb69e8e?utm_source=1065&utm_campaign=git)** | Evansville, IN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69eb2?utm_source=1065&utm_campaign=git)** | Valdosta, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69ec9?utm_source=1065&utm_campaign=git)** | Memphis, TN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69edc?utm_source=1065&utm_campaign=git)** | Des Moines, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69eb5?utm_source=1065&utm_campaign=git)** | Augusta, GA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69edc?utm_source=1065&utm_campaign=git)** | Des Moines, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69ec4?utm_source=1065&utm_campaign=git)** | South Bend, IN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69ed1?utm_source=1065&utm_campaign=git)** | Rochester, NH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69ee4?utm_source=1065&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69ef9?utm_source=1065&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f19?utm_source=1065&utm_campaign=git)** | Southaven, MS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f13?utm_source=1065&utm_campaign=git)** | Elizabeth, NJ | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f26?utm_source=1065&utm_campaign=git)** | Bozeman, MT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f2d?utm_source=1065&utm_campaign=git)** | Hialeah, FL | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f26?utm_source=1065&utm_campaign=git)** | Bozeman, MT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f23?utm_source=1065&utm_campaign=git)** | Frankfort, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f50?utm_source=1065&utm_campaign=git)** | Danbury, CT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1911f8d1bc97eb69f6a?utm_source=1065&utm_campaign=git)** | Wheeling, WV | On Site | Jul 11 |
@@ -181,10 +181,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0a2?utm_source=1065&utm_campaign=git)** | Lincoln, NE | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0af?utm_source=1065&utm_campaign=git)** | Little Rock, AR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0ba?utm_source=1065&utm_campaign=git)** | Fort Myers, FL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0e2?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0de?utm_source=1065&utm_campaign=git)** | Cranston, RI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0c2?utm_source=1065&utm_campaign=git)** | Edison, NJ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0e9?utm_source=1065&utm_campaign=git)** | Macon, GA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0e2?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0de?utm_source=1065&utm_campaign=git)** | Cranston, RI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0ca?utm_source=1065&utm_campaign=git)** | Morgantown, WV | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0e6?utm_source=1065&utm_campaign=git)** | Parkersburg, WV | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0e8?utm_source=1065&utm_campaign=git)** | Minot, ND | On Site | Jul 11 |
@@ -193,60 +193,60 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0fd?utm_source=1065&utm_campaign=git)** | Menomonie, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1a51f8d1bc97eb6a0fb?utm_source=1065&utm_campaign=git)** | Arlington, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a10c?utm_source=1065&utm_campaign=git)** | Prairie View, TX | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a128?utm_source=1065&utm_campaign=git)** | Fort Collins, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a133?utm_source=1065&utm_campaign=git)** | Colchester, VT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a128?utm_source=1065&utm_campaign=git)** | Fort Collins, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a121?utm_source=1065&utm_campaign=git)** | Gary, IN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a129?utm_source=1065&utm_campaign=git)** | Independence, MO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a138?utm_source=1065&utm_campaign=git)** | Athens, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a15a?utm_source=1065&utm_campaign=git)** | DeKalb, IL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480921?utm_source=1065&utm_campaign=git)** | Covington, KY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5a51acf37e6b248092c?utm_source=1065&utm_campaign=git)** | Fort Smith, AR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a169?utm_source=1065&utm_campaign=git)** | Denver, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b1ae1f8d1bc97eb6a172?utm_source=1065&utm_campaign=git)** | Birmingham, AL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5a51acf37e6b2480931?utm_source=1065&utm_campaign=git)** | Rock Hill, SC | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b59c1acf37e6b2480921?utm_source=1065&utm_campaign=git)** | Covington, KY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5a51acf37e6b248092c?utm_source=1065&utm_campaign=git)** | Fort Smith, AR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5a51acf37e6b2480932?utm_source=1065&utm_campaign=git)** | Rexburg, ID | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480af4?utm_source=1065&utm_campaign=git)** | Eugene, OR | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5a51acf37e6b2480931?utm_source=1065&utm_campaign=git)** | Rock Hill, SC | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480aee?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480af4?utm_source=1065&utm_campaign=git)** | Eugene, OR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480aef?utm_source=1065&utm_campaign=git)** | Great Falls, MT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480aff?utm_source=1065&utm_campaign=git)** | Rockford, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b16?utm_source=1065&utm_campaign=git)** | Alamogordo, NM | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480aff?utm_source=1065&utm_campaign=git)** | Rockford, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b01?utm_source=1065&utm_campaign=git)** | Biloxi, MS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b18?utm_source=1065&utm_campaign=git)** | Roswell, NM | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b1b?utm_source=1065&utm_campaign=git)** | Lexington, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b09?utm_source=1065&utm_campaign=git)** | Portland, ME | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b03?utm_source=1065&utm_campaign=git)** | Montgomery, AL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b0b?utm_source=1065&utm_campaign=git)** | Boca Raton, FL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b2a?utm_source=1065&utm_campaign=git)** | Paterson, NJ | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b22?utm_source=1065&utm_campaign=git)** | Hammond, IN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b03?utm_source=1065&utm_campaign=git)** | Montgomery, AL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b32?utm_source=1065&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b22?utm_source=1065&utm_campaign=git)** | Hammond, IN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b2a?utm_source=1065&utm_campaign=git)** | Paterson, NJ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b21?utm_source=1065&utm_campaign=git)** | Salem, OR | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b61?utm_source=1065&utm_campaign=git)** | Tupelo, MS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b4a?utm_source=1065&utm_campaign=git)** | Thornton, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b55?utm_source=1065&utm_campaign=git)** | Bridgeport, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b61?utm_source=1065&utm_campaign=git)** | Tupelo, MS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b70?utm_source=1065&utm_campaign=git)** | Bellevue, WA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b77?utm_source=1065&utm_campaign=git)** | Essex Junction, VT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480b7f?utm_source=1065&utm_campaign=git)** | Sioux City, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480b89?utm_source=1065&utm_campaign=git)** | Lake Worth, FL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480b8c?utm_source=1065&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b77?utm_source=1065&utm_campaign=git)** | Essex Junction, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5b51acf37e6b2480b76?utm_source=1065&utm_campaign=git)** | Las Cruces, NM | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480b7f?utm_source=1065&utm_campaign=git)** | Sioux City, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480b8b?utm_source=1065&utm_campaign=git)** | San Jose, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480bb3?utm_source=1065&utm_campaign=git)** | Columbus, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480ba5?utm_source=1065&utm_campaign=git)** | Nashville, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480be6?utm_source=1065&utm_campaign=git)** | Erie, PA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480bef?utm_source=1065&utm_campaign=git)** | St Petersburg, FL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c07?utm_source=1065&utm_campaign=git)** | Indiana, PA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c01?utm_source=1065&utm_campaign=git)** | San Luis Obispo, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c06?utm_source=1065&utm_campaign=git)** | Plymouth, MN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c22?utm_source=1065&utm_campaign=git)** | Lansing, MI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c01?utm_source=1065&utm_campaign=git)** | San Luis Obispo, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c2b?utm_source=1065&utm_campaign=git)** | Aurora, IL | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5bd1acf37e6b2480c22?utm_source=1065&utm_campaign=git)** | Lansing, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480c4c?utm_source=1065&utm_campaign=git)** | Seattle, WA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480c57?utm_source=1065&utm_campaign=git)** | Albany, NY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480ce8?utm_source=1065&utm_campaign=git)** | Bellevue, NE | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480ce9?utm_source=1065&utm_campaign=git)** | Bismarck, ND | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480cdb?utm_source=1065&utm_campaign=git)** | Rochester, NY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5c51acf37e6b2480ce8?utm_source=1065&utm_campaign=git)** | Bellevue, NE | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d5d?utm_source=1065&utm_campaign=git)** | Warwick, RI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d46?utm_source=1065&utm_campaign=git)** | Bloomsburg, PA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d55?utm_source=1065&utm_campaign=git)** | Salt Lake City, UT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d46?utm_source=1065&utm_campaign=git)** | Bloomsburg, PA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d5d?utm_source=1065&utm_campaign=git)** | Warwick, RI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d58?utm_source=1065&utm_campaign=git)** | Biddeford, ME | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d4a?utm_source=1065&utm_campaign=git)** | Kennesaw, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d6d?utm_source=1065&utm_campaign=git)** | Juneau, AK | On Site | Jul 11 |
@@ -255,162 +255,162 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d94?utm_source=1065&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d8c?utm_source=1065&utm_campaign=git)** | Conway, AR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d8f?utm_source=1065&utm_campaign=git)** | Cedar Rapids, IA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d77?utm_source=1065&utm_campaign=git)** | San Diego, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d93?utm_source=1065&utm_campaign=git)** | Meridian, ID | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d77?utm_source=1065&utm_campaign=git)** | San Diego, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480da7?utm_source=1065&utm_campaign=git)** | West Chester, PA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480daa?utm_source=1065&utm_campaign=git)** | Allentown, PA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d98?utm_source=1065&utm_campaign=git)** | Pawtucket, RI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d99?utm_source=1065&utm_campaign=git)** | Norman, OK | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480daa?utm_source=1065&utm_campaign=git)** | Allentown, PA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480dab?utm_source=1065&utm_campaign=git)** | Rock Springs, WY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480db8?utm_source=1065&utm_campaign=git)** | McKinney, TX | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480d99?utm_source=1065&utm_campaign=git)** | Norman, OK | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480dbb?utm_source=1065&utm_campaign=git)** | Whitewater, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480dc8?utm_source=1065&utm_campaign=git)** | Seaford, DE | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480db8?utm_source=1065&utm_campaign=git)** | McKinney, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5cd1acf37e6b2480dc9?utm_source=1065&utm_campaign=git)** | Gulfport, MS | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480dee?utm_source=1065&utm_campaign=git)** | Shreveport, LA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480dde?utm_source=1065&utm_campaign=git)** | Henderson, NV | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480dee?utm_source=1065&utm_campaign=git)** | Shreveport, LA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e09?utm_source=1065&utm_campaign=git)** | Rapid City, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e0d?utm_source=1065&utm_campaign=git)** | Cedar Rapids, IA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e05?utm_source=1065&utm_campaign=git)** | Southaven, MS | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e08?utm_source=1065&utm_campaign=git)** | Northridge, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480dfa?utm_source=1065&utm_campaign=git)** | Davenport, IA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e05?utm_source=1065&utm_campaign=git)** | Southaven, MS | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e26?utm_source=1065&utm_campaign=git)** | Nashua, NH | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e24?utm_source=1065&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e29?utm_source=1065&utm_campaign=git)** | Plymouth, MN | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e30?utm_source=1065&utm_campaign=git)** | Prairie View, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e25?utm_source=1065&utm_campaign=git)** | Conway, AR | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e31?utm_source=1065&utm_campaign=git)** | San Antonio, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e0f?utm_source=1065&utm_campaign=git)** | Bristol, RI | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e29?utm_source=1065&utm_campaign=git)** | Plymouth, MN | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e30?utm_source=1065&utm_campaign=git)** | Prairie View, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e2a?utm_source=1065&utm_campaign=git)** | Greensboro, NC | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e47?utm_source=1065&utm_campaign=git)** | Springfield, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e35?utm_source=1065&utm_campaign=git)** | Worcester, MA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e47?utm_source=1065&utm_campaign=git)** | Springfield, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e52?utm_source=1065&utm_campaign=git)** | Aberdeen, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e50?utm_source=1065&utm_campaign=git)** | Bronx, NY | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e73?utm_source=1065&utm_campaign=git)** | Conway, SC | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e5a?utm_source=1065&utm_campaign=git)** | Hamden, CT | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e63?utm_source=1065&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e60?utm_source=1065&utm_campaign=git)** | Bellevue, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e69?utm_source=1065&utm_campaign=git)** | Houston, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e71?utm_source=1065&utm_campaign=git)** | Paterson, NJ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e73?utm_source=1065&utm_campaign=git)** | Conway, SC | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e63?utm_source=1065&utm_campaign=git)** | Colorado Springs, CO | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e6e?utm_source=1065&utm_campaign=git)** | Racine, WI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e72?utm_source=1065&utm_campaign=git)** | Vancouver, WA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5d51acf37e6b2480e6e?utm_source=1065&utm_campaign=git)** | Racine, WI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480e9f?utm_source=1065&utm_campaign=git)** | Columbia, MO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480ea7?utm_source=1065&utm_campaign=git)** | Kearney, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480eac?utm_source=1065&utm_campaign=git)** | Derry, NH | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480e9d?utm_source=1065&utm_campaign=git)** | Mobile, AL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480eab?utm_source=1065&utm_campaign=git)** | Rock Springs, WY | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480e9f?utm_source=1065&utm_campaign=git)** | Columbia, MO | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480f24?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480f14?utm_source=1065&utm_campaign=git)** | High Point, NC | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480f24?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5dd1acf37e6b2480f33?utm_source=1065&utm_campaign=git)** | Providence, RI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f69?utm_source=1065&utm_campaign=git)** | Iowa City, IA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f80?utm_source=1065&utm_campaign=git)** | Tuscaloosa, AL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f88?utm_source=1065&utm_campaign=git)** | South Portland, ME | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f9b?utm_source=1065&utm_campaign=git)** | Allendale, MI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fac?utm_source=1065&utm_campaign=git)** | Essex Junction, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480faa?utm_source=1065&utm_campaign=git)** | Sacramento, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fa6?utm_source=1065&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fac?utm_source=1065&utm_campaign=git)** | Essex Junction, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fa1?utm_source=1065&utm_campaign=git)** | Jackson, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fa8?utm_source=1065&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f9e?utm_source=1065&utm_campaign=git)** | Clinton, IA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fae?utm_source=1065&utm_campaign=git)** | Oklahoma City, OK | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f9b?utm_source=1065&utm_campaign=git)** | Allendale, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fa2?utm_source=1065&utm_campaign=git)** | Bowling Green, OH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fa3?utm_source=1065&utm_campaign=git)** | Sioux Falls, SD | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f9c?utm_source=1065&utm_campaign=git)** | Kansas City, MO | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fc0?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fc9?utm_source=1065&utm_campaign=git)** | Merced, CA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480f9e?utm_source=1065&utm_campaign=git)** | Clinton, IA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fae?utm_source=1065&utm_campaign=git)** | Oklahoma City, OK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fbe?utm_source=1065&utm_campaign=git)** | Annapolis, MD | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fc9?utm_source=1065&utm_campaign=git)** | Merced, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fbb?utm_source=1065&utm_campaign=git)** | Fresno, CA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fc0?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fb4?utm_source=1065&utm_campaign=git)** | Bangor, ME | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fc4?utm_source=1065&utm_campaign=git)** | Auburn, ME | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ff9?utm_source=1065&utm_campaign=git)** | Geneseo, NY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ff2?utm_source=1065&utm_campaign=git)** | Brockton, MA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481000?utm_source=1065&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ffa?utm_source=1065&utm_campaign=git)** | Mount Pleasant, SC | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481008?utm_source=1065&utm_campaign=git)** | Cleveland, OH | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fd5?utm_source=1065&utm_campaign=git)** | Kansas City, KS | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481000?utm_source=1065&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ff4?utm_source=1065&utm_campaign=git)** | Waterloo, IA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fe6?utm_source=1065&utm_campaign=git)** | Norman, OK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ff7?utm_source=1065&utm_campaign=git)** | Jonesboro, AR | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ff9?utm_source=1065&utm_campaign=git)** | Geneseo, NY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480fd5?utm_source=1065&utm_campaign=git)** | Kansas City, KS | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481003?utm_source=1065&utm_campaign=git)** | Pocatello, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2480ffc?utm_source=1065&utm_campaign=git)** | Potsdam, NY | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481013?utm_source=1065&utm_campaign=git)** | Moscow, ID | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481031?utm_source=1065&utm_campaign=git)** | Pensacola, FL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481035?utm_source=1065&utm_campaign=git)** | Syracuse, NY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481041?utm_source=1065&utm_campaign=git)** | Carson City, NV | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248102c?utm_source=1065&utm_campaign=git)** | Hamden, CT | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481003?utm_source=1065&utm_campaign=git)** | Pocatello, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b248101c?utm_source=1065&utm_campaign=git)** | Berrien Springs, MI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248102c?utm_source=1065&utm_campaign=git)** | Hamden, CT | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481013?utm_source=1065&utm_campaign=git)** | Moscow, ID | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481035?utm_source=1065&utm_campaign=git)** | Syracuse, NY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481031?utm_source=1065&utm_campaign=git)** | Pensacola, FL | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481041?utm_source=1065&utm_campaign=git)** | Carson City, NV | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b2481017?utm_source=1065&utm_campaign=git)** | Denver, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5e51acf37e6b248101d?utm_source=1065&utm_campaign=git)** | Jackson, MS | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481074?utm_source=1065&utm_campaign=git)** | Nashville, TN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248106c?utm_source=1065&utm_campaign=git)** | Broken Arrow, OK | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481058?utm_source=1065&utm_campaign=git)** | Montpelier, VT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481079?utm_source=1065&utm_campaign=git)** | St Louis, MO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248104d?utm_source=1065&utm_campaign=git)** | Nacogdoches, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481078?utm_source=1065&utm_campaign=git)** | Rockville, MD | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481062?utm_source=1065&utm_campaign=git)** | Mobile, AL | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481074?utm_source=1065&utm_campaign=git)** | Nashville, TN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248106c?utm_source=1065&utm_campaign=git)** | Broken Arrow, OK | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481058?utm_source=1065&utm_campaign=git)** | Montpelier, VT | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481073?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481050?utm_source=1065&utm_campaign=git)** | Mount Pleasant, SC | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248105d?utm_source=1065&utm_campaign=git)** | Pearl City, HI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481072?utm_source=1065&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248105a?utm_source=1065&utm_campaign=git)** | Billings, MT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481047?utm_source=1065&utm_campaign=git)** | West Jordan, UT | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481073?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481050?utm_source=1065&utm_campaign=git)** | Mount Pleasant, SC | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481083?utm_source=1065&utm_campaign=git)** | Anchorage, AK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b2481099?utm_source=1065&utm_campaign=git)** | Wilmington, DE | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ae?utm_source=1065&utm_campaign=git)** | Beaumont, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810b2?utm_source=1065&utm_campaign=git)** | Owensboro, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b248109f?utm_source=1065&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ae?utm_source=1065&utm_campaign=git)** | Beaumont, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ab?utm_source=1065&utm_campaign=git)** | Pocatello, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ba?utm_source=1065&utm_campaign=git)** | Seattle, WA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810b0?utm_source=1065&utm_campaign=git)** | Richmond, VA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810c5?utm_source=1065&utm_campaign=git)** | Joliet, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810d4?utm_source=1065&utm_campaign=git)** | Aberdeen, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810df?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ef?utm_source=1065&utm_campaign=git)** | Knoxville, TN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810f3?utm_source=1065&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810f8?utm_source=1065&utm_campaign=git)** | Warren, MI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810f3?utm_source=1065&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5ec1acf37e6b24810ef?utm_source=1065&utm_campaign=git)** | Knoxville, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810f7?utm_source=1065&utm_campaign=git)** | Barre Town, VT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810fc?utm_source=1065&utm_campaign=git)** | Evansville, IN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481100?utm_source=1065&utm_campaign=git)** | Bowling Green, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24810ff?utm_source=1065&utm_campaign=git)** | Montpelier, VT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481100?utm_source=1065&utm_campaign=git)** | Bowling Green, KY | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248112e?utm_source=1065&utm_campaign=git)** | Casper, WY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481141?utm_source=1065&utm_campaign=git)** | Bakersfield, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481134?utm_source=1065&utm_campaign=git)** | Charleston, SC | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481166?utm_source=1065&utm_campaign=git)** | Logan, UT | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248115f?utm_source=1065&utm_campaign=git)** | Wilmington, NC | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248115d?utm_source=1065&utm_campaign=git)** | Birmingham, AL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248112e?utm_source=1065&utm_campaign=git)** | Casper, WY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248114a?utm_source=1065&utm_campaign=git)** | Orlando, FL | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248115f?utm_source=1065&utm_campaign=git)** | Wilmington, NC | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481166?utm_source=1065&utm_campaign=git)** | Logan, UT | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481132?utm_source=1065&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481168?utm_source=1065&utm_campaign=git)** | Macon, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481135?utm_source=1065&utm_campaign=git)** | Rochester, NH | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481132?utm_source=1065&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481192?utm_source=1065&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b2481175?utm_source=1065&utm_campaign=git)** | Bowling Green, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b248118b?utm_source=1065&utm_campaign=git)** | Philadelphia, PA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b7?utm_source=1065&utm_campaign=git)** | Cheyenne, WY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811e4?utm_source=1065&utm_campaign=git)** | Springfield, IL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b3?utm_source=1065&utm_campaign=git)** | Elon, NC | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b7?utm_source=1065&utm_campaign=git)** | Cheyenne, WY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b0?utm_source=1065&utm_campaign=git)** | Hartford, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811df?utm_source=1065&utm_campaign=git)** | Nampa, ID | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811e5?utm_source=1065&utm_campaign=git)** | Bronx, NY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811e1?utm_source=1065&utm_campaign=git)** | Green Bay, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b1?utm_source=1065&utm_campaign=git)** | Springfield, MO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811e9?utm_source=1065&utm_campaign=git)** | Huntsville, AL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481214?utm_source=1065&utm_campaign=git)** | Jersey City, NJ | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5f41acf37e6b24811b0?utm_source=1065&utm_campaign=git)** | Hartford, CT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811df?utm_source=1065&utm_campaign=git)** | Nampa, ID | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481209?utm_source=1065&utm_campaign=git)** | Mount Pleasant, MI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248121b?utm_source=1065&utm_campaign=git)** | Trenton, NJ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811f6?utm_source=1065&utm_campaign=git)** | Gulfport, MS | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481206?utm_source=1065&utm_campaign=git)** | New Haven, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481221?utm_source=1065&utm_campaign=git)** | Jefferson City, MO | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248121b?utm_source=1065&utm_campaign=git)** | Trenton, NJ | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481214?utm_source=1065&utm_campaign=git)** | Jersey City, NJ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248121e?utm_source=1065&utm_campaign=git)** | Frankfort, KY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b24811f1?utm_source=1065&utm_campaign=git)** | Aurora, CO | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481206?utm_source=1065&utm_campaign=git)** | New Haven, CT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481221?utm_source=1065&utm_campaign=git)** | Jefferson City, MO | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248123e?utm_source=1065&utm_campaign=git)** | Melbourne, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248124b?utm_source=1065&utm_campaign=git)** | Flint, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481236?utm_source=1065&utm_campaign=git)** | Louisville, KY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248123e?utm_source=1065&utm_campaign=git)** | Melbourne, FL | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481231?utm_source=1065&utm_campaign=git)** | Mesa, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481244?utm_source=1065&utm_campaign=git)** | Glendale, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248122f?utm_source=1065&utm_campaign=git)** | Brookings, SD | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481231?utm_source=1065&utm_campaign=git)** | Mesa, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481255?utm_source=1065&utm_campaign=git)** | Laramie, WY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481251?utm_source=1065&utm_campaign=git)** | Kenner, LA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248125d?utm_source=1065&utm_campaign=git)** | Chico, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481252?utm_source=1065&utm_campaign=git)** | Great Falls, MT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248125d?utm_source=1065&utm_campaign=git)** | Chico, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b248126a?utm_source=1065&utm_campaign=git)** | Duluth, MN | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481274?utm_source=1065&utm_campaign=git)** | Corpus Christi, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b5fc1acf37e6b2481277?utm_source=1065&utm_campaign=git)** | Las Cruces, NM | On Site | Jul 11 |
@@ -418,25 +418,25 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b2481292?utm_source=1065&utm_campaign=git)** | Omaha, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b248128c?utm_source=1065&utm_campaign=git)** | Edmond, OK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b248129b?utm_source=1065&utm_campaign=git)** | West Chester, PA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812ab?utm_source=1065&utm_campaign=git)** | Lincoln, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812b0?utm_source=1065&utm_campaign=git)** | Boise, ID | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812ab?utm_source=1065&utm_campaign=git)** | Lincoln, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812a9?utm_source=1065&utm_campaign=git)** | Richmond, VA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812a2?utm_source=1065&utm_campaign=git)** | Binghamton, NY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b248129d?utm_source=1065&utm_campaign=git)** | Lawton, OK | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812a2?utm_source=1065&utm_campaign=git)** | Binghamton, NY | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812cb?utm_source=1065&utm_campaign=git)** | Chandler, AZ | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812ca?utm_source=1065&utm_campaign=git)** | San Luis Obispo, CA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812d6?utm_source=1065&utm_campaign=git)** | Bowie, MD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812d2?utm_source=1065&utm_campaign=git)** | Virginia Beach, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812bc?utm_source=1065&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812c9?utm_source=1065&utm_campaign=git)** | Joliet, IL | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812cb?utm_source=1065&utm_campaign=git)** | Chandler, AZ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812ca?utm_source=1065&utm_campaign=git)** | San Luis Obispo, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812be?utm_source=1065&utm_campaign=git)** | Aurora, CO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812ce?utm_source=1065&utm_campaign=git)** | Beaumont, TX | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812e2?utm_source=1065&utm_campaign=git)** | Shreveport, LA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812de?utm_source=1065&utm_campaign=git)** | Honolulu, HI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b24812e2?utm_source=1065&utm_campaign=git)** | Shreveport, LA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b248130d?utm_source=1065&utm_campaign=git)** | Virginia Beach, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6041acf37e6b248133a?utm_source=1065&utm_campaign=git)** | Yonkers, NY | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481371?utm_source=1065&utm_campaign=git)** | Norfolk, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481352?utm_source=1065&utm_campaign=git)** | Frederick, MD | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481371?utm_source=1065&utm_campaign=git)** | Norfolk, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481380?utm_source=1065&utm_campaign=git)** | Juneau, AK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b248139a?utm_source=1065&utm_campaign=git)** | Laramie, WY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b24813a0?utm_source=1065&utm_campaign=git)** | Minot, ND | On Site | Jul 11 |
@@ -447,96 +447,96 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b24813fd?utm_source=1065&utm_campaign=git)** | Commerce, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b248140c?utm_source=1065&utm_campaign=git)** | Anchorage, AK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b24813fb?utm_source=1065&utm_campaign=git)** | Parkersburg, WV | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481445?utm_source=1065&utm_campaign=git)** | Springdale, AR | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481419?utm_source=1065&utm_campaign=git)** | Santa Fe, NM | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481435?utm_source=1065&utm_campaign=git)** | Albany, NY | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481420?utm_source=1065&utm_campaign=git)** | Carrollton, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248142b?utm_source=1065&utm_campaign=git)** | Lawton, OK | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481435?utm_source=1065&utm_campaign=git)** | Albany, NY | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481419?utm_source=1065&utm_campaign=git)** | Santa Fe, NM | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481445?utm_source=1065&utm_campaign=git)** | Springdale, AR | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481448?utm_source=1065&utm_campaign=git)** | Kansas City, MO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248142a?utm_source=1065&utm_campaign=git)** | Columbus, OH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248143d?utm_source=1065&utm_campaign=git)** | Hattiesburg, MS | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481420?utm_source=1065&utm_campaign=git)** | Carrollton, GA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481410?utm_source=1065&utm_campaign=git)** | Terre Haute, IN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481414?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481438?utm_source=1065&utm_campaign=git)** | Lake Charles, LA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481422?utm_source=1065&utm_campaign=git)** | Reading, PA | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481453?utm_source=1065&utm_campaign=git)** | Gaithersburg, MD | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248146c?utm_source=1065&utm_campaign=git)** | Greeley, CO | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b60c1acf37e6b2481410?utm_source=1065&utm_campaign=git)** | Terre Haute, IN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481414?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248145c?utm_source=1065&utm_campaign=git)** | Murfreesboro, TN | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481464?utm_source=1065&utm_campaign=git)** | Helena, MT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481453?utm_source=1065&utm_campaign=git)** | Gaithersburg, MD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481466?utm_source=1065&utm_campaign=git)** | Springfield, MO | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481462?utm_source=1065&utm_campaign=git)** | Carson City, NV | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481452?utm_source=1065&utm_campaign=git)** | Overland Park, KS | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248146c?utm_source=1065&utm_campaign=git)** | Greeley, CO | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481464?utm_source=1065&utm_campaign=git)** | Helena, MT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481454?utm_source=1065&utm_campaign=git)** | New Haven, CT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481450?utm_source=1065&utm_campaign=git)** | Santa Fe, NM | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248145d?utm_source=1065&utm_campaign=git)** | New Brunswick, NJ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248144c?utm_source=1065&utm_campaign=git)** | Lake Worth, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248145e?utm_source=1065&utm_campaign=git)** | Grand Forks, ND | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481462?utm_source=1065&utm_campaign=git)** | Carson City, NV | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481452?utm_source=1065&utm_campaign=git)** | Overland Park, KS | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481478?utm_source=1065&utm_campaign=git)** | Kalamazoo, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481470?utm_source=1065&utm_campaign=git)** | Wellesley, MA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481484?utm_source=1065&utm_campaign=git)** | Lansing, MI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481478?utm_source=1065&utm_campaign=git)** | Kalamazoo, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481479?utm_source=1065&utm_campaign=git)** | Wilmington, DE | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b248146f?utm_source=1065&utm_campaign=git)** | Savannah, GA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814a3?utm_source=1065&utm_campaign=git)** | Providence, RI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481489?utm_source=1065&utm_campaign=git)** | St Cloud, MN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814c1?utm_source=1065&utm_campaign=git)** | El Paso, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814a4?utm_source=1065&utm_campaign=git)** | Hampton, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481495?utm_source=1065&utm_campaign=git)** | Boca Raton, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481493?utm_source=1065&utm_campaign=git)** | Lexington, KY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481488?utm_source=1065&utm_campaign=git)** | Milford, DE | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814a3?utm_source=1065&utm_campaign=git)** | Providence, RI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814bd?utm_source=1065&utm_campaign=git)** | Memphis, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814b0?utm_source=1065&utm_campaign=git)** | Jonesboro, AR | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814c1?utm_source=1065&utm_campaign=git)** | El Paso, TX | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481489?utm_source=1065&utm_campaign=git)** | St Cloud, MN | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814a5?utm_source=1065&utm_campaign=git)** | Boise, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814b6?utm_source=1065&utm_campaign=git)** | Casper, WY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814b5?utm_source=1065&utm_campaign=git)** | Brookings, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b2481497?utm_source=1065&utm_campaign=git)** | Roswell, NM | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814a5?utm_source=1065&utm_campaign=git)** | Boise, ID | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814d4?utm_source=1065&utm_campaign=git)** | San Marcos, TX | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814fe?utm_source=1065&utm_campaign=git)** | Lake Charles, LA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814f2?utm_source=1065&utm_campaign=git)** | Trenton, NJ | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814e9?utm_source=1065&utm_campaign=git)** | Springfield, MA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814c6?utm_source=1065&utm_campaign=git)** | South Portland, ME | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814d9?utm_source=1065&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814f8?utm_source=1065&utm_campaign=git)** | Fargo, ND | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814ee?utm_source=1065&utm_campaign=git)** | Bellingham, WA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814ea?utm_source=1065&utm_campaign=git)** | Montgomery, AL | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814dc?utm_source=1065&utm_campaign=git)** | Berrien Springs, MI | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814e1?utm_source=1065&utm_campaign=git)** | Lawrenceville, GA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814ee?utm_source=1065&utm_campaign=git)** | Bellingham, WA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814fe?utm_source=1065&utm_campaign=git)** | Lake Charles, LA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814e9?utm_source=1065&utm_campaign=git)** | Springfield, MA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814d4?utm_source=1065&utm_campaign=git)** | San Marcos, TX | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814f2?utm_source=1065&utm_campaign=git)** | Trenton, NJ | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814d9?utm_source=1065&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814f4?utm_source=1065&utm_campaign=git)** | Chicago, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6141acf37e6b24814cd?utm_source=1065&utm_campaign=git)** | Overland Park, KS | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481504?utm_source=1065&utm_campaign=git)** | Hialeah, FL | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481505?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481523?utm_source=1065&utm_campaign=git)** | Harrisburg, PA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814dc?utm_source=1065&utm_campaign=git)** | Berrien Springs, MI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814e1?utm_source=1065&utm_campaign=git)** | Lawrenceville, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248150b?utm_source=1065&utm_campaign=git)** | Green Bay, WI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481523?utm_source=1065&utm_campaign=git)** | Harrisburg, PA | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481511?utm_source=1065&utm_campaign=git)** | Rapid City, SD | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481504?utm_source=1065&utm_campaign=git)** | Hialeah, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481502?utm_source=1065&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481505?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481529?utm_source=1065&utm_campaign=git)** | Raleigh, NC | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481517?utm_source=1065&utm_campaign=git)** | Norwalk, CT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481511?utm_source=1065&utm_campaign=git)** | Rapid City, SD | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814ff?utm_source=1065&utm_campaign=git)** | Flagstaff, AZ | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481518?utm_source=1065&utm_campaign=git)** | Arlington, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248151b?utm_source=1065&utm_campaign=git)** | Orem, UT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248151d?utm_source=1065&utm_campaign=git)** | Clinton, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248152a?utm_source=1065&utm_campaign=git)** | Pittsburg, KS | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24814ff?utm_source=1065&utm_campaign=git)** | Flagstaff, AZ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481518?utm_source=1065&utm_campaign=git)** | Arlington, TX | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248153a?utm_source=1065&utm_campaign=git)** | Harrisonburg, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b2481545?utm_source=1065&utm_campaign=git)** | Laredo, TX | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248154b?utm_source=1065&utm_campaign=git)** | Coeur d'Alene, ID | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248154f?utm_source=1065&utm_campaign=git)** | El Paso, TX | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248153a?utm_source=1065&utm_campaign=git)** | Harrisonburg, VA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248154a?utm_source=1065&utm_campaign=git)** | Rexburg, ID | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248154f?utm_source=1065&utm_campaign=git)** | El Paso, TX | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248154b?utm_source=1065&utm_campaign=git)** | Coeur d'Alene, ID | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b24815be?utm_source=1065&utm_campaign=git)** | Madison, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b24815a1?utm_source=1065&utm_campaign=git)** | New Brunswick, NJ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b61c1acf37e6b248159e?utm_source=1065&utm_campaign=git)** | Manchester, NH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b24815d1?utm_source=1065&utm_campaign=git)** | Nashua, NH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b24815cd?utm_source=1065&utm_campaign=git)** | Lewiston, ME | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b24815d0?utm_source=1065&utm_campaign=git)** | Meridian, MS | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b2481633?utm_source=1065&utm_campaign=git)** | Tuscaloosa, AL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b2481619?utm_source=1065&utm_campaign=git)** | Columbia, MO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b248162e?utm_source=1065&utm_campaign=git)** | Warwick, RI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b2481633?utm_source=1065&utm_campaign=git)** | Tuscaloosa, AL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b2481617?utm_source=1065&utm_campaign=git)** | Murfreesboro, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6241acf37e6b2481630?utm_source=1065&utm_campaign=git)** | Kenosha, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386ec?utm_source=1065&utm_campaign=git)** | Edmond, OK | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386f1?utm_source=1065&utm_campaign=git)** | Flint, MI | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386f9?utm_source=1065&utm_campaign=git)** | Rutland, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38706?utm_source=1065&utm_campaign=git)** | Bowling Green, OH | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386f4?utm_source=1065&utm_campaign=git)** | Rochester, MN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386ed?utm_source=1065&utm_campaign=git)** | San Marcos, TX | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c386f9?utm_source=1065&utm_campaign=git)** | Rutland, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38717?utm_source=1065&utm_campaign=git)** | Huntington, WV | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38714?utm_source=1065&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3872b?utm_source=1065&utm_campaign=git)** | Fort Wayne, IN | On Site | Jul 11 |
@@ -546,8 +546,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3874c?utm_source=1065&utm_campaign=git)** | Erie, PA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3874f?utm_source=1065&utm_campaign=git)** | New Orleans, LA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3874d?utm_source=1065&utm_campaign=git)** | Edison, NJ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38746?utm_source=1065&utm_campaign=git)** | Melbourne, FL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38753?utm_source=1065&utm_campaign=git)** | Portland, OR | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38746?utm_source=1065&utm_campaign=git)** | Melbourne, FL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3875e?utm_source=1065&utm_campaign=git)** | Madison, WI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38763?utm_source=1065&utm_campaign=git)** | Oklahoma City, OK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38768?utm_source=1065&utm_campaign=git)** | Baltimore, MD | On Site | Jul 11 |
@@ -563,11 +563,11 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38790?utm_source=1065&utm_campaign=git)** | Fort Smith, AR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3878d?utm_source=1065&utm_campaign=git)** | Honolulu, HI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3878f?utm_source=1065&utm_campaign=git)** | Largo, MD | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387af?utm_source=1065&utm_campaign=git)** | Kenosha, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c38791?utm_source=1065&utm_campaign=git)** | Miami, FL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c38795?utm_source=1065&utm_campaign=git)** | Gresham, OR | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae09714748cce6c3878a?utm_source=1065&utm_campaign=git)** | Vestal, NY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c3879f?utm_source=1065&utm_campaign=git)** | Rochester, MN | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387af?utm_source=1065&utm_campaign=git)** | Kenosha, WI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387d7?utm_source=1065&utm_campaign=git)** | Kansas City, KS | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387d4?utm_source=1065&utm_campaign=git)** | Tucson, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387da?utm_source=1065&utm_campaign=git)** | Fayetteville, AR | On Site | Jul 11 |
@@ -577,11 +577,11 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387c1?utm_source=1065&utm_campaign=git)** | Orlando, FL | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387dc?utm_source=1065&utm_campaign=git)** | Fairbanks, AK | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387cb?utm_source=1065&utm_campaign=git)** | Williamsburg, VA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387fd?utm_source=1065&utm_campaign=git)** | Bozeman, MT | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387f8?utm_source=1065&utm_campaign=git)** | Flagstaff, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387e1?utm_source=1065&utm_campaign=git)** | Annapolis, MD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c38809?utm_source=1065&utm_campaign=git)** | Topeka, KS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c38804?utm_source=1065&utm_campaign=git)** | Wellesley, MA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387fd?utm_source=1065&utm_campaign=git)** | Bozeman, MT | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c387f8?utm_source=1065&utm_campaign=git)** | Flagstaff, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c3881e?utm_source=1065&utm_campaign=git)** | Waipahu, HI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c3882e?utm_source=1065&utm_campaign=git)** | Kenner, LA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae11714748cce6c38829?utm_source=1065&utm_campaign=git)** | Hagerstown, MD | On Site | Jul 11 |
@@ -618,7 +618,6 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3887a?utm_source=1065&utm_campaign=git)** | Knoxville, TN | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3887b?utm_source=1065&utm_campaign=git)** | Lowell, MA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3889f?utm_source=1065&utm_campaign=git)** | Wheeling, WV | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3889a?utm_source=1065&utm_campaign=git)** | Thornton, CO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388a8?utm_source=1065&utm_campaign=git)** | Logan, UT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388a5?utm_source=1065&utm_campaign=git)** | Rochester Hills, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c38891?utm_source=1065&utm_campaign=git)** | Tallahassee, FL | On Site | Jul 11 |
@@ -626,6 +625,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388a0?utm_source=1065&utm_campaign=git)** | Grand Island, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c38893?utm_source=1065&utm_campaign=git)** | Rock Hill, SC | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388a6?utm_source=1065&utm_campaign=git)** | Detroit, MI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3889a?utm_source=1065&utm_campaign=git)** | Thornton, CO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388c8?utm_source=1065&utm_campaign=git)** | Wichita, KS | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388b0?utm_source=1065&utm_campaign=git)** | Eugene, OR | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388ac?utm_source=1065&utm_campaign=git)** | Independence, MO | On Site | Jul 11 |
@@ -649,8 +649,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3890a?utm_source=1065&utm_campaign=git)** | Colchester, VT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388f2?utm_source=1065&utm_campaign=git)** | Barre Town, VT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c38905?utm_source=1065&utm_campaign=git)** | Missoula, MT | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3891c?utm_source=1065&utm_campaign=git)** | Kennesaw, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c388f8?utm_source=1065&utm_campaign=git)** | Chesapeake, VA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae19714748cce6c3891c?utm_source=1065&utm_campaign=git)** | Kennesaw, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c38943?utm_source=1065&utm_campaign=git)** | Billings, MT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c3893e?utm_source=1065&utm_campaign=git)** | Fairbanks, AK | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c38938?utm_source=1065&utm_campaign=git)** | Hampton, VA | On Site | Jul 11 |
@@ -665,9 +665,9 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389c1?utm_source=1065&utm_campaign=git)** | Baton Rouge, LA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389e9?utm_source=1065&utm_campaign=git)** | Warren, MI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389d7?utm_source=1065&utm_campaign=git)** | San Jose, CA | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389d5?utm_source=1065&utm_campaign=git)** | Aberdeen, SD | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389e1?utm_source=1065&utm_campaign=git)** | Kennesaw, GA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389e0?utm_source=1065&utm_campaign=git)** | Hartford, CT | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae21714748cce6c389d5?utm_source=1065&utm_campaign=git)** | Aberdeen, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c389fc?utm_source=1065&utm_campaign=git)** | Fort Collins, CO | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c389f6?utm_source=1065&utm_campaign=git)** | Worcester, MA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c389f7?utm_source=1065&utm_campaign=git)** | Bozeman, MT | On Site | Jul 11 |
@@ -691,13 +691,12 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a41?utm_source=1065&utm_campaign=git)** | Sparks, NV | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a42?utm_source=1065&utm_campaign=git)** | Hot Springs, AR | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a4d?utm_source=1065&utm_campaign=git)** | Worcester, MA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a48?utm_source=1065&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a50?utm_source=1065&utm_campaign=git)** | Sioux Falls, SD | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a43?utm_source=1065&utm_campaign=git)** | Helena, MT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a54?utm_source=1065&utm_campaign=git)** | Pomona, CA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a48?utm_source=1065&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a66?utm_source=1065&utm_campaign=git)** | Bridgeport, CT | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a57?utm_source=1065&utm_campaign=git)** | Corpus Christi, TX | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a5a?utm_source=1065&utm_campaign=git)** | Auburn, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a68?utm_source=1065&utm_campaign=git)** | Grand Forks, ND | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a65?utm_source=1065&utm_campaign=git)** | Huntington, WV | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a63?utm_source=1065&utm_campaign=git)** | New Orleans, LA | On Site | Jul 11 |
@@ -705,6 +704,7 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a60?utm_source=1065&utm_campaign=git)** | Mililani Town, HI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a69?utm_source=1065&utm_campaign=git)** | Sioux City, IA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a59?utm_source=1065&utm_campaign=git)** | Cambridge, MA | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a5a?utm_source=1065&utm_campaign=git)** | Auburn, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a79?utm_source=1065&utm_campaign=git)** | Commerce, TX | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a7b?utm_source=1065&utm_campaign=git)** | Danbury, CT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38a74?utm_source=1065&utm_campaign=git)** | Tupelo, MS | On Site | Jul 11 |
@@ -740,8 +740,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae28714748cce6c38ab2?utm_source=1065&utm_campaign=git)** | The Woodlands, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ac8?utm_source=1065&utm_campaign=git)** | Orem, UT | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ab9?utm_source=1065&utm_campaign=git)** | Meridian, ID | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ac9?utm_source=1065&utm_campaign=git)** | Queens, NY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ad9?utm_source=1065&utm_campaign=git)** | Henderson, NV | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ac9?utm_source=1065&utm_campaign=git)** | Queens, NY | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ae0?utm_source=1065&utm_campaign=git)** | Pearl City, HI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38ae2?utm_source=1065&utm_campaign=git)** | Biloxi, MS | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38aed?utm_source=1065&utm_campaign=git)** | North Dartmouth, MA | On Site | Jul 11 |
@@ -754,22 +754,21 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b34?utm_source=1065&utm_campaign=git)** | Geneseo, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b5f?utm_source=1065&utm_campaign=git)** | Springfield, IL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b71?utm_source=1065&utm_campaign=git)** | Pensacola, FL | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b62?utm_source=1065&utm_campaign=git)** | Covington, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b61?utm_source=1065&utm_campaign=git)** | Wheeling, WV | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b64?utm_source=1065&utm_campaign=git)** | Terre Haute, IN | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b62?utm_source=1065&utm_campaign=git)** | Covington, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b7f?utm_source=1065&utm_campaign=git)** | Jackson, MS | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b7b?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b7d?utm_source=1065&utm_campaign=git)** | Beaumont, TX | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b78?utm_source=1065&utm_campaign=git)** | Paterson, NJ | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b89?utm_source=1065&utm_campaign=git)** | Edison, NJ | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b7c?utm_source=1065&utm_campaign=git)** | Owensboro, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae30714748cce6c38b77?utm_source=1065&utm_campaign=git)** | Pocatello, ID | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b7c?utm_source=1065&utm_campaign=git)** | Owensboro, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b9c?utm_source=1065&utm_campaign=git)** | Lawrenceville, GA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38ba1?utm_source=1065&utm_campaign=git)** | Rockford, IL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b9a?utm_source=1065&utm_campaign=git)** | Elizabeth, NJ | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38ba2?utm_source=1065&utm_campaign=git)** | Boca Raton, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b99?utm_source=1065&utm_campaign=git)** | Des Moines, IA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38b9e?utm_source=1065&utm_campaign=git)** | Chattanooga, TN | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38ba2?utm_source=1065&utm_campaign=git)** | Boca Raton, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38ba6?utm_source=1065&utm_campaign=git)** | Grand Rapids, MI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38bb2?utm_source=1065&utm_campaign=git)** | Warwick, RI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38bbf?utm_source=1065&utm_campaign=git)** | Boise, ID | On Site | Jul 11 |
@@ -785,25 +784,25 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c09?utm_source=1065&utm_campaign=git)** | Mount Pleasant, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38bf1?utm_source=1065&utm_campaign=git)** | Boone, NC | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c01?utm_source=1065&utm_campaign=git)** | Athens, GA | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c03?utm_source=1065&utm_campaign=git)** | Queens, NY | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38bf4?utm_source=1065&utm_campaign=git)** | Fresno, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c07?utm_source=1065&utm_campaign=git)** | Fort Collins, CO | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c08?utm_source=1065&utm_campaign=git)** | Jersey City, NJ | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c03?utm_source=1065&utm_campaign=git)** | Queens, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c1d?utm_source=1065&utm_campaign=git)** | Las Vegas, NV | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c12?utm_source=1065&utm_campaign=git)** | Columbus, GA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c26?utm_source=1065&utm_campaign=git)** | Stockton, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c19?utm_source=1065&utm_campaign=git)** | Mililani Town, HI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c0d?utm_source=1065&utm_campaign=git)** | Whitewater, WI | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c1c?utm_source=1065&utm_campaign=git)** | Concord, NH | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c1e?utm_source=1065&utm_campaign=git)** | Mesa, AZ | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c21?utm_source=1065&utm_campaign=git)** | Lewiston, ME | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c1c?utm_source=1065&utm_campaign=git)** | Concord, NH | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c2c?utm_source=1065&utm_campaign=git)** | Cranston, RI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c36?utm_source=1065&utm_campaign=git)** | Biddeford, ME | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c39?utm_source=1065&utm_campaign=git)** | Chicago, IL | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c37?utm_source=1065&utm_campaign=git)** | Elizabeth, NJ | On Site | Jul 11 |
-| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c2a?utm_source=1065&utm_campaign=git)** | Portland, ME | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c3f?utm_source=1065&utm_campaign=git)** | Hammond, IN | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c2f?utm_source=1065&utm_campaign=git)** | McKinney, TX | On Site | Jul 11 |
+| ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae37714748cce6c38c2a?utm_source=1065&utm_campaign=git)** | Portland, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c50?utm_source=1065&utm_campaign=git)** | Eugene, OR | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c4e?utm_source=1065&utm_campaign=git)** | San Diego, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c53?utm_source=1065&utm_campaign=git)** | Bellevue, WA | On Site | Jul 11 |
@@ -826,18 +825,18 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c87?utm_source=1065&utm_campaign=git)** | Scottsdale, AZ | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c95?utm_source=1065&utm_campaign=git)** | Milford, DE | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c96?utm_source=1065&utm_campaign=git)** | Harrisonburg, VA | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38ca0?utm_source=1065&utm_campaign=git)** | Detroit, MI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38c98?utm_source=1065&utm_campaign=git)** | Norfolk, VA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38ca0?utm_source=1065&utm_campaign=git)** | Detroit, MI | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38ca6?utm_source=1065&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cd2?utm_source=1065&utm_campaign=git)** | Biloxi, MS | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cbd?utm_source=1065&utm_campaign=git)** | Knoxville, TN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cc1?utm_source=1065&utm_campaign=git)** | Broken Arrow, OK | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cef?utm_source=1065&utm_campaign=git)** | Kansas City, MO | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cfc?utm_source=1065&utm_campaign=git)** | Toledo, OH | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38d05?utm_source=1065&utm_campaign=git)** | Grand Island, NE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cf7?utm_source=1065&utm_campaign=git)** | Brockton, MA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38d04?utm_source=1065&utm_campaign=git)** | Harrisburg, PA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38ce4?utm_source=1065&utm_campaign=git)** | Huntsville, AL | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae3f714748cce6c38cfc?utm_source=1065&utm_campaign=git)** | Toledo, OH | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae47714748cce6c38d18?utm_source=1065&utm_campaign=git)** | Macon, GA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae47714748cce6c38d1c?utm_source=1065&utm_campaign=git)** | Smyrna, DE | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae47714748cce6c38d3c?utm_source=1065&utm_campaign=git)** | Concord, NH | On Site | Jul 11 |
@@ -895,14 +894,14 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f03?utm_source=1065&utm_campaign=git)** | Queens, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f35?utm_source=1065&utm_campaign=git)** | Danbury, CT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f18?utm_source=1065&utm_campaign=git)** | Oklahoma City, OK | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f15?utm_source=1065&utm_campaign=git)** | Waipahu, HI | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f22?utm_source=1065&utm_campaign=git)** | Barre Town, VT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f1a?utm_source=1065&utm_campaign=git)** | Sterling Heights, MI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f11?utm_source=1065&utm_campaign=git)** | Idaho Falls, ID | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f2c?utm_source=1065&utm_campaign=git)** | Murfreesboro, TN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f10?utm_source=1065&utm_campaign=git)** | Tucson, AZ | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f44?utm_source=1065&utm_campaign=git)** | Largo, MD | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f15?utm_source=1065&utm_campaign=git)** | Waipahu, HI | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f22?utm_source=1065&utm_campaign=git)** | Barre Town, VT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f3e?utm_source=1065&utm_campaign=git)** | Hattiesburg, MS | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae56714748cce6c38f44?utm_source=1065&utm_campaign=git)** | Largo, MD | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae5e714748cce6c38f65?utm_source=1065&utm_campaign=git)** | Orlando, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae5e714748cce6c38f6a?utm_source=1065&utm_campaign=git)** | South Portland, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae5e714748cce6c38f94?utm_source=1065&utm_campaign=git)** | Tuscaloosa, AL | On Site | Jul 11 |
@@ -948,8 +947,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390d2?utm_source=1065&utm_campaign=git)** | Auburn, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390c4?utm_source=1065&utm_campaign=git)** | Sacramento, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390d0?utm_source=1065&utm_campaign=git)** | Edmond, OK | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390d9?utm_source=1065&utm_campaign=git)** | Rochester Hills, MI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390c5?utm_source=1065&utm_campaign=git)** | Allendale, MI | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390d9?utm_source=1065&utm_campaign=git)** | Rochester Hills, MI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390f0?utm_source=1065&utm_campaign=git)** | Moscow, ID | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390e6?utm_source=1065&utm_campaign=git)** | Alamogordo, NM | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae66714748cce6c390e2?utm_source=1065&utm_campaign=git)** | Bellevue, NE | On Site | Jul 11 |
@@ -959,8 +958,8 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c39160?utm_source=1065&utm_campaign=git)** | Augusta, ME | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c39176?utm_source=1065&utm_campaign=git)** | Sparks, NV | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c3917c?utm_source=1065&utm_campaign=git)** | Racine, WI | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c39174?utm_source=1065&utm_campaign=git)** | Corpus Christi, TX | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c39187?utm_source=1065&utm_campaign=git)** | Cranston, RI | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c39174?utm_source=1065&utm_campaign=git)** | Corpus Christi, TX | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c391a2?utm_source=1065&utm_campaign=git)** | Brockton, MA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c391b6?utm_source=1065&utm_campaign=git)** | Racine, WI | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690ae6e714748cce6c391a0?utm_source=1065&utm_campaign=git)** | Greensboro, NC | On Site | Jul 11 |
@@ -997,10 +996,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c392a5?utm_source=1065&utm_campaign=git)** | Conway, SC | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c39287?utm_source=1065&utm_campaign=git)** | Lake Charles, LA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c39285?utm_source=1065&utm_campaign=git)** | Bakersfield, CA | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c39291?utm_source=1065&utm_campaign=git)** | Indiana, PA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c3929d?utm_source=1065&utm_campaign=git)** | Wellesley, MA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c39290?utm_source=1065&utm_campaign=git)** | Annapolis, MD | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae75714748cce6c3927b?utm_source=1065&utm_campaign=git)** | Augusta, GA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c39291?utm_source=1065&utm_campaign=git)** | Indiana, PA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c392cd?utm_source=1065&utm_campaign=git)** | Davenport, IA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c392ad?utm_source=1065&utm_campaign=git)** | Salem, OR | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae7d714748cce6c392d8?utm_source=1065&utm_campaign=git)** | Buffalo, NY | On Site | Jul 11 |
@@ -1021,11 +1020,11 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393e7?utm_source=1065&utm_campaign=git)** | Portland, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393e2?utm_source=1065&utm_campaign=git)** | Missoula, MT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393ec?utm_source=1065&utm_campaign=git)** | Norman, OK | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393f8?utm_source=1065&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393df?utm_source=1065&utm_campaign=git)** | Cleveland, OH | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393e1?utm_source=1065&utm_campaign=git)** | Fort Smith, AR | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393e8?utm_source=1065&utm_campaign=git)** | Rutland, VT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c39403?utm_source=1065&utm_campaign=git)** | Charleston, SC | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c393f8?utm_source=1065&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae85714748cce6c3940d?utm_source=1065&utm_campaign=git)** | Lynchburg, VA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39418?utm_source=1065&utm_campaign=git)** | Frankfort, KY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3941f?utm_source=1065&utm_campaign=git)** | Conway, AR | On Site | Jul 11 |
@@ -1045,10 +1044,10 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39451?utm_source=1065&utm_campaign=git)** | Denver, CO | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39469?utm_source=1065&utm_campaign=git)** | Topeka, KS | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3945e?utm_source=1065&utm_campaign=git)** | Charlotte, NC | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39466?utm_source=1065&utm_campaign=git)** | Mount Pleasant, SC | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39460?utm_source=1065&utm_campaign=git)** | San Marcos, TX | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3946a?utm_source=1065&utm_campaign=git)** | Bristol, RI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3945b?utm_source=1065&utm_campaign=git)** | Huntington, WV | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39466?utm_source=1065&utm_campaign=git)** | Mount Pleasant, SC | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39476?utm_source=1065&utm_campaign=git)** | South Bend, IN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3947b?utm_source=1065&utm_campaign=git)** | Lewiston, ME | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39478?utm_source=1065&utm_campaign=git)** | Trenton, NJ | On Site | Jul 11 |
@@ -1056,17 +1055,17 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c3947c?utm_source=1065&utm_campaign=git)** | Tampa, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39472?utm_source=1065&utm_campaign=git)** | Norwalk, CT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690ae8d714748cce6c39498?utm_source=1065&utm_campaign=git)** | Baltimore, MD | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b2481691?utm_source=1065&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816a4?utm_source=1065&utm_campaign=git)** | Seattle, WA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816a0?utm_source=1065&utm_campaign=git)** | Frederick, MD | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b2481691?utm_source=1065&utm_campaign=git)** | Atlanta, GA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816b8?utm_source=1065&utm_campaign=git)** | Meridian, ID | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816d5?utm_source=1065&utm_campaign=git)** | Binghamton, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816cc?utm_source=1065&utm_campaign=git)** | Jacksonville, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816dc?utm_source=1065&utm_campaign=git)** | Fargo, ND | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b62c1acf37e6b24816f4?utm_source=1065&utm_campaign=git)** | Annandale, VA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481768?utm_source=1065&utm_campaign=git)** | Montpelier, VT | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481766?utm_source=1065&utm_campaign=git)** | Birmingham, AL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b248176b?utm_source=1065&utm_campaign=git)** | Springfield, MA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481766?utm_source=1065&utm_campaign=git)** | Birmingham, AL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481790?utm_source=1065&utm_campaign=git)** | Melbourne, FL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481780?utm_source=1065&utm_campaign=git)** | Helena, MT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b248178e?utm_source=1065&utm_campaign=git)** | Memphis, TN | On Site | Jul 11 |
@@ -1074,49 +1073,50 @@ For a complete list, see the full spreadsheet below:
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b248177a?utm_source=1065&utm_campaign=git)** | Independence, MO | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481795?utm_source=1065&utm_campaign=git)** | Springfield, MO | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b2481784?utm_source=1065&utm_campaign=git)** | Providence, RI | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b6?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b4?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b7?utm_source=1065&utm_campaign=git)** | Vancouver, WA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b4?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b6?utm_source=1065&utm_campaign=git)** | Newark, NJ | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817a3?utm_source=1065&utm_campaign=git)** | Laredo, TX | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817b9?utm_source=1065&utm_campaign=git)** | Nampa, ID | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817e6?utm_source=1065&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817c9?utm_source=1065&utm_campaign=git)** | Ogden, UT | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817e7?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817e6?utm_source=1065&utm_campaign=git)** | Albuquerque, NM | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817cc?utm_source=1065&utm_campaign=git)** | Seaford, DE | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b24817fd?utm_source=1065&utm_campaign=git)** | Pawtucket, RI | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817f1?utm_source=1065&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817e7?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817fa?utm_source=1065&utm_campaign=git)** | Tacoma, WA | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248180b?utm_source=1065&utm_campaign=git)** | Raleigh, NC | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b24817fe?utm_source=1065&utm_campaign=git)** | Tupelo, MS | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817f4?utm_source=1065&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248180b?utm_source=1065&utm_campaign=git)** | Raleigh, NC | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817f1?utm_source=1065&utm_campaign=git)** | Ann Arbor, MI | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b24817fd?utm_source=1065&utm_campaign=git)** | Pawtucket, RI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248180f?utm_source=1065&utm_campaign=git)** | Evansville, IN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481803?utm_source=1065&utm_campaign=git)** | Edwardsville, IL | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6331acf37e6b24817f4?utm_source=1065&utm_campaign=git)** | Minneapolis, MN | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248181c?utm_source=1065&utm_campaign=git)** | Henderson, NV | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248182c?utm_source=1065&utm_campaign=git)** | Honolulu, HI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248183b?utm_source=1065&utm_campaign=git)** | Syracuse, NY | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481862?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481863?utm_source=1065&utm_campaign=git)** | Elon, NC | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248184f?utm_source=1065&utm_campaign=git)** | Dover, DE | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248185c?utm_source=1065&utm_campaign=git)** | Green Bay, WI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481854?utm_source=1065&utm_campaign=git)** | Juneau, AK | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248185c?utm_source=1065&utm_campaign=git)** | Green Bay, WI | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b248186b?utm_source=1065&utm_campaign=git)** | Bowie, MD | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481874?utm_source=1065&utm_campaign=git)** | Northridge, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481877?utm_source=1065&utm_campaign=git)** | Adelphi, MD | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481872?utm_source=1065&utm_campaign=git)** | Virginia Beach, VA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481873?utm_source=1065&utm_campaign=git)** | Cambridge, MA | On Site | Jul 11 |
-| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b2481919?utm_source=1065&utm_campaign=git)** | West Chester, PA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b63b1acf37e6b2481874?utm_source=1065&utm_campaign=git)** | Northridge, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b2481914?utm_source=1065&utm_campaign=git)** | Reading, PA | On Site | Jul 11 |
+| ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b2481919?utm_source=1065&utm_campaign=git)** | West Chester, PA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b248192b?utm_source=1065&utm_campaign=git)** | Stockton, CA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b2481960?utm_source=1065&utm_campaign=git)** | Newark, DE | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6431acf37e6b2481965?utm_source=1065&utm_campaign=git)** | Erie, PA | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6541acf37e6b2481aa6?utm_source=1065&utm_campaign=git)** | Williamsburg, VA | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822dd?utm_source=1065&utm_campaign=git)** | Yonkers, NY | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822df?utm_source=1065&utm_campaign=git)** | Huntsville, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e0?utm_source=1065&utm_campaign=git)** | Conway, SC | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822df?utm_source=1065&utm_campaign=git)** | Huntsville, TX | On Site | Jul 11 |
 | ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822de?utm_source=1065&utm_campaign=git)** | Burlington, VT | On Site | Jul 11 |
 | ↳ | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e1?utm_source=1065&utm_campaign=git)** | Middletown, DE | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e5?utm_source=1065&utm_campaign=git)** | Portland, OR | On Site | Jul 11 |
-| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e2?utm_source=1065&utm_campaign=git)** | Pomona, CA | On Site | Jul 11 |
 | ↳ | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e3?utm_source=1065&utm_campaign=git)** | Detroit, MI | On Site | Jul 11 |
+| ↳ | **[Tapatío College Brand Ambassador](https://jobright.ai/jobs/info/6690b6b11acf37e6b24822e2?utm_source=1065&utm_campaign=git)** | Pomona, CA | On Site | Jul 11 |
 | **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6690b5641acf37e6b2480308?utm_source=1065&utm_campaign=git)** | Stamford, CT | On Site | Jul 11 |
 | **[BHI Senior Living](https://www.bhiseniorliving.org/)** | **[Foundation Intern](https://jobright.ai/jobs/info/6690b55c1acf37e6b24802da?utm_source=1065&utm_campaign=git)** | Indianapolis, IN | On Site | Jul 11 |
 | **[Evolvez Agency](https://www.evolvez.co)** | **[Pringles® Mingles College Brand Ambassador](https://jobright.ai/jobs/info/66909bf10aa6f308865b80c7?utm_source=1065&utm_campaign=git)** | Waterloo, IA | On Site | Jul 11 |
@@ -1192,9 +1192,9 @@ For a complete list, see the full spreadsheet below:
 | **[Caterpillar](https://www.caterpillar.com)** | **[2025 Summer Corporate Intern - Marketing](https://jobright.ai/jobs/info/668c6bb659b1963e7b946c71?utm_source=1065&utm_campaign=git)** | Peoria, IL | On Site | Jul 10 |
 | **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/668f499c478c8663838f27cb?utm_source=1065&utm_campaign=git)** | Chicago, IL | Hybrid | Jul 10 |
 | **[CLD PR](https://cldstylehouse.com)** | **[FALL 2024 PR INTERN](https://jobright.ai/jobs/info/668f49b0478c8663838f29a8?utm_source=1065&utm_campaign=git)** | Los Angeles, CA | On Site | Jul 10 |
-| **[Lutheran Social Ministries of Maryland](https://lsmmd.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/668ff9c50f79b533b8729a6e?utm_source=1065&utm_campaign=git)** | Westminster, CO | On Site | Jul 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/668feaf9dd774b6be57deec8?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 10 |
 | **[Advocate Health](https://www.advocatehealth.org/)** | **[Intern Social Media](https://jobright.ai/jobs/info/668fe92e2fc5ba37662c5531?utm_source=1065&utm_campaign=git)** | Milwaukee, WI | On Site | Jul 10 |
+| **[Lutheran Social Ministries of Maryland](https://lsmmd.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/668c5de2a0bdbc20c7ddcf33?utm_source=1065&utm_campaign=git)** | Westminster, CO | On Site | Jul 10 |
 | **[Northrop & Johnson](https://www.northropandjohnson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/669030d0a9f0fa8f5274b254?utm_source=1065&utm_campaign=git)** | Fort Lauderdale, FL | On Site | Jul 10 |
 | **[Libbey](https://www.libbey.com/)** | **[Marketing Internship (Fall 2024)](https://jobright.ai/jobs/info/6690298a6f438a3944c866b5?utm_source=1065&utm_campaign=git)** | Toledo, OH | On Site | Jul 10 |
 | **[University of North Georgia](http://ung.edu/)** | **[Student Involvement Marketing Student Assistant - Institutional Student Worker](https://jobright.ai/jobs/info/668eea4b97cc7c3025b9240b?utm_source=1065&utm_campaign=git)** | Dahlonega, GA | On Site | Jul 10 |
@@ -1202,9 +1202,9 @@ For a complete list, see the full spreadsheet below:
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Social Media Internship](https://jobright.ai/jobs/info/669008ea6c7a1d8aa6d74474?utm_source=1065&utm_campaign=git)** | New York County, NY | On Site | Jul 10 |
 | **[Greenwich St. Jewelers](https://www.greenwichjewelers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/668f8a8ec2f9bd4644ec805e?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 10 |
 | **[Reingold](http://reingold.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6683410ba77cf77fee2dc8e3?utm_source=1065&utm_campaign=git)** | Alexandria, VA | On Site | Jul 10 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/667c4e111f022fb71d61a756?utm_source=1065&utm_campaign=git)** | Austin, TX | On Site | Jul 10 |
 | **[Abilene Christian University](http://www.acu.edu/)** | **[MFS Social Media Student Worker](https://jobright.ai/jobs/info/668ecf52eeb01b369f32b4bc?utm_source=1065&utm_campaign=git)** | Abilene, TX | On Site | Jul 10 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/669010044a77721ba220f2fc?utm_source=1065&utm_campaign=git)** | Austin, TX | On Site | Jul 10 |
-| ↳ | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/6685e23eadbfe96e189b76ce?utm_source=1065&utm_campaign=git)** | Austin, TX | Hybrid | Jul 10 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/6685e23eadbfe96e189b76ce?utm_source=1065&utm_campaign=git)** | Austin, TX | Hybrid | Jul 10 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Washington Seattle MATLAB Student Ambassador](https://jobright.ai/jobs/info/668ecbc6bf93d98adcfd4362?utm_source=1065&utm_campaign=git)** | Natick, MA | Hybrid | Jul 10 |
 | **[Whisper Aero](https://www.whisper.aero/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/669001956322084f2d52ceca?utm_source=1065&utm_campaign=git)** | Nashville, TN | On Site | Jul 10 |
 | **[Eagle Peak Solutions](https://www.eaglepeaksolutionsinc.com/)** | **[Brand Marketing Internship](https://jobright.ai/jobs/info/668ff9a10f79b533b872977b?utm_source=1065&utm_campaign=git)** | Richmond, CA | On Site | Jul 10 |
@@ -1306,7 +1306,7 @@ For a complete list, see the full spreadsheet below:
 | **[MathWorks](http://www.mathworks.com)** | **[University of Southern California MATLAB Student Ambassador](https://jobright.ai/jobs/info/66327b03f20ca69f599603c3?utm_source=1065&utm_campaign=git)** | Natick, MA | Hybrid | Jul 09 |
 | **[Revenue Accelerator](https://www.revenueaccelerator.io/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/668e4892e68520683d47e242?utm_source=1065&utm_campaign=git)** | Denver, CO | On Site | Jul 09 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Marketing Student Internship](https://jobright.ai/jobs/info/668cf7b8433c315ce7c2570a?utm_source=1065&utm_campaign=git)** | Waukesha, WI | On Site | Jul 09 |
-| **[Malibu Events Promotions](https://www.malibueventspromo.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/668d22b4e99837e100f9199e?utm_source=1065&utm_campaign=git)** | San Antonio, TX | On Site | Jul 09 |
+| **[Malibu Events Promotions](https://www.malibueventspromo.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/668d22b4e99837e100f919a0?utm_source=1065&utm_campaign=git)** | San Antonio, TX | On Site | Jul 09 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/668ce9c62defd50983433746?utm_source=1065&utm_campaign=git)** | Houston, TX | On Site | Jul 09 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Social Media Internship](https://jobright.ai/jobs/info/668cf460af8e1cb2e44b3a5e?utm_source=1065&utm_campaign=git)** | Brooklyn, NY | On Site | Jul 09 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Paid Internship Program (ASAP)](https://jobright.ai/jobs/info/668ce9c62defd50983433749?utm_source=1065&utm_campaign=git)** | Santa Ana, CA | On Site | Jul 09 |
@@ -1337,11 +1337,11 @@ For a complete list, see the full spreadsheet below:
 | **[Hunter Marketing](https://huntermarketing.us)** | **[Influencer](https://jobright.ai/jobs/info/668c40ea6d815327bc02d4f6?utm_source=1065&utm_campaign=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Jul 08 |
 | **[Arthur Elliott](https://arthurelliott.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/668c3d31ec00cd2e71bd1b8c?utm_source=1065&utm_campaign=git)** | Charlotte, NC | On Site | Jul 08 |
 | **[Prepory](https://prepory.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/668c378aa1686f7e71b6a3f5?utm_source=1065&utm_campaign=git)** | Davie, FL | On Site | Jul 08 |
-| **[Oakview Group](http://www.oakviewgroup.com)** | **[Marketing & Sales Intern / Augusta Entertainment Complex](https://jobright.ai/jobs/info/668c44ad998303acf288f9e7?utm_source=1065&utm_campaign=git)** | Augusta, GA | On Site | Jul 08 |
 | **[Native Instruments](http://www.native-instruments.com)** | **[Working Student - Content Marketing](https://jobright.ai/jobs/info/668c2960dbe1aedcdfe00a43?utm_source=1065&utm_campaign=git)** | United States | Remote | Jul 08 |
 | **[Electric Picks Jewelry](http://electricpicks.com)** | **[Marketing & Social Media Interns (Fall)](https://jobright.ai/jobs/info/668c13e09156a36052676c5a?utm_source=1065&utm_campaign=git)** | Hoboken, NJ | On Site | Jul 08 |
 | **[Loewe Perfumes](http://www.loewe.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/668bfbf0256f0fd3689d14b3?utm_source=1065&utm_campaign=git)** | NYC Metro Area | On Site | Jul 08 |
 | **[Advanced Computer Technologies](https://www.act-tek.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/668bf73737e908a4a06495a5?utm_source=1065&utm_campaign=git)** | East Hanover, NJ | Hybrid | Jul 08 |
+| **[Oakview Group](http://www.oakviewgroup.com)** | **[Marketing & Sales Intern / Augusta Entertainment Complex](https://jobright.ai/jobs/info/668c09d9aea348a0f4028155?utm_source=1065&utm_campaign=git)** | Augusta, GA | On Site | Jul 08 |
 | **[Vibe Credit Union](http://vibecreditunion.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/668fd3b75bdf80a0306d819d?utm_source=1065&utm_campaign=git)** | Novi, MI | On Site | Jul 08 |
 | **[myGwork](https://www.mygwork.com/en/)** | **[Public Relations Internship - Sacramento - Summer/Fall 2024](https://jobright.ai/jobs/info/6674719976972002f5bdc036?utm_source=1065&utm_campaign=git)** | Sacramento, CA | Hybrid | Jul 08 |
 | **[Evolvez Agency](https://www.evolvez.co)** | **[Cramify College Brand Ambassador](https://jobright.ai/jobs/info/668fc16cd472624446c9a05f?utm_source=1065&utm_campaign=git)** | New York, NY | On Site | Jul 08 |
