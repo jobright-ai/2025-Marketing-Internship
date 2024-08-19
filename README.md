@@ -57,15 +57,20 @@ For a complete list, see the full spreadsheet below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SUPERTUTOR](https://aisupertutor.web.app/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c1f9a961a3752115162d9a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| **[Expect Lace](https://www.expectlace.com/)** | **[Diversity and Inclusion Marketing Internship](https://jobright.ai/jobs/info/66c28d2fdef5df2e8c431baa?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 18 |
+| **[High Level Media Sports](https://www.highlevelmediasports.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c285c2eee5d8000b064db9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| **[MARIPOSA ALLIANCE](http://www.mafpf.org)** | **[Social Media and Communications Intern](https://jobright.ai/jobs/info/66c264e570c30d165d19bd67?utm_campaign=1065&utm_source=git)** | San Gabriel, CA | Hybrid | Aug 18 |
+| **[Hirebird](http://www.joinhirebird.com)** | **[Research Intern](https://jobright.ai/jobs/info/66c261bb67a1a533f0de10c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| **[Teletherapist Network](https://teletherapistnetwork.com)** | **[Remote Mental Health Advocacy & Research Intern](https://jobright.ai/jobs/info/66c251d2d4aaf4dabd288c5a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| **[Maverick MKG](https://www.maverickmkg.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c22ebd5496b068fc7f7410?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 18 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student Marketing Intern](https://jobright.ai/jobs/info/66c21e4050724cd4f8060e9b?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Aug 18 |
+| **[SUPERTUTOR](https://aisupertutor.web.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c1f9a961a3752115162d97?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/66c1f9a961a3752115162d9a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
+| **[AFM - Association Française du Marketing](https://www.afm-marketing.org/)** | **[Marketing Intern - Jergens](https://jobright.ai/jobs/info/66c1c821f44c84e1a3c90961?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 18 |
 | **[Sinclair Broadcast](http://sbgi.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/66b8aaf38e4e46e8cc73d2b0?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Aug 18 |
 | **[TapNow](https://tapnow.fun)** | **[Brand Ambassador](https://jobright.ai/jobs/info/66c1954f992d7482d083fc83?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[SnowStar Entertainment](snowstarentertainment.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c1f7ab57f8c57b4b0afb9c?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Aug 17 |
-| **[GenPark AI](https://www.genpark.ai)** | **[Brand Specialist](https://jobright.ai/jobs/info/66c177686adb02c5c90d370f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Aug 17 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Marketing Designer Unpaid Intern Female Founded Startup](https://jobright.ai/jobs/info/66c17339c2a9748db34b79dc?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Aug 17 |
-| **[AFM - Association Française du Marketing](https://www.afm-marketing.org/)** | **[Marketing Intern - Jergens](https://jobright.ai/jobs/info/66c12c08255b1410f03a95a2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 17 |
 | **[Urban Creator](https://www.urbancreator.net)** | **[Design Marketing Internship Fall(Korean Speaking)](https://jobright.ai/jobs/info/66c10e7b2217714fc87f1e57?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | Aug 17 |
-| **[Lionchase North America](https://www.lionchase.com/)** | **[Investor Relations internship](https://jobright.ai/jobs/info/66c115fe818f32b60bddfde5?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[ENTRADE X](https://ex-zerocarbon.com/)** | **[Global Marketing Innovation Internship: Launch Your Career in Bali](https://jobright.ai/jobs/info/66c1b720167d65c4b79465cb?utm_campaign=1065&utm_source=git)** | Multi Location
 Los Angeles, CA
 San Francisco, CA | On Site | Aug 17 |
@@ -74,16 +79,12 @@ San Francisco, CA | On Site | Aug 17 |
 Englewood, CO
 Colorado, United States | Hybrid | Aug 17 |
 | **[Haydenfilms Institute](https://haydenfilmsinstitute.org)** | **[Social Media Specialist - Fall 2024 Internship (Paid Stipend)](https://jobright.ai/jobs/info/66c0ce0229536391e299f134?utm_campaign=1065&utm_source=git)** | Breinigsville, PA | On Site | Aug 17 |
-| **[SUPERTUTOR](https://aisupertutor.web.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c0c59f5c30b0efc04ea324?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
-| **[Sileria](https://sileria.com/)** | **[Social Media Specialist / Intern](https://jobright.ai/jobs/info/66c0cba090d0f41829e1ba5c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 17 |
 | **[MOCSA](https://www.mocsa.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c0c7b9000bd693a93806f2?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Aug 17 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Digital Marketing Training & Internship](https://jobright.ai/jobs/info/66c0ba4ca2edc617bd0df464?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Y-PLANET INC](carnivalteam.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c09b65767d698395910e4f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
 | **[Alta Career Academy](http://altacareeracademy.org)** | **[Marketing and Community Outreach Coordinator](https://jobright.ai/jobs/info/66c0a589ab306c02290c54ee?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 17 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part Time Onsite Marketing Internship (Fall: September Start)](https://jobright.ai/jobs/info/66c088c0c77c5b3c083ed6c8?utm_campaign=1065&utm_source=git)** | Multi Location
 South Lake Tahoe, CA
 Marriott's Timber Lodge | On Site | Aug 17 |
-| **[Jack Flash Stores](http://www.wortmanstores.com/index1.htm)** | **[Digital Marketing](https://jobright.ai/jobs/info/66c084d29dd7d18f552b5607?utm_campaign=1065&utm_source=git)** | Effingham, IL | Hybrid | Aug 17 |
 | **[PADF](https://www.padf.org/)** | **[Communications Internship, Washington, D.C.](https://jobright.ai/jobs/info/66a4221284d006430c764f3d?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 17 |
 | **[Rite of Passage](https://riteofpassage.com/)** | **[INTERN (Social Media and Communications)](https://jobright.ai/jobs/info/66888aee7fb9812780bf3524?utm_campaign=1065&utm_source=git)** | Minden, NV | On Site | Aug 17 |
 | **[Elbit Systems of America](https://www.elbitamerica.com/)** | **[Marketing, Branding & External Communications Intern (REF2215Y)- FALL 2024](https://jobright.ai/jobs/info/66a3da799f1d4690f1a40824?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 17 |
@@ -116,15 +117,14 @@ Hoboken, NJ - Main Campus | On Site | Aug 16 |
 | **[lds.org](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/66bfeb2d130a66ab19c16016?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Aug 16 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[J&J MedTech Marketing Leadership Development Program (MLDP) - 2025 Summer Internship](https://jobright.ai/jobs/info/66bfe6343e0673cc143e7b57?utm_campaign=1065&utm_source=git)** | Multi Location
 Cincinnati, OH
-Palm Beach Gardens, FL
 Warsaw, IN
-Irvine, CA
 West Chester, PA
+Irvine, CA
 Raynham, MA
+Jacksonville, FL
 Raritan, NJ
-Jacksonville, FL | On Site | Aug 16 |
+Palm Beach Gardens, FL | On Site | Aug 16 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[Enterprise Marketing Intern](https://jobright.ai/jobs/info/66bfdc51e138d9f51530fa6c?utm_campaign=1065&utm_source=git)** | Davidson, NC | On Site | Aug 16 |
-| **[Wright's Resumes and Connections](https://www.wrightsresumes.com)** | **[Marketing Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/66bfd7e46d56dae18cde1fdb?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[New York City Campaign Finance Board](http://www.nyccfb.info/)** | **[SOCIAL MEDIA ASSISTANT (INTERN)](https://jobright.ai/jobs/info/66741e1d8f8ed70066b4b9c5?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Aug 16 |
 | **[W.W. Grainger](https://www.grainger.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bfd481962034e119a70860?utm_campaign=1065&utm_source=git)** | Lake Forest, IL | On Site | Aug 16 |
 | **[Ditch](https://ditch.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7c83?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 16 |
@@ -148,9 +148,6 @@ Jacksonville, FL | On Site | Aug 16 |
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Communications (Intern)](https://jobright.ai/jobs/info/66bfa996794411c7ebc71a4b?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Aug 16 |
 | **[US Oncology](http://www.usoncology.com/)** | **[Marketing Communications Intern - Part - Time - Dallas, Tx](https://jobright.ai/jobs/info/66bf9b9bc4fc69920aa6e3bd?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 16 |
 | **[Heinen's](http://www.heinens.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bf9b9bc4fc69920aa6e3ce?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Aug 16 |
-| **[OneDigital](https://www.onedigital.com)** | **[Northeast Marketing Intern - Hybrid (Farmington, CT)](https://jobright.ai/jobs/info/66bf9a4517d13855c6ff154e?utm_campaign=1065&utm_source=git)** | Multi Location
-Farmington, CT
-RIA-Farmington, CT | Hybrid | Aug 16 |
 | **[FIND Services](https://linktr.ee/find.services)** | **[Video Content Creation Intern](https://jobright.ai/jobs/info/66bfa487e031d70bdc3d0de8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[The State of the Net Conference](http://www.stateofthenet.org)** | **[State of the Net Fellowship](https://jobright.ai/jobs/info/66c0a589ab306c02290c5557?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[WNRN](https://www.wnrn.org/)** | **[Fall Media Intern](https://jobright.ai/jobs/info/66bf9225a672167192498282?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Aug 16 |
@@ -171,360 +168,352 @@ RIA-Farmington, CT | Hybrid | Aug 16 |
 | **[Gannon University](http://www.gannon.edu/)** | **[Integrated Marketing Influencer (Multimedia)](https://jobright.ai/jobs/info/66bf844d15ed239e83467bc4?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Aug 16 |
 | **[The Colon Cancer Alliance](http://ccalliance.org)** | **[Peer-to-Peer Fundraising Intern](https://jobright.ai/jobs/info/66bf6992dd0cdf5941dbdc89?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 16 |
 | **[Sooner Marketing Solutions](https://soonermarketingsolutions.com/)** | **[Search Engine Optimization Specialist](https://jobright.ai/jobs/info/66bf72da9cf13bf015b62a33?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Aug 16 |
-| **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66ba3258d05d6b3e718060fb?utm_campaign=1065&utm_source=git)** | Multi Location
-Philadelphia, PA
-Tampa, FL
-Charlotte Metro | On Site | Aug 16 |
 | **[No Kid Hungry](http://www.nokidhungry.org)** | **[Fall 2024 Bilingual Multicultural Communications Intern](https://jobright.ai/jobs/info/66c1f7ab57f8c57b4b0afdbf?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[Red Gold](http://redgold.com)** | **[Marketing Intern - Fall 2024](https://jobright.ai/jobs/info/669ab5a474aa6bde60afa9ba?utm_campaign=1065&utm_source=git)** | Elwood, IN | On Site | Aug 16 |
 | **[Refonte Learning](https://refontelearning.com)** | **[Digital Marketing Training & Internship](https://jobright.ai/jobs/info/66bf46556df19c59e12c9421?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 16 |
 | **[BTerrell Group](http://www.bterrell.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bf517c88dffccd8ee1e3e4?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 16 |
 | **[Vyrazu Labs](https://www.vyrazu.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/66bf46556df19c59e12c9435?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Aug 16 |
 | **[LeverageIT](http://leverage.it)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/66bf433f1da943727f8a0634?utm_campaign=1065&utm_source=git)** | Detroit Metro | Hybrid | Aug 16 |
-| **[Divergent Marketing Solutions Inc.](https://www.divergentmktgsolutions.com/)** | **[Business Marketing Intern - SUMMER Internship](https://jobright.ai/jobs/info/66bf4dae2f62379beb1958d9?utm_campaign=1065&utm_source=git)** | Multi Location
-La Mesa, CA
-National City, CA
-Chula Vista, CA | On Site | Aug 16 |
-| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Communications Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f56?utm_campaign=1065&utm_source=git)** | Multi Location
-Salt Lake City, UT
-Providence, RI
-Peoria, IL
-Kalamazoo, MI
-Harrisonburg, VA
-Fort Collins, CO
-Green Bay, WI
-Warren, MI
-Melbourne, FL
-Rochester, NY
-Murfreesboro, TN
-Rexburg, ID
-Jacksonville, FL
-Gulfport, MS
-Durham, NC
-Albany, NY
-Binghamton, NY
-Louisville, KY
-Macon, GA
-DeKalb, IL
-Logan, UT
-South Bend, IN
-Queens, NY
-Waterbury, CT
-Bismarck, ND
-Covington, KY
-Hartford, CT
-South Portland, ME
-Tacoma, WA
-Des Moines, IA
-Bristol, RI
-Bellingham, WA
-Pawtucket, RI
-Biloxi, MS
-Independence, MO
-Owensboro, KY
-Tulsa, OK
-Worcester, MA
-New York, NY
-Northridge, CA
-St Louis, MO
-Hammond, IN
-Rochester, NH
-Portland, OR
-Phoenix, AZ
-Minneapolis, MN
-Annandale, VA
-Tucson, AZ
-Helena, MT
-Ann Arbor, MI
-Laredo, TX
-Rutland, VT
-Lake Charles, LA
-Mobile, AL
-Sparks, NV
-Gary, IN
-Wheeling, WV
-Bangor, ME
-Annapolis, MD
-Knoxville, TN
-Moscow, ID
-Springfield, MO
-Omaha, NE
-Evansville, IN
-Rapid City, SD
-Elon, NC
-Pocatello, ID
-Harrisburg, PA
-Tupelo, MS
-Scottsdale, AZ
-Paterson, NJ
-Southaven, MS
-Juneau, AK
-Sacramento, CA
-Wellesley, MA
-West Chester, PA
-Beaumont, TX
-St Cloud, MN
-San Luis Obispo, CA
-Flagstaff, AZ
-Hagerstown, MD
-Albuquerque, NM
-Pearl City, HI
-Orem, UT
-San Antonio, TX
-Fresno, CA
-Sterling Heights, MI
-The Woodlands, TX
-Athens, GA
-Toledo, OH
-Jersey City, NJ
-Springfield, MA
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Communications Team Intern (Course Credit Eligible)](https://jobright.ai/jobs/info/66c08eccfb35b5b4094b6f4d?utm_campaign=1065&utm_source=git)** | Multi Location
+Eugene, OR
 Lewiston, ME
-Danbury, CT
-Miami, FL
-Denver, CO
-Reading, PA
-Brookings, SD
-Las Vegas, NV
-Shreveport, LA
-Salem, OR
-Fairbanks, AK
-Manchester, NH
-Detroit, MI
-Memphis, TN
-Cedar Rapids, IA
-Birmingham, AL
-Williamsburg, VA
-Bakersfield, CA
-Virginia Beach, VA
-Arlington, TX
-Lawton, OK
-Lawrenceville, GA
-Seattle, WA
-Santa Fe, NM
-Geneseo, NY
-Stockton, CA
-Greenville, NC
+Jersey City, NJ
+Sterling Heights, MI
+Fort Wayne, IN
+Rockford, IL
+Bowie, MD
+Rockville, MD
+Burlington, VT
+Las Cruces, NM
+Omaha, NE
+Chattanooga, TN
 Gresham, OR
-Lake Worth, FL
-Kennesaw, GA
+Huntsville, TX
 Richmond, VA
-Greeley, CO
-Tallahassee, FL
-Portland, ME
-Commerce, TX
-Syracuse, NY
-Norwalk, CT
-Hot Springs, AR
-Corpus Christi, TX
-Stamford, CT
-Nampa, ID
-Indiana, PA
-Olympia, WA
-El Paso, TX
-Conway, AR
-Bridgeport, CT
-Glendale, AZ
-Little Rock, AR
+Tampa, FL
+Orlando, FL
+Roswell, NM
+Fort Smith, AR
+Nashville, TN
 Grand Rapids, MI
-Chesapeake, VA
-Newark, DE
-Brockton, MA
-Edison, NJ
+Hampton, VA
+Indianapolis, IN
+New York, NY
 Philadelphia, PA
-Waipahu, HI
-Henderson, NV
-Frederick, MD
-Meridian, ID
-Essex Junction, VT
-Montgomery, AL
-Chicago, IL
-Austin, TX
-Kearney, NE
-Spokane, WA
-Baltimore, MD
-Largo, MD
-Laramie, WY
-Bloomsburg, PA
-Bozeman, MT
+Alamogordo, NM
 Rock Hill, SC
-Buffalo, NY
-Coeur d'Alene, ID
-Flint, MI
-New Orleans, LA
-Honolulu, HI
-Carrollton, GA
-Aurora, CO
-St Petersburg, FL
-Charleston, WV
 Norfolk, VA
+Brookings, SD
+Melbourne, FL
+Pittsburg, KS
+Louisville, KY
+Fairbanks, AK
+San Diego, CA
+Houston, TX
+Miami, FL
+Buffalo, NY
+Conway, AR
+Warren, MI
+Chandler, AZ
+Vancouver, WA
 Los Angeles, CA
-Dover, DE
-Cranston, RI
-Middletown, DE
-Springfield, IL
-Prairie View, TX
-Vestal, NY
-Mesa, AZ
-Warwick, RI
-Allentown, PA
-Terre Haute, IN
-Mount Pleasant, MI
+Rochester Hills, MI
+Geneseo, NY
+Montgomery, AL
+Overland Park, KS
+Greeley, CO
+Nashua, NH
+Queens, NY
+Pocatello, ID
+Danbury, CT
+Bozeman, MT
+Spokane, WA
+Joliet, IL
+Logan, UT
+Colorado Springs, CO
+Jefferson City, MO
+Frederick, MD
+Hattiesburg, MS
+Rock Springs, WY
+New Haven, CT
+Charleston, WV
+Towson, MD
+Kenner, LA
+Sioux Falls, SD
+Duluth, MN
+Ogden, UT
+Worcester, MA
+Waterbury, CT
+Honolulu, HI
+Conway, SC
+Paterson, NJ
+Bellevue, NE
+Fresno, CA
+Reading, PA
+Essex Junction, VT
+Rochester, NY
+Lawton, OK
+Arlington, TX
 Columbus, GA
 Carson City, NV
-Anchorage, AK
-Valdosta, GA
-Kansas City, MO
-Morgantown, WV
-Colchester, VT
-Rock Springs, WY
-Augusta, ME
-Greensboro, NC
-Chattanooga, TN
-Grand Island, NE
-Fort Smith, AR
-Houston, TX
-Bowie, MD
-Adelphi, MD
-Frankfort, KY
-Yonkers, NY
-San Jose, CA
-Waterloo, IA
-McKinney, TX
-Orlando, FL
-Bellevue, WA
-San Diego, CA
-Whitewater, WI
-Thornton, CO
-Charlotte, NC
-Nashville, TN
-Huntsville, AL
-Smyrna, DE
-Fort Wayne, IN
-Jackson, TN
-Rockville, MD
-Fargo, ND
-Plymouth, MN
-Baton Rouge, LA
-Eugene, OR
-Augusta, GA
-Barre Town, VT
-Sioux Falls, SD
-Jefferson City, MO
-High Point, NC
-Kansas City, KS
-Billings, MT
-Nacogdoches, TX
-Rochester Hills, MI
-Aurora, IL
-Fort Myers, FL
-Grand Forks, ND
-Springdale, AR
-Seaford, DE
-Towson, MD
-Colorado Springs, CO
-West Jordan, UT
-Racine, WI
-Duluth, MN
-Mililani Town, HI
-Kenosha, WI
-Milwaukee, WI
-Kenner, LA
-Savannah, GA
-Cambridge, MA
-Erie, PA
-Rockford, IL
-Idaho Falls, ID
-Atlanta, GA
-Burlington, VT
-Wilmington, NC
-Concord, NH
-Tampa, FL
-Arcata, CA
-Oklahoma City, OK
-Vancouver, WA
-Tuscaloosa, AL
-Wichita, KS
-Trenton, NJ
-Jackson, MS
-Newark, NJ
-Chico, CA
-Hialeah, FL
-Chandler, AZ
-North Dartmouth, MA
-Cleveland, OH
-Mount Pleasant, SC
-Ogden, UT
-Menomonie, WI
-Joliet, IL
-Bowling Green, KY
-Alamogordo, NM
-Meridian, MS
-Pensacola, FL
 Broken Arrow, OK
-Fayetteville, AR
-Iowa City, IA
-Huntington, WV
-Casper, WY
-Conway, SC
-Pomona, CA
-Huntsville, TX
-Nashua, NH
-Raleigh, NC
-New Brunswick, NJ
-Boise, ID
-Gaithersburg, MD
-Hamden, CT
-Columbus, OH
-Missoula, MT
-Charleston, SC
-Bowling Green, OH
-Pierre, SD
-Indianapolis, IN
-Clinton, IA
-Bellevue, NE
-Lexington, KY
-Las Cruces, NM
-Boca Raton, FL
-New Haven, CT
-Minot, ND
-Merced, CA
-Dallas, TX
-Lansing, MI
-Pittsburgh, PA
-Parkersburg, WV
-Derry, NH
-Biddeford, ME
+Greenville, NC
 Allendale, MI
-Montpelier, VT
-Sioux City, IA
-Berrien Springs, MI
-Aberdeen, SD
-Edwardsville, IL
-Lynchburg, VA
-Columbia, MO
-Lincoln, NE
-Norman, OK
-Madison, WI
-Hattiesburg, MS
-Edmond, OK
-Great Falls, MT
+Sacramento, CA
 Jonesboro, AR
-Pittsburg, KS
-Hampton, VA
-Roswell, NM
-Milford, DE
-Boone, NC
-Lowell, MA
-San Marcos, TX
-Topeka, KS
-Overland Park, KS
-Auburn, ME
-Wilmington, DE
-Potsdam, NY
-Cheyenne, WY
+Nacogdoches, TX
+Bakersfield, CA
+Colchester, VT
+Tacoma, WA
+Prairie View, TX
+Milwaukee, WI
+Juneau, AK
+Pomona, CA
+Derry, NH
+High Point, NC
+Springdale, AR
+Middletown, DE
+Biloxi, MS
+St Petersburg, FL
+Columbia, MO
+Beaumont, TX
+Meridian, MS
+Mount Pleasant, SC
+Biddeford, ME
+Hialeah, FL
+Portland, ME
+Wheeling, WV
+Merced, CA
+Augusta, ME
+Billings, MT
+Boca Raton, FL
+Sioux City, IA
+Murfreesboro, TN
+Raleigh, NC
+Tallahassee, FL
+Springfield, IL
+San Luis Obispo, CA
+Stockton, CA
+Henderson, NV
+Seaford, DE
+Erie, PA
+Austin, TX
 Rochester, MN
+Edwardsville, IL
+Auburn, ME
+Aberdeen, SD
+Terre Haute, IN
+Kansas City, MO
+Flint, MI
+Dallas, TX
+Columbus, OH
+Clinton, IA
+Albany, NY
+Bowling Green, KY
+Santa Fe, NM
+Harrisonburg, VA
+Des Moines, IA
+Baltimore, MD
+Newark, NJ
+Iowa City, IA
+Bowling Green, OH
+Southaven, MS
+Fort Collins, CO
+Gaithersburg, MD
+Coeur d'Alene, ID
+Salem, OR
+Toledo, OH
+Pierre, SD
+New Brunswick, NJ
+Hamden, CT
+Anchorage, AK
 Elizabeth, NJ
-Davenport, IA | On Site | Aug 16 |
+Stamford, CT
+Cranston, RI
+Bellevue, WA
+Charlotte, NC
+Laredo, TX
+Rapid City, SD
+Tucson, AZ
+Minneapolis, MN
+Green Bay, WI
+Fort Myers, FL
+Las Vegas, NV
+Minot, ND
+Lynchburg, VA
+West Jordan, UT
+Pensacola, FL
+Bangor, ME
+Springfield, MA
+Waterloo, IA
+Whitewater, WI
+Wellesley, MA
+Atlanta, GA
+Smyrna, DE
+The Woodlands, TX
+Elon, NC
+Harrisburg, PA
+Wilmington, NC
+Thornton, CO
+Athens, GA
+Boone, NC
+Jackson, TN
+Fargo, ND
+Grand Island, NE
+Milford, DE
+Augusta, GA
+West Chester, PA
+McKinney, TX
+Frankfort, KY
+Adelphi, MD
+Tupelo, MS
+Sparks, NV
+Moscow, ID
+Davenport, IA
+Lake Charles, LA
+Arcata, CA
+Huntsville, AL
+Evansville, IN
+Knoxville, TN
+Idaho Falls, ID
+Gary, IN
+Aurora, CO
+Kearney, NE
+Corpus Christi, TX
+Morgantown, WV
+Lawrenceville, GA
+Glendale, AZ
+Little Rock, AR
+Carrollton, GA
+Orem, UT
+Wichita, KS
+St Louis, MO
+San Antonio, TX
+Barre Town, VT
+San Jose, CA
+Kalamazoo, MI
+Annandale, VA
+Tuscaloosa, AL
+Yonkers, NY
+Edison, NJ
+Jacksonville, FL
+Manchester, NH
+Parkersburg, WV
+Bismarck, ND
+Berrien Springs, MI
+Vestal, NY
+Rutland, VT
+Gulfport, MS
+Pearl City, HI
+Potsdam, NY
+Charleston, SC
+Bellingham, WA
+Kenosha, WI
+Scottsdale, AZ
+Syracuse, NY
+Trenton, NJ
+Hagerstown, MD
+Providence, RI
+Rexburg, ID
+Newark, DE
+Oklahoma City, OK
+Greensboro, NC
+Peoria, IL
+Springfield, MO
+Jackson, MS
+Annapolis, MD
+Baton Rouge, LA
+Ann Arbor, MI
+Hammond, IN
+Helena, MT
+Waipahu, HI
+Madison, WI
+El Paso, TX
+Huntington, WV
+North Dartmouth, MA
+Great Falls, MT
+Racine, WI
+Olympia, WA
+Denver, CO
+Lansing, MI
+DeKalb, IL
+Hartford, CT
+Cambridge, MA
+Cheyenne, WY
+Fayetteville, AR
+Laramie, WY
+Largo, MD
+Edmond, OK
+Hot Springs, AR
+Albuquerque, NM
+Casper, WY
+Virginia Beach, VA
+Commerce, TX
+Mesa, AZ
+Northridge, CA
+Williamsburg, VA
+Aurora, IL
+Kansas City, KS
+Seattle, WA
+Binghamton, NY
+Pittsburgh, PA
+Flagstaff, AZ
+South Portland, ME
+Mililani Town, HI
+Topeka, KS
+Birmingham, AL
+Shreveport, LA
+Savannah, GA
+Warwick, RI
+Mount Pleasant, MI
+Meridian, ID
+Owensboro, KY
+Pawtucket, RI
+Chesapeake, VA
+Indiana, PA
+Nampa, ID
+Plymouth, MN
+Rochester, NH
+Montpelier, VT
+Lake Worth, FL
+Lexington, KY
+Salt Lake City, UT
+Lowell, MA
+Portland, OR
+Concord, NH
+Mobile, AL
+Detroit, MI
+Bristol, RI
+Allentown, PA
+Menomonie, WI
+Lincoln, NE
+New Orleans, LA
+Grand Forks, ND
+Memphis, TN
+Boise, ID
+Durham, NC
+Bridgeport, CT
+Macon, GA
+San Marcos, TX
+Missoula, MT
+Phoenix, AZ
+Norman, OK
+Covington, KY
+Brockton, MA
+Norwalk, CT
+Cedar Rapids, IA
+Valdosta, GA
+Chicago, IL
+Cleveland, OH
+Tulsa, OK
+St Cloud, MN
+Kennesaw, GA
+Bloomsburg, PA
+Wilmington, DE
+South Bend, IN
+Dover, DE
+Chico, CA
+Independence, MO | On Site | Aug 16 |
 | **[Y-PLANET INC](carnivalteam.com)** | **[Marketing Intern (CM)](https://jobright.ai/jobs/info/66bf600d05109d78804c36d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 16 |
 | **[ACCA Careers](https://jobs.accaglobal.com/)** | **[eCommerce Business Analyst Intern](https://jobright.ai/jobs/info/66c1d284e93493acdb372d69?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 16 |
 | **[Amazon](https://amazon.com)** | **[2025 Marketing Intern](https://jobright.ai/jobs/info/66a2e493c70989c2664e35e9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 16 |
@@ -545,351 +534,351 @@ Davenport, IA | On Site | Aug 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Monetization Product Strategy & Operations)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66bf33458520bd60d5009a7f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 16 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Seasonal 2024-2025)](https://jobright.ai/jobs/info/66a2f50166a78c16dec90ee1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (Brand Ads)- 2025 Summer (MBA)](https://jobright.ai/jobs/info/66a23c165c14cdf3ee23df1b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 16 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66aa18fc7554ea68c739da6d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 16 |
 | **[MathWorks](http://www.mathworks.com)** | **[Rensselaer Polytechnic Institute MATLAB Student Ambassador](https://jobright.ai/jobs/info/66269f7a7b2149c058535a8d?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 16 |
-| ↳ | **[MATLAB Student Ambassador](https://jobright.ai/jobs/info/65077c77c5d6d59a6ff93ef6?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 16 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66b0d9b86cb9e4fbf704cad3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 16 |
+| **[MathWorks](http://www.mathworks.com)** | **[MATLAB Student Ambassador](https://jobright.ai/jobs/info/65077c77c5d6d59a6ff93ef6?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 16 |
 | **[Ecolab](http://www.ecolab.com)** | **[Marketing Undergrad Internship Program](https://jobright.ai/jobs/info/66bf05bf3de6ff3cb49c8a0e?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Aug 16 |
 | **[ORBIS Corp.](http://www.orbiscorporation.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/66bf04e25309ef4d39a5e0b3?utm_campaign=1065&utm_source=git)** | Oconomowoc, WI | On Site | Aug 16 |
-| **[Evolvez Agency](https://www.evolvez.co)** | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/66c05002e07de402596c3a71?utm_campaign=1065&utm_source=git)** | Multi Location
-Edmond, OK
+| **[Evolvez Agency](https://www.evolvez.co)** | **[Pop-Tarts® Crunchy Poppers College Brand Ambassador](https://jobright.ai/jobs/info/66c05002e07de402596c3a3a?utm_campaign=1065&utm_source=git)** | Multi Location
 Tacoma, WA
-Helena, MT
-Yonkers, NY
-Concord, NH
-Mount Pleasant, SC
-Potsdam, NY
-Olympia, WA
-Spokane, WA
-Annapolis, MD
-Indiana, PA
-Meridian, ID
-Jersey City, NJ
-Hamden, CT
-Biddeford, ME
-Billings, MT
-Missoula, MT
-Lawton, OK
-Hot Springs, AR
-Chico, CA
-Roswell, NM
-Chandler, AZ
-Casper, WY
-Springfield, IL
-Joliet, IL
-Sparks, NV
-Rexburg, ID
-Bowling Green, OH
-Las Vegas, NV
-Grand Forks, ND
-Tallahassee, FL
-Bellevue, WA
-Houston, TX
-Mililani Town, HI
-Little Rock, AR
-Southaven, MS
-Springfield, MA
-Jackson, MS
-Wilmington, DE
-Hartford, CT
-High Point, NC
-Bridgeport, CT
-Rapid City, SD
-Menomonie, WI
-Cranston, RI
-Durham, NC
-Conway, SC
-Hagerstown, MD
-Lexington, KY
-Burlington, VT
-Rochester, NH
-Montgomery, AL
-Flint, MI
-Nampa, ID
-Buffalo, NY
-Evansville, IN
-Kennesaw, GA
-Mesa, AZ
-Edwardsville, IL
-Middletown, DE
-Los Angeles, CA
-Racine, WI
-Broken Arrow, OK
-Des Moines, IA
-San Luis Obispo, CA
-Topeka, KS
-Shreveport, LA
-Orem, UT
-Milford, DE
-Minneapolis, MN
-Coeur d'Alene, ID
-Trenton, NJ
-Tulsa, OK
-Rockford, IL
-Tupelo, MS
-Seattle, WA
-West Chester, PA
-Mount Pleasant, MI
-Bozeman, MT
-Tampa, FL
-Portland, OR
-Pomona, CA
-Bowie, MD
-Danbury, CT
-Fairbanks, AK
-Thornton, CO
-Glendale, AZ
-Macon, GA
-Laramie, WY
-Grand Island, NE
-Hampton, VA
-Manchester, NH
-Aberdeen, SD
-Gary, IN
-Warren, MI
-Geneseo, NY
-St Louis, MO
-Binghamton, NY
-Salem, OR
-Beaumont, TX
-Aurora, CO
-Albany, NY
-Fayetteville, AR
-Meridian, MS
-Waipahu, HI
-Pensacola, FL
-Brockton, MA
-Madison, WI
-Columbia, MO
-Salt Lake City, UT
-Bristol, RI
-Ann Arbor, MI
-Atlanta, GA
-Covington, KY
-Cleveland, OH
-Phoenix, AZ
-Kansas City, KS
-Flagstaff, AZ
-Albuquerque, NM
-Denver, CO
-Lake Charles, LA
-Pittsburg, KS
-Bangor, ME
-Honolulu, HI
-Colorado Springs, CO
-Syracuse, NY
-Boone, NC
-Huntsville, AL
-Raleigh, NC
-Bowling Green, KY
-Fort Myers, FL
-Santa Fe, NM
-Williamsburg, VA
-Largo, MD
-Paterson, NJ
-Wheeling, WV
-Northridge, CA
-Columbus, GA
-Rutland, VT
-Owensboro, KY
-St Petersburg, FL
-Grand Rapids, MI
-Prairie View, TX
-Bloomsburg, PA
-Montpelier, VT
-Towson, MD
-Terre Haute, IN
-Pearl City, HI
-Austin, TX
-Miami, FL
-Wichita, KS
-Jefferson City, MO
-Clinton, IA
-El Paso, TX
-Fort Smith, AR
-Essex Junction, VT
-Worcester, MA
-Norman, OK
-Rock Hill, SC
-Derry, NH
-Arcata, CA
-Bellevue, NE
-Conway, AR
-Gaithersburg, MD
-Logan, UT
-Pierre, SD
-The Woodlands, TX
-Kenner, LA
-Baltimore, MD
-Queens, NY
-Wilmington, NC
-Pawtucket, RI
-Great Falls, MT
-Bismarck, ND
-New York, NY
-Cambridge, MA
-Jonesboro, AR
-Chesapeake, VA
-Fresno, CA
-Knoxville, TN
-Juneau, AK
-Nacogdoches, TX
-Fargo, ND
-Eugene, OR
-Cedar Rapids, IA
-South Bend, IN
-Waterbury, CT
-Auburn, ME
-Tuscaloosa, AL
-Pocatello, ID
-Harrisburg, PA
+Edmond, OK
 Kenosha, WI
-Aurora, IL
-Omaha, NE
-Arlington, TX
-Tucson, AZ
 Rochester Hills, MI
-Cheyenne, WY
-McKinney, TX
-Elizabeth, NJ
-Lowell, MA
-Ogden, UT
 Lynchburg, VA
-Reading, PA
-Moscow, ID
-Springfield, MO
-Peoria, IL
-Boca Raton, FL
 Augusta, ME
-San Jose, CA
-Plymouth, MN
-Commerce, TX
-Jacksonville, FL
-Laredo, TX
-Hammond, IN
-Parkersburg, WV
-Frankfort, KY
-Corpus Christi, TX
-Athens, GA
-Lincoln, NE
-Rockville, MD
-Boise, ID
-Carrollton, GA
-Green Bay, WI
-Idaho Falls, ID
-Lansing, MI
-Virginia Beach, VA
-Springdale, AR
-Bakersfield, CA
-Sioux Falls, SD
-Fort Collins, CO
-San Diego, CA
-Colchester, VT
-Biloxi, MS
-Brookings, SD
-Jackson, TN
-Indianapolis, IN
-Las Cruces, NM
-Mobile, AL
-Seaford, DE
 Stamford, CT
-Augusta, GA
-Pittsburgh, PA
-Iowa City, IA
-Merced, CA
-Edison, NJ
-Valdosta, GA
-Rochester, MN
-Minot, ND
-Kearney, NE
-Kansas City, MO
-Vancouver, WA
-Allendale, MI
-Detroit, MI
-New Haven, CT
-Lewiston, ME
+Queens, NY
+Fargo, ND
+Greensboro, NC
+Chesapeake, VA
+Arcata, CA
+Fresno, CA
+Newark, DE
+Bismarck, ND
+Des Moines, IA
+Little Rock, AR
+Pensacola, FL
+Chandler, AZ
+Montgomery, AL
+Tupelo, MS
+Sterling Heights, MI
+Sioux City, IA
+Hamden, CT
+Rockford, IL
+Montpelier, VT
+Lowell, MA
+Charleston, WV
+Boone, NC
+Toledo, OH
+Concord, NH
+Overland Park, KS
+Kennesaw, GA
+Wellesley, MA
+Raleigh, NC
+Cleveland, OH
+Rochester, NH
+Fayetteville, AR
+Biddeford, ME
+Santa Fe, NM
+Terre Haute, IN
+Elizabeth, NJ
+Greeley, CO
+Barre Town, VT
+West Chester, PA
+Middletown, DE
+Fairbanks, AK
+Pomona, CA
+Nashville, TN
+Savannah, GA
+Hartford, CT
+Mesa, AZ
+Nampa, ID
+Adelphi, MD
+Wheeling, WV
+Murfreesboro, TN
+Oklahoma City, OK
+Meridian, ID
+Atlanta, GA
+Joliet, IL
+St Louis, MO
+Durham, NC
+Olympia, WA
+Richmond, VA
+Bristol, RI
+Rutland, VT
+Albany, NY
+Sacramento, CA
+Carson City, NV
+Seattle, WA
+Hampton, VA
+Tampa, FL
+North Dartmouth, MA
+Casper, WY
+Roswell, NM
+Wilmington, DE
+Grand Rapids, MI
+Geneseo, NY
+Columbia, MO
+Wichita, KS
+Columbus, GA
+Edwardsville, IL
+St Petersburg, FL
+Manchester, NH
+Springfield, IL
+Beaumont, TX
+Bowie, MD
+Whitewater, WI
+Milford, DE
+Albuquerque, NM
+Evansville, IN
+Laramie, WY
+Orem, UT
+Bellevue, WA
+Mount Pleasant, MI
+Colorado Springs, CO
+Orlando, FL
+Coeur d'Alene, ID
+Thornton, CO
 Huntsville, TX
+Glendale, AZ
+Independence, MO
+Stockton, CA
+Bozeman, MT
+Ann Arbor, MI
+Broken Arrow, OK
+Houston, TX
+Lake Charles, LA
+Duluth, MN
+Binghamton, NY
+Rapid City, SD
+Dallas, TX
+Gary, IN
+Aurora, CO
+Towson, MD
+Williamsburg, VA
+Syracuse, NY
+Covington, KY
+Mililani Town, HI
+Spokane, WA
+Honolulu, HI
+Northridge, CA
+Bridgeport, CT
+Jersey City, NJ
+Minneapolis, MN
+Denver, CO
+Waipahu, HI
+DeKalb, IL
+Southaven, MS
+Tallahassee, FL
+Conway, SC
+Billings, MT
+Racine, WI
+Trenton, NJ
+Mount Pleasant, SC
+Tuscaloosa, AL
+Hagerstown, MD
+Cranston, RI
+Bangor, ME
+Indiana, PA
+Hot Springs, AR
+Yonkers, NY
+Madison, WI
+Allentown, PA
+Shreveport, LA
+Columbus, OH
+Lawton, OK
+Pearl City, HI
+Brockton, MA
+Lake Worth, FL
+Birmingham, AL
+Kansas City, KS
+Virginia Beach, VA
 Hialeah, FL
-Annandale, VA
-Gresham, OR
-Erie, PA
-South Portland, ME
-Kalamazoo, MI
-Chicago, IL
-Alamogordo, NM
-Morgantown, WV
-Louisville, KY
-Henderson, NV
-Elon, NC
+Kearney, NE
+San Diego, CA
+Minot, ND
 Milwaukee, WI
 Warwick, RI
-Bellingham, WA
-Scottsdale, AZ
-Portland, ME
-Gulfport, MS
-Rochester, NY
-Newark, DE
-Greensboro, NC
-Anchorage, AK
-Providence, RI
-Fort Wayne, IN
-Lawrenceville, GA
-Norfolk, VA
-St Cloud, MN
-Harrisonburg, VA
-West Jordan, UT
-Chattanooga, TN
-New Orleans, LA
-Norwalk, CT
-Newark, NJ
-Waterloo, IA
-Berrien Springs, MI
-Charleston, SC
-Huntington, WV
-Frederick, MD
-Dover, DE
-Philadelphia, PA
-Smyrna, DE
-San Antonio, TX
-Nashua, NH
-Oklahoma City, OK
-Adelphi, MD
-Lake Worth, FL
-Greenville, NC
-Nashville, TN
-Whitewater, WI
-Independence, MO
-Allentown, PA
-Duluth, MN
-Murfreesboro, TN
-Hattiesburg, MS
-Carson City, NV
-Columbus, OH
-Richmond, VA
+Boise, ID
+New Haven, CT
+Springdale, AR
 Vestal, NY
-Memphis, TN
-Dallas, TX
-Davenport, IA
-North Dartmouth, MA
-Baton Rouge, LA
-San Marcos, TX
-Orlando, FL
-Charleston, WV
-Barre Town, VT
-Savannah, GA
-Sioux City, IA
-Stockton, CA
 New Brunswick, NJ
-Overland Park, KS
-Birmingham, AL
-DeKalb, IL
-Sterling Heights, MI
-Wellesley, MA
-Greeley, CO
+Hattiesburg, MS
+Potsdam, NY
+South Portland, ME
+Colchester, VT
+Indianapolis, IN
+Springfield, MA
+Lewiston, ME
+New York, NY
 Rock Springs, WY
-Sacramento, CA
-Melbourne, FL
+Fort Smith, AR
+Cambridge, MA
+Knoxville, TN
+Gulfport, MS
+Austin, TX
+Logan, UT
+Great Falls, MT
+Pawtucket, RI
 Charlotte, NC
-Toledo, OH | On Site | Aug 16 |
+El Paso, TX
+Bellingham, WA
+Sioux Falls, SD
+Las Cruces, NM
+Louisville, KY
+Rockville, MD
+Gresham, OR
+Morgantown, WV
+Fort Collins, CO
+Bowling Green, OH
+Owensboro, KY
+Flint, MI
+Jackson, MS
+Lexington, KY
+Erie, PA
+Scottsdale, AZ
+Bakersfield, CA
+Kalamazoo, MI
+Biloxi, MS
+Lansing, MI
+Brookings, SD
+Annandale, VA
+Carrollton, GA
+Vancouver, WA
+Kansas City, MO
+Jacksonville, FL
+Henderson, NV
+Elon, NC
+Plymouth, MN
+Chicago, IL
+Jackson, TN
+Chattanooga, TN
+Frankfort, KY
+Fort Wayne, IN
+Waterloo, IA
+Bloomsburg, PA
+San Antonio, TX
+Athens, GA
+Huntington, WV
+Lincoln, NE
+Charleston, SC
+Green Bay, WI
+Corpus Christi, TX
+Omaha, NE
+Frederick, MD
+Lawrenceville, GA
+Berrien Springs, MI
+New Orleans, LA
+West Jordan, UT
+Prairie View, TX
+Norfolk, VA
+Idaho Falls, ID
+Norwalk, CT
+McKinney, TX
+Tucson, AZ
+Commerce, TX
+Alamogordo, NM
+Ogden, UT
+Allendale, MI
+Seaford, DE
+Bellevue, NE
+Cedar Rapids, IA
+The Woodlands, TX
+Harrisburg, PA
+Anchorage, AK
+Iowa City, IA
+Mobile, AL
+Pittsburgh, PA
+Providence, RI
+Merced, CA
+Norman, OK
+Pierre, SD
+Nacogdoches, TX
+Wilmington, NC
+Juneau, AK
+Waterbury, CT
+Essex Junction, VT
+Rock Hill, SC
+Conway, AR
+Jonesboro, AR
+High Point, NC
+San Luis Obispo, CA
+Paterson, NJ
+Rexburg, ID
+Largo, MD
+Sparks, NV
+Menomonie, WI
+Danbury, CT
+Warren, MI
+Portland, OR
+Chico, CA
+Memphis, TN
+Grand Forks, ND
+Pittsburg, KS
+Miami, FL
+Salem, OR
+Macon, GA
+Los Angeles, CA
+Baton Rouge, LA
+Auburn, ME
+Aberdeen, SD
+Annapolis, MD
+Missoula, MT
+Greenville, NC
+Salt Lake City, UT
+Davenport, IA
+Edison, NJ
+Detroit, MI
+Augusta, GA
+Cheyenne, WY
+San Marcos, TX
+Tulsa, OK
+Fort Myers, FL
+Buffalo, NY
+Grand Island, NE
+Topeka, KS
+Las Vegas, NV
+Bowling Green, KY
+Flagstaff, AZ
+Huntsville, AL
+Burlington, VT
+Meridian, MS
+Pocatello, ID
+Peoria, IL
+Parkersburg, WV
+Phoenix, AZ
+Hammond, IN
+Laredo, TX
+Rochester, MN
+Boca Raton, FL
+Helena, MT
+Springfield, MO
+Valdosta, GA
+Melbourne, FL
+Jefferson City, MO
+Derry, NH
+South Bend, IN
+Clinton, IA
+Worcester, MA
+Eugene, OR
+Portland, ME
+Baltimore, MD
+Gaithersburg, MD
+Kenner, LA
+Rochester, NY
+Moscow, ID
+San Jose, CA
+Reading, PA
+St Cloud, MN
+Arlington, TX
+Aurora, IL
+Smyrna, DE
+Harrisonburg, VA
+Newark, NJ
+Philadelphia, PA
+Dover, DE
+Nashua, NH | On Site | Aug 16 |
 | **[Onewater Marine](https://onewatermarine.com)** | **[Frank Magazine Intern](https://jobright.ai/jobs/info/66befe0aaba401ee2165b711?utm_campaign=1065&utm_source=git)** | Dania, FL | On Site | Aug 15 |
 | **[KeyBank](https://www.key.com)** | **[2025 Summer Marketing Internship Program - Cleveland](https://jobright.ai/jobs/info/66b1125d14d4fe22643412c9?utm_campaign=1065&utm_source=git)** | Brooklyn, OH | On Site | Aug 15 |
 | **[Serene](https://www.serenemarketinginc.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/66bece82252f927774ac6adb?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | On Site | Aug 15 |
@@ -906,6 +895,9 @@ Boston, MA | On Site | Aug 15 |
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Marketing Intern (MGM National Harbor)](https://jobright.ai/jobs/info/66bfc986ccbded74ff0f982e?utm_campaign=1065&utm_source=git)** | National Harbor, MD | On Site | Aug 15 |
 | **[Blue Crosss Blue Shield Of Florida](https://www.floridablue.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bfc85897bd98326d068def?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Aug 15 |
 | **[WebTPA](http://webtpa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bfd2965dadc725bb6f7e98?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Aug 15 |
+| **[OneDigital](https://www.onedigital.com)** | **[Northeast Marketing Intern - Hybrid (Farmington, CT)](https://jobright.ai/jobs/info/66bfa6743e6dff2f40cbe7f3?utm_campaign=1065&utm_source=git)** | Multi Location
+RIA-Farmington, CT
+Farmington, CT | Hybrid | Aug 15 |
 | **[Nu Skin](http://www.nuskin.com)** | **[2024 Fall Marketing Communications Intern](https://jobright.ai/jobs/info/66bff014f64382608efdb182?utm_campaign=1065&utm_source=git)** | Provo, Utah | Hybrid | Aug 15 |
 | ↳ | **[Fall 2024 Digital Marketing Intern](https://jobright.ai/jobs/info/66bff014f64382608efdb174?utm_campaign=1065&utm_source=git)** | Provo, Utah | Hybrid | Aug 15 |
 | **[Eli Lilly](https://www.lilly.com)** | **[MBA Intern to Intern - Marketing](https://jobright.ai/jobs/info/66bff29f53c66e5b7af2cf56?utm_campaign=1065&utm_source=git)** | US, Indianapolis IN | On Site | Aug 15 |
@@ -917,15 +909,15 @@ Boston, MA | On Site | Aug 15 |
 | **[Japan Society](http://www.japansociety.org)** | **[Digital & Web Content, Media & Marketing Intern (Fall 2024)](https://jobright.ai/jobs/info/66bea316be055472539c5370?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Oakview Group](http://www.oakviewgroup.com)** | **[Marketing Intern /Crown Complex](https://jobright.ai/jobs/info/66be961b70588705b99455e1?utm_campaign=1065&utm_source=git)** | Fayetteville, NC | On Site | Aug 15 |
 | **[State of Missouri](http://mo.gov)** | **[Outdoor Advertising Intern](https://jobright.ai/jobs/info/66be8865b234d0c586d344a4?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66be91b55ed46d88a72bc817?utm_campaign=1065&utm_source=git)** | Multi Location
+Waukegan, IL
+Milwaukee, WI
+Pleasant Prairie, WI
+Glenview, IL
+Kenosha, WI | On Site | Aug 15 |
 | **[Realtime](https://www.userealtime.com)** | **[Content Intern](https://jobright.ai/jobs/info/66be8302b232d66271b18b5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
 | **[On Location Tours](https://onlocationtours.com)** | **[Fall Social Media Engagement Intern (For credit)](https://jobright.ai/jobs/info/66be8302b232d66271b18b67?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
 | ↳ | **[Fall Marketing And Public Relations Intern - For credit](https://jobright.ai/jobs/info/66be7f635023d6a0e6e3b4e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66be8302b232d66271b18d20?utm_campaign=1065&utm_source=git)** | Multi Location
-Glenview, IL
-Kenosha, WI
-Waukegan, IL
-Milwaukee, WI
-Pleasant Prairie, WI | On Site | Aug 15 |
 | **[King County Library System](http://kcls.org/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/66bf5977e08698d53e23648d?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Aug 15 |
 | **[Dementia Care Advocates](www.dementiacareadvocates.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/66be7b8c0122d62156b0c182?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Pam Transport](https://www.pamtransport.com/)** | **[Content Writer Intern](https://jobright.ai/jobs/info/66be76cfec5b9d1b0342f6fd?utm_campaign=1065&utm_source=git)** | Springdale, AR | On Site | Aug 15 |
@@ -940,9 +932,6 @@ Pleasant Prairie, WI | On Site | Aug 15 |
 | **[Sueños Sports](http://www.suenossports.com)** | **[Sueños Sports Contnet Creation & Social Media Internship (Unpaid, Remote)](https://jobright.ai/jobs/info/66bec78f981c46a4f4f4e265?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 15 |
 | **[Chellie Carlson Style](http://www.chelliecarlson.com)** | **[Fall Social Media Intern](https://jobright.ai/jobs/info/66bf562cc10317a52f29d62f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 15 |
 | **[Council on Foreign Relations](https://www.cfr.org/)** | **[Internship, Communications, Foreign Affairs Marketing, Fall 2024](https://jobright.ai/jobs/info/66be8caf9f4b020654f931ae?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
-| **[Idaho Steelheads](https://www.idahosteelheads.com)** | **[Marketing/Game Day Operations Internship](https://jobright.ai/jobs/info/66be5fa0090f2b9bee164a87?utm_campaign=1065&utm_source=git)** | Multi Location
-Boise Metropolitan Area
-Boise, ID | On Site | Aug 15 |
 | **[Tresi](http://shoptresi.com)** | **[Social Media and Creative Intern](https://jobright.ai/jobs/info/66be5c43b7526ec5fb22d9d4?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 15 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/66be627c24c72cabdb93fb16?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Aug 15 |
 | **[City of Fort Worth](https://www.fortworthtexas.gov)** | **[Communications Specialist I Intern - Multi-Media](https://jobright.ai/jobs/info/66be58a0cb41895d4978304f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 15 |
@@ -950,6 +939,7 @@ Boise, ID | On Site | Aug 15 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Marketing Trainee](https://jobright.ai/jobs/info/66be553bed1bc12c6e043ddd?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 15 |
 | **[Homestead Realty](https://www.homesteadrealtyinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66be53f4604e7481f2dbed4a?utm_campaign=1065&utm_source=git)** | Wauwatosa, WI | On Site | Aug 15 |
 | **[Walden Security](http://www.waldensecurity.com)** | **[Communications Intern](https://jobright.ai/jobs/info/66be6e8f8ed7dfacbf81f155?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Aug 15 |
+| **[Quest National Services](http://www.questns.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/66be5c43b7526ec5fb22dc38?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Aug 15 |
 | **[South Moon Under](http://www.southmoonunder.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66be51a40cbf4e6027719179?utm_campaign=1065&utm_source=git)** | Annapolis, MD | On Site | Aug 15 |
 | **[Dashboard.Earth](https://www.dashboard.earth/)** | **[USC/UCLA Field Marketing Intern](https://jobright.ai/jobs/info/66be51a40cbf4e6027719187?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 15 |
 | **[Arizona State Fair](https://azstatefair.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/66be4c3a2472b8d42d8d5ed5?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 15 |
@@ -966,8 +956,13 @@ Boise, ID | On Site | Aug 15 |
 | **[Eryn AI, Corp](https://eryn.ai/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/66be32cb772860b564ec9a78?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Aug 15 |
 | **[Golden Hippo](http://goldenhippomedia.com)** | **[Marketing Intern (Youtube)](https://jobright.ai/jobs/info/66a95878ea893881b18811eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Launch 513](https://www.welcometolaunch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66be29b7859b3aadbb5e8eee?utm_campaign=1065&utm_source=git)** | Cincinnati Metro | On Site | Aug 15 |
+| **[L'Oreal](https://www.loreal.com)** | **[2025 L'Oréal USA Summer Internship - Digital - Undergraduate - El Segundo, California](https://jobright.ai/jobs/info/66c2164fe4a093e45e8cea72?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Aug 15 |
 | **[Mississippi University for Women](http://muw.edu)** | **[Publicity and Marketing Assistant - Office of Undergraduate Research](https://jobright.ai/jobs/info/66be32cb772860b564ec9baf?utm_campaign=1065&utm_source=git)** | Columbus, MS | On Site | Aug 15 |
+| **[Waypoint](https://www.waypointnh.org)** | **[Intern - Digital Media Unpaid Internship Fall 2024 (Manchester)](https://jobright.ai/jobs/info/66c212b4e3d53fdd6c1f22ed?utm_campaign=1065&utm_source=git)** | Dover, NH | On Site | Aug 15 |
+| **[L'Oreal](https://www.loreal.com)** | **[2025 L'Oréal USA Summer Internship - Marketing - Undergraduate - El Segundo, California](https://jobright.ai/jobs/info/66c2121c4c7bb9ad4355c516?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Aug 15 |
+| ↳ | **[2025 L'Oréal USA Summer Internship - Marketing - Undergraduate - New York, NY](https://jobright.ai/jobs/info/66c209724c6d324157a6e693?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[JLS PR](jlspr.us)** | **[Public Relations Fall and Winter Intern](https://jobright.ai/jobs/info/66bf517c88dffccd8ee1e592?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 15 |
+| **[L'Oreal](https://www.loreal.com)** | **[2025 L'Oréal USA Summer Internship - Digital - Undergraduate - New York, NY](https://jobright.ai/jobs/info/66c209724c6d324157a6e694?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[The New Heart for Life Community](http://newheartforlife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66be00b492dbcf1c1f9cd06a?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Aug 15 |
 | **[Upper East Vintage](https://uppereastvintagenyc.com/)** | **[Fall 2024 Social Media & Content Intern](https://jobright.ai/jobs/info/66be1450173ed98a82e1266e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/66be745cfcf644d744aff6bd?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Aug 15 |
@@ -998,6 +993,9 @@ Boise, ID | On Site | Aug 15 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/66bda61547b6326df3a5aee9?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Aug 14 |
 | **[Idea Peddler](https://ideapeddler.com)** | **[Social Media and Public Relations Intern](https://jobright.ai/jobs/info/66bdb2b2c69507e7e13c1b9b?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Aug 14 |
 | **[Culdesac](https://culdesac.com/)** | **[Social Media & Events Intern](https://jobright.ai/jobs/info/66bd9c3d669954ce566af655?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Aug 14 |
+| **[Idaho Steelheads](https://www.idahosteelheads.com)** | **[Marketing/Game Day Operations Internship](https://jobright.ai/jobs/info/66c03836c100d47d5a8b1e7a?utm_campaign=1065&utm_source=git)** | Multi Location
+Boise, ID
+Boise Metropolitan Area | On Site | Aug 14 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/66bda058b18aa92b4ddf1c87?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Aug 14 |
 | **[I Live Here, I Give Here](http://ilivehereigivehere.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bd89586f3ced1536e81469?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Aug 14 |
 | **[David Zwirner Gallery](http://www.davidzwirner.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/66bda3052401048873085b96?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 14 |
@@ -1035,9 +1033,6 @@ Boise, ID | On Site | Aug 15 |
 | **[Spencer Museum of Art](http://www.spencerart.ku.edu/)** | **[Lied Center Student Marketing Assistant](https://jobright.ai/jobs/info/66bd06f19a6ab87ea116ad0d?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Aug 14 |
 | **[PCOnline](https://pconlineus.com/)** | **[Digital Marketing Specialist – Marketplace Ads](https://jobright.ai/jobs/info/66bceea53f38683a58e79ec0?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Aug 14 |
 | **[AMOREPACIFIC Ventures](https://ventures.amorepacific.com/index.do)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66bce8fc2572dac082c93fe4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
-| **[SAGE Publications](https://group.sagepub.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/66bcf79ab139ad9cadce1593?utm_campaign=1065&utm_source=git)** | Multi Location
-Washington, DC
-United States | On Site | Aug 14 |
 | **[Mass General Brigham](https://www.massgeneralbrigham.org)** | **[Science Communications Intern](https://jobright.ai/jobs/info/66bcf1aceaef3b4897299e00?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Aug 14 |
 | **[Hammitt](https://www.hammitt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bcec1ad855f6c70211dda5?utm_campaign=1065&utm_source=git)** | Hermosa Beach, CA | On Site | Aug 14 |
 | **[Smith Douglas Homes](https://smithdouglas.com/)** | **[Marketing Assistant Charlotte - Part-Time](https://jobright.ai/jobs/info/66bcebaf21f629e02a67795e?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Aug 14 |
@@ -1051,9 +1046,9 @@ United States | On Site | Aug 14 |
 | **[Brandon Blackwood New York](https://brandonblackwood.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c0ae6d0a50c4abdcb58e3b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Game Lounge](https://www.gamelounge.com)** | **[Social Media Coordinator (Internship)](https://jobright.ai/jobs/info/66bcb5fbdd01e30a5bc131da?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 14 |
 | **[Skigital](https://www.skigital.com/)** | **[Digital Marketing and Analytics Intern](https://jobright.ai/jobs/info/66bcb301a22f52a0a27efa7b?utm_campaign=1065&utm_source=git)** | West Chester, PA | On Site | Aug 14 |
-| **[3C World Group](https://3cworldgroup.com)** | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66bccb165e1def67acb169c9?utm_campaign=1065&utm_source=git)** | Multi Location
-Piqua, OH
+| **[3C World Group](https://3cworldgroup.com)** | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66bcb301a22f52a0a27efbed?utm_campaign=1065&utm_source=git)** | Multi Location
 Troy, OH
+Piqua, OH
 Colorado Springs, CO
 Vandalia, OH | On Site | Aug 14 |
 | **[Meredith Stern Interiors](www.meredithsterninteriors.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/66be042fdedaea1a09e1bd3e?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Aug 14 |
@@ -1064,9 +1059,6 @@ Vandalia, OH | On Site | Aug 14 |
 | **[Working Wardrobes](https://www.workingwardrobes.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/66bc8f6bf9a923fecc3bbb42?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Aug 14 |
 | **[UFC](http://UFC.com)** | **[Corporate Communications Intern - Fall 2024](https://jobright.ai/jobs/info/66a045a727f3a8d785fe0035?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Aug 14 |
 | **[STERIS Corporation](http://steris.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66a038d55fe2440702543bfb?utm_campaign=1065&utm_source=git)** | Mentor, OH | Hybrid | Aug 14 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Analytics & Insights Intern, SPT Research – Fall 2024](https://jobright.ai/jobs/info/669fde151c33ed13e0471a0d?utm_campaign=1065&utm_source=git)** | Multi Location
-Culver City, CA
-Culver City, California | Hybrid | Aug 14 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media Fall 2024 Internship Program - New York City](https://jobright.ai/jobs/info/66bdc0a7c401a335af102cdf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Multicultural Marketing Intern](https://jobright.ai/jobs/info/6685c019c96ea879d35d7f24?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
 | **[CrossCountry Mortgage](http://CrossCountryMortgage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66a308256966215d4496186c?utm_campaign=1065&utm_source=git)** | Greater Cleveland | On Site | Aug 14 |
@@ -1076,6 +1068,9 @@ Culver City, California | Hybrid | Aug 14 |
 | **[Allus Consultoria Estratégica e Financeira](http://www.allusconsult.com.br)** | **[Lancaster Farming, Inc- PT Digital Marketing Intern](https://jobright.ai/jobs/info/66bc616682d04938176130c9?utm_campaign=1065&utm_source=git)** | Ephrata, PA | On Site | Aug 13 |
 | **[Sundays](http://www.dearsundays.com)** | **[PR internship for a Beauty and Wellness Brand](https://jobright.ai/jobs/info/66bc21f8f0ab2d62076c45f6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 13 |
 | **[Colette Phillips Communications](https://www.cpcglobal.com)** | **[Public Relations and Communications Intern](https://jobright.ai/jobs/info/66bc0e40bd30ca840c52bc1a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 13 |
+| **[SAGE Publications](https://group.sagepub.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/66bc098fcd03791998e13a37?utm_campaign=1065&utm_source=git)** | Multi Location
+United States
+Washington, DC | Remote | Aug 13 |
 | **[Cider](https://shop.shopcider.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/66bc0826dac8bdb9079d7880?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Indiana University](https://www.iu.edu)** | **[Part-Time Student Marketing Intern, Auxiliary Business Services](https://jobright.ai/jobs/info/66bc137620daf44a5e549792?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Aug 13 |
 | **[Lipscomb University](http://www.lipscomb.edu/)** | **[Athletics Marketing & Game Operations Assistant Student Worker](https://jobright.ai/jobs/info/66bcf1aceaef3b4897299ea4?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Aug 13 |
@@ -1132,6 +1127,9 @@ New York, NY | Hybrid | Aug 13 |
 | **[Gao Tek](https://www.gaotek.com)** | **[Virtual Tech Support Intern - Digital Marketing and SEO Assistant](https://jobright.ai/jobs/info/66bba381e61d8ceb26e5e74a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Aramark](http://www.aramark.com)** | **[Marketing Student Worker - Functional - UNC-Wilmington](https://jobright.ai/jobs/info/66bf77b75356394d5b2a86d2?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Aug 13 |
 | **[Witmer Public Safety Group, Inc](http://wpsginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bb94c8d7e59baa30f7522d?utm_campaign=1065&utm_source=git)** | Coatesville, PA | On Site | Aug 13 |
+| **[Guest Services, Inc.](http://www.guestservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bf75369b745bbecc6a9a12?utm_campaign=1065&utm_source=git)** | Multi Location
+Fairfax, VA
+Virginia, United States | On Site | Aug 13 |
 | **[Monroe Tractor & Implement Co.](http://monroetractor.com)** | **[Junior Marketing Assistant Internship](https://jobright.ai/jobs/info/669217314e02a29a945301dc?utm_campaign=1065&utm_source=git)** | Henrietta, NY | On Site | Aug 13 |
 | **[ISM](https://www.myisminc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bb760730a9c61425a466d3?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Aug 13 |
 | **[Colony Brands](http://www.colonybrands.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/66c0ba4ca2edc617bd0df5d3?utm_campaign=1065&utm_source=git)** | Monroe, WI | On Site | Aug 13 |
@@ -1146,12 +1144,12 @@ New York, NY | Hybrid | Aug 13 |
 | **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern - Jergens](https://jobright.ai/jobs/info/669eed43bdb0e285add8b237?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Aug 13 |
 | **[Impact Code](https://www.linkedin.com/company/100055516)** | **[Marketing Manager](https://jobright.ai/jobs/info/66bb5c95f65929349f0d7f4d?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 13 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Marketing Intern - Dallas](https://jobright.ai/jobs/info/66bb3fca852fc6773c272d86?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 13 |
-| **[Divergent Marketing Solutions Inc.](https://www.divergentmktgsolutions.com/)** | **[2024 Marketing and Sales Internship](https://jobright.ai/jobs/info/66bb26b283b6d71003085368?utm_campaign=1065&utm_source=git)** | Multi Location
-National City, CA
-San Diego, CA | On Site | Aug 13 |
 | **[Aramark](http://www.aramark.com)** | **[Marketing Internship-Shippensburg University](https://jobright.ai/jobs/info/66bda46f5b2360c53afd9960?utm_campaign=1065&utm_source=git)** | Shippensburg, PA | On Site | Aug 12 |
 | **[CollabTalent](www.collabtalent.co)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/66bace13ceebe88512f6d6bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Ackerman Cancer Center](https://www.ackermancancercenter.com/)** | **[Marketing/Community Relations Intern (FALL 2024 SEMESTER)](https://jobright.ai/jobs/info/66bbf25c35df6ff9b1728879?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Aug 12 |
+| **[Divergent Marketing Solutions Inc.](https://www.divergentmktgsolutions.com/)** | **[2024 Marketing and Sales Internship](https://jobright.ai/jobs/info/66bace13ceebe88512f6da21?utm_campaign=1065&utm_source=git)** | Multi Location
+San Diego, CA
+National City, CA | On Site | Aug 12 |
 | **[H!ero](https://hieroinc.com/)** | **[Business Marketing Internship](https://jobright.ai/jobs/info/66bace13ceebe88512f6dac3?utm_campaign=1065&utm_source=git)** | Lynwood, CA | On Site | Aug 12 |
 | **[Chartwells Higher Education](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Florida Atlantic University](https://jobright.ai/jobs/info/66bace13ceebe88512f6dcf2?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Aug 12 |
 | **[Comcast](http://corporate.comcast.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/66bc057a1139dfdcfd1ca483?utm_campaign=1065&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 12 |
@@ -1185,21 +1183,10 @@ San Diego, CA | On Site | Aug 13 |
 | **[Trivium Interactive](https://www.triviuminteractive.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66ba36a049668dc1b451303d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 12 |
 | **[IMAGINE](https://www.theimaginegroup.com)** | **[Fall 2024 Marketing Intern](https://jobright.ai/jobs/info/66ba2dcd671bb9897db17038?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 12 |
 | **[Groot PR](https://grootpr.com)** | **[Public Relations & Social Media Intern](https://jobright.ai/jobs/info/66ba2dcd671bb9897db17078?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 12 |
-| **[EME China Consultants](http://emechina.us)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c0ba4ca2edc617bd0df5d4?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Aug 12 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Community Engagement Strategy](https://jobright.ai/jobs/info/66ba3d5e8912456bd1cfaeae?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Aug 12 |
 | **[Creative Energy Candles](https://www.creativeenergycandles.com)** | **[Creative Social Media Intern](https://jobright.ai/jobs/info/66bae5092aa1a00e5eefc8e8?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Aug 12 |
 | **[Tepper Sports & Entertainment](https://www.linkedin.com/company/90721817)** | **[Intern - Marketing - CLTFC](https://jobright.ai/jobs/info/66bdf57e0a54941d68aed6a6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Aug 12 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/66b9fa0ef9d499751acfe831?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[Enterprise Holdings](http://www.enterpriseholdings.com)** | **[Management Trainee Fall Internship - HOU Airport](https://jobright.ai/jobs/info/66634ee0c127d17bdd96920e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 12 |
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/66b9da36da26b51ebd218309?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Aug 12 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Internship (Spring 2025) - Avon, CO](https://jobright.ai/jobs/info/66c1bd97da88818eac6454fa?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Aug 12 |
-| **[University of Mississippi](http://www.olemiss.edu/)** | **[Recent Graduate Intern I/II](https://jobright.ai/jobs/info/66b9c0143ad684618d9470da?utm_campaign=1065&utm_source=git)** | University, MS | On Site | Aug 12 |
-| **[TERRY WOLLMAN](https://www.linkedin.com/company/57703054)** | **[Marketing and Production Interns](https://jobright.ai/jobs/info/66b9a3a66928d4f6f1254601?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 11 |
-| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Venue Marketing Intern](https://jobright.ai/jobs/info/66b9ec67d918d5aec62e6605?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 11 |
-| **[Vision Integrated Graphics Group](http://www.visionps.com)** | **[Digital Marketing Intern - Fall 2024 (School Credit)](https://jobright.ai/jobs/info/66ba4e253dbdbe2e478320d1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 11 |
-| **[Salt Lake Community College](http://www.slcc.edu/)** | **[Specialist I, Marketing (Part Time)](https://jobright.ai/jobs/info/66bad9919b1a5cda935f1205?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 11 |
-| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Honors Communications and Social Media](https://jobright.ai/jobs/info/66ba57e4d00702c75210b76d?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 11 |
-| **[Sportee](www.sportee.us)** | **[Media Intern](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fd85?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Aug 11 |
-| **[Zero Doubt Club](https://zerodoubtclub.com/)** | **[Zero Doubt Club Digital Marketing Intern](https://jobright.ai/jobs/info/66b95aab4e28138cdff9a4fe?utm_campaign=1065&utm_source=git)** | Independence, OH | Hybrid | Aug 11 |
-| **[Tea Collection](http://www.teacollection.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/66b92dc2d2c6dd23f047d526?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
