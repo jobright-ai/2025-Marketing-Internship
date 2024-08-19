@@ -73,8 +73,7 @@ For a complete list, see the full spreadsheet below:
 | **[TapNow](https://tapnow.fun)** | **[Brand Ambassador](https://jobright.ai/jobs/info/66c1954f992d7482d083fc83?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[SnowStar Entertainment](snowstarentertainment.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66c1f7ab57f8c57b4b0afb9c?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Aug 17 |
 | **[Urban Creator](https://www.urbancreator.net)** | **[Design Marketing Internship Fall(Korean Speaking)](https://jobright.ai/jobs/info/66c10e7b2217714fc87f1e57?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | Aug 17 |
-| **[ENTRADE X](https://ex-zerocarbon.com/)** | **[Global Marketing Innovation Internship: Launch Your Career in Bali](https://jobright.ai/jobs/info/66c1b720167d65c4b79465cb?utm_campaign=1065&utm_source=git)** | Multi Location
-Los Angeles, CA
+| **[ENTRADE X](https://ex-zerocarbon.com/)** | **[Global Marketing Innovation Internship: Launch Your Career in Bali](https://jobright.ai/jobs/info/66c1b720167d65c4b79465cb?utm_campaign=1065&utm_source=git)** | Multi<br>Location<br>Los Angeles, CA
 San Francisco, CA | On Site | Aug 17 |
 | **[The Untitled Magazine](http://untitled-magazine.com/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/66c0e7dd76fb9c3e9de1e38b?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Aug 17 |
 | **[Cherry Creek School](https://www.cherrycreekschools.org/)** | **[CTE Marketing Intern - Cherry Creek Innovation Campus](https://jobright.ai/jobs/info/66c0ddac1cc34639b1687173?utm_campaign=1065&utm_source=git)** | Multi Location
