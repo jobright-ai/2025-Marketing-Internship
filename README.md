@@ -44,8 +44,7 @@ Only jobs posted in the last <span style="color: red; font-weight: bold; font-si
 <br>
 For a complete list, see the full spreadsheet below:
 </h4>
-<a href="https://intern-list.com/?selectedKey={selectKey}&utm_source=&utm_campaign=Marketing">
-<a href="https://intern-list.com/?selectedKey=📢%20Marketing&utm_source=&utm_campaign={utm_campaign_str}">
+<a href="https://intern-list.com/?selectedKey=📢%20Marketing&utm_source=&utm_campaign=Marketing">
     <img src="./static/img/airtable.png" alt="excel_icon", style="width: 40%; height: 40%;">
 </a>
 </div>
@@ -1161,5 +1160,4 @@ For a complete list, see the full spreadsheet below:
 | **[Ambrose Marketing](www.ambrosemarketing.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/66bd389e2d89931d24c4fb08?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Aug 13 |
 | **[Francis Financial](https://francisfinancial.com/)** | **[Marketing and Administrative Internship](https://jobright.ai/jobs/info/66bc2d503fc2b4b25dd93424?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 13 |
 | **[ACE](https://aceloans.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66bb9d6b78959ee6901e3d56?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 13 |
-| **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/66be3bb09b4c21e613f3c339?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
