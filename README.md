@@ -486,14 +486,4 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/6650cd72577e8e3700b89412?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Aug 20 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Game Presentation (Seasonal 2024-25)](https://jobright.ai/jobs/info/66c5246e93950544f36d9288?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 20 |
 | ↳ | **[Internship: Sales Event Planning (Seasonal 2024-25)](https://jobright.ai/jobs/info/66c5246e93950544f36d9290?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 20 |
-| **[Profiles](https://profilespr.com)** | **[Public Relations/Social Media Intern](https://jobright.ai/jobs/info/66c36b204c65214d9c7bc1c5?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Aug 20 |
-| **[S'more](https://www.linkedin.com/company/89927528)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c45000010b73d9b3152a77?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 20 |
-| **[Praytell](http://www.praytellagency.com/)** | **[Paid Media Intern (Must be in Austin)](https://jobright.ai/jobs/info/66c44a50b6bd0531b8a98178?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Aug 19 |
-| ↳ | **[Paid Media Intern (Must be in Austin)](https://jobright.ai/jobs/info/66c43a863be2b02f43668f73?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Aug 19 |
-| **[Grimaldi's Pizzeria](http://www.grimaldispizzeria.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c6dadbe5541ac03efa2b4b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Aug 19 |
-| **[Lerner and Pooch](https://www.lernerandpooch.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/66c4986fcb615f5853ee1517?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 19 |
-| **[South Carolina Stingrays](https://www.stingrayshockey.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/66c6b63252915746869887fd?utm_campaign=1065&utm_source=git)** | North Charleston, SC | On Site | Aug 19 |
-| **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Marketing (Undergraduate)](https://jobright.ai/jobs/info/66c41e5a0758981ae2ac8d95?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Aug 19 |
-| ↳ | **[Internship in Marketing (Undergraduate)](https://jobright.ai/jobs/info/66c41e5a0758981ae2ac9166?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Aug 19 |
-| **[ASM Global](https://asmglobal.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66c42aaeeb4dfcfb15f0d138?utm_campaign=1065&utm_source=git)** | Laredo, TX | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
