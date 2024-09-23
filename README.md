@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/66f16c98a3bf10c62898fd49?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
+| **[HNTB](http://www.hntb.com/)** | **[Returning Marketing/Communications/Public Engagement/Finance/Advisory Intern/Co-Op](https://jobright.ai/jobs/info/66f157abf9e5958be9dcb473?utm_campaign=1065&utm_source=git)** | Scott Depot, WV | On Site | Sep 23 |
+| ↳ | **[Returning Marketing/Communications/Public Engagement/Finance/Advisory Intern/Co-Op](https://jobright.ai/jobs/info/66f162551a719f6f4f6fafdf?utm_campaign=1065&utm_source=git)** | North Charleston, SC | On Site | Sep 23 |
+| **[English Language and Literature](englishlanguageandliterature.com)** | **[Instagram Marketing Intern](https://jobright.ai/jobs/info/66f13fcbe5b5bf25b96e8731?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Sep 23 |
+| **[LiveBuzz Studio](https://livebuzzstudio.com/join-now/)** | **[Talent Manager Intern](https://jobright.ai/jobs/info/66f138204dff9238b0ebd7d2?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Marketing Project Manager Intern](https://jobright.ai/jobs/info/66f12ccfcd39f214feee3805?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Skyworks Solutions](http://www.skyworksinc.com)** | **[Marketing Data Analyst Winter/Spring Co-Op](https://jobright.ai/jobs/info/66f12d9f69c0f6a36ef49ac4?utm_campaign=1065&utm_source=git)** | Thousand Oaks, CA | On Site | Sep 23 |
 | **[Nissan Motor](https://www.nissan-global.com/EN/)** | **[Market Intelligence Data Intern](https://jobright.ai/jobs/info/66f1213d3a01faf31dd9a3b1?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Sep 23 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Service Employees International Union](http://www.seiu.org)** | **[Digital Strategy Intern](https://jobright.ai/jobs/info/66f0e7e0e567119e0dbaab15?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Sep 22 |
 | **[Green Portfolio Project](https://greenportfolioproject.my.canva.site)** | **[Highschool Social Media Marketing Intern](https://jobright.ai/jobs/info/66f0d3317a968e735038d74e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[DISRPT AGENCY](https://disrptpr.com/)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/66f0cdce734e247601828848?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 22 |
-| **[361Firm](https://361firm.com)** | **[Analyst Intern](https://jobright.ai/jobs/info/66f0c49544bdfaa3ba2f2eff?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 22 |
 | **[E.L.F. Beauty](https://www.elfbeauty.com)** | **[Intern, Product Marketing, Innovation](https://jobright.ai/jobs/info/66f0f260f7bea36fd785de22?utm_campaign=1065&utm_source=git)** | Oakland, California | Hybrid | Sep 22 |
 | **[Hill’s Pet Nutrition](https://www.hillspet.com)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/66f0acd59016f2c353790be7?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Sep 22 |
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Event Planning Intern](https://jobright.ai/jobs/info/66f095c64bc72b77f96b3874?utm_campaign=1065&utm_source=git)** | Atlanta Metro | On Site | Sep 22 |
@@ -74,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Nedaj Vodka](http://www.nedajvodka.com)** | **[Internship in Marketing](https://jobright.ai/jobs/info/66f07a891b6284e9ee75fe23?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Sep 22 |
 | **[TellCo Europe](https://tellco-europe.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66f0633fcd9cdae9deccd7e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[The New Heart for Life Community](http://newheartforlife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66f04839ec87b8537689fa6a?utm_campaign=1065&utm_source=git)** | Reston, VA | Remote | Sep 22 |
-| **[AddU - Connect With People You Meet](https://www.linkedin.com/company/11001557)** | **[Research Intern](https://jobright.ai/jobs/info/66f00fb8ef18ea23c988c5ad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Sep 22 |
 | **[SUPERTUTOR](https://aisupertutor.web.app/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/66f00b7480c4b4beaf74f82d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Miracom Hive](https://www.miracomhive.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/66f0033754692db179929f63?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | ↳ | **[Marketing Trainee](https://jobright.ai/jobs/info/66f0033754692db179929f6b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
@@ -113,8 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Jefferson Health System](https://www.jeffersonhealth.org/index.html)** | **[Internship - Marketing & Communications](https://jobright.ai/jobs/info/66eb56458f7674af9eadb3cb?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 21 |
 | **[3C World Group](https://3cworldgroup.com)** | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66eee688ea76f7c608a3ad1d?utm_campaign=1065&utm_source=git)** | Moreno Valley, CA | On Site | Sep 21 |
 | ↳ | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66eee688ea76f7c608a3ae8b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Sep 21 |
-| **[CONNECTMETA.AI](www.connectmeta.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/66eed324746b1025a1800afe?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
-| **[3C World Group](https://3cworldgroup.com)** | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66eede2ad10918e2b42de25f?utm_campaign=1065&utm_source=git)** | Troy, OH | On Site | Sep 21 |
+| ↳ | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66eede2ad10918e2b42de25f?utm_campaign=1065&utm_source=git)** | Troy, OH | On Site | Sep 21 |
 | **[HungryPanda](http://www.hungrypanda.co)** | **[Marketing Intern - Mandarin Speaking](https://jobright.ai/jobs/info/66eed5128fdf989b760125d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[3C World Group](https://3cworldgroup.com)** | **[Field Marketing Representative (Fiber Internet)](https://jobright.ai/jobs/info/66eed5128fdf989b7601262d?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Sep 21 |
 | **[The #CitiesFirst Advisors + Podcast](https://rss.com/podcasts/citiesfirst/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66f0f7ddcbc5da3c9fd4574a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
@@ -141,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[MKS Instruments](http://www.mksinst.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/66eea5b8b72d8df09d9eab5e?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Sep 21 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Insights & Strategy Intern](https://jobright.ai/jobs/info/66d258343399393f7e387e57?utm_campaign=1065&utm_source=git)** | Lakeville, MN | On Site | Sep 21 |
 | **[Colorado Judicial Learning Center](https://cjlc.colorado.gov/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66f12ea5b015ccf1dbef63e0?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Sep 21 |
+| **[2D FilmWorks](https://www.2dfilmworks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66efa815a327ce10f1ca279f?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Sep 21 |
 | **[Chicago Sport and Social Club](https://chicagosocial.com)** | **[Sponsorship Internship](https://jobright.ai/jobs/info/66ee8d3ed73fbd3077f047e7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[Walgreens](https://www.walgreens.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/66ef1aa2332bde25e300ac58?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 20 |
 | **[Insomniac Events](http://insomniac.com)** | **[Marketing Intern - Insomniac Music Group](https://jobright.ai/jobs/info/66ee72f75b25f9c9d121bd68?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | Sep 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Internship - WSJ Content Marketing](https://jobright.ai/jobs/info/66ee28ae8daf78cc7f9d8d05?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
 | **[Peter Millar](http://www.petermillar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/66ee266f22c39cdf59d110ca?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Sep 20 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Bilingual Marketing Communication Strategy Co-Op](https://jobright.ai/jobs/info/66ee1398bf43ad2b8b411254?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Sep 20 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/66ee2271e4cea31b5c42da66?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Sep 20 |
-| **[Tumble](https://tumble.to)** | **[Marketing Intern - Content Creator](https://jobright.ai/jobs/info/66ee130e1126d8f8bcb4b762?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
-| **[Mary Kay Global](https://www.marykay.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/66db96ed5657cd88b4a0af81?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
