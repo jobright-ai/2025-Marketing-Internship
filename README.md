@@ -57,9 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Intern - Associate Brand Manager – Frisco, TX](https://jobright.ai/jobs/info/66ff51f860c1755475903fba?utm_campaign=1065&utm_source=git)** | Frisco, TX | Hybrid | Oct 03 |
+| ↳ | **[Summer 2025 Intern -  Associate Brand Manager – Burlington, MA](https://jobright.ai/jobs/info/66ff51f860c1755475903fbc?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Oct 03 |
+| **[KITH](https://kith.com)** | **[Intern, VIP Marketing Relations](https://jobright.ai/jobs/info/66ff5d68f9829e9db22711e2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[Advanced Markets General Intern, Summer 2025](https://jobright.ai/jobs/info/66ff5262646299eebce33ace?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 03 |
+| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Global Practices Marketing Co-Op](https://jobright.ai/jobs/info/66ff458838c582ff6fba3335?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 03 |
+| **[Vertex Pharmaceuticals](http://www.vrtx.com)** | **[Vertex Spring 2025 Co-op, Corporate Communications - Scientific Writing and Disease Area Communications (Boston, MA)](https://jobright.ai/jobs/info/66ff250bd05f1bb5a6df8ce3?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 | **[Venture Public Relations](http://www.venturepr.co)** | **[Fall Internship for Credit - PR, Marketing and Business Development for College Students](https://jobright.ai/jobs/info/66ff25440efe69e396f0a9ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[StackCommerce](http://www.stackcommerce.com)** | **[Holiday Marketing Intern](https://jobright.ai/jobs/info/66ff22ce9c7304d2115685d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Solutions Marketing Creator - Summer 2025](https://jobright.ai/jobs/info/66ff2b299994a20dc9325b93?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Serene](https://www.serenemarketinginc.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/66ff5262646299eebce33cbc?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | On Site | Oct 03 |
+| **[Lumen Technologies](https://news.lumen.com/home)** | **[Intern - Internal Communications - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c17554759040ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| ↳ | **[Intern - Product Marketing - Summer 2025](https://jobright.ai/jobs/info/66ff51f860c175547590408d?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Shinkei](https://www.shinkei.systems)** | **[Social Media Intern](https://jobright.ai/jobs/info/66ff25440efe69e396f0aa73?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Oct 03 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Fall 2024 - Digital Merchandising Intern](https://jobright.ai/jobs/info/66ff13ce9e45d3915eb3f3b7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[West Pharmaceutical Services](https://www.westpharma.com/)** | **[Jr. Associate, Corporate Communications (Intern)](https://jobright.ai/jobs/info/66ff1ecdc3b738197b0cc967?utm_campaign=1065&utm_source=git)** | Exton, PA | On Site | Oct 03 |
@@ -67,12 +76,16 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/66ff175127f037f0cc3c568a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Oct 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern, Summer 2025](https://jobright.ai/jobs/info/66ff05924ab8bdc5e80979c2?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[Acquco](https://www.acqu.co)** | **[TikTok Brand Ambassador (Part-Time Paid Internship + Commission)](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f15a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
+| **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[External Engagement & Corporate Communications Intern](https://jobright.ai/jobs/info/66ff5681a403e992c52f5055?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Oct 03 |
 | **[Dynatrace](https://www.dynatrace.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66feff01f3b367546063c1bf?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Oct 03 |
 | **[Federal Reserve Bank of St. Louis](http://www.stlouisfed.org)** | **[TRSO Intern](https://jobright.ai/jobs/info/66ff0e47bcb2d2837ed9f286?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Oct 03 |
 | **[Berkshire Hathaway Specialty Insurance](http://www.bhspecialty.com)** | **[Travel Marketing, Intern](https://jobright.ai/jobs/info/66ff175127f037f0cc3c5506?utm_campaign=1065&utm_source=git)** | Stevens Point, WI | On Site | Oct 03 |
+| **[Schneider Electric](https://www.se.com)** | **[Product Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/66ff458838c582ff6fba33d6?utm_campaign=1065&utm_source=git)** | Andover, MA | On Site | Oct 03 |
+| ↳ | **[Product Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/66ff458838c582ff6fba3472?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 03 |
 | **[Nokia](http://www.nokia.com)** | **[Copywriting and Editor Coop](https://jobright.ai/jobs/info/66fef188c18415bb05ee73a5?utm_campaign=1065&utm_source=git)** | Coppell, TX | Remote | Oct 03 |
 | **[Austin Community College](http://austincc.edu)** | **[Honors Ambassador - Intern I (Hourly)](https://jobright.ai/jobs/info/66fef6a4a795350f8a3f5565?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | **[University of Michigan](https://cfe.umich.edu/)** | **[Social Media Intern](https://jobright.ai/jobs/info/66feeb0aea6023bc862754c9?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Oct 03 |
+| **[TD](https://www.td.com)** | **[2025 Global Markets - Automated Execution Co Op](https://jobright.ai/jobs/info/66ff4081df21895f2f86ffa8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[2025 Summer Intern - Marketing Science Analyst](https://jobright.ai/jobs/info/66feeb0aea6023bc862755bf?utm_campaign=1065&utm_source=git)** | Bloomington, IL | Hybrid | Oct 03 |
 | ↳ | **[2025 Summer Intern - Performance Marketing Execution](https://jobright.ai/jobs/info/66ff083cb43432a1c4348137?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Oct 03 |
 | **[Hepatitis B Foundation](https://www.hepb.org)** | **[Internship in Communications and Marketing](https://jobright.ai/jobs/info/66fedc9002f951a9ae7fa1a8?utm_campaign=1065&utm_source=git)** | Doylestown, PA | Hybrid | Oct 03 |
@@ -118,43 +131,30 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d260e?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2610?utm_campaign=1065&utm_source=git)** | Pomona, CA | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2611?utm_campaign=1065&utm_source=git)** | Mesa, AZ | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2612?utm_campaign=1065&utm_source=git)** | Bozeman, MT | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2613?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2614?utm_campaign=1065&utm_source=git)** | Bowie, MD | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2612?utm_campaign=1065&utm_source=git)** | Bozeman, MT | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2616?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2615?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2619?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2617?utm_campaign=1065&utm_source=git)** | Eugene, OR | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2618?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261a?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2619?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261b?utm_campaign=1065&utm_source=git)** | Waipahu, HI | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261a?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261c?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2623?utm_campaign=1065&utm_source=git)** | Sterling Heights, MI | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2622?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261d?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2621?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261f?utm_campaign=1065&utm_source=git)** | Essex Junction, VT | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2626?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2621?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2624?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2625?utm_campaign=1065&utm_source=git)** | Geneseo, NY | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261e?utm_campaign=1065&utm_source=git)** | Lake Worth, FL | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2624?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2622?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d261f?utm_campaign=1065&utm_source=git)** | Essex Junction, VT | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2623?utm_campaign=1065&utm_source=git)** | Sterling Heights, MI | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2620?utm_campaign=1065&utm_source=git)** | Chandler, AZ | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262e?utm_campaign=1065&utm_source=git)** | Burlington, VT | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2627?utm_campaign=1065&utm_source=git)** | Largo, MD | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262b?utm_campaign=1065&utm_source=git)** | St Petersburg, FL | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262a?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2630?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2631?utm_campaign=1065&utm_source=git)** | Mililani Town, HI | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262d?utm_campaign=1065&utm_source=git)** | Honolulu, HI | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262c?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2629?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
 | ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2628?utm_campaign=1065&utm_source=git)** | Aurora, CO | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d262f?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2633?utm_campaign=1065&utm_source=git)** | Pearl City, HI | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2634?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2632?utm_campaign=1065&utm_source=git)** | Wellesley, MA | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2636?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2637?utm_campaign=1065&utm_source=git)** | Annandale, VA | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2638?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Oct 03 |
-| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2635?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2629?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2627?utm_campaign=1065&utm_source=git)** | Largo, MD | Hybrid | Oct 03 |
+| ↳ | **[Digital Marketing Internship - Summer 2025 (Remote Eligible)](https://jobright.ai/jobs/info/66feaa331388965e250d2631?utm_campaign=1065&utm_source=git)** | Mililani Town, HI | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
