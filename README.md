@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 Digital Undergraduate Internship](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00f09?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 13 |
+| **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/670c6c035c05e4088dff5543?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Oct 13 |
 | **[Sporting Kansas City](http://www.sportingkc.com)** | **[Youth Soccer Marketing Intern - Spring 2025](https://jobright.ai/jobs/info/670c546a31cfb4a6e1a31b8e?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Oct 13 |
 | ↳ | **[Match Presentation Intern - Spring 2025](https://jobright.ai/jobs/info/670c546a31cfb4a6e1a31b93?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Oct 13 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Analytics Leadership Development Program (ALDP) Summer Internship](https://jobright.ai/jobs/info/670c0a0980c7e8f845b8f301?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Oct 13 |
 | **[HP](http://www.hp.com)** | **[Imaging and Print Business Internship](https://jobright.ai/jobs/info/6702138a2b54bd24b93a2642?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Oct 13 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/66b69958fc21387c6d021af6?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 13 |
 | **[Pentair](http://www.pentair.com)** | **[Marketing Leadership Development Program Internship - Summer 2025](https://jobright.ai/jobs/info/66bf5977e08698d53e2364eb?utm_campaign=1065&utm_source=git)** | Boardman, OH | On Site | Oct 13 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/66f3af1a028335470f7a8927?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Oct 13 |
 | **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Insights & Strategy Intern (Summer 2025)](https://jobright.ai/jobs/info/66d258343399393f7e387e57?utm_campaign=1065&utm_source=git)** | Lakeville, MN | On Site | Oct 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Business Development Marketing Communications ID&E Summer Internship](https://jobright.ai/jobs/info/670975a47e05a50e962562e6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Oct 11 |
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship (Remote)](https://jobright.ai/jobs/info/6709d0360cdc3e9f80770656?utm_campaign=1065&utm_source=git)** | US | On Site | Oct 11 |
 | **[Baker McKenzie](http://www.bakermckenzie.com/)** | **[Business Development Marketing Communications ID&E Summer Internship](https://jobright.ai/jobs/info/6709746bef28fa4bb62b4b69?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - Social Media Intern](https://jobright.ai/jobs/info/66ec8128e361eb260c335021?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/67099d000b508e871f39330a?utm_campaign=1065&utm_source=git)** | Rockaway, NJ | On Site | Oct 11 |
-| **[Toast](https://pos.toasttab.com)** | **[Employer Brand Co-op](https://jobright.ai/jobs/info/67096e5d671a04d11a423728?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
