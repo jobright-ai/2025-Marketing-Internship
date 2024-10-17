@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BLUE ORIGIN](http://www.blueorigin.com)** | **[Summer 2025 STEAM Communications and Outreach Intern - Undergraduate](https://jobright.ai/jobs/info/6710d9c7edb067430a04ddf2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 17 |
+| **[Abbott](http://www.abbott.com)** | **[Professional Marketing Internship](https://jobright.ai/jobs/info/6710b579f56a5db2d6f700b0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Oct 16 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Product Marketing Analyst](https://jobright.ai/jobs/info/6710c1936e13ebc1899f5d12?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 16 |
+| ↳ | **[Intern - Product Marketing Analyst](https://jobright.ai/jobs/info/6710c1936e13ebc1899f5d13?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Oct 16 |
+| ↳ | **[Intern - Product Marketing Analyst](https://jobright.ai/jobs/info/6710af14ba29c1cb08e17b85?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Oct 16 |
+| **[Chobani](http://www.chobani.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/6710987a35e4b1dea3ae072b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[Sony Interactive Entertainment](https://www.sie.com)** | **[Digital Merchandising Intern - Undergraduate](https://jobright.ai/jobs/info/6710aab968bac7aa1735235e?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Oct 16 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Golf Digest Marketing Intern: NYC - Spring 2025](https://jobright.ai/jobs/info/67108afed5b6f9cc65c81367?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Sales and Marketing Summer Internship Maui](https://jobright.ai/jobs/info/671080f5c7dac836c9e2695c?utm_campaign=1065&utm_source=git)** | Kahului, HI | On Site | Oct 16 |
 | **[Beckman Coulter Diagnostics](http://www.beckmancoulter.com)** | **[Global Commercial Marketing Intern](https://jobright.ai/jobs/info/67107f8ce50f3435f7709d80?utm_campaign=1065&utm_source=git)** | West Sacramento, CA | Remote | Oct 16 |
 | **[Agilent Technologies](http://www.agilent.com)** | **[Business Public Relations Internship](https://jobright.ai/jobs/info/67106710a8b98cfa4689acb6?utm_campaign=1065&utm_source=git)** | US-CA-Santa Clara | On Site | Oct 16 |
 | ↳ | **[Reputation Marketing Intern](https://jobright.ai/jobs/info/67106710a8b98cfa4689aca9?utm_campaign=1065&utm_source=git)** | US-CA-Santa Clara | On Site | Oct 16 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Casinos Booking & Marketing Intern - Spring 2025](https://jobright.ai/jobs/info/671082efecd9f4f4638cc92f?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Oct 16 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2025 Summer Undergraduate Corporate Intern: Sam's Club Financial Services](https://jobright.ai/jobs/info/67106ad2ff6912ccb1e767ac?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Oct 16 |
+| **[Tetra Pak](http://www.tetrapak.com)** | **[Marketing/Communications/Sustainability Intern](https://jobright.ai/jobs/info/670878026184f99e6e649fae?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Oct 16 |
 | **[RTX](https://www.rtx.com)** | **[Strategic Communication Co-op](https://jobright.ai/jobs/info/67106557529ac2d66f2b8383?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Hybrid | Oct 16 |
 | **[Cytiva](https://www.cytivalifesciences.com/en/se)** | **[Global Commercial Marketing Intern](https://jobright.ai/jobs/info/671065520dce6a3de10b5071?utm_campaign=1065&utm_source=git)** | West Sacramento, California, United States | On Site | Oct 16 |
 | **[Olmsted Medical Center](https://www.olmmed.org/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/67107bb510adfa2a3113f151?utm_campaign=1065&utm_source=git)** | Rochester, MN | On Site | Oct 16 |
@@ -75,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Sony Interactive Entertainment](https://www.sie.com)** | **[Digital Merchandising Intern - Undergraduate ](https://jobright.ai/jobs/info/67103b28fdbacbe6ef94f23a?utm_campaign=1065&utm_source=git)** | United States, San Mateo, CA | On Site | Oct 16 |
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6710480f73c0859b9d43ba28?utm_campaign=1065&utm_source=git)** | Charlotte Metro | On Site | Oct 16 |
 | **[Allstate](http://www.allstate.com)** | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/671038d236126210c69bda98?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Oct 16 |
+| **[Sara Lee Frozen Bakery](https://saraleefrozenbakery.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67109cd6e0d7784cc87b3f36?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Hybrid | Oct 16 |
 | **[Associated Wholesale Grocers](http://www.awginc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67104203fc2c59dbd8b04e77?utm_campaign=1065&utm_source=git)** | Kansas City, KS | On Site | Oct 16 |
 | **[Commonfund](http://www.commonfund.org/Pages/default.aspx)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/67107a22e4f9865dd98a3bc1?utm_campaign=1065&utm_source=git)** | Wilton Center, CT | Hybrid | Oct 16 |
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67102edb6c6764ddb1b2e654?utm_campaign=1065&utm_source=git)** | Charlotte Metro | On Site | Oct 16 |
@@ -102,59 +112,49 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/670ff5dc010599c27bff9198?utm_campaign=1065&utm_source=git)** | Noblesville, IN | On Site | Oct 16 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/671000a99f8c9ef3f3a364e9?utm_campaign=1065&utm_source=git)** | Knoxville, TN | Hybrid | Oct 16 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/670ff5dc010599c27bff9199?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Oct 16 |
+| **[Microsoft](https://www.microsoft.com)** | **[Marketing: MBA Internship Opportunities](https://jobright.ai/jobs/info/6710aff4ba29c1cb08e18398?utm_campaign=1065&utm_source=git)** | Redmond, WA | On Site | Oct 16 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2025 - Intern, Football Marketing](https://jobright.ai/jobs/info/6708ac9c4677643b241f3d8e?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Oct 16 |
 | **[Lantern Pharma Inc. (Nasdaq: LTRN)](http://www.lanternpharma.com/)** | **[Communications and Social Media Intern](https://jobright.ai/jobs/info/670fe9b506e91722385332db?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Oct 16 |
-| **[Allstate](http://www.allstate.com)** | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a8?utm_campaign=1065&utm_source=git)** | USA - WV (Remote) | On Site | Oct 16 |
+| **[Nokia](http://www.nokia.com)** | **[Copywriting and Editor Coop](https://jobright.ai/jobs/info/66fef188c18415bb05ee73a5?utm_campaign=1065&utm_source=git)** | Coppell, TX | Remote | Oct 16 |
+| **[Allstate](http://www.allstate.com)** | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ad?utm_campaign=1065&utm_source=git)** | USA - AL (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0af?utm_campaign=1065&utm_source=git)** | USA - CT (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a7?utm_campaign=1065&utm_source=git)** | USA - FL (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09e?utm_campaign=1065&utm_source=git)** | USA - NV (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a2?utm_campaign=1065&utm_source=git)** | USA - WA (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ab?utm_campaign=1065&utm_source=git)** | USA - NJ (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb098?utm_campaign=1065&utm_source=git)** | USA - DC (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ae?utm_campaign=1065&utm_source=git)** | USA - WY (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09f?utm_campaign=1065&utm_source=git)** | USA - MA (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a8?utm_campaign=1065&utm_source=git)** | USA - WV (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08d?utm_campaign=1065&utm_source=git)** | USA - TN (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb093?utm_campaign=1065&utm_source=git)** | USA - IA (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a4?utm_campaign=1065&utm_source=git)** | USA - PA (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09c?utm_campaign=1065&utm_source=git)** | USA - AZ (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ac?utm_campaign=1065&utm_source=git)** | USA - GA (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a9?utm_campaign=1065&utm_source=git)** | USA - TX (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a5?utm_campaign=1065&utm_source=git)** | USA - VT (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a3?utm_campaign=1065&utm_source=git)** | USA - NC (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0af?utm_campaign=1065&utm_source=git)** | USA - CT (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ab?utm_campaign=1065&utm_source=git)** | USA - NJ (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb098?utm_campaign=1065&utm_source=git)** | USA - DC (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ae?utm_campaign=1065&utm_source=git)** | USA - WY (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a2?utm_campaign=1065&utm_source=git)** | USA - WA (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb095?utm_campaign=1065&utm_source=git)** | USA - CA (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09d?utm_campaign=1065&utm_source=git)** | USA - IL (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb092?utm_campaign=1065&utm_source=git)** | USA - UT (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08f?utm_campaign=1065&utm_source=git)** | USA - NY (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08c?utm_campaign=1065&utm_source=git)** | USA - OH (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eafee?utm_campaign=1065&utm_source=git)** | USA - NH (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb091?utm_campaign=1065&utm_source=git)** | USA - ND (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb097?utm_campaign=1065&utm_source=git)** | USA - MD (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a1?utm_campaign=1065&utm_source=git)** | USA - NE (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08e?utm_campaign=1065&utm_source=git)** | USA - KS (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a6?utm_campaign=1065&utm_source=git)** | USA - WI (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0b0?utm_campaign=1065&utm_source=git)** | USA - MO (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0ad?utm_campaign=1065&utm_source=git)** | USA - AL (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb091?utm_campaign=1065&utm_source=git)** | USA - ND (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09d?utm_campaign=1065&utm_source=git)** | USA - IL (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0aa?utm_campaign=1065&utm_source=git)** | USA - SC (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a7?utm_campaign=1065&utm_source=git)** | USA - FL (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09e?utm_campaign=1065&utm_source=git)** | USA - NV (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb099?utm_campaign=1065&utm_source=git)** | USA - VA (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09a?utm_campaign=1065&utm_source=git)** | USA - RI (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb090?utm_campaign=1065&utm_source=git)** | USA - SD (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09b?utm_campaign=1065&utm_source=git)** | USA - AR (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb092?utm_campaign=1065&utm_source=git)** | USA - UT (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eafee?utm_campaign=1065&utm_source=git)** | USA - NH (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08f?utm_campaign=1065&utm_source=git)** | USA - NY (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08c?utm_campaign=1065&utm_source=git)** | USA - OH (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb097?utm_campaign=1065&utm_source=git)** | USA - MD (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a1?utm_campaign=1065&utm_source=git)** | USA - NE (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb094?utm_campaign=1065&utm_source=git)** | USA - MN (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb096?utm_campaign=1065&utm_source=git)** | USA - KY (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb093?utm_campaign=1065&utm_source=git)** | USA - IA (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb08d?utm_campaign=1065&utm_source=git)** | USA - TN (Remote) | On Site | Oct 16 |
 | ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a0?utm_campaign=1065&utm_source=git)** | USA - MT (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09f?utm_campaign=1065&utm_source=git)** | USA - MA (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb0a4?utm_campaign=1065&utm_source=git)** | USA - PA (Remote) | On Site | Oct 16 |
-| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb09c?utm_campaign=1065&utm_source=git)** | USA - AZ (Remote) | On Site | Oct 16 |
+| ↳ | **[Customer Experience Communications Intern](https://jobright.ai/jobs/info/670fe681992053bcee8eb095?utm_campaign=1065&utm_source=git)** | USA - CA (Remote) | On Site | Oct 16 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Analytics Leadership Development Program (ALDP) Summer Internship](https://jobright.ai/jobs/info/6710396e60ad88f59704f8a8?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Oct 16 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[Services Portfolio Intern](https://jobright.ai/jobs/info/67072b98cdefa14beea5948d?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | Remote | Oct 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disneyland Resort Internal Communications Intern, Spring 2025](https://jobright.ai/jobs/info/670ffd55e4c10b9a92c35902?utm_campaign=1065&utm_source=git)** | Anaheim, CA | Hybrid | Oct 16 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2025 Digital Undergraduate Internship](https://jobright.ai/jobs/info/670c8dccf9bf05aee7c00f09?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 16 |
-| **[Visa](https://www.visa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/670fd8b59416d142d49f411b?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Oct 16 |
-| **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate D2C Digital Marketing Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/670fd8b59416d142d49f4121?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Oct 16 |
-| **[Berklee College of Music](http://berklee.edu)** | **[Fundraising and Marketing Assistant](https://jobright.ai/jobs/info/670fcf238874dd845a46b3aa?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | Hybrid | Oct 16 |
-| **[SpaceWorks Enterprises, Inc. (SEI)](https://www.spaceworks.aero)** | **[Aerospace Marketing Intern - Spring 2025](https://jobright.ai/jobs/info/670fdc5959c2270ad7e2fa67?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
-| **[National Basketball Association (NBA)](http://www.nba.com)** | **[Undergraduate - Communications, Marketing, and PR Intern](https://jobright.ai/jobs/info/670fcfbcba558f7e8a56b546?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 16 |
-| **[Dominion Energy](http://www.dominionenergy.com/)** | **[Intern - Associate Communications Specialist](https://jobright.ai/jobs/info/670fcfbcba558f7e8a56b524?utm_campaign=1065&utm_source=git)** | Chester, VA | On Site | Oct 16 |
-| **[Health Care Service Corporation](https://www.hcsc.com)** | **[University Relations - Associate IT Release Analyst Intern](https://jobright.ai/jobs/info/670fcc3362a2d8aaa9234702?utm_campaign=1065&utm_source=git)** | TX - Richardson | On Site | Oct 16 |
-| ↳ | **[University Relations - Associate IT Release Analyst Intern](https://jobright.ai/jobs/info/670fcc3362a2d8aaa9234701?utm_campaign=1065&utm_source=git)** | IL - Chicago | On Site | Oct 16 |
-| **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[Social Media Manager](https://jobright.ai/jobs/info/670fd4986d1183119a05e1cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
-| **[Schneider Electric](https://www.se.com)** | **[Secure Power Marketing Internship](https://jobright.ai/jobs/info/670fcfbcba558f7e8a56b61b?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 16 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Intern - Spring 2025](https://jobright.ai/jobs/info/670fcae4edd391b8986d2d32?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
