@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thompson Thrift](http://thompsonthrift.com)** | **[Real Estate Market Research Intern](https://jobright.ai/jobs/info/66e4c4b2ce1d5622f44ba4c6?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66e1add1bc746e285c2ea10a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 27 |
 | **[TEAM LEWIS](http://www.teamlewis.com/)** | **[Interested in PR Opportunities?](https://jobright.ai/jobs/info/671e16186a0fb88880c97986?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 27 |
 | ↳ | **[Interested in PR Opportunities?](https://jobright.ai/jobs/info/671e16186a0fb88880c9798d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 27 |
@@ -113,7 +114,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integrated Marketing Spring Intern - Entertainment ](https://jobright.ai/jobs/info/671c1bdd27e38f20215216b3?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | ↳ | **[Global Marketing Lifestyle Spring Intern](https://jobright.ai/jobs/info/671c1bdd27e38f20215216a8?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Oct 25 |
 | ↳ | **[Corporate Communications Spring Intern](https://jobright.ai/jobs/info/671c1bdd27e38f20215216ac?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Oct 25 |
-| **[Kenvue](https://www.kenvue.com)** | **[2025 Marketing Summer Intern (Undergraduate) - University](https://jobright.ai/jobs/info/671c4ac1aa1ee2e81753f90f?utm_campaign=1065&utm_source=git)** | Skillman, NJ | Hybrid | Oct 25 |
+| **[Spot & Tango](http://www.spotandtango.com)** | **[Blog Writer (Freelance/Intern)](https://jobright.ai/jobs/info/66f251de4cc4041ec080834a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 25 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Integrated Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/671c2d0a583f31aee9472454?utm_campaign=1065&utm_source=git)** | Schiller Park, IL | On Site | Oct 25 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Summer 2025 Intern - Marketing, Journalism, Mass Communications](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da5f?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Oct 25 |
 | ↳ | **[Summer 2025 Intern - Marketing, Journalism, Mass Communications](https://jobright.ai/jobs/info/671c109bd7dfa9520c48da3d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/671bb897b0ae28b1c8440bb5?utm_campaign=1065&utm_source=git)** | Marysville, OH | Hybrid | Oct 25 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Signature Experiences Public Relations Intern, Spring 2025](https://jobright.ai/jobs/info/671bd3b8ebf0457a6a847a20?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Oct 25 |
 | **[Links Global USA](http://www.linksglobal.org/)** | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/671be1d0ae9e42961f0eda1f?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Oct 25 |
-| **[First American Equipment Finance](http://faef.com)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/671bc2f331f9d5c0e015cce9?utm_campaign=1065&utm_source=git)** | Rochester, NY | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
