@@ -57,11 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/672599decffb4efc63cd5313?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
+| ↳ | **[Strategic Communication Outreach and Education-Marketing Internship](https://jobright.ai/jobs/info/672599decffb4efc63cd5318?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
+| ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/672599decffb4efc63cd5327?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 01 |
+| **[RDI Technologies Inc.](https://rditechnologies.com)** | **[Development/Sales/Marketing Intern](https://jobright.ai/jobs/info/67259bd31b09d19cf6662e51?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 01 |
+| **[CRH](http://crh.com)** | **[Human Resources Internship Orlando 1](https://jobright.ai/jobs/info/67258e3f0737730a8c68368b?utm_campaign=1065&utm_source=git)** | Lutz, FL | On Site | Nov 01 |
+| **[CommScope](http://www.commscope.com)** | **[Future Opportunity: Marketing/Communication/Sales Internships: Summer 2025](https://jobright.ai/jobs/info/67259961e8db3f389ee2c65c?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Nov 01 |
+| **[MediaLink](http://www.medialink.com)** | **[Summer Internship](https://jobright.ai/jobs/info/67257e88173c7c3a865efb19?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[FIRST](https://firstagency.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67258c8c14f307c11b30cbbf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[MediaLink](http://www.medialink.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6725835807337f5996913fbf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| **[University of Nevada, Reno](http://www.unr.edu/)** | **[Student Worker - Social Media and Marketing Content Creator, FRS](https://jobright.ai/jobs/info/67258a6787f3e47d3a9a20b8?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Nov 01 |
+| **[CivicScience](http://civicscience.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/67258581e1f7029e9c23cc06?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Remote | Nov 01 |
+| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring 2025 - Visual Merchandising Intern](https://jobright.ai/jobs/info/67257a3bda7740bda25203bc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[KLA](https://www.kla.com)** | **[Marketing analyst intern](https://jobright.ai/jobs/info/672574424a51aae123a3772c?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Nov 01 |
+| **[Shinkei](https://www.shinkei.systems)** | **[Social Media Intern](https://jobright.ai/jobs/info/672581118d3e3f3e159d0cd1?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Nov 01 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/67257d8c54dfaba3fc3f8072?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Nov 01 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Addition Financial Arena Spring Marketing Internship](https://jobright.ai/jobs/info/67257e88173c7c3a865efc45?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
+| **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2025 Corebridge Summer Internship Program - Marketing](https://jobright.ai/jobs/info/67257a3bda7740bda25203ab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
+| ↳ | **[2025 Corebridge Summer Internship Program - Marketing](https://jobright.ai/jobs/info/67257a3bda7740bda252044b?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Nov 01 |
 | **[Norfolk Southern](https://www.nscorp.com)** | **[2025 Summer Market Analyst Intern](https://jobright.ai/jobs/info/672566931ffb4bf12a31804e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program- Health Care Philanthropy Intern](https://jobright.ai/jobs/info/67256d98ad4ae721bfce5a22?utm_campaign=1065&utm_source=git)** | Iowa City, IA | Hybrid | Nov 01 |
 | **[Stacked](https://www.stacked.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67255df1c41509703116c9f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[MarketSite Event Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b11?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
-| **[Mativ](https://mativ.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67256d98ad4ae721bfce5c07?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Nov 01 |
 | **[Mimecast](http://www.mimecast.com)** | **[Social Media Intern (Northeastern Co-Op)](https://jobright.ai/jobs/info/67256adfeb50c9d4db6b15b5?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Nov 01 |
 | **[RailPros](http://railpros.com)** | **[Communications and Public Relations Intern](https://jobright.ai/jobs/info/6725566c85fb6393d245e268?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Nov 01 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/67256f2bbb39374f00b59c76?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/672471acf270c0d64aac23f1?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Oct 31 |
 | ↳ | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/672471acf270c0d64aac2407?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
 | **[Raft](https://teamraft.com)** | **[Raft Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672471acf270c0d64aac2434?utm_campaign=1065&utm_source=git)** | McLean, VA | Remote | Oct 31 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Business Communications](https://jobright.ai/jobs/info/6724ddcfbfb19646b8a7a66e?utm_campaign=1065&utm_source=git)** | One Brewers Way, Milwaukee, WI, US | On Site | Oct 31 |
-| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Multimedia Specialist Intern (Communications Specialist) - Division of Information Technology](https://jobright.ai/jobs/info/672473a37f93b221c3749563?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
-| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804071?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[Corporate Communications Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804065?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[US Marketing, Hematology, Emerging Assets, & TGCT Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f80406c?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| ↳ | **[US Marketing ENHERTU Intern](https://jobright.ai/jobs/info/67245bfeb4e03dfb6f804061?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | Hybrid | Oct 31 |
-| **[EBSCO Industries, Inc.](http://www.ebscoind.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/67247ad42246b01b3b470d1c?utm_campaign=1065&utm_source=git)** | Fort Smith, AR | On Site | Oct 31 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing Manager Intern, Workstations - Summer 2025](https://jobright.ai/jobs/info/672471acf270c0d64aac2535?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
-| ↳ | **[Product Marketing Intern, Data Centers - Summer 2025](https://jobright.ai/jobs/info/672471acf270c0d64aac253d?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Oct 31 |
-| **[Hikma Pharmaceuticals](http://hikma.com)** | **[Summer Intern, Marketing Operations](https://jobright.ai/jobs/info/671ba27f17f23bd307291c55?utm_campaign=1065&utm_source=git)** | Berkeley Heights, NJ | On Site | Oct 31 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Consumer Prepaid Brand Marketing Internship](https://jobright.ai/jobs/info/672449e22600ca924743f56e?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Oct 31 |
-| **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[Social Media Video Marketing Internship](https://jobright.ai/jobs/info/67243d6daa4cad5ef6913607?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 31 |
-| **[Raft](https://teamraft.com)** | **[Raft Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/67243b380bae6a537cc65e86?utm_campaign=1065&utm_source=git)** | McLean, Virginia, United States, Remote, USA | On Site | Oct 31 |
-| **[HNTB](http://www.hntb.com/)** | **[Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672438bad3879667dbd2d738?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Oct 31 |
-| **[Raytheon](http://www.bbn.com)** | **[Intern - Communications - Onsite (TX/CA)](https://jobright.ai/jobs/info/67243a4cfa653ea4473c2b71?utm_campaign=1065&utm_source=git)** | McKinney, TX | Hybrid | Oct 31 |
-| **[Golin](http://golin.com/)** | **[Intern](https://jobright.ai/jobs/info/672431950036b130ee42e7a9?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Hybrid | Oct 31 |
-| **[EAST BRUNSWICK PUBLIC SCHOOLS](www.ebnet.org)** | **[Media Specialist (0.5)](https://jobright.ai/jobs/info/67255df1c41509703116ca4e?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
