@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brother USA](https://brother-usa.com)** | **[Product Marketing (Industrial Products) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/6725e5ec07478dc3368d918c?utm_campaign=1065&utm_source=git)** | Bartlett, TN | On Site | Nov 02 |
+| **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6725ec3d93c9ec59377bed82?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Nov 02 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6725bd05e44114335355eea4?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 01 |
+| **[Live Action](https://www.liveaction.org/)** | **[Digital Fundraising Intern](https://jobright.ai/jobs/info/6725d87e8882485f1ea28168?utm_campaign=1065&utm_source=git)** | Orange County, CA | On Site | Nov 01 |
+| **[Cox Communications](http://www.cox.com)** | **[Brand Marketing Co-op- Fall 2025](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83241?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 01 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/672599decffb4efc63cd5313?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
 | ↳ | **[Strategic Communication Outreach and Education-Marketing Internship](https://jobright.ai/jobs/info/672599decffb4efc63cd5318?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
 | ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/672599decffb4efc63cd5327?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 01 |
@@ -134,6 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/6708de64a46c1f4f06ec211e?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Nov 01 |
 | **[Graco](http://graco.com/in/en/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/66cf934b76510dd90c7215e4?utm_campaign=1065&utm_source=git)** | Rogers, MN | On Site | Nov 01 |
 | **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Corporate Events Intern (Summer 2025)](https://jobright.ai/jobs/info/6724b44c21b0b64c9b3ec420?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 01 |
+| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Leasing Intern (Summer 2025 - Park City)](https://jobright.ai/jobs/info/66eb77c850a5ee0e9a261e7f?utm_campaign=1065&utm_source=git)** | Park City, UT | On Site | Nov 01 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Communications Intern - Summer 2025 - IMA Financial](https://jobright.ai/jobs/info/67080398758814e8486a438a?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 01 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6724db5f6649b192d5811d44?utm_campaign=1065&utm_source=git)** | Chesapeake, VA | On Site | Nov 01 |
 | ↳ | **[Merchandising and Inventory Management Intern](https://jobright.ai/jobs/info/6724db5f6649b192d5811d4f?utm_campaign=1065&utm_source=git)** | Chesapeake, VA | On Site | Nov 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wilderness Resort in Wisconsin Dells](https://www.wildernessresort.com)** | **[Marketing Internship Summer 2025](https://jobright.ai/jobs/info/6724a233f6cca8149fc684ca?utm_campaign=1065&utm_source=git)** | Wisconsin Dells, WI | On Site | Nov 01 |
 | **[Skyworks LLC](http://skyworksllc.com)** | **[Marketing Data Analyst Co-Op / Summer-Fall Term](https://jobright.ai/jobs/info/67248c2dd7f773c2272dd00a?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 31 |
 | **[Meta](https://www.metacareers.com/)** | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/67247ad42246b01b3b470dbb?utm_campaign=1065&utm_source=git)** | Burlingame, CA | On Site | Oct 31 |
-| ↳ | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/67247ad42246b01b3b470dbe?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 31 |
-| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6724e9cbc70e17fcdf72f0d0?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Oct 31 |
-| **[Meta](https://www.metacareers.com/)** | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/672471acf270c0d64aac23f9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 31 |
-| ↳ | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/672471acf270c0d64aac23f1?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Oct 31 |
-| ↳ | **[Product Marketing Manager Intern, MBA](https://jobright.ai/jobs/info/672471acf270c0d64aac2407?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 31 |
-| **[Raft](https://teamraft.com)** | **[Raft Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672471acf270c0d64aac2434?utm_campaign=1065&utm_source=git)** | McLean, VA | Remote | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
