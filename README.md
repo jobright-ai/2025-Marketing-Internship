@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALLY Energy](http://www.allyenergy.com)** | **[Communications & Community Internship – Outreach Corporate](https://jobright.ai/jobs/info/6726ab7334b63a8181179769?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
+| **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Strategic Growth Intern – Baltimore MD or Mclean VA](https://jobright.ai/jobs/info/67268f23468584283f01bd8c?utm_campaign=1065&utm_source=git)** | Linthicum, MD | Hybrid | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Intern, Brand & Corporate Affairs](https://jobright.ai/jobs/info/67264be2a17bd4684bc9bd83?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
-| **[Golden](glowgolden.co)** | **[Social Media & Influencer Marketing Intern](https://jobright.ai/jobs/info/672637bb7ee1b3ae268c2c3f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communications Paid Intern](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d26?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 02 |
+| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/67237f59416448c7768de208?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 02 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/672612c28915cbcf12aae2fd?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 02 |
 | **[Corebridge Financial](https://www.corebridgefinancial.com)** | **[2025 Corebridge Summer Internship Program - Marketing](https://jobright.ai/jobs/info/6726207c42e0c5df07cc4182?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Regional Communications](https://jobright.ai/jobs/info/672602a28faf63b894bcc4dc?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 02 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Product Marketing, Digital Experience](https://jobright.ai/jobs/info/6709ade22b3494ae681f2a80?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 02 |
 | **[Visa](https://www.visa.com)** | **[Editorial and Digital Communications, Intern – Summer 2025](https://jobright.ai/jobs/info/670941326ddfcfbe6a322e88?utm_campaign=1065&utm_source=git)** | Foster City, CA | Hybrid | Nov 02 |
+| **[RVO Health](https://rvohealth.com/)** | **[2025 Early Career Program: Marketing & Digital Ops](https://jobright.ai/jobs/info/66b408f61998c8e4ef4e1bc8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Nov 02 |
 | **[Western National Insurance](https://wnins.com)** | **[Communications Intern](https://jobright.ai/jobs/info/671b758afe1fc4a1f9bc7fc1?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Nov 02 |
 | **[Huntsman Corporation](http://www.huntsman.com/corporate/a/Home)** | **[Marketing Internship (The Woodlands, Texas)](https://jobright.ai/jobs/info/67262549aca80faab68a4ad9?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Nov 02 |
-| **[UPS](http://www.ups.com)** | **[Marketing Summer 2025 Internship](https://jobright.ai/jobs/info/66d25a91f396c6f40612e600?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 02 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Performance and Racing Marketing](https://jobright.ai/jobs/info/67263a338630ea885052aa7e?utm_campaign=1065&utm_source=git)** | Warren, MI | Hybrid | Nov 02 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Strategic Communication Outreach and Education-Internal Communications Intern](https://jobright.ai/jobs/info/6726033c92048579056ea2f1?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 02 |
-| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66cf7b2d23faf1f18b0b1ed3?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 02 |
-| ↳ | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66cf8d70bba3402f054baf18?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 02 |
+| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66cf8d70bba3402f054baf18?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 02 |
 | ↳ | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/66cf9a135e27eb82cecfe2b1?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Nov 02 |
 | **[Brother USA](https://brother-usa.com)** | **[Product Marketing (Industrial Products) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/6725e5ec07478dc3368d918c?utm_campaign=1065&utm_source=git)** | Bartlett, TN | On Site | Nov 02 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Marketing Intern (Jan-May 2025)](https://jobright.ai/jobs/info/6725fd2fa45f2eb35152794c?utm_campaign=1065&utm_source=git)** | Hershey, PA | On Site | Nov 02 |
@@ -101,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Advancement Summer Internship Program- Health Care Philanthropy Intern](https://jobright.ai/jobs/info/67256d98ad4ae721bfce5a22?utm_campaign=1065&utm_source=git)** | Iowa City, IA | Hybrid | Nov 01 |
 | **[Stacked](https://www.stacked.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67255df1c41509703116c9f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Nasdaq](https://www.nasdaq.com)** | **[MarketSite Event Intern - 2025 Summer Internship](https://jobright.ai/jobs/info/6725600e586f7923dc486b11?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
+| **[Westat](https://www.westat.com)** | **[Health Communications Intern](https://jobright.ai/jobs/info/671db717a824c11467c4eeea?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Nov 01 |
 | **[Mimecast](http://www.mimecast.com)** | **[Social Media Intern (Northeastern Co-Op)](https://jobright.ai/jobs/info/67256adfeb50c9d4db6b15b5?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Nov 01 |
 | **[RailPros](http://railpros.com)** | **[Communications and Public Relations Intern](https://jobright.ai/jobs/info/6725566c85fb6393d245e268?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Nov 01 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/67256f2bbb39374f00b59c76?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 01 |
@@ -120,6 +123,7 @@ For a complete list, click the following sortable link below:
 | **[Peterbilt Motors Company](http://www.peterbilt.com/)** | **[2025 Summer Internship: Product Marketing](https://jobright.ai/jobs/info/6725490f869330b49f30b7e3?utm_campaign=1065&utm_source=git)** | Denton, TX | On Site | Nov 01 |
 | ↳ | **[2025 Summer Internship: Marketing Communications](https://jobright.ai/jobs/info/6725490f869330b49f30b7ee?utm_campaign=1065&utm_source=git)** | Denton, TX | On Site | Nov 01 |
 | **[University of South Carolina](https://sc.edu)** | **[Digital Marketing & Social Media Coordinator](https://jobright.ai/jobs/info/67255d0ec132fdd07f16c6ac?utm_campaign=1065&utm_source=git)** | SC | Hybrid | Nov 01 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Marketing Intern](https://jobright.ai/jobs/info/66d03c9ec98c2d9060337127?utm_campaign=1065&utm_source=git)** | Willowbrook, IL | Hybrid | Nov 01 |
 | **[TDECU](https://www.tdecu.org/)** | **[Intern - Communications](https://jobright.ai/jobs/info/67253603f600f026c1f3419f?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 01 |
 | ↳ | **[Intern - Undergraduate Marketing Brand](https://jobright.ai/jobs/info/67253603f600f026c1f341a2?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 01 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Flighthouse Social Media Internships](https://jobright.ai/jobs/info/67255225d5842e74ebae76dd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Century Investments](https://corporate.americancentury.com/en)** | **[Client Portfolio Management Analyst Intern](https://jobright.ai/jobs/info/66eb585a0259ae9eea899f9c?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 01 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Influencer Intern, Multicultural](https://jobright.ai/jobs/info/6724c16ca2ca1e1d8b209ab2?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/6708dc8afaeb27125c7ebb38?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
-| ↳ | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/6708de64a46c1f4f06ec211e?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | Hybrid | Nov 01 |
-| **[Graco](http://graco.com/in/en/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/66cf934b76510dd90c7215e4?utm_campaign=1065&utm_source=git)** | Rogers, MN | On Site | Nov 01 |
-| **[GlobalFoundries](https://ritahazan.id/job/?Kw=spg188)** | **[Corporate Events Intern (Summer 2025)](https://jobright.ai/jobs/info/6724b44c21b0b64c9b3ec420?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 01 |
-| **[Phillips Edison & Company](http://phillipsedison.com)** | **[Leasing Intern (Summer 2025 - Park City)](https://jobright.ai/jobs/info/66eb77c850a5ee0e9a261e7f?utm_campaign=1065&utm_source=git)** | Park City, UT | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
