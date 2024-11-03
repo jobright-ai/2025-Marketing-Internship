@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invesco US](http://www.invesco.com/us)** | **[Institutional Marketing Intern](https://jobright.ai/jobs/info/6727c9e66db4307751e9c045?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Nov 03 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Consumer Franchise Strategy & Integrated Planning Marketing Intern, Spring 2025](https://jobright.ai/jobs/info/67279e1d8edf323237edcee9?utm_campaign=1065&utm_source=git)** | Celebration, FL | Hybrid | Nov 03 |
+| **[MTS Systems Corporation](http://www.mts.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6727852550d45c19518d9b96?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
+| **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/66b69958fc21387c6d021af6?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Nov 03 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Marketing Promotions Intern](https://jobright.ai/jobs/info/66eede2ad10918e2b42de13f?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Operations MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d696?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 03 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Marketing Leadership Development Program Summer Analyst Opportunity](https://jobright.ai/jobs/info/670aaea599c9adcd1c60e31b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
@@ -66,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Communications & Community Internship – Outreach Corporate](https://jobright.ai/jobs/info/6726ab7334b63a8181179769?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Strategic Growth Intern – Baltimore MD or Mclean VA](https://jobright.ai/jobs/info/67268f23468584283f01bd8c?utm_campaign=1065&utm_source=git)** | Linthicum, MD | Hybrid | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Intern, Brand & Corporate Affairs](https://jobright.ai/jobs/info/67264be2a17bd4684bc9bd83?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6709b339eccf619263f71199?utm_campaign=1065&utm_source=git)** | Greenwood, IN | On Site | Nov 02 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6726212dd33e411863be17c8?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communications Paid Intern](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d26?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 02 |
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/67237f59416448c7768de208?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Business Communications](https://jobright.ai/jobs/info/67253603f600f026c1f3439f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Marketing MBA Internship (Summer 2025)](https://jobright.ai/jobs/info/6724fb4552eb9130fbd9053e?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | Nov 01 |
 | **[Links Global USA](http://www.linksglobal.org/)** | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/6724ff7209f999f06d810a4a?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Nov 01 |
-| **[Autism Speaks](https://www.autismspeaks.org/)** | **[Spring Special Events Intern - NJ/PA](https://jobright.ai/jobs/info/6724f2b612a3b6c3df998f4e?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Nov 01 |
-| **[IPG Health](https://ipghealth.com)** | **[2025 Bold Beginners Internship: Strategy](https://jobright.ai/jobs/info/6724ed7db595877d03f527f0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| ↳ | **[2025 Bold Beginners Internship: Planning & Activation](https://jobright.ai/jobs/info/6724ed7db595877d03f52805?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| ↳ | **[2025 Bold Beginners Internship: Medical Strategy](https://jobright.ai/jobs/info/6724ed7db595877d03f52816?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[The Hartford](http://www.thehartford.com)** | **[Freshman Experience 2025](https://jobright.ai/jobs/info/6724e7f750c4fb31a5646e5d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Remote | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
