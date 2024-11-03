@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Marketing Promotions Intern](https://jobright.ai/jobs/info/66eede2ad10918e2b42de13f?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Affiliate Operations MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d696?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 03 |
+| **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Marketing Leadership Development Program Summer Analyst Opportunity](https://jobright.ai/jobs/info/670aaea599c9adcd1c60e31b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Innovation Marketing Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af02a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/672743a65ee62ea792aef971?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[Primal Wear](https://www.primalwear.com/)** | **[Primal Wear is hiring: Event Marketing Intern in Glendale](https://jobright.ai/jobs/info/672743a65ee62ea792aef970?utm_campaign=1065&utm_source=git)** | Glendale, CO | Hybrid | Nov 02 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Corporate + Brand Internship](https://jobright.ai/jobs/info/6726e6cd44e53823686ac1c9?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 02 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Communications & Community Internship – Outreach Corporate](https://jobright.ai/jobs/info/6726ab7334b63a8181179769?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Strategic Growth Intern – Baltimore MD or Mclean VA](https://jobright.ai/jobs/info/67268f23468584283f01bd8c?utm_campaign=1065&utm_source=git)** | Linthicum, MD | Hybrid | Nov 02 |
@@ -77,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Western National Insurance](https://wnins.com)** | **[Communications Intern](https://jobright.ai/jobs/info/671b758afe1fc4a1f9bc7fc1?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Nov 02 |
 | **[Huntsman Corporation](http://www.huntsman.com/corporate/a/Home)** | **[Marketing Internship (The Woodlands, Texas)](https://jobright.ai/jobs/info/67262549aca80faab68a4ad9?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Nov 02 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Marketing Intern (Ocala)](https://jobright.ai/jobs/info/671dd8011ee2656cfe021cd5?utm_campaign=1065&utm_source=git)** | Ocala, FL | On Site | Nov 02 |
+| **[NextEra Energy Resources](https://www.nexteraenergyresources.com/)** | **[Market Analyst - College Intern](https://jobright.ai/jobs/info/672748c76e1ddd1c3c51fff9?utm_campaign=1065&utm_source=git)** | Juno Beach, FL | On Site | Nov 02 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2025 Internship - WSJ Content Marketing](https://jobright.ai/jobs/info/66ee28ae8daf78cc7f9d8d05?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 02 |
 | **[General Motors](https://www.gm.com)** | **[2025 Summer Intern - Performance and Racing Marketing](https://jobright.ai/jobs/info/67263a338630ea885052aa7e?utm_campaign=1065&utm_source=git)** | Warren, MI | Hybrid | Nov 02 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Strategic Communication Outreach and Education-Internal Communications Intern](https://jobright.ai/jobs/info/6726033c92048579056ea2f1?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Bold Beginners Internship: Planning & Activation](https://jobright.ai/jobs/info/6724ed7db595877d03f52805?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | ↳ | **[2025 Bold Beginners Internship: Medical Strategy](https://jobright.ai/jobs/info/6724ed7db595877d03f52816?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[The Hartford](http://www.thehartford.com)** | **[Freshman Experience 2025](https://jobright.ai/jobs/info/6724e7f750c4fb31a5646e5d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Remote | Nov 01 |
-| **[IPG Health](https://ipghealth.com)** | **[2025 Bold Beginners Internship: Editorial](https://jobright.ai/jobs/info/6724ed7db595877d03f5283d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| ↳ | **[2025 Bold Beginners Internship: Corporate Communications](https://jobright.ai/jobs/info/6724ed7db595877d03f52843?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[Rho](http://rhoworld.com)** | **[Research and Marketing Intelligence Intern](https://jobright.ai/jobs/info/6724e999c70e17fcdf72e891?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
