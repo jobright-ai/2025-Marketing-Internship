@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Porter Novelli](http://www.porternovelli.com)** | **[Corporate + Brand Internship](https://jobright.ai/jobs/info/6726e6cd44e53823686ac1c9?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 02 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Communications & Community Internship – Outreach Corporate](https://jobright.ai/jobs/info/6726ab7334b63a8181179769?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Strategic Growth Intern – Baltimore MD or Mclean VA](https://jobright.ai/jobs/info/67268f23468584283f01bd8c?utm_campaign=1065&utm_source=git)** | Linthicum, MD | Hybrid | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Intern, Brand & Corporate Affairs](https://jobright.ai/jobs/info/67264be2a17bd4684bc9bd83?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6726212dd33e411863be17c8?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communications Paid Intern](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d26?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 02 |
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/67237f59416448c7768de208?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 02 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/672612c28915cbcf12aae2fd?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 02 |
@@ -78,8 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Marketing Intern (Jan-May 2025)](https://jobright.ai/jobs/info/6725fd2fa45f2eb35152794c?utm_campaign=1065&utm_source=git)** | Hershey, PA | On Site | Nov 02 |
 | **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6725ec3d93c9ec59377bed82?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Nov 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6725f61efb80f70cb232f240?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 02 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6725bd05e44114335355eea4?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 01 |
-| **[Live Action](https://www.liveaction.org/)** | **[Digital Fundraising Intern](https://jobright.ai/jobs/info/6725d87e8882485f1ea28168?utm_campaign=1065&utm_source=git)** | Orange County, CA | On Site | Nov 01 |
 | **[Cox Communications](http://www.cox.com)** | **[Brand Marketing Co-op- Fall 2025](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83241?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 01 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/672599decffb4efc63cd5313?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
 | ↳ | **[Strategic Communication Outreach and Education-Marketing Internship](https://jobright.ai/jobs/info/672599decffb4efc63cd5318?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
