@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Virtu Financial](https://www.virtu.com/)** | **[Internship - Quantitative Strategist](https://jobright.ai/jobs/info/6728832283198e658fd03c3c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
+| **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador - University Of California (UC) - Riverside](https://jobright.ai/jobs/info/6728c4ca119de8feae3002d7?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 04 |
+| **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/67289c6ca299d46cb3fae4ff?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 04 |
+| **[SpartanNash](https://www.spartannash.com/)** | **[Events Intern](https://jobright.ai/jobs/info/67289843d6e7d796446bf081?utm_campaign=1065&utm_source=git)** | Byron Center, MI | On Site | Nov 04 |
+| **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/6728985bdcdde78cac7b2d32?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 04 |
 | **[Shaw Industries](https://shawinc.com)** | **[Commercial Marketing & Customer Experience Trainee](https://jobright.ai/jobs/info/67287af4c0de1a3fc9682398?utm_campaign=1065&utm_source=git)** | Cartersville, GA | On Site | Nov 03 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Marketing Intern (Fall 2024)](https://jobright.ai/jobs/info/67287fb8dc9962774bc17cad?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 03 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Community Relations & Communications Intern](https://jobright.ai/jobs/info/672871d450f7d899f0bef8d2?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 03 |
-| **[MasterControl](http://www.mastercontrol.com)** | **[Communications Intern](https://jobright.ai/jobs/info/67287af4c0de1a3fc96821a2?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Customer Engagement Strategy, Planning & Integration Intern, Spring 2025](https://jobright.ai/jobs/info/67285ac920c8895b026b2870?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | Hybrid | Nov 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Brand Marketing Co-op: January to June 2025](https://jobright.ai/jobs/info/6728431aaae858d3058e88fe?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Nov 03 |
-| ↳ | **[(Spring) Brand Marketing Co-op: January to June 2025](https://jobright.ai/jobs/info/6728310aa4ef63240ba2737f?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Nov 03 |
 | **[The Bernard Group, Inc.](http://www.thebernardgroup.com)** | **[Intern, Online Marketing](https://jobright.ai/jobs/info/6728926bbb61a3a944ae4288?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | Hybrid | Nov 03 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Institutional Marketing Intern](https://jobright.ai/jobs/info/6728053a1f1605822994bf5f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6727f6be4f5d8e628776f333?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 03 |
@@ -73,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6727852550d45c19518d9b96?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/66b69958fc21387c6d021af6?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Nov 03 |
 | **[Scout Clean Energy](http://www.scoutcleanenergy.com)** | **[Marketing Intern Summer 2025](https://jobright.ai/jobs/info/66f1f67f9a9cfe96a9f7d99d?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Nov 03 |
+| **[Lennar](http://lennar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/66f37a7fbcde4fc89d33a429?utm_campaign=1065&utm_source=git)** | Fresno, CA | On Site | Nov 03 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Marketing Promotions Intern](https://jobright.ai/jobs/info/66eede2ad10918e2b42de13f?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Operations MBA Intern (TikTok Shop - Product) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/66d20a6b5d7020cef9e2d696?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 03 |
 | **[JPMorgan Chase & Co.](http://www.jpmorganchase.com)** | **[2025 Marketing Leadership Development Program Summer Analyst Opportunity](https://jobright.ai/jobs/info/670aaea599c9adcd1c60e31b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Summer Internship: Marketing Communications](https://jobright.ai/jobs/info/6725490f869330b49f30b7ee?utm_campaign=1065&utm_source=git)** | Denton, TX | On Site | Nov 01 |
 | **[University of South Carolina](https://sc.edu)** | **[Digital Marketing & Social Media Coordinator](https://jobright.ai/jobs/info/67255d0ec132fdd07f16c6ac?utm_campaign=1065&utm_source=git)** | SC | Hybrid | Nov 01 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Marketing Intern](https://jobright.ai/jobs/info/66d03c9ec98c2d9060337127?utm_campaign=1065&utm_source=git)** | Willowbrook, IL | Hybrid | Nov 01 |
-| **[TDECU](https://www.tdecu.org/)** | **[Intern - Communications](https://jobright.ai/jobs/info/67253603f600f026c1f3419f?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 01 |
-| ↳ | **[Intern - Undergraduate Marketing Brand](https://jobright.ai/jobs/info/67253603f600f026c1f341a2?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
