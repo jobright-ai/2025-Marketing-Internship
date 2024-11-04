@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invesco US](http://www.invesco.com/us)** | **[Institutional Marketing Intern](https://jobright.ai/jobs/info/6728053a1f1605822994bf5f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
+| **[BNY Mellon](http://www.bnymellon.com)** | **[2025 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6727f6be4f5d8e628776f333?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 03 |
 | **[Invesco US](http://www.invesco.com/us)** | **[Institutional Marketing Intern](https://jobright.ai/jobs/info/6727c9e66db4307751e9c045?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Nov 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Experiences Consumer Franchise Strategy & Integrated Planning Marketing Intern, Spring 2025](https://jobright.ai/jobs/info/67279e1d8edf323237edcee9?utm_campaign=1065&utm_source=git)** | Celebration, FL | Hybrid | Nov 03 |
 | **[MTS Systems Corporation](http://www.mts.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6727852550d45c19518d9b96?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | Nov 03 |
@@ -67,11 +69,13 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Innovation Marketing Intern](https://jobright.ai/jobs/info/672744b55ee62ea792af02a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 03 |
 | **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/672743a65ee62ea792aef971?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Corporate + Brand Internship](https://jobright.ai/jobs/info/6726e6cd44e53823686ac1c9?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 02 |
+| **[Danone](http://www.danone.com/en/#)** | **[Summer 2025: Brand Marketing Intern, MBA](https://jobright.ai/jobs/info/66f7c146a522aa5ed8467514?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Nov 02 |
+| **[Spot & Tango](http://www.spotandtango.com)** | **[Blog Writer (Freelance/Intern)](https://jobright.ai/jobs/info/66f251de4cc4041ec080834a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[ALLY Energy](http://www.allyenergy.com)** | **[Communications & Community Internship – Outreach Corporate](https://jobright.ai/jobs/info/6726ab7334b63a8181179769?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 02 |
+| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/6723def30ec58ac320b9fae5?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Nov 02 |
 | **[Northrop Grumman](https://www.northropgrumman.com/)** | **[2025 Strategic Growth Intern – Baltimore MD or Mclean VA](https://jobright.ai/jobs/info/67268f23468584283f01bd8c?utm_campaign=1065&utm_source=git)** | Linthicum, MD | Hybrid | Nov 02 |
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Intern, Brand & Corporate Affairs](https://jobright.ai/jobs/info/67264be2a17bd4684bc9bd83?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 02 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6709b339eccf619263f71199?utm_campaign=1065&utm_source=git)** | Greenwood, IN | On Site | Nov 02 |
-| **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6726212dd33e411863be17c8?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 02 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Communications Paid Intern](https://jobright.ai/jobs/info/67261d6bbfa742dcd5b48d26?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 02 |
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/67237f59416448c7768de208?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 02 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/672612c28915cbcf12aae2fd?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 02 |
@@ -94,6 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Marketing Intern (Jan-May 2025)](https://jobright.ai/jobs/info/6725fd2fa45f2eb35152794c?utm_campaign=1065&utm_source=git)** | Hershey, PA | On Site | Nov 02 |
 | **[Clark Insurance](https://www.clarkinsurance.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6725ec3d93c9ec59377bed82?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Nov 02 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6725f61efb80f70cb232f240?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 02 |
+| **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6725bd05e44114335355eea4?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 01 |
 | **[Myriad Genetics](http://www.myriad.com)** | **[Marketing Co-Op Spring 2025 - Biotech - GeneSight Marketing - **On-site in Mason, Ohio office**](https://jobright.ai/jobs/info/67098708869ad200f57b6a0b?utm_campaign=1065&utm_source=git)** | Mason, OH | On Site | Nov 01 |
 | **[Cox Communications](http://www.cox.com)** | **[Brand Marketing Co-op- Fall 2025](https://jobright.ai/jobs/info/67259f82edcee8ff2ea83241?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 01 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/672599decffb4efc63cd5313?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Outreach and Communications Intern](https://jobright.ai/jobs/info/67255a0f41d5afddea2fab11?utm_campaign=1065&utm_source=git)** | Annapolis, MD | Hybrid | Nov 01 |
 | **[TDECU](https://www.tdecu.org/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6724fe201f2dab3f1e81962c?utm_campaign=1065&utm_source=git)** | Sugarland, TX | On Site | Nov 01 |
 | ↳ | **[Intern - Undergraduate  Marketing Brand](https://jobright.ai/jobs/info/6724fe201f2dab3f1e81962d?utm_campaign=1065&utm_source=git)** | Sugarland, TX | On Site | Nov 01 |
-| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810b66?utm_campaign=1065&utm_source=git)** | Franklin, TN | Hybrid | Nov 01 |
-| ↳ | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/6724ff7209f999f06d810b6c?utm_campaign=1065&utm_source=git)** | Bismarck, ND | Hybrid | Nov 01 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Business Communications](https://jobright.ai/jobs/info/67253603f600f026c1f3439f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 01 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Marketing MBA Internship (Summer 2025)](https://jobright.ai/jobs/info/6724fb4552eb9130fbd9053e?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | Nov 01 |
-| **[Links Global USA](http://www.linksglobal.org/)** | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/6724ff7209f999f06d810a4a?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
