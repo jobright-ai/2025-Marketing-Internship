@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design Ready Controls](http://designreadycontrols.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67307ad747ceeba8af3353e7?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Nov 10 |
+| **[FYI Brand Group](https://www.fyibrandgroup.com/)** | **[Public Relations Internship - Spring 2025 Job at FYI Brand Group in Marina Del R](https://jobright.ai/jobs/info/673049fbe9d46c25bbe86630?utm_campaign=1065&utm_source=git)** | Marina del Rey, CA | On Site | Nov 09 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Communications Intern - Aftermarket](https://jobright.ai/jobs/info/67301b55b6e48453b2fe006f?utm_campaign=1065&utm_source=git)** | Hagerstown, MD | On Site | Nov 09 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/672fec81e3c87483089a5edb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Relations Intern, Spring 2025](https://jobright.ai/jobs/info/672fe47eadee2d8c3e9d5501?utm_campaign=1065&utm_source=git)** | Celebration, FL | Hybrid | Nov 09 |
@@ -70,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Marketing Communications Intern - Surgery](https://jobright.ai/jobs/info/66db920d458ebadcc43eb1f3?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 09 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[Marketing Summer Internship Positions](https://jobright.ai/jobs/info/671b78758401a52a40ecfead?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Nov 09 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66af73a416608ddd3cd092b0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 09 |
+| ↳ | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66a27b3510e34507ec383a29?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Nov 09 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/672f420a3074c7003a39294d?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 09 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Marketing Intern (2025 Summer Internship)](https://jobright.ai/jobs/info/671a0f4d1c585c8bda14cc19?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 09 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[HCS Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672f4d377d1b770370e64af5?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Nov 09 |
@@ -78,10 +81,12 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Spring 2025 - Comms Strategy Assistant](https://jobright.ai/jobs/info/672f3e9b69e1bf7d798ca10f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 09 |
 | ↳ | **[Spring 2025 - Social Media Assistant](https://jobright.ai/jobs/info/672f3e9b69e1bf7d798ca112?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 09 |
 | **[Aesculap (US)](https://www.aesculapusa.com)** | **[HCS Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672ef8f7b6495ac3d8c17835?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Nov 08 |
+| **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/671182cb11b1dd046572d882?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 08 |
 | **[Peacock](http://www.peacocktv.com)** | **[Peacock Marketing & MarTech Internships - Summer 2025](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d63e?utm_campaign=1065&utm_source=git)** | Universal City, CA | On Site | Nov 08 |
 | ↳ | **[Peacock Marketing & MarTech Internships - Summer 2025](https://jobright.ai/jobs/info/672eeb8839c8371fbb23d621?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 08 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/672ee8ec6f21c235ed2dd7ec?utm_campaign=1065&utm_source=git)** | Commerce, TX | On Site | Nov 08 |
 | **[Yahoo](http://www.yahoo.com)** | **[Intern, Social Impact & Engagement](https://jobright.ai/jobs/info/672ed53a026e4592494f7f3b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Nov 08 |
+| **[RVO Health](https://rvohealth.com/)** | **[Paid Media Associate](https://jobright.ai/jobs/info/66d886d56f5dc7c38cb39fdb?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 08 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Marine Merchandising Intern](https://jobright.ai/jobs/info/672ec9eef596041160abe9c4?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 08 |
 | ↳ | **[Digital Creative Marketing Intern](https://jobright.ai/jobs/info/672ed53a026e4592494f7f6b?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 08 |
 | ↳ | **[Shooting Sports Merchandising Intern](https://jobright.ai/jobs/info/672ec92682ea6200f04909b8?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 08 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[The Wendy's Company](http://www.wendys.com)** | **[Specialist - International Marketing - Mexico](https://jobright.ai/jobs/info/672e993a52f1b20d0a073cfe?utm_campaign=1065&utm_source=git)** | Dublin, OH | On Site | Nov 08 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Communications Internship](https://jobright.ai/jobs/info/67185c64846e619760a59f7c?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Nov 08 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2025 Marketing Student Experience](https://jobright.ai/jobs/info/66da2b35b61cde27ebf22da8?utm_campaign=1065&utm_source=git)** | West Fargo, ND | On Site | Nov 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney World Public Relations Intern, Spring 2025](https://jobright.ai/jobs/info/672e8f781d7f1f303e13e606?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | Hybrid | Nov 08 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Intern Digital Marketing Specialist](https://jobright.ai/jobs/info/672e9d81ea67f2e5905aa4ed?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Nov 08 |
 | **[The Bonadio Group](https://www.bonadio.com/)** | **[Marketing Intern (Summer 2025, Rochester)](https://jobright.ai/jobs/info/672eb5c2e3024520fe60354b?utm_campaign=1065&utm_source=git)** | Rochester, NY | Hybrid | Nov 08 |
 | **[HighKey Agency](https://highkeyagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/672e8b84b09057a00e35d982?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 08 |
@@ -114,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Renesas Electronics](https://www.renesas.com)** | **[Intern Digital Marketing Specialist](https://jobright.ai/jobs/info/672e882566be2bb9a0dec932?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Nov 08 |
 | ↳ | **[Intern Digital Marketing Specialist](https://jobright.ai/jobs/info/672e8b84b09057a00e35db95?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Nov 08 |
 | ↳ | **[Intern Digital Marketing Specialist](https://jobright.ai/jobs/info/672e8b84b09057a00e35db96?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Nov 08 |
-| **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2025 Internship - Chicago](https://jobright.ai/jobs/info/672e904010a085b242c46183?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Avis Budget Group](http://avisbudgetgroup.com)** | **[Accelerate D2C Digital Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/672e81d33418e62e735b0018?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Nov 08 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Market Insights & Analytics Summer Intern](https://jobright.ai/jobs/info/672e7bb049c0374c66cd7039?utm_campaign=1065&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 08 |
 | **[BioPharm Communications](http://www.biopharmcommunications.com/)** | **[CRM Strategy Manager](https://jobright.ai/jobs/info/672e882566be2bb9a0dec895?utm_campaign=1065&utm_source=git)** | New Hope, PA | On Site | Nov 08 |
@@ -128,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Customer & Patient Engagement Summer Intern](https://jobright.ai/jobs/info/672e620e24328023c850be9a?utm_campaign=1065&utm_source=git)** | US - Gaithersburg - MD | On Site | Nov 08 |
 | **[New Chapter, Inc.](http://www.newchapter.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/672e7d5958398948047d6235?utm_campaign=1065&utm_source=git)** | Brattleboro, VT | On Site | Nov 08 |
 | **[Blue Shield of California](https://www.blueshieldca.com)** | **[Marketing - Summer Internship](https://jobright.ai/jobs/info/672e5ac811a673300920d80e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Nov 08 |
+| **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2025 Internship - Chicago](https://jobright.ai/jobs/info/672e529068b5fbbdb4e93cbc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Cosm](https://www.cosm.com)** | **[Communications Intern](https://jobright.ai/jobs/info/672e5ff3c3241c8ba64848d3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 08 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Marketing Intern (Summer Internship 6/2/2025-8/8/2025)](https://jobright.ai/jobs/info/672e4f1f2965f0b6fd910ec1?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 08 |
 | **[Cosm](https://www.cosm.com)** | **[B2B Market Research Intern](https://jobright.ai/jobs/info/672e4f78219328a20ecedab4?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GAF](http://www.gaf.com/)** | **[Marketing Residential Shingles Intern](https://jobright.ai/jobs/info/672df7bbe003bbee16550321?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Nov 08 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/672df7bbe003bbee16550639?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 08 |
 | **[Equitable](https://equitable.com/)** | **[2025 Summer Intern - Social Impact](https://jobright.ai/jobs/info/672de7e24aee69c055ae41d3?utm_campaign=1065&utm_source=git)** | Syracuse, NY | Hybrid | Nov 08 |
-| **[Commvault](https://www.commvault.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/66da3384621e8b6769c945cf?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | Nov 08 |
-| **[Alcon](http://www.alcon.com)** | **[Summer 2025 Intern - Vision Care OTC Marketing](https://jobright.ai/jobs/info/672dd68c74502cc67e05c4d4?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Nov 08 |
-| **[empirical Foods](https://empiricalfoods.com/)** | **[Social Media Intern - Summer 2025](https://jobright.ai/jobs/info/672dfe5bc7f1c85c2b32565f?utm_campaign=1065&utm_source=git)** | North Sioux City, SD | On Site | Nov 08 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Digital Media Internship, Spring 2025](https://jobright.ai/jobs/info/672dca6434f84d452011c11b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
