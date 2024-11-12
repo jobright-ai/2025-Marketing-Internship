@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[L'Oréal](https://www.loreal.com)** | **[12m Marketing Internship, Influencer & Advocacy](https://jobright.ai/jobs/info/6732cc539d687689730bb027?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
+| **[University of Central Missouri](https://www.ucmo.edu)** | **[Alumni Marketing Assistant - Spring 2025](https://jobright.ai/jobs/info/6732cc8202bee4937117dcf4?utm_campaign=1065&utm_source=git)** | Warrensburg, MO | On Site | Nov 11 |
+| **[L'Oréal](https://www.loreal.com)** | **[12m Digital Internship, DDX - Redken](https://jobright.ai/jobs/info/6732c0aa7731df20cb738fbb?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
+| ↳ | **[12m Digital Internship, DDX - CDMO](https://jobright.ai/jobs/info/6732c0aa7731df20cb738f9e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Part-Time Communications Intern / Columbus, Ohio](https://jobright.ai/jobs/info/6732beefa7801021ad9e17b1?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 11 |
 | **[Cosm](https://www.cosm.com)** | **[Lifecycle Marketing Intern](https://jobright.ai/jobs/info/673297942cce34a5b343a718?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[dormakaba Americas](http://www.e-data.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8acb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 11 |
 | **[CSL](https://www.csl.com)** | **[2025 Summer Communications Intern (US)](https://jobright.ai/jobs/info/6732902719ace41b225b8abe?utm_campaign=1065&utm_source=git)** | Holly Springs, NC | Hybrid | Nov 11 |
 | **[Intradiem](http://www.intradiem.com)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8ac9?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
 | **[The Foth Companies](http://www.foth.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/67329991ab6973951fc3e0ca?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Nov 11 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/673292ce17fd7c97102cffee?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Nov 11 |
+| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Marketing and Fan Experience](https://jobright.ai/jobs/info/6732a10a11cb5f0ecf6ca1a9?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Nov 11 |
+| **[The Foth Companies](http://www.foth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/673292ce17fd7c97102cffee?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Nov 11 |
 | **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/673287234d621c035ed41439?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Nov 11 |
 | **[Butterball, LLC](http://www.butterball.com/)** | **[MBA Brand Management Intern (Summer 2025)](https://jobright.ai/jobs/info/673279bb4e1786837c97070f?utm_campaign=1065&utm_source=git)** | Garner, NC | On Site | Nov 11 |
 | **[Penn State University](http://psu.edu)** | **[Publicity Intern](https://jobright.ai/jobs/info/6732902719ace41b225b8bcf?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Nov 11 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Creative Marketing Intern](https://jobright.ai/jobs/info/672ed53a026e4592494f7f6b?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 08 |
 | ↳ | **[Shooting Sports Merchandising Intern](https://jobright.ai/jobs/info/672ec92682ea6200f04909b8?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 08 |
 | **[UC San Diego](https://extension.ucsd.edu/)** | **[Associate Director, Internal Communications - 133178](https://jobright.ai/jobs/info/672ee3c7c7ef60f0a3fe68ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 08 |
-| **[Rivian](http://www.rivian.com)** | **[MBA Intern - Charging](https://jobright.ai/jobs/info/67316b653bfc332a04dd8926?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Nov 08 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Analytics & Insights Trainee– Sony Pictures TV Research – Spring 2025](https://jobright.ai/jobs/info/672ec92682ea6200f0490a64?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Nov 08 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Customer & Patient Engagement Summer Intern](https://jobright.ai/jobs/info/672ec4a4c9cc9b91acd61369?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD | On Site | Nov 08 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Merchandising - Merchandising Intern](https://jobright.ai/jobs/info/670f43765ba02ce73d9dbdb7?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Nov 08 |
-| **[WENDEL Companies](https://wendelcompanies.com)** | **[Marketing and Proposal Internship](https://jobright.ai/jobs/info/672ecdb1cebb062496fca112?utm_campaign=1065&utm_source=git)** | Williamsville, NY | On Site | Nov 08 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[Oncology Market Insights & Analytics Summer Intern](https://jobright.ai/jobs/info/672eb52fd7352adc9a5e685d?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
