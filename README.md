@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Internship - Fresh](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e813?utm_campaign=1065&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
+| ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e800?utm_campaign=1065&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
+| **[CNO Financial Group](http://www.cnoinc.com)** | **[Summer 2025 Marketing Intelligence Internship](https://jobright.ai/jobs/info/6738893cd0e70ee410134022?utm_campaign=1065&utm_source=git)** | Carmel, IN | On Site | Nov 16 |
+| **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/6738810fe0deb2686d8f2766?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Nov 16 |
+| **[Lockton](https://global.lockton.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8a7?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
+| **[Sanofi](https://www.sanofi.com)** | **[Communications Co-op - Spring 2025 (Jan-April)](https://jobright.ai/jobs/info/67387962cd913a1d4571cc68?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Nov 16 |
+| **[Lockton](https://global.lockton.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8b5?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Communications Associate](https://jobright.ai/jobs/info/673866db9d980e2eb01b4193?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
 | ↳ | **[2025 Internship - Marketing (ABLE - Mesa, AZ)](https://jobright.ai/jobs/info/673866db9d980e2eb01b4197?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Nov 16 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Director, Executive and Internal Communications](https://jobright.ai/jobs/info/6738594da622f4f4dc833c41?utm_campaign=1065&utm_source=git)** | Evanston, IL | Hybrid | Nov 16 |
+| **[Textron](http://textron.com)** | **[2025 Internship - Events Associate](https://jobright.ai/jobs/info/6738810fe0deb2686d8f272c?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
 | **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[Social media marketing intern](https://jobright.ai/jobs/info/67384a87ce91676985f12e85?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Cox Communications](http://www.cox.com)** | **[Advertising Intern - Summer 2025](https://jobright.ai/jobs/info/6738453b956572465f21a91e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 15 |
 | **[Tate](http://tateinc.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6738278e59eb43cfe8a96e88?utm_campaign=1065&utm_source=git)** | Jessup, MD | On Site | Nov 15 |
@@ -133,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6737167054cda01f8eb27e56?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Nov 15 |
 | **[League of Southeastern Credit Unions & Affiliates](https://lscu.coop/)** | **[Marketing Intern](https://jobright.ai/jobs/info/673702829ec5c6518ade9d60?utm_campaign=1065&utm_source=git)** | Duluth, GA | On Site | Nov 14 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Marketing Intern – Mergers & Acquisitions](https://jobright.ai/jobs/info/6737167054cda01f8eb27bd2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 14 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabf1b?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States of America | On Site | Nov 14 |
-| ↳ | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabefd?utm_campaign=1065&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 14 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabefd?utm_campaign=1065&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 14 |
+| ↳ | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabf1b?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States of America | On Site | Nov 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Intern - Communications](https://jobright.ai/jobs/info/6736f0cebb0937c717fb218d?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Nov 14 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - GO Brands](https://jobright.ai/jobs/info/6736db31504169c9f2768b44?utm_campaign=1065&utm_source=git)** | Emeryville, CA | Hybrid | Nov 14 |
 | **[Legrand](https://www.legrandgroup.com)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/673792001a93998ccc35f231?utm_campaign=1065&utm_source=git)** | 50 Boyd Avenue, Syracuse, NY, US | On Site | Nov 14 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Scandal Italy](https://www.scandalitaly.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/67369d991e640ed21adb3eb4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Brand Writer Intern](https://jobright.ai/jobs/info/6736a2f32e75724099be50d1?utm_campaign=1065&utm_source=git)** | Bayport, MN | On Site | Nov 14 |
 | **[Yahoo](http://www.yahoo.com)** | **[Internal Communications Intern – Consumer and Ads Businesses](https://jobright.ai/jobs/info/6736927ddb49d9c1e6578ffd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 14 |
-| **[OneDigital](https://www.onedigital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67368361ad7ad2458df1332b?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 14 |
-| **[ETS](http://www.ets.org)** | **[MBA Internship Program (Marketing)](https://jobright.ai/jobs/info/67368be435c4956321f7bdfb?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Nov 14 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Products & Experiences, Communication & Events Internships – Summer 2025](https://jobright.ai/jobs/info/673681e21cbc555098ec0a1d?utm_campaign=1065&utm_source=git)** | Universal City, CA | On Site | Nov 14 |
-| **[Greystar](http://greystar.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/67368361ad7ad2458df13642?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 14 |
-| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/67368361ad7ad2458df13645?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Nov 14 |
-| **[CIBC US](https://us.cibc.com/en/home.html)** | **[Digital Banking - 2025 Summer Intern](https://jobright.ai/jobs/info/6736724b998cc47f3bf0a38d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 14 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Product Marketing Intern, DGX Products - Summer 2025](https://jobright.ai/jobs/info/673664f0434677a5320dd5d1?utm_campaign=1065&utm_source=git)** | US, CA, Santa Clara | On Site | Nov 14 |
-| **[Yahoo](http://www.yahoo.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6736618da78ca3757db8c54b?utm_campaign=1065&utm_source=git)** | United States of America - Remote | Remote | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
