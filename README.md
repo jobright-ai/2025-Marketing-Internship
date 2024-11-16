@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6738d2cc20f3adf7ee4525c7?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 16 |
 | **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Internship - Fresh](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e813?utm_campaign=1065&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6738a110e9f15c8a0777e800?utm_campaign=1065&utm_source=git)** | Carlisle, PA | Hybrid | Nov 16 |
 | **[CNO Financial Group](http://www.cnoinc.com)** | **[Summer 2025 Marketing Intelligence Internship](https://jobright.ai/jobs/info/6738893cd0e70ee410134022?utm_campaign=1065&utm_source=git)** | Carmel, IN | On Site | Nov 16 |
+| **[Avangrid](https://www.avangrid.com/aboutus/avangridfoundation)** | **[2025 Summer Corporate Communications Intern](https://jobright.ai/jobs/info/671ad96f3d8dfabcb55ee752?utm_campaign=1065&utm_source=git)** | Rochester, New York Metropolitan Area | On Site | Nov 16 |
 | **[Mondelēz International](https://www.mondelezinternational.com/)** | **[Sr. Associate Brand Manager Intern](https://jobright.ai/jobs/info/6738810fe0deb2686d8f2766?utm_campaign=1065&utm_source=git)** | East Hanover, NJ | On Site | Nov 16 |
 | **[Lockton](https://global.lockton.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8a7?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Sanofi](https://www.sanofi.com)** | **[Communications Co-op - Spring 2025 (Jan-April)](https://jobright.ai/jobs/info/67387962cd913a1d4571cc68?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Nov 16 |
 | **[Lockton](https://global.lockton.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67000642b42774e5a643b8b5?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Communications Associate](https://jobright.ai/jobs/info/673866db9d980e2eb01b4193?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
-| ↳ | **[2025 Internship - Marketing (ABLE - Mesa, AZ)](https://jobright.ai/jobs/info/673866db9d980e2eb01b4197?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Nov 16 |
 | **[Northwestern University](https://www.northwestern.edu)** | **[Director, Executive and Internal Communications](https://jobright.ai/jobs/info/6738594da622f4f4dc833c41?utm_campaign=1065&utm_source=git)** | Evanston, IL | Hybrid | Nov 16 |
 | **[Textron](http://textron.com)** | **[2025 Internship - Events Associate](https://jobright.ai/jobs/info/6738810fe0deb2686d8f272c?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Nov 16 |
 | **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[Social media marketing intern](https://jobright.ai/jobs/info/67384a87ce91676985f12e85?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Merchandising Internship](https://jobright.ai/jobs/info/673822325fe32628d92b8718?utm_campaign=1065&utm_source=git)** | Taunton, MA | On Site | Nov 15 |
 | **[Ubisoft](https://www.ubisoft.com)** | **[Communications - Public Relations Intern](https://jobright.ai/jobs/info/673820d83139ae60e9713046?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | **[DC Bilingual Public Charter School](http://dcbilingual.org)** | **[SY 2023-2024 Communication Intern Job at DC Bilingual Public Charter School in W](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6ee3c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 15 |
-| **[Nouria](http://nouriaenergy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67381b4c9559f95eac1d75ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[FHI 360](http://www.fhi360.org)** | **[Corporate Events & Outreach Intern](https://jobright.ai/jobs/info/67381f2c4a87ff10e4b6ee55?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Strategy & Insights, T-Ads Internships](https://jobright.ai/jobs/info/673815b274318bd7cfcb2213?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 15 |
 | ↳ | **[Summer 2025 Marketing Internship](https://jobright.ai/jobs/info/673807f04f70d96f86cf9187?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
@@ -141,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6737167054cda01f8eb27e56?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Nov 15 |
 | **[League of Southeastern Credit Unions & Affiliates](https://lscu.coop/)** | **[Marketing Intern](https://jobright.ai/jobs/info/673702829ec5c6518ade9d60?utm_campaign=1065&utm_source=git)** | Duluth, GA | On Site | Nov 14 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Digital Marketing Intern – Mergers & Acquisitions](https://jobright.ai/jobs/info/6737167054cda01f8eb27bd2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 14 |
-| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabefd?utm_campaign=1065&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 14 |
-| ↳ | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabf1b?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States of America | On Site | Nov 14 |
+| **[Adobe](http://www.adobe.com)** | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabf1b?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States of America | On Site | Nov 14 |
+| ↳ | **[2025 MBA Intern - Global Growth & Digital Sales](https://jobright.ai/jobs/info/6736ee85099f6a44bcaabefd?utm_campaign=1065&utm_source=git)** | San Jose, California, United States of America | On Site | Nov 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[Part Time Intern - Communications](https://jobright.ai/jobs/info/6736f0cebb0937c717fb218d?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Nov 14 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - GO Brands](https://jobright.ai/jobs/info/6736db31504169c9f2768b44?utm_campaign=1065&utm_source=git)** | Emeryville, CA | Hybrid | Nov 14 |
 | **[Legrand](https://www.legrandgroup.com)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/673792001a93998ccc35f231?utm_campaign=1065&utm_source=git)** | 50 Boyd Avenue, Syracuse, NY, US | On Site | Nov 14 |
