@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advanced Behavioral Health, Inc.](https://www.abhcal.com/)** | **[Marketing Internship - Spring 2025](https://jobright.ai/jobs/info/6739657b7a4a7c39d5893fd1?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Nov 16 |
+| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Intern (FULL-TIME, ON-SITE, IMMEDIATE)](https://jobright.ai/jobs/info/672d2566926b4980b5545d50?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Nov 16 |
 | **[Central Insurance](http://www.central-insurance.com)** | **[Market Insights Intern](https://jobright.ai/jobs/info/6739310a27e6d47163228f9c?utm_campaign=1065&utm_source=git)** | Dublin, OH | Hybrid | Nov 16 |
 | **[Smart Meetings](http://www.smartmeetings.com/)** | **[Marketing and Sales Intern - Paid Internship](https://jobright.ai/jobs/info/67391af1590622865aec0760?utm_campaign=1065&utm_source=git)** | San Rafael, CA | On Site | Nov 16 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6738d2cc20f3adf7ee4525c7?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Yahoo](http://www.yahoo.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6736bf386033e437b52d97b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 14 |
 | **[Hammitt](https://www.hammitt.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6736cad35a392bc151e2f014?utm_campaign=1065&utm_source=git)** | Hermosa Beach, CA | On Site | Nov 14 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Solutions Web Marketing Intern - Spring 2025](https://jobright.ai/jobs/info/6736bc45d3341bf8b89f40e5?utm_campaign=1065&utm_source=git)** | Morrisville, NC | Hybrid | Nov 14 |
-| **[DOMA Technologies](https://www.domaonline.com)** | **[Join Our Growth Team – Future Opportunities](https://jobright.ai/jobs/info/6736b58a076ca92a8e215f74?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 14 |
-| **[Scandal Italy](https://www.scandalitaly.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/67369d991e640ed21adb3eb4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
