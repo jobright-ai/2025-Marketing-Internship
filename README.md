@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/673afa229db1332fdc567a4c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 17 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2025 Advancing Hispanics & Latinos Fellowship Program - Markets Track](https://jobright.ai/jobs/info/673ae72945b27eac6376cfb5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Donor Relations (Events and Communication) Job at Chautauqua Instit](https://jobright.ai/jobs/info/673ac38219e2047502cb6fc5?utm_campaign=1065&utm_source=git)** | Chautauqua, NY | On Site | Nov 17 |
 | **[Turlock Irrigation District](https://tid.com)** | **[Student Internship - Communications](https://jobright.ai/jobs/info/673a698923ef1615bd1f86d1?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Nov 17 |
 | **[Catholic Institute of Technology](catholic.tech)** | **[Marketing Intern](https://jobright.ai/jobs/info/673a5314901a838dc865f9f6?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 17 |
 | **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Intern](https://jobright.ai/jobs/info/673a4a4b5abde474d1401655?utm_campaign=1065&utm_source=git)** | Cairo, GA | On Site | Nov 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Paid Media Intern](https://jobright.ai/jobs/info/673759881a16a9b75d1b4ed0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Nov 15 |
 | **[Force Factor](https://forcefactor.com/)** | **[Tik Tok Shop Strategy Spring Co-Op](https://jobright.ai/jobs/info/67375a031b71f9536f30fe5e?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Nov 15 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e35498b9d5159d7d962215?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| ↳ | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e34eb59c221d7f993adc81?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Nov 15 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/671ad467ed20aadc1c8e3b40?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
-| **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e340180b35a594c111ede8?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
