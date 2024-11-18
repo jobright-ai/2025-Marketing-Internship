@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2025 Marketing Internship](https://jobright.ai/jobs/info/673807f04f70d96f86cf9187?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Nov 15 |
 | **[thyssenkrupp Materials NA](https://www.thyssenkrupp-materials-na.com/)** | **[Marketing Internship - FALL 2024](https://jobright.ai/jobs/info/673822325fe32628d92b8740?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Nov 15 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Donor Relations (Events and Communication)](https://jobright.ai/jobs/info/67380a6caecef4243d9b170f?utm_campaign=1065&utm_source=git)** | Chautauqua, NY | On Site | Nov 15 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/66c62e688ed08f472cb7a407?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Nov 15 |
 | **[PSC Biotech Corporation](http://biotech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6737fd848759fa306d75a918?utm_campaign=1065&utm_source=git)** | York, PA | Hybrid | Nov 15 |
 | **[The Chefs' Warehouse](http://www.chefswarehouse.com)** | **[Culinary Intern](https://jobright.ai/jobs/info/6737eea7371442c9de3f3d6a?utm_campaign=1065&utm_source=git)** | Hanover, MD | Hybrid | Nov 15 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6737ee5df7eefca392209e05?utm_campaign=1065&utm_source=git)** | Neenah, WI | On Site | Nov 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e34eb59c221d7f993adc81?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Nov 15 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/671ad467ed20aadc1c8e3b40?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e340180b35a594c111ede8?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/67374b7b3aa4b95272bace9d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
