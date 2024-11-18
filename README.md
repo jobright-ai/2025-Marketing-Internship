@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Turlock Irrigation District](https://tid.com)** | **[Student Internship - Communications](https://jobright.ai/jobs/info/673a698923ef1615bd1f86d1?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Nov 17 |
+| **[Catholic Institute of Technology](catholic.tech)** | **[Marketing Intern](https://jobright.ai/jobs/info/673a5314901a838dc865f9f6?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 17 |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Intern](https://jobright.ai/jobs/info/673a4a4b5abde474d1401655?utm_campaign=1065&utm_source=git)** | Cairo, GA | On Site | Nov 17 |
 | **[Coinbase](http://www.coinbase.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/673a283ecf842789d56310bd?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 17 |
 | **[TikTok](https://www.tiktok.com)** | **[US Campaign Strategy & Operations Intern (TikTok Shop - Global Key Accounts) - 2024 Project Intern (BS/MS)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f7a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
 | ↳ | **[Platform Campaign MBA Intern (TikTok Shop - Operations) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/673a24aae5228b8986f45f9b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 17 |
@@ -66,6 +69,7 @@ For a complete list, click the following sortable link below:
 | **[BioSpace](http://www.biospace.com/)** | **[2025 Analytics Leadership Development Program (ALDP) Summer Internship](https://jobright.ai/jobs/info/673a36247c8ca0f195a4da3f?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 17 |
 | **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Marketing](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36f43?utm_campaign=1065&utm_source=git)** | Coppell, TX | On Site | Nov 17 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Innovation Analyst Intern](https://jobright.ai/jobs/info/6739d92f9364d74736f31ea0?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 17 |
+| **[The Andersons, Inc.](http://www.andersonsinc.com/)** | **[Commodity Merchandising Intern (Summer 2025)](https://jobright.ai/jobs/info/671e26f9a37be473b6f87ef3?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Nov 17 |
 | **[Sage](https://group.sagepub.com)** | **[Author Marketing Intern](https://jobright.ai/jobs/info/6739ba02d0c137deab3dbdea?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Nov 17 |
 | **[TD SYNNEX](https://www.tdsynnex.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6739c044771725b36cd39c29?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Nov 16 |
 | **[Compass Group](http://www.compass-group.com)** | **[Marketing Intern, Chartwells Higher Ed / DePaul University](https://jobright.ai/jobs/info/67398238a98ff8d3b503463b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
@@ -108,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[North America Homeland Marketing Intern, FamilySearch](https://jobright.ai/jobs/info/6737e891c91044b349c641ac?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Nov 15 |
 | **[CSX](http://www.csx.com)** | **[Stakeholder Engagement Intern - Summer 2025 (Paid)](https://jobright.ai/jobs/info/6737e53d8d4eda1bdf6ea994?utm_campaign=1065&utm_source=git)** | 32202 | On Site | Nov 15 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Service Marketing Analytics](https://jobright.ai/jobs/info/6737e35100726fe22ecf3c07?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Nov 15 |
+| **[CooperSurgical](http://www.coopersurgical.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/671ac1fe4386b63e4a3267b2?utm_campaign=1065&utm_source=git)** | Trumbull, CT | On Site | Nov 15 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/66e37859a6c9b8dfb1215ef6?utm_campaign=1065&utm_source=git)** | Westerville, OH | On Site | Nov 15 |
 | **[Principal Financial Group](https://principaletfs.com/)** | **[Events Internship - Summer 2025](https://jobright.ai/jobs/info/6737d57af5d961254deace49?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Nov 15 |
 | **[JM Family Enterprises, Inc.](http://www.jmfamily.com/)** | **[Intern, Meetings & Special Events](https://jobright.ai/jobs/info/6737d0c1194f23d6695de88e?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Nov 15 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/671ad467ed20aadc1c8e3b40?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 15 |
 | **[Analytic Partners](https://analyticpartners.com/)** | **[Marketing Science Analyst-Internship-Summer 2025](https://jobright.ai/jobs/info/66e340180b35a594c111ede8?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/67374b7b3aa4b95272bace9d?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Towerstone Intern, Summer 2025 - IMA Financial](https://jobright.ai/jobs/info/66ff05924ab8bdc5e80979c2?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 15 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Market Research](https://jobright.ai/jobs/info/671a8c432faacaac1008d6cf?utm_campaign=1065&utm_source=git)** | Avon, OH | On Site | Nov 15 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Cervical Health & Cytology Lab Marketing](https://jobright.ai/jobs/info/671aea7cb2c1e335afe6c9d4?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Nov 15 |
-| **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Quantitative Strategies & Data Group Summer Associate Program - 2025](https://jobright.ai/jobs/info/66c4c9f2b5e0b8af971e6fcd?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 15 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2025 (Remote)](https://jobright.ai/jobs/info/673737044ac3d4e525f0b131?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
