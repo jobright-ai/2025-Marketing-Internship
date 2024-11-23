@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bushel](https://bushelpowered.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/674210098e1eb9f080cd35b0?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Nov 23 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern - Cell Culture Cell Therapy](https://jobright.ai/jobs/info/674210098e1eb9f080cd36cf?utm_campaign=1065&utm_source=git)** | Grand Island, NY | On Site | Nov 23 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6741f86045b556bdcd53c8c9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 23 |
 | **[Siemens](https://www.siemens.com/)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/6741d9eb07d7e7bd4d8f684c?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Nov 23 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/6741cd139c0573ccb683d9ca?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
 | ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/6741d99b8c83a94999fb7a07?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
@@ -143,7 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[Employer Branding/Talent Intern](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69cfbb?utm_campaign=1065&utm_source=git)** | Elkhart, IN | Hybrid | Nov 22 |
 | **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/674102e6cbe71b679ea97c04?utm_campaign=1065&utm_source=git)** | New York, New York (West 12th Street) | Hybrid | Nov 22 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Marketing 2025 Summer Internship (Full Time/Paid/Hybrid)](https://jobright.ai/jobs/info/6741019c3244c8755060f8e5?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Hybrid | Nov 22 |
-| **[Formlabs](http://www.formlabs.com)** | **[Go-To-Market MBA Intern (Summer 2025)](https://jobright.ai/jobs/info/67410f7881d57c7ef9d3f389?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
+| **[Formlabs](http://www.formlabs.com)** | **[Marketing Strategy and Analytics MBA Intern (Summer 2025)](https://jobright.ai/jobs/info/67410f7881d57c7ef9d3f376?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
+| ↳ | **[Go-To-Market MBA Intern (Summer 2025)](https://jobright.ai/jobs/info/67410f7881d57c7ef9d3f389?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Nov 22 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6741098a84e46f7446709be7?utm_campaign=1065&utm_source=git)** | Radnor, PA | On Site | Nov 22 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Marketing Operations Intern - Summer 2025](https://jobright.ai/jobs/info/6741019c3244c8755060f956?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Interactive Marketing](https://jobright.ai/jobs/info/67410a86e6cd3fe13a69d05a?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State University](http://psu.edu)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6740fecd93022351f4053874?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Brand Management Planning Intern](https://jobright.ai/jobs/info/6740f5eae576689391580710?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
 | ↳ | **[Marketing Summer Intern - Social Media](https://jobright.ai/jobs/info/6740f5eae576689391580731?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| ↳ | **[Enterprise Market Research Intern](https://jobright.ai/jobs/info/6740f5eae576689391580718?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| ↳ | **[EIM Email Marketing Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070e?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Branding and Communications Intern](https://jobright.ai/jobs/info/6740f572af5ef5bab5e944d6?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Nov 22 |
-| **[Yelp](http://yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6741010a9757255949388dcc?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
