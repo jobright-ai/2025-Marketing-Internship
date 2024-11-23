@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens](https://www.siemens.com/)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/6741d9eb07d7e7bd4d8f684c?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Nov 23 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/6741cd139c0573ccb683d9ca?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
+| ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/6741d99b8c83a94999fb7a07?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Copywriting Intern (Full-Time)](https://jobright.ai/jobs/info/6741cd139c0573ccb683da0d?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Nov 23 |
+| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Surgical](https://jobright.ai/jobs/info/670957e4e4f684298f6e419f?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Nov 23 |
+| **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Strategic Communication Outreach and Education-Marketing Internship](https://jobright.ai/jobs/info/6741cafd1cf63e5570c84679?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
+| ↳ | **[Strategic Communication Outreach and Education-Internal Communications Intern](https://jobright.ai/jobs/info/6741cafd1cf63e5570c846b0?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
+| **[Lennox](http://www.lennox.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6741b81e8b6a970dc959e036?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 23 |
+| **[Zurich North America](https://www.zurichna.com)** | **[Customer Office & Distribution Internship - Digital Marketing (Summer 2025)](https://jobright.ai/jobs/info/6741cd139c0573ccb683d944?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Nov 23 |
+| **[Moderna](http://www.modernatx.com)** | **[2025 MBA Intern, Commercial](https://jobright.ai/jobs/info/672549326c2eb07bb760316d?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 23 |
+| **[Daiichi Sankyo, Inc.](https://daiichisankyo.us)** | **[US Marketing ENHERTU Intern](https://jobright.ai/jobs/info/6741c467f0de61dff6d3df17?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 23 |
 | **[Enova International](http://www.enova.com)** | **[Marketing Internship Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/67419cbf350ee1be19634777?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 23 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Internship - Outdoor Products Team](https://jobright.ai/jobs/info/67418e500e264986f1d4db91?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Nov 22 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/67418e500e264986f1d4db92?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Nov 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[EIM Email Marketing Intern](https://jobright.ai/jobs/info/6740f5eae57668939158070e?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Global Branding and Communications Intern](https://jobright.ai/jobs/info/6740f572af5ef5bab5e944d6?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Nov 22 |
 | **[Yelp](http://yelp.com)** | **[Community Intern, Queens](https://jobright.ai/jobs/info/6741010a9757255949388dcc?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Nov 22 |
-| ↳ | **[Community Intern, Miami](https://jobright.ai/jobs/info/6741010a9757255949388dbe?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 22 |
-| ↳ | **[Community Campaigns Intern, Indianapolis](https://jobright.ai/jobs/info/6741010a9757255949388da7?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 22 |
-| **[Mercedes-Benz Financial Services USA LLC](https://www.mbfs.com/home)** | **[Corporate Communications Internship](https://jobright.ai/jobs/info/6740fecd93022351f4053888?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | Hybrid | Nov 22 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Americas Marketing](https://jobright.ai/jobs/info/674189f32d515435639ed53e?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 22 |
-| **[Altair](http://www.altair.com)** | **[EDEM Intern - Americas](https://jobright.ai/jobs/info/6740fecd93022351f405390d?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Nov 22 |
-| **[Ridgeline International, LLC](http://www.ridgelineintl.com)** | **[GTM/Growth Operations Analyst (Intern)](https://jobright.ai/jobs/info/67410d3b53e188fba31d0592?utm_campaign=1065&utm_source=git)** | Tysons Corner, VA | Hybrid | Nov 22 |
-| **[IL MAKIAGE](https://www.ilmakiage.com)** | **[Social Media Manager](https://jobright.ai/jobs/info/6740eced745d1c61e522b30e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[Penn State University](http://psu.edu)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6740e1654066a2db756c6389?utm_campaign=1065&utm_source=git)** | Penn State University Park | On Site | Nov 22 |
-| **[Florida Atlantic University](http://www.fau.edu/)** | **[Student Digital Content Creator & Engagement Assistant](https://jobright.ai/jobs/info/6740e1654066a2db756c6354?utm_campaign=1065&utm_source=git)** | Boca Raton | On Site | Nov 22 |
-| **[Ipsos North America](http://ipsos-na.com)** | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5536?utm_campaign=1065&utm_source=git)** | Norwalk, CT | On Site | Nov 22 |
-| ↳ | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5537?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
