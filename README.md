@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Innovation Marketing Intern (NYC)](https://jobright.ai/jobs/info/67425dc752e73680180a8791?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 23 |
 | **[Bushel](https://bushelpowered.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/674210098e1eb9f080cd35b0?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Nov 23 |
+| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Donor Relations (Events and Communication) Job at Chautauqua Instit](https://jobright.ai/jobs/info/6742374881b9ac3073d996e0?utm_campaign=1065&utm_source=git)** | Chautauqua, NY | On Site | Nov 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6741f86045b556bdcd53c8c9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 23 |
 | **[Siemens](https://www.siemens.com/)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/6741d9eb07d7e7bd4d8f684c?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Nov 23 |
 | **[KLA](https://www.kla.com)** | **[Marketing analyst intern](https://jobright.ai/jobs/info/672574424a51aae123a3772c?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Nov 23 |
@@ -82,9 +82,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Summer Intern - Social Media](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6ba0?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Marketing Measurement Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b9d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b9c?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
+| **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/6708dc8afaeb27125c7ebb38?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Keller Williams Realty, Inc.](https://www.kw.com/)** | **[Digital Content Specialist](https://jobright.ai/jobs/info/67416dd41f552c4eda58c114?utm_campaign=1065&utm_source=git)** | Clarksville, TN | Hybrid | Nov 22 |
 | **[BluShark Digital](https://blusharkdigital.com)** | **[Digital Content (SEO Copy Editing) Fellowship (Fall 2024) Job at BluShark Digita](https://jobright.ai/jobs/info/6741677c437b65e3b9943cdb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 22 |
-| **[Emergent Method](https://emergentmethod.com)** | **[EMERGENT METHOD is hiring: Communication Intern in Baton Rouge](https://jobright.ai/jobs/info/674186dff36bf1e001901d3d?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 22 |
+| **[Emergent Method](https://emergentmethod.com)** | **[EMERGENT METHOD is hiring: Communication Intern in Baton Rouge](https://jobright.ai/jobs/info/674186dff36bf1e001901d40?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 22 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Merchandising Internship](https://jobright.ai/jobs/info/6741677c437b65e3b9943d60?utm_campaign=1065&utm_source=git)** | Taunton, MA | On Site | Nov 22 |
 | **[RSVLTS](https://rsvlts.com)** | **[RSVLTS is hiring: Social Media Content Creator Intern in Hoboken](https://jobright.ai/jobs/info/67417df82f0c484f8d1a081a?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | On Site | Nov 22 |
 | **[Interactive Strategies](http://interactivestrategies.com)** | **[Interactive Strategies is hiring: Marketing Creative Strategy Intern in Washingt](https://jobright.ai/jobs/info/674164562bdd7df83c4876e4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 22 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Marketing Design Intern (Summer 2025) Job at Art of Problem Solving in San Diego](https://jobright.ai/jobs/info/67416dd41f552c4eda58c320?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Nov 22 |
 | **[SidelineSwap](https://sidelineswap.com)** | **[SidelineSwap is hiring: Social Media Intern - Content Creator (Softball) in Bost](https://jobright.ai/jobs/info/67424d886c11b08098d3ee26?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 22 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67417df82f0c484f8d1a0681?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 22 |
-| **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Donor Relations (Events and Communication) Job at Chautauqua Instit](https://jobright.ai/jobs/info/67415c95f500b2ebbbde4b33?utm_campaign=1065&utm_source=git)** | Chautauqua, NY | On Site | Nov 22 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/674169b0222271e39af6e218?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
 | ↳ | **[Intern, Global PLM](https://jobright.ai/jobs/info/674169b0222271e39af6e28c?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management Job at e.l.f. Beauty in Los Angeles](https://jobright.ai/jobs/info/674168fa4ad3cd2ad3464899?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
@@ -106,7 +106,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Content/Writing Intern Job at Concordia Publishing House in St Louis](https://jobright.ai/jobs/info/6741677c437b65e3b9943c19?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Nov 22 |
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Facility Branding & Dealer Planning](https://jobright.ai/jobs/info/67414ad345dc59bf710e2ee7?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | Hybrid | Nov 22 |
 | **[Franklin Pierce University](http://www.franklinpierce.edu/)** | **[Students at FPU Only - Student Content Creator AY 24-25 Job at Franklin Pierce U](https://jobright.ai/jobs/info/674154dc254d14663b1219f7?utm_campaign=1065&utm_source=git)** | Rindge, NH | On Site | Nov 22 |
-| **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6742909e894ce92fc32fa5a2?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Nov 22 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - GenMark Marketing](https://jobright.ai/jobs/info/67414a55974da688c6f78d52?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 22 |
 | **[WillowTree](http://www.willowtreeapps.com)** | **[Growth Marketing Intern (US) - Summer 2025](https://jobright.ai/jobs/info/674156489c285aad50bb6ff5?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Nov 22 |
 | ↳ | **[Growth Marketing Intern (US) - Summer 2025](https://jobright.ai/jobs/info/674156489c285aad50bb726e?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Nov 22 |
@@ -126,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[Communications Internship/CAER](https://jobright.ai/jobs/info/674136a9e7e1fe7b7489351a?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Nov 22 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring 2025 - Visual Merchandising Intern](https://jobright.ai/jobs/info/674128e942019c92aa319d15?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6741217e9e0c97d07c251da1?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 22 |
-| **[Yelp](http://yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/67412c33a3251d9587d37e12?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Nov 22 |
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing](https://jobright.ai/jobs/info/67412c33a3251d9587d37deb?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Nov 22 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Foodservice Sales and Marketing Analyst - Summer 2025](https://jobright.ai/jobs/info/674126bdd966f23886f0e9d0?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
 | **[iRobot](https://www.irobot.com)** | **[Project Management, Marketing Intern](https://jobright.ai/jobs/info/6741120be9037e7ce2c0fe10?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Nov 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Axis Communications](http://www.axis.com/)** | **[Partner Marketing Intern](https://jobright.ai/jobs/info/6740f8ea44ed0def6822da3f?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Nov 22 |
 | **[Penn State University](http://psu.edu)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6740fecd93022351f4053874?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Brand Management Planning Intern](https://jobright.ai/jobs/info/6740f5eae576689391580710?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
+| ↳ | **[Marketing Summer Intern - Social Media](https://jobright.ai/jobs/info/6740f5eae576689391580731?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
+| ↳ | **[Enterprise Market Research Intern](https://jobright.ai/jobs/info/6740f5eae576689391580718?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
