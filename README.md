@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Student Associate Marketing / Indianapolis](https://jobright.ai/jobs/info/6743b7dc1f96bfde49d2a1b1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Strategic Marketing Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/674372f6b9274bd04659f25c?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Sales/Marketing Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/67436c8fc5efd13122f2c3cf?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
 | **[Travelers](https://www.travelers.com)** | **[Content Management & SEO Intern](https://jobright.ai/jobs/info/6743612358f0eed481cae37b?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Financial Times](http://ft.com)** | **[FT Live US Summer Intern](https://jobright.ai/jobs/info/674107a079723163cb332ad0?utm_campaign=1065&utm_source=git)** | New York | On Site | Nov 22 |
 | **[MindKind](https://mindkind.life)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/67410d3b53e188fba31d0433?utm_campaign=1065&utm_source=git)** | Long Beach, CA | Hybrid | Nov 22 |
 | **[Roche](http://www.roche.com)** | **[2025 Summer Intern - GenMark Marketing](https://jobright.ai/jobs/info/6741040821b84e08697c8e4f?utm_campaign=1065&utm_source=git)** | Indianapolis | On Site | Nov 22 |
-| **[Bayer](https://www.bayer.com)** | **[Digital Farming Intern Digital Mkt](https://jobright.ai/jobs/info/67410d3b53e188fba31d0429?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
