@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Autodesk](http://www.autodesk.com)** | **[Intern, Brand Social Content Creator](https://jobright.ai/jobs/info/674477922a1faf99859f0bec?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 25 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/67446ab609d436a01fceb081?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Nov 25 |
+| ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/67446ab609d436a01fceb084?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Nov 25 |
+| ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50d7?utm_campaign=1065&utm_source=git)** | Chula Vista, CA | Hybrid | Nov 25 |
+| ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/6744665c041d2a391550dbb2?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Nov 25 |
+| ↳ | **[LN Concerts, Marketing Intern (Arizona & New Mexico)](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50d1?utm_campaign=1065&utm_source=git)** | Greater Tucson Area | Hybrid | Nov 25 |
+| ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/67445b96a4d88f95bb8c50bf?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Nov 25 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[(Spring) Brand Marketing Co-op: January to June 2025](https://jobright.ai/jobs/info/6728431aaae858d3058e88fe?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Nov 25 |
+| **[Oigetit.ai - Fake News Filter](http://www.oigetit.com)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/674458c2e1cf40df289b9239?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 25 |
+| **[Invesco US](http://www.invesco.com/us)** | **[Institutional Marketing Intern](https://jobright.ai/jobs/info/6728053a1f1605822994bf5f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 25 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Brand Management Intern](https://jobright.ai/jobs/info/674432be1a24af61ef0779d6?utm_campaign=1065&utm_source=git)** | Work From Home - California - Los Angeles | On Site | Nov 25 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Communications Intern - Aftermarket](https://jobright.ai/jobs/info/6744439b1188077a2ffc6740?utm_campaign=1065&utm_source=git)** | Hagerstown, MD | On Site | Nov 24 |
-| ↳ | **[Global Branding and Communications Intern](https://jobright.ai/jobs/info/6744439b1188077a2ffc6741?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Nov 24 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern (Arizona & New Mexico)](https://jobright.ai/jobs/info/6744231bcabe8a4ac55e37d5?utm_campaign=1065&utm_source=git)** | Work From Home - Arizona | Remote | Nov 24 |
 | ↳ | **[LN Concerts, Marketing Intern (Arizona & New Mexico)](https://jobright.ai/jobs/info/6744231bcabe8a4ac55e37d1?utm_campaign=1065&utm_source=git)** | US AZ Phoenix - 130 N Central Ave  Suite 204 | Remote | Nov 24 |
 | **[Kelly Benefits](https://www.kellybenefits.com/)** | **[Summer Internship '25 - Client Communications Marketing](https://jobright.ai/jobs/info/67441dcf5279745e8500c38b?utm_campaign=1065&utm_source=git)** | Sparks Glencoe, MD | On Site | Nov 24 |
@@ -93,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[KLA](https://www.kla.com)** | **[Marketing analyst intern](https://jobright.ai/jobs/info/672574424a51aae123a3772c?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Nov 23 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/6741cd139c0573ccb683d9ca?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
 | ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/6741d99b8c83a94999fb7a07?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[2025 Marketing Intern](https://jobright.ai/jobs/info/67445f7de804ddc61d0dd1df?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 23 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Surgical](https://jobright.ai/jobs/info/670957e4e4f684298f6e419f?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Nov 23 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Strategic Communication Outreach and Education-Marketing Internship](https://jobright.ai/jobs/info/6741cafd1cf63e5570c84679?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
 | ↳ | **[Strategic Communication Outreach and Education-Internal Communications Intern](https://jobright.ai/jobs/info/6741cafd1cf63e5570c846b0?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
@@ -107,8 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Internship - Outdoor Products Team](https://jobright.ai/jobs/info/67418e500e264986f1d4db91?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Nov 22 |
 | ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/67418e500e264986f1d4db92?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Nov 22 |
 | **[Travelers](https://www.travelers.com)** | **[Enterprise Market Research Intern](https://jobright.ai/jobs/info/6741915da0e52209ea0cc154?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Nov 22 |
-| **[PMG](http://www.pmg.com)** | **[Interested in future Media opportunities?](https://jobright.ai/jobs/info/6744250cb814ac27a4e822fb?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Nov 22 |
-| **[Travelers](https://www.travelers.com)** | **[Brand Management Planning Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b97?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
+| ↳ | **[Brand Management Planning Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b97?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Marketing Summer Intern - Social Media](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6ba0?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Marketing Measurement Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b9d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67417799bd5bc2ed3ffa6b9c?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Nov 22 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menlo School](https://www.menloschool.org/)** | **[Merchandising and Publicity Intern (2 positions)](https://jobright.ai/jobs/info/674142a4cc86c50bbb48e514?utm_campaign=1065&utm_source=git)** | Atherton, CA | On Site | Nov 22 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Intern](https://jobright.ai/jobs/info/67412caa15d959b60176acdb?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | Nov 22 |
 | **[Propel America](https://www.propelamerica.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/67412a1e5ddb3a5d8838a063?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 22 |
-| **[University of Kentucky](https://medicine.uky.edu/centers/sbcoa/)** | **[Communications Internship/CAER](https://jobright.ai/jobs/info/674136a9e7e1fe7b7489351a?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Nov 22 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Spring 2025 - Visual Merchandising Intern](https://jobright.ai/jobs/info/674128e942019c92aa319d15?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6741217e9e0c97d07c251da1?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 22 |
-| **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Marketing](https://jobright.ai/jobs/info/67412c33a3251d9587d37deb?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Nov 22 |
-| **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Foodservice Sales and Marketing Analyst - Summer 2025](https://jobright.ai/jobs/info/674126bdd966f23886f0e9d0?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 22 |
-| **[iRobot](https://www.irobot.com)** | **[Project Management, Marketing Intern](https://jobright.ai/jobs/info/6741120be9037e7ce2c0fe10?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Nov 22 |
-| ↳ | **[Global Social Media Marketing Intern (Spring 2025)](https://jobright.ai/jobs/info/6741120be9037e7ce2c0fe04?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Nov 22 |
-| **[UnitedHealthcare](http://www.uhc.com)** | **[Marketing Intern - Hybrid in Minnetonka, MN](https://jobright.ai/jobs/info/6741217e9e0c97d07c251e62?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
