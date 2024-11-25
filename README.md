@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, Talent Buying – AEG Presents Zero Mile (Carolinas)](https://jobright.ai/jobs/info/6743e93d5acae72bde23f6f4?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Nov 24 |
+| ↳ | **[Spring Intern, Marketing – AEG Presents (Rocky Mountains)](https://jobright.ai/jobs/info/6743d7397b3daf21c7d3296a?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 24 |
+| ↳ | **[Summer Intern, Marketing – AEG Presents (Rocky Mountains)](https://jobright.ai/jobs/info/6743d7397b3daf21c7d32966?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 24 |
+| ↳ | **[Spring Intern, Talent Buying – AEG Presents Zero Mile (Carolinas)](https://jobright.ai/jobs/info/6743d402639bb8dad3809114?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Nov 24 |
 | **[FORVIS' Culture & Careers](https://www.forvis.com/)** | **[Student Associate Marketing / Indianapolis](https://jobright.ai/jobs/info/6743b7dc1f96bfde49d2a1b1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 24 |
 | **[Tenet Healthcare](http://tenethealth.com)** | **[Strategic Marketing Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/674372f6b9274bd04659f25c?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
 | **[Conifer Health Solutions](http://coniferhealth.com/)** | **[Sales/Marketing Intern – Summer 2025 – Onsite in Dallas, TX](https://jobright.ai/jobs/info/67436c8fc5efd13122f2c3cf?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 24 |
@@ -71,12 +75,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internal Communications Intern](https://jobright.ai/jobs/info/672612c28915cbcf12aae2fd?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 24 |
 | **[Cummins Inc.](https://www.cummins.com/)** | **[2025 Spring School to Work - Marketing](https://jobright.ai/jobs/info/6726212dd33e411863be17c8?utm_campaign=1065&utm_source=git)** | Florence, KY | Hybrid | Nov 24 |
 | **[Farm Credit Administration](https://www.fca.gov/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6742f9674b1ced12a83527d0?utm_campaign=1065&utm_source=git)** | Anderson, SC | On Site | Nov 23 |
+| **[TDECU](https://www.tdecu.org/)** | **[Intern - Undergraduate Marketing Brand](https://jobright.ai/jobs/info/67253603f600f026c1f341a2?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 23 |
 | **[Bushel](https://bushelpowered.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/674210098e1eb9f080cd35b0?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Nov 23 |
 | **[Chautauqua Institution](https://www.chq.org)** | **[Internship - Donor Relations (Events and Communication) Job at Chautauqua Instit](https://jobright.ai/jobs/info/6742374881b9ac3073d996e0?utm_campaign=1065&utm_source=git)** | Chautauqua, NY | On Site | Nov 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6741f86045b556bdcd53c8c9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 23 |
 | **[EXPRESS](http://express.com)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/67433a2e7c99ec3c56133f1d?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 23 |
 | **[Siemens](https://www.siemens.com/)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/6741d9eb07d7e7bd4d8f684c?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Nov 23 |
-| **[Brother USA](https://brother-usa.com)** | **[Product Marketing (Sewing/Crafting) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/674321aa9c88b3e730c4f765?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 23 |
 | **[KLA](https://www.kla.com)** | **[Marketing analyst intern](https://jobright.ai/jobs/info/672574424a51aae123a3772c?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Nov 23 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Scientific Digital Communication Intern](https://jobright.ai/jobs/info/6741cd139c0573ccb683d9ca?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
 | ↳ | **[Media Relations Internship](https://jobright.ai/jobs/info/6741d99b8c83a94999fb7a07?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 23 |
@@ -114,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Hyundai Motor America](https://www.hyundaiusa.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/674169b0222271e39af6e218?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
 | ↳ | **[Intern, Global PLM](https://jobright.ai/jobs/info/674169b0222271e39af6e28c?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Nov 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management Job at e.l.f. Beauty in Los Angeles](https://jobright.ai/jobs/info/674168fa4ad3cd2ad3464899?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 22 |
+| **[KHAITE](https://khaite.com/)** | **[PR Internship (Spring 2025)](https://jobright.ai/jobs/info/6743f1cd5b002c48e69ac0e1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[Universal Studios Hollywood](http://www.universalstudioshollywood.com)** | **[Universal Destinations & Experiences Summer 2025 Internship - Marketing & Sales, Segment Experiences](https://jobright.ai/jobs/info/674169b0222271e39af6e2e2?utm_campaign=1065&utm_source=git)** | Universal City, CA | On Site | Nov 22 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Marketing Design Intern (Summer 2025) Job at Art of Problem Solving in San Diego](https://jobright.ai/jobs/info/67415952f1197db4b1c3577e?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Nov 22 |
 | **[Concordia Publishing House](https://www.cph.org/default.aspx?)** | **[Concordia Publishing House is hiring: Marketing Content/Writing Intern in Saint](https://jobright.ai/jobs/info/6741677c437b65e3b9943ee1?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Nov 22 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Destinations & Experiences Summer 2025 Internship - Marketing & Sales, Segment Experiences](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7b3c?utm_campaign=1065&utm_source=git)** | Universal City, CA | On Site | Nov 22 |
 | **[Wells Enterprises](http://www.wellsenterprisesinc.com)** | **[Internship - Foodservice Sales and Marketing Analyst - Summer 2025](https://jobright.ai/jobs/info/6741073d1cf90435b16923dd?utm_campaign=1065&utm_source=git)** | 1 Blue Bunny Dr, Le Mars, IA, 51031, US | On Site | Nov 22 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Agency Initiatives Intern - Summer 2025](https://jobright.ai/jobs/info/6741073d1cf90435b16923ce?utm_campaign=1065&utm_source=git)** | Triangle Plaza 8750 W. Bryn Mawr Avenue, Chicago, IL, 60631, US | On Site | Nov 22 |
-| **[Travelers](https://www.travelers.com)** | **[Marketing Measurement Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8e3a?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6741040821b84e08697c8e63?utm_campaign=1065&utm_source=git)** | CT - Hartford | On Site | Nov 22 |
-| **[Financial Times](http://ft.com)** | **[FT Live US Summer Intern](https://jobright.ai/jobs/info/674107a079723163cb332ad0?utm_campaign=1065&utm_source=git)** | New York | On Site | Nov 22 |
-| **[MindKind](https://mindkind.life)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/67410d3b53e188fba31d0433?utm_campaign=1065&utm_source=git)** | Long Beach, CA | Hybrid | Nov 22 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - GenMark Marketing](https://jobright.ai/jobs/info/6741040821b84e08697c8e4f?utm_campaign=1065&utm_source=git)** | Indianapolis | On Site | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
