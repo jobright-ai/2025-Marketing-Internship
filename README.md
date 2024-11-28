@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Digital Marketing – Programmatic Media Internship](https://jobright.ai/jobs/info/674831c19df86fcfac37ec5b?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Tour Marketing Intern](https://jobright.ai/jobs/info/6747fa64b91a45c865e48cc0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Nov 27 |
+| ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/6747fa64b91a45c865e48d0b?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Nov 27 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Marketing](https://jobright.ai/jobs/info/6747fa06a45d20f3f7b30136?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/6747e89b14e8b188409659e6?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | Nov 27 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Communications](https://jobright.ai/jobs/info/6747f53ef5571486d735a9e2?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Nov 27 |
+| **[National Heritage Academies](https://www.nhaschools.com)** | **[Digital Marketing Content Intern NEX YR](https://jobright.ai/jobs/info/6747ec6a64a6d466fa4869fa?utm_campaign=1065&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Nov 27 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[University Employer Brand Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/6747b7e5bb5e4ca81102ecd5?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | Nov 27 |
 | **[NEOGOV](http://www.neogov.com)** | **[Campus Event Manager - Fall 2024 - Student Worker](https://jobright.ai/jobs/info/6747b53b090a21f8696ae12f?utm_campaign=1065&utm_source=git)** | UCMO - Warrensburg, MO | On Site | Nov 27 |
 | **[Dollar General](https://www.dollargeneral.com/)** | **[Merchandising Intern - Summer 2025](https://jobright.ai/jobs/info/6747b769e16edda5b4b153db?utm_campaign=1065&utm_source=git)** | Goodlettsville, TN | On Site | Nov 27 |
@@ -64,18 +71,13 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU News Group Communications, Marketing, and Research Internships – Summer 2025](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e189ee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | ↳ | **[Local Stations Digital Media & Communication Internships – Summer 2025](https://jobright.ai/jobs/info/6747a7b7d4ce2e6e20e189f0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Prisma Cloud Product Marketing Specialist](https://jobright.ai/jobs/info/674798c5c9d875ad4cb5f6ec?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 27 |
-| **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Internship (Property Management Operations) – Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135ac?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 27 |
-| ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135ad?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
-| ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135b0?utm_campaign=1065&utm_source=git)** | Cedar Knolls, NJ | On Site | Nov 27 |
-| ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135b6?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Nov 27 |
+| **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135b6?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Nov 27 |
 | ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135b8?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Nov 27 |
-| ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747dcb0befc2013a70135bb?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 27 |
-| ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6747cdb72e906b856cf8a6e3?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Nov 27 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Events Internship (January Start) - Myrtle Beach](https://jobright.ai/jobs/info/67478782f5e61fda9346bf1c?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Nov 27 |
 | **[HNTB](http://www.hntb.com/)** | **[Public Relations and Community Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/67479c449dbf72e88f4c1cf6?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 27 |
 | **[Lids](https://www.lids.com)** | **[2025 Summer Internship - Merchandising](https://jobright.ai/jobs/info/67478b79a8b08fe07704eef9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
-| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67478782f5e61fda9346bf11?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/67478782f5e61fda9346bef5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67478782f5e61fda9346bef5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67478782f5e61fda9346bf11?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/67478782f5e61fda9346bf27?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 27 |
 | **[Tripwire](https://wearetripwire.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/674776db873b7839a7b8cb3f?utm_campaign=1065&utm_source=git)** | Charlotte Metro | Hybrid | Nov 27 |
 | **[Lids](https://www.lids.com)** | **[2025 Summer Internship - Ecommerce](https://jobright.ai/jobs/info/6747743964fd4c57ed73e9f7?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Nov 27 |
@@ -131,8 +133,7 @@ For a complete list, click the following sortable link below:
 | **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[National Marketing Manager](https://jobright.ai/jobs/info/67463cfbf9780a257a0e369a?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Nov 26 |
 | ↳ | **[National Marketing Manager](https://jobright.ai/jobs/info/67463cfbf9780a257a0e36a9?utm_campaign=1065&utm_source=git)** | Long Beach, CA | On Site | Nov 26 |
 | ↳ | **[National Marketing Manager](https://jobright.ai/jobs/info/67463cfbf9780a257a0e36b4?utm_campaign=1065&utm_source=git)** | Lee, MA | On Site | Nov 26 |
-| **[National Community Reinvestment Coalition - NCRC](https://ncrc.org)** | **[Communications, Marketing & Development Paid Intern](https://jobright.ai/jobs/info/67463cfbf9780a257a0e32b1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 26 |
-| **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[National Marketing Manager](https://jobright.ai/jobs/info/67463d4ff9780a257a0e3708?utm_campaign=1065&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
+| ↳ | **[National Marketing Manager](https://jobright.ai/jobs/info/67463d4ff9780a257a0e3708?utm_campaign=1065&utm_source=git)** | Melbourne, FL | On Site | Nov 26 |
 | **[Commerce Bank](https://www.commercebank.com/)** | **[Intern - PR Content & Social Media](https://jobright.ai/jobs/info/674635a151c3aad49f161dfc?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | Nov 26 |
 | **[College Internship Program (CIP)](https://cipworldwide.org/)** | **[National Marketing Manager](https://jobright.ai/jobs/info/67463d4ff9780a257a0e371b?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Nov 26 |
 | **[The University of New Mexico](http://unm.edu)** | **[Social Media/Content Creator](https://jobright.ai/jobs/info/674638fc954efe7ed4ef65f5?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Little Caesars Pizza](http://littlecaesars.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6745e7950a92445d174d7ec5?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Nov 26 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Data Analytics (Marketing) Intern, Summer 2025](https://jobright.ai/jobs/info/6745d84317314312922beaeb?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Associate Ambassador Intern](https://jobright.ai/jobs/info/6745c5a74d90b7535aeeb268?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 26 |
-| **[Dolby Laboratories](http://www.dolby.com)** | **[MBA Product Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/670d9ea413e4b2496ed6ed16?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
