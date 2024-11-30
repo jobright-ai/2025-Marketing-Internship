@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ASCENDING Inc.](https://ascendingdc.com/)** | **[Marketing Intern Job at ASCENDING LLC in Fairfax](https://jobright.ai/jobs/info/674a878a49b2f76db570da3b?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Nov 29 |
+| **[Serene](https://www.serenemarketinginc.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/674a7930fd9038520cf1cf51?utm_campaign=1065&utm_source=git)** | Laurel, MD | On Site | Nov 29 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Social Media Internship, Target Field](https://jobright.ai/jobs/info/674a268091279a5e28c4d4e2?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 29 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Email & SMS Marketing Intern, Spring 2025](https://jobright.ai/jobs/info/6749c87ca4d9451f4fe300a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[ChampionX](https://www.championx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6714c33eabba78a97874b104?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Nov 29 |
 | **[Methods+Mastery](https://methodsandmastery.com)** | **[Social Insights & Analytics Apprentice](https://jobright.ai/jobs/info/6749c30db7d5e44a4e875b6e?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 29 |
-| ↳ | **[Consumer Public Relations Apprentice](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ad3c?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Nov 29 |
+| **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2025 Intern](https://jobright.ai/jobs/info/67246c307ca73d0e37af3ecd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Methods+Mastery](https://methodsandmastery.com)** | **[Consumer Public Relations Apprentice](https://jobright.ai/jobs/info/6749af7ea6b78bdd1320ad3c?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Nov 29 |
 | **[Adobe](http://www.adobe.com)** | **[2025 SAMI Intern - Social Content Creator](https://jobright.ai/jobs/info/673f2a9ad70ba267a339fbec?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 29 |
 | **[Raising Cane's Chicken Fingers](http://www.RaisingCanes.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/671182cb11b1dd046572d882?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 29 |
 | **[Rivian](http://www.rivian.com)** | **[MBA Intern - Charging](https://jobright.ai/jobs/info/67316b653bfc332a04dd8926?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Nov 29 |
@@ -69,6 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6749a917c70ce0008627cb43?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Nov 29 |
 | **[Deutsche Börse](http://deutsche-boerse.com)** | **[Intern - Marketing (f/m/d)](https://jobright.ai/jobs/info/674958850e7979e323b73fa6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager MBA Intern (TikTok Shop - Seller Platform) - 2025 Summer Start (MBA)](https://jobright.ai/jobs/info/674942ea44025c3f92e2f395?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 28 |
+| **[PMG](http://www.pmg.com)** | **[Interested in future Media opportunities?](https://jobright.ai/jobs/info/674a7930fd9038520cf1d1c7?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 28 |
 | **[Cherry Republic](http://cherryrepublic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/674a1e21f98915e343d6442c?utm_campaign=1065&utm_source=git)** | Glen Arbor, MI | On Site | Nov 28 |
 | **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-Athletics Media Relations-Broadcast/Production](https://jobright.ai/jobs/info/6748f9ff68ac288503b4d4f9?utm_campaign=1065&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
 | ↳ | **[Student Employee-IMC Athletics External Engagement-Marketing & Promotions Team](https://jobright.ai/jobs/info/67490e2a0233923d3b8d9dbb?utm_campaign=1065&utm_source=git)** | Huntsville, TX | On Site | Nov 28 |
@@ -86,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/6723def30ec58ac320b9fae1?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled Buchanan Center Marketing Intern](https://jobright.ai/jobs/info/6748a080a441acc88fdf8999?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Nov 28 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Tech Content Creation Intern (Hybrid) - June 2025](https://jobright.ai/jobs/info/67487586c91b0118d1a5f67d?utm_campaign=1065&utm_source=git)** | Framingham, MA | Hybrid | Nov 28 |
-| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Prisma Cloud Product Marketing Specialist](https://jobright.ai/jobs/info/67486454ae9eabbda46a6bc2?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 28 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - Prisma Cloud Product Marketing Specialist](https://jobright.ai/jobs/info/67486454ae9eabbda46a6b90?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 28 |
 | **[Enova International](http://www.enova.com)** | **[Marketing Internship Summer 2025 (Hybrid)](https://jobright.ai/jobs/info/674962fb705f50a76f0560ad?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 28 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6749a6b82317a52c579aa66e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 28 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Events and Field Marketing Intern (EBS, Spring 2025)](https://jobright.ai/jobs/info/67176a655e7d1ed65d1bce11?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Nov 28 |
@@ -104,11 +108,11 @@ For a complete list, click the following sortable link below:
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/6749847880c22745be53c677?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 28 |
 | ↳ | **[Sales & Marketing Internship (Property Management Operations) – Summer 2025](https://jobright.ai/jobs/info/6749847880c22745be53c6b9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 28 |
 | **[Golin](http://golin.com/)** | **[PRep School Fellowship 2025](https://jobright.ai/jobs/info/6748463b852c8e24784422e3?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Nov 28 |
-| **[GoodVets](https://www.good-vets.com/)** | **[Student Ambassador - University of Pennsylvania ](https://jobright.ai/jobs/info/67484809852c8e2478442d6a?utm_campaign=1065&utm_source=git)** | University of Pennsylvania | On Site | Nov 28 |
-| ↳ | **[Student Ambassador - University of Florida](https://jobright.ai/jobs/info/67484809852c8e2478442d69?utm_campaign=1065&utm_source=git)** | University of Florida | On Site | Nov 28 |
-| ↳ | **[Student Ambassador - University of Illinois](https://jobright.ai/jobs/info/67484809852c8e2478442d6b?utm_campaign=1065&utm_source=git)** | University of Illinois | On Site | Nov 28 |
+| **[GoodVets](https://www.good-vets.com/)** | **[Student Ambassador - Purdue University](https://jobright.ai/jobs/info/67484809852c8e2478442d60?utm_campaign=1065&utm_source=git)** | Purdue University | On Site | Nov 28 |
+| ↳ | **[Student Ambassador - University of Pennsylvania ](https://jobright.ai/jobs/info/67484809852c8e2478442d6a?utm_campaign=1065&utm_source=git)** | University of Pennsylvania | On Site | Nov 28 |
 | ↳ | **[Student Ambassador - The Ohio State University](https://jobright.ai/jobs/info/67484809852c8e2478442d5f?utm_campaign=1065&utm_source=git)** | Michigan State University | On Site | Nov 28 |
-| ↳ | **[Student Ambassador - Purdue University](https://jobright.ai/jobs/info/67484809852c8e2478442d60?utm_campaign=1065&utm_source=git)** | Purdue University | On Site | Nov 28 |
+| ↳ | **[Student Ambassador - University of Illinois](https://jobright.ai/jobs/info/67484809852c8e2478442d6b?utm_campaign=1065&utm_source=git)** | University of Illinois | On Site | Nov 28 |
+| ↳ | **[Student Ambassador - University of Florida](https://jobright.ai/jobs/info/67484809852c8e2478442d69?utm_campaign=1065&utm_source=git)** | University of Florida | On Site | Nov 28 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/67496a63570a278578278342?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Nov 27 |
 | ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/67496a63570a278578278343?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 27 |
 | ↳ | **[Sales & Marketing Internship (Property Management Operations) - Summer 2025](https://jobright.ai/jobs/info/674965fed62395fb8ee128bb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rodale Institute](https://rodaleinstitute.org/)** | **[Development Internship](https://jobright.ai/jobs/info/674751dc6188dd1e354e20c0?utm_campaign=1065&utm_source=git)** | Allentown, PA | On Site | Nov 27 |
 | **[Bilt Rewards](https://www.biltrewards.com)** | **[Director of Product Marketing](https://jobright.ai/jobs/info/67474a25e50b087a2889fab5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[AMETEK Solidstate Controls](http://www.solidstatecontrolsinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67473b61da33f48098b04899?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | Hybrid | Nov 27 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Uro-Oncology Marketing](https://jobright.ai/jobs/info/6747366d44108a09229ee997?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Nov 27 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Arena Marketing & Sales Intern / NOW Arena](https://jobright.ai/jobs/info/67473ea3ae579c8d58f66a29?utm_campaign=1065&utm_source=git)** | Hoffman Estates, IL | On Site | Nov 27 |
-| **[Follett Learning](http://www.follettlearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67472fc2a05ebbff2a1f4772?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Uro-Oncology Marketing](https://jobright.ai/jobs/info/67472cd0ec144dc713f447ba?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
