@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State University of New York at Fredonia](http://www.fredonia.edu/)** | **[Theatre Social Media Assistant (work study)](https://jobright.ai/jobs/info/67560471b378b31cc2e35ccf?utm_campaign=1065&utm_source=git)** | North Adams, MA | On Site | Dec 08 |
+| ↳ | **[Financial Aid Social Media Specialist (Federal Work Study)](https://jobright.ai/jobs/info/67560471b378b31cc2e35d01?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Dec 08 |
 | **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Intern (FULL-TIME, ON-SITE, IMMEDIATE)](https://jobright.ai/jobs/info/6755ccaa998613b4bc2950ae?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Dec 08 |
 | **[Daiichi Sankyo](http://www.daiichisankyo.com)** | **[US Marketing ENHERTU Intern](https://jobright.ai/jobs/info/6755c78fadc0f65b07c11a2c?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 08 |
 | **[Red Bull](https://redbull.com)** | **[Student Marketeer - Michigan Technological University](https://jobright.ai/jobs/info/66d83c001428c9aefcc4848a?utm_campaign=1065&utm_source=git)** | Houghton, MI | On Site | Dec 08 |
@@ -115,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Public Relations & Social Intern](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b56a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | ↳ | **[Regional Marketing Intern](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b58d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | ↳ | **[Customer Advocacy Intern](https://jobright.ai/jobs/info/6753c1eebd9154d936768c2f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Training Development Intern (2025) - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| ↳ | **[eCommerce Merchandising Intern - Semester 1 - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Merchandising Intern - Semester 1 - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| ↳ | **[eCommerce Client Relations Training Development Intern (2025) - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Yelp](https://www.yelp.com)** | **[Marketing Campaigns Intern, Indianapolis](https://jobright.ai/jobs/info/6753b08164bf78ef6c87061d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 06 |
 | **[L'Oréal](https://www.loreal.com)** | **[Internship- Global Innovation (NYX)](https://jobright.ai/jobs/info/6753bb77ddc3a5394717d92f?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Dec 06 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Part-Time Social Media Intern / Kent, Ohio](https://jobright.ai/jobs/info/6753a9f78c840fe8d2447b3c?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | Dec 06 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Go-To-Market Programs Analyst Intern](https://jobright.ai/jobs/info/6753923326032ef9c14be779?utm_campaign=1065&utm_source=git)** | 275 Wyman Street, Waltham, Massachusetts, United States | On Site | Dec 06 |
 | **[Clean Water Action](https://www.cleanwateraction.org)** | **[ReThink Disposable Unpaid Intern / Hybrid in Hartford, CT](https://jobright.ai/jobs/info/6754da3d899bbe185026ca80?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Dec 06 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Internship Marketing/Sales](https://jobright.ai/jobs/info/675395ea938a78c26faf5d5b?utm_campaign=1065&utm_source=git)** | Detroit Lakes, MN | On Site | Dec 06 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/671dd8011ee2656cfe0219b0?utm_campaign=1065&utm_source=git)** | Coconut Creek, FL | On Site | Dec 06 |
 | **[St. Jude Children's Research Hospital](http://stjude.org)** | **[Medical Content Outreach Internship](https://jobright.ai/jobs/info/6745b6ec8d2a2288b20abbce?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Dec 06 |
 | **[Inari Medical](http://inarimedical.com/)** | **[Digital/Downstream Marketing Intern](https://jobright.ai/jobs/info/67537d2e80d343c02efbf72b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Dec 06 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Marketing Product Line Intern](https://jobright.ai/jobs/info/67537d2e80d343c02efbf762?utm_campaign=1065&utm_source=git)** | 2150 Schuetz Rd, St. Louis, MO, 63146, US | On Site | Dec 06 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Berry Global, Inc.](https://www.berryglobal.com)** | **[SUMMER MARKETING INTERN](https://jobright.ai/jobs/info/67193f9e95f7ad6274c0e80e?utm_campaign=1065&utm_source=git)** | Evansville, IN | On Site | Dec 06 |
 | **[Woodward, Inc.](https://www.woodward.com/en/careers)** | **[Communications Intern - Summer 2025](https://jobright.ai/jobs/info/67534f2a53621d7d5f64ce00?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | On Site | Dec 06 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2025 Internship - Ecommerce](https://jobright.ai/jobs/info/6753521cc0748deaa17b0c2f?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Dec 06 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e805?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e808?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e7ff?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e6de?utm_campaign=1065&utm_source=git)** | Independence, OH | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e801?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e7fb?utm_campaign=1065&utm_source=git)** | Corpus Christi, TX | On Site | Dec 06 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e807?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 06 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e7ff?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 06 |
+| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e806?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 06 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e802?utm_campaign=1065&utm_source=git)** | Amarillo, TX | On Site | Dec 06 |
+| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e7fd?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 06 |
+| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/6753486763f4af3472e9e805?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
