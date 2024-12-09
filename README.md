@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ameresco](http://www.apses.com)** | **[Marketing Co-Op](https://jobright.ai/jobs/info/6756cf63b3cf1d89716705ff?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Dec 09 |
 | **[POLYWOOD®](https://www.polywood.com/)** | **[Communications Intern (Talent Acquisition) - Approx 8 hrs per week](https://jobright.ai/jobs/info/6756b163f4fd92c4d27eca4b?utm_campaign=1065&utm_source=git)** | Syracuse, IN | Remote | Dec 09 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, US Marketing - SHISEIDO](https://jobright.ai/jobs/info/6756acf17991355e156c5f87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 09 |
 | **[POLYWOOD®](https://www.polywood.com/)** | **[Communications Intern (Talent Acquisition)  - Approx 8 hrs per week](https://jobright.ai/jobs/info/67568c06baf6632ddebad105?utm_campaign=1065&utm_source=git)** | SYRACUSE, IN, USA | On Site | Dec 08 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[UiPath](https://www.uipath.com)** | **[Public Relations & Social Intern](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b56a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | ↳ | **[Regional Marketing Intern](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b58d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 | ↳ | **[Customer Advocacy Intern](https://jobright.ai/jobs/info/6753c1eebd9154d936768c2f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Training Development Intern (2025) - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| ↳ | **[eCommerce Merchandising Intern - Semester 1 - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Merchandising Intern - Semester 1 - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
+| ↳ | **[eCommerce Client Relations Training Development Intern (2025) - Generation H](https://jobright.ai/jobs/info/6753b647dba41f4c8c84b59e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Yelp](https://www.yelp.com)** | **[Marketing Campaigns Intern, Indianapolis](https://jobright.ai/jobs/info/6753b08164bf78ef6c87061d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 06 |
 | **[L'Oréal](https://www.loreal.com)** | **[Internship- Global Innovation (NYX)](https://jobright.ai/jobs/info/6753bb77ddc3a5394717d92f?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Dec 06 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern - Marketing (Denver)](https://jobright.ai/jobs/info/673b258601376a2b9a6d0422?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Stride Student Advisor, Social Media Content Creation Intern](https://jobright.ai/jobs/info/675376a792af7540a7f0f90d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
 | **[ENGIE North America Inc.](http://www.engie-na.com/)** | **[Intern, Communications](https://jobright.ai/jobs/info/67536b20fa3b4f989056454e?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Dec 06 |
 | **[Fleur du Mal](http://fleurdumal.com)** | **[PR Intern](https://jobright.ai/jobs/info/6753726a05d6f23c7ab201d5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
-| **[Vita Coco](https://www.thevitacococompany.com)** | **[Sports Head Intern](https://jobright.ai/jobs/info/67537457198ccf475d311562?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
