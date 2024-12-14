@@ -57,7 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/675d862de1b6816947f09e37?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, North Jersey](https://jobright.ai/jobs/info/675d862de1b6816947f09e43?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, Fort Lauderdale](https://jobright.ai/jobs/info/675d862de1b6816947f09e38?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 14 |
+| **[WillowTree](http://www.willowtreeapps.com)** | **[Growth Marketing Intern (US) - Summer 2025](https://jobright.ai/jobs/info/674156489c285aad50bb6ff5?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Dec 14 |
+| **[Authentic Brands Group](https://authentic.com)** | **[Events & Experiences - Entertainment Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d35987ac?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 14 |
+| **[Yelp](https://www.yelp.com)** | **[Community Campaigns Intern, Indianapolis](https://jobright.ai/jobs/info/675d6db1e5dc96a46a1ddfc3?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 14 |
+| **[iRobot](https://www.irobot.com)** | **[Project Management, Marketing Intern (Spring 2025)](https://jobright.ai/jobs/info/6747d83217ec4bd8cd0faeb2?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Dec 14 |
+| **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/674986e75a5efde3e12c3ff5?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 14 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Charleston](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4ed?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, San Antonio](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4f1?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, North Houston](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4ee?utm_campaign=1065&utm_source=git)** | Spring, TX | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, San Diego](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4ef?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Dec 14 |
+| ↳ | **[Community Intern, Queens](https://jobright.ai/jobs/info/675d64dadcc8750b9005c4f0?utm_campaign=1065&utm_source=git)** | Queens, NY | Hybrid | Dec 14 |
+| **[State of Missouri](http://mo.gov)** | **[Outdoor Advertising Intern](https://jobright.ai/jobs/info/675d662cefcf9108b7f96dc0?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Dec 14 |
+| **[OFS](https://ofs.com)** | **[Fall Digitial Marketing Intern](https://jobright.ai/jobs/info/675d5894df63789401934392?utm_campaign=1065&utm_source=git)** | Huntingburg, IN | On Site | Dec 14 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/675d4a46d143b2798eff4565?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
+| **[Signal Theory Inc.](https://www.signaltheory.com)** | **[INTERN - Public Relations](https://jobright.ai/jobs/info/675d5d2bb9d90f0c13994c0f?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Dec 14 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Marketing](https://jobright.ai/jobs/info/675d4a46d143b2798eff44b9?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Dec 14 |
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/675d2c751dd80456c220eaa1?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Dec 13 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[MARKETING & PR INTERN (Summer) Job at Stock Yards Bank and Trust in Louisville](https://jobright.ai/jobs/info/675d3034091f78254c736478?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 13 |
@@ -132,29 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Enmarket Arena  Intern/ Enmarket Arena](https://jobright.ai/jobs/info/675cc31a309ba3181dbdba0c?utm_campaign=1065&utm_source=git)** | Savannah, GA | On Site | Dec 13 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Marketing Operations Analyst / 2025 Summer Intern](https://jobright.ai/jobs/info/6758d89e78ea7bd3bd9b6efa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/675c935d143092d2f4190941?utm_campaign=1065&utm_source=git)** | Tulsa, OK | Remote | Dec 13 |
-| ↳ | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/675c935d143092d2f4190943?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Remote | Dec 13 |
 | ↳ | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/675c935d143092d2f419094c?utm_campaign=1065&utm_source=git)** | Metairie, LA | Remote | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538b8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Marketing Intern (2025 Summer Internship)](https://jobright.ai/jobs/info/671a0f4d1c585c8bda14cc19?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
+| **[National MS Society](http://www.nationalmssociety.org)** | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538b8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b48661e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b48661f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486620?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c79077795726c0b486621?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486623?utm_campaign=1065&utm_source=git)** | Providence, RI | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486624?utm_campaign=1065&utm_source=git)** | Corpus Christi, TX | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486625?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486626?utm_campaign=1065&utm_source=git)** | Saddle Brook, NJ | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e4?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e5?utm_campaign=1065&utm_source=git)** | Woodbridge, NJ | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e7?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e8?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538eb?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538ea?utm_campaign=1065&utm_source=git)** | New Haven, CT | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96831?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96832?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96833?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96834?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
