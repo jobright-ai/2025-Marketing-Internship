@@ -57,7 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[J/PR](http://jpublicrelations.com)** | **[Spring 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/675d4a46d143b2798eff4565?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
+| **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Marketing](https://jobright.ai/jobs/info/675d4a46d143b2798eff44b9?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Dec 14 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/675d2c751dd80456c220eaa1?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Dec 13 |
+| **[Stock Yards Bank & Trust](http://www.syb.com)** | **[MARKETING & PR INTERN (Summer) Job at Stock Yards Bank and Trust in Louisville](https://jobright.ai/jobs/info/675d3034091f78254c736478?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 13 |
+| **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Public Relations Intern Job at Child & Family Services of Erie County in Buffalo](https://jobright.ai/jobs/info/675d3034091f78254c7366bd?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 13 |
+| **[ComForCare](https://comforcare.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/675d3034091f78254c736563?utm_campaign=1065&utm_source=git)** | Location, WV | On Site | Dec 13 |
+| **[HighKey Agency](https://highkeyagency.com/)** | **[Public Relations Intern Job at HighKey Agency in Florham Park](https://jobright.ai/jobs/info/675d2afd66732fcc9fa2860b?utm_campaign=1065&utm_source=git)** | Florham Park, NJ | Remote | Dec 13 |
+| **[Scandal Italy](https://www.scandalitaly.com)** | **[Scandal Italy is hiring: Fashion Marketing Intern in Los Angeles](https://jobright.ai/jobs/info/675d393239155246a4e27b2e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
+| ↳ | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/675d393239155246a4e27aec?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
+| **[Compass Group](http://www.compass-group.com)** | **[Marketing Intern, Gourmet Dining / Long Island University](https://jobright.ai/jobs/info/675d14ffc9990bd0b64227d8?utm_campaign=1065&utm_source=git)** | Greenvale, NY | Hybrid | Dec 13 |
+| **[Every Man Jack](https://www.everymanjack.com/)** | **[Every Man Jack is hiring: Social Media Intern in Mill Valley](https://jobright.ai/jobs/info/675d219f81797dbb5730f9be?utm_campaign=1065&utm_source=git)** | Mill Valley, CA | On Site | Dec 13 |
+| **[Radio Flyer](http://radioflyer.com)** | **[Public Relations Intern Job at Radio Flyer in Chicago](https://jobright.ai/jobs/info/675d316cbf995ca16f18f1d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
+| **[KME.digital](https://kme.digital/)** | **[KME Digital is hiring: Content Writing Intern in Alexandria](https://jobright.ai/jobs/info/675d316cbf995ca16f18f1d2?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Hybrid | Dec 13 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Orthopaedics Marketing](https://jobright.ai/jobs/info/675d02f74f95ea270f549de3?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 13 |
 | **[SWBC](https://www.swbc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/675cf87c383a392860346cb4?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 13 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Intern - January Start - Part Time](https://jobright.ai/jobs/info/675d0fd867fce776312367da?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 13 |
+| **[MVP](http://mvpindex.com/)** | **[Sponsorship Research Intern](https://jobright.ai/jobs/info/675d10c46374020ac0af6251?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 13 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Sandro Merchandising & Data Analyst Intern, New York, NY](https://jobright.ai/jobs/info/675cf3cb91405ad669ec0ece?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Orthopaedics Marketing](https://jobright.ai/jobs/info/675cea80d16a8d85c20f4d94?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 13 |
 | **[WE Communications](https://www.we-worldwide.com)** | **[Spring 2025 Tech PR Internship Program: Microsoft Cloud Customer & Partner](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fd55?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
@@ -84,7 +100,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 Blackstone Summer Analyst – Corporate Affairs, Digital Strategy](https://jobright.ai/jobs/info/675cbc3c0c1ad24cea1e92cf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[2025 Blackstone Summer Analyst – Corporate Affairs, Events](https://jobright.ai/jobs/info/675cba8088bb6b9352c96bbf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Internship SPRING 2025](https://jobright.ai/jobs/info/675cb9df42f5094c7db2109d?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 13 |
-| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Marketing (Clé de Peau Beauté)](https://jobright.ai/jobs/info/675cab9694312aa17ddd5106?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[SPOTIO](http://spotio.com)** | **[Digital Marketing & Operations Intern](https://jobright.ai/jobs/info/675cab9694312aa17ddd5131?utm_campaign=1065&utm_source=git)** | Addison, TX | Hybrid | Dec 13 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[GTM Marketing Intern](https://jobright.ai/jobs/info/675cd076202d7929f41e6230?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Dec 13 |
 | **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer Marketing and Social Media Internship](https://jobright.ai/jobs/info/675caa13907997c70101f34d?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Dec 13 |
@@ -124,8 +139,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b48661f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486620?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
+| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538bd?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 13 |
 | ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c79077795726c0b486621?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486623?utm_campaign=1065&utm_source=git)** | Providence, RI | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c79077795726c0b486624?utm_campaign=1065&utm_source=git)** | Corpus Christi, TX | Hybrid | Dec 13 |
@@ -136,25 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e5?utm_campaign=1065&utm_source=git)** | Woodbridge, NJ | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e7?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e8?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538ea?utm_campaign=1065&utm_source=git)** | New Haven, CT | Hybrid | Dec 13 |
 | ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538eb?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Dec 13 |
+| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538ea?utm_campaign=1065&utm_source=git)** | New Haven, CT | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96831?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96832?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96833?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96834?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 13 |
-| ↳ | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96835?utm_campaign=1065&utm_source=git)** | Oakhurst, NJ | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c96836?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 13 |
-| **[Encova Insurance](https://www.encova.com)** | **[Intern, Branding and Communications](https://jobright.ai/jobs/info/675c7c32e20cf5162786820f?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Communications](https://jobright.ai/jobs/info/675c72624e05fdda122c97e7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/675c6abadcdb436b06a01dbe?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Intern](https://jobright.ai/jobs/info/675c641cb5d47c297ed1d861?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[iCapital Marketplace - Intern](https://jobright.ai/jobs/info/675c619923625666247f1ed5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Dec 13 |
-| **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Corporate Communications Co-Op (Year-round intern)](https://jobright.ai/jobs/info/675c812111609f5f651af843?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Dec 13 |
-| **[Scandal Italy](https://www.scandalitaly.com)** | **[Scandal Italy / Fashion Marketing Intern](https://jobright.ai/jobs/info/675c6e95ec8c404e261fa6f9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
-| **[YES Network](http://web.yesnetwork.com)** | **[Digital Operations Intern](https://jobright.ai/jobs/info/675c6bb4a46680c4a85a7af2?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 13 |
-| **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[2025 Pinnacle Golf Ball Marketing Intern](https://jobright.ai/jobs/info/675c4b2ea85a84599533c754?utm_campaign=1065&utm_source=git)** | 333 Bridge Street, Fairhaven, MA, 02719, US | On Site | Dec 13 |
-| **[AMC Networks](http://amcnetworks.com)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/675c4b2ea85a84599533c9b3?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca27?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Communications](https://jobright.ai/jobs/info/675c4b2ea85a84599533c77a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
-| ↳ | **[Summer Intern - Communications](https://jobright.ai/jobs/info/675c4b2ea85a84599533ca2a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
