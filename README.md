@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Corporate Communications Internship / Kent, Ohio](https://jobright.ai/jobs/info/675e3fa7d184e30a4de4ef6a?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | Dec 14 |
 | **[Workday](http://www.workday.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/675e13c9c1e3170383c9080e?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Dec 14 |
 | **[Creatify AI](https://www.creatify.ai/)** | **[Growth Marketing Intern (Video)](https://jobright.ai/jobs/info/675e0d700b18865390b404dc?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Dec 14 |
 | **[Kismet Technologies](https://kismet-technologies.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/675e008d52ff4a6c43096a41?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 14 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[OFS](https://ofs.com)** | **[Fall Digitial Marketing Intern](https://jobright.ai/jobs/info/675d5894df63789401934392?utm_campaign=1065&utm_source=git)** | Huntingburg, IN | On Site | Dec 14 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/675d4a46d143b2798eff4565?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Marketing](https://jobright.ai/jobs/info/675d4a46d143b2798eff44b9?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Dec 14 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/675d2c751dd80456c220eaa1?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Dec 13 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[MARKETING & PR INTERN (Summer) Job at Stock Yards Bank and Trust in Louisville](https://jobright.ai/jobs/info/675d3034091f78254c736478?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 13 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Public Relations Intern Job at Child & Family Services of Erie County in Buffalo](https://jobright.ai/jobs/info/675d3034091f78254c7366bd?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 13 |
 | **[ComForCare](https://comforcare.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/675d3034091f78254c736563?utm_campaign=1065&utm_source=git)** | Location, WV | On Site | Dec 13 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[MVP](http://mvpindex.com/)** | **[Sponsorship Research Intern](https://jobright.ai/jobs/info/675d10c46374020ac0af6251?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 13 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Sandro Merchandising & Data Analyst Intern, New York, NY](https://jobright.ai/jobs/info/675cf3cb91405ad669ec0ece?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2025 Summer Intern – Orthopaedics Marketing](https://jobright.ai/jobs/info/675cea80d16a8d85c20f4d94?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | On Site | Dec 13 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/66ea61b36b6068eb0c77a09a?utm_campaign=1065&utm_source=git)** | Monroe, MI | Hybrid | Dec 13 |
 | **[WE Communications](https://www.we-worldwide.com)** | **[Spring 2025 Tech PR Internship Program: Microsoft Cloud Customer & Partner](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fd55?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
 | ↳ | **[Spring 2025 Tech PR Internship Program: WE Technology Sector](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fd0c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Spring 2025 Tech PR Internship Program: Microsoft News Management and Issues Management](https://jobright.ai/jobs/info/675ce922b60c5bad6cc2fd8f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 13 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, International Business Development & Marketing (NARS)](https://jobright.ai/jobs/info/675c9b76a81428820d598c9d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Hajimari Intern, Global Ecommerce (NARS)](https://jobright.ai/jobs/info/675c99382bc3bff9dae2fcbf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Communications (Arlington, VA)](https://jobright.ai/jobs/info/675cb53730a02e260e52e30f?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Dec 13 |
-| **[Trellis AI](https://usetrellis.co/)** | **[Business Operations and growth intern](https://jobright.ai/jobs/info/675e04b101f532c067a54af5?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Dec 13 |
 | **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer Camp Operations & Marketing Internship](https://jobright.ai/jobs/info/675c9b76a81428820d598ce9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/674e6a7447dd8e657fa264ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Internship (Property Management Operations) – Summer 2025](https://jobright.ai/jobs/info/675ca27232a1de326119329f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 13 |
