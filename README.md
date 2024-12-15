@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - UWF Marketing Internship, Website - Institutional Advancement & UW Foundation](https://jobright.ai/jobs/info/675e9de29be72bd2b621d204?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Dec 14 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/675e8a48905f53308bcabe85?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 14 |
+| **[Mosquito Hunters](https://mosquitohunters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/675e5bb8b6e00495bc9a622f?utm_campaign=1065&utm_source=git)** | Barnegat, NJ | On Site | Dec 14 |
+| **[George Moore Chevrolet](https://www.moorechevy.com)** | **[George Moore Chevrolet is hiring: Social Media Intern in Jacksonville](https://jobright.ai/jobs/info/675e79383398f1831c5874c8?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
+| **[Compass Group](http://www.compass-group.com)** | **[Marketing Intern, Chartwells Higher Ed / Anderson University](https://jobright.ai/jobs/info/675e658e41767fa07536f94b?utm_campaign=1065&utm_source=git)** | Anderson, IN | On Site | Dec 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Corporate Communications Internship / Kent, Ohio](https://jobright.ai/jobs/info/675e3fa7d184e30a4de4ef6a?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | Dec 14 |
 | **[Workday](http://www.workday.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/675e13c9c1e3170383c9080e?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Dec 14 |
 | **[Creatify AI](https://www.creatify.ai/)** | **[Growth Marketing Intern (Video)](https://jobright.ai/jobs/info/675e0d700b18865390b404dc?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Dec 14 |
@@ -76,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/675d862de1b6816947f09e37?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Dec 14 |
 | ↳ | **[Community Intern, North Jersey](https://jobright.ai/jobs/info/675d862de1b6816947f09e43?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | Hybrid | Dec 14 |
 | ↳ | **[Community Intern, Fort Lauderdale](https://jobright.ai/jobs/info/675d862de1b6816947f09e38?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 14 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[US Marketing ENHERTU Intern](https://jobright.ai/jobs/info/6741c467f0de61dff6d3df17?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 14 |
 | **[WillowTree](http://www.willowtreeapps.com)** | **[Growth Marketing Intern (US) - Summer 2025](https://jobright.ai/jobs/info/674156489c285aad50bb6ff5?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Dec 14 |
 | **[Holcim Building Envelope](https://www.holcimbe.com/en)** | **[Internship, Digital Marketing](https://jobright.ai/jobs/info/6741196f5843fcd03c9b7b7b?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Dec 14 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Events & Experiences - Entertainment Spring Intern](https://jobright.ai/jobs/info/6723c3c6a9a8ef24d35987ac?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 14 |
@@ -91,6 +97,8 @@ For a complete list, click the following sortable link below:
 | **[OFS](https://ofs.com)** | **[Fall Digitial Marketing Intern](https://jobright.ai/jobs/info/675d5894df63789401934392?utm_campaign=1065&utm_source=git)** | Huntingburg, IN | On Site | Dec 14 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/675d4a46d143b2798eff4565?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
 | **[Coca-Cola Beverages Florida](https://cokeflorida.com)** | **[2025 Summer Intern - Marketing](https://jobright.ai/jobs/info/675d4a46d143b2798eff44b9?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Dec 14 |
+| **[CAS](http://www.cas.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6748cdec610afde042aef043?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 13 |
+| **[IBM](http://www.ibm.com)** | **[2025 Intern – Corporate Communications & External Relations](https://jobright.ai/jobs/info/6722dc07cbd5728f0e0b2b43?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | **[Stock Yards Bank & Trust](http://www.syb.com)** | **[MARKETING & PR INTERN (Summer) Job at Stock Yards Bank and Trust in Louisville](https://jobright.ai/jobs/info/675d3034091f78254c736478?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 13 |
 | **[Child and Family Services of Erie County, Inc.](https://cfsbny.org)** | **[Public Relations Intern Job at Child & Family Services of Erie County in Buffalo](https://jobright.ai/jobs/info/675d3034091f78254c7366bd?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 13 |
 | **[ComForCare](https://comforcare.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/675d3034091f78254c736563?utm_campaign=1065&utm_source=git)** | Location, WV | On Site | Dec 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538a6?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682c?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682d?utm_campaign=1065&utm_source=git)** | Woodbridge, NJ | Hybrid | Dec 13 |
-| ↳ | **[Emerging Events Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682e?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Dec 13 |
-| **[StepStone Group](https://www.stepstoneglobal.com)** | **[2025 Marketing, Communications & Events Summer Analyst](https://jobright.ai/jobs/info/675c803d014086f2e146a9db?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Dec 13 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Event Volunteer Engagement Intern](https://jobright.ai/jobs/info/675c8b1ec626840c51655f17?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c8b1ec626840c51655f18?utm_campaign=1065&utm_source=git)** | Farmers Branch, TX | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c8b1ec626840c51655f1a?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Dec 13 |
-| ↳ | **[Walk MS Intern](https://jobright.ai/jobs/info/675c8b1ec626840c51655f1b?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
