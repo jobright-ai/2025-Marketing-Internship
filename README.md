@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Skin Gym](https://www.skingymco.com)** | **[PR & Influencer Marketing Intern](https://jobright.ai/jobs/info/675f1d6a5cfbb8501aaad02e?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 15 |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Internship SPRING 2025](https://jobright.ai/jobs/info/675f42fdd2de78685ef6086a?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 15 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, Demand Planning Analyst](https://jobright.ai/jobs/info/675f0e18beeaaf711be78026?utm_campaign=1065&utm_source=git)** | Home, KS | Remote | Dec 15 |
 | **[Links Global](http://www.linksglobal.org/)** | **[SEO/SEM, Digital Marketing Internship Program](https://jobright.ai/jobs/info/675f10d017909aaf5b03f15d?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 15 |
 | ↳ | **[Global Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/675f10d017909aaf5b03f128?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 15 |
@@ -67,13 +67,16 @@ For a complete list, click the following sortable link below:
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - UWF Marketing Internship, Website - Institutional Advancement & UW Foundation](https://jobright.ai/jobs/info/675e9de29be72bd2b621d204?utm_campaign=1065&utm_source=git)** | Laramie, WY | On Site | Dec 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/675ea5ae8613af43a711b83b?utm_campaign=1065&utm_source=git)** | Asheville, NC | On Site | Dec 14 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/675e8a48905f53308bcabe85?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 14 |
-| **[Mosquito Hunters](https://mosquitohunters.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/675e5bb8b6e00495bc9a622f?utm_campaign=1065&utm_source=git)** | Barnegat, NJ | On Site | Dec 14 |
 | **[George Moore Chevrolet](https://www.moorechevy.com)** | **[George Moore Chevrolet is hiring: Social Media Intern in Jacksonville](https://jobright.ai/jobs/info/675e79383398f1831c5874c8?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Dec 14 |
 | **[Compass Group](http://www.compass-group.com)** | **[Marketing Intern, Chartwells Higher Ed / Anderson University](https://jobright.ai/jobs/info/675e658e41767fa07536f94b?utm_campaign=1065&utm_source=git)** | Anderson, IN | On Site | Dec 14 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Corporate Communications Internship / Kent, Ohio](https://jobright.ai/jobs/info/675e3fa7d184e30a4de4ef6a?utm_campaign=1065&utm_source=git)** | Kent, OH | On Site | Dec 14 |
+| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6724e9cbc70e17fcdf72f0d0?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 14 |
 | **[Workday](http://www.workday.com)** | **[Employee Communications Intern](https://jobright.ai/jobs/info/675e13c9c1e3170383c9080e?utm_campaign=1065&utm_source=git)** | Pleasanton, CA | Hybrid | Dec 14 |
 | **[Creatify AI](https://www.creatify.ai/)** | **[Growth Marketing Intern (Video)](https://jobright.ai/jobs/info/675e0d700b18865390b404dc?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Dec 14 |
+| **[Brother USA](https://brother-usa.com)** | **[Marketing Campaigns (Mobile Solutions) Intern – Summer 2025 Internship Program](https://jobright.ai/jobs/info/67517be8b6f5bb6683f7bbd6?utm_campaign=1065&utm_source=git)** | Westminster, CO | Hybrid | Dec 14 |
 | **[Kismet Technologies](https://kismet-technologies.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/675e008d52ff4a6c43096a41?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 14 |
+| **[iRobot](https://www.irobot.com)** | **[Product Marketing Intern (Spring 2025)](https://jobright.ai/jobs/info/6741120be9037e7ce2c0fe27?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Dec 14 |
+| ↳ | **[Global Social Media Marketing Intern (Spring 2025)](https://jobright.ai/jobs/info/6741120be9037e7ce2c0fe04?utm_campaign=1065&utm_source=git)** | Bedford, MA | On Site | Dec 14 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/6724e9cbc70e17fcdf72f09d?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Dec 14 |
 | **[Mosquito Hunters](https://mosquitohunters.com/)** | **[Marketing Intern - Holiday Lighting](https://jobright.ai/jobs/info/675dd2ffbf1972bb74271af8?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Dec 14 |
 | **[Bushel](https://bushelpowered.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/675dbeb06c34268fdc77465c?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Dec 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Hajimari Intern, International Business Development & Marketing (NARS)](https://jobright.ai/jobs/info/675c9b76a81428820d598c9d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 13 |
 | ↳ | **[Hajimari Intern, Global Ecommerce (NARS)](https://jobright.ai/jobs/info/675c99382bc3bff9dae2fcbf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Intern D, Communications (Arlington, VA)](https://jobright.ai/jobs/info/675cb53730a02e260e52e30f?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Dec 13 |
-| **[Trellis AI](https://usetrellis.co/)** | **[Business Operations and growth intern](https://jobright.ai/jobs/info/675eff37b98db49bbef985ed?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Dec 13 |
-| **[Koa Sports League](http://www.koasports.org/)** | **[2025 Summer Camp Operations & Marketing Internship](https://jobright.ai/jobs/info/675c9b76a81428820d598ce9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/674e6a7447dd8e657fa264ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
