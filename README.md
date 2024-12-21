@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Auctane](https://auctane.com/)** | **[Marketing Data Science Intern ](https://jobright.ai/jobs/info/6764bef01eb8fc08e6858ec1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 21 |
+| **[BioSpace](http://www.biospace.com/)** | **[2025 U.S Summer Internship Program: Promotional Review Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10d5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 21 |
+| ↳ | **[2025 U.S Summer Internship Program: Communications Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10e6?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 21 |
+| ↳ | **[2025 U.S Summer Internship Program: Digital Customer Engagement Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10c5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 21 |
+| ↳ | **[2025 U.S Summer Internship Program: Marketing Operations Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10cf?utm_campaign=1065&utm_source=git)** | Lexington, MA | Hybrid | Dec 21 |
 | **[Zendesk](http://zendesk.com)** | **[Summer 2025 Internship - Creative Marketing Intern](https://jobright.ai/jobs/info/6766ac5dfc5d5ec61b64e8e0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 21 |
 | ↳ | **[Summer 2025 Internship, Product Marketing](https://jobright.ai/jobs/info/6766ac5dfc5d5ec61b64e9d9?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 21 |
 | ↳ | **[Summer 2025 Internship - Associate Digital Marketing Specialist (Online)](https://jobright.ai/jobs/info/6766ac5dfc5d5ec61b64e95a?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 21 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Growth Marketing Intern (US) - Summer 2025](https://jobright.ai/jobs/info/6765ef7875b93d2604f217a0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 20 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6765e28e8fd1ef5e42bfc2b9?utm_campaign=1065&utm_source=git)** | San Diego CA Renewable Group | On Site | Dec 20 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/6765ef7875b93d2604f21499?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| **[RWE](https://www.group.rwe/)** | **[Market Development Intern](https://jobright.ai/jobs/info/6765e8b73a0fda59f57136c0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 20 |
 | **[Keysight Technologies](https://www.keysight.com)** | **[GTM Marketing Intern](https://jobright.ai/jobs/info/675cd076202d7929f41e6230?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Dec 20 |
 | **[AssetWorks Inc](https://www.assetworks.com/)** | **[Marketing Administrative Assistant, Intern](https://jobright.ai/jobs/info/6765df2d73a8cd3954fbee62?utm_campaign=1065&utm_source=git)** | United States - Ohio | On Site | Dec 20 |
 | **[SOLV Energy](https://www.solvenergy.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6765ebefa3102f5140017237?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 20 |
@@ -121,15 +125,15 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern – Consumer](https://jobright.ai/jobs/info/6765bb320c4a5d88b9f7a219?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 20 |
 | **[Minnetronix Medical](https://minnetronixmedical.com)** | **[Summer 2025 Intern- Marketing](https://jobright.ai/jobs/info/6765aac2085e798ceeadee2e?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Dec 20 |
 | **[Global Partners LP](http://www.globalp.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6765c38b19f4f1aa339d25f8?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Dec 20 |
-| ↳ | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6765aebfb68df18d3bea3a93?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
+| ↳ | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6765c38b19f4f1aa339d25ef?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Dec 20 |
 | **[Munich Re](https://www.munichre.com)** | **[Intern - Marketing Strategy](https://jobright.ai/jobs/info/67659ff1618bc2cdb02612f7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Dec 20 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Sales and Marketing Intern/Arizona Sands Club](https://jobright.ai/jobs/info/6765aac2085e798ceeadef2e?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Dec 20 |
 | **[Duolingo](https://www.duolingo.com)** | **[Marketing Program Management, Intern](https://jobright.ai/jobs/info/67659ce15f2bb0feb6005b03?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aed3?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aedc?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aede?utm_campaign=1065&utm_source=git)** | Mission Viejo, CA | On Site | Dec 20 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aee3?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aee1?utm_campaign=1065&utm_source=git)** | Riverview, FL | On Site | Dec 20 |
+| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aee3?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aef0?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aeec?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Dec 20 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08af02?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Anthos Capital](http://www.anthoscapital.com)** | **[2025 Consumer Trends Intern](https://jobright.ai/jobs/info/676567e17781fa4c3222f73b?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 20 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Matchday Communications Internship](https://jobright.ai/jobs/info/67662143ae907f90ff8fbc98?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
 | **[AARP](http://www.aarp.org)** | **[Campaign Outreach Social Media Intern](https://jobright.ai/jobs/info/676550c6e1f1bce8acbd7da9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Marketing Internship](https://jobright.ai/jobs/info/67653089c593b0e20477dcb9?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Dec 20 |
-| **[Granite Construction](https://www.graniteconstruction.com)** | **[Inclusive Diversity Intern](https://jobright.ai/jobs/info/67651c5e62acaa182a702b66?utm_campaign=1065&utm_source=git)** | Watsonville, CA | Hybrid | Dec 19 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Full-Time Communications Intern - 12 months](https://jobright.ai/jobs/info/675b7f1559f266d92a3d43ff?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 19 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/674e6a7447dd8e657fa264ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
