@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QinetiQ US](http://www.qinetiq-na.com)** | **[Growth Intern](https://jobright.ai/jobs/info/676c7fb9b9d60a33b81aa5cb?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Dec 25 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Internship - Outdoor Products Team](https://jobright.ai/jobs/info/676c645a9d75b2c6101268ba?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Dec 25 |
+| ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/676c645a9d75b2c6101268d1?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Dec 25 |
 | **[Schneider Electric](https://www.se.com)** | **[Stagiaire - Marketing Operations Specialist](https://jobright.ai/jobs/info/676c54bab1e322be06cc1832?utm_campaign=1065&utm_source=git)** | MA | On Site | Dec 25 |
 | ↳ | **[Stagiaire - Digital & Performance Marketing](https://jobright.ai/jobs/info/676c54bab1e322be06cc1820?utm_campaign=1065&utm_source=git)** | MA | On Site | Dec 25 |
 | **[CooperSurgical](http://www.coopersurgical.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/674f780ed788687e37d33d4e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 25 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b7723425d8aa56e76f297?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | ↳ | **[B2B Marketing Intern](https://jobright.ai/jobs/info/676b7723425d8aa56e76f28f?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/676b6a130334b04a06b03548?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
-| ↳ | **[Sponsorship Intern - SCUF Gaming](https://jobright.ai/jobs/info/676b6a130334b04a06b03549?utm_campaign=1065&utm_source=git)** | Duluth, GA | On Site | Dec 24 |
 | ↳ | **[Technical Marketing Intern](https://jobright.ai/jobs/info/676b6a130334b04a06b03551?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
+| ↳ | **[Sponsorship Intern - SCUF Gaming](https://jobright.ai/jobs/info/676b6a130334b04a06b03549?utm_campaign=1065&utm_source=git)** | Duluth, GA | On Site | Dec 24 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing-2](https://jobright.ai/jobs/info/676b4201de59d039b6f586f6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | ↳ | **[Intern, Marketing-1](https://jobright.ai/jobs/info/676b4201de59d039b6f586f7?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 24 |
 | **[Valley Bank](https://www.valley.com/)** | **[Intern - Marketing & Digital Analytics](https://jobright.ai/jobs/info/676b49f279fc7b58e996dfed?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Dec 24 |
@@ -77,12 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Linde](https://www.linde.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/676b278bdfbcc5477faca7c8?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Dec 24 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Marketing (Dr. Dennis Gross Skincare)](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c4c8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Energy Solutions and Supplies LLC](https://energysolutions-solar.com/)** | **[Marketing Intern – Energy Solutions and Supplies LLC](https://jobright.ai/jobs/info/676b20ba95c7f20f65a960a1?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | Dec 24 |
-| **[Corsair](http://www.corsair.com)** | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad9?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| **[Corsair](http://www.corsair.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4adf?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | ↳ | **[B2B Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ae1?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | ↳ | **[Sponsorship Intern - SCUF Gaming](https://jobright.ai/jobs/info/676b1e2800c8d402224d4af5?utm_campaign=1065&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Dec 24 |
-| ↳ | **[Gaming Social Media Content Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4add?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | ↳ | **[Technical Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4b14?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4adf?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad9?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| ↳ | **[Gaming Social Media Content Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4add?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | **[Genentech](http://gene.com)** | **[2025 Summer Intern - Science Communications (Corporate Communications)](https://jobright.ai/jobs/info/676b19d2ac5b60455f590e97?utm_campaign=1065&utm_source=git)** | South San Francisco, CA | On Site | Dec 24 |
 | **[BISSELL Homecare, Inc.](http://www.bissell.com)** | **[BISStern - Consumables Marketing](https://jobright.ai/jobs/info/676b19d2ac5b60455f590e8a?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Dec 24 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2025 Real Estate Capital Internship – NYC - IPG](https://jobright.ai/jobs/info/676b2869283503ed0682eb34?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
@@ -111,6 +114,7 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Medicine](http://nm.org)** | **[Communications Intern - Summer 2025](https://jobright.ai/jobs/info/676a02f139c3675ce22ff091?utm_campaign=1065&utm_source=git)** | 541 N Fairbanks Ct, Chicago, IL 60611, USA | On Site | Dec 23 |
 | **[Travelers](https://www.travelers.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6764ba7881163bf7bd19029d?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Dec 23 |
 | **[OneDigital](https://www.onedigital.com)** | **[Market Specialist Intern - Hybrid (Farmington, CT)](https://jobright.ai/jobs/info/6769eede74cf3b18c5a84180?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Dec 23 |
+| **[Susan G. Komen](http://www.komen.org)** | **[North Carolina Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6754b585c766be822841ef11?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Dec 23 |
 | **[Chiesi USA, Inc.](http://www.chiesiusa.com)** | **[Intern, Marketing - Summer 2025](https://jobright.ai/jobs/info/6769f732e1da286384ab414d?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 23 |
 | **[KLN Family Brands](https://www.klnfamilybrands.com/)** | **[Shopper Marketing Internship](https://jobright.ai/jobs/info/6769e9ededbf29b43f28a981?utm_campaign=1065&utm_source=git)** | Perham, MN | Hybrid | Dec 23 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Consumer PR Intern (Spring 2025)](https://jobright.ai/jobs/info/6769e7279f295bcbcdd0af7d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 23 |
@@ -142,8 +146,6 @@ For a complete list, click the following sortable link below:
 | **[The RealReal](http://www.therealreal.com)** | **[Marketing Intern (Acquisition) - Summer 2025](https://jobright.ai/jobs/info/6744b3ca6e7f074befac53dd?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 23 |
 | **[L3Harris Technologies](https://www.l3harris.com/)** | **[Communications Intern Level D (Melbourne, FL)](https://jobright.ai/jobs/info/67694316aa65a6b895fa2c96?utm_campaign=1065&utm_source=git)** | Melbourne, FL | On Site | Dec 23 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Shooting Sports Merchandising Intern](https://jobright.ai/jobs/info/6752f74dc2d57ad9e6679c43?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Dec 23 |
-| **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Internship - Outdoor Products Team](https://jobright.ai/jobs/info/67691ce584ba4461cc12e01c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Dec 22 |
-| ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/67691ce584ba4461cc12e01d?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Dec 22 |
 | **[Merck](http://www.merck.com)** | **[2025 University Recruiting - Marketing Excellence Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a27e?utm_campaign=1065&utm_source=git)** | USA - Pennsylvania - North Wales (Upper Gwynedd) | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Marketing Excellence Internship](https://jobright.ai/jobs/info/6768f45495509ef25cf0a237?utm_campaign=1065&utm_source=git)** | USA - New Jersey - Rahway | Hybrid | Dec 22 |
 | ↳ | **[2025 University Recruiting - Marketing Excellence Internship](https://jobright.ai/jobs/info/6768efff7b1fb72f7604e5e2?utm_campaign=1065&utm_source=git)** | North Wales, PA | Hybrid | Dec 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2025 U.S Summer Internship Program: Promotional Review Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10d5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 22 |
 | ↳ | **[2025 U.S Summer Internship Program: Communications Intern](https://jobright.ai/jobs/info/6766e241dfb3744a5fbe10e6?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN | On Site | Dec 22 |
 | **[State Street](http://www.statestreet.com)** | **[Asset Stewardship - Internship Summer 2025](https://jobright.ai/jobs/info/674f31c1104708ab16f94338?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 21 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 - Diversity, Equity & Inclusion](https://jobright.ai/jobs/info/6767bbc9f194d9ab29490af9?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 21 |
-| ↳ | **[Undergraduate Intern Summer 2025 - Digital Technology](https://jobright.ai/jobs/info/6767bbc9f194d9ab29490a96?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
