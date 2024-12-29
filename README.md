@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Trade Marketing and Operations Intern, Saint-Louis Showroom (2025 Semester 1) - Generation H](https://jobright.ai/jobs/info/676f67c8c457409bb1ba8f87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[URUS Group](https://www.urus.org)** | **[Marketing Internship - Iowa](https://jobright.ai/jobs/info/676f4d597984b82cdcdcab71?utm_campaign=1065&utm_source=git)** | Sioux Center, IA, United States | On Site | Dec 27 |
 | **[Guild Mortgage](http://www.guildmortgage.com/)** | **[Retail Sales Intern: Summer 2025 (May 19 – August 1, 2025)](https://jobright.ai/jobs/info/676f4d051949c71c6d0f6adf?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Dec 27 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/671dd8011ee2656cfe0219b0?utm_campaign=1065&utm_source=git)** | Coconut Creek, FL | On Site | Dec 27 |
 | **[iCapital](https://icapital.com)** | **[Investor Relations - Intern](https://jobright.ai/jobs/info/676f2bcc9fda40cc2b55503c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[Kekst CNC](https://www.kekstcnc.com)** | **[2025 Summer Analyst](https://jobright.ai/jobs/info/676f2dda4a44bca53ad1e9b4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 27 |
 | **[Perry Homes](http://perryhomes.com)** | **[2025 Summer Internship - Marketing - San Antonio](https://jobright.ai/jobs/info/676f21511fff2fd54cd42969?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 27 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[NRG Energy](http://www.nrg.com/)** | **[Intern, MBA Consumer](https://jobright.ai/jobs/info/66fc58b0db3f2a235bb7af2b?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 27 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Brand Creative Copywriting Internship](https://jobright.ai/jobs/info/676e6a64616f60ba5e25cf3f?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Dec 27 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Communications, Culture & Inclusion Internship](https://jobright.ai/jobs/info/676e1e8e340f6cc9af91738c?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Marketing Internship](https://jobright.ai/jobs/info/676e1c4af22009e236132264?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Dec 26 |
-| ↳ | **[Summer 2025 Brand Creative Copywriting Internship](https://jobright.ai/jobs/info/676e1c4af22009e236132266?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Dec 26 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Brand Creative Copywriting Internship](https://jobright.ai/jobs/info/676e1c4af22009e236132266?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Dec 26 |
+| ↳ | **[Summer 2025 Product Marketing Internship](https://jobright.ai/jobs/info/676e1c4af22009e236132264?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Dec 26 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern - Digital Experience Adoption Marketing](https://jobright.ai/jobs/info/676e010f7e0e02c845603686?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 26 |
 | ↳ | **[2025 Intern - Digital Experience Adoption Marketing](https://jobright.ai/jobs/info/676df4071b1cd775fbb032fc?utm_campaign=1065&utm_source=git)** | San Jose, California, United States of America | On Site | Dec 26 |
 | **[EverCommerce](https://www.evercommerce.com/)** | **[EverHealth - Marketing Internship](https://jobright.ai/jobs/info/676ddfc41ddf428ee566de58?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Dec 26 |
@@ -104,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Carpenter Technology Corporation](https://www.carpentertechnology.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/676dcc248404c71707795cdb?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Dec 26 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Healthcare PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe2f7?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 26 |
 | ↳ | **[Healthcare PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe4d2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
-| ↳ | **[Corporate PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe308?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | ↳ | **[Consumer PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe4d3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
-| ↳ | **[Corporate PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe4d4?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 26 |
+| ↳ | **[Corporate PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe308?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 | ↳ | **[Consumer PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe2de?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 26 |
+| ↳ | **[Corporate PR Intern (Spring 2025)](https://jobright.ai/jobs/info/676dd29c08ad2d6c31cbe4d4?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 26 |
 | **[UF Health Central Florida](https://www.centralfloridahealth.org)** | **[Intern / Strategic Communications / Variable / Part time](https://jobright.ai/jobs/info/676dcc9605ea57ec6849bf51?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Dec 26 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Marketing Intern / Summer 2025](https://jobright.ai/jobs/info/676ddc987044075df1809388?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 26 |
 | **[UF Health](https://ufhealth.org/)** | **[Intern / Strategic Communications / Variable / Part time](https://jobright.ai/jobs/info/676dbef820d33e0573a48faa?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Dec 26 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Walk MS Intern](https://jobright.ai/jobs/info/675c84a8c12ee8ee48e538e7?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Tanium](http://www.tanium.com)** | **[Events Marketing Intern](https://jobright.ai/jobs/info/676ba15b563c9373a9f34bc2?utm_campaign=1065&utm_source=git)** | California, United States | Hybrid | Dec 24 |
 | **[Virginia Commonwealth University](http://www.vcu.edu/)** | **[VCU Athletics *Marketing* Graduate Assistant](https://jobright.ai/jobs/info/676ce9008624acc355df4aec?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Dec 24 |
+| **[Backroads](https://www.backroads.com)** | **[Social Media/Marketing Content Intern](https://jobright.ai/jobs/info/6770bf18ef1033fe75738735?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 24 |
 | **[Waters Corporation](http://www.waters.com)** | **[Intern, Strategic Marketing Manager](https://jobright.ai/jobs/info/676b6d267e0cc0461519d3ad?utm_campaign=1065&utm_source=git)** | New Castle, DE | On Site | Dec 24 |
 | **[Corsair](http://www.corsair.com)** | **[Gaming Social Media Content Intern](https://jobright.ai/jobs/info/676b6a130334b04a06b03544?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
 | ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b7723425d8aa56e76f297?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 24 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Linde](https://www.linde.com/)** | **[Commercial Intern](https://jobright.ai/jobs/info/676b278bdfbcc5477faca7c8?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Dec 24 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Global Marketing (Dr. Dennis Gross Skincare)](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c4c8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 24 |
 | **[Energy Solutions and Supplies LLC](https://energysolutions-solar.com/)** | **[Marketing Intern – Energy Solutions and Supplies LLC](https://jobright.ai/jobs/info/676b20ba95c7f20f65a960a1?utm_campaign=1065&utm_source=git)** | Chandler, AZ | On Site | Dec 24 |
-| **[Corsair](http://www.corsair.com)** | **[Sponsorship Intern - SCUF Gaming](https://jobright.ai/jobs/info/676b1e2800c8d402224d4af5?utm_campaign=1065&utm_source=git)** | 2100 Evergreen Blvd., Duluth, GA, 30096, US | On Site | Dec 24 |
-| ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad9?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| **[Corsair](http://www.corsair.com)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ae1?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 | ↳ | **[Gaming Social Media Content Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4add?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
-| ↳ | **[B2B Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ae1?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
-| ↳ | **[Technical Marketing Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4b14?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
+| ↳ | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/676b1e2800c8d402224d4ad9?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
