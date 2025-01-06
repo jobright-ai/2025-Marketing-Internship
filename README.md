@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merchants Distributors, LLC](https://www.mdi.com)** | **[Summer Internship - Digital Marketing Campaign Strategy](https://jobright.ai/jobs/info/677b40b136bea7cd1e6b8a9e?utm_campaign=1065&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
+| ↳ | **[Summer Internship - Digital Marketing/Data Analytics Strategy](https://jobright.ai/jobs/info/677b40b136bea7cd1e6b8aa1?utm_campaign=1065&utm_source=git)** | Hickory, NC | On Site | Jan 05 |
+| **[WP Beverages, Pepsi-Cola](http://www.wpbpepsi.com/)** | **[Summer Marketing Intern (Full Time) Madison, WI](https://jobright.ai/jobs/info/677b46c60e9fce3bc5f35e72?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Jan 05 |
+| **[Grasshopper Bank](https://www.grasshopper.bank)** | **[Marketing Intern](https://jobright.ai/jobs/info/677b3327bcf710ae5c8d7c79?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 05 |
 | **[Links Global](http://www.linksglobal.org/)** | **[Filmmaker, Digital Marketing Internship Program](https://jobright.ai/jobs/info/677aa4ea1d8c466c5d23e8b9?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Jan 05 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Americas Marketing](https://jobright.ai/jobs/info/6741361ea25097fee5a1761c?utm_campaign=1065&utm_source=git)** | East Rutherford, NJ | On Site | Jan 05 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/675d862de1b6816947f09e37?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Jan 05 |
+| **[Trellis AI](https://usetrellis.co/)** | **[Business Operations and growth intern](https://jobright.ai/jobs/info/677b4e8d03cf61bafcaf618d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Jan 05 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/677a4983703ca2f27213546c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 04 |
 | **[Folio](https://folio.works/)** | **[Women's Fitness Content Creation Intern](https://jobright.ai/jobs/info/677a2ed74554c3bb168d30f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 04 |
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[UREC Graduate Assistant - Marketing & Engagement](https://jobright.ai/jobs/info/677a1b911488c6b877cb8d4c?utm_campaign=1065&utm_source=git)** | Harrisonburg, VA | On Site | Jan 04 |
@@ -136,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Brand Marketing Fall Co-Op](https://jobright.ai/jobs/info/67788d9ead060d4fa7bbd6af?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[ESL Federal Credit Union](https://www.esl.org/)** | **[Student Marketing Communications Assistant- Summer 2025](https://jobright.ai/jobs/info/67787f2ff890158c9c1267ce?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 03 |
 | **[ProAssurance](http://proassurance.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6778736b5ed2049920fc258f?utm_campaign=1065&utm_source=git)** | Okemos, MI | On Site | Jan 03 |
-| **[Force Factor](https://forcefactor.com/)** | **[Digital Marketing Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c126824?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 03 |
-| ↳ | **[Social Media & Influencer Marketing Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c12687a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 03 |
+| **[Force Factor](https://forcefactor.com/)** | **[Social Media & Influencer Marketing Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c12687a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 03 |
+| ↳ | **[Digital Marketing Fall Co-Op](https://jobright.ai/jobs/info/67787f2ff890158c9c126824?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 03 |
 | **[HealthSource ](http://www.healthsourcenz.co.nz)** | **[Social Media Marketing Specialist](https://jobright.ai/jobs/info/67787b8235304a2158b43673?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Marmon Holdings, Inc.](http://www.marmon.com/)** | **[TEST - Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60fc?utm_campaign=1065&utm_source=git)** | Warren, NJ | On Site | Jan 03 |
 | ↳ | **[TEST - Marketing Intern](https://jobright.ai/jobs/info/6778c4d92a3187adba1f60f1?utm_campaign=1065&utm_source=git)** | Tamarac, FL | On Site | Jan 03 |
@@ -147,14 +152,9 @@ For a complete list, click the following sortable link below:
 | **[SelectQuote Insurance Services](https://www.selectquote.com)** | **[Intern - Recruitment Marketing](https://jobright.ai/jobs/info/675265dc82dd40ab5ccec495?utm_campaign=1065&utm_source=git)** | KC Metro Area | On Site | Jan 03 |
 | **[OmniMax](https://omnimax.com/)** | **[Marketing Intern - Peachtree Corners, GA (Summer 2025)](https://jobright.ai/jobs/info/677874d0e3f3cee275df191d?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | On Site | Jan 03 |
 | **[Force Factor](https://forcefactor.com/)** | **[Social Media & Influencer Marketing Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c292831d?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
-| ↳ | **[Brand Marketing Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c292835f?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
 | ↳ | **[Digital Marketing Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c292832b?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
+| ↳ | **[Brand Marketing Fall Co-Op](https://jobright.ai/jobs/info/677867b3e333eb51c292835f?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Jan 03 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Marketing Strategist, Summer FIS University Program 2025](https://jobright.ai/jobs/info/67786412f6e06f35675dd9fa?utm_campaign=1065&utm_source=git)** | US FL JAX 347 | On Site | Jan 03 |
 | **[Ohio Northern University](http://www.onu.edu/)** | **[Student Employment - Multimedia Marketing Student](https://jobright.ai/jobs/info/67786679ce805102f52789ed?utm_campaign=1065&utm_source=git)** | Ada, OH | On Site | Jan 03 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Social Media Coordinator, Summer FIS University Program 2025](https://jobright.ai/jobs/info/677854f57a5e49608805e495?utm_campaign=1065&utm_source=git)** | US FL JAX 347 | On Site | Jan 03 |
-| **[SpaceWorks Enterprises, Inc. (SEI)](https://www.spaceworks.aero)** | **[Aerospace Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/677856aee50d258e5b5a8ca7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 03 |
-| **[ CUPSHE](https://www.cupshe.com/)** | **[Paid Brand Marketing Intern](https://jobright.ai/jobs/info/6778532731b40106baeb5313?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 03 |
-| **[ESL Federal Credit Union](https://www.esl.org/)** | **[Student Marketing Communications Assistant- Summer 2025](https://jobright.ai/jobs/info/67788a82073d02ae89301d07?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jan 03 |
-| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[2025 Summer Internship-Marketing Air Care intern-Princeton, NJ.](https://jobright.ai/jobs/info/6778957b1a0a7e1dd402cbcf?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Jan 03 |
-| **[Roche](http://www.roche.com)** | **[2025 Summer Intern - Pathology Systems, Workflow and IT](https://jobright.ai/jobs/info/67784ee79f637be887dacb75?utm_campaign=1065&utm_source=git)** | Tucson | On Site | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
