@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e451478179?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jan 11 |
+| **[DRUNK ELEPHANT](http://www.drunkelephant.com/)** | **[Hajimari Intern, Global Marketing (Drunk Elephant)](https://jobright.ai/jobs/info/6765daac1861116f08fd2549?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Alexion Pharmaceuticals, Inc.](https://alexion.com)** | **[Medical Communications lead (MCL) intern](https://jobright.ai/jobs/info/6782372d221f8f74ee941d80?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 11 |
 | **[Concord Group Insurance](http://concordgroupinsurance.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6781ffd1718f4b7b4b84f443?utm_campaign=1065&utm_source=git)** | Bedford, NH | On Site | Jan 10 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Marketing (Clé de Peau Beauté)](https://jobright.ai/jobs/info/6781fa91710886a62f4f81ac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
@@ -116,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: Government Markets - Member Retention Analyst](https://jobright.ai/jobs/info/67819cc6218265a08db17b8b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[CommScope](http://www.commscope.com)** | **[Content & Demand Generation Intern](https://jobright.ai/jobs/info/67817c8bfc46656661b7c423?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Jan 10 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Intern - Advertising](https://jobright.ai/jobs/info/67818025b626cc1b733228d4?utm_campaign=1065&utm_source=git)** | Grapevine, TX | On Site | Jan 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Marketing College Intern](https://jobright.ai/jobs/info/67817bdce7caddfd9a130bf5?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Marketing College Intern](https://jobright.ai/jobs/info/67817bdce7caddfd9a130be1?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
 | **[Ardent Mills](https://www.ardentmills.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/677d81b935b91e932fedaccc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 10 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Intern (Quill - Hybrid) - June 2025](https://jobright.ai/jobs/info/67817732ec7a943e87334686?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 10 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6781682d8c93fda1437f8f51?utm_campaign=1065&utm_source=git)** | Farmington Hills, Michigan | On Site | Jan 10 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Conifer Realty](http://www.coniferllc.com/)** | **[CONIFER’S 2025 SUMMER INTERNSHIP - PROPERTY MANAGEMENT, MARYLAND](https://jobright.ai/jobs/info/6737c38b22a4cc33189f1723?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Jan 10 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Creative Copywriting College Associate](https://jobright.ai/jobs/info/6717d81a850554eefb2d1013?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 10 |
 | **[Covia](https://www.coviacorp.com/)** | **[Strategic Marketing Internship Summer 2025](https://jobright.ai/jobs/info/66d9dd8c6b1ec4d9a4268cde?utm_campaign=1065&utm_source=git)** | Huntersville, NC | On Site | Jan 10 |
+| **[Spectrum](https://www.spectrum.com)** | **[2025 Summer Intern: WiFi Product Team](https://jobright.ai/jobs/info/675102689ced628e2777bbe6?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO | Hybrid | Jan 10 |
 | **[ATI](https://www.atimaterials.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6737f8da08ccb98488463821?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 10 |
 | **[UnitedHealthcare](http://www.uhc.com)** | **[Marketing Intern - Hybrid in Minnetonka, MN](https://jobright.ai/jobs/info/67811282f04c1fb5c864fe5d?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | Hybrid | Jan 10 |
-| **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, US Marketing - SHISEIDO](https://jobright.ai/jobs/info/6756acf17991355e156c5f87?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
-| **[Susan G. Komen](http://www.komen.org)** | **[Chicago Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6754b585c766be822841ef12?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Jan 10 |
-| **[The RealReal](http://www.therealreal.com)** | **[Merchandising Intern - Summer 2025](https://jobright.ai/jobs/info/6744b3ca6e7f074befac53c3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
