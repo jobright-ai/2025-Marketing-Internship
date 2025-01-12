@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biodesix, Inc.](http://www.biodesix.com)** | **[Operations-Marketing Internship (Graduate, MBA)](https://jobright.ai/jobs/info/6782e58e148e5d9d2f90b294?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Jan 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Communications Master's Intern](https://jobright.ai/jobs/info/6782afe0710706671d12102c?utm_campaign=1065&utm_source=git)** | Oakland, CA | Remote | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Consumer Market Development - Obesity](https://jobright.ai/jobs/info/6782b538e212722b3681ff17?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Information Technology Digital Marketing](https://jobright.ai/jobs/info/6782b538e212722b3681ff08?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
@@ -65,12 +66,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb9931800e?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Healthcare Provider Experience Marketing - Obesity](https://jobright.ai/jobs/info/6782a607b950c9bb99317fee?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Diabetes Therapy Area Marketing - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb99317fc4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
-| ↳ | **[Internship - Marketing Operations](https://jobright.ai/jobs/info/6782a607b950c9bb99317ff4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Rare Disease Marketing Strategy](https://jobright.ai/jobs/info/6782a607b950c9bb99317fd9?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
+| ↳ | **[Internship - Marketing Operations](https://jobright.ai/jobs/info/6782a607b950c9bb99317ff4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Consumer Experience - Obesity](https://jobright.ai/jobs/info/678291387b1f2d72045cd11f?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Digital Communications](https://jobright.ai/jobs/info/678291387b1f2d72045cd135?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Commercial Sales Execution - West](https://jobright.ai/jobs/info/678291387b1f2d72045cd133?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | **[AvalonBay Communities](https://www.avaloncommunities.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67829b49410577315324dec5?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Jan 11 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2025 Product Marketing Internship](https://jobright.ai/jobs/info/677f8f29ae658401bcd39288?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Jan 11 |
+| ↳ | **[Summer 2025 Product Marketing Internship](https://jobright.ai/jobs/info/677f8f29ae658401bcd391b4?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Jan 11 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/67828bc8294e5e341a2a3824?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 11 |
 | **[Connecticut Innovations](http://www.ctinnovations.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67827784e6186bcab767e808?utm_campaign=1065&utm_source=git)** | New Haven, CT | Hybrid | Jan 11 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Digital Media](https://jobright.ai/jobs/info/6765ef7875b93d2604f21499?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 11 |
@@ -114,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[AbelsonTaylor Group](https://www.abelsontaylor.com/)** | **[Engagement Strategy Intern](https://jobright.ai/jobs/info/67819cc6218265a08db179db?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | ↳ | **[Marketing Intelligence Intern](https://jobright.ai/jobs/info/67818f7bf83f99b126091637?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | ↳ | **[Copywriter Intern](https://jobright.ai/jobs/info/67818f7bf83f99b126091655?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
+| **[GAF](http://www.gaf.com/)** | **[Marketing Residential Shingles Intern](https://jobright.ai/jobs/info/672df7bbe003bbee16550321?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Jan 10 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing & Social Media Intern (Summer 2025)](https://jobright.ai/jobs/info/67819cc6218265a08db179ef?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 10 |
 | ↳ | **[Marketing & Website Intern (Summer 2025)](https://jobright.ai/jobs/info/67819cc6218265a08db179df?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jan 10 |
 | **[Leidos](https://www.leidos.com/)** | **[Proposal Writing Intern](https://jobright.ai/jobs/info/67819bef6982f190969f47ad?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Jan 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Clinical Development Communications](https://jobright.ai/jobs/info/67815d8f13d73abd035608e6?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
 | **[VaynerX](https://vaynerx.com)** | **[Digital Media Resident](https://jobright.ai/jobs/info/67814b6494c7fcec06a4ad1c?utm_campaign=1065&utm_source=git)** | New York | On Site | Jan 10 |
 | **[UCB](http://www.ucb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6781450675236b6b4aa4ce7d?utm_campaign=1065&utm_source=git)** | Smyrna, GA | Hybrid | Jan 10 |
-| **[BioSpace](http://www.biospace.com/)** | **[Internship - Enterprise Insights Market Research](https://jobright.ai/jobs/info/67816d5ccc0a3a0522a380bb?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
-| ↳ | **[Internship - Market Intelligence](https://jobright.ai/jobs/info/67815d8f13d73abd0356098c?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Corporate Communications Intern (Summer 2025)](https://jobright.ai/jobs/info/678138def94982cf8b6ca384?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 10 |
-| **[ERM](http://www.erm.com/)** | **[Marketing Intern, Shelton Group](https://jobright.ai/jobs/info/678138def94982cf8b6ca494?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
