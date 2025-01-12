@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[Marketing Strategy & Analytics Summer (STAR) Intern](https://jobright.ai/jobs/info/678335323597bcaea2c84d9c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
+| **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/678326cd56e48afb04f2b928?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Jan 11 |
+| **[Horton, Inc.](http://hortonww.com)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/678316843236388771f0eab2?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jan 11 |
 | **[Biodesix, Inc.](http://www.biodesix.com)** | **[Operations-Marketing Internship (Graduate, MBA)](https://jobright.ai/jobs/info/6782e58e148e5d9d2f90b294?utm_campaign=1065&utm_source=git)** | Louisville, CO | On Site | Jan 11 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Communications Master's Intern](https://jobright.ai/jobs/info/6782afe0710706671d12102c?utm_campaign=1065&utm_source=git)** | Oakland, CA | Remote | Jan 11 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Consumer Market Development - Obesity](https://jobright.ai/jobs/info/6782b538e212722b3681ff17?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Information Technology Digital Marketing](https://jobright.ai/jobs/info/6782b538e212722b3681ff08?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
-| ↳ | **[Internship - Digital Marketing Automation & Architecture (Multiple Positions)](https://jobright.ai/jobs/info/6782b538e212722b3681fefc?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Rare Endocrine Disorders Marketing](https://jobright.ai/jobs/info/6782b538e212722b3681ff14?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
+| ↳ | **[Internship - Digital Marketing Automation & Architecture (Multiple Positions)](https://jobright.ai/jobs/info/6782b538e212722b3681fefc?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb9931800e?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Healthcare Provider Experience Marketing - Obesity](https://jobright.ai/jobs/info/6782a607b950c9bb99317fee?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Diabetes Therapy Area Marketing - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb99317fc4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
@@ -138,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Independence Blue Cross](https://www.ibx.com)** | **[College Co-op: Government Markets - Member Retention Analyst](https://jobright.ai/jobs/info/67819cc6218265a08db17b8b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jan 10 |
 | **[CommScope](http://www.commscope.com)** | **[Content & Demand Generation Intern](https://jobright.ai/jobs/info/67817c8bfc46656661b7c423?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Jan 10 |
 | **[Kubota Tractor Corporation](https://linktr.ee/kubotausa)** | **[Intern - Advertising](https://jobright.ai/jobs/info/67818025b626cc1b733228d4?utm_campaign=1065&utm_source=git)** | Grapevine, TX | On Site | Jan 10 |
-| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Marketing College Intern](https://jobright.ai/jobs/info/67817bdce7caddfd9a130bf5?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
+| **[Randolph Brooks Federal Credit Union](https://www.rbfcu.org/)** | **[Marketing College Intern](https://jobright.ai/jobs/info/67817bdce7caddfd9a130be1?utm_campaign=1065&utm_source=git)** | San Antonio, Texas Area | On Site | Jan 10 |
 | **[Ardent Mills](https://www.ardentmills.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/677d81b935b91e932fedaccc?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 10 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Intern (Quill - Hybrid) - June 2025](https://jobright.ai/jobs/info/67817732ec7a943e87334686?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Jan 10 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6781682d8c93fda1437f8f51?utm_campaign=1065&utm_source=git)** | Farmington Hills, Michigan | On Site | Jan 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CONMED Corporation](http://www.conmed.com/)** | **[Marketing Intern - Foot & Ankle](https://jobright.ai/jobs/info/67363de3c16402902bb70f38?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Jan 10 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[Communications Bachelor's Intern](https://jobright.ai/jobs/info/67815d8f13d73abd0356087d?utm_campaign=1065&utm_source=git)** | Oakland, CA | Remote | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Field Insights and Analytics](https://jobright.ai/jobs/info/67815d8f13d73abd0356090c?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
-| ↳ | **[Internship - Clinical Development Communications](https://jobright.ai/jobs/info/67815d8f13d73abd035608e6?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 10 |
-| **[VaynerX](https://vaynerx.com)** | **[Digital Media Resident](https://jobright.ai/jobs/info/67814b6494c7fcec06a4ad1c?utm_campaign=1065&utm_source=git)** | New York | On Site | Jan 10 |
-| **[UCB](http://www.ucb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6781450675236b6b4aa4ce7d?utm_campaign=1065&utm_source=git)** | Smyrna, GA | Hybrid | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
