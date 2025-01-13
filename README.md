@@ -57,21 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Regions Bank](https://www.regionsinsurance.com/)** | **[2025 ETP Intern - Marketing and Communications](https://jobright.ai/jobs/info/67848a159c5f80644650b8f6?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Jan 12 |
+| **[Consigli Construction Co., Inc.](http://www.consigli.com)** | **[Marketing Videographer Summer 2025 Intern - Milford/Boston - MA](https://jobright.ai/jobs/info/678486485e18ebf523f0683d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 12 |
+| **[Babbel](http://www.babbel.com)** | **[Social Media Intern, Organic Content](https://jobright.ai/jobs/info/6784762a3b3212f53f027025?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 12 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/67845c3789409b73b12c2ad0?utm_campaign=1065&utm_source=git)** | Lago Vista, TX | On Site | Jan 12 |
 | **[Atmosfy](https://atmosfy.io)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6784401fc986bd0104f69c2c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 12 |
 | **[The Capitol Theatre](https://www.capitoltheatrewheeling.com)** | **[Live Music Marketing Intern](https://jobright.ai/jobs/info/678439760dc8ca67529735ec?utm_campaign=1065&utm_source=git)** | Port Chester, NY | On Site | Jan 12 |
 | **[BioSpace](http://www.biospace.com/)** | **[Internship - Global Nucleic Acid Therapies Communications](https://jobright.ai/jobs/info/6783e4988fad5ed9654e9274?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Jan 12 |
 | ↳ | **[Internship - Diabetes Therapy Area Brand Marketing](https://jobright.ai/jobs/info/6783e2af133f7413dc2064f0?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 12 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6783e2af133f7413dc20663c?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 12 |
+| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/67496f5c23a324f334ad5f73?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 12 |
 | **[Rational 360](https://rational360.com)** | **[Digital Fellow - Spring 2025 (On Site - Washington, DC)](https://jobright.ai/jobs/info/6722f7d08b1723d99da2de6e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 12 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Digital Marketing and Media](https://jobright.ai/jobs/info/676338b0eafdbe093ea0c4ca?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 12 |
-| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66af73a416608ddd3cd092b0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 12 |
+| **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66aa18fc7554ea68c739da6d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jan 12 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e451478174?utm_campaign=1065&utm_source=git)** | North Charleston, SC | On Site | Jan 12 |
 | **[EducationDynamics](https://www.educationdynamics.com)** | **[Digital Marketing Internship, EMS](https://jobright.ai/jobs/info/673bd8c278e451286508d9f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 12 |
+| **[Newrez LLC](https://www.newrez.com)** | **[2025 Summer Internship – Marketing](https://jobright.ai/jobs/info/66e4b62dd2300ed423c36f43?utm_campaign=1065&utm_source=git)** | Coppell, TX | On Site | Jan 12 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/676083b3a7fbb05d07dd5308?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jan 12 |
 | **[Huber Engineered Materials](https://www.hubermaterials.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/675fbda4e6ffbf73a25fa865?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 12 |
 | **[North Star Resource Group](http://northstarfinancial.com)** | **[Digital Marketing and Marketing Research - Austin, TX](https://jobright.ai/jobs/info/66a27b3510e34507ec383a29?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 12 |
 | **[Mercedes-Benz USA](http://www.mbusa.com/)** | **[IT Digital Shared Service Summer (STAR) Intern](https://jobright.ai/jobs/info/67833af76f2c04321faf88c8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
-| ↳ | **[Marketing Strategy & Analytics Summer (STAR) Intern](https://jobright.ai/jobs/info/678335323597bcaea2c84d9c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 11 |
 | **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/678326cd56e48afb04f2b928?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Jan 11 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Training & Education (Shiseido)](https://jobright.ai/jobs/info/6764967dc74d7d246d87c40e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 11 |
 | **[Horton, Inc.](http://hortonww.com)** | **[Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/678316843236388771f0eab2?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Jan 11 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb9931800e?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Healthcare Provider Experience Marketing - Obesity](https://jobright.ai/jobs/info/6782a607b950c9bb99317fee?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Diabetes Therapy Area Marketing - Customer Engagement](https://jobright.ai/jobs/info/6782a607b950c9bb99317fc4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
-| ↳ | **[Internship - Marketing Operations](https://jobright.ai/jobs/info/6782a607b950c9bb99317ff4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Rare Disease Marketing Strategy](https://jobright.ai/jobs/info/6782a607b950c9bb99317fd9?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
+| ↳ | **[Internship - Marketing Operations](https://jobright.ai/jobs/info/6782a607b950c9bb99317ff4?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Consumer Experience - Obesity](https://jobright.ai/jobs/info/678291387b1f2d72045cd11f?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Digital Communications](https://jobright.ai/jobs/info/678291387b1f2d72045cd135?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
 | ↳ | **[Internship - Commercial Sales Execution - West](https://jobright.ai/jobs/info/678291387b1f2d72045cd133?utm_campaign=1065&utm_source=git)** | Plainsboro, NJ | On Site | Jan 11 |
@@ -106,10 +110,11 @@ For a complete list, click the following sortable link below:
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Marketing (Clé de Peau Beauté)](https://jobright.ai/jobs/info/6781fa91710886a62f4f81ac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Digital Marketing Specialist Intern](https://jobright.ai/jobs/info/6781ebbb8395d3826b2a946d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Jan 10 |
 | **[IBM](http://www.ibm.com)** | **[2025 Intern – Marketing Analytics](https://jobright.ai/jobs/info/6744b3ca6e7f074befac5403?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 10 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern Market Insights Analysis and Automation](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a01?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 10 |
-| ↳ | **[Intern Category Market Analysis](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542d18?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 10 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern Category Market Analysis](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542d18?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 10 |
+| ↳ | **[Intern Market Insights Analysis and Automation](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542a01?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Jan 10 |
 | **[EILEEN FISHER, INC.](http://www.eileenfisher.com/)** | **[Social Media & Influencer Marketing (Spring Internship 2025)](https://jobright.ai/jobs/info/6781e21535b4cc2e9f542ae5?utm_campaign=1065&utm_source=git)** | Irvington, NY | Hybrid | Jan 10 |
 | **[National MS Society](http://www.nationalmssociety.org)** | **[Walk MS Intern](https://jobright.ai/jobs/info/675cb0e7790b5c7b03c9682a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Jan 10 |
+| **[AAA-The Auto Club Group](http://aaa.com)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/67847ab430d33dd0c238100e?utm_campaign=1065&utm_source=git)** | Greater Jackson, MI Area | On Site | Jan 10 |
 | **[Abbott](https://www.abbott.com)** | **[Corporate Internship - Global Marketing and External Affairs](https://jobright.ai/jobs/info/677dd3089ea54e3c37b0f07f?utm_campaign=1065&utm_source=git)** | Illinois, United States | On Site | Jan 10 |
 | **[CommScope](http://www.commscope.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/6781cf9aa1293344aee42001?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Medical Communications lead (MCL) intern](https://jobright.ai/jobs/info/6781cfcd617dc5eb5c664a92?utm_campaign=1065&utm_source=git)** | US - Boston - MA | On Site | Jan 10 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of New Mexico](http://unm.edu)** | **[Marketing Assistant](https://jobright.ai/jobs/info/6781a3b1b5729a0f698a6b9d?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jan 10 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Marketing and CX Co-op/Intern- Fall 2025](https://jobright.ai/jobs/info/6781897263d76401dbc29dec?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Jan 10 |
 | **[Cerrowire](http://cerrowire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6781897263d76401dbc29ddf?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Jan 10 |
-| **[Metropolitan Transit Authority of Harris County](http://www.ridemetro.org/)** | **[College Intern - Communications](https://jobright.ai/jobs/info/67818f7bf83f99b126091820?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| ↳ | **[College Intern - Vanpool (Marketing)](https://jobright.ai/jobs/info/67818f7bf83f99b126091825?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 10 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Brand Intern](https://jobright.ai/jobs/info/67817ea6e52ec27d5783853c?utm_campaign=1065&utm_source=git)** | Los Angeles | Hybrid | Jan 10 |
-| **[Little Words Project](https://littlewordsproject.com/)** | **[LWP Spring Internship ](https://jobright.ai/jobs/info/67817ea6e52ec27d5783853a?utm_campaign=1065&utm_source=git)** | Mountainside, NJ | On Site | Jan 10 |
-| **[Initium Health](https://initiumhealth.org)** | **[Social Media & Community Engagement Intern](https://jobright.ai/jobs/info/67818025b626cc1b733228c5?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | Jan 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
