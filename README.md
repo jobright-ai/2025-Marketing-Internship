@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elekta](http://elekta.com/)** | **[SaaS Business Analyst and Marketing Intern (San Jose, CA)](https://jobright.ai/jobs/info/678a3f28ac7a709bbfb85195?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jan 17 |
+| **[Acadium](http://www.acadium.com)** | **[Remote Social Media Marketing Intern](https://jobright.ai/jobs/info/678a479ca75c08f2b4f8e35c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e45147817b?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jan 17 |
+| **[Celonis](https://www.celonis.com)** | **[Global Events & Experiences Intern ](https://jobright.ai/jobs/info/678a3727eb9eaca3089e6193?utm_campaign=1065&utm_source=git)** | New York, US, New York | On Site | Jan 17 |
+| **[Endeavor](http://www.endeavorco.com/)** | **[Intern, The Wall Group](https://jobright.ai/jobs/info/6766327ea565e8314b20d95e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jan 17 |
+| **[M Booth](http://www.mbooth.com)** | **[Winter Intern, Corporate](https://jobright.ai/jobs/info/678a25700558b3420295daf7?utm_campaign=1065&utm_source=git)** | NYC/HYBRID | Hybrid | Jan 17 |
 | **[Links Global](http://www.linksglobal.org/)** | **[Creative Writer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/678a1bd63294668389b523b3?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Jan 16 |
 | ↳ | **[Digital Media Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/678a1bd63294668389b523e4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Jan 16 |
 | ↳ | **[Digital Marketing Internship Program](https://jobright.ai/jobs/info/678a1bd63294668389b523e6?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Jan 16 |
@@ -137,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Communications Intern (Summer 2025)](https://jobright.ai/jobs/info/67894ea99a04e033d77286c2?utm_campaign=1065&utm_source=git)** | Falls Church, VA, USA | On Site | Jan 16 |
 | **[Cisco](http://www.cisco.com)** | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77286b6?utm_campaign=1065&utm_source=git)** | Austin, Texas | Hybrid | Jan 16 |
 | ↳ | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77287bd?utm_campaign=1065&utm_source=git)** | RTP, North Carolina | Hybrid | Jan 16 |
+| ↳ | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77287bc?utm_campaign=1065&utm_source=git)** | New York City | Hybrid | Jan 16 |
 | ↳ | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77287bf?utm_campaign=1065&utm_source=git)** | San Jose, California, US | Hybrid | Jan 16 |
 | ↳ | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77287be?utm_campaign=1065&utm_source=git)** | Chicago, Illinois | Hybrid | Jan 16 |
-| ↳ | **[Amplify Marketing Specialist (Intern) United States](https://jobright.ai/jobs/info/67894ea99a04e033d77287bc?utm_campaign=1065&utm_source=git)** | New York City | Hybrid | Jan 16 |
 | **[JUMP Investors](http://jumpinvestors.com)** | **[2025 Venture Capital Summer Intern](https://jobright.ai/jobs/info/6789566cb33a8dfc97820c65?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67894e91a8838876deb0772a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 16 |
 | **[Ipsos North America](http://ipsos-na.com)** | **[Market Research Intern, Innovation - Summer 2025](https://jobright.ai/jobs/info/6754ed4af0809b26458dbbf3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ipsos North America](http://ipsos-na.com)** | **[Market Research Intern, Innovation - Summer 2025](https://jobright.ai/jobs/info/674e034072268c4d51b2c5f8?utm_campaign=1065&utm_source=git)** | Norwalk, CT | Hybrid | Jan 16 |
 | ↳ | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5536?utm_campaign=1065&utm_source=git)** | Norwalk, CT | Hybrid | Jan 16 |
 | ↳ | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740da8aeb8e42209dcc08f9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 16 |
-| ↳ | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740da8aeb8e42209dcc0718?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Jan 16 |
-| ↳ | **[Market Research Intern, Creative Excellence - Summer 2025](https://jobright.ai/jobs/info/6740e96b0e636a08c25b5537?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 16 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/678948ab13ccc1890bdda16e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 16 |
-| **[Our Daily Bread Ministries](https://odb.org/)** | **[Content Intern](https://jobright.ai/jobs/info/67893aa1ae9f3dd882416578?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 16 |
-| **[The Heritage Group](https://thgrp.com)** | **[College Intern - Marketing and Communications](https://jobright.ai/jobs/info/67893523195e00654279a7c4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 16 |
-| **[State Street](http://www.statestreet.com)** | **[State Street Global Markets, Rising Sophomore Summer Internship 2025](https://jobright.ai/jobs/info/67892c7c787140ee65f37b17?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts | On Site | Jan 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
