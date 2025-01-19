@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | **[Chipotle Mexican Grill](http://www.chipotle.com)** | **[Marketing - Internship](https://jobright.ai/jobs/info/678c3739434bffc9d3876f05?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Jan 18 |
 | ↳ | **[External Communication - Internship](https://jobright.ai/jobs/info/678c3739434bffc9d3876f03?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Jan 18 |
 | **[(add)ventures](http://addventures.com)** | **[Summer Intern 2025](https://jobright.ai/jobs/info/678c2d28585fb75574b8317a?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jan 18 |
+| **[Emera Maine](https://versantpower.com/)** | **[INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/678c4e1b2bd0aa267b101e5a?utm_campaign=1065&utm_source=git)** | Bangor, ME | On Site | Jan 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[National Geographic Subscription Strategy Intern, Summer 2025](https://jobright.ai/jobs/info/678bceb8edee88976c162038?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 18 |
 | **[LOFT](http://anninc.com/)** | **[Intern, Digital Marketing - LOFT](https://jobright.ai/jobs/info/678bc7e82e70d0048dda65d2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 18 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/678baa8f0d6032607041dc3a?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Jan 18 |
@@ -89,6 +90,8 @@ For a complete list, click the following sortable link below:
 | **[Moondance Adventures](https://moondanceadventures.com/)** | **[Summer Communications Intern](https://jobright.ai/jobs/info/678b15fdc2967b41b82447a7?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 17 |
 | ↳ | **[Summer Media + Marketing Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69a67?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jan 17 |
 | **[TAIT](http://www.taittowers.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/678b0e5e2f4fee8e35a69c29?utm_campaign=1065&utm_source=git)** | Lititz, PA | On Site | Jan 17 |
+| **[CareMetx, LLC](http://www.caremetx.com/)** | **[Summer 2025 Marketing Internship](https://jobright.ai/jobs/info/67882e7d32f192eebe7bbf12?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 17 |
+| **[Post Consumer Brands](https://postconsumerbrands.com)** | **[MBA Intern: Brand Marketing - Summer 2025](https://jobright.ai/jobs/info/6704fbf90088746d52a1aab0?utm_campaign=1065&utm_source=git)** | Lakeville, MN | On Site | Jan 17 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Marketing Communications, Boston MA](https://jobright.ai/jobs/info/678b029b523846b0836891a7?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | ↳ | **[Internship - Product Marketing Boston, MA](https://jobright.ai/jobs/info/678b029b523846b0836891a4?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 17 |
 | **[Credit Karma](https://www.creditkarma.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/678afe0d6437822261e95096?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 17 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Social Media, Content Creation & Events](https://jobright.ai/jobs/info/678ae4d090f104b969d7a1dd?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Hybrid | Jan 17 |
 | **[Hamilton Company](http://hamiltoncompany.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/678aee5441240f32e1253e49?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jan 17 |
 | **[Knauf North America](http://www.knaufnorthamerica.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/678ade853cf4853b1f5824bc?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 17 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Communications](https://jobright.ai/jobs/info/678ad7562c488ad7a45d5ab2?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Jan 17 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Esports Manager of Graphics and Social Media (Work Study Only)](https://jobright.ai/jobs/info/678ad4981095e1af8934e049?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Jan 17 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2025 Intern - Communications](https://jobright.ai/jobs/info/678ad4981095e1af8934e0c0?utm_campaign=1065&utm_source=git)** | California - San Francisco | On Site | Jan 17 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/678ae6547791999c9b47fd4d?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Jan 17 |
 | **[Ann Taylor](http://www.anntaylor.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/678bc7e82e70d0048dda67a1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 17 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Internship - Marketing Communications, Boston MA](https://jobright.ai/jobs/info/678ad4981095e1af8934e125?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United Airlines](https://www.united.com)** | **[Intern - Loyalty & Digital Marketing (Summer 2025)](https://jobright.ai/jobs/info/678aa0907e7a43dab407ca98?utm_campaign=1065&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Jan 17 |
 | **[Madison Gas and Electric](https://www.mge.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/678abde5339bec8d24846ad3?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 17 |
 | **[Rheem Manufacturing](http://www.rheem.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/678aa01c17cc4d6a71cbb459?utm_campaign=1065&utm_source=git)** | Randleman, NC | On Site | Jan 17 |
-| **[Jenner & Block](http://jenner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/678aa74ff109453f7212f0dc?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Jan 17 |
-| **[Littelfuse](http://www.littelfuse.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/678aa3ca90d67f3fa499e7aa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
-| **[Current Global](https://www.currentglobal.com/)** | **[Consumer PR Intern (Spring 2025)](https://jobright.ai/jobs/info/678a984b5eb84f44e7a57c1b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
