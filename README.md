@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cox Automotive Inc.](http://www.coxautoinc.com)** | **[Product Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/679e168614269032adfbef98?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 01 |
 | **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7f0f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 01 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/679ddd2fff95d390c3da7f17?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Feb 01 |
 | **[Hunter Agriculture](https://senninger.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/679de88ceb9844213a7e79ab?utm_campaign=1065&utm_source=git)** | San Marcos, CA | On Site | Jan 31 |
@@ -72,9 +73,9 @@ For a complete list, click the following sortable link below:
 | **[Pierce County](https://www.piercecountywa.gov/)** | **[Parks Community Recreation Intern - Temporary](https://jobright.ai/jobs/info/679dbf09879d1f5050cd51db?utm_campaign=1065&utm_source=git)** | Chambers, WA | On Site | Jan 31 |
 | **[Roblox](https://corp.roblox.com)** | **[[Summer 2025] Brand Success & Operations - Intern](https://jobright.ai/jobs/info/679d90531474a48342488b1c?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Jan 31 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Summer Intern - Digital](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad41a3?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 31 |
-| ↳ | **[Summer Intern - Paid Media](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4189?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
-| ↳ | **[Summer Intern - Corporate + Brand](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad418b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
 | ↳ | **[Summer Intern - Food, Agriculture and Nutrition](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4188?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 31 |
+| ↳ | **[Summer Intern - Corporate + Brand](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad418b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 31 |
+| ↳ | **[Summer Intern - Paid Media](https://jobright.ai/jobs/info/679d9ecb522cc9b0fcad4189?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 31 |
 | **[NEOGOV](http://www.neogov.com)** | **[Parks Community Recreation Intern - Temporary](https://jobright.ai/jobs/info/679d8856c0b7fd95b60c1ebe?utm_campaign=1065&utm_source=git)** | Environmental Services Building- Chambers Creek Regional Park, WA | On Site | Jan 31 |
 | **[Baker Electric](http://baker-electric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/679dab2e9611ad9a664938be?utm_campaign=1065&utm_source=git)** | Escondido, CA | On Site | Jan 31 |
 | **[Wacom Technology Corp.](http://www.wacom.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/679d8b581415e5dee9104d4a?utm_campaign=1065&utm_source=git)** | Vancouver, WA | On Site | Jan 31 |
@@ -84,16 +85,16 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[NBC Connecticut Sales Marketing Internship - Summer 2025](https://jobright.ai/jobs/info/679d6d2e1f95db8585dc7b44?utm_campaign=1065&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Jan 31 |
 | **[J.M. Huber Corporation](http://www.huber.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/679d797b160839252f37da41?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 31 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Undergraduate Live Events (Location Based Entertainment) Marketing Summer Internship](https://jobright.ai/jobs/info/679d6a907dcd8702f4dc0563?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jan 31 |
+| **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors or Masters- Marketing Co-Op](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b02?utm_campaign=1065&utm_source=git)** | Massachusetts - Boston | On Site | Jan 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WB Pictures Multicultural Marketing Intern: LA - Summer 2025](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9aaf?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Jan 31 |
-| **[Gen](https://www.gendigital.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3b0a?utm_campaign=1065&utm_source=git)** | USA - California, Mountain View | On Site | Jan 31 |
 | **[Porter Novelli](http://www.porternovelli.com)** | **[Summer Intern - Paid Media](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9acb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 31 |
-| ↳ | **[Summer Intern - Food, Agriculture and Nutrition](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9b0a?utm_campaign=1065&utm_source=git)** | Los Angeles, California | On Site | Jan 31 |
 | ↳ | **[Summer Intern - Corporate + Brand](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9ae7?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts | On Site | Jan 31 |
-| **[Sally Beauty](https://www.sallybeauty.com/)** | **[Social Media & Influencer Marketing Intern - Sally](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271bd0?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Jan 31 |
-| ↳ | **[BSG Merchandising Intern](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271c07?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Jan 31 |
+| ↳ | **[Summer Intern - Food, Agriculture and Nutrition](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9b0a?utm_campaign=1065&utm_source=git)** | Los Angeles, California | On Site | Jan 31 |
+| **[Sally Beauty](https://www.sallybeauty.com/)** | **[BSG Merchandising Intern](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271c07?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Jan 31 |
+| ↳ | **[Social Media & Influencer Marketing Intern - Sally](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271bd0?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Jan 31 |
 | ↳ | **[Brand & Integrated Marketing Intern - Sally](https://jobright.ai/jobs/info/679d6cb16aab7bb28b271bdb?utm_campaign=1065&utm_source=git)** | Denton, TX | Hybrid | Jan 31 |
-| **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors or Masters- Marketing Co-Op](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3bf8?utm_campaign=1065&utm_source=git)** | Massachusetts - Boston | On Site | Jan 31 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Property Management Operations) - Summer 2025 - New York City, NY](https://jobright.ai/jobs/info/679d6b07b71b40e5f27d9b38?utm_campaign=1065&utm_source=git)** | New York, NY, 10001 | On Site | Jan 31 |
+| **[Gen](https://www.gendigital.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/679d6ae0e2041034e29b3d07?utm_campaign=1065&utm_source=git)** | USA - California, Mountain View | On Site | Jan 31 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2025 Intern- Marketing](https://jobright.ai/jobs/info/679d782d7dcfec15f215d082?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Jan 31 |
 | **[Bose Corporation](https://www.bose.com/en_us/index.html)** | **[Marketing Paid Media Analytics Co-op](https://jobright.ai/jobs/info/679d68503216e684f1b25d05?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Jan 31 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Bachelors or Masters- Marketing Co-Op](https://jobright.ai/jobs/info/679d6e68343eb009a5b6f4e3?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 31 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Cox Enterprises](http://coxenterprises.com)** | **[Product Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/679d3e261b5df6f2690d1d8c?utm_campaign=1065&utm_source=git)** | Atlanta GA | On Site | Jan 31 |
 | **[PDS Health](http://www.pacificdentalservices.com/)** | **[Marketing Communications (Intern)](https://jobright.ai/jobs/info/679d4672959d2712b230a9bf?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jan 31 |
 | **[Zendar](http://www.zendar.io/)** | **[Part Time Marketing Internship](https://jobright.ai/jobs/info/679d4b70b0de791cd694dea7?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jan 31 |
-| **[Attivo](https://www.attivoerp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/679d377c0c41b2102622cc73?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Jan 31 |
+| **[The Attivo Group](https://www.attivoerp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/679d377c0c41b2102622cc73?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Jan 31 |
 | **[Unilever](http://www.unilever.com)** | **[Food Solutions - Marketing Internship 2025](https://jobright.ai/jobs/info/679d55a181e671d3c618600b?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jan 31 |
 | **[Calvin Klein](https://www.calvinklein.us)** | **[Intern, International Licensing Merchandising - PVH](https://jobright.ai/jobs/info/679d6520a7522eddbcb66af5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 31 |
 | **[Unilever](http://www.unilever.com)** | **[2025 Summer Internship- IT](https://jobright.ai/jobs/info/679d4672959d2712b230aaa4?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Jan 31 |
@@ -138,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Blue Cross and Blue Shield of Minnesota](https://www.bluecrossmn.com)** | **[Intern - Enterprise Events](https://jobright.ai/jobs/info/679d24d81107550b9be3b851?utm_campaign=1065&utm_source=git)** | Eagan, MN | On Site | Jan 31 |
 | **[LMCU](https://www.lmcu.org/)** | **[Growth Intern](https://jobright.ai/jobs/info/679d24d81107550b9be3b824?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Jan 31 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Urban Alliance) - Winter/Spring 2025 - Washington, DC SE](https://jobright.ai/jobs/info/679d3424e65c3946b3264be6?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 31 |
-| ↳ | **[Sales & Marketing Intern (Urban Alliance) - Winter/Spring 2025 - Hyattsville, MD](https://jobright.ai/jobs/info/679d3424e65c3946b3264b9b?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | On Site | Jan 31 |
 | ↳ | **[Sales & Marketing Intern (Urban Alliance) - Winter/Spring 2025 - Washington, DC NW](https://jobright.ai/jobs/info/679d3424e65c3946b3264b89?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 31 |
+| ↳ | **[Sales & Marketing Intern (Urban Alliance) - Winter/Spring 2025 - Hyattsville, MD](https://jobright.ai/jobs/info/679d3424e65c3946b3264b9b?utm_campaign=1065&utm_source=git)** | Hyattsville, MD | On Site | Jan 31 |
 | **[Capital Group](https://www.capitalgroup.com/us/landing-pages/linkedin-terms-of-use.html)** | **[CAMPUS: Experiential Marketing Design and Data Analysis Summer Associate (2025)](https://jobright.ai/jobs/info/679d225ee2ae991d92f5bd67?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Jan 31 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Commercial Communications Intern](https://jobright.ai/jobs/info/679d24fe073348f310b7e720?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 31 |
 | **[Mattel, Inc.](http://www.mattel.com)** | **[Undergraduate Live Events (Location Based Entertainment)  Marketing Summer Internship](https://jobright.ai/jobs/info/679d1763a7262f41f23eec5b?utm_campaign=1065&utm_source=git)** | 333 Continental Blvd, El Segundo, CALIFORNIA | Hybrid | Jan 31 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/679d0b05c5e4fbf89de07d8b?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Jan 31 |
 | **[Belle Tire](https://www.belletire.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/679d0f752e2e55c8077e5a78?utm_campaign=1065&utm_source=git)** | Southfield, MI | Hybrid | Jan 31 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Social Media Assistant, Equity and Title IX (Federal Work-Study)](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e937?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | On Site | Jan 31 |
-| **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e978?utm_campaign=1065&utm_source=git)** | Waukesha | On Site | Jan 31 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e9e7?utm_campaign=1065&utm_source=git)** | Chicago | On Site | Jan 31 |
+| **[GE HealthCare](http://www.gehealthcare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e9e7?utm_campaign=1065&utm_source=git)** | Chicago | On Site | Jan 31 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e978?utm_campaign=1065&utm_source=git)** | Waukesha | On Site | Jan 31 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2025 Intern – Sales Leadership Marketing](https://jobright.ai/jobs/info/679d06ee0151f5a7c1e2e95a?utm_campaign=1065&utm_source=git)** | WI Madison | Hybrid | Jan 31 |
 | **[Texas Association of School Boards](https://www.tasb.org)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/679d01d60218e26901a60860?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 31 |
 | **[Atlas Copco](https://www.atlascopcogroup.com)** | **[Sales & Marketing Intern, Compressor Technique - West Springfield, MA](https://jobright.ai/jobs/info/679d117a81d6b2a3b26eea90?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jan 31 |
-| **[TK Elevator](https://www.tkelevator.com/global-en/)** | **[Communications Coordinator Intern- Summer 2025 Internship](https://jobright.ai/jobs/info/679175fb3d559008419866e0?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Jan 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
