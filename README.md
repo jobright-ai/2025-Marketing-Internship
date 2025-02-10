@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[Social Media / Video and Content Marketing Intern](https://jobright.ai/jobs/info/67a96e5035d27fee7a4c01f5?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
+| **[Ardent Mills](https://www.ardentmills.com/)** | **[Marketing Intern (Canada)](https://jobright.ai/jobs/info/67a953fe270cc622a8f76f4c?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 09 |
 | **[NRECA](https://www.electric.coop/)** | **[Membership/Marketing Intern](https://jobright.ai/jobs/info/67a90fa22a4ae3cb6cd93e99?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Feb 09 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Summer 2025 Internship](https://jobright.ai/jobs/info/67a9120c87233b067154dfd3?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 09 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/67a8f7fed953efe50d697582?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Feb 09 |
@@ -70,13 +72,17 @@ For a complete list, click the following sortable link below:
 | **[Prosek Partners](http://www.prosek.com/)** | **[Summer 2025 Public Relations Apprentice - US Locations](https://jobright.ai/jobs/info/677c49ccff023826e2c66409?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 09 |
 | **[Olympus Corporation of the Americas](http://www.olympusamerica.com)** | **[Evergreen Requisition - Olympus Intern, Medical Product Marketing - Center Valley, PA (Summer 2025)](https://jobright.ai/jobs/info/678accf5c065c1ead5f74835?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Feb 09 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2025](https://jobright.ai/jobs/info/66ec7ba3c413563debb50366?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Feb 09 |
+| **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - Marketing Operations and Programming](https://jobright.ai/jobs/info/6789b384fade8859f716ab73?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Feb 09 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/675359dff7435cdf9796f616?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Feb 09 |
 | **[PIM Brands](https://pimbrands.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/67a88d4fb8eea8f06ffe504a?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Feb 09 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, The Wall Group](https://jobright.ai/jobs/info/67664d6df50c045a3b91058f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Feb 09 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Marketing Intern (Summer Internship 6/2/2025-8/8/2025)](https://jobright.ai/jobs/info/67a88cec07a3781f9821d08c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 09 |
+| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Marketing Automation Intern - Summer 2025](https://jobright.ai/jobs/info/6778b498c2e5c24b56aa4258?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Feb 09 |
 | **[Ipsos US](http://ipsos-na.com)** | **[Market Research Intern, Innovation - Summer 2025](https://jobright.ai/jobs/info/6754ed4af0809b26458dbbf3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 09 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, Marketing (Clé de Peau Beauté)](https://jobright.ai/jobs/info/67a832286fbac57c77693598?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 08 |
-| **[PlayCore](http://www.playcore.com/)** | **[Specialty Play Marketing Internship](https://jobright.ai/jobs/info/67a825c993428844ecf6374f?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Feb 08 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Marketing & Digital Analytics](https://jobright.ai/jobs/info/67a97432140c48ce45b4b27e?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Feb 08 |
+| **[Lenox Advisors](http://lenoxadvisors.com)** | **[Lenox Marketing Intern (Summer 2025)](https://jobright.ai/jobs/info/67a97432140c48ce45b4b299?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 08 |
+| **[Valley Bank](https://www.valley.com/)** | **[Intern - Marketing Strategy](https://jobright.ai/jobs/info/67a969df91f82a79c2a6d877?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Feb 08 |
 | **[Ipsos US](http://ipsos-na.com)** | **[Market Research Intern, Customer Experience - Summer 2025](https://jobright.ai/jobs/info/67a7f90ad2d70dd125c58ed9?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 08 |
 | ↳ | **[Market Research Intern, Customer Experience - Summer 2025](https://jobright.ai/jobs/info/67a7fc18d1dfcd9e32d795db?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Feb 08 |
 | ↳ | **[Market Research Intern, Customer Experience - Summer 2025](https://jobright.ai/jobs/info/67a7fef0833b80aad1ed8c57?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Feb 08 |
@@ -124,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67a86ee4c3a4364ad8eb8490?utm_campaign=1065&utm_source=git)** | West Columbia, SC | On Site | Feb 08 |
 | **[Atlassian](https://www.atlassian.com)** | **[Social Media Marketing Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/67a866bf54ab799e6f509ed0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Internship 2025](https://jobright.ai/jobs/info/6789338f0b2d2d816aa60e6b?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 07 |
-| **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[CLIENT GROWTH AND MARKETING INTERN (Indianapolis)](https://jobright.ai/jobs/info/67a85d9bb12c37b25fff5cce?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Feb 07 |
 | **[Atlassian](https://www.atlassian.com)** | **[Communications Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/67a854676afc8e83f941040c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Feb 07 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Graduate Technical Intern- Summer 2025](https://jobright.ai/jobs/info/67a70956e309e7a52c0d40c0?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 07 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[OTTAVA Brand Strategy Intern](https://jobright.ai/jobs/info/67a70956e309e7a52c0d40b8?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CommScope](http://www.commscope.com)** | **[Intern](https://jobright.ai/jobs/info/67a6b9818d565e889429f128?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Feb 07 |
 | **[FWD.us](http://www.fwd.us)** | **[Communications Intern (2025)](https://jobright.ai/jobs/info/67a6c326007f8365c3b01e75?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Feb 07 |
 | **[Leggett & Platt](http://www.leggett.com/)** | **[Marketing Intern- Part-time](https://jobright.ai/jobs/info/67a6b41559de363b51672e89?utm_campaign=1065&utm_source=git)** | City of Industry, CA | On Site | Feb 07 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Marketing Intern, Summer 2025](https://jobright.ai/jobs/info/67a6b2074877c04b173da2b3?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Feb 07 |
-| **[Atlassian](https://www.atlassian.com)** | **[Product Marketing Intern, 2025 Summer U.S.](https://jobright.ai/jobs/info/67a6ad858ca62d3f0a7f376f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Feb 07 |
-| **[Ipsos](http://www.ipsos.com)** | **[Market Research Intern, Customer Experience - Summer 2025](https://jobright.ai/jobs/info/67a7ec095789cf97051be90a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Feb 07 |
-| **[Lennar](http://lennar.com)** | **[Future Builders Internship - Homebuilding - Marketing](https://jobright.ai/jobs/info/67a6a8aa78714921bf5fa526?utm_campaign=1065&utm_source=git)** | Sandy, UT | On Site | Feb 07 |
-| ↳ | **[Future Builders Internship - Homebuilding - Marketing](https://jobright.ai/jobs/info/67a6a8aa78714921bf5fa542?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Feb 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
