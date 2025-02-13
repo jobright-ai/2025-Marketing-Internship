@@ -57,19 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Splunk](https://www.splunk.com)** | **[Go to Market Intelligence Analyst (MBA Intern - Summer 2025)](https://jobright.ai/jobs/info/67adeea6b599f3871032bdae?utm_campaign=1065&utm_source=git)** | Remote, California | Remote | Feb 13 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Communications Specialist Intern (Summer 2025 - UIUC Research Park)](https://jobright.ai/jobs/info/67ade4e7d5eb35915732e53b?utm_campaign=1065&utm_source=git)** | Champaign, IL | Hybrid | Feb 13 |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/67117dced6c665625e816e6f?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Feb 13 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67adccda18692814fc7a3dc7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
+| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/67add86b1d390e6b1bf93244?utm_campaign=1065&utm_source=git)** | Hoover, AL | On Site | Feb 13 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Advertising & Media Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67adac6306cc203985092980?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | On Site | Feb 13 |
 | **[Kargo](http://www.kargo.com)** | **[Intern, Media Strategy (NYC)](https://jobright.ai/jobs/info/67adba2d51a2774a37d81a58?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | ↳ | **[Intern, Client Services (NYC)](https://jobright.ai/jobs/info/67adba2d51a2774a37d81a7a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
 | ↳ | **[Intern, Campaign Management ](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ae8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 13 |
-| **[Links Global](http://www.linksglobal.org/)** | **[International Affairs, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff3?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
-| ↳ | **[Digital Marketing Analyst, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fea?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
-| ↳ | **[Marketing & Advertising, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe1?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
-| ↳ | **[Global Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fef?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
-| ↳ | **[Stakeholder and Partnership Engagement, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe8?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Stakeholder and Partnership Engagement, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe8?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Digital Media Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81feb?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Multimedia Production, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
-| ↳ | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Content Creator, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe2?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| ↳ | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| ↳ | **[Marketing & Advertising, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fe1?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| ↳ | **[Digital Marketing Analyst, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fea?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| ↳ | **[International Affairs, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff3?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
+| ↳ | **[Global Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81fef?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Web Applications, Dashboards and Data Analytics, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff8?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Public Relations, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff7?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
 | ↳ | **[Social Entrepreneur, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67adba2d51a2774a37d81ff5?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 12 |
@@ -115,11 +120,10 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[2025 Summer Communications Internship](https://jobright.ai/jobs/info/67ad4be91018ac8dcaa4bbad?utm_campaign=1065&utm_source=git)** | Kankakee, IL | On Site | Feb 12 |
 | **[Chartis](http://www.chartis.com/)** | **[Advisor, Healthcare Communications](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7251edd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | **[CHRISTUS Health](http://www.christushealth.org)** | **[Student Intern - Marketing](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7252209?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Intern](https://jobright.ai/jobs/info/67ad2ae7fec49c464d540fef?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Intern](https://jobright.ai/jobs/info/67ad2ae7fec49c464d540f70?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
 | **[University of Illinois Springfield](http://www.uis.edu/)** | **[Extra Help Social Media Assistant](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2be02?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Feb 12 |
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern-Marketing](https://jobright.ai/jobs/info/67ad43b442046ac9b7e2be39?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Feb 12 |
 | **[Pixi Inc.](https://www.pixibeauty.com)** | **[Amazon Coordinator/Intern](https://jobright.ai/jobs/info/67ad3234601d6d13bc39564c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 12 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Client Strategy](https://jobright.ai/jobs/info/67ad3b9f17f43fabb7252311?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Feb 12 |
 | **[Penumbra, Inc.](http://www.penumbrainc.com)** | **[Neurovascular Product Marketing Intern](https://jobright.ai/jobs/info/67ad3234601d6d13bc3956d6?utm_campaign=1065&utm_source=git)** | Alameda, CA | On Site | Feb 12 |
 | **[Waterton](https://www.waterton.com/)** | **[Operations and Marketing Intern](https://jobright.ai/jobs/info/67ad3234601d6d13bc3956bf?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 12 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67ad234184f0d80dd1a6659e?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Feb 12 |
@@ -140,21 +144,17 @@ For a complete list, click the following sortable link below:
 | **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Property Management Internship - Summer 2025](https://jobright.ai/jobs/info/67a2667947d39dbbcee22673?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Feb 12 |
 | **[Philadelphia Insurance Companies](https://www.phly.com)** | **[Summer Associate - Marketing/Sales (Dublin, OH or Franklin, TN)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9a4?utm_campaign=1065&utm_source=git)** | Dublin, OH | On Site | Feb 12 |
 | ↳ | **[Summer Associate - Marketing/Sales (Plano, TX)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9bd?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Feb 12 |
-| ↳ | **[Summer Associate - Marketing/Sales (Roseville, CA or Walnut Creek, CA)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec998?utm_campaign=1065&utm_source=git)** | Roseville, CA | On Site | Feb 12 |
-| ↳ | **[Summer Associate - Marketing/Sales (Lake Mary, FL)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9ac?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | On Site | Feb 12 |
-| ↳ | **[Summer Associate - Marketing/Sales (Naperville, IL)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9aa?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Feb 12 |
 | ↳ | **[Summer Associate - Marketing/Sales (Timonium, MD)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec99b?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Feb 12 |
 | ↳ | **[Summer Associate - Marketing/Sales (Mission Viejo, CA)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9ca?utm_campaign=1065&utm_source=git)** | Mission Viejo, CA | On Site | Feb 12 |
+| ↳ | **[Summer Associate - Marketing/Sales (Lake Mary, FL)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9ac?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | On Site | Feb 12 |
+| ↳ | **[Summer Associate - Marketing/Sales (Roseville, CA or Walnut Creek, CA)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec998?utm_campaign=1065&utm_source=git)** | Roseville, CA | On Site | Feb 12 |
+| ↳ | **[Summer Associate - Marketing/Sales (Naperville, IL)](https://jobright.ai/jobs/info/67ad18d86d3232459b3ec9aa?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Feb 12 |
 | **[The Lab Consulting](http://www.thelabconsulting.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f41a8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[iHeartRadio Digital Marketing Summer Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698d19?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[iHeartRadio Digital Marketing Summer Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e76?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Feb 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Talent Acquisition Marketing Content Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad0296af81a2c05a698d4e?utm_campaign=1065&utm_source=git)** | Winter Garden, FL, USA | On Site | Feb 12 |
 | ↳ | **[Talent Acquisition Marketing Content Production Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e8f?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Feb 12 |
 | ↳ | **[Talent Acquisition Marketing Communications Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad0296af81a2c05a698e90?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Feb 12 |
 | ↳ | **[Talent Acquisition Marketing Communications Intern, Summer/Fall 2025](https://jobright.ai/jobs/info/67ad0296af81a2c05a698d41?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 12 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Football Communications Intern](https://jobright.ai/jobs/info/67ad06477f608ac85d3f3ca0?utm_campaign=1065&utm_source=git)** | Denver, Colorado | On Site | Feb 12 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Global Communications Intern](https://jobright.ai/jobs/info/67ad0296af81a2c05a698dad?utm_campaign=1065&utm_source=git)** | 550 Madison Ave, New York, NY, 10022, US | On Site | Feb 12 |
-| **[Talbots](http://www.talbots.com)** | **[Intern: Merch Rotation - Bottoms](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f4208?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Feb 12 |
-| ↳ | **[Intern: Merch Rotation - Tops](https://jobright.ai/jobs/info/67ad12e3b42fb8c2743f4227?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Feb 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[iHeartRadio Digital Marketing Summer Intern](https://jobright.ai/jobs/info/67ad076667f67e2f336efe00?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Feb 12 |
-| **[HITT Contracting Inc.](http://www.hitt.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67ad0e65a81a091bca201afd?utm_campaign=1065&utm_source=git)** | Falls Church, VA | On Site | Feb 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
