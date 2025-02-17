@@ -57,18 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Links Global](http://www.linksglobal.org/)** | **[Digital Media Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fe9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| **[Warner Bros. Discovery](https://wbd.com/)** | **[Creative Marketing Internships: LA - Summer 2025](https://jobright.ai/jobs/info/6797308f0ff4d8965aba22f9?utm_campaign=1065&utm_source=git)** | Burbank, CA | Hybrid | Feb 17 |
+| **[Tampa Bay Buccaneers](http://www.buccaneers.com)** | **[2025 - Emerging Talent Program - Marketing](https://jobright.ai/jobs/info/67b31dfda162cc54b6eefdb8?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Network Operation Intern (TikTok LIVE - AMS) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/67b30f8095c7b5a33a8055b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Feb 17 |
+| **[Links Global](http://www.linksglobal.org/)** | **[Creative Writer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b30f8095c7b5a33a805669?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| ↳ | **[Digital Media Developer, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fe9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Web Applications, Dashboards and Data Analytics, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fe7?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
-| ↳ | **[Marketing & Advertising, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff0?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Stakeholder and Partnership Engagement, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff2?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
-| ↳ | **[Filmmaker, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fea?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Public Affairs, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fed?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
-| ↳ | **[Social Entrepreneur, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| ↳ | **[Marketing & Advertising, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff0?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| ↳ | **[Filmmaker, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6fea?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Content Creator, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff3?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[International Affairs, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ffa?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Public Relations, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff9?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
-| ↳ | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ffb?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| ↳ | **[Social Entrepreneur, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ff4?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Global Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ffd?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
+| ↳ | **[International Development, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d6ffb?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d7006?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
 | ↳ | **[Youth Peace Alliance Digital Marketing Internship Fall 2023](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d700a?utm_campaign=1065&utm_source=git)** | Rockville, MD | Remote | Feb 17 |
 | ↳ | **[Writer/Editor, Digital Marketing Internship Program](https://jobright.ai/jobs/info/67b3033f0d0a8f2a1b6d7009?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Feb 17 |
@@ -92,10 +96,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern I - Market Research](https://jobright.ai/jobs/info/67849114f4c4db0c4fc22ce1?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Feb 16 |
 | **[Magna International](http://www.magna.com/)** | **[Communications and Public Relations Intern](https://jobright.ai/jobs/info/6794441eb7295d867fc5bf74?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Feb 16 |
 | **[Iris](https://www.iris-worldwide.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/67b1edec40ab2c1ffbaeb852?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Feb 16 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676597447045e0e451478185?utm_campaign=1065&utm_source=git)** | Savannah, GA | On Site | Feb 16 |
 | **[MathWorks](http://www.mathworks.com)** | **[Cornell University MATLAB Student Ambassador](https://jobright.ai/jobs/info/67545d8d199f5031fe104035?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Feb 16 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Marketing Planning Intern (Summer 2025; GSM)](https://jobright.ai/jobs/info/6794f5be5ba41fd7692f2afa?utm_campaign=1065&utm_source=git)** | Livonia, MI | Hybrid | Feb 16 |
 | ↳ | **[Strategic Student Program: Marketing Planning Intern (Summer 2025; GSM)](https://jobright.ai/jobs/info/6794ea2e8a300499c7bc9c72?utm_campaign=1065&utm_source=git)** | Milford, OH | Hybrid | Feb 16 |
+| **[Southwire Company](http://southwire.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/679412fd27b858db92bdb179?utm_campaign=1065&utm_source=git)** | Carrollton, GA | Hybrid | Feb 16 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - MBA / MPH - Product and Channel Marketing](https://jobright.ai/jobs/info/6799a8685b16ebadd72c597d?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Feb 16 |
+| **[Atlas Copco Group](http://www.atlascopcogroup.com)** | **[Product Marketing - Large, High Pressure, and Electric Air - Intern](https://jobright.ai/jobs/info/678fcf97c6a171e8f6c2a9f2?utm_campaign=1065&utm_source=git)** | South Carolina, United States | Hybrid | Feb 16 |
 | **[Adobe](http://www.adobe.com)** | **[2025 Intern – ABM Marketing](https://jobright.ai/jobs/info/6785bd20131ae58bc0e4e206?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Feb 15 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Product Marketing (February 2025)](https://jobright.ai/jobs/info/67b2e95ab42230f82e06f9e0?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | On Site | Feb 15 |
 | **[HP](http://www.hp.com)** | **[Imaging and Print Business Internship](https://jobright.ai/jobs/info/67b2e5593f152da0cfc0765a?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Feb 15 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rational 360](https://rational360.com)** | **[Digital Fellow - Spring 2025 (On Site - Washington, DC)](https://jobright.ai/jobs/info/6722f7d08b1723d99da2de6e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Feb 15 |
 | **[Chamberlain Group](http://www.chamberlaingroup.com)** | **[Intern, Digital Marketing (Summer 2025)](https://jobright.ai/jobs/info/6791721244b88afb9cf62eab?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | On Site | Feb 15 |
 | **[Verint](https://www.verint.com)** | **[Intern, Marketing Analyst](https://jobright.ai/jobs/info/678872a7ce4462a506652b2a?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
-| **[BJ's Wholesale Club](http://www.bjs.com/)** | **[Merchandising Ops Intern](https://jobright.ai/jobs/info/67934787fae43dd8f229c550?utm_campaign=1065&utm_source=git)** | Marlborough, MA | Hybrid | Feb 15 |
-| **[EducationDynamics](https://www.educationdynamics.com)** | **[Digital Marketing Internship, EMS](https://jobright.ai/jobs/info/673bd8c278e451286508d9f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Feb 15 |
-| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Copywriter (Summer 2025)](https://jobright.ai/jobs/info/6792b540e779351adf8ad77f?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 15 |
-| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6792c3ed3365cffd6156389a?utm_campaign=1065&utm_source=git)** | White Plains, NY | Remote | Feb 15 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2025 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/6705b0ebe7cafd8ea7326929?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Feb 15 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67b196be57bc6182f1eeb04e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
-| **[NSM Insurance Group](http://nsminc.com)** | **[Summer Internship- Marketing](https://jobright.ai/jobs/info/67b0b150d85d7eb226d2199b?utm_campaign=1065&utm_source=git)** | Conshohocken, PA | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
