@@ -57,23 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[Intern-Economics, Cross-Channel Marketing (XCM-Mode Tech)](https://jobright.ai/jobs/info/67c4d2121436ba08032a419b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Mar 02 |
+| ↳ | **[Intern-Economics, Cross-Channel Marketing (XCM-Mode Tech)](https://jobright.ai/jobs/info/67c4bbce810e62d27fafc664?utm_campaign=1065&utm_source=git)** | Seattle, Washington, USA | On Site | Mar 02 |
 | **[Encore Solutions](https://www.encore-solution-oh.com/)** | **[Trainee Marketing Assistant](https://jobright.ai/jobs/info/67c4a9046ce16cb4c2ecbabe?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Veritiv Operating Company](http://www.veritivcorp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6751605c3cd8c3c2383fb67f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
-| **[Ardent Mills](https://www.ardentmills.com/)** | **[Marketing Intern (Canada)](https://jobright.ai/jobs/info/67c45b353b45155e88e4afaf?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 02 |
 | **[PIM Brands](https://pimbrands.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/67a88d4fb8eea8f06ffe504a?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Mar 02 |
 | **[MKS Instruments](http://www.mksinst.com)** | **[2025 Summer - Product Marketing Support Intern / Co-Op (R11698)](https://jobright.ai/jobs/info/674e0ee4b1e0826d2cd2b975?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
 | **[Ipsos US](http://ipsos-na.com)** | **[Market Research Intern, Customer Experience - Summer 2025](https://jobright.ai/jobs/info/67a7fef0833b80aad1ed8c57?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
 | **[Kirby Risk](https://www.kirbyrisk.com)** | **[Marketing Intern (Starting May 2025!)](https://jobright.ai/jobs/info/67c430872aaff622093f9d90?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Mar 02 |
 | **[Grand Hotel](http://www.grandhotel.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67c430872aaff622093f9d68?utm_campaign=1065&utm_source=git)** | Mackinac Island, MI | On Site | Mar 02 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Hajimari Intern, US Integrated Communications (NARS)](https://jobright.ai/jobs/info/67c3fa88df63d3992894ceee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 01 |
-| **[Gallo Mechanical, LLC](https://www.gallomechanical.com)** | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f71c?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Mar 01 |
-| ↳ | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f7de?utm_campaign=1065&utm_source=git)** | Hammond, LA | On Site | Mar 01 |
-| ↳ | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f7df?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Mar 01 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/676593c9c159d5237e08aed3?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Mar 01 |
+| **[Unilever](http://www.unilever.com)** | **[2025 Summer Internship- IT](https://jobright.ai/jobs/info/679d4672959d2712b230aaa4?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 01 |
+| **[Gallo Mechanical, LLC](https://www.gallomechanical.com)** | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f7df?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Mar 01 |
+| ↳ | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f71c?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Mar 01 |
 | ↳ | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f716?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Mar 01 |
+| ↳ | **[SUMMER 2025 INTERNSHIP](https://jobright.ai/jobs/info/67c39c05106b95390a75f7de?utm_campaign=1065&utm_source=git)** | Hammond, LA | On Site | Mar 01 |
 | **[Zendar](http://www.zendar.io/)** | **[Paid Part-Time Marketing Internship](https://jobright.ai/jobs/info/67c38afe70e31a69a2847d2a?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Mar 01 |
 | **[Unilever](http://www.unilever.com)** | **[Food Solutions - Marketing Internship 2025](https://jobright.ai/jobs/info/679d55a181e671d3c618600b?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 01 |
+| **[Sporting Kansas City](http://www.sportingkc.com)** | **[The Victory Project Intern - Summer 2025](https://jobright.ai/jobs/info/67a6a9ad6843194e26464a10?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Mar 01 |
 | **[AeroShield Materials](https://www.aeroshield.tech/)** | **[Business Operations Intern (position available Summer 2025)](https://jobright.ai/jobs/info/67c39d4fbfdb9a4cf48f57be?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Mar 01 |
 | **[Unilever](http://www.unilever.com)** | **[Unilever Marketing Summer Internship 2025](https://jobright.ai/jobs/info/679d3424e65c3946b3264ad2?utm_campaign=1065&utm_source=git)** | Englewood Cliffs, NJ | On Site | Mar 01 |
+| **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2025 Marketing Intern](https://jobright.ai/jobs/info/671de6a44895642b2a4123fe?utm_campaign=1065&utm_source=git)** | Arlington, TX | On Site | Mar 01 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[2025 Leadership Development Conference (Marketing)](https://jobright.ai/jobs/info/67c3771afeab1af2147379f7?utm_campaign=1065&utm_source=git)** | Racine, WI | On Site | Mar 01 |
 | **[Los Angeles Lakers](https://heylink.me/link.indahjp/)** | **[Social Media Intern](https://jobright.ai/jobs/info/67c3771afeab1af214737a04?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Mar 01 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/67c35773ed7c0bc8dfcff295?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 01 |
@@ -116,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Mallinckrodt Pharmaceuticals](http://mallinckrodt.com)** | **[Communications Intern](https://jobright.ai/jobs/info/67a16c6cef3043ec079670db?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Mar 01 |
 | **[Karl Auto Group](http://karlchevrolet.com)** | **[Event Brand Summer Ambassador](https://jobright.ai/jobs/info/67c2f154427dc1d5671d45a8?utm_campaign=1065&utm_source=git)** | Ankeny, IA | On Site | Mar 01 |
 | **[Meet Rise](http://www.riseinteractive.com)** | **[Corporate Trainee Program – Marketing Internship – Chicago](https://jobright.ai/jobs/info/67be39939a4703b92b37d4c3?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 01 |
-| **[Steel Technologies](http://www.steeltechnologies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67c4283fb9609906b7401206?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Mar 01 |
 | **[HENSEL PHELPS](http://www.henselphelps.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67c2d1c083071f7a68299d13?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Feb 28 |
 | **[Opus Agency](http://www.opusagency.com/)** | **[Event Management Intern](https://jobright.ai/jobs/info/67a4d360179c7ec845cd799f?utm_campaign=1065&utm_source=git)** | United States | On Site | Feb 28 |
 | **[Barnes & Thornburg LLP](http://www.btlaw.com/)** | **[CLIENT GROWTH AND MARKETING INTERN (Indianapolis)](https://jobright.ai/jobs/info/67c40d7fbbff6944e30faf0e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Feb 28 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Integrated Marketing](https://jobright.ai/jobs/info/67c26387f9278ff2fa739a1f?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Feb 28 |
 | **[Enchanted Rock](https://enchantedrock.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/67c2555dc4bb968d0353188c?utm_campaign=1065&utm_source=git)** | Houston, Texas | Hybrid | Feb 28 |
 | **[MullenLowe U.S.](https://mullen.com)** | **[Public Relations Inktern - Summer 2025 Internship](https://jobright.ai/jobs/info/6787a29e4dfc2e394b48cdce?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Feb 28 |
-| **[SanMar](http://www.sanmar.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67c2511f8843b056d4f59142?utm_campaign=1065&utm_source=git)** | Issaquah, WA | On Site | Feb 28 |
-| ↳ | **[Intern, Integrated Marketing](https://jobright.ai/jobs/info/67c2511f8843b056d4f59144?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Feb 28 |
-| ↳ | **[Intern, Marketing Project Management](https://jobright.ai/jobs/info/67c2511f8843b056d4f59163?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Feb 28 |
-| **[Pure Storage](http://www.purestorage.com)** | **[Internal Communications & Process Intern (Summer 2025)](https://jobright.ai/jobs/info/67c247b78c669cfbeadbd0fd?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Feb 28 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67c253108843b056d4f5991c?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Feb 28 |
-| **[Alo Yoga](https://www.aloyoga.com/)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/67c286f24652d6f121b280a2?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Feb 28 |
+| **[Littelfuse](http://www.littelfuse.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/678aa3ca90d67f3fa499e7aa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Feb 28 |
+| **[SanMar](http://www.sanmar.com)** | **[Intern, Integrated Marketing](https://jobright.ai/jobs/info/67c2511f8843b056d4f59144?utm_campaign=1065&utm_source=git)** | Issaquah, WA | Hybrid | Feb 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
