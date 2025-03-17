@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Foodservice](http://www.performancefoodservice.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/67d74e66fc75bac29b2b1b1f?utm_campaign=1065&utm_source=git)** | Roanoke, TX | On Site | Mar 16 |
+| **[Prairie Capital Advisors, Inc.](http://prairiecap.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67d73386c473084aa78c7582?utm_campaign=1065&utm_source=git)** | Oakbrook Terrace, IL | On Site | Mar 16 |
 | **[Ardent Mills](https://www.ardentmills.com/)** | **[Marketing Intern (Canada)](https://jobright.ai/jobs/info/67d72402204313d615e0918a?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 16 |
 | **[MemorialCare](https://www.memorialcare.org)** | **[PR & Communications Intern](https://jobright.ai/jobs/info/67d706dc8957915ac300a09e?utm_campaign=1065&utm_source=git)** | Fountain Valley, CA | On Site | Mar 16 |
 | **[The AZEK Company](https://azekco.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/67cac131703614c720b57195?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Marketing](https://jobright.ai/jobs/info/67d4cc9e8370d05bfd97e6fd?utm_campaign=1065&utm_source=git)** | Delano, CA, USA | On Site | Mar 14 |
 | ↳ | **[Summer Internship, Marketing](https://jobright.ai/jobs/info/67d4cc9e8370d05bfd97e701?utm_campaign=1065&utm_source=git)** | Delano, CA, USA | On Site | Mar 14 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern - Marketing Event and Logistics](https://jobright.ai/jobs/info/67d4cc9e8370d05bfd97e7a2?utm_campaign=1065&utm_source=git)** | 5100 Patrick Henry Drive, Santa Clara, CA, 95054, US | On Site | Mar 14 |
-| **[AmeriLife](http://www.amerilife.com)** | **[Marketing Team Intern](https://jobright.ai/jobs/info/67d4d42b5ae3c603c236b314?utm_campaign=1065&utm_source=git)** | Ada, MI | On Site | Mar 14 |
 | **[Discovery Senior Living](http://discoveryseniorliving.com)** | **[Digital Marketing Inter](https://jobright.ai/jobs/info/67d4d0c5c70916c7bce47958?utm_campaign=1065&utm_source=git)** | Bonita Springs, FL | On Site | Mar 14 |
 | **[EXP](http://www.exp.com/)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/67d4c386e44e932af4b9ca6d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[Wintrust Financial Corporation](http://www.wintrust.com/)** | **[Wintrust 2025 Summer Internship - Marketing/Social Media](https://jobright.ai/jobs/info/67d4d7d0fc8f8b7b6b9e55d8?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Mar 14 |
@@ -147,14 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Hydrow, Inc.](https://hydrow.com)** | **[Marketing CoOp](https://jobright.ai/jobs/info/67d49607fb43b43d3e8dd391?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Mar 14 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Marketing Intern - Phoenix](https://jobright.ai/jobs/info/67d1c4b32b97486ee074842f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Mar 14 |
 | **[Logitech](https://www.logitech.com)** | **[Product Marketing Intern - G HUB](https://jobright.ai/jobs/info/67d4a4741466acc8ad8ea859?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Mar 14 |
+| **[BeiGene](https://www.beigene.com)** | **[Summer Internship: US Market Access Strategic Marketing Intern](https://jobright.ai/jobs/info/67b777a683bfe0a38641e94b?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 14 |
 | **[Wawa, Inc.](https://www.wawa.com)** | **[Loyalty Marketing & CX Strategy Intern](https://jobright.ai/jobs/info/67d49df622f3083949054018?utm_campaign=1065&utm_source=git)** | Media, PA | On Site | Mar 14 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2025 Outreach Internship](https://jobright.ai/jobs/info/67d49607fb43b43d3e8dd40b?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Mar 14 |
 | **[American Battery Solutions Inc.](https://www.americanbatterysolutions.com/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/67d4a1186d08d6042d02a944?utm_campaign=1065&utm_source=git)** | Lake Orion, MI | On Site | Mar 14 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2025 Outreach Internship](https://jobright.ai/jobs/info/67d48fe057b7c45cb087c815?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Mar 14 |
+| **[The Andersons, Inc.](http://www.andersonsinc.com/)** | **[Commodity Merchandising Intern (Summer 2025)](https://jobright.ai/jobs/info/67d4952c0330d3bb54bb8ff1?utm_campaign=1065&utm_source=git)** | Burlington, VT | On Site | Mar 14 |
 | **[AmeriHealth Caritas](http://www.amerihealthcaritas.com)** | **[2025 Summer Intern / Communications and Brand - Hybrid](https://jobright.ai/jobs/info/67cb537f254f97f16e477851?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Mar 14 |
 | **[tastylive](https://www.tastylive.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/67d49b190fb231c2e4d700c5?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[Shaw Industries](https://shawinc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67cf31f60faf87240780a2e7?utm_campaign=1065&utm_source=git)** | Cartersville, GA | On Site | Mar 14 |
-| **[Therapy Brands](https://www.therapybrands.com/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/67d487a1f835b88b5a96a0bb?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 14 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Summer 2025 Internship - Merchandising](https://jobright.ai/jobs/info/67d49607fb43b43d3e8dd5fb?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Mar 14 |
-| **[Grammarly](http://www.grammarly.com)** | **[Sales Training Intern, Partner Solutions - Summer 2025](https://jobright.ai/jobs/info/67d204f5c1841df9a757f0b3?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
