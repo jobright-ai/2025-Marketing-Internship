@@ -130,6 +130,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Reputation Defender Online Marketing Intern](https://jobright.ai/jobs/info/67ddfda36292891b775b5859?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 21 |
 | **[The Timken Company](http://www.timken.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67ddf8161c27c0b48ab24395?utm_campaign=1065&utm_source=git)** | North Canton, OH | On Site | Mar 21 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, Cargo Marketing and Communications (Fall 2025)](https://jobright.ai/jobs/info/67ddeee6fc935861bff82b06?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
+| **[Helix Electric](http://www.helixelectric.com)** | **[Marketing and Communications Coordinator - (Internship)](https://jobright.ai/jobs/info/67ddf8f77ce2c24e4f46c209?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Mar 21 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Employee and Digital Communications Internship (IT Intern 3)](https://jobright.ai/jobs/info/67de0add3bd0b896121af7b0?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Mar 21 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Intern, US Ecommerce (NARS)](https://jobright.ai/jobs/info/67ddeab9cc36765933922a42?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 | **[Smith+Nephew](https://www.smith-nephew.com/en)** | **[AWB Marketing Intern – (Fort Worth, TX)](https://jobright.ai/jobs/info/67ddf1d14d444a539d4c876f?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Mar 21 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TNTP](http://tntp.org/)** | **[Fundraising Internship](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe4060?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[SoundCloud](http://www.soundcloud.com)** | **[Consumer Programming Intern](https://jobright.ai/jobs/info/67ddd89e31fbca85b238a478?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Mar 21 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67ddd27ee8c6e41f39df4f15?utm_campaign=1065&utm_source=git)** | State College, Pennsylvania, United States | On Site | Mar 21 |
-| **[SoundCloud](http://www.soundcloud.com)** | **[Lifecycle Marketing Intern](https://jobright.ai/jobs/info/67ddd89e31fbca85b238a4cb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 21 |
-| ↳ | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/67ddd89e31fbca85b238a465?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
+| **[SoundCloud](http://www.soundcloud.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/67ddd89e31fbca85b238a465?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
