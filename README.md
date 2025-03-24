@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Motimatic](http://www.motimatic.com)** | **[Ad Operations, Intern](https://jobright.ai/jobs/info/67e08d88c5657a9cfb5f9f57?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Public Relations Spring Intern (Business Development)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844499?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[DelMorgan & Co.](http://delmorganco.com/)** | **[SEO Intern](https://jobright.ai/jobs/info/67e0754501440193c8782462?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Mar 23 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Intern, US Ecommerce (NARS)](https://jobright.ai/jobs/info/67e06dc0750cea46a398ad29?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Summer 2025) - New Village](https://jobright.ai/jobs/info/67e063d7f4702dc58b8fb1a0?utm_campaign=1065&utm_source=git)** | Patchogue, NY | On Site | Mar 23 |
@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Intern (2025 Semester 2) - Generation H](https://jobright.ai/jobs/info/67df9f87a38837e9ae9a4922?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Haworth](http://www.haworth.com/)** | **[Product Line Marketing Intern - Holland, MI](https://jobright.ai/jobs/info/67beaed3635358bcb08c9201?utm_campaign=1065&utm_source=git)** | Holland, MI | On Site | Mar 22 |
 | **[Dairy Management Inc.](https://www.usdairy.com/)** | **[Integrated Communications Internship, GENYOUth](https://jobright.ai/jobs/info/67df3118fb795e35da2b7cfc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
-| **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Public Relations Spring Intern (New Business)](https://jobright.ai/jobs/info/67d8aa64bf4e466d7e844499?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Marketing Trade Show & Event Intern](https://jobright.ai/jobs/info/677dc6cf90954611917e9ab2?utm_campaign=1065&utm_source=git)** | State College, PA | On Site | Mar 22 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/67df080dc8595bfd75f37d7f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | ↳ | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/67df080dc8595bfd75f37d7e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Mar 22 |
@@ -89,10 +88,8 @@ For a complete list, click the following sortable link below:
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/67c57dd7465115b1ee658d06?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Mar 22 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67dec59ae3ef90b273fe42bc?utm_campaign=1065&utm_source=git)** | State College, PA | On Site | Mar 22 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Creative/Strategy/Analytics Intern (Summer 2025)](https://jobright.ai/jobs/info/67c28efe22ca75d52d2f07a6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 22 |
-| **[Precisely](https://www.precisely.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/67c2487791071ab781795dfc?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Accuray](http://www.accuray.com)** | **[Cyberknife Commercial Intern](https://jobright.ai/jobs/info/6788b038cff83b425aad3579?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Mar 22 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Marketing Summer Internship 2025](https://jobright.ai/jobs/info/6789338f0b2d2d816aa60e6b?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 22 |
-| **[Precisely](https://www.precisely.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/67c2487791071ab781795e42?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2025 Intern](https://jobright.ai/jobs/info/67246c307ca73d0e37af3ecd?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Ecommerce Summer Internship 2025](https://jobright.ai/jobs/info/6789338f0b2d2d816aa60e77?utm_campaign=1065&utm_source=git)** | Egg Harbor, NJ | On Site | Mar 22 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[Oracle NetSuite Event Intern](https://jobright.ai/jobs/info/67a561f159d4c9f90bface94?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 22 |
@@ -140,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern- Orlando](https://jobright.ai/jobs/info/67de1e5eeff97fce39a5fd10?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Mar 21 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[PPC Intern, Summer 2025](https://jobright.ai/jobs/info/67de2c3089f0463a130c280e?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Mar 21 |
 | **[Therapy Brands](https://www.therapybrands.com/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/67d487a1f835b88b5a96a0bb?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Mar 21 |
+| **[Schonfeld](http://www.schonfeld.com/)** | **[2025 Early Careers Talent Marketing Sophomore Summer Internship](https://jobright.ai/jobs/info/67c1384f7fed509264781ab9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Mar 21 |
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern- NYC or LA](https://jobright.ai/jobs/info/67de1e5eeff97fce39a5fcec?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Center City District](http://www.centercityphila.org)** | **[Marketing: BID Arts and Retail Support Research Internship](https://jobright.ai/jobs/info/67de1a992df40a5bdff3b983?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Mar 21 |
 | **[Nexteer Automotive](http://www.nexteer.com/)** | **[Communications Co-op 2025](https://jobright.ai/jobs/info/67de0f087bfab04ab31898ed?utm_campaign=1065&utm_source=git)** | Saginaw, MI | Hybrid | Mar 21 |
@@ -147,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[PPC Intern, Summer 2025](https://jobright.ai/jobs/info/67de1d7a281c95fcf692cdc2?utm_campaign=1065&utm_source=git)** | United States | Remote | Mar 21 |
 | **[Conagra Brands](http://www.conagrabrands.com/)** | **[Communications Summer Apprentice](https://jobright.ai/jobs/info/67da1e64056a1463c3c97e01?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Mar 21 |
 | **[Intuitive](https://intusurg.com)** | **[Employer Brand Intern (Summer, Part-Time)](https://jobright.ai/jobs/info/67de0847ef00ddfe62982fc2?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Mar 21 |
-| **[HFD](https://gohfd.com)** | **[Marketing & Communications Paid Internship (April-July)](https://jobright.ai/jobs/info/67de06d5c83f9b0552a751a2?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Mar 21 |
-| ↳ | **[Marketing & Communications Paid Internship (April-July)](https://jobright.ai/jobs/info/67de06d5c83f9b0552a7575b?utm_campaign=1065&utm_source=git)** | Remote Worker - N/A | Remote | Mar 21 |
+| **[HFD](https://gohfd.com)** | **[Marketing & Communications Paid Internship (April-July)](https://jobright.ai/jobs/info/67de06d5c83f9b0552a7575b?utm_campaign=1065&utm_source=git)** | Remote Worker - N/A | Remote | Mar 21 |
+| ↳ | **[Marketing & Communications Paid Internship (April-July)](https://jobright.ai/jobs/info/67de06d5c83f9b0552a751a2?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Mar 21 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Ninja Marketing Co-op (July through December)](https://jobright.ai/jobs/info/67de015f6b8d8b1af07ca50f?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Mar 21 |
 | **[Fusion 360](https://fusion360agency.com)** | **[Content Writer + Social Media Internship](https://jobright.ai/jobs/info/67d9db7e4c43931006cc0223?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Mar 21 |
 | **[Granite Telecommunications](http://www.granitenet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67de0d2b0a8756902046bd3a?utm_campaign=1065&utm_source=git)** | Quincy, MA | On Site | Mar 21 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Infineon Technologies](https://www.infineon.com)** | **[Internship - Product Marketing Engineer](https://jobright.ai/jobs/info/67ddfb934a9b4defd40ae3a3?utm_campaign=1065&utm_source=git)** | Andover, MA | On Site | Mar 21 |
 | **[TDS Telecommunications LLC](http://www.tdstelecom.com)** | **[Field Marketing & Special Events Intern](https://jobright.ai/jobs/info/67cfb98f8556c6a2a43b6b2a?utm_campaign=1065&utm_source=git)** | Billings, MT | On Site | Mar 21 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Intern](https://jobright.ai/jobs/info/67c127637b2c41627cf270c6?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | Mar 21 |
+| **[Delaware North](http://www.delawarenorth.com/)** | **[Marketing Internship Summer 2025, Boston Bruins](https://jobright.ai/jobs/info/67de1031ecfd443c8ba032d9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Mar 21 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67de015f6b8d8b1af07ca555?utm_campaign=1065&utm_source=git)** | Coral Gables, FL | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
