@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlas](http://www.atlascarpetmills.com)** | **[Proposal & Marketing Intern](https://jobright.ai/jobs/info/67f24a8a8b57874c41eef2c8?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Marketing Software Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67f205c368570be852bed4b9?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[NetApp](http://netapp.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/67f1efc6656a4ffd1dc54e1b?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 05 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/67cd5e396c7584d77c87aee0?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Apr 05 |
@@ -72,6 +73,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creator Success Intern](https://jobright.ai/jobs/info/67d4807abb1f78302b3e9e0d?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 05 |
 | **[KIOXIA America, Inc.](https://www.kioxia.com/en-us/)** | **[Technical Product Marketing Intern - i-0047](https://jobright.ai/jobs/info/67b7c1ff0f585bc30a4494b0?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
 | **[Dover Food Retail](https://www.dovercorporation.com/our-markets/refrigeration-and-food-equipment/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67f11bc9e9e506649e105095?utm_campaign=1065&utm_source=git)** | Conyers, GA | On Site | Apr 05 |
+| **[AMH](https://www.americanhomes4rent.com/)** | **[Demand Generation Data Marketing Intern](https://jobright.ai/jobs/info/67d394d9b9779510eebdd3de?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Apr 05 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Merchandising - Merchandising Intern](https://jobright.ai/jobs/info/67cb764e57e09f619c57dbdc?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Apr 05 |
+| **[Samsung Semiconductor](https://www.samsung.com/us/samsungsemiconductor)** | **[Intern, Enterprise DRAM Product Marketing](https://jobright.ai/jobs/info/679af8fb236207e32c8c0033?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Apr 05 |
 | **[Allen Marine Tours](https://www.allenmarinetours.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f10e0264502ed5b216d7d7?utm_campaign=1065&utm_source=git)** | Juneau, AK | On Site | Apr 05 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2025 Summer Strategic Marketing Intern (MBA)](https://jobright.ai/jobs/info/67e762fa933fe3d3e789abb3?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Social Media/ Video Internship, Summer 2025](https://jobright.ai/jobs/info/67f0dd8eb5a0a2dbb5e726da?utm_campaign=1065&utm_source=git)** | West Allis, WI | On Site | Apr 04 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Boyd](http://www.boydcorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f067ed60e8529beed579ba?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Apr 04 |
 | **[Cornerstone Research](https://www.cornerstone.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f067ed60e8529beed57a1b?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Apr 04 |
 | **[Belle Tire](https://www.belletire.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f073e52aba6d8390038569?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Apr 04 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2025 Communications Intern](https://jobright.ai/jobs/info/67f067ed60e8529beed57c4a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | **[City of Baltimore](https://www.baltimorecity.gov/)** | **[Communications Intern, Administration (NCS) - BCIT](https://jobright.ai/jobs/info/67f067ed60e8529beed57c68?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Apr 04 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Marketing Support (Social)](https://jobright.ai/jobs/info/67f067ed60e8529beed57cdd?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Apr 04 |
 | **[Quad](https://www.quad.com)** | **[Milwaukee Magazine Social Media/ Video Internship, Summer 2025](https://jobright.ai/jobs/info/67f04ba4f27be789d76bdbfb?utm_campaign=1065&utm_source=git)** | West Allis, WI | On Site | Apr 04 |
@@ -130,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/67f067ed60e8529beed57e0e?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Oscar Health](http://www.hioscar.com)** | **[Marketing Event Intern (Summer 2025)](https://jobright.ai/jobs/info/67f042693f474331a7051fd1?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa4?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
+| ↳ | **[Organic Social Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bbad?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baba?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa9?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Kirkland's](http://www.kirklands.com/)** | **[Intern, Merchandising](https://jobright.ai/jobs/info/67f04909b28d69b1ebfd546e?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Apr 04 |
-| **[Tombras](http://tombras.com)** | **[Organic Social Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1e13c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Commercial Engagement Intern - Summer 2025](https://jobright.ai/jobs/info/67e8cd0f4eca7d0e2218124d?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | Apr 04 |
 | **[Atlas](https://www.oneatlas.com)** | **[Proposal & Marketing Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1e16f?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bd7a?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deltek](http://www.deltek.com)** | **[Global Partners and Alliances Intern](https://jobright.ai/jobs/info/67f0287442f24bd57b0cf514?utm_campaign=1065&utm_source=git)** | US Remote | Remote | Apr 04 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f035ec4f5d2e802a159570?utm_campaign=1065&utm_source=git)** | Apex, NC | On Site | Apr 04 |
 | **[Green Bay Packaging](https://gbp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/67f029e688fc7e3c4175df12?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Apr 04 |
-| **[Campus](http://campus.edu)** | **[Community Management Intern](https://jobright.ai/jobs/info/67f071ed2aba6d8390038185?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Apr 04 |
-| ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/67f033e84f5d2e802a1591f7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| **[Nuvative](https://nuvative.com/)** | **[Marketing Intern (On-Site in Wichita, KS)](https://jobright.ai/jobs/info/67bd9d1cc881d0eb414b0d4d?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
