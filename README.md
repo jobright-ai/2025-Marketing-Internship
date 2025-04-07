@@ -68,7 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Atlas](http://www.atlascarpetmills.com)** | **[Proposal & Marketing Intern](https://jobright.ai/jobs/info/67f24a8a8b57874c41eef2c8?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 06 |
 | **[NVIDIA](https://www.nvidia.com)** | **[Technical Marketing Software Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67f205c368570be852bed4b9?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Apr 05 |
 | **[NetApp](http://netapp.com)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/67f1efc6656a4ffd1dc54e1b?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 05 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Summer 2025 Internship - Outlet Merchandising](https://jobright.ai/jobs/info/67d4d63445217a95fdedd5dc?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 05 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Summer 2025 Internship - Marketing](https://jobright.ai/jobs/info/67d4e65e6b716febb730dd78?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 05 |
+| ↳ | **[Summer 2025 Internship - Outlet Merchandising](https://jobright.ai/jobs/info/67d4d63445217a95fdedd5dc?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Apr 05 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/67eb5ca09e8948f3a00c64a9?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Apr 05 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/67cd5e396c7584d77c87aee0?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Apr 05 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern (Summer 2025)](https://jobright.ai/jobs/info/67f155bcefb8bc125ceaa2db?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Apr 05 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Nemours](http://www.nemours.org)** | **[Intern, YouTube Management](https://jobright.ai/jobs/info/67f08efa2965e48a70af8897?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Remote | Apr 04 |
 | ↳ | **[Intern, YouTube Management](https://jobright.ai/jobs/info/67f08efa2965e48a70af8898?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | Apr 04 |
 | ↳ | **[Intern, YouTube Management](https://jobright.ai/jobs/info/67f084045ce27685bc86aba6?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Apr 04 |
-| **[NVIDIA](https://www.nvidia.com)** | **[Technical Marketing Software Engineer Intern - Summer 2025](https://jobright.ai/jobs/info/67f07b19891bb3e00c0c8c3e?utm_campaign=1065&utm_source=git)** | US, CA, Santa Clara | On Site | Apr 04 |
 | **[Oracle](https://www.oracle.com/)** | **[eCommerce Analytics Intern](https://jobright.ai/jobs/info/67f07b19891bb3e00c0c8b7b?utm_campaign=1065&utm_source=git)** | United States | Remote | Apr 04 |
 | **[Now Foods](https://www.nowfoods.com)** | **[MARKETING INTERNSHIP](https://jobright.ai/jobs/info/67f084045ce27685bc86aae9?utm_campaign=1065&utm_source=git)** | Bloomingdale, IL | On Site | Apr 04 |
 | **[VML](https://www.vmlyr.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/67f08efa2965e48a70af843c?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Apr 04 |
@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Oscar Health](http://www.hioscar.com)** | **[Marketing Event Intern (Summer 2025)](https://jobright.ai/jobs/info/67f042693f474331a7051fd1?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Marketing Automation Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa4?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba99?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
-| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524ba88?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baba?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Organic Social Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bbad?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | ↳ | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524baa9?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atlas](https://www.oneatlas.com)** | **[Proposal & Marketing Intern](https://jobright.ai/jobs/info/67f0531c6abcbbdab9e1e16f?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Apr 04 |
 | **[Tombras](http://tombras.com)** | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524bd7a?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[PRA - Intern](https://jobright.ai/jobs/info/67f035cf1d9a7812443fd1d3?utm_campaign=1065&utm_source=git)** | US, Indianapolis IN | On Site | Apr 04 |
+| **[Tombras](http://tombras.com)** | **[Media Strategy Intern](https://jobright.ai/jobs/info/67f048b9e992d68e6524be3d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Apr 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
