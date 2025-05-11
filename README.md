@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Co-op, US Integrated Communications (NARS)](https://jobright.ai/jobs/info/6820d740f78ba7451bf18767?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
+| **[Dexter](https://www.dexteraxle.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6820b2bebf65f3ae8dcc7215?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | May 11 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/67118e7739924286b8f7ebb9?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | May 11 |
 | **[Labelmaster](http://labelmaster.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/681fca50c8fe606ffc1a2488?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 10 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Non-Workstudy) - Social Media](https://jobright.ai/jobs/info/681fbb7d596a0e356d3b1e5d?utm_campaign=1065&utm_source=git)** | Shelby, NC | On Site | May 10 |
@@ -108,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[PlanetArt](http://www.planetart.com)** | **[Junior Analyst Intern - Summer 2025](https://jobright.ai/jobs/info/681e719b971c20f91c80735f?utm_campaign=1065&utm_source=git)** | Calabasas, CA | Hybrid | May 09 |
 | **[San Francisco Giants](https://www.mlb.com/giants)** | **[High School Ambassador Program (San Francisco Giants)](https://jobright.ai/jobs/info/681e6c5a85f636d4fbf12659?utm_campaign=1065&utm_source=git)** | Oracle Park, SF | On Site | May 09 |
 | **[Precision Castparts](http://precast.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/681e6bc8ce8d927129d235f0?utm_campaign=1065&utm_source=git)** | Gardena, CA | On Site | May 09 |
-| **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/681e634c058dd30864938b21?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
-| ↳ | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/681e634c058dd30864938b22?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 09 |
+| **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/681e634c058dd30864938b22?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 09 |
+| ↳ | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/681e634c058dd30864938b21?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[Gallagher](http://www.ajg.com)** | **[Corporate Intern - Marketing](https://jobright.ai/jobs/info/681e62ff35aae1925ced663d?utm_campaign=1065&utm_source=git)** | Rolling Meadows, IL | Hybrid | May 09 |
 | **[Labelmaster](http://labelmaster.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/681e6139fe197e8114a24092?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 09 |
 | **[Sherwin-Williams](http://www.sherwin-williams.com)** | **[Creative Services Marketing Co-Op](https://jobright.ai/jobs/info/681e5f8e0015ed15b555d7e1?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | May 09 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Bio-Techne](https://www.bio-techne.com)** | **[Graduate Marketing Intern](https://jobright.ai/jobs/info/681e4af360906624f78f48b7?utm_campaign=1065&utm_source=git)** | US - Minnesota - Remote | Remote | May 09 |
 | **[Shiseido](http://www.shiseido.com/)** | **[Co-op, US Integrated Communications (NARS)](https://jobright.ai/jobs/info/681e47c67296f445ab6041b0?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 09 |
 | **[Framatome](http://www.framatome.com)** | **[Communications Intern](https://jobright.ai/jobs/info/681e47c67296f445ab60420d?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | On Site | May 09 |
-| **[MSCI Inc.](http://msci.com)** | **[Analytics Products Summer Intern Program](https://jobright.ai/jobs/info/681e4734d4df0c8ca8b416d8?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 09 |
 | **[Weaver](http://www.weaver.com)** | **[Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/681e42b44a7b2a0016b53344?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | May 09 |
 | ↳ | **[Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/681e42b44a7b2a0016b53342?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 09 |
 | **[NBCUniversal Telemundo Enterprises](http://www.nbcuniversal.com/)** | **[Telemundo Strategy & Insights Internships – Academic Year 2025-2026](https://jobright.ai/jobs/info/681e42b44a7b2a0016b5334a?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 09 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern, International](https://jobright.ai/jobs/info/681decdc3ef83d7e29ec35aa?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | May 09 |
 | **[Century Aluminum](http://www.centuryaluminum.com/)** | **[Communications Intern - Day Shift](https://jobright.ai/jobs/info/681ddfb341f3d1e02b377183?utm_campaign=1065&utm_source=git)** | Goose Creek, SC | On Site | May 09 |
 | **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Summer Intern](https://jobright.ai/jobs/info/681dd1e7f11ddefdce487f9b?utm_campaign=1065&utm_source=git)** | Oberlin, OH | On Site | May 09 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c046?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 09 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c19f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | May 09 |
+| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c046?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 09 |
 | ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c1a0?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | May 09 |
-| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c19f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | May 09 |
-| **[SS8 Networks](http://www.ss8.com)** | **[Summer Marketing Intern (Req ID: 2025-07)](https://jobright.ai/jobs/info/681dc89aee9e9d5294335c76?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
