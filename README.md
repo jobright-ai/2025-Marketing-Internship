@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NANA](http://www.nana.com)** | **[NANA SHAREHOLDER COLLEGE INTERNSHIP - NANA Regional Shareholder Relations Intern  Paid Internship](https://jobright.ai/jobs/info/682116c87368e46c6d0408dc?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | May 11 |
+| **[TikTok](https://www.tiktok.com)** | **[STRATEGIC OPERATIONS INTERN (TIKTOK-SEARCH GROWTH) - 2025 SUMMER (BS/MS)](https://jobright.ai/jobs/info/68212a8aefbb085758eabe3a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | May 11 |
+| ↳ | **[SELLER LIVE INTERN (TIKTOK SHOP - OPERATIONS) - 2025 PROJECT INTERN (BS/MS)](https://jobright.ai/jobs/info/68212fe133d68117dcab5079?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
+| ↳ | **[CREATOR NETWORK OPERATION INTERN (TIKTOK LIVE - AMS) - 2025 PROJECT INTERN(BS/MS)](https://jobright.ai/jobs/info/68212fe133d68117dcab4fca?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Intern](https://jobright.ai/jobs/info/682105eb4f484f0cf4b69b6c?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | May 11 |
 | **[NARS Cosmetics](https://www.narscosmetics.com/)** | **[Co-op, US Integrated Communications (NARS)](https://jobright.ai/jobs/info/6820d740f78ba7451bf18767?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 11 |
 | **[Dexter](https://www.dexteraxle.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6820b2bebf65f3ae8dcc7215?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | May 11 |
+| **[Leviton](https://www.leviton.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67e74609b861e03633dfef92?utm_campaign=1065&utm_source=git)** | Tualatin, OR | On Site | May 11 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/67118e7739924286b8f7ebb9?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | May 11 |
 | **[Labelmaster](http://labelmaster.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/681fca50c8fe606ffc1a2488?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 10 |
 | **[Gardner-Webb University](http://gardner-webb.edu)** | **[Student Employee (Non-Workstudy) - Social Media](https://jobright.ai/jobs/info/681fbb7d596a0e356d3b1e5d?utm_campaign=1065&utm_source=git)** | Shelby, NC | On Site | May 10 |
@@ -77,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Francisco](https://jobright.ai/jobs/info/681f22d935d2909f7a7b2599?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 10 |
 | **[Annalect](http://www.annalect.com)** | **[Intern, Marketing Science](https://jobright.ai/jobs/info/67e59f65eff21432b1199208?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[HealthNet](https://www.indyhealthnet.org/)** | **[Marketing Intern - Paid](https://jobright.ai/jobs/info/681f14cff3ded89d87d058f4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 10 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/681f03b5da72a6cff9bd5140?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 10 |
-| ↳ | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/681f03b5da72a6cff9bd5141?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | May 10 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/681f03b5da72a6cff9bd5141?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | May 10 |
+| ↳ | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/681f03b5da72a6cff9bd5140?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 10 |
 | **[Powerdata Group Consulting](https://www.powerdatagroup.com/)** | **[SEO Intern (Zoho One Experience Preferred)](https://jobright.ai/jobs/info/681ef59921585cbb4f1dba52?utm_campaign=1065&utm_source=git)** | Remote job | Remote | May 09 |
 | **[Enerpac Tool Group](https://www.enerpactoolgroup.com/)** | **[Corporate Communications Intern: Onsite Tue-Thur (20-25 hours)](https://jobright.ai/jobs/info/681db5403785a29c9a148a8e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | May 09 |
 | **[PDI Technologies](https://pditechnologies.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/681ee0b57bc45d1d6248dec3?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | May 09 |
@@ -99,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Colorado Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/67fe8d493dd028ff89c9d280?utm_campaign=1065&utm_source=git)** | Denver, CO | Remote | May 09 |
 | **[Infoblox](http://www.infoblox.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/681e8f1beae49dfdc17a136d?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | May 09 |
 | **[Getinge](https://www.getinge.com)** | **[Intern eCommerce Processing (Remote)](https://jobright.ai/jobs/info/681e8c74057301f6a1310ed9?utm_campaign=1065&utm_source=git)** | Merrimack, NH | Remote | May 09 |
-| **[Festo](https://www.festo.com/us/en)** | **[Marketing Project Management Intern](https://jobright.ai/jobs/info/681e8743add1c91299487157?utm_campaign=1065&utm_source=git)** | Islandia, NY | On Site | May 09 |
 | **[Astranis Space Technologies](http://www.astranis.com)** | **[Commercial Programs Intern 2025](https://jobright.ai/jobs/info/67a2b190353641a56190ccce?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | May 09 |
 | **[Motive](http://gomotive.com)** | **[Marketing Growth Intern](https://jobright.ai/jobs/info/681e82b5faf6573a2fc8714c?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | May 09 |
 | **[CORE (Community Organized Relief Effort)](https://www.coreresponse.org/)** | **[Intern](https://jobright.ai/jobs/info/681e82b5faf6573a2fc871c6?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | May 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bourns, Inc.](http://www.bourns.com/)** | **[Intern Industrial Marketing - So](https://jobright.ai/jobs/info/681df0824e08701b79239193?utm_campaign=1065&utm_source=git)** | Carrollton, TX | On Site | May 09 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68015f9679c5070a0f2f21e2?utm_campaign=1065&utm_source=git)** | Lake Forest, CA | On Site | May 09 |
 | **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern, International](https://jobright.ai/jobs/info/681decdc3ef83d7e29ec35aa?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | May 09 |
-| **[Century Aluminum](http://www.centuryaluminum.com/)** | **[Communications Intern - Day Shift](https://jobright.ai/jobs/info/681ddfb341f3d1e02b377183?utm_campaign=1065&utm_source=git)** | Goose Creek, SC | On Site | May 09 |
-| **[Oberlin College](http://new.oberlin.edu/office/creativity/funding-opportunities/launchu/)** | **[Summer Intern](https://jobright.ai/jobs/info/681dd1e7f11ddefdce487f9b?utm_campaign=1065&utm_source=git)** | Oberlin, OH | On Site | May 09 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c19f?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | May 09 |
-| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c046?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 09 |
-| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/681dcda862d386f4f3a3c1a0?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
