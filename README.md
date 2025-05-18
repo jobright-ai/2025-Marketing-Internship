@@ -57,17 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Chesmar Homes](https://chesmar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6829d056725f8824f34743bc?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 18 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6829d056725f8824f3474b14?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 18 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/682a2a4308279631304964fb?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | Hybrid | May 18 |
+| **[Rational 360](https://rational360.com)** | **[Digital Intern - Summer 2025 (On Site - Washington, DC)](https://jobright.ai/jobs/info/67d3020af9f189b19923628e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | May 18 |
+| **[Chesmar Homes](https://chesmar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6829d056725f8824f3474b14?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 18 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6829d056725f8824f34743bc?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 18 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6829c85e6bac78a57560d878?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | May 18 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/67117dced6c665625e816cac?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | May 18 |
+| **[EOSIS](https://www.meridianprograms.com/)** | **[Intern](https://jobright.ai/jobs/info/681ec5928319211b9d3fab3b?utm_campaign=1065&utm_source=git)** | Pine City, MN | On Site | May 18 |
 | **[D&A Communications](https://davisimpact.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68292ba89f694788dbe35950?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 17 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps San Diego Marketing Internship 2025-2026](https://jobright.ai/jobs/info/68290c92f78704c73027ecf4?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | May 17 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/680bbfde0fb0a5f473eda27e?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | May 17 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6825f097aa7a4b47ca9cfcb6?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 17 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Digital Marketing Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77dc70?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | May 17 |
 | **[Bel Fuse Inc.](https://belfuse.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68288f1570fc3fd5f1a29be3?utm_campaign=1065&utm_source=git)** | Lombard, IL | On Site | May 17 |
 | **[Notion](https://www.notion.so)** | **[Market Research Intern](https://jobright.ai/jobs/info/680c035bb1631c63370b3a51?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 17 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Summer Events Intern (Remote New York)](https://jobright.ai/jobs/info/67d1ffb8ebb20297f559506b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 17 |
+| **[KYOCERA Document Solutions America, Inc.](http://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing (Inkjet)](https://jobright.ai/jobs/info/680c0981b5da14e0bb922611?utm_campaign=1065&utm_source=git)** | Fairfield, NJ | On Site | May 17 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68048832493bc509aa13329f?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | May 17 |
 | **[Benchmark](http://www.bench.com)** | **[Marketing MBA Intern- Service Offering Strategy](https://jobright.ai/jobs/info/680bb3b794ee555fda0e0965?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | May 17 |
 | **[Nestlé](https://www.nestle.com)** | **[2025 Diversity Leadership Symposium: 2026 Nestlé USA Marketing Development Program](https://jobright.ai/jobs/info/68287974b564dce7fb5ddefe?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | May 17 |
@@ -102,12 +107,12 @@ For a complete list, click the following sortable link below:
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Search Engine Optimization Intern](https://jobright.ai/jobs/info/6827d239bc6f0fad8b8f1f69?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 16 |
 | **[Golin](http://golin.com/)** | **[Golin Corporate Affairs Internship Program (June-September)](https://jobright.ai/jobs/info/6827cebcbbd08ef404ea8a6a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
 | **[Level AI](https://thelevel.ai)** | **[Product Marketing Manager Internship](https://jobright.ai/jobs/info/68229a9d38ae31349b5d6dfd?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 16 |
-| **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6827c8854df6e152749ae8c2?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
+| **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6827c8854df6e152749ae95c?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 16 |
 | **[Risepoint](http://www.risepoint.com)** | **[Marketing Strategy & Operations Intern (Graduate Students, Full-Time Only)](https://jobright.ai/jobs/info/6827c56351356c318e41849b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | **[Golin](http://golin.com/)** | **[Corporate Marketing Graduate Internship (Aug - Dec 2025)](https://jobright.ai/jobs/info/6827c56351356c318e4184a3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c9b?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
-| ↳ | **[Intern - Experiential Marketing](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42dd5?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
+| **[Havas Media Network](https://havasmedianetwork.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42dd6?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
+| ↳ | **[Intern - Experiential Marketing](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c4b?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
 | **[Crawford & Company](https://www.crawco.com)** | **[Intern](https://jobright.ai/jobs/info/680a94aababbb5867a579916?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 16 |
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6827b7f5bd5be4826b2b4b19?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
 | **[UPS](http://www.ups.com)** | **[Communications Co-Op](https://jobright.ai/jobs/info/680b7d8063e8f2311a126712?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 16 |
@@ -134,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[The Mullings Group](http://mullingsgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6827714b96cbb135148df451?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | On Site | May 16 |
 | **[The Consumer Goods Forum](https://www.theconsumergoodsforum.com/)** | **[Communications & Events Intern](https://jobright.ai/jobs/info/68276d1f77245bdb29a28bc5?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | May 16 |
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/67eefe2d0f19392fa3d88537?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 16 |
+| **[Genesys](http://www.genesys.com)** | **[Marketing Campaigns Intern](https://jobright.ai/jobs/info/682586343b3dcd1499410a7c?utm_campaign=1065&utm_source=git)** | Indiana, United States | Hybrid | May 16 |
 | **[ASSOULINE](http://www.assouline.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68276aa44e101e689f41b5a0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 16 |
 | **[Bonterra](https://www.bonterratech.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/682760d2b19f2ea32e96c042?utm_campaign=1065&utm_source=git)** | Remote, United States | Hybrid | May 16 |
 | **[Century Aluminum](http://www.centuryaluminum.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68275ec48095d1362781732f?utm_campaign=1065&utm_source=git)** | Robards, KY | On Site | May 16 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | **[TCG](http://tcg.co/)** | **[Classic Football Shirts - Summer Intern](https://jobright.ai/jobs/info/682744a94cb6b1810f34899e?utm_campaign=1065&utm_source=git)** | Playa Vista, CA | Hybrid | May 16 |
 | **[Osmosis.org from Elsevier](https://www.osmosis.org/)** | **[Osmosis Health Leadership Initiative (Formerly OMEF)](https://jobright.ai/jobs/info/682744a94cb6b1810f348a1d?utm_campaign=1065&utm_source=git)** | Anywhere | On Site | May 16 |
 | **[Axiad](https://www.axiad.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/682744a94cb6b1810f3487fb?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | May 16 |
-| **[Motive: A Project WorldWide Agency](http://thinkmotive.com/)** | **[BRAND BUILDERS LAB: CONTENT PRODUCTION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7d?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
-| ↳ | **[BRAND BUILDERS LAB: DIGITAL INNOVATION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7b?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
+| **[Motive: A Project WorldWide Agency](http://thinkmotive.com/)** | **[BRAND BUILDERS LAB: DIGITAL INNOVATION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7b?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
+| ↳ | **[BRAND BUILDERS LAB: CONTENT PRODUCTION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7d?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
 | **[Escalon Services](https://escalon.services/)** | **[Social Media Internship – B2B Focus (Remote / Part-time)](https://jobright.ai/jobs/info/682734fb75da82242a2cc6cc?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
-| ↳ | **[HubSpot Specialist Internship – CRM and Marketing Automation (Remote / Part-time)](https://jobright.ai/jobs/info/682734fb75da82242a2cc6ce?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
-| **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/67edf85735572b54dbbcf662?utm_campaign=1065&utm_source=git)** | Foster City, CA | On Site | May 16 |
-| **[Prime Group Holdings, LLC](https://www.goprimegroup.com//)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6827301c3b881dd86407d607?utm_campaign=1065&utm_source=git)** | Saratoga Springs, NY | On Site | May 16 |
-| **[UPS](http://www.ups.com)** | **[Communications Co-Op](https://jobright.ai/jobs/info/680ef4cdca93b57576f1aced?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 16 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67edc7eb1e8061bc1be083ba?utm_campaign=1065&utm_source=git)** | Mt. Laurel, NJ | On Site | May 16 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2025 Intern - Biotech Investor Relations](https://jobright.ai/jobs/info/67d22d1662cd8f53805fdedc?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
