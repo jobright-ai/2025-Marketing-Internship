@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[D&A Communications](https://davisimpact.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68292ba89f694788dbe35950?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | May 17 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[HealthCorps San Diego Marketing Internship 2025-2026](https://jobright.ai/jobs/info/68290c92f78704c73027ecf4?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | May 17 |
 | **[ECRS (ECR Software Corporation)](https://www.ecrs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6828f57a5d9b23f746f288f0?utm_campaign=1065&utm_source=git)** | Boone, NC | On Site | May 17 |
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6825f097aa7a4b47ca9cfcb6?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | May 17 |
@@ -97,11 +98,11 @@ For a complete list, click the following sortable link below:
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Search Engine Optimization Intern](https://jobright.ai/jobs/info/6827d239bc6f0fad8b8f1f69?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | May 16 |
 | **[Golin](http://golin.com/)** | **[Golin Corporate Affairs Internship Program (June-September)](https://jobright.ai/jobs/info/6827cebcbbd08ef404ea8a6a?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
 | **[Level AI](https://thelevel.ai)** | **[Product Marketing Manager Internship](https://jobright.ai/jobs/info/68229a9d38ae31349b5d6dfd?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | May 16 |
-| **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6827c8854df6e152749ae94b?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
+| **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/6827c8854df6e152749ae8c2?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 16 |
 | **[Risepoint](http://www.risepoint.com)** | **[Marketing Strategy & Operations Intern (Graduate Students, Full-Time Only)](https://jobright.ai/jobs/info/6827c56351356c318e41849b?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | **[Golin](http://golin.com/)** | **[Corporate Marketing Graduate Internship (Aug - Dec 2025)](https://jobright.ai/jobs/info/6827c56351356c318e4184a3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 16 |
-| **[Havas Media Network](https://havasmedianetwork.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c9b?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
+| **[Havas Media Network](https://havasmedianetwork.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42dd6?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
 | ↳ | **[Intern - Experiential Marketing](https://jobright.ai/jobs/info/6827bc600ffaf1a39dc42c4b?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | May 16 |
 | **[Crawford & Company](https://www.crawco.com)** | **[Intern](https://jobright.ai/jobs/info/680a94aababbb5867a579916?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | May 16 |
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6827b7f5bd5be4826b2b4b19?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 16 |
@@ -144,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[TCG](http://tcg.co/)** | **[Classic Football Shirts - Summer Intern](https://jobright.ai/jobs/info/682744a94cb6b1810f34899e?utm_campaign=1065&utm_source=git)** | Playa Vista, CA | Hybrid | May 16 |
 | **[Osmosis.org from Elsevier](https://www.osmosis.org/)** | **[Osmosis Health Leadership Initiative (Formerly OMEF)](https://jobright.ai/jobs/info/682744a94cb6b1810f348a1d?utm_campaign=1065&utm_source=git)** | Anywhere | On Site | May 16 |
 | **[Axiad](https://www.axiad.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/682744a94cb6b1810f3487fb?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Hybrid | May 16 |
-| **[Motive: A Project WorldWide Agency](http://thinkmotive.com/)** | **[BRAND BUILDERS LAB: DIGITAL INNOVATION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7b?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
-| ↳ | **[BRAND BUILDERS LAB: CONTENT PRODUCTION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7d?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
+| **[Motive: A Project WorldWide Agency](http://thinkmotive.com/)** | **[BRAND BUILDERS LAB: CONTENT PRODUCTION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7d?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
+| ↳ | **[BRAND BUILDERS LAB: DIGITAL INNOVATION ](https://jobright.ai/jobs/info/68273ed9d42970b14ab08f7b?utm_campaign=1065&utm_source=git)** | Denver | On Site | May 16 |
 | **[Escalon Services](https://escalon.services/)** | **[Social Media Internship – B2B Focus (Remote / Part-time)](https://jobright.ai/jobs/info/682734fb75da82242a2cc6cc?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | ↳ | **[HubSpot Specialist Internship – CRM and Marketing Automation (Remote / Part-time)](https://jobright.ai/jobs/info/682734fb75da82242a2cc6ce?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | **[Mirum Pharmaceuticals, Inc.](https://mirumpharma.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/67edf85735572b54dbbcf662?utm_campaign=1065&utm_source=git)** | Foster City, CA | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DrFirst, Inc.](http://drfirst.com)** | **[Intern, Marketing Data AI](https://jobright.ai/jobs/info/680a926754fc6ced8a73f586?utm_campaign=1065&utm_source=git)** | United States | Remote | May 16 |
 | **[Vituity](https://www.vituity.com)** | **[Intern - College - Growth & Analytics - Remote - Nationwide](https://jobright.ai/jobs/info/680a2bcdb2fb77fdec8a7816?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | May 16 |
 | **[Terrasmart](https://www.terrasmart.com)** | **[Marketing Intern (Paid Internship)](https://jobright.ai/jobs/info/6826eebae85c96b248a6091f?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | On Site | May 16 |
-| **[M.M.LaFleur](http://mmlafleur.com)** | **[Brand and Retail Marketing Intern](https://jobright.ai/jobs/info/6826e1bf450fc0b6b85b342b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
