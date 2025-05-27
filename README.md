@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum Worldwide](http://www.momentumww.com)** | **[Campus Ambassador](https://jobright.ai/jobs/info/68358848fa8a32692d93df4f?utm_campaign=1065&utm_source=git)** | United States of America | On Site | May 27 |
+| **[SentinelOne](http://www.sentinelone.com)** | **[Singularity AI SIEM - PMM Intern](https://jobright.ai/jobs/info/683583a62c053d3649c906fe?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | May 27 |
+| ↳ | **[Marketing Operations Intern](https://jobright.ai/jobs/info/683583a62c053d3649c907ae?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | May 27 |
+| ↳ | **[Product Marketing, Managed Threat Services Intern](https://jobright.ai/jobs/info/683583a62c053d3649c9077b?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | May 27 |
+| ↳ | **[Talent Brand Intern](https://jobright.ai/jobs/info/683583a62c053d3649c90721?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | May 27 |
+| **[MoneyLion](http://www.moneylion.com)** | **[Product Marketplace Intern- Summer 2025 ](https://jobright.ai/jobs/info/68358270bf5efb7f27c807d4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 27 |
+| ↳ | **[Lifecycle Marketing Intern- Summer 2025 ](https://jobright.ai/jobs/info/68358270bf5efb7f27c807e4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 27 |
+| ↳ | **[Content Marketing Intern- Summer 2025 ](https://jobright.ai/jobs/info/68358270bf5efb7f27c80824?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | May 27 |
 | **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/68352e553f98d6166e922456?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 26 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Channel Marketing Specialist](https://jobright.ai/jobs/info/6834f1e24392ce721e52f839?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | May 26 |
 | **[PriceSenz](https://www.pricesenz.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68347e9f09a9e529667ca22c?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 26 |
@@ -84,23 +92,22 @@ For a complete list, click the following sortable link below:
 | **[HERE Technologies](https://www.here.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/683457cd98d886914f2cca07?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | May 24 |
 | **[Wellness Pet Company](https://www.wellnesspet.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6815339d8b489a6aef634eb9?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | May 24 |
 | **[Everspring](http://everspringpartners.com)** | **[Product Marketing Manager - B2B](https://jobright.ai/jobs/info/6831a2fa1403ca65cf7f221b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 24 |
+| **[Legends](http://legends.net)** | **[SEO Intern](https://jobright.ai/jobs/info/68140e9f397f749da2447aa9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | May 24 |
 | **[Allstate](http://www.allstate.com)** | **[Marketing Apprenticeship Program - Data Analytics](https://jobright.ai/jobs/info/6833fa8d4eabc08bdc090bc4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/67f8924fbd654d7d02d6adfb?utm_campaign=1065&utm_source=git)** | New Jersey, United States | On Site | May 23 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern](https://jobright.ai/jobs/info/6832a0d644d48b1e7d6ac15f?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | On Site | May 23 |
 | **[Vial](https://vial.com)** | **[Marketing Intern (United States)](https://jobright.ai/jobs/info/683129d257f96f53b5b08fb5?utm_campaign=1065&utm_source=git)** | United States | Hybrid | May 23 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Intern - Seminaries and Institutes of Religion](https://jobright.ai/jobs/info/6831183b0057accbb6272b7b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | May 23 |
 | **[Navvis (healthcare)](https://www.navvishealthcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6813cd4578d1b65a02a012a1?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | May 23 |
-| **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/683107a8dd430d64b4817104?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | May 23 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68294942006d6b3957244cfe?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | May 23 |
 | **[Vial](https://vial.com)** | **[Marketing Intern (United States)](https://jobright.ai/jobs/info/6830e0bb453414b63c3db411?utm_campaign=1065&utm_source=git)** | United States | Hybrid | May 23 |
 | **[SimplyHome](https://www.simplyrent.com)** | **[Market Intelligence Intern - Summer 2025](https://jobright.ai/jobs/info/6830db285d982a9491d7782c?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | May 23 |
 | **[ImageTrend](http://www.imagetrend.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6830db285d982a9491d777f7?utm_campaign=1065&utm_source=git)** | Eagan, MN | Remote | May 23 |
-| **[Bacardi](https://www.bacardilimited.com/)** | **[Patron Marketing Intern](https://jobright.ai/jobs/info/6830d20caf165100ccb7bd8f?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 23 |
-| ↳ | **[Bacardi Marketing Intern](https://jobright.ai/jobs/info/6830d20caf165100ccb7bd88?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 23 |
+| **[Bacardi](https://www.bacardilimited.com/)** | **[Bacardi Marketing Intern](https://jobright.ai/jobs/info/6830d20caf165100ccb7bd88?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 23 |
+| ↳ | **[Patron Marketing Intern](https://jobright.ai/jobs/info/6830d20caf165100ccb7bd8f?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | May 23 |
 | **[BD](https://www.bd.com)** | **[Marketing Intern – PureWick Portfolio](https://jobright.ai/jobs/info/6830c50d65e989526cac526f?utm_campaign=1065&utm_source=git)** | Covington, GA | On Site | May 23 |
 | **[Pilot.com](https://pilot.com)** | **[Go-to-Market (GTM) Intern](https://jobright.ai/jobs/info/6830bd57a0916eec299daa91?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | May 23 |
 | **[Golin](http://golin.com/)** | **[Chicago Summer Internship Program - Sports (June-September 2025)](https://jobright.ai/jobs/info/6830bd57a0916eec299daab5?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | May 23 |
-| **[Enovis](https://enovis.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/6830b5c0160125abe6c22332?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | May 23 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Graduate Development Program, Consumer Marketing (Full-Time Internship) - New York Spring 2025](https://jobright.ai/jobs/info/67f74427bcfd3f134df7956b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | May 23 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Marketing Intern (NYSBA)](https://jobright.ai/jobs/info/68141e7f10464c2853d04b38?utm_campaign=1065&utm_source=git)** | Colchester, VT | On Site | May 23 |
 | **[Tractorbeam](https://tractorbeam.com/)** | **[SEO Intern](https://jobright.ai/jobs/info/68314403eb65ab4fdb8e6a9b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | May 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Media Marketing Intern, Global Digital Marketing – Summer 2025](https://jobright.ai/jobs/info/682f698c911e15ae2919b93d?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | May 22 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/6834a53ef9a4fae4956e5584?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Singularity AI SIEM - PMM Intern](https://jobright.ai/jobs/info/682f5b0d79e4578a654532b4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/681da8c424314fb162677133?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/682f58cc87af641003f9fde1?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| ↳ | **[Talent Brand Intern](https://jobright.ai/jobs/info/682f58cc87af641003f9fdf8?utm_campaign=1065&utm_source=git)** | United States | Remote | May 22 |
-| **[Porsche Cars North America](http://www.porscheusa.com)** | **[Intern, Motorsport & Communities](https://jobright.ai/jobs/info/682f58a2715b8bf649e46656?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | May 22 |
-| **[UVA Health](https://www.uvahealth.com)** | **[Athletic Communications Intern (Staff  and Student Wage)](https://jobright.ai/jobs/info/682f56da75c563e0937505b0?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | May 22 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/682f501b9f538661daa6e3de?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | May 22 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/682f501b9f538661daa6e310?utm_campaign=1065&utm_source=git)** | Davis, CA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
