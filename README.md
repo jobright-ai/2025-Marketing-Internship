@@ -57,36 +57,36 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primerica](https://www.primerica.com)** | **[OCO-2025-13i - Spark Communications and Outreach Intern](https://jobright.ai/jobs/info/683aef4f197d350446b9d5dd?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | May 31 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Athletics Game Day & Venue Marketing Intern / Part-Time / Ryan Center and Boss Ice Arena (U of Rhode Island)](https://jobright.ai/jobs/info/683ace1ad35354969cd86117?utm_campaign=1065&utm_source=git)** | Kingston, RI | On Site | May 31 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/683a9c0a70ff09f53ec7db3b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | May 30 |
 | **[Community Coffee](http://www.communitycoffee.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/683a7a57fe7f370bada7959f?utm_campaign=1065&utm_source=git)** | Athens, GA | Hybrid | May 30 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d3096053816e5?utm_campaign=1065&utm_source=git)** | New Orleans, LA, USA | Hybrid | May 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d309605381690?utm_campaign=1065&utm_source=git)** | Dallas, TX, USA | Hybrid | May 30 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d3096053816e5?utm_campaign=1065&utm_source=git)** | New Orleans, LA, USA | Hybrid | May 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d3096053816e3?utm_campaign=1065&utm_source=git)** | Austin, TX, USA | Hybrid | May 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d3096053816e6?utm_campaign=1065&utm_source=git)** | Athens, GA, USA | Hybrid | May 30 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/683a65a2bb0d3096053816e4?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA, USA | Hybrid | May 30 |
 | **[Toyota North America](https://www.toyota.com/usa/operations/map/tcal)** | **[Brand Engagement Center (BEC) Advocate](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b421?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | May 30 |
 | **[PLACE](https://www.place.com)** | **[Social Media Manager - INTERN](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b468?utm_campaign=1065&utm_source=git)** | Hesperia, CA | On Site | May 30 |
+| **[Integrated Real Estate Group ](https://www.integratedreg.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b5f2?utm_campaign=1065&utm_source=git)** | Southlake, TX | On Site | May 30 |
 | **[Apex Order Pickup Solutions](https://apexorderpickup.com)** | **[On Campus Marketing Associate (Internship)](https://jobright.ai/jobs/info/683a648d24b1d2d95fb5b5c4?utm_campaign=1065&utm_source=git)** | United States | Remote | May 30 |
-| **[Integrated Real Estate Group ](https://www.integratedreg.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/683a53e010b95a64a2750e6f?utm_campaign=1065&utm_source=git)** | Southlake, TX | On Site | May 30 |
-| ↳ | **[Social Media & Marketing Automation Internship](https://jobright.ai/jobs/info/683a53e010b95a64a2750ebc?utm_campaign=1065&utm_source=git)** | Southlake, TX | On Site | May 30 |
+| **[Integrated Real Estate Group ](https://www.integratedreg.com/)** | **[Social Media & Marketing Automation Internship](https://jobright.ai/jobs/info/683a53e010b95a64a2750ebc?utm_campaign=1065&utm_source=git)** | Southlake, TX | On Site | May 30 |
 | **[Kate Somerville Skincare](http://www.katesomerville.com)** | **[PR and Influencer Marketing Intern](https://jobright.ai/jobs/info/683a44dc3e25c0c5f43645fa?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | May 30 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Twin Cities Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/683a3eb5ed34bb2251d3462b?utm_campaign=1065&utm_source=git)** | St Paul, MN | Remote | May 30 |
 | **[American Specialty Health](https://www.ashcompanies.com)** | **[Marketing Intern II (Hybrid - San Diego, CA)](https://jobright.ai/jobs/info/683a3aebe164f3f9bcde97a4?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | May 30 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Twin Cities Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/683a59be9f02644afac3c43f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Remote | May 30 |
-| **[AdventHealth](https://www.adventhealth.com/)** | **[Marketing Public Relations Intern PRN](https://jobright.ai/jobs/info/683a17f6d89a70870b344d49?utm_campaign=1065&utm_source=git)** | ADVENTHEALTH PORT CHARLOTTE2500 HARBOR BLVD | On Site | May 30 |
-| ↳ | **[Marketing Public Relations Intern PRN](https://jobright.ai/jobs/info/683a17f6d89a70870b344fe2?utm_campaign=1065&utm_source=git)** | US-FL-Port Charlotte | On Site | May 30 |
+| **[AdventHealth](https://www.adventhealth.com/)** | **[Marketing Public Relations Intern PRN](https://jobright.ai/jobs/info/683a17f6d89a70870b344fe2?utm_campaign=1065&utm_source=git)** | US-FL-Port Charlotte | On Site | May 30 |
+| ↳ | **[Marketing Public Relations Intern PRN](https://jobright.ai/jobs/info/683a17f6d89a70870b344d49?utm_campaign=1065&utm_source=git)** | ADVENTHEALTH PORT CHARLOTTE2500 HARBOR BLVD | On Site | May 30 |
 | **[Wheels, LLC](https://www.wheels.com)** | **[Summer Employee - Marketing](https://jobright.ai/jobs/info/683a174493f88b606b501ad0?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | May 30 |
 | ↳ | **[Summer Employee - Marketing](https://jobright.ai/jobs/info/683a174493f88b606b501874?utm_campaign=1065&utm_source=git)** | Des Plaines, IL | On Site | May 30 |
-| **[BuzzFeed](https://www.buzzfeed.com)** | **[BuzzFeed.com Viral Fellow](https://jobright.ai/jobs/info/683a16945b67c303ed2f13c2?utm_campaign=1065&utm_source=git)** | United States | On Site | May 30 |
-| ↳ | **[BuzzFeed.com SEO Fellow](https://jobright.ai/jobs/info/683a16945b67c303ed2f13ab?utm_campaign=1065&utm_source=git)** | United States | On Site | May 30 |
+| **[BuzzFeed](https://www.buzzfeed.com)** | **[BuzzFeed.com SEO Fellow](https://jobright.ai/jobs/info/683a16945b67c303ed2f13ab?utm_campaign=1065&utm_source=git)** | United States | On Site | May 30 |
 | ↳ | **[BuzzFeed.com SEO Fellow](https://jobright.ai/jobs/info/683a16945b67c303ed2f13d2?utm_campaign=1065&utm_source=git)** | United States | On Site | May 30 |
-| **[Golin](http://golin.com/)** | **[Dallas Summer Internship Program (June-September 2025)](https://jobright.ai/jobs/info/683a14cf8e8a422be2f9e9db?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | May 30 |
+| ↳ | **[BuzzFeed.com Viral Fellow](https://jobright.ai/jobs/info/683a16945b67c303ed2f13c2?utm_campaign=1065&utm_source=git)** | United States | On Site | May 30 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Marketing Communications Manager](https://jobright.ai/jobs/info/683a118c95793c98b8127ac0?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | May 30 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2025 - USTA Foundation (New York)](https://jobright.ai/jobs/info/683a118c95793c98b8127dad?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | May 30 |
 | **[Inventive AI](https://www.inventive.ai)** | **[Content Writer (Freelancer / Intern) ](https://jobright.ai/jobs/info/683a04efef8356c3e9c3828c?utm_campaign=1065&utm_source=git)** | United States | Remote | May 30 |
-| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Fundraising Events and Streaming Intern](https://jobright.ai/jobs/info/6839f935cf3d7369af57868a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 30 |
-| ↳ | **[Development Operations Intern](https://jobright.ai/jobs/info/6839f935cf3d7369af5786e4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 30 |
+| **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Development Operations Intern](https://jobright.ai/jobs/info/6839f935cf3d7369af5786e4?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 30 |
+| ↳ | **[Fundraising Events and Streaming Intern](https://jobright.ai/jobs/info/6839f935cf3d7369af57868a?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | May 30 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2025: Consumer Insights Co-op (July to December) ](https://jobright.ai/jobs/info/6839f81fa0d504ba1f3fb7c0?utm_campaign=1065&utm_source=git)** | Needham, MA, United States | On Site | May 30 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Life Reporting Intern](https://jobright.ai/jobs/info/6839f6b8321ef8d44ce922f8?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | May 30 |
 | **[LAZ Parking](https://www.lazparking.com)** | **[Marketing Intern - New York, NY](https://jobright.ai/jobs/info/6823e4885477a27952f3aefd?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | May 30 |
