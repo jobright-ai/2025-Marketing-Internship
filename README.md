@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Internal Communications & Corporate Responsibility Ascend Intern](https://jobright.ai/jobs/info/6844e8334e7900c6d814573b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jun 07 |
 | **[Octagon](http://www.octagon.com/)** | **[Trainee, Brand Campaigns (Financial Services Client) ](https://jobright.ai/jobs/info/6844b8333ee43011ba17ec27?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 07 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec3a?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/6844509471c7a276a9364637?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jun 07 |
-| ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609e1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | ↳ | **[Searchlight International Marketing & Media Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609df?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jun 07 |
+| ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609e1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68442e89c71eb2df0a7bebff?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[Risepoint](http://www.risepoint.com)** | **[Marketing Strategy & Operations Intern (Current MBA Students, Only)](https://jobright.ai/jobs/info/68442e5e116c2314fc71736e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2025 Intern - Biotech Investor Relations](https://jobright.ai/jobs/info/67d22d1662cd8f53805fdedc?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
@@ -71,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2025 Co-op - SEO, Content, and Creative Operations](https://jobright.ai/jobs/info/6843cf291fabb3b0984b4850?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Jun 06 |
 | ↳ | **[Summer 2025 Co-Op – Communications](https://jobright.ai/jobs/info/6843cf291fabb3b0984b4851?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Jun 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Summer Intern / Part-Time / Enmarket Arena](https://jobright.ai/jobs/info/6843b8b9b35f005424a8356c?utm_campaign=1065&utm_source=git)** | Savannah, GA | On Site | Jun 06 |
-| **[Ziff Davis](https://www.ziffdavis.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6843ade083290673a85199b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 06 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6843ade083290673a85199a5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 06 |
+| **[Ziff Davis](https://www.ziffdavis.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6843ade083290673a85199a5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jun 06 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6843ade083290673a85199b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/681ecd4dedfa1844722c5a93?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jun 06 |
 | **[Octagon](http://www.octagon.com/)** | **[Trainee, Marketing and Communications Assistant (Events)](https://jobright.ai/jobs/info/6843ac7a7b010a54997851f8?utm_campaign=1065&utm_source=git)** | Cary, NC | Hybrid | Jun 06 |
 | ↳ | **[Trainee, Brand Campaigns (Financial Services Client)](https://jobright.ai/jobs/info/6843a99ce23410728835f510?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Jun 06 |
@@ -93,17 +94,17 @@ For a complete list, click the following sortable link below:
 | **[Orion Health](http://www.orionhealth.com)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/68434926e9dcf338e1cbf11c?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Jun 06 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - MCS](https://jobright.ai/jobs/info/684423c36c9d0813c4e9f62d?utm_campaign=1065&utm_source=git)** | Paramus, NJ | On Site | Jun 06 |
 | **[Vonage](http://www.vonage.com)** | **[Apps BU Marketing Intern](https://jobright.ai/jobs/info/6843447e0cf5aeb76600c12b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight International Marketing & Media Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/68434144021c6ae3617f020e?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jun 06 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/68434144021c6ae3617f0204?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jun 06 |
 | ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/68434144021c6ae3617f0229?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jun 06 |
-| ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/68434144021c6ae3617f0204?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jun 06 |
-| **[Elekta](http://elekta.com/)** | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552d?utm_campaign=1065&utm_source=git)** | Washington - Home Based | Remote | Jun 06 |
+| ↳ | **[Searchlight International Marketing & Media Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/68434144021c6ae3617f020e?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Jun 06 |
+| **[Elekta](http://elekta.com/)** | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552b?utm_campaign=1065&utm_source=git)** | St. Charles - Home Based | Remote | Jun 06 |
 | ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de5530?utm_campaign=1065&utm_source=git)** | Arizona - Home Based | Remote | Jun 06 |
 | ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552e?utm_campaign=1065&utm_source=git)** | Texas - Home Based | Remote | Jun 06 |
 | ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552c?utm_campaign=1065&utm_source=git)** | Florida - Home Based | Remote | Jun 06 |
-| ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552a?utm_campaign=1065&utm_source=git)** | Georgia - Home Based | Remote | Jun 06 |
-| ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552b?utm_campaign=1065&utm_source=git)** | St. Charles - Home Based | Remote | Jun 06 |
 | ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de50a6?utm_campaign=1065&utm_source=git)** | Atlanta - Home Based | Remote | Jun 06 |
 | ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552f?utm_campaign=1065&utm_source=git)** | Louisiana - Home Based | Remote | Jun 06 |
+| ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552d?utm_campaign=1065&utm_source=git)** | Washington - Home Based | Remote | Jun 06 |
+| ↳ | **[Marketing Ops Ex & Events Intern- Remote](https://jobright.ai/jobs/info/68433d14f0482b9d99de552a?utm_campaign=1065&utm_source=git)** | Georgia - Home Based | Remote | Jun 06 |
 | **[D&A Communications](https://davisimpact.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68433a790c4aef4333b0f145?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 06 |
 | **[Legends](http://legends.net)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/684336d3dd7812a8d8e73cdf?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 06 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68447c47aa33553a992d0977?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Jun 06 |
@@ -123,21 +124,21 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Survivor Network Intern - Fall 2025](https://jobright.ai/jobs/info/6824930f9ed948cd7d4af9bb?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 06 |
 | **[Qualtrics](http://www.qualtrics.com)** | **[Social Media Intern - Organic Global Brand](https://jobright.ai/jobs/info/68269c5840d2b037b7b7c2c3?utm_campaign=1065&utm_source=git)** | Provo, UT | Hybrid | Jun 06 |
 | **[Boston Public Health Commission](http://www.bphc.org/Pages/default.aspx)** | **[Center for Behavioral Health and Wellness Intern](https://jobright.ai/jobs/info/68441aae615c8f9b45e4f7db?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Strategy, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e49?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| ↳ | **[Internship – Market Research, New Ventures Location Based Entertainment (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e44?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| ↳ | **[Internship – Social Media Content Creation (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e35?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Market Research, New Ventures Location Based Entertainment (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e44?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
+| ↳ | **[Internship – Digital Strategy, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e49?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 | ↳ | **[Internship – Direct Digital Marketing, Digital Technology (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62def?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| **[United Talent Agency](http://www.unitedtalent.com)** | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/6842a944ede2108159f62f09?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 06 |
-| ↳ | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/6842a944ede2108159f62e27?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 06 |
+| ↳ | **[Internship – Social Media Content Creation (Spring 2026)](https://jobright.ai/jobs/info/6842a944ede2108159f62e35?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
+| **[United Talent Agency](http://www.unitedtalent.com)** | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/6842a944ede2108159f62e27?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 06 |
+| ↳ | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/6842a944ede2108159f62f09?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 06 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Data Science, Marketing (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa3638?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| ↳ | **[Internship – Marketing, New Ventures (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa3591?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
 | ↳ | **[Internship – Public Relations (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa3634?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Event Management (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d10a5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
-| ↳ | **[Internship – Digital Asset Librarian, Global Marketing Platform (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d1064?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| ↳ | **[Internship – Marketing, New Ventures (Spring 2026)](https://jobright.ai/jobs/info/68429501e9520a51adaa3591?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 06 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Digital Asset Librarian, Global Marketing Platform (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d1064?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
+| ↳ | **[Internship – Event Management (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d10a5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | ↳ | **[Internship – Digital Media Ad Operations (Spring 2026)](https://jobright.ai/jobs/info/6842903c3bad3e85088d100c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
 | ↳ | **[Internship – Area Merchandising (Spring 2026)](https://jobright.ai/jobs/info/6842beea730820da024d6ef5?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jun 05 |
-| **[United Talent Agency](http://www.unitedtalent.com)** | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/68427c61bd60625926425d95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
-| ↳ | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/68427c61bd60625926425e34?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 05 |
+| **[United Talent Agency](http://www.unitedtalent.com)** | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/68427c61bd60625926425e34?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 05 |
+| ↳ | **[January 2026 – Marketing & Brand Partnerships Training Program](https://jobright.ai/jobs/info/68427c61bd60625926425d95?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 05 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Marketing and Editorial Intern, James Patterson](https://jobright.ai/jobs/info/6842534bf0df6eb0416cacd0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
 | **[Framatome](http://www.framatome.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68424ea32b95c941446a774c?utm_campaign=1065&utm_source=git)** | Christiansburg, VA | On Site | Jun 05 |
 | **[Creator Deck](https://www.creatordeck.com/)** | **[SOCIAL MEDIA & INFLUENCER MARKETING INTERNSHIP](https://jobright.ai/jobs/info/68424ea32b95c941446a78b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of La Verne](http://laverne.edu)** | **[NFWS - Office of Admission Social Media Specialist 2025-2026 (Student)](https://jobright.ai/jobs/info/6841efe6cd01cd7733145bdf?utm_campaign=1065&utm_source=git)** | La Verne, CA | On Site | Jun 05 |
 | **[The Asian American Foundation](https://www.taaf.org/)** | **[Summer 2025 Internship in Digital Marketing](https://jobright.ai/jobs/info/6841d4ef84dc13dd0e3e5336?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
 | **[MathWorks](http://www.mathworks.com)** | **[California State University Long Beach MATLAB Ambassador](https://jobright.ai/jobs/info/67544d0fb178f92341752632?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 05 |
-| **[Autism Speaks](https://www.autismspeaks.org/)** | **[Summer Events Intern (Remote New York)](https://jobright.ai/jobs/info/67d1ffb8ebb20297f559506b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
