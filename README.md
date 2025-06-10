@@ -58,9 +58,10 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Ocean County College](http://www.ocean.edu/)** | **[Communications Intern](https://jobright.ai/jobs/info/6847f9b8aa78f02c60fd8c28?utm_campaign=1065&utm_source=git)** | Toms River, NJ | On Site | Jun 10 |
+| **[MathWorks](http://www.mathworks.com)** | **[Brigham Young University MATLAB Student Ambassador](https://jobright.ai/jobs/info/679d60a8a033b5bbc5ef3b85?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 10 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Summer 2025 - Enrollment Services Communications Intern](https://jobright.ai/jobs/info/6847af755eb9aa8caa3b85d8?utm_campaign=1065&utm_source=git)** | South Orange, NJ | On Site | Jun 09 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern- Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/684796a4bdfa7e461906e85b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
-| ↳ | **[Part Time Paid Intern – Youth Social Media Writer](https://jobright.ai/jobs/info/684796a4bdfa7e461906e810?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time Paid Intern – Youth Social Media Writer](https://jobright.ai/jobs/info/684796a4bdfa7e461906e810?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
+| ↳ | **[Paid Intern- Youth Social Media (Strive to Be) Content Creator](https://jobright.ai/jobs/info/684796a4bdfa7e461906e85b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
 | **[Liberty University](https://www.liberty.edu/?acode=C00288&utm_source=LinkedIn&utm_medium=Profile&utm_campaign=main_social)** | **[Summer Temp Social Media Scheduler](https://jobright.ai/jobs/info/6847922ba9fa5005649cb392?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | On Site | Jun 09 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Market Strategy Intern](https://jobright.ai/jobs/info/68478c93f76396f59fb383e7?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 09 |
 | **[Hudl](http://www.hudl.com)** | **[Marketing Intern - Elite](https://jobright.ai/jobs/info/68478c93f76396f59fb381e8?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jun 09 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern – Liahona Digital Content](https://jobright.ai/jobs/info/68473c2b38f28f5b481b789a?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 09 |
 | **[KSB US](https://www.ksb.com/en-us/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68473c2b38f28f5b481b787b?utm_campaign=1065&utm_source=git)** | Grovetown, GA | Hybrid | Jun 09 |
 | **[Interactions LLC](http://www.interactions.com)** | **[Marketing - Summer 2025](https://jobright.ai/jobs/info/68473c2b38f28f5b481b771f?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Jun 09 |
-| **[CBIZ](http://www.cbiz.com)** | **[Marketing Intern / 2025](https://jobright.ai/jobs/info/68473c2b38f28f5b481b77b0?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Jun 09 |
 | **[DuPont](http://www.dupont.com)** | **[Fall 2025 Marketing Co-op.](https://jobright.ai/jobs/info/6847361f79d64e83c0ac5e74?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Jun 09 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2025 Marketing and Publicity Intern, Union Square & Co.](https://jobright.ai/jobs/info/684734b03b4bb73bd22c08bb?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jun 09 |
 | **[DuPont](http://www.dupont.com)** | **[Fall 2025 Marketing Co-op](https://jobright.ai/jobs/info/684743588094490ec27ef291?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jun 09 |
@@ -123,14 +123,15 @@ For a complete list, click the following sortable link below:
 | **[Circle K](http://www.circlek.com)** | **[Merchandise Intern](https://jobright.ai/jobs/info/68458cd86b7acb80c9e77b82?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Jun 08 |
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Digital Marketing Intern](https://jobright.ai/jobs/info/680bc91a968f71640d77dc70?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 08 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/680bbfde0fb0a5f473eda27e?utm_campaign=1065&utm_source=git)** | Bethesda, MD | On Site | Jun 08 |
+| **[AARP](http://www.aarp.org)** | **[Communications and Volunteer Engagement Intern](https://jobright.ai/jobs/info/68282c3e331ecd74c67267dd?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jun 08 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/67eec162357dc4681d864267?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | On Site | Jun 08 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 07 |
 | **[Octagon](http://www.octagon.com/)** | **[Trainee, Brand Campaigns (Financial Services Client) ](https://jobright.ai/jobs/info/6844b8333ee43011ba17ec27?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 07 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 07 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6827d87e558ed52b2b9aec3a?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jun 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/6844509471c7a276a9364637?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jun 07 |
-| ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609e1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | ↳ | **[Searchlight International Marketing & Media Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609df?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jun 07 |
+| ↳ | **[Searchlight Publicity Intern, Fall 2025](https://jobright.ai/jobs/info/684448923d03d2e1104609e1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68442e89c71eb2df0a7bebff?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 07 |
 | **[Risepoint](http://www.risepoint.com)** | **[Marketing Strategy & Operations Intern (Current MBA Students, Only)](https://jobright.ai/jobs/info/68442e5e116c2314fc71736e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 07 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Summer 2025 Intern - Biotech Investor Relations](https://jobright.ai/jobs/info/67d22d1662cd8f53805fdedc?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Precision Castparts](http://precast.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/68260c24d57fb3ccb3124dc9?utm_campaign=1065&utm_source=git)** | Gardena, CA | On Site | Jun 06 |
 | **[Podium](https://www.podium.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68436d89c4a53756c57d3684?utm_campaign=1065&utm_source=git)** | Lehi, Utah | On Site | Jun 06 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/684367bc69e5d4d066fd2f9e?utm_campaign=1065&utm_source=git)** | Fullerton, CA | On Site | Jun 06 |
-| **[Carrum Health](https://www.carrumhealth.com)** | **[Growth Team Summer Internship](https://jobright.ai/jobs/info/68434f6e2737abba8d975950?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Jun 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
