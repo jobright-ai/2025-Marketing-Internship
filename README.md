@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New World Application Design & Development](https://www.newworldnow.com/)** | **[Social Media Content Creation Intern](https://jobright.ai/jobs/info/685268c0251c2028caf068f8?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 18 |
+| **[CourseCareers](http://coursecareers.com)** | **[Reddit Marketing Intern](https://jobright.ai/jobs/info/685268c0251c2028caf068d8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jun 18 |
 | **[DreamWorks Animation](https://www.madoohd.com/)** | **[TV Marketing Intern, DreamWorks, Fall 2025](https://jobright.ai/jobs/info/68526748c541543641ee238f?utm_campaign=1065&utm_source=git)** | 1000 Flower St, Glendale, CALIFORNIA | On Site | Jun 18 |
 | **[Union Public Schools](http://www.unionps.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/68523d7955ceed42753a5f49?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 17 |
 | **[Ornua](http://www.ornua.com/#)** | **[Senior Associate Brand Manager](https://jobright.ai/jobs/info/685223796b7901e216c34a78?utm_campaign=1065&utm_source=git)** | Evanston, IL | On Site | Jun 17 |
@@ -69,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/685213561ee98eeb35712479?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Jun 17 |
 | **[American University](http://american.edu)** | **[Social Media and Communications Assistant, Politics, Governance, and Economics (Student)](https://jobright.ai/jobs/info/685213561ee98eeb357125a0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jun 17 |
 | **[Krupp Group](https://www.kruppgroup.com/)** | **[VIP Public Relations Intern](https://jobright.ai/jobs/info/68520fa497a02bd43a988e6e?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Hybrid | Jun 17 |
+| **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Events Internship](https://jobright.ai/jobs/info/685268c0251c2028caf0696f?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
 | **[Multiquip Inc.](http://multiquip.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/68520aed984cbc321bb59ca4?utm_campaign=1065&utm_source=git)** | Cypress, Ca | On Site | Jun 17 |
 | **[Dolby Laboratories](http://www.dolby.com)** | **[E-Retail Marketing Intern](https://jobright.ai/jobs/info/68520626db5513fbb925e32b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 17 |
 | **[Calvary Chapel Fort Lauderdale](https://calvaryftl.org)** | **[Event Set-Up Internship: Facilities](https://jobright.ai/jobs/info/68526105327493acee7185ee?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Jun 17 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Groundswell](https://gswell.com)** | **[Capture Analyst Intern](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c0675?utm_campaign=1065&utm_source=git)** | McLean, VA | Hybrid | Jun 17 |
 | **[Ingram Content Group](http://ingramcontent.com)** | **[Internship](https://jobright.ai/jobs/info/6851c6f4201c6124a771692b?utm_campaign=1065&utm_source=git)** | 14 Ingram Blvd, La Vergne, TN 37086, USA | On Site | Jun 17 |
 | **[Fresenius Medical Care](https://www.freseniusmedicalcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6851c6f4201c6124a771686f?utm_campaign=1065&utm_source=git)** | Waltham, MA, USA | On Site | Jun 17 |
-| **[Elevance Health](https://www.elevancehealth.com)** | **[Provider Relations Internship](https://jobright.ai/jobs/info/6851c6f4201c6124a7716890?utm_campaign=1065&utm_source=git)** | TX-HOUSTON, 5959 CORPORATE DR, STE 1300 | On Site | Jun 17 |
-| ↳ | **[Provider Relations Internship](https://jobright.ai/jobs/info/6851c6f4201c6124a7716c0b?utm_campaign=1065&utm_source=git)** | TX-GRAND PRAIRIE, 2505 N HWY 360, STE 300 | On Site | Jun 17 |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Provider Relations Internship](https://jobright.ai/jobs/info/6851c6f4201c6124a7716c0b?utm_campaign=1065&utm_source=git)** | TX-GRAND PRAIRIE, 2505 N HWY 360, STE 300 | On Site | Jun 17 |
+| ↳ | **[Provider Relations Internship](https://jobright.ai/jobs/info/6851c6f4201c6124a7716890?utm_campaign=1065&utm_source=git)** | TX-HOUSTON, 5959 CORPORATE DR, STE 1300 | On Site | Jun 17 |
 | **[Marketbridge](http://www.market-bridge.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6852342b819d04343944d161?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jun 17 |
 | **[Stony Brook Medicine](https://www.stonybrookmedicine.edu/sbuh)** | **[Internal Communications Specialist - Per Diem](https://jobright.ai/jobs/info/6851c33b64f4aa94cc71e16e?utm_campaign=1065&utm_source=git)** | East Setauket, NY | On Site | Jun 17 |
 | **[WP Engine](http://africancentury.wpengine.com/)** | **[Marketing Internship, Internal Communication](https://jobright.ai/jobs/info/6851bf6cd428035bc9b4753c?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Jun 17 |
@@ -121,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[City of Alexandria, Virginia](https://www.alexandriava.gov/)** | **[Special Events & Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b892?utm_campaign=1065&utm_source=git)** | Venice, FL | On Site | Jun 16 |
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6850b4580062ff9d1c07b991?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 16 |
 | **[Loop Earplugs](https://www.loopearplugs.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6850b271740bdb6692048c0b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jun 16 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6850b271740bdb6692048d31?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6850b271740bdb6692048d20?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jun 16 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6850b271740bdb6692048d20?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jun 16 |
+| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6850b271740bdb6692048d31?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 16 |
 | **[Leland](https://www.joinleland.com)** | **[Writing & Editing Intern](https://jobright.ai/jobs/info/6851e90394de0179998d10a3?utm_campaign=1065&utm_source=git)** | Remote - USA | Remote | Jun 16 |
 | **[CourseCareers](http://coursecareers.com)** | **[Reddit Marketing Intern](https://jobright.ai/jobs/info/68520aed984cbc321bb59cdd?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Jun 16 |
 | **[DIG.](https://www.diginn.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68509d0c567857423163d668?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Jun 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KIPP NYC](http://www.kippnyc.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/684f69a69239a8b4e137fa1d?utm_campaign=1065&utm_source=git)** | Tulsa, OK, USA | On Site | Jun 15 |
 | **[Kaufman Rossin](http://kaufmanrossin.com)** | **[Web Marketing Intern - Summer 2025](https://jobright.ai/jobs/info/684f3b83773ea9681f123e44?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Jun 15 |
 | **[Empire Management](https://empiremanagement.com)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/684f728c0a96f83445b55739?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jun 15 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Intern- Fall 2025](https://jobright.ai/jobs/info/684ed81544f8ae30125d5792?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jun 15 |
-| **[Hotwire](https://www.hotwireglobal.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/684b7b16062c6b8b7aced0ad?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 15 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/67a18237d23c085bed6a523a?utm_campaign=1065&utm_source=git)** | Oro Valley, AZ | On Site | Jun 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
