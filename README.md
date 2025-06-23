@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Observer Media](https://www.observermedia.com/)** | **[SOCIAL MEDIA MARKETING INTERNSHIPS](https://jobright.ai/jobs/info/68588904636bc390d7558290?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 22 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68579d66aa781dcf32fe9f07?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jun 21 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Special Events Fall Intern (St. Louis, MO)](https://jobright.ai/jobs/info/6857549c63e58a3e0c61ee68?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Jun 21 |
 | **[Hudl](http://www.hudl.com)** | **[Marketing Intern - Elite](https://jobright.ai/jobs/info/6856c71e8f6299c845bb5307?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jun 21 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Intern, Events](https://jobright.ai/jobs/info/6855e78122c43f279cb2515d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jun 20 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[General Business Intern](https://jobright.ai/jobs/info/6855e78122c43f279cb2514b?utm_campaign=1065&utm_source=git)** | Apex, NC | On Site | Jun 20 |
 | **[Smart Meetings](http://www.smartmeetings.com/)** | **[Marketing Intern - Paid Internship](https://jobright.ai/jobs/info/6855e4a6ee5f3a74d46ce81c?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jun 20 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Social Media)](https://jobright.ai/jobs/info/6855dcf03c3931121eaf626e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 20 |
 | **[Gibraltar Industries](http://www.gibraltar1.com)** | **[Marketing Intern FALL 2025 (Paid Internship)](https://jobright.ai/jobs/info/6855d7fef4d0eb15880f642c?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | On Site | Jun 20 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Social Media)](https://jobright.ai/jobs/info/6855d6d9424fbd23f4c002c5?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 20 |
 | **[Anheuser-Busch](https://sternbeverage.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/6855d4478e85ee6fbc08f708?utm_campaign=1065&utm_source=git)** | St. Louis, Missouri | On Site | Jun 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Integrated Marketing Communications](https://jobright.ai/jobs/info/68003b542517a87a7a66943a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 20 |
 | **[Bureau Veritas Group](https://group.bureauveritas.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6855bc5690528a0f6536148f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 20 |
@@ -122,10 +123,11 @@ For a complete list, click the following sortable link below:
 | **[Performant Healthcare, Inc. ](http://www.performantcorp.com/)** | **[Intern Digitial Marketing](https://jobright.ai/jobs/info/681c146b943a3b00e360426f?utm_campaign=1065&utm_source=git)** | Plantation, FL | On Site | Jun 19 |
 | **[Zipcar](http://www.zipcar.com)** | **[Digital Marketing Co-Op](https://jobright.ai/jobs/info/6854d78eb7b32860f7601d5f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 19 |
 | **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Social Media Assistant (Fall 2025)](https://jobright.ai/jobs/info/6855a7b2eb8282c0118862d7?utm_campaign=1065&utm_source=git)** | Kalispell, MT | On Site | Jun 19 |
+| **[Kate Somerville Skincare](http://www.katesomerville.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67f7b24c0bb3f8b39a3c5dbc?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jun 19 |
 | **[Fortis Capital Advisors](https://www.fortiscapitaladvisors.com/)** | **[M&A Marketing Intern](https://jobright.ai/jobs/info/68549f2d5eed717bde47e50a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 19 |
 | **[IDEX Corporation](http://www.idexcorp.com)** | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/685493fe3f4a98c649c81a87?utm_campaign=1065&utm_source=git)** | Shelby, North Carolina | On Site | Jun 19 |
-| ↳ | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/685493fe3f4a98c649c819f2?utm_campaign=1065&utm_source=git)** | Ocala, Florida | On Site | Jun 19 |
 | ↳ | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/685493fe3f4a98c649c81a86?utm_campaign=1065&utm_source=git)** | Wooster, Ohio | On Site | Jun 19 |
+| ↳ | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/685493fe3f4a98c649c819f2?utm_campaign=1065&utm_source=git)** | Ocala, Florida | On Site | Jun 19 |
 | **[Steel Technologies](http://www.steeltechnologies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/685475cf61ede5bdda4f1ea9?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jun 19 |
 | **[Continental](https://www.continental.com)** | **[Intern - Marketing Communication](https://jobright.ai/jobs/info/685474bd45df573993f82530?utm_campaign=1065&utm_source=git)** | Fairlawn, OH | On Site | Jun 19 |
 | **[Bowling Green State University](http://www.bgsu.edu/)** | **[Social Media Intern](https://jobright.ai/jobs/info/685472bfc6136d77c4fe8fa4?utm_campaign=1065&utm_source=git)** | Bowling Green, OH | On Site | Jun 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing Intern, Gourmet Dining / Montclair State University](https://jobright.ai/jobs/info/685365622894593b762e8431?utm_campaign=1065&utm_source=git)** | Montclair, NJ | On Site | Jun 18 |
 | **[KQED](http://www.kqed.org)** | **[Development Analytics Intern](https://jobright.ai/jobs/info/68535f3a4ba8dddb03724e7e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 18 |
 | **[Follett Higher Education](http://www.follett.com)** | **[Student Marketing Director](https://jobright.ai/jobs/info/6853eb96963664268c62c007?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Jun 18 |
-| **[Kiewit](http://www.kiewit.com)** | **[Market Analyst Co-Op - Industrial Business Development (Summer/Fall 2025)](https://jobright.ai/jobs/info/6853595028132085650894f7?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jun 18 |
-| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing Intern / Compass One Healthcare, Corporate (IMMEDIATE OPPORTUNITY)](https://jobright.ai/jobs/info/6853eb96963664268c62c2a1?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
