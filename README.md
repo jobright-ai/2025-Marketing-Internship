@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Goddard School](http://goddardschool.com)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/685de4091361d54b63c99f93?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | Hybrid | Jun 26 |
+| **[Shop LC](https://www.shoplc.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/685de4091361d54b63c9a130?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jun 26 |
+| **[Life Services Alternatives](https://www.lsahomes.org)** | **[Marketing and Outreach Intern](https://jobright.ai/jobs/info/685dc7523aa0305d210243d4?utm_campaign=1065&utm_source=git)** | Campbell, CA | Hybrid | Jun 26 |
+| **[Stealth Startup](https://www.claimbrite.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/685dbe030bc32cf36de53cd1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
+| **[Create Music Group](https://www.createmusicgroup.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/685db93cebb2cfbfca29d275?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
+| **[Brown & Brown](http://www.bbinsurance.com/)** | **[Intern](https://jobright.ai/jobs/info/685db0ade59184cc073340bc?utm_campaign=1065&utm_source=git)** | Barre, VT, USA | On Site | Jun 26 |
+| **[Roar Media](http://roarmedia.com)** | **[Internship Program / Account Services](https://jobright.ai/jobs/info/685dacf692471452f2c9e96a?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Remote | Jun 26 |
+| **[AAON, Inc.](https://www.aaon.com)** | **[High School Intern - Marketing](https://jobright.ai/jobs/info/685da42649a6591f72aa95e2?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Jun 26 |
 | **[Roar Media](http://roarmedia.com)** | **[Internship Program / Social Media](https://jobright.ai/jobs/info/685d9875b4b079eea36de623?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Remote | Jun 26 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Event Planning Associate (INTERNSHIP)](https://jobright.ai/jobs/info/685d93688b653ad0ec8f5dd7?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | On Site | Jun 26 |
 | **[Xylem](http://www.xylem.com)** | **[Marketing Intern - Treatment](https://jobright.ai/jobs/info/685d9193bc34124007b221a1?utm_campaign=1065&utm_source=git)** | Roseville, MN | On Site | Jun 26 |
@@ -64,14 +72,16 @@ For a complete list, click the following sortable link below:
 | **[Bobcat Company](https://www.bobcat.com)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/685d7e8bf53c5c34c3a77801?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Jun 26 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing Student Associate (Open to work study and non-work study)](https://jobright.ai/jobs/info/685d76a9fe79d35d9c32bec7?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Jun 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Sales, Content & Communications](https://jobright.ai/jobs/info/6823650311403870983117c0?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | Jun 26 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Jun 26 |
 | **[Thales](http://www.thalesgroup.com)** | **[Communications & Marketing Coordinator (Internship)](https://jobright.ai/jobs/info/685d5781dfa3424013cd3a09?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jun 26 |
 | **[Encompass Solutions, Inc.](https://www.encompass-inc.com)** | **[Marketing Admin Intern](https://jobright.ai/jobs/info/685d4ef996f55a1abe1575f6?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Jun 26 |
 | **[Worksome](http://www.worksome.com)** | **[Editorial & Content Marketing Intern](https://jobright.ai/jobs/info/685d4917fe4937d00d0c8c21?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jun 26 |
-| **[We. Communications](https://www.we-worldwide.com)** | **[Fall 2025 Public Relations Internship Program: We. Consumer and Technology Sectors](https://jobright.ai/jobs/info/6840aef3082e6f11fc71d0c3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
+| **[We. Communications](https://www.we-worldwide.com)** | **[Fall 2025 Public Relations Internship Program: We. Consumer and Technology Sectors](https://jobright.ai/jobs/info/6840a8b5eaee8e3271169cd7?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jun 26 |
+| ↳ | **[Fall 2025 Public Relations Internship Program: We. Consumer and Technology Sectors](https://jobright.ai/jobs/info/6840aef3082e6f11fc71d0c3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
+| ↳ | **[Fall 2025 Public Relations Internship Program: Microsoft Commercial and Consumer Experience](https://jobright.ai/jobs/info/6840a8b5eaee8e3271169cdb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | ↳ | **[Fall 2025 Public Relations Internship Program: Health](https://jobright.ai/jobs/info/6840a8b5eaee8e32711698f9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Florida MATLAB Student Ambassador](https://jobright.ai/jobs/info/6752f871e4dfea73c999391a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 26 |
 | **[NVIDIA](https://www.nvidia.com)** | **[GeForce Technical Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/685ce9346c68dadaca311492?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jun 25 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Integrated Marketing Communications](https://jobright.ai/jobs/info/685ce8c4a7e85aaa43447a3b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 25 |
 | **[Maharishi International University](https://www.miu.edu/)** | **[FWS Esports Social Media Coordinator - Spring 2025](https://jobright.ai/jobs/info/685cd2b542570c0594bf5361?utm_campaign=1065&utm_source=git)** | Fairfield, IA | On Site | Jun 25 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/685cc1ca08dabe25c3cbcf87?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 25 |
 | **[ZEISS Group](http://www.zeiss.com)** | **[Product Marketing Management Intern](https://jobright.ai/jobs/info/685cbe6763b0952b2b395a28?utm_campaign=1065&utm_source=git)** | Dublin, CA | On Site | Jun 25 |
@@ -94,28 +104,30 @@ For a complete list, click the following sortable link below:
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-Time Intern, Social Media and Digital Marketing UP](https://jobright.ai/jobs/info/685d219b13e97b6671e2166e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 25 |
 | **[TEAM](http://www.weareteam.com)** | **[PT Brand Influencer (Temporary)](https://jobright.ai/jobs/info/685c4cae50b333c4aba83063?utm_campaign=1065&utm_source=git)** | US-GA-Athens | On Site | Jun 25 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[Vokey Brand and Digital Marketing Intern](https://jobright.ai/jobs/info/685c4b95dcd532b2511fb715?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Jun 25 |
+| **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern FL](https://jobright.ai/jobs/info/6851cef7fe2edaf8853c094d?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jun 25 |
 | **[ABB](https://global.abb/group/en)** | **[Product Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/685c4b028146ebc0b1c380ae?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Jun 25 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Corporate Communications and Events Intern](https://jobright.ai/jobs/info/685c495a5279b12c1551b8c7?utm_campaign=1065&utm_source=git)** | Versailles, OH | On Site | Jun 25 |
 | **[Tombras](http://tombras.com)** | **[SEO Intern](https://jobright.ai/jobs/info/685c466bb6b7da28132730f8?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Organic Social Intern](https://jobright.ai/jobs/info/685c466bb6b7da281327312c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Marketing Automation Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273120?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Media Strategy Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273134?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| ↳ | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273108?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | ↳ | **[Influencer Intern](https://jobright.ai/jobs/info/685c466bb6b7da2813273111?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | ↳ | **[Influencer Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1accf?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Sonic Social Media Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1ace1?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Organic Social Intern](https://jobright.ai/jobs/info/685c3faa3fe0619ea0a1acd6?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | Hybrid | Jun 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - HanaHaus Social Media & Events](https://jobright.ai/jobs/info/685c3a0858e84e5f80f6666e?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Hybrid | Jun 25 |
 | **[Sleeper](https://sleeper.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6823e16a59fcce5395c77ba6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 25 |
-| **[Tombras](http://tombras.com)** | **[Media Strategy Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d843?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
-| ↳ | **[Marketing Automation Intern](https://jobright.ai/jobs/info/685c55c1d305f2473e54d88c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Jun 25 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2025 Marketing Administrative Internship - NYC](https://jobright.ai/jobs/info/685c539ab5b7e2563b98b003?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[Empire Management](https://empiremanagement.com)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/685c2dbe06f58cf5752d5ef9?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jun 25 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Corporate Communications and Events Intern](https://jobright.ai/jobs/info/685c2aa5616f5ea62539a0c6?utm_campaign=1065&utm_source=git)** | 60 Vista Dr, Versailles, OH, 45380, US | On Site | Jun 25 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall 2025 Marketing Administrative Internship - NYC](https://jobright.ai/jobs/info/685c26d20a8889bf2fe35844?utm_campaign=1065&utm_source=git)** | New York City M&S | On Site | Jun 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685c225bf1e10bde997f7ad9?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Jun 25 |
-| **[L'Oréal](https://www.loreal.com)** | **[Internship - Brand Management Maybelline](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6b2?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
+| **[L'Oréal](https://www.loreal.com)** | **[Internship - Digital Marketing Luxe](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6b9?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
+| ↳ | **[Internship - Consumer Market Insights](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6d4?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
 | ↳ | **[Internship - Brand Management L'Oréal Paris](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6d1?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
 | ↳ | **[Internship - Corporate Communication](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6d5?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
-| ↳ | **[Internship - Consumer Market Insights](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6d4?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
+| ↳ | **[Internship - Brand Management Maybelline](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6b2?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
 | ↳ | **[Internship - Brand Management Luxe](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6bd?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
-| ↳ | **[Internship - Digital Marketing Luxe](https://jobright.ai/jobs/info/685c0c0cb8df91edf8f9a6b9?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jun 25 |
 | **[pSemi, A Murata Company](http://www.psemi.com)** | **[Intern, Marketing Communications - Summer 2025](https://jobright.ai/jobs/info/685c0544f03a1e146890f09b?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jun 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba915?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jun 25 |
 | ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685c1d82a8a6c7ad69aba916?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jun 25 |
@@ -134,27 +146,15 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Communications and Marketing](https://jobright.ai/jobs/info/685b8ab7f7639ad5a6af7aa9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 24 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Kendall](https://jobright.ai/jobs/info/685b8ab7f7639ad5a6af7aab?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Jun 24 |
 | **[Scrollmark](https://www.dropyacht.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/685ba46d033503c7e8ee96d3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 24 |
-| **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6470?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6472?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6473?utm_campaign=1065&utm_source=git)** | Findlay, OH | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6471?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646f?utm_campaign=1065&utm_source=git)** | Lafayette, IN | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab62df?utm_campaign=1065&utm_source=git)** | Brookings, SD | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646c?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646e?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | On Site | Jun 24 |
+| **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6473?utm_campaign=1065&utm_source=git)** | Findlay, OH | On Site | Jun 24 |
 | ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646d?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f17?utm_campaign=1065&utm_source=git)** | Martin, TN | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f1d?utm_campaign=1065&utm_source=git)** | Commerce, TX | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f1c?utm_campaign=1065&utm_source=git)** | Huntington, WV | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f1a?utm_campaign=1065&utm_source=git)** | Spokane, WA | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f0b?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f15?utm_campaign=1065&utm_source=git)** | Cleveland, TN | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f16?utm_campaign=1065&utm_source=git)** | Ada, OH | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f10?utm_campaign=1065&utm_source=git)** | Las Cruces, NM | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f11?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681a7b?utm_campaign=1065&utm_source=git)** | Troy, AL | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646f?utm_campaign=1065&utm_source=git)** | Lafayette, IN | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646c?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6471?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab646e?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6472?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab62df?utm_campaign=1065&utm_source=git)** | Brookings, SD | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b709d32e431c1ccab6470?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Jun 24 |
 | ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f18?utm_campaign=1065&utm_source=git)** | Greater Birmingham, Alabama Area | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f14?utm_campaign=1065&utm_source=git)** | Jonesboro, AR | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f13?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Jun 24 |
-| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b95932a7b7eb029a03c1f?utm_campaign=1065&utm_source=git)** | Warrensburg, MO | On Site | Jun 24 |
+| ↳ | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/685b67c16e69f66aa2681f16?utm_campaign=1065&utm_source=git)** | Ada, OH | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
