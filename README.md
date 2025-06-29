@@ -57,20 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Commit Partnership](https://commitpartnership.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec0d3?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 28 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Marketing and Digital Media Internship – Fall 2025](https://jobright.ai/jobs/info/68609c1fb31dbf1fd70ae9d7?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6860474a67a03319a0973dca?utm_campaign=1065&utm_source=git)** | Evansville, IN | On Site | Jun 28 |
-| **[Skin Gym](https://www.skingymco.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68600e2073120b61d8a1c12e?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 28 |
 | **[Vonage](http://www.vonage.com)** | **[Apps BU Marketing Intern](https://jobright.ai/jobs/info/6847c4919740695882690a3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jun 28 |
 | **[Copart](http://www.copart.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/680aa6302760d72f0b15a459?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 28 |
+| **[Framatome](http://www.framatome.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6860cf285c6acfa855f09a9f?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | On Site | Jun 28 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68442e89c71eb2df0a7bebff?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 28 |
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Technical (Off-Campus) - Spring Eternal](https://jobright.ai/jobs/info/685fe2195bb5d4ca5f78a5d7?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Jun 28 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Fall 2025 Internship](https://jobright.ai/jobs/info/685fbde799bdaff4bed71a73?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jun 28 |
+| **[M365Connect](https://www.m365connect.com)** | **[AI Content & Copywriting Internship](https://jobright.ai/jobs/info/6860cf285c6acfa855f09af1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jun 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Content Intern, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83a8f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jun 27 |
 | **[Hypothesis Group](https://www.hypothesisgroup.com)** | **[Market Research Intern - Fall 2025](https://jobright.ai/jobs/info/685f4ee826684de5750b49a9?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 27 |
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Digital Marketing Trainee](https://jobright.ai/jobs/info/685f6fd5dda593694d529589?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 27 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[Frisco Bowl Marketing and Digital Media Internship – Fall 2025](https://jobright.ai/jobs/info/68606ee41c7f09befeea7f2e?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Jun 27 |
-| **[MathWorks](http://www.mathworks.com)** | **[Louisiana State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d29a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
 | ↳ | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
-| ↳ | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
+| ↳ | **[Louisiana State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d29a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Marketing Operation Intern](https://jobright.ai/jobs/info/685f33a5fe1c349374a2607e?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 27 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of California, Los Angeles MATLAB Ambassador](https://jobright.ai/jobs/info/685f33a5fe1c349374a260ff?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
 | **[Sales Gravy | Sell More](http://www.salesgravy.com/)** | **[Social Media Marketing Assistant/Intern](https://jobright.ai/jobs/info/685f2ce913fddba5d339d716?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Jun 27 |
@@ -96,7 +98,9 @@ For a complete list, click the following sortable link below:
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[Social Media Marketing Intern - Hybrid](https://jobright.ai/jobs/info/685e59bd1f4dc47bc8a3173c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | Jun 27 |
 | **[Upward Engine](https://www.seowerkz.com/)** | **[Digital Marketing Strategist- Intern (part time leading to full time)](https://jobright.ai/jobs/info/685e50e4ea767a925e54de34?utm_campaign=1065&utm_source=git)** | Riverton, UT | On Site | Jun 27 |
 | **[Octagon](http://www.octagon.com/)** | **[Trainee, Brand Campaigns (Financial Services Client)](https://jobright.ai/jobs/info/685e441dd10a4579e61d8dfc?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jun 27 |
+| **[Veolia North America](http://growingblue.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6841ba56bb24ae68030fadf3?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 26 |
 | **[Dignity Health](https://www.dignityhealth.org)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/685e3b6d5589a324a49383fb?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jun 26 |
+| **[Framatome](http://www.framatome.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6860e36beec56cab8c0ec15c?utm_campaign=1065&utm_source=git)** | Christiansburg, VA | On Site | Jun 26 |
 | **[M365Connect](https://www.m365connect.com)** | **[AI Content & Copywriting Internship](https://jobright.ai/jobs/info/685e71b2c726c93959c28f98?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/685e13f358de3cb82c1ea922?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jun 26 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/685dfe3bbee2fb40984e7f8c?utm_campaign=1065&utm_source=git)** | Abilene, TX | On Site | Jun 26 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Public Relations Internship Program: Health](https://jobright.ai/jobs/info/6840a8b5eaee8e32711698f9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Florida MATLAB Student Ambassador](https://jobright.ai/jobs/info/6752f871e4dfea73c999391a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 26 |
 | **[Stolle Machinery Company LLC](https://www.stollemachinery.com)** | **[Marketing Manager](https://jobright.ai/jobs/info/685e759128e7759c4bdefb77?utm_campaign=1065&utm_source=git)** | Centennial, CO | On Site | Jun 26 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/682389ca40a9b9be73611f78?utm_campaign=1065&utm_source=git)** | Palm Beach Gardens, FL | On Site | Jun 26 |
 | **[NVIDIA](https://www.nvidia.com)** | **[GeForce Technical Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/685ce9346c68dadaca311492?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jun 25 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/685cc1ca08dabe25c3cbcf87?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jun 25 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Public Relations Fall 2025 Internship](https://jobright.ai/jobs/info/685cbe6763b0952b2b395b2f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jun 25 |
 | **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/6860afe2b37c6cb1b5aed9e6?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Jun 25 |
 | **[Behavioral Health Network, Inc (BHN)](https://www.bhninc.org/)** | **[Marketing Internship](https://jobright.ai/jobs/info/685ca45da29f87dcb3e0151e?utm_campaign=1065&utm_source=git)** | Springfield, Massachusetts Metropolitan Area | On Site | Jun 25 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Publicity Intern (Multicultural)](https://jobright.ai/jobs/info/685cc73555ca884380a3088c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 25 |
-| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Content Discovery Intern](https://jobright.ai/jobs/info/685c92e0405e076a68e992bf?utm_campaign=1065&utm_source=git)** | Alberta, AL | On Site | Jun 25 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/685c902321c80253fe8aada3?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jun 25 |
-| **[Brigham Young University](https://byu.edu)** | **[Social Media Specialist](https://jobright.ai/jobs/info/685c8ccdf6dc724097690985?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Jun 25 |
-| **[TLC Engineering Solutions](https://www.tlc-engineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/685c821b32650b9a77290384?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
