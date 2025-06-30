@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Provider Relations Internship](https://jobright.ai/jobs/info/6861f38243cf8a227e880b9e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jun 29 |
+| ↳ | **[Provider Relations Internship](https://jobright.ai/jobs/info/6861f38243cf8a227e880b32?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jun 29 |
 | **[L'Alliance New York](http://www.Lallianceny.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/6861ba5da3e352c0aeb83b2e?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Jun 29 |
 | **[Albuquerque Public Schools](https://www.aps.edu/)** | **[ACE Marketing - Auto Internships](https://jobright.ai/jobs/info/6861b1cbd5c35247fdac2c75?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Jun 29 |
 | **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/686149426a57114e7fc605e5?utm_campaign=1065&utm_source=git)** | Lafayette, IN | On Site | Jun 29 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Product Content Intern, Energy Engineering (Fall 2025)](https://jobright.ai/jobs/info/685f5f40c7aeeec9fbf83a8f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Jun 27 |
 | **[Hypothesis Group](https://www.hypothesisgroup.com)** | **[Market Research Intern - Fall 2025](https://jobright.ai/jobs/info/685f4ee826684de5750b49a9?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 27 |
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Digital Marketing Trainee](https://jobright.ai/jobs/info/685f6fd5dda593694d529589?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jun 27 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
-| ↳ | **[Louisiana State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d29a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
+| **[MathWorks](http://www.mathworks.com)** | **[Louisiana State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d29a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
+| ↳ | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
 | ↳ | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Marketing Operation Intern](https://jobright.ai/jobs/info/685f33a5fe1c349374a2607e?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jun 27 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of California, Los Angeles MATLAB Ambassador](https://jobright.ai/jobs/info/685f33a5fe1c349374a260ff?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jun 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Public Relations Internship Program: Corporate Reputation and Brand Purpose (CRPB)](https://jobright.ai/jobs/info/6840b60b27b316e117055f5b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 | ↳ | **[Fall 2025 Public Relations Internship Program: We. Consumer and Technology Sectors](https://jobright.ai/jobs/info/6840a8b5eaee8e32711698f4?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jun 26 |
 | **[Belmont University](http://www.belmont.edu/)** | **[Office of Alumni Engagement - Student Communications Assistant](https://jobright.ai/jobs/info/685e759128e7759c4bdefb06?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jun 26 |
-| **[We. Communications](https://www.we-worldwide.com)** | **[Fall 2025 Public Relations Internship Program: Microsoft Commercial and Consumer Experience](https://jobright.ai/jobs/info/6840a8b5eaee8e3271169cdb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
-| ↳ | **[Fall 2025 Public Relations Internship Program: Health](https://jobright.ai/jobs/info/6840a8b5eaee8e32711698f9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
