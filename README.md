@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing/Content Internship](https://jobright.ai/jobs/info/686b2bd835584b654205f9d0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/686b0cf935584b65427366a6?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 06 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Innovation Analyst Intern](https://jobright.ai/jobs/info/6860c89ea50724c1a5807b99?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Jul 06 |
-| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/686a17dc35584b65428c111b?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 05 |
 | **[Leverage AI](https://www.tryleverage.ai)** | **[Marketing Content Creator Intern](https://jobright.ai/jobs/info/6869d4e435584b6542528f57?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 05 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3335584b65422ded76?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0953?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 05 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0934?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jul 05 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0953?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 05 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3335584b65422ded76?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
 | **[RIVANNA](http://www.rivannamedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68696e6735584b65426aa81f?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jul 05 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686951c635584b6542df8373?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 05 |
 | **[Supergoop!](http://www.supergoop.com/)** | **[Summer 2025 Student Temp - Social Media Marketing](https://jobright.ai/jobs/info/684cdde70abcd95f34868adb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 05 |
@@ -93,17 +94,18 @@ For a complete list, click the following sortable link below:
 | **[PKF O'Connor Davies](https://www.pkfod.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/684b6ed3e001ff07b10c9e75?utm_campaign=1065&utm_source=git)** | Harrison, NY | On Site | Jul 04 |
 | **[PharmaCord](https://pharmacord.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/686a062f35584b65423a9db4?utm_campaign=1065&utm_source=git)** | Jeffersonville, IN | On Site | Jul 03 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/6869f5ac35584b6542fa59c0?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 03 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Paid Marketing Internship](https://jobright.ai/jobs/info/686b30c435584b654220fc94?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Jul 03 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Communications Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/68671fac20a7ad900a5f078a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 03 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Community Relations and Youth Hockey Internship, Boston Bruins](https://jobright.ai/jobs/info/686743e20a7d81431615b04f?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (GBO) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68499104f920ac7bef1044a4?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6866eff34d0c99d56eb1b56f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6866f43a664d2d5b20b54c85?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Intern - Student Ambassador](https://jobright.ai/jobs/info/684a20a6a66ef4df2760e1a6?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jul 03 |
 | **[Purdue University](https://www.purdue.edu)** | **[Student - Communications Intern](https://jobright.ai/jobs/info/6866e95b184aaa777787ab47?utm_campaign=1065&utm_source=git)** | Gary, IN | On Site | Jul 03 |
 | **[FreshDirect](http://freshdirect.com)** | **[Category Merchandising Intern](https://jobright.ai/jobs/info/6866e95b184aaa777787ab74?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Jul 03 |
 | **[Avantor](https://www.avantorsciences.com)** | **[Marketing Intern (Part-time)  - Summer 2025](https://jobright.ai/jobs/info/6866e4480db21807645fab69?utm_campaign=1065&utm_source=git)** | West Henrietta, NY | On Site | Jul 03 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Communications Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/6866e05513a3979b6661e110?utm_campaign=1065&utm_source=git)** | District of Columbia - Hybrid | On Site | Jul 03 |
-| ↳ | **[Communications Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/6866e05513a3979b6661e005?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Jul 03 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Communications Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/6866e05513a3979b6661e005?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Jul 03 |
+| ↳ | **[Communications Internships and Fellowships – June 2026 Field Office Deployment](https://jobright.ai/jobs/info/6866e05513a3979b6661e110?utm_campaign=1065&utm_source=git)** | District of Columbia - Hybrid | On Site | Jul 03 |
 | **[LiveOnNY](http://www.liveonny.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6866dc4e1492a2293220a9ea?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 03 |
 | **[FreshDirect](http://freshdirect.com)** | **[Site Merchandising & Pricing Intern](https://jobright.ai/jobs/info/6866dc4e1492a2293220a856?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Jul 03 |
 | **[Telnyx](https://telnyx.com/)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6866d856c6a71dd7f4544aef?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 03 |
@@ -144,17 +146,15 @@ For a complete list, click the following sortable link below:
 | **[NCAA](https://www.ncaa.org/)** | **[Central Michigan Graduate Assistantship - Marketing](https://jobright.ai/jobs/info/6865befce0db1b536368d970?utm_campaign=1065&utm_source=git)** | Mount Pleasant, MI | On Site | Jul 02 |
 | **[Cobot](https://co.bot)** | **[Social Media Intern](https://jobright.ai/jobs/info/686604ce3d1580b90dc2170b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 02 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/686605153d1580b90dc21f41?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Jul 02 |
-| **[Wasserman](http://www.teamwass.com)** | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc536?utm_campaign=1065&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 02 |
-| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc535?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Jul 02 |
-| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc537?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 02 |
-| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc31d?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 02 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc533?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 02 |
+| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc536?utm_campaign=1065&utm_source=git)** | USA-NV - Nevada Remote | Remote | Jul 02 |
 | ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc534?utm_campaign=1065&utm_source=git)** | USA-WA - Washington Remote | Remote | Jul 02 |
-| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc533?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | On Site | Jul 02 |
+| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc31d?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 02 |
+| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc537?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 02 |
+| ↳ | **[Intern, Athlete Exchange (Branded Projects)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc535?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Jul 02 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Hybrid Marketing Administrative Intern (Fall 2025 - August 18 Start)](https://jobright.ai/jobs/info/6865b369e6c788a7a1adc3c8?utm_campaign=1065&utm_source=git)** | MVC Orlando Telesales | Hybrid | Jul 02 |
 | **[StraighterLine](http://www.StraighterLine.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6865af06b013aba30deb6124?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Jul 02 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Intern (Northwest/GPSU)](https://jobright.ai/jobs/info/68659e8676eebf05c6984437?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Jul 02 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Marketing Communications Intern - Fall 2025](https://jobright.ai/jobs/info/68659731ecc344b88de16e58?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 02 |
 | **[Amherst College](http://www.amherst.edu)** | **[Athletics Communications Intern (casual position)](https://jobright.ai/jobs/info/68658ff171c37de7722c76ca?utm_campaign=1065&utm_source=git)** | Amherst Campus | On Site | Jul 02 |
-| **[Origence](https://origence.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68658a90a2b71ad4a2be1c21?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jul 02 |
-| **[Metro Atlanta Chamber](http://www.metroatlantachamber.com/)** | **[Events Intern](https://jobright.ai/jobs/info/68657b9f3fa46b40027496cd?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
