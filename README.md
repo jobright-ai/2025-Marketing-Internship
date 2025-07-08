@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NFP, an Aon company](http://www.nfp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/686cc63035584b654280f095?utm_campaign=1065&utm_source=git)** | Minneapolis–Saint Paul, WI | On Site | Jul 08 |
 | **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/686c873b35584b654238cc1b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 07 |
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2025-2026](https://jobright.ai/jobs/info/686c862c35584b654232e1df?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[FreshDirect](http://freshdirect.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/686c853835584b65422f5bfc?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Jul 07 |
@@ -66,19 +67,16 @@ For a complete list, click the following sortable link below:
 | **[Cognizant](https://www.cognizant.com)** | **[Associate Intern](https://jobright.ai/jobs/info/686c6e6a35584b6542aeb108?utm_campaign=1065&utm_source=git)** | Teaneck, NJ | Hybrid | Jul 07 |
 | **[Legends](http://legends.net)** | **[Intern, Audience Insights](https://jobright.ai/jobs/info/686c691d35584b654291c12f?utm_campaign=1065&utm_source=git)** | DFW Metroplex | On Site | Jul 07 |
 | **[Mitsubishi Power Americas](https://power.mhi.com/regions/amer/)** | **[Communications Associate](https://jobright.ai/jobs/info/686c671435584b6542891c48?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | On Site | Jul 07 |
-| **[The Cigna Group](https://www.cigna.com/)** | **[Social Media and Marketing Co-op-2](https://jobright.ai/jobs/info/686c761635584b6542d38c8e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/686c4fa035584b6542013923?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2025 Fundraising Internship](https://jobright.ai/jobs/info/686c4f4935584b6542ffd0ea?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 | **[Wellnite](http://www.wellnite.com)** | **[YT, IG & TikTok Social Media Manager (Intern)](https://jobright.ai/jobs/info/686c4d6335584b6542f4fd9a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2025 Communications Internship](https://jobright.ai/jobs/info/686c4cb835584b6542f0a72f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
-| **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/686c448e35584b6542bbf92c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 07 |
 | **[Sinica Education](https://www.sinicaeducation.com)** | **[Bilingual Campus Student Ambassador (Chinese/English) 校园大使](https://jobright.ai/jobs/info/686c400135584b65429b269c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/686c3e5535584b6542918752?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Jul 07 |
 | **[L'Oréal](https://www.loreal.com)** | **[Internship - Brand Management Garnier](https://jobright.ai/jobs/info/686c358135584b65425adba3?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Jul 07 |
 | **[Democratic Governors Association (DGA)](https://democraticgovernors.org)** | **[Fall 2025 Digital Internship](https://jobright.ai/jobs/info/686c353335584b654258c58c?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 07 |
 | **[ProPublica](http://propublica.org)** | **[Emerging Reporters 2025-2026](https://jobright.ai/jobs/info/686c33b235584b65424fafc5?utm_campaign=1065&utm_source=git)** | New York City, United States | On Site | Jul 07 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Events Intern](https://jobright.ai/jobs/info/686c2f0335584b654232463e?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jul 07 |
-| **[Versity](https://versity.co)** | **[Social Media Marketing Project Collaborator Remote](https://jobright.ai/jobs/info/686c2d0535584b654225dfc2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[FIRST](https://firstagency.com/)** | **[Marketing Intern (Fall)](https://jobright.ai/jobs/info/686c2c4c35584b6542215499?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 07 |
 | **[FreshDirect](http://freshdirect.com)** | **[Site Merchandising & Pricing Intern](https://jobright.ai/jobs/info/686c2aad35584b654213a71f?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Jul 07 |
 | **[Harvard Business School](http://www.hbs.edu)** | **[Campus Marketing Fellow (Summer) – B2C Fintech (Remote)](https://jobright.ai/jobs/info/686c1eed35584b6542bffcde?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
@@ -89,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Stellar](https://stellarlearning.app)** | **[High School Social Media Marketing Intern](https://jobright.ai/jobs/info/686c179735584b65428fa731?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Legends](http://legends.net)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/686c177035584b65428ed16e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jul 07 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/686c172e35584b65428d0cbe?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jul 07 |
+| **[The Cigna Group](https://www.cigna.com/)** | **[Social Media and Marketing Co-op-2](https://jobright.ai/jobs/info/686c1cf035584b6542afcc63?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[GBH](http://www.wgbh.org/)** | **[GBH Annual Fund Internship - Fall 2025](https://jobright.ai/jobs/info/686c06cb35584b654223d23e?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 07 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Digital Marketing Specialist - Green House](https://jobright.ai/jobs/info/686c2b5635584b6542191689?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Jul 07 |
 | **[Cigna Healthcare](http://www.cigna.com)** | **[Social Media and Marketing Co-op-2](https://jobright.ai/jobs/info/686c026435584b65420c2f10?utm_campaign=1065&utm_source=git)** | United States Work at Home | Remote | Jul 07 |
@@ -96,11 +95,12 @@ For a complete list, click the following sortable link below:
 | **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/686bdcef35584b6542261962?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Jul 07 |
 | **[FIRST](https://firstagency.com/)** | **[Marketing Intern (Fall)](https://jobright.ai/jobs/info/686bdc7f35584b654223b7ae?utm_campaign=1065&utm_source=git)** | FIRST - New York | On Site | Jul 07 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Center for the Arts Social Media Assistant (Work Study Only)](https://jobright.ai/jobs/info/686bdae035584b65421a40a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Broad River Retail](https://www.broadriverretail.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6848ce38543095e49abd720d?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | Hybrid | Jul 07 |
 | **[Thryv](https://www.thryv.com/)** | **[Product Marketing Internship for 2026 and 2027 Graduates](https://jobright.ai/jobs/info/684854d6979a1380c2bcde1d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 07 |
 | **[MathWorks](http://www.mathworks.com)** | **[University of Alabama Tuscaloosa MATLAB Student Ambassador](https://jobright.ai/jobs/info/67dcad92a1e06099236417af?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 07 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/686b65f435584b65420aa9a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 06 |
-| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student-Social Media Assistant](https://jobright.ai/jobs/info/686b4fe15e4aa44f93673be2?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 06 |
-| ↳ | **[Student-Athletics Social Media Assistant](https://jobright.ai/jobs/info/686b4fe15e4aa44f93673be9?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 06 |
+| **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student-Athletics Social Media Assistant](https://jobright.ai/jobs/info/686b4fe15e4aa44f93673be9?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 06 |
+| ↳ | **[Student-Social Media Assistant](https://jobright.ai/jobs/info/686b4fe15e4aa44f93673be2?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Jul 06 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686b7e2a35584b6542669a52?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jul 06 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686b8ca535584b6542aa72bc?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 06 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686b8c5b35584b6542a94a14?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Jul 06 |
@@ -110,9 +110,9 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/65570bd433791b07dfb8cb1d?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/686a17dc35584b65428c111b?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 05 |
 | **[Leverage AI](https://www.tryleverage.ai)** | **[Marketing Content Creator Intern](https://jobright.ai/jobs/info/6869d4e435584b6542528f57?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 05 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3335584b65422ded76?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0953?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 05 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3335584b65422ded76?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 05 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0934?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jul 05 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686afb3c35584b65422e0953?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 05 |
 | **[RIVANNA](http://www.rivannamedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68696e6735584b65426aa81f?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jul 05 |
 | **[GKN Aerospace](https://www.gknaerospace.com/)** | **[Business Development Marketing Intern](https://jobright.ai/jobs/info/682f83d333bd783886bbf771?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jul 05 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/686951c635584b6542df8373?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 05 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Community Relations and Youth Hockey Internship, Boston Bruins](https://jobright.ai/jobs/info/686743e20a7d81431615b04f?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (GBO) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68499104f920ac7bef1044a4?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 03 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6866f43a664d2d5b20b54c85?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Podium](https://www.podium.com)** | **[Vertical Marketing Intern](https://jobright.ai/jobs/info/682d2244c7da76624a2589be?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Jul 03 |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6866eff34d0c99d56eb1b56f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 03 |
 | **[Mount Carmel Health System](https://www.mountcarmelhealth.com/)** | **[Intern - Student Ambassador](https://jobright.ai/jobs/info/684a20a6a66ef4df2760e1a6?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jul 03 |
 | **[Purdue University](https://www.purdue.edu)** | **[Student - Communications Intern](https://jobright.ai/jobs/info/6866e95b184aaa777787ab47?utm_campaign=1065&utm_source=git)** | Gary, IN | On Site | Jul 03 |
 | **[FreshDirect](http://freshdirect.com)** | **[Category Merchandising Intern](https://jobright.ai/jobs/info/6866e95b184aaa777787ab74?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Jul 03 |
