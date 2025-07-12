@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RTD](https://www.rtd-denver.com)** | **[Communications Intern - Internal Communications](https://jobright.ai/jobs/info/686ed9daa0864b8b9c5bb2eb?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 11 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Marketing and Communication Specialist](https://jobright.ai/jobs/info/6871bdc8a5ae807a59d01727?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 11 |
 | **[Ovation Healthcare](https://ovationhc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6871bbfca5ae807a59d01677?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Remote | Jul 11 |
 | **[Operation Smile](http://www.operationsmile.org/)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/6871a9ba06ad7073463c688d?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jul 11 |
@@ -71,12 +72,10 @@ For a complete list, click the following sortable link below:
 | **[Mutiny](https://www.mutinyhq.com)** | **[Video Content & Social Media Intern](https://jobright.ai/jobs/info/68717dcba5ae807a59cffeb8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 11 |
 | **[Ovation Healthcare](https://ovationhc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68715be54b595fce1666f96f?utm_campaign=1065&utm_source=git)** | Brentwood, TN (Remote) | Remote | Jul 11 |
 | **[GlobalFoundries](https://gf.com/)** | **[Investor Relations Intern (Summer 2025)](https://jobright.ai/jobs/info/68717fe5a5ae807a59cfffb0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 11 |
-| **[Parrot Finance](https://www.parrotfinance.io/)** | **[Marketing & Content Internship](https://jobright.ai/jobs/info/68715a67a5ae807a59cff1d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 11 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Administrative Internship (Fall 2025)](https://jobright.ai/jobs/info/68715a06a5ae807a59cff1b7?utm_campaign=1065&utm_source=git)** | Palm Desert, CA | On Site | Jul 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/687158aba5ae807a59cff154?utm_campaign=1065&utm_source=git)** | Huntsville, AL | On Site | Jul 11 |
 | **[Endeavor Miami](https://endeavormiami.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68713ccc06ad7073463c4188?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Jul 11 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Onsite Marketing Administrative Internship (Fall 2025)](https://jobright.ai/jobs/info/68713ac8bd640363bba9a1ed?utm_campaign=1065&utm_source=git)** | Marriott's Shadow Ridge | On Site | Jul 11 |
-| **[Ecera System](https://ecerasystem.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/687114f406ad7073463c338d?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | Remote | Jul 11 |
 | **[California State University, Stanislaus](https://www.csustan.edu/)** | **[The Signal Social Media & Marketing Producer (Student Assistant)](https://jobright.ai/jobs/info/68712d73a5ae807a59cfe4c6?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Jul 11 |
 | **[GlobalFoundries](https://gf.com/)** | **[Investor Relations Intern (Summer 2025)](https://jobright.ai/jobs/info/68710746bf42022b7fc2c29f?utm_campaign=1065&utm_source=git)** | USA - Texas - Austin | On Site | Jul 11 |
 | **[Nest Seekers International](https://www.nestseekers.com)** | **[Real Estate Marketing (Unpaid Intern)](https://jobright.ai/jobs/info/68710037a5ae807a59cfd45c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 11 |
@@ -140,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Communications Internship - Hourly - Albany](https://jobright.ai/jobs/info/687007cfa5ae807a59cf521c?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jul 10 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Denver, CO](https://jobright.ai/jobs/info/686fe60c01cc0956e7e7dcc4?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jul 10 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/686fdc6a06ad7073463b972f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Jul 10 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Marketing and CX Co-op/Intern- Fall 2025](https://jobright.ai/jobs/info/6870037606ad7073463ba607?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Jul 10 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Intern](https://jobright.ai/jobs/info/6853193608e0d604dd713ee5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jul 10 |
 | **[MathWorks](http://www.mathworks.com)** | **[Michigan Technological University MATLAB Student Ambassador](https://jobright.ai/jobs/info/681a92d4775609016cfcdc98?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 10 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/6870b1baa5ae807a59cfac1a?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Jul 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BSE Global](https://www.bseglobal.net)** | **[Type.Set.Brooklyn Social Media Seasonal Internship 25-26](https://jobright.ai/jobs/info/686f1e28cd4d4665c60401bb?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 09 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-San Francisco Bay Area](https://jobright.ai/jobs/info/686f1e28cd4d4665c60400ce?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08c36?utm_campaign=1065&utm_source=git)** | Mobile, AL | Remote | Jul 09 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Marketing](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08c06?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jul 09 |
+| **[Cognite](https://www.cognite.com)** | **[Employer Branding Intern – ASU Campus Ambassador](https://jobright.ai/jobs/info/685223796b7901e216c34963?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
