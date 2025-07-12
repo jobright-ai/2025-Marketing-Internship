@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ovation Healthcare](https://ovationhc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6871bbfca5ae807a59d01677?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Remote | Jul 11 |
+| **[Operation Smile](http://www.operationsmile.org/)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/6871a9ba06ad7073463c688d?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jul 11 |
+| **[Cordis](https://www.cordis.com/)** | **[Marketing Intern (REMOTE)](https://jobright.ai/jobs/info/6871a12fa5ae807a59d00dd1?utm_campaign=1065&utm_source=git)** | Miami Lakes, FL | Remote | Jul 11 |
 | **[Balance Now](https://www.balance.ca)** | **[Social Media Engagement Team Member](https://jobright.ai/jobs/info/68719255a5ae807a59d008bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 11 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time OR Full time Marketing Administrative/Customer Service Internship - Key West](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b777?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 11 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Marketing (Proposal) Intern](https://jobright.ai/jobs/info/68718d5c06ad7073463c5dab?utm_campaign=1065&utm_source=git)** | Triangle Area | Remote | Jul 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BSE Global](https://www.bseglobal.net)** | **[Type.Set.Brooklyn Social Media Seasonal Internship 25-26](https://jobright.ai/jobs/info/686f1e28cd4d4665c60401bb?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 09 |
 | **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-San Francisco Bay Area](https://jobright.ai/jobs/info/686f1e28cd4d4665c60400ce?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 09 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (Remote) Fall 2025](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08c36?utm_campaign=1065&utm_source=git)** | Mobile, AL | Remote | Jul 09 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - Marketing](https://jobright.ai/jobs/info/686f1d3dd47b21ea06b08c06?utm_campaign=1065&utm_source=git)** | Waltham, MA | Hybrid | Jul 09 |
-| **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 PR Internship](https://jobright.ai/jobs/info/686f1371365c2cd55247280b?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; San Diego, CA | On Site | Jul 09 |
-| ↳ | **[Fall 2025 Social Media Internship](https://jobright.ai/jobs/info/686f1371365c2cd55247283a?utm_campaign=1065&utm_source=git)** | Nashville, TN; New York, NY; Los Angeles, CA; San Diego, CA | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
