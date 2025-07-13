@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Intern, Events](https://jobright.ai/jobs/info/6855e78122c43f279cb2515d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 12 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Communications (Fall 2025)](https://jobright.ai/jobs/info/6872426e06ad7073463cbab4?utm_campaign=1065&utm_source=git)** | Becket, MA | On Site | Jul 12 |
 | **[ByteDance](http://bytedance.com)** | **[Social Media Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d2f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 12 |
+| **[Klaviyo](http://www.klaviyo.com)** | **[Sr. Internal Communications Manager](https://jobright.ai/jobs/info/6837a29080b21311efdd7750?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[College Intern Market Strategy & Customer Analytics (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/687203fdc933c2a3ddef6cfd?utm_campaign=1065&utm_source=git)** | Troy, Michigan | Hybrid | Jul 11 |
 | **[Kate Somerville Skincare](http://www.katesomerville.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67f7b24c0bb3f8b39a3c5dbc?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jul 11 |
 | **[RTD](https://www.rtd-denver.com)** | **[Communications Intern - Internal Communications](https://jobright.ai/jobs/info/686ed9daa0864b8b9c5bb2eb?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 11 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[California State University, Stanislaus](https://www.csustan.edu/)** | **[The Signal Social Media & Marketing Producer (Student Assistant)](https://jobright.ai/jobs/info/68712d73a5ae807a59cfe4c6?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Jul 11 |
 | **[GlobalFoundries](https://gf.com/)** | **[Investor Relations Intern (Summer 2025)](https://jobright.ai/jobs/info/68710746bf42022b7fc2c29f?utm_campaign=1065&utm_source=git)** | USA - Texas - Austin | On Site | Jul 11 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Fall Global Marketing Intern](https://jobright.ai/jobs/info/68550f78f60ff3a8d76bb6c1?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Jul 11 |
+| **[Community Options, Inc.](https://www.comop.org/)** | **[Intern](https://jobright.ai/jobs/info/6852fddb8afd7f3b984225eb?utm_campaign=1065&utm_source=git)** | Lubbock, TX | Hybrid | Jul 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6870ccc8a5ae807a59cfbc22?utm_campaign=1065&utm_source=git)** | Bolivar, MO | On Site | Jul 10 |
 | **[Influur](https://www.influur.com)** | **[Influencer Marketing Ninja - Internship](https://jobright.ai/jobs/info/6870817301cc0956e7e82615?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Remote | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687076bea5ae807a59cf864e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 10 |
@@ -136,10 +138,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/68703ba9a5ae807a59cf6ead?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 10 |
 | **[University of South Florida](http://www.usf.edu)** | **[Outreach & Marketing Student Assistant](https://jobright.ai/jobs/info/6870246606ad7073463bb6ae?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jul 10 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Digital Content Project Assistant](https://jobright.ai/jobs/info/6870172e06ad7073463baf41?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baef?utm_campaign=1065&utm_source=git)** | District of Columbia | Hybrid | Jul 10 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
 | **[Threshold Enterprises](https://www.thresholdenterprises.com/)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/687021b501cc0956e7e7f826?utm_campaign=1065&utm_source=git)** | Pearland, TX | On Site | Jul 10 |
 | **[Enerfab](http://enerfab.com)** | **[Marketing Internship (Fall 2025)](https://jobright.ai/jobs/info/681a198c02aae0b36793989a?utm_campaign=1065&utm_source=git)** | Cincinnati Metro | On Site | Jul 10 |
 | **[Kiewit](http://www.kiewit.com)** | **[Market Analyst Co-Op - Industrial Business Development (Summer/Fall 2025)](https://jobright.ai/jobs/info/6853595028132085650894f7?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 Social Media Internship](https://jobright.ai/jobs/info/686fc715a5ae807a59cf361b?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jul 09 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/686f36cdcbf1820f49ccc05d?utm_campaign=1065&utm_source=git)** | US-CA-San Fernando Valley | Hybrid | Jul 09 |
 | **[Lone Star College](http://www.lonestar.edu)** | **[Part-time Intern, Digital Marketing and Social Media](https://jobright.ai/jobs/info/686f2ec389d5f6c9b7faa42b?utm_campaign=1065&utm_source=git)** | Cypress, TX | On Site | Jul 09 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, St. Louis](https://jobright.ai/jobs/info/686f2c120c3b6e2ea4d3f0f4?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Jul 09 |
-| ↳ | **[Community Intern, Tucson](https://jobright.ai/jobs/info/686f2c120c3b6e2ea4d3f110?utm_campaign=1065&utm_source=git)** | Tucson, AZ | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
