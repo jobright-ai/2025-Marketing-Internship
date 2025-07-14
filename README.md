@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Virginia Museum of History & Culture](https://virginiahistory.org)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6874170c4001e95011b1b9fc?utm_campaign=1065&utm_source=git)** | Richmond, VA | On Site | Jul 13 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/6873a81301889204ff8f5507?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 13 |
 | **[University of California, Berkeley](http://berkeley.edu)** | **[Development Operations and Events Intern (5171U), Intercollegiate Athletics - #79500](https://jobright.ai/jobs/info/6873d0224001e95011b1a3e7?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 13 |
 | **[Getinge](https://www.getinge.com)** | **[Intern eCommerce Processing (Remote)](https://jobright.ai/jobs/info/684f955763c37689377dbc9a?utm_campaign=1065&utm_source=git)** | Merrimack, NH | Remote | Jul 13 |
 | **[MathWorks](http://www.mathworks.com)** | **[San Jose State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/68737e3427d5e6163cae6425?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 13 |
@@ -121,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Woolpert](http://www.woolpert.com)** | **[Proposal Coordinator Intern - Infrastructure](https://jobright.ai/jobs/info/6870330ea5ae807a59cf6985?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 10 |
 | **[LiveSwitch](https://www.liveswitch.io)** | **[General Business Intern](https://jobright.ai/jobs/info/68703178a5ae807a59cf6890?utm_campaign=1065&utm_source=git)** | Apex, NC | On Site | Jul 10 |
 | **[Woolpert](http://www.woolpert.com)** | **[Proposal Coordinator Intern - Infrastructure](https://jobright.ai/jobs/info/6870314306ad7073463bbdc5?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | Remote | Jul 10 |
-| **[RSQUARE MEDIA INC.](https://rsquare.media)** | **[Unpaid Remote Social Media Marketing Intern](https://jobright.ai/jobs/info/68704f0006ad7073463bcea4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2025 Marketing Intern -Fry's](https://jobright.ai/jobs/info/687025e3c07d40c7603b9889?utm_campaign=1065&utm_source=git)** | 500 South 99Th Ave., Tolleson, AZ, 85353, US | On Site | Jul 10 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Culinary Marketing Intern](https://jobright.ai/jobs/info/68704c3206ad7073463bcd3f?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Jul 10 |
 | **[Capstone](https://capstonedc.com)** | **[Fall 2025 - Marketing and Research Operations Intern](https://jobright.ai/jobs/info/68703c0a06ad7073463bc485?utm_campaign=1065&utm_source=git)** | Washington, DC, US | On Site | Jul 10 |
@@ -144,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/68703ba9a5ae807a59cf6ead?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 10 |
 | **[University of South Florida](http://www.usf.edu)** | **[Outreach & Marketing Student Assistant](https://jobright.ai/jobs/info/6870246606ad7073463bb6ae?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jul 10 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Digital Content Project Assistant](https://jobright.ai/jobs/info/6870172e06ad7073463baf41?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baef?utm_campaign=1065&utm_source=git)** | District of Columbia | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baef?utm_campaign=1065&utm_source=git)** | District of Columbia | Hybrid | Jul 10 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
 | **[Threshold Enterprises](https://www.thresholdenterprises.com/)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/687021b501cc0956e7e7f826?utm_campaign=1065&utm_source=git)** | Pearland, TX | On Site | Jul 10 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/686fdc6a06ad7073463b972f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Jul 10 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Intern](https://jobright.ai/jobs/info/6853193608e0d604dd713ee5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jul 10 |
 | **[MathWorks](http://www.mathworks.com)** | **[Michigan Technological University MATLAB Student Ambassador](https://jobright.ai/jobs/info/681a92d4775609016cfcdc98?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 10 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/6870b1baa5ae807a59cfac1a?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Jul 10 |
+| **[DataGrail](http://www.datagrail.io)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6851a0fcf9dadfcb5f6aaa76?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
