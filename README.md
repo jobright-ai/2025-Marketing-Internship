@@ -57,12 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/68755d19299cbc74b875420a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 14 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Distribution Marketing](https://jobright.ai/jobs/info/68755a95299cbc74b87540d0?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
+| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6875571cae2f413e4a5a5fce?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 14 |
+| **[NASCAR](http://www.nascar.com/)** | **[Marketing Assistant Event Staff - Daytona Intl Speedway](https://jobright.ai/jobs/info/68755371ae2f413e4a5a5d82?utm_campaign=1065&utm_source=git)** | Daytona Beach, FL | On Site | Jul 14 |
+| **[Law Offices of James Scott Farrin](http://farrin.com)** | **[College Marketing Internship](https://jobright.ai/jobs/info/68755261299cbc74b8753bce?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | On Site | Jul 14 |
+| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687550d35cebcd1dd51bf646?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Jul 14 |
+| **[Perry Homes](http://perryhomes.com)** | **[Fall University of Texas at Dallas - Campus Ambassador](https://jobright.ai/jobs/info/687550c7ae2f413e4a5a5aa6?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Digital Marketing & Strategy](https://jobright.ai/jobs/info/68754ee6ae2f413e4a5a5905?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
+| **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/68754edaae2f413e4a5a58f7?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 14 |
+| **[Perry Homes](http://perryhomes.com)** | **[Fall University Of Texas - Campus Ambassador](https://jobright.ai/jobs/info/68754c13299cbc74b87537af?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jul 14 |
+| ↳ | **[Fall University of Texas at Dallas - Campus Ambassador](https://jobright.ai/jobs/info/68754843299cbc74b875362d?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Jul 14 |
+| ↳ | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/687542f65cebcd1dd51bf04c?utm_campaign=1065&utm_source=git)** | Waco, TX | Remote | Jul 14 |
+| **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68754181ae2f413e4a5a536b?utm_campaign=1065&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative Marketing, Strategy & PR](https://jobright.ai/jobs/info/68753d1c5cebcd1dd51bed8b?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
-| **[Perry Homes](http://perryhomes.com)** | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/68753cfb5cebcd1dd51bed64?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
+| **[Perry Homes](http://perryhomes.com)** | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/68755d13ae2f413e4a5a62f5?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/68753453ae2f413e4a5a4dfe?utm_campaign=1065&utm_source=git)** | Washington, D.C | On Site | Jul 14 |
+| **[Perry Homes](http://perryhomes.com)** | **[Fall University Of Texas - Campus Ambassador](https://jobright.ai/jobs/info/687555abae2f413e4a5a5edb?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/687527b2299cbc74b8752795?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 14 |
 | **[W. L. Gore & Associates](http://www.gore.com)** | **[Internship (f/m/d) Footwear Gloves &amp; Accessories Strategic Marketing and Product Management Support](https://jobright.ai/jobs/info/687519b05cebcd1dd51bdc91?utm_campaign=1065&utm_source=git)** | Elkton, MD | On Site | Jul 14 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68751e2cae2f413e4a5a3d3b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/667968cbd86d626ab8b77dc3?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jul 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[MARKETING & MEDIA ASST (TEMP)](https://jobright.ai/jobs/info/6875092aae2f413e4a5a30c8?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Jul 14 |
 | ↳ | **[MARKETING & MEDIA ASST (TEMP)](https://jobright.ai/jobs/info/6874e8b25cebcd1dd51bc8e7?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Jul 14 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Culinary Marketing Intern](https://jobright.ai/jobs/info/68700f169a77984d3d150be3?utm_campaign=1065&utm_source=git)** | BUFFALO, NY | On Site | Jul 10 |
 | **[Bridgestone Retail Operations, LLC](https://www.bsro.com/)** | **[Intern](https://jobright.ai/jobs/info/68700f169a77984d3d150620?utm_campaign=1065&utm_source=git)** | Aiken ORR | On Site | Jul 10 |
 | **[Athletes First](http://www.athletesfirst.net/)** | **[Client Relations Intern - Atlanta](https://jobright.ai/jobs/info/68700f169a77984d3d1504bf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 10 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Opinion Research/Consumer Insights - Summer/Fall '25 Internship](https://jobright.ai/jobs/info/68700f169a77984d3d1504b4?utm_campaign=1065&utm_source=git)** | 1299 Pennsylvania Avenue, NW, Washington, DC, 20004, US | Hybrid | Jul 10 |
-| **[University of South Florida](http://www.usf.edu)** | **[Outreach & Marketing Student Assistant](https://jobright.ai/jobs/info/6870246606ad7073463bb6ae?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jul 10 |
-| **[University of Rochester](https://www.urmc.rochester.edu)** | **[Digital Content Project Assistant](https://jobright.ai/jobs/info/6870172e06ad7073463baf41?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baef?utm_campaign=1065&utm_source=git)** | District of Columbia | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
-| **[Threshold Enterprises](https://www.thresholdenterprises.com/)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/687021b501cc0956e7e7f826?utm_campaign=1065&utm_source=git)** | Pearland, TX | On Site | Jul 10 |
-| **[Enerfab](http://enerfab.com)** | **[Marketing Internship (Fall 2025)](https://jobright.ai/jobs/info/681a198c02aae0b36793989a?utm_campaign=1065&utm_source=git)** | Cincinnati Metro | On Site | Jul 10 |
-| **[Kiewit](http://www.kiewit.com)** | **[Market Analyst Co-Op - Industrial Business Development (Summer/Fall 2025)](https://jobright.ai/jobs/info/6853595028132085650894f7?utm_campaign=1065&utm_source=git)** | Lenexa, KS | On Site | Jul 10 |
-| **[The Good Food Institute](http://www.gfi.org)** | **[Market Research Intern](https://jobright.ai/jobs/info/686fdb5201cc0956e7e7d976?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 10 |
-| **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Communications Internship - Hourly - Albany](https://jobright.ai/jobs/info/687007cfa5ae807a59cf521c?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Jul 10 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Denver, CO](https://jobright.ai/jobs/info/686fe60c01cc0956e7e7dcc4?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
