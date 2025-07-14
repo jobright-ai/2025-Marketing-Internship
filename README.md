@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6874a007299cbc74b874f8f2?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 13 |
 | **[Haleon](http://www.haleon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68749353ae2f413e4a59d877?utm_campaign=1065&utm_source=git)** | Finance Center Building | On Site | Jul 13 |
+| **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Channel Marketing Specialist](https://jobright.ai/jobs/info/68569f654b5ecfe620bf912b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 13 |
 | **[Getinge](https://www.getinge.com)** | **[Intern eCommerce Processing (Remote)](https://jobright.ai/jobs/info/684f955763c37689377dbc9a?utm_campaign=1065&utm_source=git)** | Merrimack, NH | Remote | Jul 13 |
 | **[MathWorks](http://www.mathworks.com)** | **[San Jose State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/68737e3427d5e6163cae6425?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 13 |
 | ↳ | **[Georgia Institute of Technology MATLAB Student Ambassador](https://jobright.ai/jobs/info/681d98696dc7ec4b3c13df2c?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 13 |
@@ -80,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org/)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/6871a9ba06ad7073463c688d?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jul 11 |
 | **[Fuel Cycle](https://www.fuelcycle.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6873b37d4001e95011b19084?utm_campaign=1065&utm_source=git)** | Los Angeles Office | Hybrid | Jul 11 |
 | **[Cordis](https://www.cordis.com/)** | **[Marketing Intern (REMOTE)](https://jobright.ai/jobs/info/6871a12fa5ae807a59d00dd1?utm_campaign=1065&utm_source=git)** | Miami Lakes, FL | Remote | Jul 11 |
-| **[Balance Now](https://www.balance.ca)** | **[Social Media Engagement Team Member](https://jobright.ai/jobs/info/68719255a5ae807a59d008bd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jul 11 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6874b15fae2f413e4a59f326?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time OR Full time Marketing Administrative/Customer Service Internship - Key West](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b777?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 11 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Student Marketing Coordinator, Business Enterprises](https://jobright.ai/jobs/info/68717603ff9bcd850a726243?utm_campaign=1065&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Jul 11 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Student Staff Marketing, Promotions, and Publication Position-Center for Sexual and Gender Diversity](https://jobright.ai/jobs/info/687170b606ad7073463c515b?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Jul 11 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[California State University, Stanislaus](https://www.csustan.edu/)** | **[The Signal Social Media & Marketing Producer (Student Assistant)](https://jobright.ai/jobs/info/68712d73a5ae807a59cfe4c6?utm_campaign=1065&utm_source=git)** | Turlock, CA | On Site | Jul 11 |
 | **[Allison Transmission](http://www.allisontransmission.com/)** | **[Fall Global Marketing Intern](https://jobright.ai/jobs/info/68550f78f60ff3a8d76bb6c1?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Jul 11 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Intern](https://jobright.ai/jobs/info/6852fddb8afd7f3b984225eb?utm_campaign=1065&utm_source=git)** | Lubbock, TX | Hybrid | Jul 11 |
+| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/687499e4ae2f413e4a59de04?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6870ccc8a5ae807a59cfbc22?utm_campaign=1065&utm_source=git)** | Bolivar, MO | On Site | Jul 10 |
 | **[Influur](https://www.influur.com)** | **[Influencer Marketing Ninja - Internship](https://jobright.ai/jobs/info/6870817301cc0956e7e82615?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Remote | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687076bea5ae807a59cf864e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 10 |
@@ -141,9 +144,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/68703ba9a5ae807a59cf6ead?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 10 |
 | **[University of South Florida](http://www.usf.edu)** | **[Outreach & Marketing Student Assistant](https://jobright.ai/jobs/info/6870246606ad7073463bb6ae?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Jul 10 |
 | **[University of Rochester](https://www.urmc.rochester.edu)** | **[Digital Content Project Assistant](https://jobright.ai/jobs/info/6870172e06ad7073463baf41?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 10 |
-| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
+| **[Proofpoint](http://www.proofpoint.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
+| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996ba61?utm_campaign=1065&utm_source=git)** | California | Hybrid | Jul 10 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baf0?utm_campaign=1065&utm_source=git)** | Washington | Hybrid | Jul 10 |
-| ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baee?utm_campaign=1065&utm_source=git)** | Massachusetts | Hybrid | Jul 10 |
 | ↳ | **[Field Marketing Intern](https://jobright.ai/jobs/info/686fdf958ddc569d4996baef?utm_campaign=1065&utm_source=git)** | District of Columbia | Hybrid | Jul 10 |
 | **[Threshold Enterprises](https://www.thresholdenterprises.com/)** | **[Brand Marketing Trainee](https://jobright.ai/jobs/info/687021b501cc0956e7e7f826?utm_campaign=1065&utm_source=git)** | Pearland, TX | On Site | Jul 10 |
 | **[Enerfab](http://enerfab.com)** | **[Marketing Internship (Fall 2025)](https://jobright.ai/jobs/info/681a198c02aae0b36793989a?utm_campaign=1065&utm_source=git)** | Cincinnati Metro | On Site | Jul 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/686fdc6a06ad7073463b972f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Jul 10 |
 | **[Community Options, Inc.](https://www.comop.org/)** | **[Intern](https://jobright.ai/jobs/info/6853193608e0d604dd713ee5?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Hybrid | Jul 10 |
 | **[MathWorks](http://www.mathworks.com)** | **[Michigan Technological University MATLAB Student Ambassador](https://jobright.ai/jobs/info/681a92d4775609016cfcdc98?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 10 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Fernando Valley](https://jobright.ai/jobs/info/6870b1baa5ae807a59cfac1a?utm_campaign=1065&utm_source=git)** | San Fernando, CA | Hybrid | Jul 10 |
-| **[DataGrail](http://www.datagrail.io)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6851a0fcf9dadfcb5f6aaa76?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 10 |
-| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/686fbe81a5ae807a59cf318f?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
