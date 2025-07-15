@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Ben Amun Co Inc](https://www.ben-amun.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/687577a0299cbc74b875545d?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Jul 14 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Music Brand Partnerships](https://jobright.ai/jobs/info/687590a9ae2f413e4a5a82b7?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[Publicis Media 2025 Fall Internship Program (Part-Time) - Chicago](https://jobright.ai/jobs/info/68757c595cebcd1dd51c1415?utm_campaign=1065&utm_source=git)** | Chicago, Illinois | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Artist Marketing (NYC)](https://jobright.ai/jobs/info/687576a6ae2f413e4a5a7559?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | ↳ | **[Fall 2025 Intern - Latin Marketing (Distribution)](https://jobright.ai/jobs/info/6875759a5cebcd1dd51c0fa7?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | ↳ | **[Fall 2025 Intern - Artist Marketing (Los Angeles)](https://jobright.ai/jobs/info/6875752c299cbc74b8755303?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | On Site | Jul 14 |
 | **[SMCP – Sandro, Maje, Claudie Pierlot, Fursac](http://www.smcp.com/)** | **[Sandro Merchandising & Data Analyst Intern, New York, NY](https://jobright.ai/jobs/info/68757298299cbc74b8755152?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 14 |
+| **[UNICO Group](http://unicogroup.com)** | **[Marketing & Design Intern](https://jobright.ai/jobs/info/686c919d35584b65426b36ca?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 14 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/687560b3ae2f413e4a5a654e?utm_campaign=1065&utm_source=git)** | Huntington, WV | On Site | Jul 14 |
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Marketing](https://jobright.ai/jobs/info/68755d34299cbc74b875421c?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/68755d19299cbc74b875420a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 14 |
@@ -80,7 +82,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall University Of Texas - Campus Ambassador](https://jobright.ai/jobs/info/687546365cebcd1dd51bf116?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
 | ↳ | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/687542f65cebcd1dd51bf04c?utm_campaign=1065&utm_source=git)** | Waco, TX | Remote | Jul 14 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68754181ae2f413e4a5a536b?utm_campaign=1065&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Jul 14 |
-| **[Utah Valley University](http://www.uvu.edu/)** | **[Student - Marketing Associate - Social Media Assistant](https://jobright.ai/jobs/info/687562205cebcd1dd51c0149?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Creative Marketing, Strategy & PR](https://jobright.ai/jobs/info/68753d1c5cebcd1dd51bed8b?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[Perry Homes](http://perryhomes.com)** | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/68755d13ae2f413e4a5a62f5?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/68753453ae2f413e4a5a4dfe?utm_campaign=1065&utm_source=git)** | Washington, D.C | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 - Marketing and Research Operations Intern](https://jobright.ai/jobs/info/687041f3a5ae807a59cf72d2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 10 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Opinion Research/Consumer Insights - Summer/Fall '25 Internship](https://jobright.ai/jobs/info/6870383d01cc0956e7e804a4?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 10 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Bilingual (Vietnamese) Amasian TV Media Operations Intern (Unpaid)](https://jobright.ai/jobs/info/6870166406ad7073463baec5?utm_campaign=1065&utm_source=git)** | Fullerton, CA | Hybrid | Jul 10 |
-| **[Signify](https://www.signify.com)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68703db8a5ae807a59cf7011?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
