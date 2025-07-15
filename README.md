@@ -58,6 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Social Media)](https://jobright.ai/jobs/info/6859d2a1513105d094d8f894?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study/Marketing Assistant](https://jobright.ai/jobs/info/687662585cebcd1dd51c89d2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
+| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687675b6299cbc74b875d485?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 15 |
+| **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study/ Web Marketing](https://jobright.ai/jobs/info/6876648d5cebcd1dd51c8a97?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/6864b44d0123eb491ffc06c3?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Jul 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/685a3c45e184ac13345e1bf8?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jul 15 |
 | **[MathWorks](http://www.mathworks.com)** | **[PES University MATLAB Student Ambassador](https://jobright.ai/jobs/info/68763acfae2f413e4a5ae12f?utm_campaign=1065&utm_source=git)** | Lake County, IN | Hybrid | Jul 15 |
@@ -65,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Publicity - Fall 2025](https://jobright.ai/jobs/info/6875f69aae2f413e4a5ab8c7?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
 | ↳ | **[Intern, Franchise Management & Licensing - Fall 2025](https://jobright.ai/jobs/info/6875f46b299cbc74b87591b7?utm_campaign=1065&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/687610525cebcd1dd51c64ce?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68760fc85cebcd1dd51c6495?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68760c125cebcd1dd51c61f8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff  and Student Wage)](https://jobright.ai/jobs/info/6876457bae2f413e4a5ae731?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Jacksonville, FL](https://jobright.ai/jobs/info/6875fe235cebcd1dd51c561b?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
+| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
 | **[VF Corporation](http://www.vfc.com)** | **[Vans: Global Marketing Operations Apprentice](https://jobright.ai/jobs/info/6875d840299cbc74b8757fd6?utm_campaign=1065&utm_source=git)** | USCA > USA > California > Costa Mesa HQ - VAN | On Site | Jul 14 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6875d4dc5cebcd1dd51c3e2f?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Jul 14 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Fall Internship Program (Part-Time) - Chicago](https://jobright.ai/jobs/info/6875ad425cebcd1dd51c2bcf?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Marketing](https://jobright.ai/jobs/info/68755d34299cbc74b875421c?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jul 14 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/68755d19299cbc74b875420a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Distribution Marketing](https://jobright.ai/jobs/info/68755a95299cbc74b87540d0?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
-| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6875571cae2f413e4a5a5fce?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 14 |
 | **[NASCAR](http://www.nascar.com/)** | **[Marketing Assistant Event Staff - Daytona Intl Speedway](https://jobright.ai/jobs/info/68755371ae2f413e4a5a5d82?utm_campaign=1065&utm_source=git)** | Daytona Beach, FL | On Site | Jul 14 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/687571d5ae2f413e4a5a70d1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 14 |
 | **[Law Offices of James Scott Farrin](http://farrin.com)** | **[College Marketing Internship](https://jobright.ai/jobs/info/68755261299cbc74b8753bce?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | On Site | Jul 14 |
@@ -120,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Perry Homes](http://perryhomes.com)** | **[Fall Baylor University- Campus Ambassador](https://jobright.ai/jobs/info/68755d13ae2f413e4a5a62f5?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 14 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/68753453ae2f413e4a5a4dfe?utm_campaign=1065&utm_source=git)** | Washington, D.C | On Site | Jul 14 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/687527b2299cbc74b8752795?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 14 |
-| **[W. L. Gore & Associates](http://www.gore.com)** | **[Internship (f/m/d) Footwear Gloves &amp; Accessories Strategic Marketing and Product Management Support](https://jobright.ai/jobs/info/687519b05cebcd1dd51bdc91?utm_campaign=1065&utm_source=git)** | Elkton, MD | On Site | Jul 14 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/667968cbd86d626ab8b77dc3?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jul 14 |
 | **[University of Michigan](https://www.umich.edu)** | **[MARKETING & MEDIA ASST (TEMP)](https://jobright.ai/jobs/info/6875092aae2f413e4a5a30c8?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Jul 14 |
 | ↳ | **[MARKETING & MEDIA ASST (TEMP)](https://jobright.ai/jobs/info/6874e8b25cebcd1dd51bc8e7?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Jul 14 |
@@ -130,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68749353ae2f413e4a59d877?utm_campaign=1065&utm_source=git)** | Finance Center Building | On Site | Jul 13 |
 | **[University of California, Berkeley](http://berkeley.edu)** | **[Development Operations and Events Intern (5171U), Intercollegiate Athletics - #79500](https://jobright.ai/jobs/info/6875e0adae2f413e4a5aaaf4?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 13 |
 | **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Marketing and Admissions Intern](https://jobright.ai/jobs/info/6875e3bfae2f413e4a5aadd6?utm_campaign=1065&utm_source=git)** | Downingtown, PA | On Site | Jul 13 |
-| **[Law Offices of James Scott Farrin](http://farrin.com)** | **[College Marketing Internship](https://jobright.ai/jobs/info/6875bc1a5cebcd1dd51c3131?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Jul 13 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6875b7ec299cbc74b875727b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Channel Marketing Specialist](https://jobright.ai/jobs/info/68569f654b5ecfe620bf912b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 13 |
 | **[MathWorks](http://www.mathworks.com)** | **[San Jose State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/68737e3427d5e6163cae6425?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 13 |
