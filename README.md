@@ -57,22 +57,28 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perry Homes](http://perryhomes.com)** | **[Fall Texas A&M University- Campus Ambassador](https://jobright.ai/jobs/info/68768e36299cbc74b875e259?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 15 |
+| **[The Weather Company](https://www.ibm.com/weather)** | **[Commerce Writer Intern](https://jobright.ai/jobs/info/68768d95299cbc74b875e207?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
+| **[Texas A&M University](http://www.tamu.edu)** | **[Student Hourly Assistant (Recs- Marketing ESPORTS)](https://jobright.ai/jobs/info/687682c65cebcd1dd51c998d?utm_campaign=1065&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
+| **[Loftware](http://www.loftware.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68767cfd5cebcd1dd51c95f9?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | Hybrid | Jul 15 |
+| **[Secretariat](http://secretariat-intl.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/687677cb5cebcd1dd51c932e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jul 15 |
+| **[Sodexo](http://www.sodexo.com)** | **[Marketing Intern, Meal Plan Ambassador](https://jobright.ai/jobs/info/68768f405cebcd1dd51ca04e?utm_campaign=1065&utm_source=git)** | Troy, AL | On Site | Jul 15 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Social Media)](https://jobright.ai/jobs/info/6859d2a1513105d094d8f894?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 15 |
 | **[University of Houston](https://www.uh.edu)** | **[Non-College Work-Study/Marketing Assistant](https://jobright.ai/jobs/info/687662585cebcd1dd51c89d2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687675b6299cbc74b875d485?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 15 |
+| **[Fifth Ring](https://www.fifthring.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68767af8299cbc74b875d7e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[University of Houston](https://www.uh.edu)** | **[Federal Work-Study/ Web Marketing](https://jobright.ai/jobs/info/6876648d5cebcd1dd51c8a97?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/6864b44d0123eb491ffc06c3?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Jul 15 |
 | **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/685a3c45e184ac13345e1bf8?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jul 15 |
 | **[MathWorks](http://www.mathworks.com)** | **[PES University MATLAB Student Ambassador](https://jobright.ai/jobs/info/68763acfae2f413e4a5ae12f?utm_campaign=1065&utm_source=git)** | Lake County, IN | Hybrid | Jul 15 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Integrated Marketing Communications](https://jobright.ai/jobs/info/6875fa5eae2f413e4a5abcc9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 14 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Publicity - Fall 2025](https://jobright.ai/jobs/info/6875f69aae2f413e4a5ab8c7?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
 | ↳ | **[Intern, Franchise Management & Licensing - Fall 2025](https://jobright.ai/jobs/info/6875f46b299cbc74b87591b7?utm_campaign=1065&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/687610525cebcd1dd51c64ce?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68760c125cebcd1dd51c61f8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff  and Student Wage)](https://jobright.ai/jobs/info/6876457bae2f413e4a5ae731?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Jacksonville, FL](https://jobright.ai/jobs/info/6875fe235cebcd1dd51c561b?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
+| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
 | **[VF Corporation](http://www.vfc.com)** | **[Vans: Global Marketing Operations Apprentice](https://jobright.ai/jobs/info/6875d840299cbc74b8757fd6?utm_campaign=1065&utm_source=git)** | USCA > USA > California > Costa Mesa HQ - VAN | On Site | Jul 14 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6875d4dc5cebcd1dd51c3e2f?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Jul 14 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Fall Internship Program (Part-Time) - Chicago](https://jobright.ai/jobs/info/6875ad425cebcd1dd51c2bcf?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
@@ -128,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[The Ohio State University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6874ed26ae2f413e4a5a1cfd?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 14 |
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Marketing Intern](https://jobright.ai/jobs/info/68760b00299cbc74b875a431?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 13 |
 | ↳ | **[Publishing Sync Intern](https://jobright.ai/jobs/info/687620a35cebcd1dd51c6caa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
+| ↳ | **[Fearless Digital Marketing Intern](https://jobright.ai/jobs/info/68767d2aae2f413e4a5b02b1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 13 |
 | **[Haleon](http://www.haleon.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68749353ae2f413e4a59d877?utm_campaign=1065&utm_source=git)** | Finance Center Building | On Site | Jul 13 |
 | **[University of California, Berkeley](http://berkeley.edu)** | **[Development Operations and Events Intern (5171U), Intercollegiate Athletics - #79500](https://jobright.ai/jobs/info/6875e0adae2f413e4a5aaaf4?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 13 |
 | **[Chester County Intermediate Unit](http://www.cciu.org/pnp)** | **[Marketing and Admissions Intern](https://jobright.ai/jobs/info/6875e3bfae2f413e4a5aadd6?utm_campaign=1065&utm_source=git)** | Downingtown, PA | On Site | Jul 13 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Klaviyo](http://www.klaviyo.com)** | **[Sr. Internal Communications Manager](https://jobright.ai/jobs/info/6837a29080b21311efdd7750?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Music marketing intern (Music promotion and distribution) - 2025 project Intern (BS/MS)](https://jobright.ai/jobs/info/687603d15cebcd1dd51c599d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 11 |
 | **[Fuel Cycle](https://www.fuelcycle.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6874d385ae2f413e4a5a0a8c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 11 |
-| **[Kate Somerville Skincare](http://www.katesomerville.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/67f7b24c0bb3f8b39a3c5dbc?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Jul 11 |
-| **[RTD](https://www.rtd-denver.com)** | **[Communications Intern - Internal Communications](https://jobright.ai/jobs/info/686ed9daa0864b8b9c5bb2eb?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 11 |
-| **[Ovation Healthcare](https://ovationhc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6871bbfca5ae807a59d01677?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Remote | Jul 11 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Media and Marketing Internship](https://jobright.ai/jobs/info/6871a9ba06ad7073463c688d?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jul 11 |
-| **[Fuel Cycle](https://www.fuelcycle.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6873b37d4001e95011b19084?utm_campaign=1065&utm_source=git)** | Los Angeles Office | Hybrid | Jul 11 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6874b15fae2f413e4a59f326?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time OR Full time Marketing Administrative/Customer Service Internship - Key West](https://jobright.ai/jobs/info/68718fb8e1eb93dd1c89b777?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
