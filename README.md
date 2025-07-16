@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loftware](http://www.loftware.com)** | **[Digital Marketing Intern (Part-Time)](https://jobright.ai/jobs/info/68771e04299cbc74b8763bc9?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | Remote | Jul 15 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6877153fae2f413e4a5b67b0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
+| **[MAHLE](https://www.mahle.com)** | **[Marketing Intern - Winter](https://jobright.ai/jobs/info/6864335ad54271d4f74785ae?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Jul 15 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2025 Executive Communications Internship](https://jobright.ai/jobs/info/687701ae5cebcd1dd51ce60c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 15 |
 | **[CalOptima](https://www.caloptima.org/)** | **[Intern (Community Relations)](https://jobright.ai/jobs/info/6877012e5cebcd1dd51ce5c8?utm_campaign=1065&utm_source=git)** | Orange, CA | On Site | Jul 15 |
 | **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Podcast Marketing - Part-time](https://jobright.ai/jobs/info/6876fe7a5cebcd1dd51ce3ef?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/6876f81eae2f413e4a5b57fd?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jul 15 |
 | **[Sage](https://group.sagepub.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6876f745299cbc74b8762305?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 15 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Integrated Marketing Communications](https://jobright.ai/jobs/info/6876f3c9ae2f413e4a5b5408?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 15 |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/68770569ae2f413e4a5b5e9f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Joyson Safety Systems](https://www.joysonsafety.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6876dba9ae2f413e4a5b4681?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | On Site | Jul 15 |
 | **[AVT Simulation](http://avtsim.com)** | **[Marketing Intern (Part-Time)](https://jobright.ai/jobs/info/6876f87d299cbc74b8762457?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jul 15 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Pregnancy Center West Database & Research Assistant (Fundraising Support)](https://jobright.ai/jobs/info/6876d58d299cbc74b87610f0?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
@@ -74,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Pregnancy Center West Marketing Design Assistant](https://jobright.ai/jobs/info/6876d8b5299cbc74b8761365?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jul 15 |
 | **[CMI Media Group](http://www.cmimediagroup.com/)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/6876b3ef299cbc74b875fc57?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ | On Site | Jul 15 |
 | **[Gupta Media](http://guptamedia.com)** | **[Media Intern](https://jobright.ai/jobs/info/6876b2825cebcd1dd51cb874?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | On Site | Jul 15 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Social Media and Student Engagement Student Assistant (Work Study Position)](https://jobright.ai/jobs/info/6876af3b299cbc74b875f7a3?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 15 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Social Media and Student Engagement Student Assistant (Work Study Position)](https://jobright.ai/jobs/info/6876b27f5cebcd1dd51cb871?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 15 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - US Marketing Community Professional Channel](https://jobright.ai/jobs/info/6876ad05299cbc74b875f6ff?utm_campaign=1065&utm_source=git)** | Carson, CA | Hybrid | Jul 15 |
 | **[HeyGen](https://www.heygen.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/6876dcf65cebcd1dd51cd2e7?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 15 |
 | **[KHAITE](https://khaite.com/)** | **[Private Client Events & Partnerships Intern, Fall 2025](https://jobright.ai/jobs/info/6876ab00299cbc74b875f5c1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
@@ -87,8 +91,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall Internship - Audience Development](https://jobright.ai/jobs/info/6876bd505cebcd1dd51cbec3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Publicity - Fall 2025](https://jobright.ai/jobs/info/68769db6299cbc74b875ea9b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6876c7c35cebcd1dd51cc59c?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Fall 2025](https://jobright.ai/jobs/info/687698b8ae2f413e4a5b13db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 Public Relations Intern / NYC](https://jobright.ai/jobs/info/687696ceae2f413e4a5b1286?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Fall 2025](https://jobright.ai/jobs/info/6876c5aeae2f413e4a5b36d5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Perry Homes](http://perryhomes.com)** | **[Fall Texas A&M University- Campus Ambassador](https://jobright.ai/jobs/info/68768e36299cbc74b875e259?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Jul 15 |
 | **[The Weather Company](https://www.ibm.com/weather)** | **[Commerce Writer Intern](https://jobright.ai/jobs/info/68768d95299cbc74b875e207?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Farm Bureau Insurance of Tennessee](http://www.fbitn.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6876adabae2f413e4a5b2478?utm_campaign=1065&utm_source=git)** | Columbia, TN | On Site | Jul 15 |
@@ -109,11 +113,11 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Publicity - Fall 2025](https://jobright.ai/jobs/info/6875f69aae2f413e4a5ab8c7?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 14 |
 | ↳ | **[Intern, Franchise Management & Licensing - Fall 2025](https://jobright.ai/jobs/info/6875f46b299cbc74b87591b7?utm_campaign=1065&utm_source=git)** | Burbank CHQ | On Site | Jul 14 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/687610525cebcd1dd51c64ce?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/68760c125cebcd1dd51c61f8?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/68760fc85cebcd1dd51c6495?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 14 |
 | **[University of Virginia](https://lvg.virginia.edu)** | **[Athletic Communications Intern (Staff  and Student Wage)](https://jobright.ai/jobs/info/6876457bae2f413e4a5ae731?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Jul 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern Jacksonville, FL](https://jobright.ai/jobs/info/6875fe235cebcd1dd51c561b?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Jul 14 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6876259d5cebcd1dd51c6e18?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 14 |
+| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/687629bfae2f413e4a5ad668?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jul 14 |
 | **[VF Corporation](http://www.vfc.com)** | **[Vans: Global Marketing Operations Apprentice](https://jobright.ai/jobs/info/6875d840299cbc74b8757fd6?utm_campaign=1065&utm_source=git)** | USCA > USA > California > Costa Mesa HQ - VAN | On Site | Jul 14 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6875d4dc5cebcd1dd51c3e2f?utm_campaign=1065&utm_source=git)** | Ontario, CA | On Site | Jul 14 |
 | **[Publicis Media](http://www.publicisgroupe.com)** | **[Publicis Media 2025 Fall Internship Program (Part-Time) - Chicago](https://jobright.ai/jobs/info/6875ad425cebcd1dd51c2bcf?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Law Offices of James Scott Farrin](http://farrin.com)** | **[College Marketing Internship](https://jobright.ai/jobs/info/68755261299cbc74b8753bce?utm_campaign=1065&utm_source=git)** | Durham, North Carolina, United States | On Site | Jul 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Fall 2025 Intern - Digital Marketing & Strategy](https://jobright.ai/jobs/info/68754ee6ae2f413e4a5a5905?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Jul 14 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern, Washington, DC](https://jobright.ai/jobs/info/68754edaae2f413e4a5a58f7?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 14 |
-| **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68757cbcae2f413e4a5a79e4?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Jul 14 |
-| **[UNDP Careers](https://www.undp.org)** | **[Communications and Design Intern, Sustainable Energy (home-based, reports to Office in New York, USA)](https://jobright.ai/jobs/info/68757104ae2f413e4a5a6fd0?utm_campaign=1065&utm_source=git)** | Home, KS | Remote | Jul 14 |
-| **[Perry Homes](http://perryhomes.com)** | **[University Of Texas - Fall Campus Ambassador](https://jobright.ai/jobs/info/68754c13299cbc74b87537af?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 14 |
-| ↳ | **[University of Texas at Dallas - Fall Campus Ambassador](https://jobright.ai/jobs/info/68754843299cbc74b875362d?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
