@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MPOWER Financing](http://www.mpowerfinancing.com)** | **[Internship - Growth Marketing - Digital Marketing - Washington, D.C., USA.](https://jobright.ai/jobs/info/68794adc2097a271a89764c5?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 17 |
+| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/68794453ed63844c9449a06f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
+| **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[Marketing Intern](https://jobright.ai/jobs/info/68793a9aa7fc8904e3960e6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Arthur Ashe Institute for Urban Health](http://www.arthurasheinstitute.org/arthurashe/home/)** | **[Social Media Interns](https://jobright.ai/jobs/info/6879278ca7fc8904e39605a4?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 17 |
 | **[Gelber & Associates](https://www.gelbercorp.com)** | **[Marketing and Sales Intern - B2B Energy Markets](https://jobright.ai/jobs/info/6879261a2097a271a8975079?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Jul 17 |
 | **[MPOWER Financing](http://www.mpowerfinancing.com)** | **[Internship -  Growth Marketing - Digital Marketing - Washington, D.C., USA.](https://jobright.ai/jobs/info/687923f5a7fc8904e3960301?utm_campaign=1065&utm_source=git)** | Washington, D.C., USA. | On Site | Jul 17 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[Marketing Intern](https://jobright.ai/jobs/info/687915f5ed63844c944987c5?utm_campaign=1065&utm_source=git)** | Home Office, USA | Remote | Jul 17 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Corporate Communications and Events Intern](https://jobright.ai/jobs/info/685c495a5279b12c1551b8c7?utm_campaign=1065&utm_source=git)** | Versailles, OH | On Site | Jul 17 |
 | **[JONESWORKS](https://jonesworks.com/)** | **[2025 Fall Internship Program *NYC & LA*](https://jobright.ai/jobs/info/687924a9ed63844c94499127?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 17 |
-| **[Acadium](http://www.acadium.com)** | **[Social Media and Video / Graphic Marketing Intern](https://jobright.ai/jobs/info/6879073c2097a271a8973df8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Thales](http://www.thalesgroup.com)** | **[Communications & Marketing Coordinator (Internship)](https://jobright.ai/jobs/info/685d5781dfa3424013cd3a09?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Jul 17 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04747?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Content Discovery Intern](https://jobright.ai/jobs/info/685c92e0405e076a68e992bf?utm_campaign=1065&utm_source=git)** | Alberta, AL | On Site | Jul 17 |
@@ -94,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[MAHLE](https://www.mahle.com)** | **[Market Planning Intern - Winter](https://jobright.ai/jobs/info/687806cc5cebcd1dd51d71ac?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Jul 16 |
 | **[SKDK](http://skdknick.com)** | **[Jasper Advisors Internship , Fall 2025](https://jobright.ai/jobs/info/68780476ae2f413e4a5bf194?utm_campaign=1065&utm_source=git)** | US-DC-Washington | On Site | Jul 16 |
 | **[Califia Farms](http://www.califiafarms.com/)** | **[Influencer and PR Intern](https://jobright.ai/jobs/info/687800eb866a435525ab5ee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 16 |
-| **[Adjutant Solutions Group (ASG)](https://goasg.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/687800dd5cebcd1dd51d6ea3?utm_campaign=1065&utm_source=git)** | Indianapolis, Indiana, United States | Remote | Jul 16 |
 | **[Monolithic Power Systems, Inc.](http://www.monolithicpower.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6877fdba5cebcd1dd51d6ca2?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Jul 16 |
 | **[SKDK](http://skdknick.com)** | **[Jasper Advisors Internship , Fall 2025](https://jobright.ai/jobs/info/68781f08866a435525ab6ed4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 16 |
 | **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Communications Intern](https://jobright.ai/jobs/info/687820d0ae2f413e4a5c00f6?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 16 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern – Conference & Event Planning (Fall 2025)](https://jobright.ai/jobs/info/6876a9645cebcd1dd51cb1ca?utm_campaign=1065&utm_source=git)** | Washington, US | On Site | Jul 15 |
 | **[Breakthrough New York](https://btny.org)** | **[Breakthrough New York Intern (Unpaid)](https://jobright.ai/jobs/info/6876a6d8ae2f413e4a5b1e4b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Franchise Management & Licensing - Fall 2025](https://jobright.ai/jobs/info/6876a5355cebcd1dd51cad4c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Events & Experiences Intern, Fall 2025](https://jobright.ai/jobs/info/6876a5145cebcd1dd51cad1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Social Media](https://jobright.ai/jobs/info/6876d1abae2f413e4a5b3ff5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | ↳ | **[Fall Internship - Audience Development](https://jobright.ai/jobs/info/6876bd505cebcd1dd51cbec3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Publicity - Fall 2025](https://jobright.ai/jobs/info/68769db6299cbc74b875ea9b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
+| **[The Weather Company](https://www.ibm.com/weather)** | **[Commerce Writer Intern](https://jobright.ai/jobs/info/6876ce9b5cebcd1dd51cca28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6876c7c35cebcd1dd51cc59c?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Fall 2025](https://jobright.ai/jobs/info/687698b8ae2f413e4a5b13db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 Public Relations Intern / NYC](https://jobright.ai/jobs/info/687696ceae2f413e4a5b1286?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
-| **[The Weather Company](https://www.ibm.com/weather)** | **[Commerce Writer Intern](https://jobright.ai/jobs/info/68768d95299cbc74b875e207?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Fall 2025](https://jobright.ai/jobs/info/6876c5aeae2f413e4a5b36d5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
