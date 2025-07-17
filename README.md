@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[Marketing Intern](https://jobright.ai/jobs/info/687915f5ed63844c944987c5?utm_campaign=1065&utm_source=git)** | Home Office, USA | Remote | Jul 17 |
+| **[Midmark Corporation](http://www.midmark.com/)** | **[Corporate Communications and Events Intern](https://jobright.ai/jobs/info/685c495a5279b12c1551b8c7?utm_campaign=1065&utm_source=git)** | Versailles, OH | On Site | Jul 17 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media and Video / Graphic Marketing Intern](https://jobright.ai/jobs/info/6879073c2097a271a8973df8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
+| **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6823e3f7ecd98139c7e04747?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jul 17 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[Content Discovery Intern](https://jobright.ai/jobs/info/685c92e0405e076a68e992bf?utm_campaign=1065&utm_source=git)** | Alberta, AL | On Site | Jul 17 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/685c902321c80253fe8aada3?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 17 |
 | **[MathWorks](http://www.mathworks.com)** | **[Stanford University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6752f871e4dfea73c9993916?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 17 |
 | ↳ | **[University of Massachusetts Amherst MATLAB Ambassador](https://jobright.ai/jobs/info/6878cb5f05b04b0ca9f5bc8a?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Jul 17 |
 | **[HeyGen](https://www.heygen.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/6878cb41991967626f06f769?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 17 |
@@ -130,12 +136,10 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Social Media and Student Engagement Student Assistant (Work Study Position)](https://jobright.ai/jobs/info/6876b27f5cebcd1dd51cb871?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Jul 15 |
 | **[Dermalogica](http://www.dermalogica.com/)** | **[Intern - US Marketing Community Professional Channel](https://jobright.ai/jobs/info/6876ad05299cbc74b875f6ff?utm_campaign=1065&utm_source=git)** | Carson, CA | Hybrid | Jul 15 |
 | **[HeyGen](https://www.heygen.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/6876dcf65cebcd1dd51cd2e7?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Private Client Events & Partnerships Intern, Fall 2025](https://jobright.ai/jobs/info/6876ab00299cbc74b875f5c1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Bloodworks Northwest](https://www.bloodworksnw.org/)** | **[Community Outreach & Marketing Intern](https://jobright.ai/jobs/info/6876aae7299cbc74b875f5b3?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Hybrid | Jul 15 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern – Conference & Event Planning (Fall 2025)](https://jobright.ai/jobs/info/6876a9645cebcd1dd51cb1ca?utm_campaign=1065&utm_source=git)** | Washington, US | On Site | Jul 15 |
 | **[Breakthrough New York](https://btny.org)** | **[Breakthrough New York Intern (Unpaid)](https://jobright.ai/jobs/info/6876a6d8ae2f413e4a5b1e4b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 15 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Franchise Management & Licensing - Fall 2025](https://jobright.ai/jobs/info/6876a5355cebcd1dd51cad4c?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Jul 15 |
-| **[KHAITE](https://khaite.com/)** | **[Events & Experiences Intern, Fall 2025](https://jobright.ai/jobs/info/6876a5145cebcd1dd51cad1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Social Media](https://jobright.ai/jobs/info/6876d1abae2f413e4a5b3ff5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 15 |
 | **[AVT Simulation](http://avtsim.com)** | **[Marketing Intern (Part-Time)](https://jobright.ai/jobs/info/6876a2fd299cbc74b875edff?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jul 15 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Audience Development](https://jobright.ai/jobs/info/6876bd505cebcd1dd51cbec3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 15 |
@@ -144,6 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6876c7c35cebcd1dd51cc59c?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jul 15 |
 | **[KHAITE](https://khaite.com/)** | **[Merchandising Intern, Fall 2025](https://jobright.ai/jobs/info/687698b8ae2f413e4a5b13db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[BALENCIAGA](https://www.balenciaga.com/)** | **[BALENCIAGA Fall 2025 Public Relations Intern / NYC](https://jobright.ai/jobs/info/687696ceae2f413e4a5b1286?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
+| **[KHAITE](https://khaite.com/)** | **[Private Client Events & Partnerships Intern, Fall 2025](https://jobright.ai/jobs/info/6876c08cae2f413e4a5b333b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
+| ↳ | **[Events & Experiences Intern, Fall 2025](https://jobright.ai/jobs/info/6876d261ae2f413e4a5b4053?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 15 |
 | **[Farm Bureau Insurance of Tennessee](http://www.fbitn.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6876adabae2f413e4a5b2478?utm_campaign=1065&utm_source=git)** | Columbia, TN | On Site | Jul 15 |
 | **[Texas A&M University](http://www.tamu.edu)** | **[Student Hourly Assistant (Recs- Marketing ESPORTS)](https://jobright.ai/jobs/info/687682c65cebcd1dd51c998d?utm_campaign=1065&utm_source=git)** | Laredo, TX | On Site | Jul 15 |
 | **[Loftware](http://www.loftware.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68767cfd5cebcd1dd51c95f9?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | Hybrid | Jul 15 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Alliance Partner Marketing Internship (Fall 2025, STMK)](https://jobright.ai/jobs/info/685a62b9efd4a78f569321ae?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | On Site | Jul 15 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Social Media)](https://jobright.ai/jobs/info/6859d2a1513105d094d8f894?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 15 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Derivative Content Marketing Internship (Fall 2025, STMK)](https://jobright.ai/jobs/info/686b49d935584b654291e550?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | On Site | Jul 15 |
-| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern – Conference & Event Planning (Fall 2025)](https://jobright.ai/jobs/info/6878f3b5ed63844c944977bc?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 15 |
-| **[Perry Homes](http://perryhomes.com)** | **[University Of Texas - Fall Campus Ambassador](https://jobright.ai/jobs/info/687546365cebcd1dd51bf116?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/6864b44d0123eb491ffc06c3?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Jul 15 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/685a3c45e184ac13345e1bf8?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jul 15 |
-| **[Perry Homes](http://perryhomes.com)** | **[University of Texas at Dallas - Fall Campus Ambassador](https://jobright.ai/jobs/info/687550c7ae2f413e4a5a5aa6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 15 |
-| ↳ | **[University of Texas at Dallas - Fall Campus Ambassador](https://jobright.ai/jobs/info/68754843299cbc74b875362d?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
