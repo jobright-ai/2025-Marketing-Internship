@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GigFinesse](https://www.gigfinesse.com/)** | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a64e62097a271a897ea9d?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | Jul 18 |
+| ↳ | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a5ba0764c3d7411c2cb24?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 18 |
+| **[FashionUnited](http://www.fashionunited.com/)** | **[Sandro Merchandising & Data Analyst Intern, New York, NY](https://jobright.ai/jobs/info/687a634e764c3d7411c2cd66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687a3d1c2097a271a897dde3?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 18 |
 | **[Yavapai College](http://www.yc.edu/)** | **[SE, Marketing Assistant, WS9737](https://jobright.ai/jobs/info/687a23caed63844c944a1858?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jul 18 |
 | **[JoyMe](http://www.joyme.sg)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6879ff99ed63844c944a0e02?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a1d2097a271a8977dde?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a0f2097a271a8977dd0?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a06ed63844c9449c09d?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f6ed63844c9449c08c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977dab?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daa?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 17 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797954a7fc8904e3963199?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797952ed63844c9449bfbb?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793d2097a271a8977d32?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2d?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2e?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2d?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879792ca7fc8904e3963170?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979292097a271a8977d24?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797923a7fc8904e3963164?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 17 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gelber & Associates](https://www.gelbercorp.com)** | **[Marketing and Sales Intern - B2B Energy Markets](https://jobright.ai/jobs/info/6879261a2097a271a8975079?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Jul 17 |
 | **[MPOWER Financing](http://www.mpowerfinancing.com)** | **[Internship -  Growth Marketing - Digital Marketing - Washington, D.C., USA.](https://jobright.ai/jobs/info/687923f5a7fc8904e3960301?utm_campaign=1065&utm_source=git)** | Washington, D.C., USA. | On Site | Jul 17 |
 | **[Minuteman Senior Services](https://www.minutemansenior.org)** | **[Marketing and Development Intern (Unpaid)](https://jobright.ai/jobs/info/68791eb4a7fc8904e395ff37?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Jul 17 |
-| **[VIAVI Solutions](http://www.viavisolutions.com/en-us)** | **[Marketing Intern](https://jobright.ai/jobs/info/687915f5ed63844c944987c5?utm_campaign=1065&utm_source=git)** | Home Office, USA | Remote | Jul 17 |
-| **[Midmark Corporation](http://www.midmark.com/)** | **[Corporate Communications and Events Intern](https://jobright.ai/jobs/info/685c495a5279b12c1551b8c7?utm_campaign=1065&utm_source=git)** | Versailles, OH | On Site | Jul 17 |
-| **[Tryp.com](https://www.tryp.com)** | **[Marketing Student: Become Our US Market Lead (Mentorship Provided)](https://jobright.ai/jobs/info/6879cc862097a271a897a6ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
