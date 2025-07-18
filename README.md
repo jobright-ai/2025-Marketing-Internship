@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687a3d1c2097a271a897dde3?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 18 |
 | **[Yavapai College](http://www.yc.edu/)** | **[SE, Marketing Assistant, WS9737](https://jobright.ai/jobs/info/687a23caed63844c944a1858?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jul 18 |
 | **[JoyMe](http://www.joyme.sg)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6879ff99ed63844c944a0e02?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/6879eea2a7fc8904e3967162?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 17 |
 | **[Sea Machines Robotics](http://www.sea-machines.com)** | **[Marketing Intern (Content Creation Support)](https://jobright.ai/jobs/info/6879ec382097a271a897b9b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[Basic.Space](https://basic.space)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6879e650ed63844c9449f6f5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 17 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Marketing Assistant Event Staff - Daytona Intl Speedway](https://jobright.ai/jobs/info/687a05dbed63844c944a115c?utm_campaign=1065&utm_source=git)** | Daytona Beach, FL | On Site | Jul 17 |
@@ -83,8 +83,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a1d2097a271a8977dde?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a0f2097a271a8977dd0?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a06ed63844c9449c09d?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f6ed63844c9449c08c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977dab?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daa?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 17 |
