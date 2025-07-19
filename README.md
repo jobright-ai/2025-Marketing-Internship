@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Giant Noise](http://giantnoise.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/687aa7c62097a271a8980cb9?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jul 18 |
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/687aa79a764c3d7411c2ef0d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 18 |
 | **[Habitat for Humanity New York City and Westchester County](http://www.habitatnycwc.org)** | **[Volunteer: Habitat for Humanity NYC and Westchester: Marketing & Communications Volunteer](https://jobright.ai/jobs/info/687aee7b764c3d7411c3017c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 18 |
-| **[Kiva](http://kiva.org)** | **[Engagement Marketing Intern](https://jobright.ai/jobs/info/687af715ed63844c944a61ce?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jul 18 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Research Support Assistant (Market Research) - Fall 2025](https://jobright.ai/jobs/info/687a9caa2097a271a8980473?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 18 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/687a98772097a271a897ff98?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Jul 18 |
 | **[Giant Noise](http://giantnoise.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/687a95e52097a271a897fd47?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 18 |
@@ -75,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Harmelin Media](http://www.harmelin.com)** | **[SEO Intern - Fall 2025](https://jobright.ai/jobs/info/687a74e1ed63844c944a3254?utm_campaign=1065&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Jul 18 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a64e62097a271a897ea9d?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | Jul 18 |
 | ↳ | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a5ba0764c3d7411c2cb24?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[FashionUnited](http://www.fashionunited.com/)** | **[Sandro Merchandising & Data Analyst Intern, New York, NY](https://jobright.ai/jobs/info/687a634e764c3d7411c2cd66?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 18 |
 | **[Red Bull](https://redbull.com)** | **[Student Marketeer-University of Colorado-Boulder](https://jobright.ai/jobs/info/67e6e9d124ddccaa0b571e55?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 18 |
 | **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687a3d1c2097a271a897dde3?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 18 |
 | **[Yavapai College](http://www.yc.edu/)** | **[SE, Marketing Assistant, WS9737](https://jobright.ai/jobs/info/687a23caed63844c944a1858?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jul 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/687954372097a271a89769d3?utm_campaign=1065&utm_source=git)** | Nonstore MTO Akron OH | Remote | Jul 17 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Marketing Content Production Intern](https://jobright.ai/jobs/info/6879536b2097a271a89768ed?utm_campaign=1065&utm_source=git)** | Hyde Park, MA | On Site | Jul 17 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/68795366ed63844c9449aab9?utm_campaign=1065&utm_source=git)** | Nonstore MCM Columbus IN | Remote | Jul 17 |
+| **[Axis Communications](http://www.axis.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68795335ed63844c9449aa89?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Jul 17 |
+| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/687953022097a271a897688b?utm_campaign=1065&utm_source=git)** | Nonstore B206 SAN ANTONIO TX | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
