@@ -112,9 +112,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f6ed63844c9449c08c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977dab?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daa?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daf?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977dab?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e6ed63844c9449c074?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e02097a271a8977da4?utm_campaign=1065&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979d2ed63844c9449c062?utm_campaign=1065&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Jul 17 |
