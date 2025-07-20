@@ -88,11 +88,12 @@ For a complete list, click the following sortable link below:
 | **[Sea Machines Robotics](http://www.sea-machines.com)** | **[Marketing Intern (Content Creation Support)](https://jobright.ai/jobs/info/6879ec382097a271a897b9b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Marketing Assistant Event Staff - Daytona Intl Speedway](https://jobright.ai/jobs/info/687a05dbed63844c944a115c?utm_campaign=1065&utm_source=git)** | Daytona Beach, FL | On Site | Jul 17 |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Marketing Intern/PT](https://jobright.ai/jobs/info/687ba9aced63844c944aa8b8?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 17 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/687c6313764c3d7411c3722e?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Jul 17 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879b9f12097a271a8979a10?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 17 |
 | **[K&N Engineering](http://knfilters.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687ba2982097a271a89861d8?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Jul 17 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publicity and Marketing Intern, Workman](https://jobright.ai/jobs/info/6879c2242097a271a8979ef6?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 17 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 17 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, WW Theatrical Marketing & Distribution Finance – Fall 2025](https://jobright.ai/jobs/info/6879986ba7fc8904e3963de3?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Jul 17 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, WW Theatrical Marketing & Distribution Finance – Fall 2025](https://jobright.ai/jobs/info/687998e9ed63844c9449cc74?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Jul 17 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Publicity and Marketing Intern, Workman](https://jobright.ai/jobs/info/68799783ed63844c9449cb1e?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Jul 17 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/68799455ed63844c9449c95c?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Jul 17 |
 | **[Sea Machines Robotics](http://www.sea-machines.com)** | **[Marketing Intern (Content Creation Support)](https://jobright.ai/jobs/info/6879f96ca7fc8904e3967b6d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 17 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797954a7fc8904e3963199?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797952ed63844c9449bfbb?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793d2097a271a8977d32?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2e?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2d?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2e?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879792ca7fc8904e3963170?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979292097a271a8977d24?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797923a7fc8904e3963164?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 17 |
@@ -148,12 +149,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687978cba7fc8904e3963119?utm_campaign=1065&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687978bfa7fc8904e3963110?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879789da7fc8904e39630ee?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797887a7fc8904e39630da?utm_campaign=1065&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797887a7fc8904e39630d9?utm_campaign=1065&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797887a7fc8904e39630da?utm_campaign=1065&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797874a7fc8904e39630c9?utm_campaign=1065&utm_source=git)** | USA-AL - Alabama Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797874a7fc8904e39630c7?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797867a7fc8904e39630ba?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 17 |
-| **[Katz Public Relations](https://www.katzpublicrelations.com/)** | **[Fall Entertainment Public Relations Internship](https://jobright.ai/jobs/info/687972a6ed63844c9449bc55?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 17 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/68796db1ed63844c9449ba87?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jul 17 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Awareness and Coordination Communications](https://jobright.ai/jobs/info/68795ffe2097a271a8976fc4?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 17 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Worker - Ground Traditional - Social Media Intern (NFWS)](https://jobright.ai/jobs/info/68795dd9a7fc8904e3962276?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Jul 17 |
