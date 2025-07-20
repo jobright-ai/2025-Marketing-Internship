@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/687c76752097a271a8989ad4?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Jul 19 |
+| ↳ | **[Merchandise Intern](https://jobright.ai/jobs/info/687c76cd2097a271a8989b4c?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Jul 19 |
 | **[Siemens EDA (Siemens Digital Industries Software)](https://eda.sw.siemens.com/)** | **[Strategic Student Program: Strategic Marketing & AI Applications Intern (Fall 2025, GSCS)](https://jobright.ai/jobs/info/686b3c3a35584b654253414b?utm_campaign=1065&utm_source=git)** | Milford, OH | Hybrid | Jul 19 |
 | **[Balchem Corporation](http://balchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687bb8ef2097a271a8986d9e?utm_campaign=1065&utm_source=git)** | Layton, UT | Remote | Jul 19 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Social Media and PR Intern (Summer 2025)](https://jobright.ai/jobs/info/68418dbc8331325e19731d03?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 19 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a1d2097a271a8977dde?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a0f2097a271a8977dd0?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a06ed63844c9449c09d?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f6ed63844c9449c08c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daa?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daf?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 17 |
@@ -136,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797954a7fc8904e3963199?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797952ed63844c9449bfbb?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793d2097a271a8977d32?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2d?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2e?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 17 |
+| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879793c2097a271a8977d2d?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/6879792ca7fc8904e3963170?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979292097a271a8977d24?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797923a7fc8904e3963164?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797874a7fc8904e39630c7?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797867a7fc8904e39630ba?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 17 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/68796db1ed63844c9449ba87?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jul 17 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Awareness and Coordination Communications](https://jobright.ai/jobs/info/68795ffe2097a271a8976fc4?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jul 17 |
-| **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Worker - Ground Traditional - Social Media Intern (NFWS)](https://jobright.ai/jobs/info/68795dd9a7fc8904e3962276?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
