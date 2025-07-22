@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acadium](http://www.acadium.com)** | **[Digital Marketing & Automation Intern](https://jobright.ai/jobs/info/687f90459f72804245703ae8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
+| **[KYOCERA Document Solutions America, Inc.](http://www.kyoceradocumentsolutions.us)** | **[Intern, Corporate Marketing (UX and Digital Experience)](https://jobright.ai/jobs/info/68631d628ba0d8689d177bf4?utm_campaign=1065&utm_source=git)** | Fairfield, NJ | On Site | Jul 22 |
+| **[VisitBritain](https://www.visitbritain.org/)** | **[Travel PR Intern](https://jobright.ai/jobs/info/687f8f589f72804245703aa6?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 22 |
+| **[Acadium](http://www.acadium.com)** | **[Email & Blog Content Marketing Intern](https://jobright.ai/jobs/info/687f8d70764c3d7411c4ba2e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 22 |
+| **[KYOCERA Document Solutions America, Inc.](http://www.kyoceradocumentsolutions.us)** | **[Intern, Corporate Marketing (Video Production)](https://jobright.ai/jobs/info/6863482375a7d35fe59d5902?utm_campaign=1065&utm_source=git)** | Fairfield, NJ | On Site | Jul 22 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/6864dadc685e50e8d29ba6bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 22 |
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Fall PR Internship](https://jobright.ai/jobs/info/687f31062097a271a899ba1b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/687f284d9f72804245701c37?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Remote | Jul 21 |
@@ -73,13 +78,13 @@ For a complete list, click the following sortable link below:
 | **[Ormat Technologies, Inc.](http://www.ormat.com)** | **[Intern - Marketing & Social Media](https://jobright.ai/jobs/info/687eee7b764c3d7411c475dd?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jul 21 |
 | **[New York Red Bulls](http://www.newyorkredbulls.com)** | **[2025 Internship, Fall - Community & Communications](https://jobright.ai/jobs/info/687ee795764c3d7411c47308?utm_campaign=1065&utm_source=git)** | Harrison, NJ | On Site | Jul 21 |
 | **[FGS Global](https://fgsglobal.com)** | **[Intern](https://jobright.ai/jobs/info/687f0e259f72804245700af0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 21 |
+| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Marketing and Development Internship (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/687ee6cb2097a271a8998cc0?utm_campaign=1065&utm_source=git)** | Redford, MI | On Site | Jul 21 |
 | **[Candid](https://candid.org)** | **[Communications & Brand Awareness Intern (Fall 2025)](https://jobright.ai/jobs/info/687ee54d764c3d7411c470b1?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 21 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[intern, Brand Marketing, e.l.f. Skin](https://jobright.ai/jobs/info/687ee52f764c3d7411c47090?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - Nashville](https://jobright.ai/jobs/info/687f03042097a271a89999b5?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Jul 21 |
 | **[The Daily Beast](http://www.thedailybeast.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/687f0f4e9f72804245700b87?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - LA](https://jobright.ai/jobs/info/687f1070764c3d7411c48913?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Intern, Communications & Marketing- Multimedia Brand Studio](https://jobright.ai/jobs/info/687eff00db19f31cf0d6eb01?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 21 |
-| **[MCHS Family of Services](https://www.mchsmi.org)** | **[Marketing and Development Internship (Fall 2025/Spring 2026)](https://jobright.ai/jobs/info/687ed9072097a271a8998498?utm_campaign=1065&utm_source=git)** | Redford, MI | On Site | Jul 21 |
 | **[DLL](http://dllgroup.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/687ed7eadb19f31cf0d6d7dc?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Jul 21 |
 | **[the LEGO Group](http://www.lego.com)** | **[BrickLink Autumn Intern 2025](https://jobright.ai/jobs/info/687eccd6db19f31cf0d6d2ed?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jul 21 |
 | **[ProdataKey](https://www.prodatakey.com)** | **[Marketing Generalist - Internship / Entry-Level - West Valley City, UT](https://jobright.ai/jobs/info/687ecbd6db19f31cf0d6d1fb?utm_campaign=1065&utm_source=git)** | Fairbourne Station Corporate Office | On Site | Jul 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/687ad0faed63844c944a5888?utm_campaign=1065&utm_source=git)** | Johnson City, TN | On Site | Jul 18 |
 | **[Harmelin Media](http://www.harmelin.com)** | **[SEO Intern - Fall 2025](https://jobright.ai/jobs/info/687a74e1ed63844c944a3254?utm_campaign=1065&utm_source=git)** | Bala-Cynwyd, PA | Hybrid | Jul 18 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a64e62097a271a897ea9d?utm_campaign=1065&utm_source=git)** | Austin, Texas | On Site | Jul 18 |
-| ↳ | **[Media Intern - Austin (Fall 2025)](https://jobright.ai/jobs/info/687a5ba0764c3d7411c2cb24?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Jul 18 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[National Publicity Intern](https://jobright.ai/jobs/info/685deefb2fb4aba079998ae6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
-| **[Red Bull](https://redbull.com)** | **[Student Marketeer-University of Colorado-Boulder](https://jobright.ai/jobs/info/67e6e9d124ddccaa0b571e55?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 18 |
-| **[Yavapai College](http://www.yc.edu/)** | **[SE, Marketing Assistant, WS9737](https://jobright.ai/jobs/info/687a23caed63844c944a1858?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jul 18 |
-| **[JoyMe](http://www.joyme.sg)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6879ff99ed63844c944a0e02?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
