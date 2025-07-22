@@ -60,8 +60,7 @@ For a complete list, click the following sortable link below:
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Fall PR Internship](https://jobright.ai/jobs/info/687f31062097a271a899ba1b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | **[DCS Corp](http://www.dcscorp.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/687f284d9f72804245701c37?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Remote | Jul 21 |
 | **[uInterview, Inc.](http://uinterview.com)** | **[Writing & Social Media Intern](https://jobright.ai/jobs/info/687f26d82097a271a899b388?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 21 |
-| **[Acadium](http://www.acadium.com)** | **[Web Design and Content Marketing Intern](https://jobright.ai/jobs/info/687f0e60764c3d7411c4881f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 21 |
-| ↳ | **[Social Media / Video and Content Marketing Intern](https://jobright.ai/jobs/info/687f0bca764c3d7411c486b9?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 21 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media / Video and Content Marketing Intern](https://jobright.ai/jobs/info/687f0bca764c3d7411c486b9?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687f02ac764c3d7411c4824b?utm_campaign=1065&utm_source=git)** | Arlington, VA | Hybrid | Jul 21 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Merchandisign Intern - Fall 2025](https://jobright.ai/jobs/info/687f02a12097a271a8999992?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 21 |
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - Atlanta](https://jobright.ai/jobs/info/687efe192097a271a899975d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
@@ -81,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - LA](https://jobright.ai/jobs/info/687f1070764c3d7411c48913?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Fall 2025 Intern, Communications & Marketing- Multimedia Brand Studio](https://jobright.ai/jobs/info/687eff00db19f31cf0d6eb01?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 21 |
 | **[DLL](http://dllgroup.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/687ed7eadb19f31cf0d6d7dc?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Jul 21 |
-| **[UPS](http://www.ups.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/687ed3552097a271a8998225?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 21 |
 | **[the LEGO Group](http://www.lego.com)** | **[BrickLink Autumn Intern 2025](https://jobright.ai/jobs/info/687eccd6db19f31cf0d6d2ed?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jul 21 |
 | **[ProdataKey](https://www.prodatakey.com)** | **[Marketing Generalist - Internship / Entry-Level - West Valley City, UT](https://jobright.ai/jobs/info/687ecbd6db19f31cf0d6d1fb?utm_campaign=1065&utm_source=git)** | Fairbourne Station Corporate Office | On Site | Jul 21 |
 | **[University of South Florida](http://www.usf.edu)** | **[IAE Research Support Assistant (Social Media Marketing/Public Relations Internship)](https://jobright.ai/jobs/info/687efba0764c3d7411c47b93?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 21 |
@@ -89,7 +87,8 @@ For a complete list, click the following sortable link below:
 | **[James Madison University](https://www.jmu.edu/innovation/jmi.shtml)** | **[Social Media & Content Assistant - FWS](https://jobright.ai/jobs/info/687f0bb7764c3d7411c486b0?utm_campaign=1065&utm_source=git)** | Harrisonburg, VA | On Site | Jul 21 |
 | **[DLL](http://dllgroup.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/687ef1a7db19f31cf0d6e4e1?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Jul 21 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Corporate Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec4b0db19f31cf0d6cf15?utm_campaign=1065&utm_source=git)** | Washington, DC 20004 | On Site | Jul 21 |
-| ↳ | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec0eb2097a271a899797a?utm_campaign=1065&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
+| **[UPS](http://www.ups.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/687ec414764c3d7411c46115?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 21 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec0eb2097a271a899797a?utm_campaign=1065&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/68796db1ed63844c9449ba87?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jul 21 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/687ed2332097a271a899819d?utm_campaign=1065&utm_source=git)** | Saddle Brook, NJ | On Site | Jul 21 |
 | **[Merkle Science](https://www.merklescience.com)** | **[Product Marketing -Intern](https://jobright.ai/jobs/info/687ec134764c3d7411c46056?utm_campaign=1065&utm_source=git)** | New York | Remote | Jul 21 |
@@ -130,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/685de6b99ba0accc1544c654?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/65074fe4d734d4d701c23365?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Jul 18 |
-| **[HeyGen](https://www.heygen.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/687c9581764c3d7411c398b3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 18 |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Marketing Intern/PT](https://jobright.ai/jobs/info/687af771764c3d7411c30418?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jul 18 |
 | ↳ | **[Marketing Intern/PT](https://jobright.ai/jobs/info/687aed71764c3d7411c30122?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Jul 18 |
 | **[Barnard College](https://barnard.edu/)** | **[ERC Marketing Intern](https://jobright.ai/jobs/info/687b244aed63844c944a6b9e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[National Publicity Intern](https://jobright.ai/jobs/info/685deefb2fb4aba079998ae6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
 | **[Red Bull](https://redbull.com)** | **[Student Marketeer-University of Colorado-Boulder](https://jobright.ai/jobs/info/67e6e9d124ddccaa0b571e55?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jul 18 |
 | **[Yavapai College](http://www.yc.edu/)** | **[SE, Marketing Assistant, WS9737](https://jobright.ai/jobs/info/687a23caed63844c944a1858?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Jul 18 |
+| **[JoyMe](http://www.joyme.sg)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6879ff99ed63844c944a0e02?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 18 |
+| **[Sea Machines Robotics](http://www.sea-machines.com)** | **[Marketing Intern (Content Creation Support)](https://jobright.ai/jobs/info/6879ec382097a271a897b9b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
