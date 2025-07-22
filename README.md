@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[the LEGO Group](http://www.lego.com)** | **[BrickLink Autumn Intern 2025](https://jobright.ai/jobs/info/687eccd6db19f31cf0d6d2ed?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Jul 21 |
+| **[ProdataKey](https://www.prodatakey.com)** | **[Marketing Generalist - Internship / Entry-Level - West Valley City, UT](https://jobright.ai/jobs/info/687ecbd6db19f31cf0d6d1fb?utm_campaign=1065&utm_source=git)** | Fairbourne Station Corporate Office | On Site | Jul 21 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Corporate Communications (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec4b0db19f31cf0d6cf15?utm_campaign=1065&utm_source=git)** | Washington, DC 20004 | On Site | Jul 21 |
+| **[UPS](http://www.ups.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/687ec414764c3d7411c46115?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 21 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/687ec0eb2097a271a899797a?utm_campaign=1065&utm_source=git)** | Arlington, VA 22203 | Hybrid | Jul 21 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/68796db1ed63844c9449ba87?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Jul 21 |
+| **[Merkle Science](https://www.merklescience.com)** | **[Product Marketing -Intern](https://jobright.ai/jobs/info/687ec134764c3d7411c46056?utm_campaign=1065&utm_source=git)** | New York | Remote | Jul 21 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Events Intern](https://jobright.ai/jobs/info/687e9a5b2097a271a899662a?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | Jul 21 |
 | **[meQuilibrium](http://www.mequilibrium.com)** | **[Marketing Production Intern](https://jobright.ai/jobs/info/687e9a0a2097a271a89965f0?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 21 |
 | **[Groot Hospitality](https://groothospitality.com/)** | **[Marketing Intern - Miami](https://jobright.ai/jobs/info/687e99b9db19f31cf0d6b967?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | Jul 21 |
@@ -66,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/687e8ff92097a271a8995f9e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Fall 2025 Partnership Marketing Intern](https://jobright.ai/jobs/info/687eafb7db19f31cf0d6c408?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Jul 21 |
 | ↳ | **[Fall 2025 Partnership Marketing Intern](https://jobright.ai/jobs/info/687e8f1fdb19f31cf0d6b156?utm_campaign=1065&utm_source=git)** | Frisco, Texas | On Site | Jul 21 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Digital Marketing Paid Intern](https://jobright.ai/jobs/info/687eba682097a271a89976ab?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 21 |
 | **[meQuilibrium](http://www.mequilibrium.com)** | **[Marketing Production Intern](https://jobright.ai/jobs/info/687ea1ae764c3d7411c44fd2?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 21 |
 | **[Alliance Marketing Partners](http://alliancemarketingpartners.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/687e7edbdb19f31cf0d6aacb?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 21 |
 | **[SEO (Sponsors for Educational Opportunity)](http://www.seo-usa.org)** | **[Access PAID SUMMER 2026 Internships with SEO Career at SEO (Sponsors for Educational Opportunity)](https://jobright.ai/jobs/info/687e6e442097a271a8994eee?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 21 |
@@ -74,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Sunny Sky Products](https://sunnyskyproducts.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687e50512097a271a8994472?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Social Media Ambassador, Department of Theatre and Dance (Open to work study and non-work study)](https://jobright.ai/jobs/info/687e4e882097a271a899432e?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Jul 21 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Social Media Assistant](https://jobright.ai/jobs/info/687e57b42097a271a89946cb?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 21 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/687e32332097a271a899375e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/6864b44d0123eb491ffc035e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Marketing Internships: NYC- Fall 2025](https://jobright.ai/jobs/info/687deaed764c3d7411c3fc38?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
 | ↳ | **[Sports Social Media Internships: NYC -Fall 2025](https://jobright.ai/jobs/info/687deab32097a271a899169d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 21 |
@@ -93,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social & Partnerships](https://jobright.ai/jobs/info/687ca8b7ed63844c944b0c8f?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jul 19 |
 | **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/687baf73ed63844c944aabf7?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | Hybrid | Jul 19 |
 | **[The Goddard School](http://goddardschool.com)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/685de4091361d54b63c99f93?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | Hybrid | Jul 19 |
-| **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Integrated Marketing Communications](https://jobright.ai/jobs/info/687b72092097a271a8984189?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 18 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/685de6b99ba0accc1544c654?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 18 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Equine Marketing Intern](https://jobright.ai/jobs/info/65074fe4d734d4d701c23365?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 18 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Jul 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a0f2097a271a8977dd0?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/68797a06ed63844c9449c09d?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 17 |
 | ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbf?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f82097a271a8977dbe?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979f6ed63844c9449c08c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daa?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977dab?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e82097a271a8977daf?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 17 |
-| ↳ | **[Fall 2025 Internship - Social Impact](https://jobright.ai/jobs/info/687979e6ed63844c9449c074?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
