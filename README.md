@@ -87,7 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.caterpillar.com)** | **[2026 Summer Corporate Intern - Marketing](https://jobright.ai/jobs/info/68755d34299cbc74b875421c?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Jul 16 |
 | **[Framatome](http://www.framatome.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6860cf285c6acfa855f09a9f?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | On Site | Jul 16 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/687c6d2eed63844c944ad6d5?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/687c573fed63844c944accbe?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/687c6481ed63844c944ad3c0?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 15 |
 | **[Concord](https://concord.com/)** | **[KIDZ BOP Marketing Intern](https://jobright.ai/jobs/info/687c7f74764c3d7411c3883d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Music marketing intern (Music promotion and distribution) - 2025 project Intern (BS/MS)](https://jobright.ai/jobs/info/687b88a3ed63844c944a8322?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 11 |
 | ↳ | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 11 |
