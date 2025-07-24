@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TEAM](http://www.weareteam.com)** | **[PT Brand Influencer (Temporary)](https://jobright.ai/jobs/info/68821b8a89987b37105b17eb?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Jul 24 |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Conference & Event Planning (Fall 2025)](https://jobright.ai/jobs/info/688215ebe36ab438ac259dd1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (GBO) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68499104f920ac7bef1044a4?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
+| **[Lynwood Unified School District](www.mylusd.org)** | **[COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/68820e7b4b37ff1fba97b878?utm_campaign=1065&utm_source=git)** | Lynwood, CA | On Site | Jul 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Campaign Intern (TikTok Shop - US Operation) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6875db4dae2f413e4a5aa5ba?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 24 |
 | **[Climate Techies by 4WARD: The largest local-to-global community for climate & sustainability!](http://4ward.vc/accelerator)** | **[🌍 🌿 Content & Community Marketing Volunteer: 4WARD.earth 🌎](https://jobright.ai/jobs/info/6881f87841fbda106ee6f3fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications & Social Media
 Job ID : 261498](https://jobright.ai/jobs/info/6881f2dcee15177ae971926b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 24 |
@@ -153,9 +158,4 @@ Job ID : 261498](https://jobright.ai/jobs/info/6881f2dcee15177ae971926b?utm_camp
 | **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6881194bf4f06100f3a23f98?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | Jul 23 |
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/688117e229ad6b2744adefd8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/6881160ff4f06100f3a23d18?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
-| **[Going Mutts Pet Services, LLC](http://www.goingmuttspetservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6870298701cc0956e7e7fcf2?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Jul 23 |
-| **[Lee & Associates | Tampa Bay](https://www.lee-associates.com/offices/office/?id=15810)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68811b4629ad6b2744adf25a?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 23 |
-| **[Intrinsic Solutions Marketing Agency, Inc.](http://www.intrinsicsolutionsmarketing.com/)** | **[MarketingTrainee](https://jobright.ai/jobs/info/687dcfaced63844c944b4ba7?utm_campaign=1065&utm_source=git)** | Carmichael, CA | On Site | Jul 23 |
-| **[Groflex AI](https://groflex.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6881d48e41fbda106ee6d8b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Marketing (Proposal) Intern](https://jobright.ai/jobs/info/6881203916ea5743a373660c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
