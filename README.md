@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Climate Techies by 4WARD: The largest local-to-global community for climate & sustainability!](http://4ward.vc/accelerator)** | **[🌍 🌿 Content & Community Marketing Volunteer: 4WARD.earth 🌎](https://jobright.ai/jobs/info/6881f87841fbda106ee6f3fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications & Social Media
+Job ID : 261498](https://jobright.ai/jobs/info/6881f2dcee15177ae971926b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 24 |
+| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6881e94d41fbda106ee6ec86?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d7df1321092fa0061db9?utm_campaign=1065&utm_source=git)** | Troy, Michigan | Hybrid | Jul 23 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d51a1321092fa0061bc2?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Jul 23 |
+| **[Sparks Village Academy](sparksvillage.com)** | **[Virtual Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/6881e82bee15177ae9718d6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[sachi](https://gosachi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6881bf2041fbda106ee6c978?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 23 |
 | **[Omnia WorkSpace](omniaworkspace.com)** | **[Investor Relations Intern (Commission-Based)](https://jobright.ai/jobs/info/6881be231321092fa0060bbc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[ShareNest](https://www.sharenest.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6881b4c716ea5743a373b9f6?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | On Site | Jul 23 |
@@ -96,7 +101,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68816f9716ea5743a3739128?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Hybrid | Jul 23 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68816f06f4f06100f3a26e72?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 23 |
 | **[ACH Child & Family Services](https://achservices.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6881a89029ad6b2744ae3f38?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jul 23 |
-| **[CU Online](https://online.cu.edu/)** | **[Temporary Athletic Communications Associate](https://jobright.ai/jobs/info/6881a97429ad6b2744ae3fcb?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Jul 23 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Merchandising Intern - Fall 2025](https://jobright.ai/jobs/info/68816d0729ad6b2744ae216f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6881691af4f06100f3a26c4e?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Venues Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68816581f4f06100f3a26a86?utm_campaign=1065&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 23 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Solutions Marketing Agency, Inc.](http://www.intrinsicsolutionsmarketing.com/)** | **[MarketingTrainee](https://jobright.ai/jobs/info/687dcfaced63844c944b4ba7?utm_campaign=1065&utm_source=git)** | Carmichael, CA | On Site | Jul 23 |
 | **[Groflex AI](https://groflex.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6881d48e41fbda106ee6d8b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Marketing (Proposal) Intern](https://jobright.ai/jobs/info/6881203916ea5743a373660c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
-| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Social Media Content Creator Intern](https://jobright.ai/jobs/info/688118f3f4f06100f3a23f4d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
-| **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Community Fundraising & Events Intern](https://jobright.ai/jobs/info/68811b3e16ea5743a3736183?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 23 |
-| **[KRC Research](http://www.krcresearch.com)** | **[Market Research Intern (Fall 2025)](https://jobright.ai/jobs/info/686434ab3b01d176faa6fd3e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
