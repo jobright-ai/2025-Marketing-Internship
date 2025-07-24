@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Henry Ford Health](http://www.henryford.com/)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d7df1321092fa0061db9?utm_campaign=1065&utm_source=git)** | Troy, Michigan | Hybrid | Jul 23 |
+| **[Health Alliance Plan](https://www.hap.org)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d51a1321092fa0061bc2?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Jul 23 |
 | **[sachi](https://gosachi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6881bf2041fbda106ee6c978?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 23 |
 | **[Omnia WorkSpace](omniaworkspace.com)** | **[Investor Relations Intern (Commission-Based)](https://jobright.ai/jobs/info/6881be231321092fa0060bbc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[ShareNest](https://www.sharenest.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6881b4c716ea5743a373b9f6?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | On Site | Jul 23 |
@@ -97,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[CU Online](https://online.cu.edu/)** | **[Temporary Athletic Communications Associate](https://jobright.ai/jobs/info/6881a97429ad6b2744ae3fcb?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Jul 23 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Merchandising Intern - Fall 2025](https://jobright.ai/jobs/info/68816d0729ad6b2744ae216f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6881691af4f06100f3a26c4e?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Jul 23 |
-| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Athletic Communications Associate](https://jobright.ai/jobs/info/68816612f4f06100f3a26ac9?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Jul 23 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Venues Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68816581f4f06100f3a26a86?utm_campaign=1065&utm_source=git)** | Washington, DC 20004 | Hybrid | Jul 23 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Integrated Marketing Intern Fall 2025](https://jobright.ai/jobs/info/6881630429ad6b2744ae1be0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 23 |
 | **[Matthews Real Estate Investment Services™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/6881623629ad6b2744ae1b88?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Jul 23 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/688117e229ad6b2744adefd8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 23 |
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/6881160ff4f06100f3a23d18?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 | **[Going Mutts Pet Services, LLC](http://www.goingmuttspetservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6870298701cc0956e7e7fcf2?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Jul 23 |
-| **[Lee & Associates | Tampa Bay](https://www.lee-associates.com/offices/office/?id=15810)** | **[Marketing & Research Intern](https://jobright.ai/jobs/info/68811b4629ad6b2744adf25a?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 23 |
+| **[Lee & Associates | Tampa Bay](https://www.lee-associates.com/offices/office/?id=15810)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68811b4629ad6b2744adf25a?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jul 23 |
 | **[Intrinsic Solutions Marketing Agency, Inc.](http://www.intrinsicsolutionsmarketing.com/)** | **[MarketingTrainee](https://jobright.ai/jobs/info/687dcfaced63844c944b4ba7?utm_campaign=1065&utm_source=git)** | Carmichael, CA | On Site | Jul 23 |
+| **[Groflex AI](https://groflex.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/6881d48e41fbda106ee6d8b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Marketing (Proposal) Intern](https://jobright.ai/jobs/info/6881203916ea5743a373660c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jul 23 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Social Media Content Creator Intern](https://jobright.ai/jobs/info/688118f3f4f06100f3a23f4d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 23 |
 | **[The Michael J. Fox Foundation for Parkinson's Research](http://www.michaeljfox.org)** | **[Community Fundraising & Events Intern](https://jobright.ai/jobs/info/68811b3e16ea5743a3736183?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 23 |
 | **[KRC Research](http://www.krcresearch.com)** | **[Market Research Intern (Fall 2025)](https://jobright.ai/jobs/info/686434ab3b01d176faa6fd3e?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 23 |
-| **[Airbus](https://us.airbus.com)** | **[Werkstudent (d/m/w) A320 VSM Chief Industrial Communications Strategy](https://jobright.ai/jobs/info/6880e8abf4f06100f3a21f47?utm_campaign=1065&utm_source=git)** | Hamburg Area | Hybrid | Jul 23 |
-| **[SiriusXM](http://siriusxm.com)** | **[Fall Intern, Podcast Marketing - Part-time](https://jobright.ai/jobs/info/686427b1dce9e834393f95c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
