@@ -57,18 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tangify](https://www.tangify.co)** | **[Marketing Intern - Full time](https://jobright.ai/jobs/info/68823213835a903aa07ebae5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 24 |
+| **[Girls Inc.](http://www.girlsinc.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68822965e36ab438ac25a5f7?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jul 24 |
 | **[TEAM](http://www.weareteam.com)** | **[PT Brand Influencer (Temporary)](https://jobright.ai/jobs/info/68821b8a89987b37105b17eb?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Jul 24 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern – Conference & Event Planning (Fall 2025)](https://jobright.ai/jobs/info/688215ebe36ab438ac259dd1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (GBO) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/68499104f920ac7bef1044a4?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
 | **[Lynwood Unified School District](www.mylusd.org)** | **[COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/68820e7b4b37ff1fba97b878?utm_campaign=1065&utm_source=git)** | Lynwood, CA | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Campaign Intern (TikTok Shop - US Operation) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6875db4dae2f413e4a5aa5ba?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 24 |
-| **[Climate Techies by 4WARD: The largest local-to-global community for climate & sustainability!](http://4ward.vc/accelerator)** | **[🌍 🌿 Content & Community Marketing Volunteer: 4WARD.earth 🌎](https://jobright.ai/jobs/info/6881f87841fbda106ee6f3fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[4WARD.earth: Local-to-Global Climate and Sustainability Community](http://4ward.vc/accelerator)** | **[🌍 🌿 Content & Community Marketing Volunteer: 4WARD.earth 🌎](https://jobright.ai/jobs/info/6881f87841fbda106ee6f3fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern – Public Information: Communications & Social Media
 Job ID : 261498](https://jobright.ai/jobs/info/6881f2dcee15177ae971926b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 24 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6881e94d41fbda106ee6ec86?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d7df1321092fa0061db9?utm_campaign=1065&utm_source=git)** | Troy, Michigan | Hybrid | Jul 23 |
 | **[Health Alliance Plan](https://www.hap.org)** | **[Graduate Student Intern Marketing/Communications (Hybrid - Troy, MI) - Health Alliance Plan](https://jobright.ai/jobs/info/6881d51a1321092fa0061bc2?utm_campaign=1065&utm_source=git)** | Troy, MI | Hybrid | Jul 23 |
-| **[Sparks Village Academy](sparksvillage.com)** | **[Virtual Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/6881e82bee15177ae9718d6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[sachi](https://gosachi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6881bf2041fbda106ee6c978?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jul 23 |
 | **[Omnia WorkSpace](omniaworkspace.com)** | **[Investor Relations Intern (Commission-Based)](https://jobright.ai/jobs/info/6881be231321092fa0060bbc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 23 |
 | **[ShareNest](https://www.sharenest.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6881b4c716ea5743a373b9f6?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | On Site | Jul 23 |
@@ -157,5 +158,4 @@ Job ID : 261498](https://jobright.ai/jobs/info/6881f2dcee15177ae971926b?utm_camp
 | **[Caren West PR](https://www.carenwestpr.com)** | **[Publicity Assistant](https://jobright.ai/jobs/info/6881474f29ad6b2744ae0bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 23 |
 | **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6881194bf4f06100f3a23f98?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | Jul 23 |
 | ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/688117e229ad6b2744adefd8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 23 |
-| ↳ | **[Music Agency Internship](https://jobright.ai/jobs/info/6881160ff4f06100f3a23d18?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
