@@ -131,8 +131,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289dfb54cac0f1e730779?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289b9b54cac0f1e73072e?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289acb54cac0f1e730711?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee860?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee861?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee860?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828988b54cac0f1e7306cb?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828977b54cac0f1e7306ad?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828974835a903aa07ee842?utm_campaign=1065&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 24 |
