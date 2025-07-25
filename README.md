@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cider](https://shop.shopcider.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6882e384b54cac0f1e733652?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 24 |
+| **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant -Cary Center](https://jobright.ai/jobs/info/6882e213b54cac0f1e7335bb?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Jul 24 |
+| **[Wavytalk](www.wavytalk.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6882df79835a903aa07f1481?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/6882db31835a903aa07f1354?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / San Jose State University](https://jobright.ai/jobs/info/6882d561b54cac0f1e733153?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Center for Entrepreneurship & Innovation Intern](https://jobright.ai/jobs/info/6882d3ccb54cac0f1e733020?utm_campaign=1065&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Jul 24 |
+| **[MerchSource](https://www.thethreesixtygroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6882d359b54cac0f1e732f86?utm_campaign=1065&utm_source=git)** | Irvine, California, United States | Hybrid | Jul 24 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Content Writing Intern - College of Engineering - Integrated Innovation Institute](https://jobright.ai/jobs/info/6882d169835a903aa07f0e0e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 24 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Salesforce Marketing Cloud Intern - Fall 2025](https://jobright.ai/jobs/info/6882d054b54cac0f1e732def?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jul 24 |
+| **[uInterview, Inc.](http://uinterview.com)** | **[Writing & Social Media Intern](https://jobright.ai/jobs/info/6882cd5d835a903aa07f0c8f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Southampton Studios](http://www.southamptonstudios.com)** | **[Affiliate Marketing Specialist](https://jobright.ai/jobs/info/6882cabab54cac0f1e732c6c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 24 |
 | **[Spacer Robotics](spacerrobotics.ai)** | **[Marketing & Brand Strategy Intern](https://jobright.ai/jobs/info/6882c7ab835a903aa07f0ab5?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 24 |
 | **[American Food & Vending](https://www.afvusa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6882c7a96fcd973d15adc537?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Jul 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6882c77b6fcd973d15adc523?utm_campaign=1065&utm_source=git)** | Webster Groves, MO | On Site | Jul 24 |
@@ -68,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Summer Student Employment](https://jobright.ai/jobs/info/6882b9ffb54cac0f1e73267f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations Internship 2025](https://jobright.ai/jobs/info/6882b761b54cac0f1e732563?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jul 24 |
 | **[Bits to Atoms](https://bitstoatoms.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6882b74f6fcd973d15adbef5?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 24 |
-| **[PRETTY MAFIA](https://prettymafia.co)** | **[Brand Manager Intern](https://jobright.ai/jobs/info/6882b64a6fcd973d15adbd62?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 24 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6882b60fb54cac0f1e7323dc?utm_campaign=1065&utm_source=git)** | New Castle County, DE | On Site | Jul 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[PPC Intern, Fall 2025](https://jobright.ai/jobs/info/6882b5c76fcd973d15adbd2e?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 24 |
 | ↳ | **[Paid Social Advertising Intern, Fall 2025](https://jobright.ai/jobs/info/6882b5b4b54cac0f1e732378?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 24 |
@@ -103,8 +113,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289dfb54cac0f1e730779?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289b9b54cac0f1e73072e?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289acb54cac0f1e730711?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee861?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee860?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee861?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828988b54cac0f1e7306cb?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828977b54cac0f1e7306ad?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828974835a903aa07ee842?utm_campaign=1065&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/6882852c835a903aa07ee124?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Influencer Marketing Intern, Fall 2025](https://jobright.ai/jobs/info/6882a66f6fcd973d15adb461?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Evolve California](https://www.evolve-ca.org/)** | **[Campaign Intern](https://jobright.ai/jobs/info/68828193835a903aa07edfc7?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 24 |
-| **[Good News Roofing & Solar](https://goodnewsroofing.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68828123b54cac0f1e72ff3e?utm_campaign=1065&utm_source=git)** | Kyle, TX | On Site | Jul 24 |
-| **[Van Cleef & Arpels](https://www.vancleefarpels.com)** | **[V.I.E Marketing Executive - New York City](https://jobright.ai/jobs/info/68827ddcb54cac0f1e72fd60?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 24 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Influencer Marketing Intern, Fall 2025](https://jobright.ai/jobs/info/68827b3f835a903aa07edc1e?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 24 |
-| **[PGA TOUR](http://www.pgatour.com)** | **[Intern - Championship Management](https://jobright.ai/jobs/info/688266bd6fcd973d15ad8e10?utm_campaign=1065&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Jul 24 |
-| **[Berklee College of Music](http://berklee.edu)** | **[Caf Show Marketing Assistant](https://jobright.ai/jobs/info/688266b56fcd973d15ad8e05?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
-| ↳ | **[Caf Show Marketing Assistant (Federal Work-Study)](https://jobright.ai/jobs/info/6882668c835a903aa07ed3ad?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | On Site | Jul 24 |
-| **[Emergys](http://www.emergys.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/685ec23184a658e1ee856ccb?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 24 |
-| **[HealthSathi](https://health-sathi.org)** | **[Marketing Intern (Unpaid, Part-Time)](https://jobright.ai/jobs/info/68825de06fcd973d15ad8a21?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[TikTok Intern](https://jobright.ai/jobs/info/688259606fcd973d15ad886a?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 24 |
-| **[Hydrow, Inc.](https://hydrow.com)** | **[Co-Op: CRM, Affiliates and Influencers](https://jobright.ai/jobs/info/68825725b54cac0f1e72ece2?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
