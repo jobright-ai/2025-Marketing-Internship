@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jars AI](https://jars.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68832221835a903aa07f3ef0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68831b71b54cac0f1e735af8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Port of San Diego](https://www.portofsandiego.org/)** | **[Intern](https://jobright.ai/jobs/info/68831351835a903aa07f3644?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688307be835a903aa07f2d4d?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Paid Social Advertising Intern, Fall 2025](https://jobright.ai/jobs/info/6882fcad835a903aa07f240a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
@@ -88,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Social Media (Sports Talent + The Collective)](https://jobright.ai/jobs/info/6882c3e0835a903aa07f09dc?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | Hybrid | Jul 24 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Digital Marketing Intern at Moo Housing Inc.](https://jobright.ai/jobs/info/6882c29a835a903aa07f094c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | ↳ | **[Marketing Intern at Opportunity Knocks](https://jobright.ai/jobs/info/6882c14b835a903aa07f08e3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
-| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/6882ffe76fcd973d15ade0ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Flourish By Sage](https://flourishbysage.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688327856fcd973d15adfd24?utm_campaign=1065&utm_source=git)** | East Orange, NJ | Hybrid | Jul 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Social Commerce & Community Internship, Fall 2025](https://jobright.ai/jobs/info/6882bc396fcd973d15adc10e?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jul 24 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Summer Student Employment](https://jobright.ai/jobs/info/6882b9ffb54cac0f1e73267f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 24 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Public Relations Internship 2025](https://jobright.ai/jobs/info/6882b761b54cac0f1e732563?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jul 24 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289dfb54cac0f1e730779?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289b9b54cac0f1e73072e?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688289acb54cac0f1e730711?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee860?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee861?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Jul 24 |
+| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828989835a903aa07ee860?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828988b54cac0f1e7306cb?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828977b54cac0f1e7306ad?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828974835a903aa07ee842?utm_campaign=1065&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/6882878b6fcd973d15ad9dc9?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688287826fcd973d15ad9dbc?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 24 |
 | **[North Carolina State University](http://www.ncsu.edu/)** | **[Technical Communications Intern (Temp)](https://jobright.ai/jobs/info/6882877fb54cac0f1e7302e1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828779b54cac0f1e7302d7?utm_campaign=1065&utm_source=git)** | USA-GA - Georgia Remote | Remote | Jul 24 |
-| ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/68828778835a903aa07ee4ce?utm_campaign=1065&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
