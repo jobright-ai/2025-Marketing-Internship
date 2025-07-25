@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tech TLC](https://mytechtlc.com)** | **[Volunteer/College Intern – Marketing & Business Development](https://jobright.ai/jobs/info/68835238b54cac0f1e73773a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
+| **[FIRST](https://firstagency.com/)** | **[Marketing Intern (Fall)](https://jobright.ai/jobs/info/6883482cb54cac0f1e737555?utm_campaign=1065&utm_source=git)** | FIRST - New York | On Site | Jul 25 |
 | **[Jars AI](https://jars.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68832221835a903aa07f3ef0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68831b71b54cac0f1e735af8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 24 |
 | **[Port of San Diego](https://www.portofsandiego.org/)** | **[Intern](https://jobright.ai/jobs/info/68831351835a903aa07f3644?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 24 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Cider](https://shop.shopcider.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6882e384b54cac0f1e733652?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 24 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Student Assistant -Cary Center](https://jobright.ai/jobs/info/6882e213b54cac0f1e7335bb?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Jul 24 |
 | **[Wavytalk](www.wavytalk.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6882df79835a903aa07f1481?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 24 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/6882db31835a903aa07f1354?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[JUNOCO](https://www.junoco.com)** | **[Content Creation Internship](https://jobright.ai/jobs/info/6882f90fb54cac0f1e7340b1?utm_campaign=1065&utm_source=git)** | Burlingame, CA | On Site | Jul 24 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / San Jose State University](https://jobright.ai/jobs/info/6882d561b54cac0f1e733153?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 24 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Center for Entrepreneurship & Innovation Intern](https://jobright.ai/jobs/info/6882d3ccb54cac0f1e733020?utm_campaign=1065&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/6882879e6fcd973d15ad9de2?utm_campaign=1065&utm_source=git)** | USA-FL - Florida Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/6882878b6fcd973d15ad9dc9?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 24 |
 | ↳ | **[Fall 2025 Internship - Client Services, Baseball](https://jobright.ai/jobs/info/688287826fcd973d15ad9dbc?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 24 |
-| **[North Carolina State University](http://www.ncsu.edu/)** | **[Technical Communications Intern (Temp)](https://jobright.ai/jobs/info/6882877fb54cac0f1e7302e1?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
