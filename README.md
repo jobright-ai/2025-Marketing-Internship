@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Elevance Health](https://www.elevancehealth.com)** | **[Strategic Growth Intern, Part–Time Fall 2025](https://jobright.ai/jobs/info/688489edb651c92cb78a9c53?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68848762b651c92cb78a9bad?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Jul 26 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/688482e7fbbf032d0006a359?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Jul 26 |
 | **[CONTIDB](contidb.com)** | **[Brand Identity & Digital Storytelling Intern / Unpaid Internship / Luxury Real Estate & Lifestyle Brand](https://jobright.ai/jobs/info/68847c65b651c92cb78a90f0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Jul 25 |
@@ -105,8 +106,6 @@ For a complete list, click the following sortable link below:
 | **[American University](http://american.edu)** | **[CSI Programming & Marketing Assistant (Student)(FWS)](https://jobright.ai/jobs/info/68843ba14174df41e0f90450?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[YMCA of Greater New York](http://www.ymcanyc.org)** | **[MarComm Intern (Association Office)](https://jobright.ai/jobs/info/68843273b54cac0f1e73cae1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 25 |
 | **[Middleton Meyers](https://www.middletonmeyers.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/68840e7f835a903aa07f9e15?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jul 25 |
-| **[Muni Insurance ](https://www.muniinsurance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68840d3bb54cac0f1e73bcb9?utm_campaign=1065&utm_source=git)** | Naugatuck, CT | On Site | Jul 25 |
-| **[CSI DMC](http://csi-dmc.com)** | **[Event Internship at CSI DMC, Washington, DC](https://jobright.ai/jobs/info/68840c34b54cac0f1e73bbd9?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Beta Hat](http://betahatMR.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/68840a7cb54cac0f1e73bbaa?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 25 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Athletics Marketing Assistant (FWS/NFWS)](https://jobright.ai/jobs/info/688409b36fcd973d15ae5455?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Jul 25 |
 | **[A. O. Smith Corporation](http://www.aosmithindia.com)** | **[Channel Marketing Specialist](https://jobright.ai/jobs/info/68569f654b5ecfe620bf912b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Jul 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Focus Physical Therapy](https://physicaltherapylouisville.com)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/6883b4a8835a903aa07f6f00?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jul 25 |
 | **[Presidents' Alliance on Higher Education and Immigration](https://www.presidentsalliance.org)** | **[Fall Communications Intern](https://jobright.ai/jobs/info/6883b3e2835a903aa07f6eb5?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[BPCM](http://www.bpcm.com)** | **[Fall Internship - Influencer & Celebrity Relations](https://jobright.ai/jobs/info/6883b214b54cac0f1e738e21?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Jul 25 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Intern (Church Channels)](https://jobright.ai/jobs/info/6883af79b54cac0f1e738cff?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
