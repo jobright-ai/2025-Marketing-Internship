@@ -116,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Ashcroft Inc.](http://www.ashcroft.com)** | **[Marketing Intern-Video Content (Part-time)](https://jobright.ai/jobs/info/6884024f6fcd973d15ae5146?utm_campaign=1065&utm_source=git)** | Stratford, CT | On Site | Jul 25 |
 | **[Dragonfly Pond Works](https://www.dragonflypondworks.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/688422086fcd973d15ae5b50?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 25 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/6883f6d9b54cac0f1e73b584?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 25 |
+| **[Aspora](www.aspora.com)** | **[Growth Intern (US only)](https://jobright.ai/jobs/info/6883f543b54cac0f1e73b404?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[COLLiDE Agency, INC](https://www.wearecollide.com)** | **[Intern](https://jobright.ai/jobs/info/6883f4f4835a903aa07f94f0?utm_campaign=1065&utm_source=git)** | Oregon, United States | Remote | Jul 25 |
 | **[Diaza Football](http://www.diaza.com)** | **[Marketing and Social Media Internship - Fall 2025](https://jobright.ai/jobs/info/6883f4acb54cac0f1e73b36b?utm_campaign=1065&utm_source=git)** | Linden, NJ | On Site | Jul 25 |
 | **[Banyan Technology](http://www.banyantechnology.com)** | **[Intern - HubSpot Reporting & Analytics](https://jobright.ai/jobs/info/6883f3696fcd973d15ae4c12?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atricent](www.atricent.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6883b4b6b54cac0f1e738f17?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Focus Physical Therapy](https://physicaltherapylouisville.com)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/6883b4a8835a903aa07f6f00?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jul 25 |
 | **[Presidents' Alliance on Higher Education and Immigration](https://www.presidentsalliance.org)** | **[Fall Communications Intern](https://jobright.ai/jobs/info/6883b3e2835a903aa07f6eb5?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 25 |
-| **[BPCM](http://www.bpcm.com)** | **[Fall Internship - Influencer & Celebrity Relations](https://jobright.ai/jobs/info/6883b214b54cac0f1e738e21?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
