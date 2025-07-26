@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68852a3bb651c92cb78ab669?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
+| **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/688529ef4174df41e0f9651b?utm_campaign=1065&utm_source=git)** | Athens, Georgia, United States | On Site | Jul 26 |
+| **[Deep Root Records](https://www.deeprootrecords.com/)** | **[Media Intern](https://jobright.ai/jobs/info/68851a70fbbf032d0006bf50?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
 | **[Venture Capital & Innovation Platform](https://www.linkedin.com/company/107599035)** | **[Brand Storyteller & Content Strategist](https://jobright.ai/jobs/info/688511bb4174df41e0f960f3?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jul 26 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern, Remote)](https://jobright.ai/jobs/info/688507cab651c92cb78aaea9?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jul 26 |
 | **[Finanedu Consulting](http://www.finanedu.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688507a8b651c92cb78aae9f?utm_campaign=1065&utm_source=git)** | Reading, PA | Hybrid | Jul 26 |
@@ -98,10 +101,12 @@ For a complete list, click the following sortable link below:
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6884217c6fcd973d15ae5b25?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/688446334174df41e0f90bd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 25 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[SSBT Social Media Intern](https://jobright.ai/jobs/info/68841f72835a903aa07fa2b0?utm_campaign=1065&utm_source=git)** | Duluth, MN | On Site | Jul 25 |
-| **[Meaningful Works](https://www.meaningfulworks.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688414eeb54cac0f1e73c004?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
+| **[Catalyst Marketing Group](www.thecatalystmg.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/688524edb651c92cb78ab5c0?utm_campaign=1065&utm_source=git)** | Oyster Bay, NY | On Site | Jul 25 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524ddfbbf032d0006c1f7?utm_campaign=1065&utm_source=git)** | Westbury, NY | On Site | Jul 25 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524abfbbf032d0006c1c3?utm_campaign=1065&utm_source=git)** | Long Beach, NY | On Site | Jul 25 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524d5fbbf032d0006c1ec?utm_campaign=1065&utm_source=git)** | Elmont, NY | On Site | Jul 25 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador - University of Alabama (Tuscaloosa)](https://jobright.ai/jobs/info/688414aa835a903aa07fa0e8?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 25 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Part-Time Brand Ambassador](https://jobright.ai/jobs/info/68841242835a903aa07f9feb?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Jul 25 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2025 Group Benefit Solutions (GBS) Strategy Solutions & Marketing Summer Internship Program – TN/PA at New York Life Insurance Company](https://jobright.ai/jobs/info/68844d0e4174df41e0f91376?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[Simantel](https://www.simantel.com)** | **[INTERN - Executive Social Media/Public Relations Assistant](https://jobright.ai/jobs/info/688445d8fbbf032d0006697e?utm_campaign=1065&utm_source=git)** | Peoria, IL | Hybrid | Jul 25 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator (Internship) - Anchorage, Alaska-Fall 2025](https://jobright.ai/jobs/info/688411136fcd973d15ae56f2?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Jul 25 |
 | **[TED Conferences](http://www.ted.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68844730b651c92cb78a5e1b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 25 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GreenlightGO](https://greenlightgo.tv)** | **[Digital Marketing Internship - Fall 2025](https://jobright.ai/jobs/info/6883bd5c835a903aa07f72f4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Nexus Executive Group Inc](http://nexusexecutivegroupinc.com/)** | **[Marketing and Sales Internship](https://jobright.ai/jobs/info/6883bc9f835a903aa07f72ae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 25 |
 | **[BPCM](http://www.bpcm.com)** | **[Fall Internship - Multiple Departments](https://jobright.ai/jobs/info/6883bc41b54cac0f1e73923e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 25 |
-| **[Artisan](https://www.artisan.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/6883efa8835a903aa07f90f5?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Jul 25 |
-| **[Mspark](http://www.mspark.com)** | **[Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/6883b7f0b54cac0f1e739077?utm_campaign=1065&utm_source=git)** | Remote (United States) | Remote | Jul 25 |
-| **[ticker](https://www.tickerapp.io)** | **[Marketing Strategist](https://jobright.ai/jobs/info/68845cf14174df41e0f92453?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Atricent](www.atricent.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6883b4b6b54cac0f1e738f17?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Focus Physical Therapy](https://physicaltherapylouisville.com)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/6883b4a8835a903aa07f6f00?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
