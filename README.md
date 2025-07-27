@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Marketing Project Management Intern](https://jobright.ai/jobs/info/68863c71b651c92cb78af06a?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Remote | Jul 27 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68861fb9fbbf032d0006f9d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Media Research Specialist, Internship, (Remote)](https://jobright.ai/jobs/info/6885f29b4174df41e0f99886?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/688402c66fcd973d15ae5192?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 25 |
 | **[Meals on Wheels Southwest Ohio & Northern Kentucky](https://www.muchmorethanameal.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6883e1ca6fcd973d15ae41c0?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jul 25 |
 | **[Ascent](https://www.ascentfunding.com/)** | **[Digital Content Intern (SEO & Copywriting)](https://jobright.ai/jobs/info/6883ded66fcd973d15ae4035?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jul 25 |
+| **[RovrCare™️](www.rovrcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6886210eb651c92cb78aedf2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Intern (Church Channels)](https://jobright.ai/jobs/info/6883dc476fcd973d15ae3e8e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
 | **[Haven Circles](www.havencircles.com)** | **[Startup Internship](https://jobright.ai/jobs/info/68845873fbbf032d00067bd4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 25 |
 | **[Care Collective](www.carecollective.help.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68845340b651c92cb78a6cb5?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Jul 25 |
-| **[Fuse](https://www.fusemarketing.com/)** | **[Brand Strategy Marketing Internship - Fall 2025](https://jobright.ai/jobs/info/6883d35b835a903aa07f7ee9?utm_campaign=1065&utm_source=git)** | Burlington, VT | Hybrid | Jul 25 |
-| **[Tanner Health](http://www.tanner.org/)** | **[Marketing Strategy Intern - Marketing (Days) (Part-Time)](https://jobright.ai/jobs/info/68755a505cebcd1dd51bfdc1?utm_campaign=1065&utm_source=git)** | Carrollton, GA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
