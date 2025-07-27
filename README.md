@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Mulbah](https://mulbahmedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68867431fbbf032d000701ad?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | Hybrid | Jul 27 |
 | **[ReplyQuickAI](https://www.replyquick.ai)** | **[GTM Internship](https://jobright.ai/jobs/info/688667c24174df41e0f9a242?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Remote | Jul 27 |
 | **[PROJXON](www.projxon.com)** | **[Marketing Project Management Intern](https://jobright.ai/jobs/info/68863c71b651c92cb78af06a?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Remote | Jul 27 |
-| **[Pulchritude Fashion](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68862fc8fbbf032d0006fbb0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Media Research Specialist, Internship, (Remote)](https://jobright.ai/jobs/info/6885f29b4174df41e0f99886?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Caphatch](https://caphatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6885ab6ab651c92cb78ad4aa?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 26 |
@@ -139,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Ashcroft Inc.](http://www.ashcroft.com)** | **[Marketing Intern-Video Content (Part-time)](https://jobright.ai/jobs/info/6884024f6fcd973d15ae5146?utm_campaign=1065&utm_source=git)** | Stratford, CT | On Site | Jul 25 |
 | **[Dragonfly Pond Works](https://www.dragonflypondworks.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/688422086fcd973d15ae5b50?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 25 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/6883f6d9b54cac0f1e73b584?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 25 |
-| **[Aspora](www.aspora.com)** | **[Growth Intern (US only)](https://jobright.ai/jobs/info/6883f543b54cac0f1e73b404?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[COLLiDE Agency, INC](https://www.wearecollide.com)** | **[Intern](https://jobright.ai/jobs/info/6883f4f4835a903aa07f94f0?utm_campaign=1065&utm_source=git)** | Oregon, United States | Remote | Jul 25 |
 | **[Diaza Football](http://www.diaza.com)** | **[Marketing and Social Media Internship - Fall 2025](https://jobright.ai/jobs/info/6883f4acb54cac0f1e73b36b?utm_campaign=1065&utm_source=git)** | Linden, NJ | On Site | Jul 25 |
 | **[Banyan Technology](http://www.banyantechnology.com)** | **[Intern - HubSpot Reporting & Analytics](https://jobright.ai/jobs/info/6883f3696fcd973d15ae4c12?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Jul 25 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Ascent](https://www.ascentfunding.com/)** | **[Digital Content Intern (SEO & Copywriting)](https://jobright.ai/jobs/info/6883ded66fcd973d15ae4035?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jul 25 |
 | **[RovrCare™️](www.rovrcare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6886210eb651c92cb78aedf2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jul 25 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Marketing Intern (Church Channels)](https://jobright.ai/jobs/info/6883dc476fcd973d15ae3e8e?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Jul 25 |
+| **[Haven Circles](www.havencircles.com)** | **[Startup Internship](https://jobright.ai/jobs/info/68845873fbbf032d00067bd4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 25 |
+| **[Care Collective](www.carecollective.help.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68845340b651c92cb78a6cb5?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
