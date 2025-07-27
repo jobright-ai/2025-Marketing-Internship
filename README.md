@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
 | **[Jobright.ai](https://jobright.ai)** | **[Media Research Specialist, Internship, (Remote)](https://jobright.ai/jobs/info/6885f29b4174df41e0f99886?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/6885bb11fbbf032d0006e8a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Caphatch](https://caphatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6885ab6ab651c92cb78ad4aa?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 26 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6885a7f3b651c92cb78ad0ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Jobright.ai](https://jobright.ai)** | **[Copywriter (Internship) (Remote)](https://jobright.ai/jobs/info/68858aaf4174df41e0f96e00?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
@@ -79,7 +78,7 @@ For a complete list, click the following sortable link below:
 | **[PVIM CRE](pvimre.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6884f4974174df41e0f95b02?utm_campaign=1065&utm_source=git)** | Alexandria, VA | Hybrid | Jul 26 |
 | **[moomoo ](https://www.moomoo.com)** | **[Fall 2025 Communication Intern - Unpaid](https://jobright.ai/jobs/info/684c550d353e98e2222c55a4?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | Hybrid | Jul 26 |
 | **[JBT Corporation](https://www.jbtc.com/en/asia-pacific/)** | **[Marketing Intern](https://jobright.ai/jobs/info/684b11939d3fde2d830405a1?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Jul 26 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577ff?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Jul 26 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f1?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Jul 26 |
 | **[Berkshire Hathaway Energy](https://www.brkenergy.com/)** | **[Student Intern, Support Groups](https://jobright.ai/jobs/info/6884a7314174df41e0f95005?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jul 26 |
 | **[Breckenridge Grand Vacations](https://breckenridgegrandvacations.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6884f4934174df41e0f95b01?utm_campaign=1065&utm_source=git)** | Breckenridge, CO | On Site | Jul 26 |
 | **[Elevance Health](https://www.elevancehealth.com)** | **[Strategic Growth Intern, Part–Time Fall 2025](https://jobright.ai/jobs/info/688489edb651c92cb78a9c53?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jul 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Haven Circles](www.havencircles.com)** | **[Startup Internship](https://jobright.ai/jobs/info/68845873fbbf032d00067bd4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 25 |
 | **[Care Collective](www.carecollective.help.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68845340b651c92cb78a6cb5?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Jul 25 |
 | **[Fuse](https://www.fusemarketing.com/)** | **[Brand Strategy Marketing Internship - Fall 2025](https://jobright.ai/jobs/info/6883d35b835a903aa07f7ee9?utm_campaign=1065&utm_source=git)** | Burlington, VT | Hybrid | Jul 25 |
+| **[Tanner Health](http://www.tanner.org/)** | **[Marketing Strategy Intern - Marketing (Days) (Part-Time)](https://jobright.ai/jobs/info/68755a505cebcd1dd51bfdc1?utm_campaign=1065&utm_source=git)** | Carrollton, GA | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
