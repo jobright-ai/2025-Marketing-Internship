@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
+| **[Jobright.ai](https://jobright.ai)** | **[Media Research Specialist, Internship, (Remote)](https://jobright.ai/jobs/info/6885f29b4174df41e0f99886?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/6885bb11fbbf032d0006e8a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Caphatch](https://caphatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6885ab6ab651c92cb78ad4aa?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Jul 26 |
 | **[Skin Anarchy The Podcast](https://linktr.ee/Skincareanarchy)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6885a7f3b651c92cb78ad0ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[The Mirror Effects](https://www.linkedin.com/company/104907666)** | **[High School Intern (Northern States)](https://jobright.ai/jobs/info/68855885fbbf032d0006c5dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Fish Marketing](http://fish-marketing.com)** | **[Snow Sports Social Media  Marketing Intern](https://jobright.ai/jobs/info/6885541db651c92cb78ab93f?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Jul 26 |
 | **[X Vision Media](https://www.xvisionmediaus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688536254174df41e0f965e9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68852a3bb651c92cb78ab669?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/688529ef4174df41e0f9651b?utm_campaign=1065&utm_source=git)** | Athens, Georgia, United States | On Site | Jul 26 |
 | **[Deep Root Records](https://www.deeprootrecords.com/)** | **[Media Intern](https://jobright.ai/jobs/info/68851a70fbbf032d0006bf50?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 26 |
 | **[Venture Capital & Innovation Platform](https://www.linkedin.com/company/107599035)** | **[Brand Storyteller & Content Strategist](https://jobright.ai/jobs/info/688511bb4174df41e0f960f3?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jul 26 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Ashcroft Inc.](http://www.ashcroft.com)** | **[Marketing Intern-Video Content (Part-time)](https://jobright.ai/jobs/info/6884024f6fcd973d15ae5146?utm_campaign=1065&utm_source=git)** | Stratford, CT | On Site | Jul 25 |
 | **[Dragonfly Pond Works](https://www.dragonflypondworks.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/688422086fcd973d15ae5b50?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jul 25 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/6883f6d9b54cac0f1e73b584?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 25 |
-| **[Aspora](www.aspora.com)** | **[Growth Intern (US only)](https://jobright.ai/jobs/info/6883f543b54cac0f1e73b404?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[COLLiDE Agency, INC](https://www.wearecollide.com)** | **[Intern](https://jobright.ai/jobs/info/6883f4f4835a903aa07f94f0?utm_campaign=1065&utm_source=git)** | Oregon, United States | Remote | Jul 25 |
 | **[Diaza Football](http://www.diaza.com)** | **[Marketing and Social Media Internship - Fall 2025](https://jobright.ai/jobs/info/6883f4acb54cac0f1e73b36b?utm_campaign=1065&utm_source=git)** | Linden, NJ | On Site | Jul 25 |
 | **[Banyan Technology](http://www.banyantechnology.com)** | **[Intern - HubSpot Reporting & Analytics](https://jobright.ai/jobs/info/6883f3696fcd973d15ae4c12?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Jul 25 |
