@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diaza Football](http://www.diaza.com)** | **[Fall Marketing Internship Program](https://jobright.ai/jobs/info/688586defbbf032d0006cafd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[The Mirror Effects](https://www.linkedin.com/company/104907666)** | **[High School Intern (Northern States)](https://jobright.ai/jobs/info/68855885fbbf032d0006c5dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Fish Marketing](http://fish-marketing.com)** | **[Snow Sports Social Media  Marketing Intern](https://jobright.ai/jobs/info/6885541db651c92cb78ab93f?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Jul 26 |
 | **[X Vision Media](https://www.xvisionmediaus.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688536254174df41e0f965e9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[dataing](https://www.dataing.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6883c3e2835a903aa07f77c8?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Jul 25 |
 | **[Comprehensive Women's Health, Inc.](https://mdforwomen.com)** | **[Marketing Intern (Paid)](https://jobright.ai/jobs/info/6883c30fb54cac0f1e7394f6?utm_campaign=1065&utm_source=git)** | Glenn Dale, MD | Hybrid | Jul 25 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Media Communications Internship Fall 2025](https://jobright.ai/jobs/info/688458a44174df41e0f91eda?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 25 |
-| **[Center Centre](http://www.uie.com/)** | **[Marketing & Communications Specialist - Paid, Six-month Fellowship](https://jobright.ai/jobs/info/688456894174df41e0f91d8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
