@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BlueBill](https://www.linkedin.com/company/107259322)** | **[Field Growth Intern (Contractor Outreach)](https://jobright.ai/jobs/info/68875cd673e3e13cbd93d66a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Jul 28 |
 | **[Giuseppe Zanotti](https://www.giuseppezanotti.com/wo/)** | **[Public Relations and Showroom Intern](https://jobright.ai/jobs/info/688747ceb651c92cb78b29fe?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 28 |
 | **[355Life](http://www.355life.com/)** | **[Social Media Marketing Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/68874354fbbf032d000734e6?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Jul 28 |
 | **[Pinellas County Clerk of the Circuit Court and Comptroller](https://www.mypinellasclerk.gov/)** | **[VisitSPC Fall/Spring Intern](https://jobright.ai/jobs/info/68873aa84174df41e0f9d608?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Jul 28 |
@@ -76,9 +77,9 @@ For a complete list, click the following sortable link below:
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[2026 Apogem Investments Summer Internship Program at New York Life Insurance Company](https://jobright.ai/jobs/info/6886b247fbbf032d000705c4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 27 |
 | **[Front Row](https://www.frontrowgroup.com)** | **[Video Intern, Digital Marketing - Consumer](https://jobright.ai/jobs/info/6886a3e24174df41e0f9a617?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Jul 27 |
 | **[Jack](www.searchwithjack.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6862b5c7cd4af44fcd63dfc6?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 27 |
-| **[355Life](http://www.355life.com/)** | **[Sales Marketing Intern (Nationwide/Transamerica/Pacific Life)](https://jobright.ai/jobs/info/68867942fbbf032d00070234?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Jul 27 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68867431fbbf032d000701ad?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | Hybrid | Jul 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/687b9420ed63844c944a95f5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 27 |
+| **[Campus Collective](https://www.instagram.com/campuscollectiveofficial/)** | **[Brand & Creative Marketing Intern (Paid)](https://jobright.ai/jobs/info/68846ff8b651c92cb78a867a?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Jul 27 |
 | **[David C Cook](https://davidccook.org)** | **[Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/68750027ae2f413e4a5a28c2?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Jul 26 |
 | **[The Mirror Effects](https://www.linkedin.com/company/104907666)** | **[High School Intern (Northern States)](https://jobright.ai/jobs/info/68855885fbbf032d0006c5dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Fish Marketing](http://fish-marketing.com)** | **[Snow Sports Social Media  Marketing Intern](https://jobright.ai/jobs/info/6885541db651c92cb78ab93f?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Jul 26 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/688446334174df41e0f90bd6?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jul 25 |
 | **[The College of St. Scholastica](https://www.css.edu)** | **[SSBT Social Media Intern](https://jobright.ai/jobs/info/68841f72835a903aa07fa2b0?utm_campaign=1065&utm_source=git)** | Duluth, MN | On Site | Jul 25 |
 | **[Catalyst Marketing Group](www.thecatalystmg.com)** | **[Brand Ambassador](https://jobright.ai/jobs/info/688524edb651c92cb78ab5c0?utm_campaign=1065&utm_source=git)** | Oyster Bay, NY | On Site | Jul 25 |
-| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524ddfbbf032d0006c1f7?utm_campaign=1065&utm_source=git)** | Westbury, NY | On Site | Jul 25 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524abfbbf032d0006c1c3?utm_campaign=1065&utm_source=git)** | Long Beach, NY | On Site | Jul 25 |
+| ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524ddfbbf032d0006c1f7?utm_campaign=1065&utm_source=git)** | Westbury, NY | On Site | Jul 25 |
 | ↳ | **[Brand Ambassador](https://jobright.ai/jobs/info/688524d5fbbf032d0006c1ec?utm_campaign=1065&utm_source=git)** | Elmont, NY | On Site | Jul 25 |
 | **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador - University of Alabama (Tuscaloosa)](https://jobright.ai/jobs/info/688414aa835a903aa07fa0e8?utm_campaign=1065&utm_source=git)** | Tuscaloosa, AL | On Site | Jul 25 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Part-Time Brand Ambassador](https://jobright.ai/jobs/info/68841242835a903aa07f9feb?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Part time Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/6883f6d9b54cac0f1e73b584?utm_campaign=1065&utm_source=git)** | HVC Key West M&S | On Site | Jul 25 |
 | **[Aspora](www.aspora.com)** | **[Growth Intern (US only)](https://jobright.ai/jobs/info/6883f543b54cac0f1e73b404?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[COLLiDE Agency, INC](https://www.wearecollide.com)** | **[Intern](https://jobright.ai/jobs/info/6883f4f4835a903aa07f94f0?utm_campaign=1065&utm_source=git)** | Oregon, United States | Remote | Jul 25 |
-| **[Diaza Football](http://www.diaza.com)** | **[Marketing and Social Media Internship - Fall 2025](https://jobright.ai/jobs/info/6883f4acb54cac0f1e73b36b?utm_campaign=1065&utm_source=git)** | Linden, NJ | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
