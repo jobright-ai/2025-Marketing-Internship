@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Florida](https://www.ufl.edu)** | **[Intern - Marketing - Part-time - Days](https://jobright.ai/jobs/info/688b49951808534a89cb1f50?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Jul 31 |
+| **[Generac](https://www.generac.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/686efdeefd04fb67b296dee7?utm_campaign=1065&utm_source=git)** | Pewaukee, WI | Hybrid | Jul 31 |
+| **[Acadium](http://www.acadium.com)** | **[Web Design and Content Marketing Intern](https://jobright.ai/jobs/info/688b41e71808534a89cb1c4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| ↳ | **[Social Media and Video / Graphic Marketing Intern](https://jobright.ai/jobs/info/688b417d1808534a89cb1c36?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| **[iCatholic Mobile](www.icatholicmobile.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688b3da83a30793eb963945d?utm_campaign=1065&utm_source=git)** | Nashua, NH | Hybrid | Jul 31 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaigns Product Internship](https://jobright.ai/jobs/info/688a335e9f961617fe219dce?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 31 |
 | **[Lilith Games](https://www.lilith.sh)** | **[Community intern](https://jobright.ai/jobs/info/688b2bc93a30793eb9638f44?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Hybrid | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/688b1f829f961617fe221edd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
@@ -125,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[nfm | full service marketing agency](https://nfmdymun.com)** | **[Marketing Events Intern - Fall](https://jobright.ai/jobs/info/688a660809808a6103e4e4ef?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Jul 30 |
 | **[Comcast Spectacor](http://www.comcastspectacor.com/)** | **[Flyers Charities Development Intern](https://jobright.ai/jobs/info/688a64eb9f961617fe21b2ac?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Jul 30 |
 | **[Purple Brand](https://intl.purple-brand.com/en-in)** | **[Merchandising Intern](https://jobright.ai/jobs/info/688a62c19f961617fe21b271?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 30 |
+| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Marketing and Communications Internship - College of Engineering](https://jobright.ai/jobs/info/688a61eb9f961617fe21b21b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/688a60c19f961617fe21b191?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Jul 30 |
 | **[MP-IMC](https://www.mp-imc.com)** | **[Public Relations Beauty Intern](https://jobright.ai/jobs/info/688af0969f961617fe21f990?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[Entremax](http://www.entremax.media)** | **[Film & Social Media Intern](https://jobright.ai/jobs/info/688af1adaab47a17f670cdd3?utm_campaign=1065&utm_source=git)** | Deer Park, NY | On Site | Jul 30 |
@@ -141,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student - Global Citizens Circle Social Media and Website Assistant (Work Study Only)](https://jobright.ai/jobs/info/688a4a3a09808a6103e4d96a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Alternative Transportation Intern (Student Wage)](https://jobright.ai/jobs/info/688a3bd609808a6103e4d34a?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Jul 30 |
 | **[Montrose Environmental Group](https://montrose-env.com)** | **[Marketing Operations Administrator (Internship)](https://jobright.ai/jobs/info/688a3bc3aab47a17f6707416?utm_campaign=1065&utm_source=git)** | CAN-NS-Remote | Remote | Jul 30 |
-| **[Carnegie Mellon University](https://www.cmu.edu)** | **[Marketing and Communications Internship - College of Engineering](https://jobright.ai/jobs/info/688a3b79aab47a17f67073b6?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 30 |
 | **[Mercer Engineering Research Center](https://www.merc-mercer.org/)** | **[Social Media Ambassador](https://jobright.ai/jobs/info/688a3b4daab47a17f670738e?utm_campaign=1065&utm_source=git)** | Macon Campus | On Site | Jul 30 |
 | **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688a3a929f961617fe21a073?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Jul 30 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaigns Product Internship](https://jobright.ai/jobs/info/688af553aab47a17f670cfe4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 30 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penn State Department of Materials Science and Engineering](https://www.matse.psu.edu/)** | **[Public Relations and Marketing multimedia/video communications intern](https://jobright.ai/jobs/info/688a2fb909808a6103e4ce02?utm_campaign=1065&utm_source=git)** | Penn State University Park | Hybrid | Jul 30 |
 | **[Giorgio Armani](http://www.armani.com)** | **[Intern, Merchandising, A/X Armani Exchange](https://jobright.ai/jobs/info/686d616c2440f547b2d466c8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 30 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Corporate Reputation & Media Relations Internship - Fall '25](https://jobright.ai/jobs/info/688a238009808a6103e4cba4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 30 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Social Media Content Creator Intern-Visit Ogden](https://jobright.ai/jobs/info/688a212f09808a6103e4cb2c?utm_campaign=1065&utm_source=git)** | Campus, IL | Remote | Jul 30 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Corporate Reputation & Media Relations Internship - Fall '25](https://jobright.ai/jobs/info/688a210baab47a17f6706c06?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jul 30 |
-| **[Get Out and About](getoutandabout.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/688aff5d9f961617fe2203ab?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 30 |
-| **[alice + olivia](http://www.aliceandolivia.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/686e0e22e1a3bf00a3809e14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 30 |
-| **[Intratuin Elst](http://www.intratuin.nl/winkels/intratuin-elst)** | **[Stageplek Bedrijfskunde, Controlling, Inkoop, Marketing of HR](https://jobright.ai/jobs/info/688a0e5faab47a17f67067ba?utm_campaign=1065&utm_source=git)** | Malden, MO | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
