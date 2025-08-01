@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Kansas](https://www.lsi.ku.edu)** | **[Social Media/Communications Assistant](https://jobright.ai/jobs/info/688c6e511808534a89cbbf87?utm_campaign=1065&utm_source=git)** | Lawrence, KS | Hybrid | Aug 01 |
+| **[UFO Music Group](https://www.linkedin.com/company/104828749)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/688c6e4a3a30793eb9643724?utm_campaign=1065&utm_source=git)** | Nashville Metro | On Site | Aug 01 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/688c6dc51808534a89cbbed3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of Southern California MATLAB Student Ambassador](https://jobright.ai/jobs/info/6866544b070dc364b28cfeb6?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 01 |
+| **[Giuseppe Zanotti](https://www.giuseppezanotti.com/wo/)** | **[PR and Showroom Intern](https://jobright.ai/jobs/info/688c6ad93a30793eb96431e5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 01 |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales, Content & Communications](https://jobright.ai/jobs/info/688c60b23a30793eb9642ceb?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | Jul 31 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2025 Footwear Product Marketing Intern](https://jobright.ai/jobs/info/68797c1f2097a271a8977f05?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jul 31 |
+| **[Thomas University](http://www.thomasu.edu/)** | **[Social Media Team Member](https://jobright.ai/jobs/info/688c5bca3a30793eb9642833?utm_campaign=1065&utm_source=git)** | Thomasville, GA | On Site | Jul 31 |
 | **[HYPEBEAST](http://hypebeast.com)** | **[HBX Archives Intern](https://jobright.ai/jobs/info/688c51763a30793eb96421a9?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Student Marketing Writer - FWS (Student Wage)](https://jobright.ai/jobs/info/688c4229906ac06e1d1d26da?utm_campaign=1065&utm_source=git)** | Virginia | Remote | Jul 31 |
 | **[Matriosh](Matriosh.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/688c4030906ac06e1d1d2504?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Jul 31 |
@@ -84,12 +92,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Story & Media Relations Intern – Spring 2026](https://jobright.ai/jobs/info/688c2d1c3a30793eb96408e9?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
 | **[GPTZero](https://gptzero.me)** | **[Growth Intern / Part-time](https://jobright.ai/jobs/info/688c252d3a30793eb964047b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jul 31 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Communications Student Assistant](https://jobright.ai/jobs/info/688c005b1808534a89cb7b77?utm_campaign=1065&utm_source=git)** | Athens, GA | Hybrid | Jul 31 |
-| **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/688bfefd906ac06e1d1d004a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Marketing Intern, Chartwells Higher Ed / American International College at Compass Group USA](https://jobright.ai/jobs/info/688c218c906ac06e1d1d0fa9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern, Remote)](https://jobright.ai/jobs/info/688bfa3b906ac06e1d1cfdfd?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Jul 31 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Marketing Intern, Chartwells K12 / Beloit School District / Beloit, WI at Compass Group USA](https://jobright.ai/jobs/info/688c34641808534a89cb956d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[Hudl](http://www.hudl.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/688bf7dd3a30793eb963f0a9?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
 | **[Kao Corporation](http://www.kao.com/)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/688bf7cd906ac06e1d1cfcd3?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 31 |
+| **[Nelnet](https://nelnetinc.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/688bf73f1808534a89cb77ac?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
 | **[Hudl](http://www.hudl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/688bf57f906ac06e1d1cfc64?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
 | **[ENDevo, Inc](https://www.endevo.life)** | **[AI - Digital Marketing Intern](https://jobright.ai/jobs/info/688bf309906ac06e1d1cfb1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[The Destination Channel](https://makingitmedia.com)** | **[GenZ Social Media Intern](https://jobright.ai/jobs/info/688bf121906ac06e1d1cf94b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -113,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Democratic Majority for Israel](https://demmajorityforisrael.org/)** | **[Communications Internship - Fall 2025](https://jobright.ai/jobs/info/688bd4421808534a89cb677d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Jeremiah's Place - Pittsburgh Relief Nursery](http://www.jeremiahsplace.org)** | **[Media Coordinator Intern](https://jobright.ai/jobs/info/688c3153906ac06e1d1d1973?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jul 31 |
 | **[OSEA Malibu](https://oseamalibu.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/688c33f8906ac06e1d1d1b27?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
-| **[Nelnet](https://nelnetinc.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/688bc4c6906ac06e1d1ce487?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
 | **[PollyStack](https://pollystack.com)** | **[Startup Intern – Growth & Content](https://jobright.ai/jobs/info/688c362e3a30793eb9640ed6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Pegasus Tech Ventures](https://www.pegasustechventures.com)** | **[Startup World Cup Analyst Intern](https://jobright.ai/jobs/info/688bc194906ac06e1d1ce1fd?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Communication Intern](https://jobright.ai/jobs/info/688bc11d906ac06e1d1ce1c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -138,9 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaigns Product Internship](https://jobright.ai/jobs/info/688af553aab47a17f670cfe4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 31 |
 | **[Network Solutions IPA](https://nsipa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688b95561808534a89cb4372?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jul 31 |
 | **[Mulbah](https://mulbahmedia.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688b92033a30793eb963ba25?utm_campaign=1065&utm_source=git)** | Silver Spring, MD | Hybrid | Jul 31 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Marketing Intern – D1 Training Alliance (Fort Worth, TX)](https://jobright.ai/jobs/info/688c321d1808534a89cb93e1?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jul 31 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90cc1808534a89cb41ad?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90cc1808534a89cb41ac?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 31 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90cc1808534a89cb41ac?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90cc1808534a89cb41ad?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90c51808534a89cb41a4?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90b71808534a89cb4190?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b908d1808534a89cb4162?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 31 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90401808534a89cb40ed?utm_campaign=1065&utm_source=git)** | USA-FL - Florida Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90401808534a89cb40ec?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b903b3a30793eb963b9ac?utm_campaign=1065&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b9024906ac06e1d1cc657?utm_campaign=1065&utm_source=git)** | USA-GA - Georgia Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901e906ac06e1d1cc64f?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901e906ac06e1d1cc64e?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901c3a30793eb963b972?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90153a30793eb963b964?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90131808534a89cb40ad?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
