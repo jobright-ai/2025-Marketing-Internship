@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Communications Student Assistant](https://jobright.ai/jobs/info/688c005b1808534a89cb7b77?utm_campaign=1065&utm_source=git)** | Athens, GA | Hybrid | Jul 31 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/688bfefd906ac06e1d1d004a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern, Remote)](https://jobright.ai/jobs/info/688bfa3b906ac06e1d1cfdfd?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Jul 31 |
+| **[Hudl](http://www.hudl.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/688bf7dd3a30793eb963f0a9?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
+| **[Kao Corporation](http://www.kao.com/)** | **[Digital Commerce Intern](https://jobright.ai/jobs/info/688bf7cd906ac06e1d1cfcd3?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | Hybrid | Jul 31 |
+| **[Nelnet](https://nelnetinc.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/688bf73f1808534a89cb77ac?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
+| **[Hudl](http://www.hudl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/688bf57f906ac06e1d1cfc64?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
+| **[ENDevo, Inc](https://www.endevo.life)** | **[AI - Digital Marketing Intern](https://jobright.ai/jobs/info/688bf309906ac06e1d1cfb1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| **[The Destination Channel](https://makingitmedia.com)** | **[GenZ Social Media Intern](https://jobright.ai/jobs/info/688bf121906ac06e1d1cf94b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| **[trabajito](https://www.trabajito.com.bo/)** | **[Pasante de Marketing](https://jobright.ai/jobs/info/688beb6d1808534a89cb72d0?utm_campaign=1065&utm_source=git)** | Santa Cruz, CA | On Site | Jul 31 |
+| **[Carroll University](http://www.carrollu.edu/)** | **[Graduate Assistant - Sports Information](https://jobright.ai/jobs/info/688be8ab3a30793eb963ea64?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Communications & Marketing Intern – Spring 2026](https://jobright.ai/jobs/info/688be445906ac06e1d1cf4d3?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | ↳ | **[Marketing Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688be3f4906ac06e1d1cf444?utm_campaign=1065&utm_source=git)** | District of Columbia - Hybrid | Hybrid | Jul 31 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Marketing Internships: ATL- Fall 2025](https://jobright.ai/jobs/info/688be3da906ac06e1d1cf414?utm_campaign=1065&utm_source=git)** | GA Atlanta 1050 Techwood Drive NW | Hybrid | Jul 31 |
@@ -72,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philanthropy Intern – Spring 2026](https://jobright.ai/jobs/info/688bd4ac1808534a89cb67e3?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Jul 31 |
 | **[Democratic Majority for Israel](https://demmajorityforisrael.org/)** | **[Communications Internship - Fall 2025](https://jobright.ai/jobs/info/688bd4421808534a89cb677d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/688bc7191808534a89cb6116?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jul 31 |
-| **[Nelnet](https://nelnetinc.com)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/688bc4c6906ac06e1d1ce487?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 31 |
 | **[Pegasus Tech Ventures](https://www.pegasustechventures.com)** | **[Startup World Cup Analyst Intern](https://jobright.ai/jobs/info/688bc194906ac06e1d1ce1fd?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Jul 31 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2025 Communication Intern](https://jobright.ai/jobs/info/688bc11d906ac06e1d1ce1c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Community Action Corps: #BeMoreLikeClaire Social Media Support](https://jobright.ai/jobs/info/688bddcb1808534a89cb6d44?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Jul 31 |
@@ -81,13 +91,13 @@ For a complete list, click the following sortable link below:
 | **[The N2 Company](https://n2co.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688bbecd1808534a89cb5bfe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688bbd2d906ac06e1d1cdebd?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | Hybrid | Jul 31 |
 | **[StudyLabAI](https://www.studylabai.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688bbd113a30793eb963d168?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
+| **[The Weather Company](https://www.ibm.com/weather)** | **[Commerce Writer Intern](https://jobright.ai/jobs/info/6876ce9b5cebcd1dd51cca28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
 | **[FTNSS](https://www.FTNSS.fit)** | **[Content Creation & Messaging Internship @ FTNSS (Equity Only)](https://jobright.ai/jobs/info/688bbcb0906ac06e1d1cddd7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Elucent Medical Inc.](http://elucentmedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688bbc613a30793eb963d034?utm_campaign=1065&utm_source=git)** | Eden Prairie,  MN | Hybrid | Jul 31 |
 | **[Ormat Technologies, Inc.](http://www.ormat.com)** | **[Marketing & Social Media Assistant](https://jobright.ai/jobs/info/688bbb113a30793eb963ceaf?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Jul 31 |
 | **[FYI Brand Group](https://www.fyibrandgroup.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/688bb7e13a30793eb963cdc5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jul 31 |
 | **[Kwik Lok Corporation](https://www.kwiklok.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/688bb68b3a30793eb963ccfc?utm_campaign=1065&utm_source=git)** | Yakima, WA | On Site | Jul 31 |
 | **[Civille](https://getciville.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/688bb46d1808534a89cb5361?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | Hybrid | Jul 31 |
-| **[JETZY](http://jetzyapp.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/688bad33906ac06e1d1cd5be?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jul 31 |
 | **[Visit York County ](http://www.visityorkcounty.com)** | **[Marketing & Content Paid Intern (Fall 2025)](https://jobright.ai/jobs/info/688bab633a30793eb963c6c8?utm_campaign=1065&utm_source=git)** | Rock Hill, SC | On Site | Jul 31 |
 | **[Pull Public Relations](http://pull-pr.com)** | **[VIP/INFLUENCER INTERN](https://jobright.ai/jobs/info/688bd7fd906ac06e1d1ceea3?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | On Site | Jul 31 |
 | **[The N2 Company](https://n2co.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688bc1b93a30793eb963d5d2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -103,23 +113,23 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90b71808534a89cb4190?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b908d1808534a89cb4162?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90861808534a89cb4157?utm_campaign=1065&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b906d1808534a89cb4138?utm_campaign=1065&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b906d1808534a89cb4137?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b906d1808534a89cb4138?utm_campaign=1065&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90581808534a89cb4119?utm_campaign=1065&utm_source=git)** | USA-VA - Virginia Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90401808534a89cb40ed?utm_campaign=1065&utm_source=git)** | USA-FL - Florida Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90401808534a89cb40ec?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b903b3a30793eb963b9ac?utm_campaign=1065&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b9024906ac06e1d1cc657?utm_campaign=1065&utm_source=git)** | USA-GA - Georgia Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901e906ac06e1d1cc64f?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901e906ac06e1d1cc64e?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901e906ac06e1d1cc64f?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b901c3a30793eb963b972?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90153a30793eb963b964?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b90131808534a89cb40ad?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b9009906ac06e1d1cc63a?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fd63a30793eb963b912?utm_campaign=1065&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fd61808534a89cb4048?utm_campaign=1065&utm_source=git)** | USA-DC - Washington, D.C. Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fce3a30793eb963b904?utm_campaign=1065&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fd63a30793eb963b912?utm_campaign=1065&utm_source=git)** | USA-ME - Maine Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fce3a30793eb963b902?utm_campaign=1065&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fce3a30793eb963b904?utm_campaign=1065&utm_source=git)** | USA-MO - Missouri Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fbb1808534a89cb4020?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fb4906ac06e1d1cc5f8?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fb41808534a89cb4013?utm_campaign=1065&utm_source=git)** | USA-TX - Texas Remote | Remote | Jul 31 |
@@ -128,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fa01808534a89cb3ffe?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8fa01808534a89cb3ffd?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f973a30793eb963b8bc?utm_campaign=1065&utm_source=git)** | USA-IN - Indiana Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f95906ac06e1d1cc5d9?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f95906ac06e1d1cc5db?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Jul 31 |
+| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f95906ac06e1d1cc5d9?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f8d906ac06e1d1cc5d1?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f873a30793eb963b89f?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8f753a30793eb963b885?utm_campaign=1065&utm_source=git)** | USA-MI - Michigan Remote | Remote | Jul 31 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8eca3a30793eb963b779?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8ebc906ac06e1d1cc4a3?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Jul 31 |
 | ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8ebc906ac06e1d1cc4a4?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Jul 31 |
-| ↳ | **[Fall 2025 Internship - Talent Marketing](https://jobright.ai/jobs/info/688b8eb0906ac06e1d1cc491?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Jul 31 |
-| **[Another Tomorrow](https://www.anothertomorrow.co/)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/688bac24906ac06e1d1cd4b9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jul 31 |
-| **[DYASPURA Digital](www.dyaspura.com)** | **[Content and Community Manager](https://jobright.ai/jobs/info/688b8843906ac06e1d1cc123?utm_campaign=1065&utm_source=git)** | Greater Tampa Bay Area | Remote | Jul 31 |
-| **[BD](https://www.bd.com)** | **[Intern, Global Marketing, Biosurgery Platform](https://jobright.ai/jobs/info/688b83eb3a30793eb963b187?utm_campaign=1065&utm_source=git)** | Warwick, RI | Hybrid | Jul 31 |
-| **[Ohio Department of Youth Services](http://www.dys.ohio.gov)** | **[College Intern - Communications](https://jobright.ai/jobs/info/688b83bc3a30793eb963b179?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Jul 31 |
-| **[Philip Morris International](https://www.pmi.com)** | **[Support Corporate Communication Intern](https://jobright.ai/jobs/info/688bb0be1808534a89cb5183?utm_campaign=1065&utm_source=git)** | Neuchatel, KS | On Site | Jul 31 |
-| **[dpHUE](https://www.dphue.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/688b80271808534a89cb3818?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Jul 31 |
-| **[Kao Corporation](http://www.kao.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688b7f3b906ac06e1d1cbd13?utm_campaign=1065&utm_source=git)** | Cincinnati | Hybrid | Jul 31 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/686f094b94781b34e39f47c4?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Jul 31 |
-| **[Tokio Marine HCC](http://www.tmhcc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/686f26f690d7b66951c27b11?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
