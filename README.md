@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eye Spy Foundation](EyeSpy.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/688e80cecdbd821a36641aca?utm_campaign=1065&utm_source=git)** | Jacksonville Beach, FL | On Site | Aug 02 |
+| **[ABEL rhythm dominoes ®](abeldominoes.com)** | **[Marketing Trainee](https://jobright.ai/jobs/info/688e78766a4aac5783cd9677?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
+| **[H15DEN](https://h15den.com)** | **[User Growth & Strategy (Micro-Internship)](https://jobright.ai/jobs/info/688e73b9cdbd821a36641996?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 02 |
 | **[MORR](https://www.morragency.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/688e6a9b6a4aac5783cd9513?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Aug 02 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Computer Science Internship Opportunity at Detail Connect!](https://jobright.ai/jobs/info/688e557f6a4aac5783cd9068?utm_campaign=1065&utm_source=git)** | Warrington, PA | On Site | Aug 02 |
 | ↳ | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/688e5297e5cead4afd45c5ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Home Star](http://newhomestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d153f1808534a89cc0d53?utm_campaign=1065&utm_source=git)** | Elmhurst, IL | Hybrid | Aug 01 |
 | **[St. Brendan High School](https://www.stbrendanhigh.org/)** | **[Communications & Social Media Content Creation](https://jobright.ai/jobs/info/688d3b2f1808534a89cc20b1?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 01 |
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688d11493a30793eb96484e7?utm_campaign=1065&utm_source=git)** | USA - VA - Arlington | On Site | Aug 01 |
-| **[The Lede Company](https://ledecompany.com)** | **[Brand Intern LA (FALL 2026)](https://jobright.ai/jobs/info/688d10be3a30793eb9648400?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Aug 01 |
-| **[Cortazzo Consulting Company](cortazzoconsulting.co)** | **[Special Events Intern](https://jobright.ai/jobs/info/688d10893a30793eb96483a0?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
-| **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Corporate](https://jobright.ai/jobs/info/688d0ee23a30793eb964814c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
