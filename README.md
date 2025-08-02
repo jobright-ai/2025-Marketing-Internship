@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MORR](https://www.morragency.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/688e6a9b6a4aac5783cd9513?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Aug 02 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Computer Science Internship Opportunity at Detail Connect!](https://jobright.ai/jobs/info/688e557f6a4aac5783cd9068?utm_campaign=1065&utm_source=git)** | Warrington, PA | On Site | Aug 02 |
+| ↳ | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/688e5297e5cead4afd45c5ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/688e5272cdbd821a36641366?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4f43cdbd821a36641351?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4effcdbd821a36641334?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
@@ -68,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[THE LAST DRESS](www.thelastdress.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688e390ce5cead4afd45c246?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Aug 02 |
 | **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e38e9e5cead4afd45c23e?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Aug 02 |
 | **[Veteran Marketing Group](https://veteranmarketinggroup.com/)** | **[Paid Internship - Marketing and Communications](https://jobright.ai/jobs/info/688e3818cdbd821a36640f82?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
+| **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e62dacdbd821a366417a1?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 02 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Sports Marketing Intern, New York City, Fall 2025](https://jobright.ai/jobs/info/688e2ccde5cead4afd45bf6a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/688e1cc5cdbd821a36640a55?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Innovative Global Holdings LLC](www.innovativeglobalbrands.com)** | **[Strategic Digital Marketing Internship: Build Your O-1 Visa Portfolio with Celebrity Athletes / CPT/OPT Approved](https://jobright.ai/jobs/info/688e0fb0cdbd821a366406af?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
@@ -129,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Closr.](www.shopclosr.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688d42ff3a30793eb9649d33?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Tech Tykes](https://techtykes.club)** | **[Operations & Marketing Intern](https://jobright.ai/jobs/info/688dc5b5e5cead4afd45a9ea?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Aug 01 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[Research & Marketing Intern](https://jobright.ai/jobs/info/688d88636a4aac5783cd31f8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| ↳ | **[Research and Marketing Intern](https://jobright.ai/jobs/info/688d30ff27f9022553c09e04?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 01 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Global Markets Associate Summer 2026 Internship - New York](https://jobright.ai/jobs/info/688d30003a30793eb96494ee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Red Gold](http://redgold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d2de727f9022553c09cac?utm_campaign=1065&utm_source=git)** | Elwood, IN | On Site | Aug 01 |
 | **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/688d2b393a30793eb96491d3?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 01 |
@@ -140,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Hollywood Branded](https://hollywoodbranded.com/)** | **[Creative Pop Culture Marketing Intern](https://jobright.ai/jobs/info/688d24f727f9022553c0965f?utm_campaign=1065&utm_source=git)** | Redondo Beach, CA | On Site | Aug 01 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/688d218f1808534a89cc12aa?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 01 |
 | **[Noridian Healthcare Solutions, LLC](http://noridiansolutions.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/688d1e4f27f9022553c0943f?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Aug 01 |
-| **[MarkitAds](https://markitads.com/)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/688d1dc627f9022553c093fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Creative Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/688d1bcb1808534a89cc0fb6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Aug 01 |
 | **[AACSB](http://www.aacsb.edu/)** | **[Digital Marketing Intern (Internship, 4 months)](https://jobright.ai/jobs/info/688d1b5e3a30793eb964890f?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Aug 01 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[Marketing & Research Intern](https://jobright.ai/jobs/info/688d1b1227f9022553c092dd?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Lede Company](https://ledecompany.com)** | **[Brand Intern LA (FALL 2026)](https://jobright.ai/jobs/info/688d10be3a30793eb9648400?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Aug 01 |
 | **[Cortazzo Consulting Company](cortazzoconsulting.co)** | **[Special Events Intern](https://jobright.ai/jobs/info/688d10893a30793eb96483a0?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 | **[FTI Consulting](http://www.thinkfirst.us)** | **[2026 Intern - Corporate](https://jobright.ai/jobs/info/688d0ee23a30793eb964814c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
-| **[USF College of Nursing](http://health.usf.edu/nursing)** | **[Communications & Marketing Student Assistant](https://jobright.ai/jobs/info/688d0eb13a30793eb9648104?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Aug 01 |
-| **[CLEARSTEM](https://www.clearstemskincare.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d05f03a30793eb9647e4f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
-| **[Breckenridge Outdoor Education Center](http://www.boec.org)** | **[Events and Marketing Intern](https://jobright.ai/jobs/info/688d022e27f9022553c08618?utm_campaign=1065&utm_source=git)** | Frisco, CO | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
