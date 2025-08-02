@@ -57,7 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51db3a30793eb964a314?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 01 |
+| **[Moravian University Dining](https://moravian.sodexomyway.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d6af81808534a89cc3300?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Aug 01 |
+| **[BrewBird](https://brewbird.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/688d69f71808534a89cc3289?utm_campaign=1065&utm_source=git)** | San Carlos, CA | Hybrid | Aug 01 |
+| **[ABRAMS](http://www.abramsbooks.com)** | **[Integrated Marketing Internship Fall 2025](https://jobright.ai/jobs/info/688d68141808534a89cc31b8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
+| ↳ | **[Adult Publicity Internship Fall 2025](https://jobright.ai/jobs/info/688d67793a30793eb964abee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
+| **[Willis Johnson & Associates](https://www.wjohnsonassociates.com/)** | **[Marketing Internship: Fall 2025](https://jobright.ai/jobs/info/688d672227f9022553c0b400?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
+| **[Edited Companies](editedstudio.co)** | **[Intern: Personal / Executive Assistant (PR, Marketing, Partnerships, Misc.)](https://jobright.ai/jobs/info/688d65cc1808534a89cc3109?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[SuperIntro](https://superintro.me)** | **[Social Media Marketing and Content Creation Specialist (Internship)](https://jobright.ai/jobs/info/688d60c83a30793eb964a7b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d55243a30793eb964a475?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d53ad3a30793eb964a3e4?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d52911808534a89cc29b4?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d52581808534a89cc299e?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51db3a30793eb964a314?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 01 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51673a30793eb964a2ed?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 01 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51211808534a89cc28c1?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Aug 01 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d50c927f9022553c0aafb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 01 |
@@ -121,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Generac Power Systems Inc.](https://www.linkedin.com/company/16079780)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/688c9fdc27f9022553c05ce0?utm_campaign=1065&utm_source=git)** | Pewaukee, WI | Hybrid | Aug 01 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Corporate Reputation & Media Relations Internship – Fall ’25 at APCO Worldwide](https://jobright.ai/jobs/info/688cbbe21808534a89cbe870?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Marketing Intern (TikTok LIVE) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/687076bea5ae807a59cf864e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
+| **[Signify](https://www.signify.com)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68703db8a5ae807a59cf7011?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Aug 01 |
 | **[DoorDash](http://www.doordash.com)** | **[Senior Associate, International Dasher Growth Strategy](https://jobright.ai/jobs/info/6870511306ad7073463bcfcf?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 01 |
 | ↳ | **[Senior Associate, International Dasher Growth Strategy](https://jobright.ai/jobs/info/68705317a5ae807a59cf7918?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Bevolo Gas & Electric Lights](https://www.bevolo.com)** | **[Social Media & Marketing Intern/Assistant](https://jobright.ai/jobs/info/688c900c27f9022553c04ba5?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Aug 01 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HYPEBEAST](http://hypebeast.com)** | **[HBX Archives Intern](https://jobright.ai/jobs/info/688c51763a30793eb96421a9?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 31 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Student Marketing Writer - FWS (Student Wage)](https://jobright.ai/jobs/info/688c4229906ac06e1d1d26da?utm_campaign=1065&utm_source=git)** | Virginia | Remote | Jul 31 |
 | **[Matriosh](Matriosh.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/688c4030906ac06e1d1d2504?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | Remote | Jul 31 |
-| **[Hudl](http://www.hudl.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/688c3ea41808534a89cb9e53?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jul 31 |
-| **[TESO LIFE](https://www.tesolife.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688c36771808534a89cb968e?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Jul 31 |
-| **[Dealspoon](www.zillpi.com)** | **[Brand Representative Intern](https://jobright.ai/jobs/info/688c35ec3a30793eb9640ea5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Jul 31 |
-| **[NyxSentinel](www.nyxsentinel.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/688c925827f9022553c04c8f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
-| **[Hudl](http://www.hudl.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/688c2f7b3a30793eb96409f5?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Jul 31 |
-| **[The Destination Channel](https://makingitmedia.com)** | **[Social Media Intern – GenZ TikTok & Instagram (Paid)](https://jobright.ai/jobs/info/688bf121906ac06e1d1cf94b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
-| **[Warner Bros. Discovery](https://wbd.com/)** | **[Sports Marketing Internships: ATL- Fall 2025](https://jobright.ai/jobs/info/688c2409906ac06e1d1d10bd?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jul 31 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688c21d01808534a89cb8a3b?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Jul 31 |
-| **[NickNicMedia](nicknicmedia.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688c26da1808534a89cb8ca0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
-| **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/688c1ea11808534a89cb8928?utm_campaign=1065&utm_source=git)** | Greater Macon | On Site | Jul 31 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern – Spring 2026](https://jobright.ai/jobs/info/688c16761808534a89cb846d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688c13f93a30793eb963fca6?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
