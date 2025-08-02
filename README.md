@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51db3a30793eb964a314?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51673a30793eb964a2ed?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51211808534a89cc28c1?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Aug 01 |
+| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d50c927f9022553c0aafb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 01 |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
+| **[Minus](minusapp.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d4bcd3a30793eb9649ff4?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Aug 01 |
+| **[HYBE America](https://hybecorp.com/eng/company/info)** | **[Intern](https://jobright.ai/jobs/info/688d435127f9022553c0a695?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Aug 01 |
+| **[Closr.](www.shopclosr.com)** | **[Social Media Marketing & PR Intern](https://jobright.ai/jobs/info/688d42ff3a30793eb9649d33?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/688d42341808534a89cc23e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[The Fullinwider Firm, LLC](https://www.thefullinwiderfirm.com)** | **[Marketing & Business Internship](https://jobright.ai/jobs/info/688d3f101808534a89cc21b7?utm_campaign=1065&utm_source=git)** | Liberty, MO | On Site | Aug 01 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[Research and Marketing Intern](https://jobright.ai/jobs/info/688d30ff27f9022553c09e04?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 01 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Global Markets Associate Summer 2026 Internship - New York](https://jobright.ai/jobs/info/688d30003a30793eb96494ee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Red Gold](http://redgold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d2de727f9022553c09cac?utm_campaign=1065&utm_source=git)** | Elwood, IN | On Site | Aug 01 |
@@ -74,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Phase 3 Marketing and Communications](http://www.phase3mc.com/)** | **[Fall Social Media Internship](https://jobright.ai/jobs/info/688d19fa27f9022553c09201?utm_campaign=1065&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 01 |
 | **[InTouch Financial Group](https://www.intouchfinancialgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d16de27f9022553c0909a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Aug 01 |
 | **[New Home Star](http://newhomestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d153f1808534a89cc0d53?utm_campaign=1065&utm_source=git)** | Elmhurst, IL | Hybrid | Aug 01 |
+| **[St. Brendan High School](https://www.stbrendanhigh.org/)** | **[Communications & Social Media Content Creation](https://jobright.ai/jobs/info/688d3b2f1808534a89cc20b1?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 01 |
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688d11493a30793eb96484e7?utm_campaign=1065&utm_source=git)** | USA - VA - Arlington | On Site | Aug 01 |
 | **[The Lede Company](https://ledecompany.com)** | **[Brand Intern LA (FALL 2026)](https://jobright.ai/jobs/info/688d10be3a30793eb9648400?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Aug 01 |
 | **[Cortazzo Consulting Company](cortazzoconsulting.co)** | **[Special Events Intern](https://jobright.ai/jobs/info/688d10893a30793eb96483a0?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
@@ -89,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2025 PR and Social Media Internship](https://jobright.ai/jobs/info/688d167f27f9022553c0906f?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 01 |
 | ↳ | **[Fall 2025 PR Internship](https://jobright.ai/jobs/info/688d1e0d1808534a89cc11b4?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 01 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Global Markets Summer 2026 Internship - New York](https://jobright.ai/jobs/info/688cef2d1808534a89cbfcb4?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Aug 01 |
-| ↳ | **[BMO Global Markets Associate Summer 2026 Internship -  New York](https://jobright.ai/jobs/info/688cee971808534a89cbfbe3?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Aug 01 |
+| ↳ | **[BMO Global Markets Associate Summer 2026 Internship -  New York](https://jobright.ai/jobs/info/688ceebd27f9022553c07e11?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Aug 01 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Work-Study: Digital Marketing Assisstant](https://jobright.ai/jobs/info/688cee4a3a30793eb964741d?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | Hybrid | Aug 01 |
 | **[VX Media](https://www.vxmedia.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/688cec5c27f9022553c07c57?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Families4Families](https://families4families.org/)** | **[Fall Social Media Internship](https://jobright.ai/jobs/info/688ce80e27f9022553c07b13?utm_campaign=1065&utm_source=git)** | Bethesda, MD | Hybrid | Aug 01 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Georgia Department of Public Health](https://dph.georgia.gov/)** | **[Communications Specialist Intern](https://jobright.ai/jobs/info/688c1ea11808534a89cb8928?utm_campaign=1065&utm_source=git)** | Greater Macon | On Site | Jul 31 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern – Spring 2026](https://jobright.ai/jobs/info/688c16761808534a89cb846d?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Jul 31 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688c13f93a30793eb963fca6?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jul 31 |
-| **[Chartwells School Dining Services K12](http://www.chartwellsschools.com/)** | **[Marketing Intern, Chartwells K12 / Beloit School District / Beloit, WI](https://jobright.ai/jobs/info/688c0f2d3a30793eb963f88d?utm_campaign=1065&utm_source=git)** | Beloit, WI | On Site | Jul 31 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688c2c5d906ac06e1d1d15b3?utm_campaign=1065&utm_source=git)** | Martin, TN | On Site | Jul 31 |
-| **[American University](http://american.edu)** | **[Online Communication Assistant (Student)(FWS)](https://jobright.ai/jobs/info/688c0d7d906ac06e1d1d04bb?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Jul 31 |
-| **[Utah State University](http://www.usu.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/688c0bfc906ac06e1d1d0449?utm_campaign=1065&utm_source=git)** | Logan, UT | On Site | Jul 31 |
-| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Communications Intern / Compass One Healthcare (FULL-TIME/IMMEDIATE NEED)](https://jobright.ai/jobs/info/688c0bab1808534a89cb7ed0?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jul 31 |
-| **[YMCA of the Iowa Mississippi Valley](https://www.ymcaimv.org)** | **[Internship - Sports - Fall 2025](https://jobright.ai/jobs/info/688c0ba13a30793eb963f75d?utm_campaign=1065&utm_source=git)** | Bettendorf, IA | On Site | Jul 31 |
-| **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/688c3a973a30793eb9641156?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jul 31 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Communications & Marketing Intern – Spring 2026](https://jobright.ai/jobs/info/688c3bad3a30793eb964125f?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
-| **[American University](http://american.edu)** | **[Social Media Manager-Impact Scholars, Honors, AU Catalyst (Student)](https://jobright.ai/jobs/info/688c378e1808534a89cb9727?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jul 31 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Marketing Operations Intern – Spring 2026](https://jobright.ai/jobs/info/688c283a906ac06e1d1d13cd?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
-| ↳ | **[Story & Media Relations Intern – Spring 2026](https://jobright.ai/jobs/info/688c2d1c3a30793eb96408e9?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
