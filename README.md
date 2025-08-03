@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[Social Media Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d2f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 03 |
+| **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/688f29916a4aac5783cdcff7?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 03 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/688f0a536a4aac5783cdc8c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688f06eecdbd821a36644aad?utm_campaign=1065&utm_source=git)** | Longview, TX | On Site | Aug 02 |
 | **[Celebrity Theatre](https://www.celebritytheatre.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688ee6f36a4aac5783cdb334?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 02 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/688ed4d5e5cead4afd45d7d8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | ↳ | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/688ed475cdbd821a36642521?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/688e5297e5cead4afd45c5ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
-| ↳ | **[Computer Science Internship Opportunity at Detail Connect!](https://jobright.ai/jobs/info/688e557f6a4aac5783cd9068?utm_campaign=1065&utm_source=git)** | Warrington, PA | On Site | Aug 02 |
 | **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4f43cdbd821a36641351?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4effcdbd821a36641334?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CoachHub - The digital coaching platform](https://coachhub.com)** | **[Internal Communications Officer (Intern)](https://jobright.ai/jobs/info/688d2b1d27f9022553c099f5?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Aug 01 |
 | **[Planstin](https://planstin.com)** | **[Marketing Internship - Content Creation](https://jobright.ai/jobs/info/688d2ad827f9022553c09977?utm_campaign=1065&utm_source=git)** | St George, UT | On Site | Aug 01 |
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688dc60e6a4aac5783cd7516?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
-| **[The Jernigan Group at Compass](https://thejernigangroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d25241808534a89cc140a?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
