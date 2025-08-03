@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Fall 2025)](https://jobright.ai/jobs/info/688f42676a4aac5783cdd14c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 03 |
+| **[Life @ Emarsys Berlin/München](https://www.emarsys.com/de/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/688f42276a4aac5783cdd142?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Aug 03 |
+| **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/688f418de5cead4afd460863?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Aug 03 |
+| **[Capital Area Transit System (CATS)](https://www.brcats.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/688f399dcdbd821a366454a1?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Social Media Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d2f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/688f29916a4aac5783cdcff7?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 03 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/688f0a536a4aac5783cdc8c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
@@ -116,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[BrewBird](https://brewbird.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/688d69f71808534a89cc3289?utm_campaign=1065&utm_source=git)** | San Carlos, CA | Hybrid | Aug 01 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Integrated Marketing Internship Fall 2025](https://jobright.ai/jobs/info/688d68141808534a89cc31b8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
 | ↳ | **[Adult Publicity Internship Fall 2025](https://jobright.ai/jobs/info/688d67793a30793eb964abee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 01 |
-| **[Willis Johnson & Associates](https://www.wjohnsonassociates.com/)** | **[Marketing Internship: Fall 2025](https://jobright.ai/jobs/info/688d672227f9022553c0b400?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
 | **[SuperIntro](https://superintro.me)** | **[Social Media Marketing and Content Creation Specialist (Internship)](https://jobright.ai/jobs/info/688d60c83a30793eb964a7b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 | **[The Classic Center](http://classiccenter.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/688d81b2cdbd821a3663ab66?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Aug 01 |
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/688e4411e5cead4afd45c394?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Aug 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Global Markets Associate Summer 2026 Internship - New York](https://jobright.ai/jobs/info/688d30003a30793eb96494ee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Red Gold](http://redgold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d2de727f9022553c09cac?utm_campaign=1065&utm_source=git)** | Elwood, IN | On Site | Aug 01 |
 | **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/688d2b393a30793eb96491d3?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 01 |
-| **[CoachHub - The digital coaching platform](https://coachhub.com)** | **[Internal Communications Officer (Intern)](https://jobright.ai/jobs/info/688d2b1d27f9022553c099f5?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Aug 01 |
-| **[Planstin](https://planstin.com)** | **[Marketing Internship - Content Creation](https://jobright.ai/jobs/info/688d2ad827f9022553c09977?utm_campaign=1065&utm_source=git)** | St George, UT | On Site | Aug 01 |
-| **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688dc60e6a4aac5783cd7516?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
