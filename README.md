@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/688fd92dcdbd821a36646219?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 03 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern, Remote)](https://jobright.ai/jobs/info/688fd7b8cdbd821a366461f3?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 03 |
+| **[Care Collective](www.carecollective.help.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/688fd4c46a4aac5783cddd54?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Aug 03 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rensselaer Polytechnic Institute MATLAB Student Ambassador](https://jobright.ai/jobs/info/688088c59f7280424570c602?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 03 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Communications
+Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[WB Media Management](https://www.linkedin.com/company/97468964)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688fa1736a4aac5783cdd89c?utm_campaign=1065&utm_source=git)** | Newnan, GA | Hybrid | Aug 03 |
 | **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern](https://jobright.ai/jobs/info/688fa079cdbd821a36645d14?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Lumeo Finance](https://lumeofinance.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688f98e1cdbd821a36645cab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[LaVoieHealthScience](http://lavoiehealthscience.com)** | **[Media and Event Intern](https://jobright.ai/jobs/info/688f8cf26a4aac5783cdd7a0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 03 |
 | **[Gela Wesh](https://gela-wesh.com/)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/688f8b936a4aac5783cdd79a?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Aug 03 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Internship -  Social Media](https://jobright.ai/jobs/info/688f81e1e5cead4afd460e7e?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Aug 03 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688f759d6a4aac5783cdd52f?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Aug 03 |
 | **[Mettle](www.heymettle.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/688f70fbcdbd821a3664592f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Fall 2025)](https://jobright.ai/jobs/info/688f42676a4aac5783cdd14c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 03 |
@@ -153,8 +158,4 @@ For a complete list, click the following sortable link below:
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d898d6a4aac5783cd3384?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/688d841ce5cead4afd456348?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Disney+ Creative Strategy Intern, Fall 2025 at The Walt Disney Company](https://jobright.ai/jobs/info/688d6fe01808534a89cc343c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[HYBE America](https://hybecorp.com/eng/company/info)** | **[Intern](https://jobright.ai/jobs/info/688d435127f9022553c0a695?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Aug 01 |
-| **[Closr.](www.shopclosr.com)** | **[Digital Retail Strategy Intern](https://jobright.ai/jobs/info/688d956e6a4aac5783cd434a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[The Fullinwider Firm, LLC](https://www.thefullinwiderfirm.com)** | **[Marketing & Business Internship](https://jobright.ai/jobs/info/688d3f101808534a89cc21b7?utm_campaign=1065&utm_source=git)** | Liberty, MO | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
