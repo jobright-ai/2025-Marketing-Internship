@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Internship -  Social Media](https://jobright.ai/jobs/info/688f81e1e5cead4afd460e7e?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Aug 03 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688f759d6a4aac5783cdd52f?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Aug 03 |
+| **[Mettle](www.heymettle.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/688f70fbcdbd821a3664592f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Fall 2025)](https://jobright.ai/jobs/info/688f42676a4aac5783cdd14c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 03 |
 | **[Life @ Emarsys Berlin/München](https://www.emarsys.com/de/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/688f42276a4aac5783cdd142?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Aug 03 |
-| **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/688f418de5cead4afd460863?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Aug 03 |
 | **[Capital Area Transit System (CATS)](https://www.brcats.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/688f399dcdbd821a366454a1?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Aug 03 |
 | **[ByteDance](http://bytedance.com)** | **[Social Media Intern (Lemon8) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/6855ec309f1705df4dec8d2f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/688f29916a4aac5783cdcff7?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 03 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/688f0a536a4aac5783cdc8c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688f06eecdbd821a36644aad?utm_campaign=1065&utm_source=git)** | Longview, TX | On Site | Aug 02 |
 | **[Celebrity Theatre](https://www.celebritytheatre.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688ee6f36a4aac5783cdb334?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 02 |
 | **[Mississippi Aquarium](http://www.msaquarium.org)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/688edf29cdbd821a36642d2a?utm_campaign=1065&utm_source=git)** | Gulfport, MS | On Site | Aug 02 |
@@ -89,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Veteran Marketing Group](https://veteranmarketinggroup.com/)** | **[Paid Internship - Marketing and Communications](https://jobright.ai/jobs/info/688e3818cdbd821a36640f82?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
 | **[Incendium](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e62dacdbd821a366417a1?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 02 |
 | **[ESPN](http://espncareers.com)** | **[ESPN Sports Marketing Intern, New York City, Fall 2025](https://jobright.ai/jobs/info/688e2ccde5cead4afd45bf6a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 02 |
+| **[Brave](bravesauce.com)** | **[Intern](https://jobright.ai/jobs/info/688f5ede6a4aac5783cdd381?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 02 |
 | **[Innovative Global Holdings LLC](www.innovativeglobalbrands.com)** | **[Strategic Digital Marketing Internship: Build Your O-1 Visa Portfolio with Celebrity Athletes / CPT/OPT Approved](https://jobright.ai/jobs/info/688e0fb0cdbd821a366406af?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[DöhlerGroup](https://www.doehler.com/)** | **[Sales & Market Insights Intern](https://jobright.ai/jobs/info/684fa5193f9734b0c81dfd0f?utm_campaign=1065&utm_source=git)** | Cartersville, GA | On Site | Aug 02 |
 | **[Innovative Global Holdings LLC](www.innovativeglobalbrands.com)** | **[Fall 2025 Digital Marketing Internship: Master AI Attribution with World Champion Athletes](https://jobright.ai/jobs/info/688ed3fee5cead4afd45d75a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tech Tykes](https://techtykes.club)** | **[Operations & Marketing Intern](https://jobright.ai/jobs/info/688dc5b5e5cead4afd45a9ea?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Aug 01 |
 | **[Grant Park Holdings](https://grantparkholdings.com)** | **[Research & Marketing Intern](https://jobright.ai/jobs/info/688d88636a4aac5783cd31f8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[BMO U.S.](http://www.bmoharris.com/us)** | **[BMO Global Markets Associate Summer 2026 Internship - New York](https://jobright.ai/jobs/info/688d30003a30793eb96494ee?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
-| **[Red Gold](http://redgold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d2de727f9022553c09cac?utm_campaign=1065&utm_source=git)** | Elwood, IN | On Site | Aug 01 |
-| **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/688d2b393a30793eb96491d3?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
