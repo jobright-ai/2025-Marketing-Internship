@@ -57,13 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rensselaer County Regional Chamber of Commerce](http://www.renscochamber.com)** | **[Programs and Marketing Intern](https://jobright.ai/jobs/info/688e9f9d6a4aac5783cd9908?utm_campaign=1065&utm_source=git)** | Troy, NY | On Site | Aug 02 |
 | **[Eye Spy Foundation](EyeSpy.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/688e80cecdbd821a36641aca?utm_campaign=1065&utm_source=git)** | Jacksonville Beach, FL | On Site | Aug 02 |
 | **[ABEL rhythm dominoes ®](abeldominoes.com)** | **[Marketing Trainee](https://jobright.ai/jobs/info/688e78766a4aac5783cd9677?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 02 |
 | **[H15DEN](https://h15den.com)** | **[User Growth & Strategy (Micro-Internship)](https://jobright.ai/jobs/info/688e73b9cdbd821a36641996?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 02 |
-| **[MORR](https://www.morragency.com/)** | **[Fall Intern](https://jobright.ai/jobs/info/688e6a9b6a4aac5783cd9513?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Aug 02 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Computer Science Internship Opportunity at Detail Connect!](https://jobright.ai/jobs/info/688e557f6a4aac5783cd9068?utm_campaign=1065&utm_source=git)** | Warrington, PA | On Site | Aug 02 |
 | ↳ | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/688e5297e5cead4afd45c5ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Her Campus Media](http://www.hercampusmedia.com)** | **[Greek Life Social Media & Content Creator — Contract](https://jobright.ai/jobs/info/688e5272cdbd821a36641366?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4f43cdbd821a36641351?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4effcdbd821a36641334?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
@@ -149,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Noridian Healthcare Solutions, LLC](http://noridiansolutions.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/688d1e4f27f9022553c0943f?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Aug 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Creative Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/688d1bcb1808534a89cc0fb6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Aug 01 |
 | **[AACSB](http://www.aacsb.edu/)** | **[Digital Marketing Intern (Internship, 4 months)](https://jobright.ai/jobs/info/688d1b5e3a30793eb964890f?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Aug 01 |
-| **[Grant Park Holdings](https://grantparkholdings.com)** | **[Marketing & Research Intern](https://jobright.ai/jobs/info/688d1b1227f9022553c092dd?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Aug 01 |
 | **[Phase 3 Marketing and Communications](http://www.phase3mc.com/)** | **[Fall Social Media Internship](https://jobright.ai/jobs/info/688d19fa27f9022553c09201?utm_campaign=1065&utm_source=git)** | Atlanta, Georgia, United States | On Site | Aug 01 |
 | ↳ | **[Fall Social Media Internship](https://jobright.ai/jobs/info/688d8d30cdbd821a3663bab1?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 01 |
 | **[Copus](https://www.server31.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d8dc96a4aac5783cd394d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[New Home Star](http://newhomestar.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d153f1808534a89cc0d53?utm_campaign=1065&utm_source=git)** | Elmhurst, IL | Hybrid | Aug 01 |
 | **[St. Brendan High School](https://www.stbrendanhigh.org/)** | **[Communications & Social Media Content Creation](https://jobright.ai/jobs/info/688d3b2f1808534a89cc20b1?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 01 |
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688d11493a30793eb96484e7?utm_campaign=1065&utm_source=git)** | USA - VA - Arlington | On Site | Aug 01 |
+| **[The Lede Company](https://ledecompany.com)** | **[Brand Intern LA (FALL 2026)](https://jobright.ai/jobs/info/688d10be3a30793eb9648400?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Aug 01 |
+| **[Cortazzo Consulting Company](cortazzoconsulting.co)** | **[Special Events Intern](https://jobright.ai/jobs/info/688d10893a30793eb96483a0?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
