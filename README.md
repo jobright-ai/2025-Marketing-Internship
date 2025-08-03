@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/688f0a536a4aac5783cdc8c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/688f06eecdbd821a36644aad?utm_campaign=1065&utm_source=git)** | Longview, TX | On Site | Aug 02 |
 | **[Celebrity Theatre](https://www.celebritytheatre.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/688ee6f36a4aac5783cdb334?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 02 |
 | **[Mississippi Aquarium](http://www.msaquarium.org)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/688edf29cdbd821a36642d2a?utm_campaign=1065&utm_source=git)** | Gulfport, MS | On Site | Aug 02 |
 | **[We Love Pop Ups](https://welovepopups.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688edc63cdbd821a36642a68?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 02 |
@@ -71,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4f43cdbd821a36641351?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4effcdbd821a36641334?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3bf76a4aac5783cd8c81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 02 |
+| **[UCHealth](https://www.uchealth.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688efc8f6a4aac5783cdbcd3?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 02 |
+| **[Incendium Strategies](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3bf76a4aac5783cd8c81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b9fcdbd821a3664100a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b666a4aac5783cd8c52?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b0de5cead4afd45c28c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Aug 02 |
@@ -92,9 +95,11 @@ For a complete list, click the following sortable link below:
 | **[Dream SD](https://www.linkedin.com/company/105957350)** | **[Intern](https://jobright.ai/jobs/info/688e0de1cdbd821a36640659?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Aug 01 |
 | **[Harvey Media](https://www.linkedin.com/company/76379408)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/688daf156a4aac5783cd5d79?utm_campaign=1065&utm_source=git)** | Tulsa Metropolitan Area | Hybrid | Aug 01 |
 | **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/688da868e5cead4afd458b5f?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Aug 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688f0207cdbd821a3664474a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Communications Intern, Denver](https://jobright.ai/jobs/info/688dc618e5cead4afd45aa29?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 01 |
+| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales, Content & Communications](https://jobright.ai/jobs/info/688f019f6a4aac5783cdc302?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 01 |
+| **[HALE PRODUCTS, INC.](https://www.haleproducts.com/)** | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/6854964fdedbfbc64281b605?utm_campaign=1065&utm_source=git)** | Shelby, NC | On Site | Aug 01 |
 | **[Collier.Simon](http://www.colliersimon.com)** | **[Social Media Outreach Intern](https://jobright.ai/jobs/info/688edd14cdbd821a36642b10?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 01 |
-| **[Global MedTeam](https://globalmedteam.com)** | **[Intern](https://jobright.ai/jobs/info/688d96dc6a4aac5783cd44ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688d8cb66a4aac5783cd37da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688ee5646a4aac5783cdb13a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Vivrelle](https://www.vivrelle.com/)** | **[Social Media Internship (Fall)](https://jobright.ai/jobs/info/688d7a076a4aac5783cd2498?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Planstin](https://planstin.com)** | **[Marketing Internship - Content Creation](https://jobright.ai/jobs/info/688d2ad827f9022553c09977?utm_campaign=1065&utm_source=git)** | St George, UT | On Site | Aug 01 |
 | **[Axis Communications](http://www.axis.com/)** | **[Marketing Intern, Mid-Atlantic](https://jobright.ai/jobs/info/688dc60e6a4aac5783cd7516?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Aug 01 |
 | **[The Jernigan Group at Compass](https://thejernigangroup.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688d25241808534a89cc140a?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Aug 01 |
-| **[Hollywood Branded](https://hollywoodbranded.com/)** | **[Creative Pop Culture Marketing Intern](https://jobright.ai/jobs/info/688d24f727f9022553c0965f?utm_campaign=1065&utm_source=git)** | Redondo Beach, CA | On Site | Aug 01 |
-| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/688d218f1808534a89cc12aa?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 01 |
-| **[Noridian Healthcare Solutions, LLC](http://noridiansolutions.com)** | **[Intern - Communications](https://jobright.ai/jobs/info/688d1e4f27f9022553c0943f?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Aug 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Creative Strategy Intern, Fall 2025](https://jobright.ai/jobs/info/688d1bcb1808534a89cc0fb6?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Aug 01 |
-| **[AACSB](http://www.aacsb.edu/)** | **[Digital Marketing Intern (Internship, 4 months)](https://jobright.ai/jobs/info/688d1b5e3a30793eb964890f?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
