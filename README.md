@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axis Communications](http://www.axis.com/)** | **[Intern, Event Programs](https://jobright.ai/jobs/info/68902befe5cead4afd462709?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Aug 03 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Social Marketing Internship in Paris](https://jobright.ai/jobs/info/68902a8de5cead4afd462647?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 03 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Digital & Operations Intern - America's Future](https://jobright.ai/jobs/info/6890274e6a4aac5783cdedc0?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 03 |
+| ↳ | **[KIP Fall 2025 - Communications Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/689025bae5cead4afd4623d1?utm_campaign=1065&utm_source=git)** | New York | Remote | Aug 03 |
+| **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Social Media Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/6890259de5cead4afd4623c8?utm_campaign=1065&utm_source=git)** | Fairfield, CT | Remote | Aug 03 |
+| **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689022d26a4aac5783cde929?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Symmetry Systems](https://www.symmetry-systems.com)** | **[Marketing Design Intern - 2025 Summer Intern](https://jobright.ai/jobs/info/68901a70e5cead4afd461aa3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Astro Arpanet LLC](https://www.linkedin.com/company/28663593)** | **[AI Ambassador/ AI Outreach Leader/ AI Intern](https://jobright.ai/jobs/info/68901782cdbd821a36646746?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[eMarketing Foundation](emarektingassociation.org)** | **[Marketing Operations (Volunteer & OPT)](https://jobright.ai/jobs/info/68900ab5e5cead4afd4618a3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[Ending Alzheimer's](https://www.endingalzheimers.org/start)** | **[Intern - Outreach, Marketing, Link Building (Multiple Roles Available)](https://jobright.ai/jobs/info/68900aa3cdbd821a366465d1?utm_campaign=1065&utm_source=git)** | Oakland, CA | Remote | Aug 03 |
 | **[Viral Studios (previously Do or Drink)](www.do-or-drink.com)** | **[Summer/Fall Intern](https://jobright.ai/jobs/info/689004cf6a4aac5783cde12c?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 03 |
@@ -70,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Communications
 Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 03 |
 | **[WB Media Management](https://www.linkedin.com/company/97468964)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688fa1736a4aac5783cdd89c?utm_campaign=1065&utm_source=git)** | Newnan, GA | Hybrid | Aug 03 |
-| **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern](https://jobright.ai/jobs/info/688fa079cdbd821a36645d14?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Lumeo Finance](https://lumeofinance.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688f98e1cdbd821a36645cab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 03 |
 | **[LaVoieHealthScience](http://lavoiehealthscience.com)** | **[Media and Event Intern](https://jobright.ai/jobs/info/688f8cf26a4aac5783cdd7a0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 03 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688f759d6a4aac5783cdd52f?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Aug 03 |
@@ -90,14 +97,10 @@ Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_camp
 | **[Highwire](http://www.highwirepr.com)** | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/688ed4d5e5cead4afd45d7d8?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Aug 02 |
 | ↳ | **[Post Graduate Public Relations Intern](https://jobright.ai/jobs/info/688ed475cdbd821a36642521?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 02 |
 | **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/688e5297e5cead4afd45c5ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Incendium](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4f43cdbd821a36641351?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Aug 02 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4effcdbd821a36641334?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 02 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
+| **[Incendium](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e4ebe6a4aac5783cd8f4c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 02 |
 | **[UCHealth](https://www.uchealth.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/688efc8f6a4aac5783cdbcd3?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 02 |
 | **[Incendium](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3bf76a4aac5783cd8c81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 02 |
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b666a4aac5783cd8c52?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Aug 02 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b0de5cead4afd45c28c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Aug 02 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e3b08e5cead4afd45c288?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Aug 02 |
 | **[THE LAST DRESS](www.thelastdress.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/688e390ce5cead4afd45c246?utm_campaign=1065&utm_source=git)** | Paramus, NJ | Hybrid | Aug 02 |
 | **[Incendium](https://www.incendiumstrategies.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688e38e9e5cead4afd45c23e?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Aug 02 |
 | **[Veteran Marketing Group](https://veteranmarketinggroup.com/)** | **[Paid Internship - Marketing and Communications](https://jobright.ai/jobs/info/688e3818cdbd821a36640f82?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Aug 02 |
@@ -155,7 +158,4 @@ Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_camp
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Digital Marketing Intern, Chartwells Higher Ed + Boost / University of Minnesota - Minneapolis](https://jobright.ai/jobs/info/688d80b6cdbd821a3663aaac?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 01 |
 | **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51673a30793eb964a2ed?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 01 |
 | **[TriMark Digital](http://www.trimarkdigital.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/688d8028e5cead4afd455ef0?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Aug 01 |
-| **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d51211808534a89cc28c1?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Aug 01 |
-| ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d50c927f9022553c0aafb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 01 |
-| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
