@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[PR/Press Relations/Event Planning Internship at Leonardo Audio](https://jobright.ai/jobs/info/688fec18e5cead4afd4615e9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 03 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/688fea58e5cead4afd4615b4?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Aug 03 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/688fd92dcdbd821a36646219?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 03 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern, Remote)](https://jobright.ai/jobs/info/688fd7b8cdbd821a366461f3?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 03 |
 | **[Care Collective](www.carecollective.help.com)** | **[Marketing Specialist](https://jobright.ai/jobs/info/688fd4c46a4aac5783cddd54?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Aug 03 |
@@ -116,7 +118,6 @@ Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_camp
 | **[University of Michigan](https://www.umich.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/688da868e5cead4afd458b5f?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688f0207cdbd821a3664474a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 01 |
 | **[Colorado Department of Transportation](https://www.codot.gov/)** | **[Internship Opportunity: Communications Intern, Denver](https://jobright.ai/jobs/info/688dc618e5cead4afd45aa29?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 01 |
-| **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales, Content & Communications](https://jobright.ai/jobs/info/688f019f6a4aac5783cdc302?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 01 |
 | **[HALE PRODUCTS, INC.](https://www.haleproducts.com/)** | **[Marketing Generalist Intern](https://jobright.ai/jobs/info/6854964fdedbfbc64281b605?utm_campaign=1065&utm_source=git)** | Shelby, NC | On Site | Aug 01 |
 | **[Collier.Simon](http://www.colliersimon.com)** | **[Social Media Outreach Intern](https://jobright.ai/jobs/info/688edd14cdbd821a36642b10?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688d8cb66a4aac5783cd37da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
@@ -157,5 +158,4 @@ Job ID : 261593](https://jobright.ai/jobs/info/688fc4496a4aac5783cdda70?utm_camp
 | ↳ | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d50c927f9022553c0aafb?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 01 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 01 |
 | **[Entrepreneur Cooperative](entrepreneurcooperative.com)** | **[Marketing and Growth Internship for Tech Startup](https://jobright.ai/jobs/info/688d898d6a4aac5783cd3384?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 01 |
-| **[Bish's RV, Inc.](https://www.bishs.com/)** | **[Brand Management Intern](https://jobright.ai/jobs/info/688d841ce5cead4afd456348?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
