@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891d09df5ee707a15dc22af?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| ↳ | **[2026 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/6891ce1d4c7e851b90ad21bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 05 |
+| **[Mindioo](http://www.mindioo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6891c7b6f5ee707a15dc2089?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 05 |
+| **[Kaplan](http://www.kaplan.com)** | **[Social Media Coordinator (Part Time)](https://jobright.ai/jobs/info/6891ba6bf5ee707a15dc1d25?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 05 |
+| **[FMN Creative](http://www.FMNCreative.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6891b8e8f5ee707a15dc1cf6?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891b6b04c7e851b90ad1c37?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 05 |
+| **[BIGO](https://www.bigo.sg)** | **[Marketing & Partnerships Intern](https://jobright.ai/jobs/info/6891b61af47efe2113958619?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 05 |
 | **[Canon USA](https://www.usa.canon.com)** | **[Intern, ASU](https://jobright.ai/jobs/info/6891aebdf47efe2113958319?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Aug 05 |
 | **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/6891ae5df47efe21139582f1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 05 |
-| ↳ | **[2026 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/6891ad49f47efe2113958288?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
+| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Acne Studios Public Relations Intern](https://jobright.ai/jobs/info/6891ca414c7e851b90ad2132?utm_campaign=1065&utm_source=git)** | Soho, FL | On Site | Aug 05 |
+| **[BNY](https://www.bny.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/6891ad49f47efe2113958288?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | ↳ | **[2026 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6891ad32f5ee707a15dc16be?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 05 |
 | **[MeloMelo Kava Bar](http://melomelokavabar.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/6891ad2df5ee707a15dc16b1?utm_campaign=1065&utm_source=git)** | United States | On Site | Aug 05 |
 | **[Kalder](https://getkalder.com/)** | **[Marketing & Content Growth Intern](https://jobright.ai/jobs/info/6891aab2f47efe211395816e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 04 |
@@ -74,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Bubble](https://hellobubble.com/)** | **[Fall 2025 Influencer Intern](https://jobright.ai/jobs/info/689183abf47efe2113956172?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
 | **[Brain Psychiatry, Inc](https://brainpsychiatry.com)** | **[Growth & Outreach Intern](https://jobright.ai/jobs/info/68918303f47efe2113956108?utm_campaign=1065&utm_source=git)** | Rancho Cucamonga, CA | On Site | Aug 04 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Social Media & Digital Marketing Internship](https://jobright.ai/jobs/info/68917e61f5ee707a15dbf126?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 04 |
-| **[Kaplan](http://www.kaplan.com)** | **[Social Media Coordinator (Part Time)](https://jobright.ai/jobs/info/6891ade74c7e851b90ad1791?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 04 |
 | **[Genius Orbit Inc.](http://www.geniusorbit.com)** | **[Public Relations and sales Interns](https://jobright.ai/jobs/info/6891786bf47efe2113955948?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/689168224c7e851b90ace402?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Hybrid | Aug 04 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/689164aaf5ee707a15dbe29c?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dragon Seats](https://dragonseats.com)** | **[Intern - Social Media/Marketing Content Creation](https://jobright.ai/jobs/info/6890f99df5ee707a15dbb0ca?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Aug 04 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Media Relations Intern - Fall 2025](https://jobright.ai/jobs/info/6890f6a9f5ee707a15dbaf6c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Avōq](https://teamavoq.com)** | **[Corporate Communications and Public Affairs Fellow](https://jobright.ai/jobs/info/6890f575f5ee707a15dbaef7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 04 |
-| **[Feline Apparel](www.felineapparel.com)** | **[Fall 2025 Internship (Nashville, TN)](https://jobright.ai/jobs/info/6890f4e6f5ee707a15dbaec3?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 04 |
-| **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall Social Media Marketing Internship](https://jobright.ai/jobs/info/689191e1f47efe2113956b72?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 04 |
-| **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Affiliate Marketing & Executive Speaking Intern - Fall 2025](https://jobright.ai/jobs/info/689192b24c7e851b90ad00d0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 04 |
-| **[Biohack-it](https://www.biohack-it.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6890ee854c7e851b90acaaee?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Aug 04 |
-| **[Elevate Media Group Inc](http://www.elevatemginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6890edf1f5ee707a15dbab9e?utm_campaign=1065&utm_source=git)** | Onalaska, WI | On Site | Aug 04 |
-| **[The deFIANT](https://www.thedefiant.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6890ed114c7e851b90acaa65?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Aug 04 |
-| **[LV Collective](https://lvcollective.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6890eba7f47efe211395155a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
