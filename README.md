@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lippert](http://www.lippert.com)** | **[Intern](https://jobright.ai/jobs/info/6893140ff47efe2113962c77?utm_campaign=1065&utm_source=git)** | Goshen, IN | On Site | Aug 06 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/68930f5df5ee707a15dcc056?utm_campaign=1065&utm_source=git)** | Round Rock, TX | On Site | Aug 06 |
 | **[BearClaw Gaming](https://bearclawesports.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/689301dcf5ee707a15dcb883?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Aug 06 |
 | **[SummitNext](http://www.summitnext.com/)** | **[Campus Ambassador Internship (Remote)](https://jobright.ai/jobs/info/6892fde84c7e851b90adb39a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | Remote | Aug 06 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern](https://jobright.ai/jobs/info/6892fcdc4c7e851b90adb241?utm_campaign=1065&utm_source=git)** | San Francisco, California, United States | On Site | Aug 05 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Georgia Tech Athletic Association](https://ramblinwreck.com)** | **[Marketing and Fan Experience Intern](https://jobright.ai/jobs/info/689259124c7e851b90ad4e90?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 05 |
 | **[Token Metrics](http://tokenmetrics.com)** | **[Crypto UGC Content Creator – TikTok Intern (Remote - Global - Non-USA)](https://jobright.ai/jobs/info/68925827f5ee707a15dc4c9d?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Aug 05 |
 | **[RP3 Agency](https://www.rp3agency.com)** | **[Fall Intern- Media](https://jobright.ai/jobs/info/689257ea4c7e851b90ad4cc8?utm_campaign=1065&utm_source=git)** | Hybrid Remote | Hybrid | Aug 05 |
-| **[Detroit Pistons](https://pistons.nba.com/)** | **[Public Relations Game Night Intern](https://jobright.ai/jobs/info/6892579b4c7e851b90ad4c43?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Aug 05 |
 | **[Proximity Learning, Inc.](https://www.proxlearn.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68925706f47efe211395b6bd?utm_campaign=1065&utm_source=git)** | Austin, Texas, United States | Remote | Aug 05 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Social Media Intern - Fall 2025](https://jobright.ai/jobs/info/689256994c7e851b90ad4af8?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 05 |
 | **[Sierra Club](http://sierraclub.org)** | **[Fundraising Intern](https://jobright.ai/jobs/info/689254694c7e851b90ad49fe?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Aug 05 |
 | **[Intrepid College Prep](https://intrepidcollegeprep.org/)** | **[Community Relations Intern (25-26 School Year)](https://jobright.ai/jobs/info/689253e74c7e851b90ad49cd?utm_campaign=1065&utm_source=git)** | Greater Nashville, Tennessee | On Site | Aug 05 |
-| **[MEDRVA Healthcare](http://www.medarva.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68925267f47efe211395b481?utm_campaign=1065&utm_source=git)** | Greater Richmond Region | On Site | Aug 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
