@@ -122,13 +122,13 @@ For a complete list, click the following sortable link below:
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Internship - Fall](https://jobright.ai/jobs/info/6893faa1a9199876488e1656?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Aug 06 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/6893f470f47efe21139680e1?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Aug 06 |
 | **[Directive](http://directiveconsulting.com)** | **[Social and Influencer Intern (Remote US)](https://jobright.ai/jobs/info/689413bda9199876488e2523?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 06 |
-| ↳ | **[Marketing Agency Intern (Social) (Remote US)](https://jobright.ai/jobs/info/689412054c7e851b90ae280e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Aug 06 |
 | ↳ | **[Marketing Intern (Remote US)](https://jobright.ai/jobs/info/6894124ea9199876488e2496?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 06 |
+| ↳ | **[Marketing Agency Intern (Social) (Remote US)](https://jobright.ai/jobs/info/689412054c7e851b90ae280e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Aug 06 |
 | ↳ | **[Social Media Marketing Intern (Remote US)](https://jobright.ai/jobs/info/6894156a4c7e851b90ae297d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Aug 06 |
-| ↳ | **[Social Media Marketing Intern (Remote US)](https://jobright.ai/jobs/info/689412eaa9199876488e24d0?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Aug 06 |
 | ↳ | **[Marketing Agency Intern (Social) (Remote US)](https://jobright.ai/jobs/info/6894112b4c7e851b90ae27b8?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Aug 06 |
-| ↳ | **[Social Media Marketing Intern (Remote US)](https://jobright.ai/jobs/info/689410c6a9199876488e23be?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Aug 06 |
+| ↳ | **[Social Media Marketing Intern (Remote US)](https://jobright.ai/jobs/info/689412eaa9199876488e24d0?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Aug 06 |
 | ↳ | **[Organic Social Media Intern (Remote US)](https://jobright.ai/jobs/info/689411684c7e851b90ae27d0?utm_campaign=1065&utm_source=git)** | Columbus, OH | Remote | Aug 06 |
+| ↳ | **[Social Media Marketing Intern (Remote US)](https://jobright.ai/jobs/info/689410c6a9199876488e23be?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Aug 06 |
 | **[ASU Enterprise Partners](http://asuenterprisepartners.org/)** | **[Student Assistant – Social Media](https://jobright.ai/jobs/info/68940cdcf47efe2113968f03?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Aug 06 |
 | **[PURPLE](https://purplepr.com)** | **[Beauty Public Relations Intern](https://jobright.ai/jobs/info/6893f27bf47efe2113967fc6?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Aug 06 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / California State University - East Bay](https://jobright.ai/jobs/info/6893f0b84c7e851b90ae1707?utm_campaign=1065&utm_source=git)** | Hayward, CA | On Site | Aug 06 |
