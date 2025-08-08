@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[F. Schumacher & Co.](http://fschumacher.com)** | **[Portfolio Development Intern](https://jobright.ai/jobs/info/6879998ca7fc8904e3963f1f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 08 |
+| **[Generac](https://www.generac.com/)** | **[Fall 2025 Marketing Analytics Intern](https://jobright.ai/jobs/info/6878c8a7991967626f06f4ba?utm_campaign=1065&utm_source=git)** | Pewaukee, WI | On Site | Aug 08 |
 | **[ZIM Integrated Shipping Services](http://www.zim.com)** | **[Student - Marketing Analyst](https://jobright.ai/jobs/info/6895c1c18c6d6b442677d2d9?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Aug 08 |
 | **[SusieCakes Bakery](https://www.susiecakes.com)** | **[Marketing Intern / PT](https://jobright.ai/jobs/info/6895ba0873b3a600fe88aceb?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | Hybrid | Aug 08 |
 | **[Ampereon](http://www.ampereonenergy.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6895b8548c6d6b442677d0e2?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Aug 08 |
@@ -79,15 +81,15 @@ For a complete list, click the following sortable link below:
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/689557304ed2ea559ca551bc?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Remote | Aug 07 |
 | **[Sacramento Kings](http://www.Kings.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/689557234ed2ea559ca551b7?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/689556f94ed2ea559ca551a3?utm_campaign=1065&utm_source=git)** | Pennsylvania Furnace, PA | On Site | Aug 07 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Marketing Analytics & Insights Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689555a373b3a600fe886b38?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
-| ↳ | **[Global Digital Marketing Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/6895558773b3a600fe886b0c?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
-| ↳ | **[Graduate Data Science Intern, Theatrical Marketing – Fall 2025](https://jobright.ai/jobs/info/6895558773b3a600fe886b0d?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Digital Marketing Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/6895558773b3a600fe886b0c?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
 | **[Regions Bank](https://www.regionsinsurance.com/)** | **[ETP 2026 Intern - Marketing & Communications, Birmingham, AL](https://jobright.ai/jobs/info/689554a673b3a600fe886a87?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Aug 07 |
 | **[Jarrod Design](http://www.jarroddesign.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689554688c6d6b4426778f78?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 07 |
-| **[Sacramento Kings](http://www.Kings.com)** | **[Social Impact & Inclusion Intern](https://jobright.ai/jobs/info/6895545c4ed2ea559ca55055?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
-| ↳ | **[Event Production Intern](https://jobright.ai/jobs/info/689554024ed2ea559ca55013?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Event Production Intern](https://jobright.ai/jobs/info/689554024ed2ea559ca55013?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Data Science Intern, Theatrical Marketing – Fall 2025](https://jobright.ai/jobs/info/689553f78c6d6b4426778f40?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
+| ↳ | **[Global Marketing Analytics & Insights Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/689553f78c6d6b4426778f43?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 07 |
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - Atlanta](https://jobright.ai/jobs/info/6895789273b3a600fe887d93?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 07 |
 | **[Penn State University](http://psu.edu)** | **[Event Strategy & Operations Intern — Sustainability Event Coordination & Execution](https://jobright.ai/jobs/info/689595944ed2ea559ca57388?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Aug 07 |
+| **[Sacramento Kings](http://www.Kings.com)** | **[Social Impact & Inclusion Intern](https://jobright.ai/jobs/info/689550988c6d6b4426778e48?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Aug 07 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Social Media Assistant Student Clerk](https://jobright.ai/jobs/info/68954d7673b3a600fe886866?utm_campaign=1065&utm_source=git)** | Iowa City, IA | On Site | Aug 07 |
 | **[The Orchard](http://www.theorchard.com)** | **[College Marketing Representative - LA](https://jobright.ai/jobs/info/68956b338c6d6b44267798bc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 07 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Marketing & Communications Intern - Power FC - Fall 2025](https://jobright.ai/jobs/info/68954c3a73b3a600fe886733?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 07 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[The Brand Guild](https://thebrandguild.com)** | **[PR Intern: Retail and Neighborhoods](https://jobright.ai/jobs/info/689571ad8c6d6b4426779dbd?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 07 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Social Media Specialist (Student Position)](https://jobright.ai/jobs/info/68959f3873b3a600fe8896c8?utm_campaign=1065&utm_source=git)** | Big Rapids, MI | On Site | Aug 07 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship – North America Foodservice Marketing](https://jobright.ai/jobs/info/689531574ed2ea559ca54070?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 07 |
-| **[The Andersons, Inc.](http://www.andersonsinc.com/)** | **[Commodity Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/6895307d73b3a600fe885a40?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Aug 07 |
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/689530774ed2ea559ca54005?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Aug 07 |
+| **[The Andersons, Inc.](http://www.andersonsinc.com/)** | **[Commodity Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/689530664ed2ea559ca53ffa?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Aug 07 |
 | **[The Brand Guild](https://thebrandguild.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68954eee8c6d6b4426778d8e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952df84ed2ea559ca53f96?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952df34ed2ea559ca53f8c?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Aug 07 |
@@ -133,9 +135,9 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - New York City CDLI](https://jobright.ai/jobs/info/68952de54ed2ea559ca53f74?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952de373b3a600fe885968?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952de24ed2ea559ca53f6b?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Aug 07 |
-| ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dd44ed2ea559ca53f51?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dd473b3a600fe885957?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dd473b3a600fe885956?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Aug 07 |
+| ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dd44ed2ea559ca53f51?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dc74ed2ea559ca53f39?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dc28c6d6b4426777e57?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952dba8c6d6b4426777e4c?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - Cleveland ICG](https://jobright.ai/jobs/info/68952d6673b3a600fe8858d5?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Aug 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952d5c73b3a600fe8858cf?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Aug 07 |
 | ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952d598c6d6b4426777dbc?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Aug 07 |
-| ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952d524ed2ea559ca53ea0?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Aug 07 |
-| ↳ | **[Fall 2025 Internship - Baseball Marketing](https://jobright.ai/jobs/info/68952d524ed2ea559ca53ea1?utm_campaign=1065&utm_source=git)** | USA-AR - Arkansas Remote | Remote | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
