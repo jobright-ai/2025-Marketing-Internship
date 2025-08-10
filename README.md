@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starteryou](starteryou.com)** | **[Outreach & Growth Intern](https://jobright.ai/jobs/info/6899155b5574fd6bc0c7aff7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 10 |
+| **[Paidwork](https://www.paidwork.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/689902d4faa4e875e8250fa0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 10 |
+| **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / Rambler Ann Arbor](https://jobright.ai/jobs/info/6899027383d13d1f5b691384?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Aug 10 |
+| **[355Life](http://www.355life.com/)** | **[Sales + Marketing Analyst (Nationwide/Pacific Life/Aegon)](https://jobright.ai/jobs/info/6899026483d13d1f5b69137b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 10 |
+| **[D.C. United](http://dcunited.com)** | **[Internship: Marketing & Communications Intern](https://jobright.ai/jobs/info/6898ff7483d13d1f5b691316?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 10 |
+| **[LV Collective](https://lvcollective.com)** | **[Digital Marketing Intern / 313 College Ave](https://jobright.ai/jobs/info/6898fa89faa4e875e8250eca?utm_campaign=1065&utm_source=git)** | College Station, TX | Hybrid | Aug 10 |
 | **[SecondWind Pro](https://www.secondwind.pro)** | **[Fall Graduate Internship – Strategy & Growth (Sports Industry)](https://jobright.ai/jobs/info/6898e7f25574fd6bc0c7ad1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 10 |
-| **[Headlamp Creative Group](https://www.headlampcreativegroup.com/)** | **[Affiliate Program Assistant](https://jobright.ai/jobs/info/6898d45bfaa4e875e8250ace?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Aug 10 |
 | **[Intrinsic Solutions Marketing Agency, Inc.](http://www.intrinsicsolutionsmarketing.com/)** | **[MarketingTrainee](https://jobright.ai/jobs/info/6898c9ae5574fd6bc0c7a985?utm_campaign=1065&utm_source=git)** | Carmichael, CA | On Site | Aug 10 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6898be96faa4e875e82508fb?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 10 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6898b2e25574fd6bc0c7a6d7?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 10 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Force Factor](https://forcefactor.com/)** | **[Fall 2025 Brand Marketing Intern](https://jobright.ai/jobs/info/689736688c6d6b44267873f0?utm_campaign=1065&utm_source=git)** | Boston, MA. | On Site | Aug 08 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Foundation & Communications Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Aug 08 |
 | **[Z.T. Distribution, Inc.](http://www.ztdist.com)** | **[Marketing/Communications Internship](https://jobright.ai/jobs/info/68973ff21b9e81727f196ec9?utm_campaign=1065&utm_source=git)** | Waukesha, WI | On Site | Aug 08 |
-| **[CLC Enterprises](https://clcent.com)** | **[Social Media and  Marketing Intern](https://jobright.ai/jobs/info/68985c9983d13d1f5b68f39f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 08 |
 | **[PCOnline](https://pconlineus.com/)** | **[Marketing Assistant Trainee](https://jobright.ai/jobs/info/68983ac6faa4e875e824c4c8?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Aug 08 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68977e5673b3a600fe89a1da?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Aug 08 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Public Relations Intern - Young Voices](https://jobright.ai/jobs/info/6897ddbb8c6d6b44267932d3?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 08 |
-| **[ONE Sotheby's International Realty](https://www.onesothebysrealty.com/)** | **[Intern](https://jobright.ai/jobs/info/68984c3083d13d1f5b68d5bc?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 08 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Marketing Data Science & Analytics)](https://jobright.ai/jobs/info/6897a93c8c6d6b442678fc33?utm_campaign=1065&utm_source=git)** | 820 Follin Lane, Vienna, VA, 22180, US | On Site | Aug 08 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Digital PR Intern](https://jobright.ai/jobs/info/6897e6c61b9e81727f1a2b84?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA | On Site | Aug 08 |
-| **[Zoo City FC](Zoocityfc.com)** | **[Intern](https://jobright.ai/jobs/info/68981f43faa4e875e824a7f8?utm_campaign=1065&utm_source=git)** | Greater Kalamazoo Area | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
