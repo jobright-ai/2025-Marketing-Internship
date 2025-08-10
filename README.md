@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Caphatch](https://caphatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6898850c5574fd6bc0c7a0a0?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 10 |
+| **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/68987f10faa4e875e82500db?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Aug 10 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/689847fefaa4e875e824ce61?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Xavier University](https://jobright.ai/jobs/info/68985ccffaa4e875e824f373?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 09 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689814de1b9e81727f1a4012?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Texas Mutual Insurance Company](http://www.texasmutual.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/687c951d2097a271a898b498?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Aug 09 |
 | **[MathWorks](http://www.mathworks.com)** | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 09 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68983f8e83d13d1f5b68cc30?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 09 |
-| **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68985f38faa4e875e824f7c6?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Aug 09 |
 | **[Malaria No More](http://malarianomore.org)** | **[Intern, Communications](https://jobright.ai/jobs/info/689761998c6d6b442678a9ca?utm_campaign=1065&utm_source=git)** | Remote US | Remote | Aug 09 |
 | **[HES Facilities Management](https://hesfacilitiesmanagement.com)** | **[Marketing Intern - Knoxville, TN](https://jobright.ai/jobs/info/68984c055574fd6bc0c7746f?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Aug 09 |
 | **[Tire Discounters, Inc.](https://www.tirediscounters.com)** | **[Marketing Co-Op](https://jobright.ai/jobs/info/6897e2928c6d6b4426793805?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 09 |
@@ -112,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Rho](https://rho.co)** | **[Events and Community Intern](https://jobright.ai/jobs/info/68984c5afaa4e875e824d6d2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Aug 08 |
 | **[Pet Loss Community](www.petlosscommunity.com)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/689820cc83d13d1f5b68ad8b?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Aug 08 |
 | **[CHESTER COUNTY CHAMBER OF COMMERCE](http://chesterchamber.com)** | **[Tourism & Marketing Intern](https://jobright.ai/jobs/info/68976ecd1b9e81727f19a703?utm_campaign=1065&utm_source=git)** | Chester, SC | Hybrid | Aug 08 |
-| **[Vortex Doors](https://www.vortexdoors.com/)** | **[Digital Marketing Intern – SEO Focus](https://jobright.ai/jobs/info/6897ac268c6d6b44267900ed?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Aug 08 |
-| ↳ | **[Digital Marketing Intern – SEO Focus](https://jobright.ai/jobs/info/6897a6761b9e81727f19ea8c?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Aug 08 |
+| **[Vortex Doors](https://www.vortexdoors.com/)** | **[Digital Marketing Intern – SEO Focus](https://jobright.ai/jobs/info/6897a6761b9e81727f19ea8c?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Aug 08 |
+| ↳ | **[Digital Marketing Intern – SEO Focus](https://jobright.ai/jobs/info/6897ac268c6d6b44267900ed?utm_campaign=1065&utm_source=git)** | Fully Remote | Remote | Aug 08 |
 | **[Warner Bros. Discovery](https://wbd.com/)** | **[WAY Intern - CNN Underscored Social Media: NYC - Fall 2025](https://jobright.ai/jobs/info/6898449dfaa4e875e824c8a1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 08 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Beauty Marketing Internship (Fall 2025)](https://jobright.ai/jobs/info/6897a6e673b3a600fe89d0b4?utm_campaign=1065&utm_source=git)** | NYC Office | Hybrid | Aug 08 |
 | **[Merrill Manufacturing Company](https://www.merrillmfg.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6897ab5973b3a600fe89d7fa?utm_campaign=1065&utm_source=git)** | Merrill Main Office | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stand Together](https://standtogether.org/)** | **[KIP Fall 2025 - Public Relations Intern - Young Voices](https://jobright.ai/jobs/info/6897e0188c6d6b442679356b?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 08 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Email & SMS Marketing Intern, Fall 2025](https://jobright.ai/jobs/info/68973b801b9e81727f196981?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Project Intern (SMB Advertising) 2025 (BS/MS)](https://jobright.ai/jobs/info/68982be3faa4e875e824adcd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 08 |
-| **[Penn State University](http://psu.edu)** | **[Part-Time Strategic Engagement & Culture Intern](https://jobright.ai/jobs/info/68983f505574fd6bc0c76796?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
