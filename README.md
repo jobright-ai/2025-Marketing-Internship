@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heald](http://iheald.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6899d2e083d13d1f5b69463a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Paidwork](https://www.paidwork.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6899c93bfaa4e875e825418a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 11 |
+| **[Aureole Jewelry](https://aureolejewelry.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6899c5ef83d13d1f5b69448c?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (New York, NY)](https://jobright.ai/jobs/info/6899b62583d13d1f5b69422c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 11 |
 | **[Xpansiv](https://www.xpansiv.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6899a71dfaa4e875e8253d48?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 11 |
 | **[NA](http://schnadig.com)** | **[2026 BNY Summer Internship Program - Marketing & Communications (Pittsburgh, PA)](https://jobright.ai/jobs/info/6899a1d5faa4e875e8253cc6?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 11 |
@@ -84,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68996d8683d13d1f5b69286e?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 10 |
 | **[Caphatch](https://caphatch.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6898850c5574fd6bc0c7a0a0?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Aug 10 |
 | **[Circle K](http://www.circlek.com)** | **[Intern, Global Merchandising Excellence, Item Master Data](https://jobright.ai/jobs/info/68987f10faa4e875e82500db?utm_campaign=1065&utm_source=git)** | Columbus, IN | On Site | Aug 10 |
+| **[The Brand Guild](https://thebrandguild.com)** | **[PR Intern: Food and Beverage Team](https://jobright.ai/jobs/info/68953ad04ed2ea559ca54426?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 10 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Xavier University](https://jobright.ai/jobs/info/68985ccffaa4e875e824f373?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 09 |
 | **[Proper Cloth](https://propercloth.com)** | **[Fall 2025 Influencer Marketing Intern](https://jobright.ai/jobs/info/68989de6faa4e875e825042a?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Aug 09 |
 | **[Texas Ski Council](https://www.texas-ski.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68997da35574fd6bc0c7cc30?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[University of Central Oklahoma](http://www.uco.edu/)** | **[FWSP Student Ambassador (Technical) - Retention & Outreach](https://jobright.ai/jobs/info/689836fdfaa4e875e824bf05?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Aug 08 |
 | **[Veson Nautical](http://www.veson.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6897585773b3a600fe8974c0?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 08 |
 | **[Ferris State University College of Business ](http://ferris.edu/business)** | **[Writing and Communications Assistant (Student Position)](https://jobright.ai/jobs/info/689775118c6d6b442678bfab?utm_campaign=1065&utm_source=git)** | Big Rapids, MI | On Site | Aug 08 |
-| ↳ | **[Marketing and Communications Assistant (Student Position)](https://jobright.ai/jobs/info/6897d1f973b3a600fe89fd03?utm_campaign=1065&utm_source=git)** | Big Rapids, MI | On Site | Aug 08 |
-| **[Lutheran Services in Iowa](https://www.lsiowa.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/68983bc383d13d1f5b68c694?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Aug 08 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Fall 2025 Internship - Social Media/Digital Marketing (Creator Management)](https://jobright.ai/jobs/info/68983b7b5574fd6bc0c761d4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 08 |
-| **[TONYMOLY USA](http://www.tonymoly.us)** | **[Fall 2025 Marketing Internship](https://jobright.ai/jobs/info/68983ee083d13d1f5b68cb80?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
