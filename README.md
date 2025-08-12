@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pokee AI](https://pokee.ai/)** | **[Social Media Operations Intern](https://jobright.ai/jobs/info/689af4835574fd6bc0c883ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/689ae6515574fd6bc0c87602?utm_campaign=1065&utm_source=git)** | San Mateo, CA, US | On Site | Aug 11 |
 | **[Capix (YC S22)](http://capix.ai/)** | **[Social Media & Growth Intern](https://jobright.ai/jobs/info/689ae47ffaa4e875e825d945?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Aug 11 |
 | **[Givefront](https://givefront.com)** | **[Intern, Content](https://jobright.ai/jobs/info/689ae477faa4e875e825d930?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | Hybrid | Aug 11 |
@@ -73,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Back Bay StoriTel](https://www.storitel.com/)** | **[Small Business Intern](https://jobright.ai/jobs/info/689aa994faa4e875e825ab99?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Aug 11 |
 | **[Parity (YC S24)](https://tryparity.com)** | **[Growth Intern](https://jobright.ai/jobs/info/689aa952faa4e875e825ab1b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Aug 11 |
 | **[GLAMNETIC](https://glamnetic.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/689ad0eefaa4e875e825c849?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 11 |
-| **[Convecap](www.convecap.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689aa7f7faa4e875e825a90c?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Remote | Aug 11 |
-| **[Stylere](stylere.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/689aa7a4faa4e875e825a883?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Diksha Advertising and Printing](http://www.dikshaadvertising.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689aa28c83d13d1f5b69a856?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 11 |
 | **[Birdie and Ace](https://birdieandace.com/)** | **[Social Media Marketing Brand Intern (Remote)](https://jobright.ai/jobs/info/689aa210faa4e875e825a646?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 11 |
 | **[ITW Automotive](https://www.itwautomotive.com)** | **[Strategic Marketing Analyst Intern](https://jobright.ai/jobs/info/689a9ea983d13d1f5b69a702?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Aug 11 |
@@ -133,10 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Big Brothers Big Sisters Greater Houston](http://www.bbbstx.org/houston)** | **[Signature Events Intern](https://jobright.ai/jobs/info/689ac3e083d13d1f5b69c19e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 11 |
 | **[Aeg Worldwide Inc](http://www.aegworldwide.com/)** | **[Fall Intern, Marketing – AEG Presents (Rocky Mountains)](https://jobright.ai/jobs/info/689ac34e83d13d1f5b69c0f0?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 11 |
 | **[Florida Atlantic University](http://www.fau.edu)** | **[Student Social Media Content Creator & Engagement Assistant](https://jobright.ai/jobs/info/689a4a6efaa4e875e82578c2?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Aug 11 |
+| **[Shared Medical Services, Inc.](http://www.sharedmed.com)** | **[Part-Time Marketing Intern](https://jobright.ai/jobs/info/689a49945574fd6bc0c81725?utm_campaign=1065&utm_source=git)** | Cottage Grove, WI | Remote | Aug 11 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Marketing Internship - Cleveland](https://jobright.ai/jobs/info/689a48d15574fd6bc0c81653?utm_campaign=1065&utm_source=git)** | Brooklyn, OH | On Site | Aug 11 |
 | **[ITW](http://www.itw.com/)** | **[Strategic Marketing Analyst Intern](https://jobright.ai/jobs/info/689a47af83d13d1f5b697b05?utm_campaign=1065&utm_source=git)** | Troy - 100 Kirts Blvd 48084 | On Site | Aug 11 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Summer 2026 Internship / Marketing](https://jobright.ai/jobs/info/689a45c4faa4e875e82575e4?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Aug 11 |
-| **[Shared Medical Services, Inc.](http://www.sharedmed.com)** | **[Part-Time Marketing Intern](https://jobright.ai/jobs/info/689a429083d13d1f5b69760c?utm_campaign=1065&utm_source=git)** | Cottage Grove, WI | Remote | Aug 11 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2025 Altar'd State Merchandising Buying Intern](https://jobright.ai/jobs/info/689a4288faa4e875e8257266?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Aug 11 |
 | **[UVA Health](https://www.uvahealth.com)** | **[EHD Communications and Marketing Undergraduate Intern (Student Wage)](https://jobright.ai/jobs/info/689a423683d13d1f5b6975b2?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Aug 11 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[CIG Marketing & Sales Support Intern](https://jobright.ai/jobs/info/689a41cbfaa4e875e8257171?utm_campaign=1065&utm_source=git)** | Fond du Lac, WI | On Site | Aug 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/689a353a5574fd6bc0c8090e?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL | Hybrid | Aug 11 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/689a3492faa4e875e8256a72?utm_campaign=1065&utm_source=git)** | San Marcos, TX | On Site | Aug 11 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/689a3448faa4e875e8256a51?utm_campaign=1065&utm_source=git)** | McAllen, TX | Hybrid | Aug 11 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/689a34395574fd6bc0c8086b?utm_campaign=1065&utm_source=git)** | Dawsonville, GA | Hybrid | Aug 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
