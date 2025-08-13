@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[intern, Brand Marketing, e.l.f. Skin](https://jobright.ai/jobs/info/6881ce3741fbda106ee6d4be?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | **[MathWorks](http://www.mathworks.com)** | **[Rensselaer Polytechnic Institute MATLAB Student Ambassador](https://jobright.ai/jobs/info/688088c59f7280424570c602?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 13 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/689c5a7d79a9f966625388da?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Aug 13 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Athletic Marketing & Promotions Internship](https://jobright.ai/jobs/info/689c47b479a9f966625384e4?utm_campaign=1065&utm_source=git)** | Newport, KY | On Site | Aug 13 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Michigan Technological University](https://jobright.ai/jobs/info/689bcfb979a9f96662533e02?utm_campaign=1065&utm_source=git)** | Houghton, MI | On Site | Aug 12 |
 | **[Scholars Strategy Network](http://scholarsstrategynetwork.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/689bccf283d13d1f5b6a399b?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Aug 12 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[PR Internship Fall 2025](https://jobright.ai/jobs/info/689bccae79a9f96662533d89?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 12 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Creator Partnership Intern – (TikTok Shop – Global Selling) – 2026 Summer(BS/MS)) at TikTok Inc.](https://jobright.ai/jobs/info/689bfdad83d13d1f5b6a4dac?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Social Media Manager: TikTok](https://jobright.ai/jobs/info/689bc98efaa4e875e826382f?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Aug 12 |
 | **[D.C. United](http://dcunited.com)** | **[Internship: Social Media Intern](https://jobright.ai/jobs/info/689bc7fc79a9f96662533abb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 12 |
 | **[Balance Now](https://www.balance.ca)** | **[Social Media Engagement Team Member](https://jobright.ai/jobs/info/689bbec383d13d1f5b6a32c0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 12 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[Hush](https://gohush.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689bb3d083d13d1f5b6a2b48?utm_campaign=1065&utm_source=git)** | Detroit Metro | On Site | Aug 12 |
 | **[New York State Department of Labor](http://www.labor.ny.gov)** | **[Communications Internship - Hourly - Albany](https://jobright.ai/jobs/info/689c0b6079a9f966625359cb?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Digital Marketing Intern / Mortenson](https://jobright.ai/jobs/info/689ba30979a9f966625322ce?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
-| **[Hai Hospitality](https://haihospitality.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/689ba2b183d13d1f5b6a1ed0?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media and Video / Graphic Marketing Intern](https://jobright.ai/jobs/info/689ba25479a9f96662532217?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Aug 12 |
 | **[Bishop Fox](https://bishopfox.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689ba1f3faa4e875e8261dc4?utm_campaign=1065&utm_source=git)** | Tempe, AZ or San Francisco, CA Hybrid | On Site | Aug 12 |
 | **[Acadium](http://www.acadium.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689c22c9faa4e875e8266585?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 12 |
@@ -129,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Solution Adoption Campaign Coordinator](https://jobright.ai/jobs/info/689b9d4783d13d1f5b6a1c14?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 12 |
 | **[Proximity Learning, Inc.](https://www.proxlearn.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/68926aeff47efe211395c27a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Intern- Consumer Marketing](https://jobright.ai/jobs/info/689b994083d13d1f5b6a179b?utm_campaign=1065&utm_source=git)** | 255 E. Main St, Columbus, OH | On Site | Aug 12 |
+| **[Hai Hospitality](https://haihospitality.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/689b992283d13d1f5b6a177d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 12 |
 | **[Mortenson](https://www.mortenson.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689b967679a9f96662531ab9?utm_campaign=1065&utm_source=git)** | Minnesota, United States | On Site | Aug 12 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/689c22ff79a9f96662536989?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Aug 12 |
 | **[Sistas In Sales](https://www.sistasinsales.com/)** | **[SAP iXp Intern – Sales, Content & Communications](https://jobright.ai/jobs/info/689c22ff79a9f96662536988?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | Hybrid | Aug 12 |
@@ -151,9 +151,9 @@ For a complete list, click the following sortable link below:
 | **[Visionet Systems Inc.](https://www.visionet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689b73a8faa4e875e826053e?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Aug 12 |
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6e4f83d13d1f5b6a03c7?utm_campaign=1065&utm_source=git)** | USA - Hazelwood, MO | On Site | Aug 12 |
 | ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6e2c83d13d1f5b6a037e?utm_campaign=1065&utm_source=git)** | USA - Arlington, VA | On Site | Aug 12 |
+| ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6df483d13d1f5b6a030f?utm_campaign=1065&utm_source=git)** | USA - St. Louis City, MO | On Site | Aug 12 |
 | ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6dee83d13d1f5b6a0300?utm_campaign=1065&utm_source=git)** | USA - Everett, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6da579a9f9666253071c?utm_campaign=1065&utm_source=git)** | USA - Seattle, WA | On Site | Aug 12 |
-| ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6d8a79a9f966625306fe?utm_campaign=1065&utm_source=git)** | USA - St. Louis City, MO | On Site | Aug 12 |
 | ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6d2183d13d1f5b6a028a?utm_campaign=1065&utm_source=git)** | USA - Renton, WA | On Site | Aug 12 |
 | ↳ | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689b6d0e79a9f96662530663?utm_campaign=1065&utm_source=git)** | USA - Berkeley, MO | On Site | Aug 12 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/689b6b3c79a9f96662530537?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 12 |
