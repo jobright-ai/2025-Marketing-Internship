@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Money Choice](http://www.tinoiq.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d5856faa4e875e826ed6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
+| **[DormMe](https://www.dormme.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689d4c6883d13d1f5b6ae9ea?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 13 |
+| **[Creativities Studio](www.creativitiesstudio.com)** | **[Intern](https://jobright.ai/jobs/info/689d45ab83d13d1f5b6ae7d0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | **[Hustle Magazine](www.hustlemagazine.co)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/689d422579a9f9666253ea65?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Acadium](http://www.acadium.com)** | **[SEO and Content Marketing Intern](https://jobright.ai/jobs/info/689d3f83faa4e875e826e576?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Summer 2026 Brand Management Internship (1Y MBA)](https://jobright.ai/jobs/info/689d3cd783d13d1f5b6ae561?utm_campaign=1065&utm_source=git)** | Ewing, NJ | Hybrid | Aug 13 |
@@ -65,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[HELO Solutions](https://www.linkedin.com/company/108110438)** | **[Marketing Content Creator Intern - AI Technologies](https://jobright.ai/jobs/info/689d366779a9f9666253e5db?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 13 |
 | **[The Untold](www.wearetheuntold.com)** | **[Tech & Entertainment Publicity Intern](https://jobright.ai/jobs/info/689d361183d13d1f5b6ae196?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[Piedmont Wildlife Center](https://www.piedmontwildlifecenter.org)** | **[Nonprofit Marketing & Fundraising Internship](https://jobright.ai/jobs/info/689d356c79a9f9666253e22d?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Aug 13 |
+| **[California Institute of Integral Studies](http://www.ciis.edu/)** | **[Social Media Coordinator (Student Worker) - California Institute of Integral Studies](https://jobright.ai/jobs/info/689d499179a9f9666253eccf?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Aug 13 |
 | **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Communications Intern](https://jobright.ai/jobs/info/689d2f9b83d13d1f5b6adbc0?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Aug 13 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d28fcfaa4e875e826d90f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 13 |
 | **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689d28bdfaa4e875e826d843?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
@@ -88,10 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Summer 2026 Brand Management Internship (1Y MBA)](https://jobright.ai/jobs/info/689cfb7383d13d1f5b6ac71f?utm_campaign=1065&utm_source=git)** | USA, Ewing, NJ | Hybrid | Aug 13 |
 | **[Springwood Marketing, LLC](https://springwoodmarketing.com/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/689cfb4ffaa4e875e826c5be?utm_campaign=1065&utm_source=git)** | The Woodlands, TX | On Site | Aug 13 |
 | **[Hara Analytics](https://www.linkedin.com/company/104445269)** | **[Marketing Intern (Unpaid, Remote, Academic credit)](https://jobright.ai/jobs/info/689cf87dfaa4e875e826c51c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
-| **[Trending Society](https://trendingsociety.com)** | **[Digital Marketing & TikTok Growth Intern](https://jobright.ai/jobs/info/689cf864faa4e875e826c4de?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 13 |
 | **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Social, Influencer, and Marketing Intern, NOYZ](https://jobright.ai/jobs/info/689cf833faa4e875e826c414?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
-| **[Seeker Music](https://www.seekermusic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689cf82079a9f9666253c850?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/689cf152faa4e875e826c134?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Aug 13 |
+| **[Whalar](https://whalar.com)** | **[Summer Intern, Client Services](https://jobright.ai/jobs/info/689d473afaa4e875e826e746?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 13 |
 | **[Lucid Institute](www.lucid-institute.com)** | **[Psychedelic Education Marketing/Operations Intern](https://jobright.ai/jobs/info/689cecb1faa4e875e826bff0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Communications Intern](https://jobright.ai/jobs/info/689ceca183d13d1f5b6ac117?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Aug 13 |
 | **[Marketing Fems Academy](http://www.marketingfems.com)** | **[Social Media Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/689ce97779a9f9666253c216?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
@@ -104,15 +107,13 @@ For a complete list, click the following sortable link below:
 | **[Boeing](https://www.boeing.co.uk)** | **[Boeing Summer 2026 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/689cdfb879a9f9666253bc74?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Aug 13 |
 | **[ASAPP](http://www.asapp.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/689cdfa383d13d1f5b6ab8cd?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Aug 13 |
 | **[Criteo](http://www.criteo.com)** | **[Global PR & Communications Intern](https://jobright.ai/jobs/info/689cdf6983d13d1f5b6ab78e?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Facebook Ads Intern](https://jobright.ai/jobs/info/689cdc4483d13d1f5b6ab36a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
+| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Facebook Ads Intern](https://jobright.ai/jobs/info/689cdc4379a9f9666253b5e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[ENGIE - International Supply & Energy Management](https://gems.engie.com)** | **[Intern, Power Marketing](https://jobright.ai/jobs/info/689cdc09faa4e875e826b14e?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
 | ↳ | **[Intern, Power Marketing](https://jobright.ai/jobs/info/689cd97879a9f9666253b52c?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Aug 13 |
 | ↳ | **[Intern, Power Marketing](https://jobright.ai/jobs/info/689cd93efaa4e875e826b0a0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Aug 13 |
 | **[Altar Native](https://altarnativebar.com/)** | **[Intern](https://jobright.ai/jobs/info/689cd93afaa4e875e826b097?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Aug 13 |
-| **[RAAS](https://raastheglobaldesi.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/689cd8cf79a9f9666253b3d0?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 13 |
 | **[Lucca Interiors](https://luccainteriors.com/)** | **[Digital Media & Marketing Intern](https://jobright.ai/jobs/info/689cd53979a9f9666253b304?utm_campaign=1065&utm_source=git)** | Englewood, NJ | On Site | Aug 13 |
 | **[Civille](https://getciville.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689cd4b8faa4e875e826ae32?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | Hybrid | Aug 13 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/689cd45283d13d1f5b6aaf63?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[AMC Networks](http://amcnetworks.com)** | **[Co - Op - Corporate Communications](https://jobright.ai/jobs/info/689cd43883d13d1f5b6aaf29?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
 | **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689ccfa579a9f9666253af6e?utm_campaign=1065&utm_source=git)** | PA - Philadelphia, 3601 S Broad St | On Site | Aug 13 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student Esports Social Media Specialist](https://jobright.ai/jobs/info/689ccfa1faa4e875e826abb5?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MSC ](https://www.linkedin.com/company/34048588)** | **[Intern, Marketing](https://jobright.ai/jobs/info/689c292583d13d1f5b6a6e77?utm_campaign=1065&utm_source=git)** | Davidson, NC | On Site | Aug 12 |
 | **[DogiZone](https://www.dogizone.com/)** | **[Marketing & Media Intern](https://jobright.ai/jobs/info/689c1b8983d13d1f5b6a6239?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Aug 12 |
 | **[DESTINATION BRANDS](https://destinationbrands.com/)** | **[Wine & Spirits Social Media and Marketing Internship](https://jobright.ai/jobs/info/689c120a79a9f96662535de0?utm_campaign=1065&utm_source=git)** | Tri-Cities, WA | Hybrid | Aug 12 |
-| **[Escape™ App AI](https://www.escapeapp.ai)** | **[App Store Optimization Intern](https://jobright.ai/jobs/info/689c0ba079a9f96662535ab8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
