@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hustle Magazine](www.hustlemagazine.co)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/689d422579a9f9666253ea65?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 13 |
+| **[Acadium](http://www.acadium.com)** | **[SEO and Content Marketing Intern](https://jobright.ai/jobs/info/689d3f83faa4e875e826e576?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
+| **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Summer 2026 Brand Management Internship (1Y MBA)](https://jobright.ai/jobs/info/689d3cd783d13d1f5b6ae561?utm_campaign=1065&utm_source=git)** | Ewing, NJ | Hybrid | Aug 13 |
+| **[SERHANT.](https://www.serhant.com)** | **[Social Media Intern to Commercial Real Estate Agent and Netflix Star](https://jobright.ai/jobs/info/689d3ca279a9f9666253e918?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 13 |
+| **[Compana Pet Brands](https://companapetbrands.com)** | **[Student Marketing Assistant](https://jobright.ai/jobs/info/689d3c69faa4e875e826e3c9?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Aug 13 |
+| **[HELO Solutions](https://www.linkedin.com/company/108110438)** | **[Marketing Content Creator Intern - AI Technologies](https://jobright.ai/jobs/info/689d366779a9f9666253e5db?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 13 |
+| **[The Untold](www.wearetheuntold.com)** | **[Tech & Entertainment Publicity Intern](https://jobright.ai/jobs/info/689d361183d13d1f5b6ae196?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
+| **[Piedmont Wildlife Center](https://www.piedmontwildlifecenter.org)** | **[Nonprofit Marketing & Fundraising Internship](https://jobright.ai/jobs/info/689d356c79a9f9666253e22d?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Aug 13 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Communications Intern](https://jobright.ai/jobs/info/689d2f9b83d13d1f5b6adbc0?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Aug 13 |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d28fcfaa4e875e826d90f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 13 |
+| **[Varmodel AI](https://www.linkedin.com/company/79943374)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/689d28bdfaa4e875e826d843?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Nicho Produce](http://nichoproduce.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689d21f583d13d1f5b6ad5cb?utm_campaign=1065&utm_source=git)** | Edinburg, TX | On Site | Aug 13 |
 | **[CMG Worldwide](https://www.cmgworldwide.com/)** | **[Fall Marketing Internship](https://jobright.ai/jobs/info/689d1f48faa4e875e826d462?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Aug 13 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689d1f4683d13d1f5b6ad523?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Aug 13 |
@@ -80,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Trending Society](https://trendingsociety.com)** | **[Digital Marketing & TikTok Growth Intern](https://jobright.ai/jobs/info/689cf864faa4e875e826c4de?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 13 |
 | **[BEACH HOUSE GROUP](http://www.beachhousegrp.com/)** | **[Social, Influencer, and Marketing Intern, NOYZ](https://jobright.ai/jobs/info/689cf833faa4e875e826c414?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 13 |
 | **[Seeker Music](https://www.seekermusic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689cf82079a9f9666253c850?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 13 |
-| **[Paidwork](https://www.paidwork.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689cf166faa4e875e826c193?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern – Market Management](https://jobright.ai/jobs/info/689cf152faa4e875e826c134?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Aug 13 |
 | **[Lucid Institute](www.lucid-institute.com)** | **[Psychedelic Education Marketing/Operations Intern](https://jobright.ai/jobs/info/689cecb1faa4e875e826bff0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Nabidex](https://www.linkedin.com/company/90590589)** | **[Communications Intern](https://jobright.ai/jobs/info/689ceca183d13d1f5b6ac117?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Aug 13 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DogiZone](https://www.dogizone.com/)** | **[Marketing & Media Intern](https://jobright.ai/jobs/info/689c1b8983d13d1f5b6a6239?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Aug 12 |
 | **[DESTINATION BRANDS](https://destinationbrands.com/)** | **[Wine & Spirits Social Media and Marketing Internship](https://jobright.ai/jobs/info/689c120a79a9f96662535de0?utm_campaign=1065&utm_source=git)** | Tri-Cities, WA | Hybrid | Aug 12 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[App Store Optimization Intern](https://jobright.ai/jobs/info/689c0ba079a9f96662535ab8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Communications Intern](https://jobright.ai/jobs/info/689c0ad983d13d1f5b6a5686?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Aug 12 |
-| **[UNLABLD Sports & Entertainment](unlabldmgmt.com)** | **[Social Media Manager Internship – Sports + Music](https://jobright.ai/jobs/info/689c0ad4faa4e875e8265413?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
-| **[NYS Department of Agriculture and Markets](http://www.agriculture.ny.gov)** | **[Student Assistant- Marketing Order Program](https://jobright.ai/jobs/info/689bfa56faa4e875e8264b9c?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Aug 12 |
-| **[Meyer](https://meyerus.com/)** | **[Intern](https://jobright.ai/jobs/info/689bf0d7faa4e875e826497d?utm_campaign=1065&utm_source=git)** | Vallejo, CA | Hybrid | Aug 12 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Marketing Analytics & Insights Intern – Fall 2025](https://jobright.ai/jobs/info/689bec28faa4e875e8264848?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/689beaf8faa4e875e8264808?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 12 |
-| **[Louis Vuitton](http://www.louisvuitton.com)** | **[Public Relations & VIP Intern - 2025](https://jobright.ai/jobs/info/689bea72faa4e875e8264791?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 12 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/689be8a483d13d1f5b6a46cf?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 12 |
-| **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689be88179a9f96662534b80?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 12 |
-| **[Atelier Rerun](https://linktr.ee/atelierrerun)** | **[Digital Merchandising & Ecommerce Intern](https://jobright.ai/jobs/info/689c8b48faa4e875e8268c55?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
