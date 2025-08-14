@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kirkland's](http://www.kirklands.com/)** | **[Social Media Intern - The Brand House Collective](https://jobright.ai/jobs/info/689de8fb83d13d1f5b6b53f1?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Aug 14 |
+| **[RSM US LLP](http://www.rsmus.com/)** | **[Communications, Marketing & Growth Intern](https://jobright.ai/jobs/info/689de5dbfaa4e875e8275251?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Aug 14 |
+| **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689de14783d13d1f5b6b5174?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 14 |
+| **[Acadium](http://www.acadium.com)** | **[Marketing Automation Intern (Go High Level)](https://jobright.ai/jobs/info/689ddd3bfaa4e875e8274dc7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[City of Colleyville, TX](https://www.colleyville.com)** | **[Communications Intern](https://jobright.ai/jobs/info/689ddcaa83d13d1f5b6b4d3a?utm_campaign=1065&utm_source=git)** | Colleyville, TX | On Site | Aug 14 |
 | **[MINNESOTA SPORTS & ENTERTAINMENT](https://www.linkedin.com/company/55865194)** | **[Iowa Wild Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/689db93c83d13d1f5b6b3e3c?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Aug 14 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/689db58afaa4e875e8273bc4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Campaign Intern (TikTok Shop - US Operation) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/688ee8f0cdbd821a366436e2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 14 |
 | **[Virtual Sphere](https://www.linkedin.com/company/108573929)** | **[Communications Intern](https://jobright.ai/jobs/info/689db48179a9f96662543fbe?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Aug 14 |
 | **[Halara](http://thehalara.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/689d9943faa4e875e8271ee1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
 | **[airacer inc](https://www.airacer.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d965983d13d1f5b6b1f39?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 14 |
@@ -70,7 +76,7 @@ For a complete list, click the following sortable link below:
 | **[University of Utah](http://utah.edu)** | **[Social Media and Video Coordinator](https://jobright.ai/jobs/info/689d7b69faa4e875e8270add?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 13 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Marketing and Communications Intern- Ventura County](https://jobright.ai/jobs/info/689d606979a9f9666253f5bf?utm_campaign=1065&utm_source=git)** | Oxnard, CA | Hybrid | Aug 13 |
 | **[1P Algorithms](https://www.1palgos.com)** | **[Brand content intern](https://jobright.ai/jobs/info/689d605483d13d1f5b6af17c?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Aug 13 |
-| **[Money Choice](http://www.tinoiq.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d5856faa4e875e826ed6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
+| **[MoneyChoice Capital](http://www.tinoiq.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689d5856faa4e875e826ed6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[DormMe](https://www.dormme.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/689d4c6883d13d1f5b6ae9ea?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 13 |
 | **[Creativities Studio](www.creativitiesstudio.com)** | **[Intern](https://jobright.ai/jobs/info/689d45ab83d13d1f5b6ae7d0?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 13 |
 | **[Acadium](http://www.acadium.com)** | **[SEO and Content Marketing Intern](https://jobright.ai/jobs/info/689d3f83faa4e875e826e576?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/689cb2b3faa4e875e8269e56?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Aug 13 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689cb29efaa4e875e8269de9?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Aug 13 |
 | **[Bee Street Co.](www.beestreet.co)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/689cb296faa4e875e8269ddb?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Aug 13 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/689dae5883d13d1f5b6b3128?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Aug 13 |
-| **[ADAPT](http://trainadapt.com/)** | **[Marketing Intern (unpaid)](https://jobright.ai/jobs/info/689cb18f83d13d1f5b6a9e2f?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 13 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/689cb18383d13d1f5b6a9e0d?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Aug 13 |
-| **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Brand Marketing Seasonal Assistant](https://jobright.ai/jobs/info/689cae4f79a9f96662539ef8?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Aug 13 |
-| **[Pearson](https://www.pearson.com/)** | **[Campus Ambassador](https://jobright.ai/jobs/info/689cae2e83d13d1f5b6a9b56?utm_campaign=1065&utm_source=git)** | Ames, IA | Hybrid | Aug 13 |
-| **[FACTEUR PR](https://www.facteurpr.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/689caa3d83d13d1f5b6a98c6?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
