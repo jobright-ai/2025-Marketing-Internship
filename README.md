@@ -57,6 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FreshDirect](http://freshdirect.com)** | **[Merchandising Intern Fresh](https://jobright.ai/jobs/info/688117ee16ea5743a3735f23?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Aug 14 |
+| **[Intuit](https://www.intuit.com)** | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e8c6779a9f9666254dcbb?utm_campaign=1065&utm_source=git)** | Boaz, AL | On Site | Aug 14 |
+| **[CrossCountry Mortgage, LLC](http://CrossCountryMortgage.com)** | **[Sales Marketing Intern](https://jobright.ai/jobs/info/689e8b7a83d13d1f5b6bd936?utm_campaign=1065&utm_source=git)** | South Portland, ME | On Site | Aug 14 |
+| **[CAPA-Columbus Association for the Performing Arts](https://www.capa.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/689e859283d13d1f5b6bd57a?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 14 |
+| **[Cisco](http://www.cisco.com)** | **[Communications Specialist I (Intern) United States](https://jobright.ai/jobs/info/689e856179a9f9666254d6d6?utm_campaign=1065&utm_source=git)** | RTP, North Carolina, US | Remote | Aug 14 |
+| ↳ | **[Communications Specialist I (Intern) United States](https://jobright.ai/jobs/info/689e83bbfaa4e875e827d4c7?utm_campaign=1065&utm_source=git)** | Remote USA | Remote | Aug 14 |
+| **[SourceReady](www.sourceready.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689e835cfaa4e875e827d383?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | Remote | Aug 14 |
+| **[Cisco](http://www.cisco.com)** | **[Communications Specialist I (Intern) United States](https://jobright.ai/jobs/info/689e812ffaa4e875e827d1e6?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Aug 14 |
+| **[Intuit](https://www.intuit.com)** | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e80ddfaa4e875e827d14b?utm_campaign=1065&utm_source=git)** | Saugus, MA | On Site | Aug 14 |
+| **[DolFinContent](https://www.dolfincontent.com)** | **[Marketing Internship [Fall 2025]](https://jobright.ai/jobs/info/689e7de0faa4e875e827d0b8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e7a7879a9f9666254d150?utm_campaign=1065&utm_source=git)** | Madison, AL | On Site | Aug 14 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/689e7a3879a9f9666254d046?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e78c983d13d1f5b6bcd60?utm_campaign=1065&utm_source=git)** | Marion, IL | On Site | Aug 14 |
+| **[Novaland Media & Film Production, Inc](http://www.novalandmedia.com)** | **[Marketing Assistant Internship](https://jobright.ai/jobs/info/689e775a79a9f9666254cf98?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | Aug 14 |
+| **[Stellantis](https://www.stellantis.com)** | **[2026 Communications – Social Media Summer Internship](https://jobright.ai/jobs/info/689e772f79a9f9666254cf51?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 14 |
+| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Culinary Marketing Intern](https://jobright.ai/jobs/info/689e75ec83d13d1f5b6bcc6c?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Aug 14 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 BRANDS Summer Internship](https://jobright.ai/jobs/info/689e75d583d13d1f5b6bcc23?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 14 |
 | ↳ | **[2026 Portfolio Planning Summer Internship](https://jobright.ai/jobs/info/689e75c383d13d1f5b6bcbf2?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | Hybrid | Aug 14 |
 | **[Greenspun Media Group](http://www.greenspunmedia.com)** | **[Marketing Events Intern, Part-Time](https://jobright.ai/jobs/info/689e758983d13d1f5b6bcb04?utm_campaign=1065&utm_source=git)** | Henderson, NV | On Site | Aug 14 |
@@ -95,10 +111,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e67e979a9f9666254c448?utm_campaign=1065&utm_source=git)** | Whitinsville, MA | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e67c079a9f9666254c3c0?utm_campaign=1065&utm_source=git)** | San Bernardino, CA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e675179a9f9666254c2cf?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66f079a9f9666254c17b?utm_campaign=1065&utm_source=git)** | Blissfield, MI | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66f079a9f9666254c17c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c138?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c137?utm_campaign=1065&utm_source=git)** | Westville, IN | On Site | Aug 14 |
+| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c138?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e662079a9f9666254bf18?utm_campaign=1065&utm_source=git)** | Homestead, FL | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e65d583d13d1f5b6bbadf?utm_campaign=1065&utm_source=git)** | Lone Tree, CO | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e65ce79a9f9666254be46?utm_campaign=1065&utm_source=git)** | Newcastle, CA | On Site | Aug 14 |
@@ -142,19 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4e58faa4e875e827a853?utm_campaign=1065&utm_source=git)** | Livingston, LA | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4e5483d13d1f5b6ba57c?utm_campaign=1065&utm_source=git)** | Placerville, CA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4e3cfaa4e875e827a7d1?utm_campaign=1065&utm_source=git)** | North Billerica, MA | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e4e1f79a9f9666254ac4d?utm_campaign=1065&utm_source=git)** | Clinton, MD | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4e1683d13d1f5b6ba4b7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4e0dfaa4e875e827a731?utm_campaign=1065&utm_source=git)** | Wilmington, IL | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4dfafaa4e875e827a6dc?utm_campaign=1065&utm_source=git)** | Milton, MA | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4de883d13d1f5b6ba42d?utm_campaign=1065&utm_source=git)** | Polk City, FL | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e4de283d13d1f5b6ba410?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4dd2faa4e875e827a626?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d94faa4e875e827a51e?utm_campaign=1065&utm_source=git)** | Gray, ME | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d9079a9f9666254a9e6?utm_campaign=1065&utm_source=git)** | Linthicum Heights, MD | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d86faa4e875e827a4ea?utm_campaign=1065&utm_source=git)** | Rehoboth, MA | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4d65faa4e875e827a469?utm_campaign=1065&utm_source=git)** | Durand, MI | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e4d5afaa4e875e827a440?utm_campaign=1065&utm_source=git)** | Fillmore, CA | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d2cfaa4e875e827a39a?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d1479a9f9666254a85b?utm_campaign=1065&utm_source=git)** | Tecate, CA | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e4d0efaa4e875e827a346?utm_campaign=1065&utm_source=git)** | Madera, CA | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
