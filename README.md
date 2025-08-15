@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ed5d779a9f96662551cff?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Quantitative Strategies & Data Group Summer Associate Program - 2026](https://jobright.ai/jobs/info/689ed47883d13d1f5b6c26e4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 14 |
+| **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ed11dfaa4e875e82821e1?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Aug 14 |
+| ↳ | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ed0b2faa4e875e82821a1?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Aug 14 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[AI-Powered Marketing Operations & Project Management Intern](https://jobright.ai/jobs/info/689ecdbf79a9f96662551663?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Aug 14 |
 | **[Style Edit ](https://styleedit.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/689ec93c79a9f9666255133d?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ | Hybrid | Aug 14 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Seacoast, NH](https://jobright.ai/jobs/info/689ec06579a9f96662550a0a?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Aug 14 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ebfacfaa4e875e8280f3d?utm_campaign=1065&utm_source=git)** | UNITED STATES-NC-Charlotte, UNITED STATES-NY-Syracuse | Remote | Aug 14 |
 | ↳ | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ebf3679a9f96662550784?utm_campaign=1065&utm_source=git)** | UNITED STATES-Remote | Remote | Aug 14 |
 | **[Get Out and About](getoutandabout.org)** | **[Digital Content Intern](https://jobright.ai/jobs/info/689eba7a79a9f9666254fc7f?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Aug 14 |
-| **[Number 6](https://www.linkedin.com/company/108269947)** | **[Marketing Research and Data Analysis Intern](https://jobright.ai/jobs/info/689eb8b5faa4e875e8280489?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 14 |
 | **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Intern Social Media & Communications](https://jobright.ai/jobs/info/689ea5d3faa4e875e827e5b0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Aug 14 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Social Media Brand Ambassador](https://jobright.ai/jobs/info/689ea310faa4e875e827e442?utm_campaign=1065&utm_source=git)** | Richmond, KY | On Site | Aug 14 |
 | **[Mettle](www.heymettle.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/689ea2c083d13d1f5b6be327?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | Remote | Aug 14 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e95be83d13d1f5b6bdd79?utm_campaign=1065&utm_source=git)** | Granby, MA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e9574faa4e875e827ddf8?utm_campaign=1065&utm_source=git)** | Marshfield, MA | On Site | Aug 14 |
 | **[FreshDirect](http://freshdirect.com)** | **[Merchandising Intern Fresh](https://jobright.ai/jobs/info/688117ee16ea5743a3735f23?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Aug 14 |
-| **[Intuit](https://www.intuit.com)** | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e8c6779a9f9666254dcbb?utm_campaign=1065&utm_source=git)** | Boaz, AL | On Site | Aug 14 |
 | **[CrossCountry Mortgage, LLC](http://CrossCountryMortgage.com)** | **[Sales Marketing Intern](https://jobright.ai/jobs/info/689e8b7a83d13d1f5b6bd936?utm_campaign=1065&utm_source=git)** | South Portland, ME | On Site | Aug 14 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Influencer Marketing Internship / Spring 2026](https://jobright.ai/jobs/info/689ebb0a79a9f9666255003f?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 14 |
 | **[LUXE Bidet](https://luxebidet.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/689ea68afaa4e875e827e8af?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Aug 14 |
@@ -82,8 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Cisco](http://www.cisco.com)** | **[Communications Specialist I (Intern) United States](https://jobright.ai/jobs/info/689e812ffaa4e875e827d1e6?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Aug 14 |
 | **[Intuit](https://www.intuit.com)** | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e80ddfaa4e875e827d14b?utm_campaign=1065&utm_source=git)** | Saugus, MA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e7a7879a9f9666254d150?utm_campaign=1065&utm_source=git)** | Madison, AL | On Site | Aug 14 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/689e7a3879a9f9666254d046?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
-| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e78c983d13d1f5b6bcd60?utm_campaign=1065&utm_source=git)** | Marion, IL | On Site | Aug 14 |
+| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e78c983d13d1f5b6bcd60?utm_campaign=1065&utm_source=git)** | Marion, IL | On Site | Aug 14 |
 | **[Pet Loss Community](www.petlosscommunity.com)** | **[Social Media, Content Creator, and Marketing Intern](https://jobright.ai/jobs/info/689ea6e083d13d1f5b6bea3a?utm_campaign=1065&utm_source=git)** | Bristol, VA | On Site | Aug 14 |
 | **[Shezza](http://shezzasocks.com)** | **[Marketing & Fulfillment Intern at Viral Brand](https://jobright.ai/jobs/info/689ea68bfaa4e875e827e8b2?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Aug 14 |
 | **[Novaland Media & Film Production, Inc](http://www.novalandmedia.com)** | **[Marketing Assistant Internship](https://jobright.ai/jobs/info/689e775a79a9f9666254cf98?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | Hybrid | Aug 14 |
@@ -124,13 +126,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689ea675faa4e875e827e859?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Aug 14 |
 | **[Too Lost](https://www.toolost.com)** | **[A&R Research Intern - Fall 2025](https://jobright.ai/jobs/info/689e686979a9f9666254c5fa?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 14 |
 | **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e685c79a9f9666254c5ce?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e684679a9f9666254c59a?utm_campaign=1065&utm_source=git)** | Goddard, KS | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e67e979a9f9666254c448?utm_campaign=1065&utm_source=git)** | Whitinsville, MA | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e67c079a9f9666254c3c0?utm_campaign=1065&utm_source=git)** | San Bernardino, CA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e675179a9f9666254c2cf?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66f079a9f9666254c17c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Aug 14 |
-| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c138?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c137?utm_campaign=1065&utm_source=git)** | Westville, IN | On Site | Aug 14 |
+| ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c138?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e662079a9f9666254bf18?utm_campaign=1065&utm_source=git)** | Homestead, FL | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e65d583d13d1f5b6bbadf?utm_campaign=1065&utm_source=git)** | Lone Tree, CO | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e65ce79a9f9666254be46?utm_campaign=1065&utm_source=git)** | Newcastle, CA | On Site | Aug 14 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Dexter](https://www.dexteraxle.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/689e556383d13d1f5b6bb0a4?utm_campaign=1065&utm_source=git)** | Elkhart, IN | On Site | Aug 14 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Market Research & Analysis Intern (Fall 2025)](https://jobright.ai/jobs/info/689e552383d13d1f5b6bb006?utm_campaign=1065&utm_source=git)** | Austin, Texas (Remote) | Remote | Aug 14 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/689e550b83d13d1f5b6bafbe?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Aug 14 |
-| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e54f683d13d1f5b6baf6f?utm_campaign=1065&utm_source=git)** | Old Lyme, CT | On Site | Aug 14 |
-| ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e548383d13d1f5b6bae39?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 14 |
+| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e548383d13d1f5b6bae39?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
