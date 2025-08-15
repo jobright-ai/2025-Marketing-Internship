@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Glencore](http://glencore.com)** | **[Commodities Trading Networking Event](https://jobright.ai/jobs/info/689f00b0faa4e875e82842a0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
+| **[Sam Houston State University](http://www.shsu.edu/)** | **[Student Employee-IMC Content Communications-Content Creator](https://jobright.ai/jobs/info/689ef01cfaa4e875e828395c?utm_campaign=1065&utm_source=git)** | Huntsville, TX | On Site | Aug 15 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ed5d779a9f96662551cff?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Bank of America](https://www.bankofamerica.com)** | **[Global Markets Quantitative Strategies & Data Group Summer Associate Program - 2026](https://jobright.ai/jobs/info/689ed47883d13d1f5b6c26e4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 14 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/689ed11dfaa4e875e82821e1?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Aug 14 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Intern Social Media & Communications](https://jobright.ai/jobs/info/689ea5d3faa4e875e827e5b0?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Aug 14 |
 | **[Eastern Kentucky University](http://www.eku.edu/)** | **[Student Social Media Brand Ambassador](https://jobright.ai/jobs/info/689ea310faa4e875e827e442?utm_campaign=1065&utm_source=git)** | Richmond, KY | On Site | Aug 14 |
 | **[Mettle](www.heymettle.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/689ea2c083d13d1f5b6be327?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | Remote | Aug 14 |
-| **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e99a583d13d1f5b6bdefa?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Aug 14 |
 | **[Flathead Valley Community College](http://www.fvcc.edu)** | **[Social Media Assistant (Fall 2025)](https://jobright.ai/jobs/info/689e998f83d13d1f5b6bdead?utm_campaign=1065&utm_source=git)** | Kalispell, MT | On Site | Aug 14 |
 | **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e95be83d13d1f5b6bdd79?utm_campaign=1065&utm_source=git)** | Granby, MA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e9574faa4e875e827ddf8?utm_campaign=1065&utm_source=git)** | Marshfield, MA | On Site | Aug 14 |
@@ -133,11 +134,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c137?utm_campaign=1065&utm_source=git)** | Westville, IN | On Site | Aug 14 |
 | ↳ | **[Social Media & Public Relations Co-op (8 months)](https://jobright.ai/jobs/info/689e66d779a9f9666254c138?utm_campaign=1065&utm_source=git)** | Albany, GA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e662079a9f9666254bf18?utm_campaign=1065&utm_source=git)** | Homestead, FL | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e65d583d13d1f5b6bbadf?utm_campaign=1065&utm_source=git)** | Lone Tree, CO | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e65ce79a9f9666254be46?utm_campaign=1065&utm_source=git)** | Newcastle, CA | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e659083d13d1f5b6bb9f5?utm_campaign=1065&utm_source=git)** | Martinsville, IN | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e655f83d13d1f5b6bb968?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 14 |
-| ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e653a83d13d1f5b6bb8ef?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e651383d13d1f5b6bb86e?utm_campaign=1065&utm_source=git)** | Lacombe, LA | On Site | Aug 14 |
 | ↳ | **[Content Marketing Co-op (8 months)](https://jobright.ai/jobs/info/689e64ea83d13d1f5b6bb7b1?utm_campaign=1065&utm_source=git)** | Erlanger, KY | On Site | Aug 14 |
 | ↳ | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e64e0faa4e875e827badd?utm_campaign=1065&utm_source=git)** | Genoa, IL | On Site | Aug 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Market Research & Analysis Intern (Fall 2025)](https://jobright.ai/jobs/info/689e552383d13d1f5b6bb006?utm_campaign=1065&utm_source=git)** | Austin, Texas (Remote) | Remote | Aug 14 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/689e550b83d13d1f5b6bafbe?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Aug 14 |
 | **[Intuit](https://www.intuit.com)** | **[Marketing Technology & Data Activation Co-op (8 months)](https://jobright.ai/jobs/info/689e548383d13d1f5b6bae39?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Aug 14 |
+| **[Gill Automotive Group](https://www.gillautogroup.com)** | **[Social Media Intern – Gill Auto Group](https://jobright.ai/jobs/info/689eb46783d13d1f5b6bfadd?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
