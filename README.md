@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNMUTE](https://unmutecz.org/)** | **[Brand & Community Ambassador  – Volunteer Outreach Intern](https://jobright.ai/jobs/info/68a215e9faa4e875e82957e9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Internship](https://jobright.ai/jobs/info/68a2135efaa4e875e82957d1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 17 |
+| **[Chaddock](https://chaddockhome.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2041483d13d1f5b6d5656?utm_campaign=1065&utm_source=git)** | Morganton, NC | On Site | Aug 17 |
+| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68a2041183d13d1f5b6d564e?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1dacbcc9ee94dc9123fab?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1dabecc9ee94dc9123f79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1daacfaa4e875e82951d0?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 17 |
 | **[Tutella](https://www.linkedin.com/company/79727761)** | **[Investor relations intern](https://jobright.ai/jobs/info/68a1ccc4faa4e875e82950ee?utm_campaign=1065&utm_source=git)** | Newark, DE | Remote | Aug 17 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a1c9eacc9ee94dc9123e31?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 17 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577ff?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Aug 17 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media Community Building Intern at WoafMeow](https://jobright.ai/jobs/info/68a1c360faa4e875e8295044?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f1?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Aug 17 |
 | **[JBT Corporation](https://www.jbtc.com/en/asia-pacific/)** | **[Marketing Intern](https://jobright.ai/jobs/info/684b11939d3fde2d830405a1?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Aug 17 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a19368faa4e875e8294da8?utm_campaign=1065&utm_source=git)** | Brownwood, TX | On Site | Aug 17 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68a17d6cfaa4e875e829455f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
@@ -155,7 +158,4 @@ Job ID : 262758](https://jobright.ai/jobs/info/68a0e6c983d13d1f5b6d1da5?utm_camp
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Multicultural Marketing Summer Internship](https://jobright.ai/jobs/info/689fca0efaa4e875e828b1c9?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | On Site | Aug 15 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/689fc98ecc9ee94dc9119d20?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Aug 15 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/689fc82183d13d1f5b6cb0a5?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
-| **[MINA BAIE](https://minabaie.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/689fc7a683d13d1f5b6caf31?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 15 |
-| **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Events Intern](https://jobright.ai/jobs/info/689fc49bfaa4e875e828b023?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Aug 15 |
-| **[State of Colorado](https://www.colorado.gov/pacific/sipa)** | **[Marketing and Communications Intern.](https://jobright.ai/jobs/info/68a0c4e0faa4e875e829196f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
