@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UVA Health](https://www.uvahealth.com)** | **[Next Generation Philanthropy Student Intern – Federal Work Study (Student Wage)](https://jobright.ai/jobs/info/68a32da71ab5f8579e8a3826?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | Hybrid | Aug 18 |
+| **[Jackson](https://www.jackson.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68a32c3637d3cc6b0d574c46?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 18 |
+| **[Digital Fashion Week](https://digitalfashionweek.nyc)** | **[Social Media Intern](https://jobright.ai/jobs/info/68a32a97403ad4363b1bee50?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Aug 18 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Marketing](https://jobright.ai/jobs/info/68a303b5403ad4363b1be5e9?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | Hybrid | Aug 18 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[B2B and B2C Marketing Internship](https://jobright.ai/jobs/info/68a2fd071ab5f8579e8a2ef2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 18 |
 | **[HAZZE MEDIA](https://www.hazzemedia.com)** | **[DFW Social Media & Creative, Photographer, Business Development / FALL INTERNSHIP (College Credit)](https://jobright.ai/jobs/info/68a2fc62403ad4363b1be208?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 18 |
@@ -68,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[You Have Got The Power, Inc.](https://www.youhavegotthepower.com)** | **[Psychology Master Intern - Unpaid Psychology Marketing Intern with Many Perks](https://jobright.ai/jobs/info/68a2becbda4b7a7e730737ec?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Brand Management Internship (2027 Graduates - Bachelor’s/Master’s - Non MBA)](https://jobright.ai/jobs/info/68a2b9ac468ac21d6faba24e?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 17 |
 | **[PwC](http://pwc.com)** | **[Transfer Pricing Intern - Summer 2026](https://jobright.ai/jobs/info/68a2b950468ac21d6faba1d8?utm_campaign=1065&utm_source=git)** | IL-Rosemont | On Site | Aug 17 |
-| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Brands](https://jobright.ai/jobs/info/68a2b11dff570d7ffd65d1e3?utm_campaign=1065&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
-| ↳ | **[2026 Corporate Summer Internship - Marketing & Loyalty](https://jobright.ai/jobs/info/68a2b11dff570d7ffd65d1df?utm_campaign=1065&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
+| **[Hilton](https://www.hilton.com/en/)** | **[2026 Corporate Summer Internship - Marketing & Loyalty](https://jobright.ai/jobs/info/68a2b11dff570d7ffd65d1df?utm_campaign=1065&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
+| ↳ | **[2026 Corporate Summer Internship - Brands](https://jobright.ai/jobs/info/68a2b11dff570d7ffd65d1e3?utm_campaign=1065&utm_source=git)** | Hilton - Global Headquarters - McLean7930 Jones Branch Drive | On Site | Aug 17 |
 | **[Procter & Gamble](https://us.pg.com/)** | **[Brand Management Internship (2027 Graduates - Bachelor’s/Master’s - Non MBA)](https://jobright.ai/jobs/info/68a2ac22ff570d7ffd65cf0f?utm_campaign=1065&utm_source=git)** | Cincinnati | On Site | Aug 17 |
 | **[SPENCER'S](https://www.spencers.spa/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2ac15da4b7a7e73072d79?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 17 |
 | **[The Sidebar Social](https://www.sidebarconsulting.org)** | **[Law Students - Student Brand Ambassadors](https://jobright.ai/jobs/info/68a29446faa4e875e8296750?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
@@ -88,7 +91,7 @@ Job ID : 261593](https://jobright.ai/jobs/info/68a28f9083d13d1f5b6d649b?utm_camp
 | **[54 Thrones](https://www.54thrones.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68a242abcc9ee94dc91248ca?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Aug 17 |
 | **[1904Group](https://www.1904group.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a23010cc9ee94dc9124792?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Aug 17 |
 | **[KIPP Capital Region Public Schools ](http://www.kippcapital.org)** | **[[2025-2026] Marketing and Communications Intern](https://jobright.ai/jobs/info/68a218ac83d13d1f5b6d579a?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Aug 17 |
-| **[Chaddock](https://chaddockhome.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2041483d13d1f5b6d5656?utm_campaign=1065&utm_source=git)** | Morganton, NC | On Site | Aug 17 |
+| **[Chaddock ](https://chaddockhome.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2041483d13d1f5b6d5656?utm_campaign=1065&utm_source=git)** | Morganton, NC | On Site | Aug 17 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8122?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a2b9e5ff570d7ffd65d33f?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Aug 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1dacbcc9ee94dc9123fab?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 17 |
@@ -116,7 +119,6 @@ Job ID : 261593](https://jobright.ai/jobs/info/68a28f9083d13d1f5b6d649b?utm_camp
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68a0b1a9cc9ee94dc912024b?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Aug 16 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68a0b19afaa4e875e8291401?utm_campaign=1065&utm_source=git)** | Katy, TX | On Site | Aug 16 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68a0adf183d13d1f5b6d1392?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 16 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68a0adeb83d13d1f5b6d1388?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a0abdafaa4e875e8291374?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 16 |
 | **[Spectra Aerospace & Defense](https://spectra-aerodef.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a0ab5383d13d1f5b6d1363?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Aug 16 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations & Publishing Intern - Fall '25](https://jobright.ai/jobs/info/68a174a783d13d1f5b6d3bf8?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 16 |
@@ -149,13 +151,11 @@ Job ID : 261593](https://jobright.ai/jobs/info/68a28f9083d13d1f5b6d649b?utm_camp
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Marketing (New York, NY) Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6e383d13d1f5b6cbc46?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6c783d13d1f5b6cbbe6?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[L'Oréal](https://www.loreal.com)** | **[2026 L’Oréal USA Marketing (El Segundo, California) Summer Internship - Undergraduate](https://jobright.ai/jobs/info/689fe6b783d13d1f5b6cbbb2?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb72?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb76?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb76?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Aug 15 |
+| ↳ | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe6a983d13d1f5b6cbb72?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3cccc9ee94dc911a7d6?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3bffaa4e875e828bd32?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | ↳ | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3af83d13d1f5b6cbaeb?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Publicity Intern – Fall 2025](https://jobright.ai/jobs/info/689fe2e183d13d1f5b6cba67?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc99?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
-| **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/689fe0d6cc9ee94dc911a716?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0d?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
