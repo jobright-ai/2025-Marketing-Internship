@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68a27fd7cc9ee94dc9124f83?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Aug 17 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68a27fbfcc9ee94dc9124f31?utm_campaign=1065&utm_source=git)** | KC Metro Area | Remote | Aug 17 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a278f583d13d1f5b6d6015?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Aug 17 |
+| **[Dorfman Milano](https://www.dorfmanpacific.com/)** | **[Social Media Intern: From Campus to Content Creator](https://jobright.ai/jobs/info/68a26c99cc9ee94dc9124d18?utm_campaign=1065&utm_source=git)** | Garland, TX | On Site | Aug 17 |
 | **[Libertad Co NYC](www.libertadconyc.com)** | **[Fashion Marketing Internship](https://jobright.ai/jobs/info/68a26a13cc9ee94dc9124ce8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 17 |
-| **[Grind By Faith Music Group](GrindByFaith.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a26a12cc9ee94dc9124cdf?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68a26292faa4e875e8295ef9?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Aug 17 |
 | **[Evans & Co.](https://www.evansandco.consulting/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a2578ccc9ee94dc91249f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[PROSPES Real Estate Corp](https://www.prospesnyc.com)** | **[Market Research Intern for Real Estate Company](https://jobright.ai/jobs/info/68a2525e83d13d1f5b6d5b9c?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Aug 17 |
@@ -73,14 +76,11 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1dacbcc9ee94dc9123fab?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1dabecc9ee94dc9123f79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 17 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a1daacfaa4e875e82951d0?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 17 |
-| **[Tutella](https://www.linkedin.com/company/79727761)** | **[Investor relations intern](https://jobright.ai/jobs/info/68a1ccc4faa4e875e82950ee?utm_campaign=1065&utm_source=git)** | Newark, DE | Remote | Aug 17 |
-| **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media Community Building Intern at WoafMeow](https://jobright.ai/jobs/info/68a1c360faa4e875e8295044?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 17 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577f1?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Aug 17 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[2026 - Summer Analyst Internship - Global Markets - Chesterbrook, PA](https://jobright.ai/jobs/info/682fdb33a2b4f9af5a9577ff?utm_campaign=1065&utm_source=git)** | Chesterbrook, PA | On Site | Aug 17 |
 | **[JBT Corporation](https://www.jbtc.com/en/asia-pacific/)** | **[Marketing Intern](https://jobright.ai/jobs/info/684b11939d3fde2d830405a1?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Aug 17 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a19368faa4e875e8294da8?utm_campaign=1065&utm_source=git)** | Brownwood, TX | On Site | Aug 17 |
 | **[Sea Machines Robotics](http://www.sea-machines.com)** | **[Marketing Intern (Content Creation Support)](https://jobright.ai/jobs/info/68a1723ccc9ee94dc91229ac?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 16 |
 | **[Treevah](https://filterfolder.com/)** | **[Digital Marketing Intern- (Remote & Unpaid)](https://jobright.ai/jobs/info/68a134f3cc9ee94dc91215aa?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Aug 16 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68a12f5afaa4e875e82924c0?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Remote | Aug 16 |
 | **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68a129f0cc9ee94dc91210fd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[Aramark Student Nutrition ](http://www.aramarkeducation.com)** | **[Marketing Intern - BSU Dining - Bemidji State Univ.](https://jobright.ai/jobs/info/68a1e96483d13d1f5b6d52bd?utm_campaign=1065&utm_source=git)** | Bemidji, MN | On Site | Aug 16 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Social Media & Marketing Intern – Edtech Startup (Remote) at mermory](https://jobright.ai/jobs/info/68a11294cc9ee94dc9120e94?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 16 |
