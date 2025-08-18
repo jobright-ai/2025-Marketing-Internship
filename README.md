@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Sidebar Social](https://www.sidebarconsulting.org)** | **[Law Students - Student Brand Ambassadors](https://jobright.ai/jobs/info/68a29446faa4e875e8296750?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
+| **[Greenlight Group](https://greenlightgroup.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68a29409faa4e875e82966c0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 17 |
+| **[SayCheeseClub](www.SayCheeseClub.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2935acc9ee94dc912536a?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Aug 17 |
+| **[Universal Balloon Medical](https://www.balloonforming.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a2934fcc9ee94dc912534e?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68a27fd7cc9ee94dc9124f83?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Aug 17 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68a27fbfcc9ee94dc9124f31?utm_campaign=1065&utm_source=git)** | KC Metro Area | Remote | Aug 17 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a278f583d13d1f5b6d6015?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Aug 17 |
@@ -68,6 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Altar Native Bar](https://altarnativebar.com/)** | **[Intern](https://jobright.ai/jobs/info/68a24aca83d13d1f5b6d5b4e?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Aug 17 |
 | **[People, Technology & Processes, LLC](https://www.ptp-llc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a24a2bcc9ee94dc9124953?utm_campaign=1065&utm_source=git)** | Plant City, FL | On Site | Aug 17 |
 | **[ChatGPTree](https://www.chatgptree.ai/)** | **[Campus Brand Ambassador (ChatGPTree.ai)](https://jobright.ai/jobs/info/68a24a11faa4e875e8295bb0?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Hybrid | Aug 17 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Intern - Communications
+Job ID : 261593](https://jobright.ai/jobs/info/68a28f9083d13d1f5b6d649b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 17 |
 | **[54 Thrones](https://www.54thrones.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68a242abcc9ee94dc91248ca?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Aug 17 |
 | **[1904Group](https://www.1904group.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a23010cc9ee94dc9124792?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Aug 17 |
 | **[KIPP Capital Region Public Schools ](http://www.kippcapital.org)** | **[[2025-2026] Marketing and Communications Intern](https://jobright.ai/jobs/info/68a218ac83d13d1f5b6d579a?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Aug 17 |
@@ -145,17 +151,12 @@ Job ID : 262758](https://jobright.ai/jobs/info/68a0e6c983d13d1f5b6d1da5?utm_camp
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Publicity Intern – Fall 2025](https://jobright.ai/jobs/info/689fe2e183d13d1f5b6cba67?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc99?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/689fe0d6cc9ee94dc911a716?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
-| **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0e?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
-| ↳ | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0d?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| **[Uline](http://www.uline.com)** | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0d?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
+| ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0c383d13d1f5b6cba0e?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Aug 15 |
 | ↳ | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ba83d13d1f5b6cb9f7?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Aug 15 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Marketing, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/689fe0b383d13d1f5b6cb9e5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 15 |
 | **[Uline](http://www.uline.com)** | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe08d83d13d1f5b6cb98c?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07bcc9ee94dc911a633?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Aug 15 |
 | ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07afaa4e875e828bb92?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Aug 15 |
 | **[Penn State University](http://psu.edu)** | **[Marketing and Fan Experience Interns](https://jobright.ai/jobs/info/689fdc0c83d13d1f5b6cb839?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Aug 15 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68a0bece83d13d1f5b6d1650?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
-| **[Kansas City Mavericks](http://www.kcmavericks.com)** | **[Internship - Community Relations](https://jobright.ai/jobs/info/68a0e185faa4e875e8291d47?utm_campaign=1065&utm_source=git)** | Independence, MO | On Site | Aug 15 |
-| **[Blue Bird Corporation](http://blue-bird.com/)** | **[Part Time Student, Marketing](https://jobright.ai/jobs/info/689fd107faa4e875e828b53d?utm_campaign=1065&utm_source=git)** | Macon, GA | On Site | Aug 15 |
-| **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/68a0c48883d13d1f5b6d1898?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Aug 15 |
-| **[ALLY Communication & Marketing LLC](www.ally-la.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68a080f083d13d1f5b6d0938?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
