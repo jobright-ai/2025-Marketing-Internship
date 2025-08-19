@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (GBO) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/689c406e79a9f966625381df?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Aug 19 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68a41895e9f1c744da120b21?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
 | **[GLAMNETIC](https://glamnetic.com)** | **[Freelance Social Media Assistant (Temporary)](https://jobright.ai/jobs/info/68a40ee62d2a252445cd5644?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 18 |
 | **[Hollywood Pantages Theatre · Broadway in Hollywood](https://www.broadwayinhollywood.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a40c2c541cc34798409d89?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a365641ab5f8579e8a5412?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Aug 18 |
 | **[The Digital Dept.](https://thedigitaldept.com)** | **[Intern](https://jobright.ai/jobs/info/68a369371ab5f8579e8a55a5?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | Remote | Aug 18 |
 | **[AT&T](https://www.att.com/)** | **[Marketing Excellence Program - Graduate Experience Internship](https://jobright.ai/jobs/info/68a3650a403ad4363b1c0a8a?utm_campaign=1065&utm_source=git)** | Dallas, Texas | On Site | Aug 18 |
-| **[TrueBrand](truebrandme.wixsite.com/home)** | **[Viral Marketing Intern](https://jobright.ai/jobs/info/68a3f66ae9f1c744da11f6b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
