@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/68a5613433dd7158bbc99acd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 | **[American Dining Creations](http://www.adc-us.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a53a20758f2e4ac3fdce5e?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Aug 19 |
 | **[Boston Prep](http://www.bostonprep.org/)** | **[2025-2026 / Social Media/Communication Intern](https://jobright.ai/jobs/info/68a5368533dd7158bbc97fd2?utm_campaign=1065&utm_source=git)** | Hyde Park, Massachusetts, United States | On Site | Aug 19 |
 | **[GenAIx](https://genaix.org)** | **[Viral Marketing Intern (Unpaid, Equity opportunity )](https://jobright.ai/jobs/info/68a530b7758f2e4ac3fdc9fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Merchandising Internship Program (Summer 2026) / LL](https://jobright.ai/jobs/info/68a4de03541cc3479840ece6?utm_campaign=1065&utm_source=git)** | Framingham, MA 01701 | Hybrid | Aug 19 |
 | **[Ursa Major](https://www.ursamajor.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a4ddb7e9f1c744da12501d?utm_campaign=1065&utm_source=git)** | Berthoud, CO | On Site | Aug 19 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/68a4fb3fb6a3617d7fa6dc36?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Aug 19 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2025 Associate, Brand Marketing](https://jobright.ai/jobs/info/68a541f333dd7158bbc98658?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[FARRYNHEIGHT](https://farrynheight.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/68a4d542bdd80e69391be2fc?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Aug 19 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Marketing (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a4d10e541cc3479840e62e?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Aug 19 |
 | **[Sub-Zero Group, Inc.](https://www.subzero-wolf.com/sub-zero)** | **[2026 Marketing Internships (May 2026 - May 2027)](https://jobright.ai/jobs/info/68a4cfdce9f1c744da124a83?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Aug 19 |
@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a4c5212d2a252445cd8fe1?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Aug 19 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68a4c41f2d2a252445cd8e97?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Aug 19 |
 | **[Constellation Culinary Group](https://constellationculinary.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a4c32b541cc3479840d955?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 19 |
-| **[Eleve Agency](www.eleve.agency)** | **[Fashion Publicity Internship](https://jobright.ai/jobs/info/68a4c585e9f1c744da123e86?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Student Sustainability Intern, Part Time (Oberlin College) $15/hr](https://jobright.ai/jobs/info/68a4bf8b2d2a252445cd8cb2?utm_campaign=1065&utm_source=git)** | Oberlin, OH | On Site | Aug 19 |
 | **[VITA ESTATES](vitaestates.com)** | **[Founder Associate Intern / Unpaid Internship / Luxury Real Estate & Lifestyle Brand](https://jobright.ai/jobs/info/68a4be432d2a252445cd8b1b?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Aug 19 |
 | **[Goodwill Industries - Big Bend, Inc.](https://www.goodwillbigbend.org/)** | **[Public Relations/Marketing Intern](https://jobright.ai/jobs/info/68a4be2b2d2a252445cd8afb?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Aug 19 |
@@ -127,16 +126,18 @@ For a complete list, click the following sortable link below:
 | **[Six One Agency](https://six-one.com)** | **[Public Relations Internship (College Credit)](https://jobright.ai/jobs/info/68a4bd2a541cc3479840d583?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Aug 19 |
 | **[BGB Group](http://bgbgroup.com/)** | **[Fall 2025 Brand Strategy Internship](https://jobright.ai/jobs/info/68a49f032d2a252445cd7f79?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 19 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68a4b5ec2d2a252445cd876d?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Aug 19 |
+| **[Eleve Agency](www.eleve.agency)** | **[Fashion Publicist](https://jobright.ai/jobs/info/68a4c585e9f1c744da123e86?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | **[Chicago Union](https://watchufa.com/union)** | **[Sports Marketing & Sales Intern](https://jobright.ai/jobs/info/68a4b5dc541cc3479840d31b?utm_campaign=1065&utm_source=git)** | Evanston, IL | Hybrid | Aug 19 |
 | ↳ | **[Social Media/Content Creation Intern](https://jobright.ai/jobs/info/68a4b45ce9f1c744da12378c?utm_campaign=1065&utm_source=git)** | Evanston, IL | Hybrid | Aug 19 |
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[SEO Intern](https://jobright.ai/jobs/info/68a4b419e9f1c744da1236e3?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Aug 19 |
 | ↳ | **[Social Media Summer Intern](https://jobright.ai/jobs/info/68a4b3dde9f1c744da123643?utm_campaign=1065&utm_source=git)** | Overland Park, KS | Hybrid | Aug 19 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fun Blog Writer Fall Internship Berkeley Startup (Unpaid)](https://jobright.ai/jobs/info/68a4bb6be9f1c744da1239f1?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Aug 19 |
+| **[BCD PLANET](https://www.bcdplanet.com)** | **[Social Media Content Editor  - Internship](https://jobright.ai/jobs/info/68a54e0933dd7158bbc98f42?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 19 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing/Communications Intern, Chartwells Higher Ed / Cal Poly - San Luis Obispo](https://jobright.ai/jobs/info/68a54453b6a3617d7fa700e8?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Aug 19 |
 | **[Another Tomorrow](https://www.anothertomorrow.co/)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/68a4b22b2d2a252445cd8609?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[JVS SoCal](https://jvs-socal.org)** | **[Internship - JVS SoCal (Marketing & Communications)](https://jobright.ai/jobs/info/68a4ae39541cc3479840d089?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[INK+ALLOY](http://www.inkalloy.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a4aa29541cc3479840cf41?utm_campaign=1065&utm_source=git)** | Decatur, GA | On Site | Aug 19 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Assistant Preditor Intern, Game Shows Brand Creative & Digital Marketing Team, Fall 2025](https://jobright.ai/jobs/info/68a4a979e9f1c744da1233bf?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 19 |
+| **[Prescription PR](https://prescriptionpr.com)** | **[Fall 2025 Social Media Marketing Intern](https://jobright.ai/jobs/info/68a54b3fb6a3617d7fa7039d?utm_campaign=1065&utm_source=git)** | Northport, NY | On Site | Aug 19 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Safe Sports Social Media & Marketing Assistant (Work Study only)](https://jobright.ai/jobs/info/68a49ea6541cc3479840cac1?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 19 |
 | **[Mastek](http://www.mastek.com)** | **[Marketing Associate Intern](https://jobright.ai/jobs/info/68a49acc2d2a252445cd7d8a?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
 | **[Dimensional Fund Advisors](https://us.dimensional.com)** | **[Internship in Marketing (Undergraduate & Master's)](https://jobright.ai/jobs/info/68a49884e9f1c744da122c22?utm_campaign=1065&utm_source=git)** | Charlotte | Hybrid | Aug 19 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Diversified Campaign Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688e2c4d6a4aac5783cd88eb?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Category Management Campaign Intern (TikTok Shop - US Operation) - 2025 Project Intern (BS/MS)](https://jobright.ai/jobs/info/688ee8f0cdbd821a366436e2?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/688307be835a903aa07f2d4d?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688f0207cdbd821a3664474a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
-| ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688ee5646a4aac5783cdb13a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Aug 19 |
+| **[SweatPals](https://www.sweatpals.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a54eb3758f2e4ac3fddaff?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
