@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DALYA NYC](http://www.dalyanyc.com)** | **[Fashion marketing intern](https://jobright.ai/jobs/info/68a5b0b2758f2e4ac3fe03d4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 20 |
+| **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Market Research](https://jobright.ai/jobs/info/68a5afcb33dd7158bbc9b65d?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Aug 20 |
 | **[Northern Kentucky University](http://www.nku.edu/)** | **[Athletic Marketing & Promotions Internship](https://jobright.ai/jobs/info/68a5840a758f2e4ac3fdfe81?utm_campaign=1065&utm_source=git)** | Newport, KY | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[PUBLIC RELATIONS AND DIGITAL MEDIA INTERN](https://jobright.ai/jobs/info/68a57b0e33dd7158bbc9ad27?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68a5764a33dd7158bbc9a9d9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[TutorUp AI](https://tutorupai.com)** | **[Social Media Content Intern (Reddit/Threads)](https://jobright.ai/jobs/info/68a567c8b6a3617d7fa71571?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 19 |
 | **[Matriosh](Matriosh.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/68a56642758f2e4ac3fdec62?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/68a5613433dd7158bbc99acd?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 19 |
+| **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Fall PR Internship](https://jobright.ai/jobs/info/689f8331b3e889632cf080a0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/68a567aab6a3617d7fa71542?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
 | **[American Dining Creations](http://www.adc-us.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a53a20758f2e4ac3fdce5e?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Aug 19 |
 | **[Boston Prep](http://www.bostonprep.org/)** | **[2025-2026 / Social Media/Communication Intern](https://jobright.ai/jobs/info/68a5368533dd7158bbc97fd2?utm_campaign=1065&utm_source=git)** | Hyde Park, Massachusetts, United States | On Site | Aug 19 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Liminary](liminary.io)** | **[Student Growth Intern / Campus Strategist](https://jobright.ai/jobs/info/68a52fbb33dd7158bbc97cea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[GE Vernova](https://www.gevernova.com)** | **[Digital Marketing & Content Strategy Intern – Brand Team](https://jobright.ai/jobs/info/68a528ee758f2e4ac3fdc6a0?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Aug 19 |
 | **[CMM](http://www.cmmpr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68a5286e758f2e4ac3fdc5d2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 19 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Internship - Content](https://jobright.ai/jobs/info/68a5264833dd7158bbc9791c?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 19 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68a5264233dd7158bbc9790b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Aug 19 |
 | **[Arch Mortgage Insurance Company (Arch MI)](https://mortgage.archgroup.com/us)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/68a52571b6a3617d7fa6ee2d?utm_campaign=1065&utm_source=git)** | Triad Area | Hybrid | Aug 19 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Sales/Marketing Intern (Summer 2026) - Cuba, MO](https://jobright.ai/jobs/info/68a5250cb6a3617d7fa6ed7d?utm_campaign=1065&utm_source=git)** | Cuba, MO | On Site | Aug 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Landmarks Communications Intern](https://jobright.ai/jobs/info/68a498142d2a252445cd7c94?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 19 |
 | **[Postmoda](https://www.postmoda.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a492ea2d2a252445cd7b5b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | **[Fan Arch](https://fanarch.com)** | **[Sports Media Internship](https://jobright.ai/jobs/info/68a492642d2a252445cd7ad9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
-| **[Al Warren Oil Company, Inc.](https://www.alwarrenoil.com)** | **[Marketing Associate - Part-Time Fall Internship](https://jobright.ai/jobs/info/68a48e3b541cc3479840c448?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
-| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing and Social Media Intern, Knight Center for Journalism in the Americas, Moody College of Communication](https://jobright.ai/jobs/info/68a48b03e9f1c744da12250b?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
