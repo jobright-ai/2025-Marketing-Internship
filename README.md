@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Athletic Marketing & Promotions Internship](https://jobright.ai/jobs/info/68a5840a758f2e4ac3fdfe81?utm_campaign=1065&utm_source=git)** | Newport, KY | On Site | Aug 20 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[PUBLIC RELATIONS AND DIGITAL MEDIA INTERN](https://jobright.ai/jobs/info/68a57b0e33dd7158bbc9ad27?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Aug 20 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68a5764a33dd7158bbc9a9d9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
 | **[FreshDirect](http://freshdirect.com)** | **[Site Merchandising & Pricing Intern](https://jobright.ai/jobs/info/68a56b22758f2e4ac3fdefa0?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Aug 19 |
@@ -86,11 +87,9 @@ For a complete list, click the following sortable link below:
 | **[Lamar University](http://www.lamar.edu/)** | **[Student Assistant - Social Media](https://jobright.ai/jobs/info/68a572c5758f2e4ac3fdf506?utm_campaign=1065&utm_source=git)** | Beaumont, TX | On Site | Aug 19 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Fall 2025 Associate, Marketing](https://jobright.ai/jobs/info/68a51144b6a3617d7fa6e3d5?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | Hybrid | Aug 19 |
 | **[CSI-Cancer: USC Michelson Center Convergent Science Institute in Cancer](https://kuhn.usc.edu/)** | **[Marketing Internship – Summer 2026 at Uline](https://jobright.ai/jobs/info/68a50c2533dd7158bbc96a68?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
-| **[ChiChi](https://chickpeaoats.com)** | **[Marketing Intern – Email, SMS & Blog Content](https://jobright.ai/jobs/info/68a5678a758f2e4ac3fdee23?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Marketing and Communications Intern- Los Angeles](https://jobright.ai/jobs/info/68a5050eb6a3617d7fa6deab?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 19 |
 | **[It Takes A Village To Feed One Child, Inc.](http://www.itavtfoc.org)** | **[Media Volunteer](https://jobright.ai/jobs/info/68a5018b758f2e4ac3fdb3e0?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Aug 19 |
 | **[MP-IMC](https://www.mp-imc.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68a4fe0b33dd7158bbc9657e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
-| **[Detail Connect](https://www.detailconnect.app/)** | **[Social Media Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/68a4fe03b6a3617d7fa6dc84?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
 | **[GCI Communication Corp.](http://www.gci.com)** | **[Marketing Telecommunications Intern - (Anchorage, AK)](https://jobright.ai/jobs/info/68a4fdc833dd7158bbc96547?utm_campaign=1065&utm_source=git)** | Alaska, United States | On Site | Aug 19 |
 | **[The Rooted Wellness Institute™](https://www.therootedwellnessinstitute.org/)** | **[Content & Culture Intern](https://jobright.ai/jobs/info/68a4fa4f758f2e4ac3fdb1a1?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Aug 19 |
 | **[AQR Capital Management](https://www.aqr.com)** | **[2026 Marketing Summer Analyst](https://jobright.ai/jobs/info/68a4fa4cb6a3617d7fa6db02?utm_campaign=1065&utm_source=git)** | Greenwich, CT | On Site | Aug 19 |
@@ -146,7 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Another Tomorrow](https://www.anothertomorrow.co/)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/68a4b22b2d2a252445cd8609?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 19 |
 | **[JVS SoCal](https://jvs-socal.org)** | **[Internship - JVS SoCal (Marketing & Communications)](https://jobright.ai/jobs/info/68a4ae39541cc3479840d089?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 19 |
 | **[INK+ALLOY](http://www.inkalloy.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a4aa29541cc3479840cf41?utm_campaign=1065&utm_source=git)** | Decatur, GA | On Site | Aug 19 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Assistant Preditor Intern, Game Shows Brand Creative & Digital Marketing Team, Fall 2025](https://jobright.ai/jobs/info/68a4a9262d2a252445cd8366?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 19 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Assistant Preditor Intern, Game Shows Brand Creative & Digital Marketing Team, Fall 2025](https://jobright.ai/jobs/info/68a4a979e9f1c744da1233bf?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Aug 19 |
 | **[Prescription PR](https://prescriptionpr.com)** | **[Fall 2025 Social Media Marketing Intern](https://jobright.ai/jobs/info/68a54b3fb6a3617d7fa7039d?utm_campaign=1065&utm_source=git)** | Northport, NY | On Site | Aug 19 |
 | **[Southern New Hampshire University](http://www.snhu.edu)** | **[Student- Safe Sports Social Media & Marketing Assistant (Work Study only)](https://jobright.ai/jobs/info/68a49ea6541cc3479840cac1?utm_campaign=1065&utm_source=git)** | On-Site (New Hampshire) | On Site | Aug 19 |
 | **[Mastek](http://www.mastek.com)** | **[Marketing Associate Intern](https://jobright.ai/jobs/info/68a49acc2d2a252445cd7d8a?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Postmoda](https://www.postmoda.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a492ea2d2a252445cd7b5b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 19 |
 | **[Fan Arch](https://fanarch.com)** | **[Sports Media Internship](https://jobright.ai/jobs/info/68a492642d2a252445cd7ad9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 19 |
 | **[Al Warren Oil Company, Inc.](https://www.alwarrenoil.com)** | **[Marketing Associate - Part-Time Fall Internship](https://jobright.ai/jobs/info/68a48e3b541cc3479840c448?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 19 |
+| **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[Marketing and Social Media Intern, Knight Center for Journalism in the Americas, Moody College of Communication](https://jobright.ai/jobs/info/68a48b03e9f1c744da12250b?utm_campaign=1065&utm_source=git)** | UT MAIN CAMPUS | On Site | Aug 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
