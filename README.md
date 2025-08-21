@@ -61,7 +61,6 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Marketing Operations Intern – Spring 2026](https://jobright.ai/jobs/info/68a6bcd433dd7158bbca2653?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 20 |
 | **[United Way Miami](http://www.unitedwaymiami.org)** | **[Intern, Development](https://jobright.ai/jobs/info/68a6b5ffb6a3617d7fa799b1?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 20 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68a6b131b6a3617d7fa796f2?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Aug 20 |
-| **[WriteOff](https://writeoffai.vercel.app)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a6ae80758f2e4ac3fe6bda?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
 | **[nothing else](thenothingelse.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a6ab17b6a3617d7fa7926c?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Aug 20 |
 | **[Seton Hall University](http://www.shu.edu/)** | **[Sports Poll Social Media Marketing Intern - 2025/26](https://jobright.ai/jobs/info/68a6a04033dd7158bbca1363?utm_campaign=1065&utm_source=git)** | South Orange, NJ | On Site | Aug 20 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/68a69571758f2e4ac3fe5c64?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
@@ -87,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Global Survivor Network Intern – Spring 2026](https://jobright.ai/jobs/info/68a66be3758f2e4ac3fe4bee?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Aug 20 |
 | **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Marketing/Communications Intern](https://jobright.ai/jobs/info/68a69e33758f2e4ac3fe6110?utm_campaign=1065&utm_source=git)** | Park City, UT | Remote | Aug 20 |
 | **[Zipline](http://flyzipline.com)** | **[Join Our Spring 2026 Internships Mailing List!](https://jobright.ai/jobs/info/68a6679f758f2e4ac3fe4bb9?utm_campaign=1065&utm_source=git)** | South San Francisco, CA | On Site | Aug 20 |
-| **[American Dining Creations](http://www.adc-us.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a6893fb6a3617d7fa77f95?utm_campaign=1065&utm_source=git)** | Webster Groves, MO | On Site | Aug 20 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68a68842758f2e4ac3fe54b9?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Aug 20 |
+| **[American Dining Creations](http://www.adc-us.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a68842758f2e4ac3fe54b9?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Aug 20 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68a6893fb6a3617d7fa77f95?utm_campaign=1065&utm_source=git)** | Webster Groves, MO | On Site | Aug 20 |
 | **[GRO](https://www.readysetgro.io/)** | **[Social Media Manager Internship](https://jobright.ai/jobs/info/68a6c088758f2e4ac3fe783d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Aug 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Product Marketing for Financial Management](https://jobright.ai/jobs/info/68a65eb133dd7158bbc9f9e8?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 20 |
 | **[American University](http://american.edu)** | **[Communications Intern (Student)(FWS)](https://jobright.ai/jobs/info/68a687f5758f2e4ac3fe5495?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Soccer Shots Los Angeles](http://www.soccershots.org/losangeles)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/68a5bc6033dd7158bbc9b869?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
 | **[LTK](https://company.shopltk.com/)** | **[Creator Success Intern](https://jobright.ai/jobs/info/688970119f961617fe2143fd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
 | **[Advanced Energy](http://www.advancedenergy.com)** | **[Intern - Market Research](https://jobright.ai/jobs/info/68a5afcb33dd7158bbc9b65d?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Aug 20 |
+| **[fore ai](https://foreai.co)** | **[Growth Intern – US / AI Startup (ex-Google team)](https://jobright.ai/jobs/info/68a6a881758f2e4ac3fe67a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
