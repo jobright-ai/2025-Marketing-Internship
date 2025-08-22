@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op  – Digital Marketing CRM](https://jobright.ai/jobs/info/68a8560bd627244576e32318?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 22 |
+| **[Agentio](https://www.agentio.com)** | **[Creator Partnerships & Brand Success Intern](https://jobright.ai/jobs/info/68704ca906ad7073463bcd66?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
 | **[IFC - International Finance Corporation](http://www.ifc.org)** | **[Senior Communications Officer, Internal Engagement - req34111](https://jobright.ai/jobs/info/68a82975758f2e4ac3ff18a9?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 22 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern Conversion: Portfolio Associate](https://jobright.ai/jobs/info/68a826c033dd7158bbcac955?utm_campaign=1065&utm_source=git)** | Portage, MI | Hybrid | Aug 22 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68a8215633dd7158bbcac72a?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Aug 22 |
@@ -71,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - SEO, Content, and Creative Operations](https://jobright.ai/jobs/info/68a802c2758f2e4ac3feffb9?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
 | ↳ | **[Winter 2026 Co-op - SEO, Content, and Creative Operations](https://jobright.ai/jobs/info/68a7fcf933dd7158bbcaad48?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 21 |
 | **[University of Michigan](https://www.umich.edu)** | **[Sustainability Communications & Engagement Intern](https://jobright.ai/jobs/info/68a7fc2a33dd7158bbcaacf0?utm_campaign=1065&utm_source=git)** | Dearborn, MI | On Site | Aug 21 |
-| **[PaintLab](www.paintlabbeauty.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a7f7fc33dd7158bbcaac3b?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Aug 21 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68a7f71333dd7158bbcaaaa1?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 21 |
 | **[Continental Automotive Trading France SAS](https://continental.com/)** | **[Communication Intern (Part time)Job ID: REF88078M](https://jobright.ai/jobs/info/68a7f5e433dd7158bbcaa8ae?utm_campaign=1065&utm_source=git)** | Mount Vernon, VA | On Site | Aug 21 |
 | **[LVMH](https://www.lvmh.com/)** | **[Merchandising Intern - Fall 2025](https://jobright.ai/jobs/info/68a7f21c33dd7158bbcaa749?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Aug 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DigiCert](http://www.digicert.com/)** | **[SDR Program Analyst – Intern](https://jobright.ai/jobs/info/68a7552d758f2e4ac3feb364?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Aug 21 |
 | **[KENT](https://www.wearkent.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68a752cf33dd7158bbca6321?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 21 |
 | **[PRETZELIZED](https://pretzelized.com)** | **[College Ambassador Internship - University of Oregon](https://jobright.ai/jobs/info/68a8004ed627244576e3010a?utm_campaign=1065&utm_source=git)** | Eugene, OR | On Site | Aug 21 |
-| **[Keeper Security, Inc.](https://www.keepersecurity.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68a7444c758f2e4ac3fea76a?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
