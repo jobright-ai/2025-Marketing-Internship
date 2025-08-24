@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Borgen Project](http://borgenproject.org)** | **[Volunteer: Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68ab6c6edaf1431824c8ee37?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Aug 24 |
+| ↳ | **[Volunteer: Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68ab66cbd627244576e3f97e?utm_campaign=1065&utm_source=git)** | Greeley, CO | On Site | Aug 24 |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68ab66c5758f2e4ac3fff689?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Aug 24 |
+| **[Pulchritude Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68ab66b5d627244576e3f974?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
+| **[BR Public Relations](http://www.brpublicrelations.com/)** | **[PR Internship Opportunity for Fall 2025](https://jobright.ai/jobs/info/68ab6128daf1431824c8edae?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 24 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68ab57ef758f2e4ac3fff4b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship - Content ❤️❤️❤️](https://jobright.ai/jobs/info/68ab422ed627244576e3f68a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 24 |
-| **[Paidwork](https://www.paidwork.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ab3fb6daf1431824c8eae5?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Moxell](https://www.linkedin.com/company/31184082)** | **[PCG Intern](https://jobright.ai/jobs/info/68ab3f5f758f2e4ac3fff35d?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Aug 24 |
-| **[Tigbourne Capital Ltd](https://www.tigbournecapital.com/)** | **[Private Equity Marketing/Communications Intern](https://jobright.ai/jobs/info/68ab3c80758f2e4ac3fff31d?utm_campaign=1065&utm_source=git)** | Park City, UT | Remote | Aug 24 |
 | **[Nexus Executive Group Inc](http://nexusexecutivegroupinc.com/)** | **[Marketing and Sales Internship](https://jobright.ai/jobs/info/68ab3c80758f2e4ac3fff31e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Edge Branding Inc.](https://www.edgebrandinginc.com/)** | **[Marketing Intern - Fall Internships](https://jobright.ai/jobs/info/68ab3c76daf1431824c8ea7a?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Aug 24 |
-| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68ab3921daf1431824c8ea52?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
 | **[Veteran Marketing Group](https://veteranmarketinggroup.com/)** | **[Paid Internship - Marketing and Communications](https://jobright.ai/jobs/info/68ab38f5758f2e4ac3fff2dd?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Aug 24 |
 | **[Glencore](http://glencore.com)** | **[Commodities Trading Networking Event](https://jobright.ai/jobs/info/68ab22a2758f2e4ac3fff182?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 24 |
 | **[Doctors Without Borders/Médecins Sans Frontières - USA](https://www.doctorswithoutborders.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/683a0b4290a2856439790f29?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 24 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Paid Internship / Marketing and Communications](https://jobright.ai/jobs/info/68aaf251daf1431824c8e376?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
 | **[Winland Foods](https://winlandfoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68aa4c05758f2e4ac3ffc631?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Hybrid | Aug 23 |
 | **[Haven Legal LLC](havenlegal.net)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ab0cd5758f2e4ac3ffef1e?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 23 |
-| **[International Coalition Against Modern Slavery](https://coalitionagainstmodernslavery.org/)** | **[Media and Advocacy Intern](https://jobright.ai/jobs/info/68aa77d26acf96396f72a348?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 23 |
 | **[VASCOR Logistics](http://vascorlogistics.com)** | **[Marketing Intern-Farmington Hills, MI](https://jobright.ai/jobs/info/68aa3468758f2e4ac3ffc3a4?utm_campaign=1065&utm_source=git)** | Farmington, MI | Hybrid | Aug 23 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - Chicago CMG](https://jobright.ai/jobs/info/68aa27f8d627244576e3c60a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 23 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68aa25af6acf96396f729b13?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Aug 23 |
@@ -145,7 +147,6 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2026](https://jobright.ai/jobs/info/68a90406758f2e4ac3ff6add?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
 | **[BBA Bubbleball](http://bubbleball.us/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68a90399758f2e4ac3ff6a9e?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Aug 22 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / San Jose State University](https://jobright.ai/jobs/info/68a92831758f2e4ac3ff7b4a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Aug 22 |
-| **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Product Marketing](https://jobright.ai/jobs/info/68a902a7d627244576e36e2b?utm_campaign=1065&utm_source=git)** | Ashburn, VA | On Site | Aug 22 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2026](https://jobright.ai/jobs/info/68a91d92d627244576e379e0?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Aug 22 |
 | **[Stellantis](https://www.stellantis.com)** | **[Human Resources – Diversity & Inclusion Marketing and Employer Branding Student Program](https://jobright.ai/jobs/info/68a910b66acf96396f72489e?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | On Site | Aug 22 |
 | **[Purple Brand](https://intl.purple-brand.com/en-in)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68a91d486acf96396f724ed3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ADAPT](http://trainadapt.com/)** | **[Marketing Intern (unpaid)](https://jobright.ai/jobs/info/68a8ef3cd627244576e3675d?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Aug 22 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/68a8d0e66acf96396f723057?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Aug 22 |
 | **[Grand Canyon Education, Inc. ](https://www.gce.com)** | **[Digital Marketing - Student Content Specialist (NFWS)](https://jobright.ai/jobs/info/68a8e6a96acf96396f7239ce?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 22 |
-| **[A-C Electric Company](http://a-celectric.com)** | **[2026 Marketing Summer Internship](https://jobright.ai/jobs/info/68a8e3de6acf96396f723956?utm_campaign=1065&utm_source=git)** | Bakersfield, CA | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
