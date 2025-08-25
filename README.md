@@ -57,11 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/68ac16b9d627244576e4484f?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 25 |
-| ↳ | **[2026 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/68ac13a3758f2e4ac3004388?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
+| **[Joinrs](http://www.tutored.me)** | **[Junior Digital Marketing](https://jobright.ai/jobs/info/68ac313e758f2e4ac30047fd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
+| ↳ | **[[Full Remote] Social Media Intern (Marketing)](https://jobright.ai/jobs/info/68ac2d36daf1431824c93efa?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/68ac29d4daf1431824c93e99?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/68ac29c6d627244576e44a67?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Category Management Insights Intern - Undergrad](https://jobright.ai/jobs/info/68ac2227daf1431824c93df6?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
+| **[University of Arkansas System](https://www.uasys.edu)** | **[Market Research Assistant](https://jobright.ai/jobs/info/68ac2184758f2e4ac30045a1?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Aug 25 |
+| **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Social Content Creator Intern](https://jobright.ai/jobs/info/68ac1cced627244576e44930?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Aug 25 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Category Management Insights Intern - Undergrad](https://jobright.ai/jobs/info/68ac1c87daf1431824c93d1e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/68ac188a758f2e4ac30044ba?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/68ac1808daf1431824c93cbb?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 25 |
+| ↳ | **[2026 Summer Intern: Marketing - MBA](https://jobright.ai/jobs/info/68ac16b9d627244576e4484f?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 25 |
+| **[Structural Component Systems, Inc.](https://www.scstruss.com/)** | **[Marketing Intern - Part-time](https://jobright.ai/jobs/info/68ac30b2daf1431824c93f91?utm_campaign=1065&utm_source=git)** | Fremont, NE | On Site | Aug 25 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2026 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/68ac13a3758f2e4ac3004388?utm_campaign=1065&utm_source=git)** | Purchase, NY | On Site | Aug 25 |
 | **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68ac1163d627244576e444c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
 | **[A24](http://a24films.com/)** | **[Specialty Marketing Intern (Remote)](https://jobright.ai/jobs/info/68ac06c2d627244576e43b22?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 24 |
 | **[Newman University](http://www.newmanu.edu/)** | **[Student - Admissions Social Media Ambassador](https://jobright.ai/jobs/info/68abf835d627244576e435c1?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Aug 24 |
+| **[zant](https://www.zant.app/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ac1815758f2e4ac300447e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 24 |
 | **[Glencore](http://glencore.com)** | **[Commodities Trading Networking Event (New York, NY)](https://jobright.ai/jobs/info/68abe5b7daf1431824c90cc0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 24 |
 | ↳ | **[Commodities Trading Networking Event (Houston, TX)](https://jobright.ai/jobs/info/68abe582d627244576e41844?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 24 |
 | **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68abdf1ddaf1431824c90b4e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 24 |
@@ -83,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Cortina Solutions](https://www.cortinasolutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ab6f69daf1431824c8ee68?utm_campaign=1065&utm_source=git)** | Huntsville, AL | Hybrid | Aug 24 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Volunteer: Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68ab6c6edaf1431824c8ee37?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Aug 24 |
 | ↳ | **[Volunteer: Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68ab66cbd627244576e3f97e?utm_campaign=1065&utm_source=git)** | Greeley, CO | On Site | Aug 24 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Internship - Content ❤️❤️❤️](https://jobright.ai/jobs/info/68ab422ed627244576e3f68a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 24 |
 | **[Nexus Executive Group Inc](http://nexusexecutivegroupinc.com/)** | **[Marketing and Sales Internship](https://jobright.ai/jobs/info/68ab3c80758f2e4ac3fff31e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 24 |
 | **[Edge Branding Inc.](https://www.edgebrandinginc.com/)** | **[Marketing Intern - Fall Internships](https://jobright.ai/jobs/info/68ab3c76daf1431824c8ea7a?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Aug 24 |
 | **[Veteran Marketing Group](https://veteranmarketinggroup.com/)** | **[Paid Internship - Marketing and Communications](https://jobright.ai/jobs/info/68ab38f5758f2e4ac3fff2dd?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Aug 24 |
@@ -95,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/68aae5c6758f2e4ac3ffeb5f?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 24 |
 | **[Pauling.AI](http://www.pauling.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68aab71adaf1431824c8daa8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 23 |
 | **[Cher ®](https://cherahome.com/)** | **[Founder Assistant](https://jobright.ai/jobs/info/68aabe36d627244576e3ec6d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 23 |
-| **[Lavender Chai Co.](www.lavenderchai.co)** | **[Marketing & Studio Assistant Intern](https://jobright.ai/jobs/info/68abf195758f2e4ac3002ab2?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Hybrid | Aug 23 |
+| **[Lavender Chai Co.](www.lavenderchai.co)** | **[Marketing & Studio Assistant Intern](https://jobright.ai/jobs/info/68abf120d627244576e42b34?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Hybrid | Aug 23 |
 | **[Lucca Interiors](https://luccainteriors.com/)** | **[Digital Media & Marketing Intern](https://jobright.ai/jobs/info/68aa73ef758f2e4ac3ffc991?utm_campaign=1065&utm_source=git)** | Englewood, NJ | On Site | Aug 23 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - Chicago CMG](https://jobright.ai/jobs/info/68aa6824d627244576e3cbfe?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Aug 23 |
 | **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Paid Internship / Marketing and Communications](https://jobright.ai/jobs/info/68aaf251daf1431824c8e376?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 23 |
@@ -112,8 +123,8 @@ For a complete list, click the following sortable link below:
 | **[kalm](clubkalm.com)** | **[Fall Social Media Intern](https://jobright.ai/jobs/info/68a9e6156acf96396f7293ae?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 23 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a9e014758f2e4ac3ffbac3?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Aug 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9e00d758f2e4ac3ffbabe?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 23 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9dfa9d627244576e3bde2?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9dfa9d627244576e3bde3?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 23 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9dfa9d627244576e3bde2?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Aug 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9dfa4d627244576e3bdd9?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 23 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68a9df8e6acf96396f729311?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Aug 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68a9df8dd627244576e3bdc0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 23 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diamond Sports Academy](http://www.diamondsportsacademy.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ab0caa758f2e4ac3ffef0b?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 22 |
 | **[ParTee Shack](parteeshack.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a94a65758f2e4ac3ff88d9?utm_campaign=1065&utm_source=git)** | Triangle Area | Hybrid | Aug 22 |
 | **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/68a949de758f2e4ac3ff8831?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
-| **[RAS Capital Partners](https://www.rascapitalpartners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a93d92d627244576e38790?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 22 |
-| **[NPO Lifeline](www.npolifeline.com)** | **[Marketing & Communications Internship (For-Credit, Unpaid)](https://jobright.ai/jobs/info/68ab0a04d627244576e3f1df?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Aug 22 |
-| **[Guardianly](https://www.guardianly.ai/)** | **[Marketing & Growth Intern (AI + International Student Focus)](https://jobright.ai/jobs/info/68ab0c02daf1431824c8e64d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 22 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern (Part Time)](https://jobright.ai/jobs/info/68a928f76acf96396f7252f4?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 22 |
-| **[SweatPals](https://www.sweatpals.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68a92088758f2e4ac3ff77ea?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Aug 22 |
-| **[BD](https://www.bd.com)** | **[Intern, Global Marketing, Biosurgery Platform](https://jobright.ai/jobs/info/68a91943d627244576e378bd?utm_campaign=1065&utm_source=git)** | Warwick, RI | Hybrid | Aug 22 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Social Media Intern -Wildcat Advantage & Internship Department](https://jobright.ai/jobs/info/68a913d1d627244576e3760a?utm_campaign=1065&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
-| ↳ | **[EAST Outreach and Social Media Intern](https://jobright.ai/jobs/info/68a913c0d627244576e375ff?utm_campaign=1065&utm_source=git)** | Ogden, UT | On Site | Aug 22 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Trademark and Licensing Student Assistant](https://jobright.ai/jobs/info/68a90fa6758f2e4ac3ff700c?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Aug 22 |
-| **[Opportunities for a Better Tomorrow](https://obtjobs.org/)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/68a90f076acf96396f724671?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 22 |
-| **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern (Part Time)](https://jobright.ai/jobs/info/68a90e88758f2e4ac3ff6ecf?utm_campaign=1065&utm_source=git)** | Salt Lake City, Utah | On Site | Aug 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
