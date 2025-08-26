@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Augustana University (SD)](http://www.augie.edu/)** | **[Unpaid Internship, Athletics Marketing](https://jobright.ai/jobs/info/68ad7676daf1431824c9cfd8?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Aug 26 |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68ad7675758f2e4ac300d881?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Aug 26 |
+| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Email Marketing Specialist Intern](https://jobright.ai/jobs/info/68ad757c758f2e4ac300d823?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
+| **[utobo Inc.](https://utobo.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68ad757b758f2e4ac300d822?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
+| **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Marketing Student Internship](https://jobright.ai/jobs/info/68ad72f1d627244576e4dcaf?utm_campaign=1065&utm_source=git)** | Waukesha, WI | Remote | Aug 26 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68ad6972758f2e4ac300d657?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[intern, Brand Marketing, e.l.f. Skin](https://jobright.ai/jobs/info/68ad665cd627244576e4da6c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | **[AVRIOS MEDIA](https://www.linkedin.com/company/106817913)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ad62c8daf1431824c9c98f?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Aug 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Office of Americas Marketing](https://jobright.ai/jobs/info/68ad5031daf1431824c9c168?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 25 |
@@ -148,13 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb48a758f2e4ac3008053?utm_campaign=1065&utm_source=git)** | Davenport, IA | Hybrid | Aug 25 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb475d627244576e48439?utm_campaign=1065&utm_source=git)** | Rockford, IL | Hybrid | Aug 25 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Video & Digital Media Intern - Kane County](https://jobright.ai/jobs/info/68acb469daf1431824c9767a?utm_campaign=1065&utm_source=git)** | Geneva, IL | On Site | Aug 25 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb44fdaf1431824c9763d?utm_campaign=1065&utm_source=git)** | York, PA | Hybrid | Aug 25 |
 | **[LumiRx](www.lumirx.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68acb41fd627244576e4837e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 25 |
 | **[Earthjustice](http://earthjustice.org/)** | **[Spring 2026 Planned Giving Marketing Internship](https://jobright.ai/jobs/info/68acb41fdaf1431824c975e0?utm_campaign=1065&utm_source=git)** | Remote, United States | Hybrid | Aug 25 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb3ee758f2e4ac3007f51?utm_campaign=1065&utm_source=git)** | Savannah, GA | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb389daf1431824c974a4?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb35dd627244576e48227?utm_campaign=1065&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2f5daf1431824c97399?utm_campaign=1065&utm_source=git)** | Pensacola, FL | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2d9d627244576e48122?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2aad627244576e480d0?utm_campaign=1065&utm_source=git)** | Hialeah, FL | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
