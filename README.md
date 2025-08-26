@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SmartSolve](https://www.smartsolve.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ad483b758f2e4ac300c7ae?utm_campaign=1065&utm_source=git)** | Bowling Green, OH | On Site | Aug 25 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Energy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68ad29dcd627244576e4bac2?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68ad21d0d627244576e4b766?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68ad207f758f2e4ac300b176?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb194d627244576e47f84?utm_campaign=1065&utm_source=git)** | Anchorage, AK | Hybrid | Aug 25 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb18bd627244576e47f79?utm_campaign=1065&utm_source=git)** | Brownsville, TX | Hybrid | Aug 25 |
 | **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Communications](https://jobright.ai/jobs/info/68acb17fd627244576e47f6a?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Aug 25 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68acae79758f2e4ac30079cf?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
