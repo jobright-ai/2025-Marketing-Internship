@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TalentAlly](http://www.prodivnet.com/)** | **[intern, Brand Marketing, e.l.f. Skin](https://jobright.ai/jobs/info/68ad665cd627244576e4da6c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
+| **[AVRIOS MEDIA](https://www.linkedin.com/company/106817913)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ad62c8daf1431824c9c98f?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Aug 26 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Office of Americas Marketing](https://jobright.ai/jobs/info/68ad5031daf1431824c9c168?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | Hybrid | Aug 25 |
 | **[SmartSolve](https://www.smartsolve.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ad483b758f2e4ac300c7ae?utm_campaign=1065&utm_source=git)** | Bowling Green, OH | On Site | Aug 25 |
+| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Channel Marketing](https://jobright.ai/jobs/info/68ad665cd627244576e4da6b?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Aug 25 |
 | **[Devon Energy](https://www.devonenergy.com)** | **[Energy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68ad29dcd627244576e4bac2?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Aug 25 |
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68ad21d0d627244576e4b766?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 25 |
 | ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68ad207f758f2e4ac300b176?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Aug 25 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb389daf1431824c974a4?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Aug 25 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb35dd627244576e48227?utm_campaign=1065&utm_source=git)** | Lafayette, LA | Hybrid | Aug 25 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2f5daf1431824c97399?utm_campaign=1065&utm_source=git)** | Pensacola, FL | Hybrid | Aug 25 |
-| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Copywriter Internship](https://jobright.ai/jobs/info/68acb2f4d627244576e48145?utm_campaign=1065&utm_source=git)** | Connecticut, United States | Remote | Aug 25 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2d9d627244576e48122?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Aug 25 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2d9d627244576e48122?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Aug 25 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb2aad627244576e480d0?utm_campaign=1065&utm_source=git)** | Hialeah, FL | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb194d627244576e47f84?utm_campaign=1065&utm_source=git)** | Anchorage, AK | Hybrid | Aug 25 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68acb18bd627244576e47f79?utm_campaign=1065&utm_source=git)** | Brownsville, TX | Hybrid | Aug 25 |
-| **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Communications](https://jobright.ai/jobs/info/68acb17fd627244576e47f6a?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
