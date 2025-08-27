@@ -57,17 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68aec6167bcb7608b3d29716?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Aug 27 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68aeb7e97bcb7608b3d28fc1?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Merchant Serv](https://www.linkedin.com/company/65350771)** | **[Marketing, Communications, and Management Internship for the Fall!](https://jobright.ai/jobs/info/68aeaac87bcb7608b3d28db8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Special Events Fall Intern (Remote New York)](https://jobright.ai/jobs/info/68aeaa7703c5f15c2fd8adfd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 26 |
 | ↳ | **[Special Events Fall Intern (St. Louis, MO)](https://jobright.ai/jobs/info/68aea9c103c5f15c2fd8acf3?utm_campaign=1065&utm_source=git)** | St. Louis, MO | Hybrid | Aug 26 |
 | **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68aea4b72daaba39844194ca?utm_campaign=1065&utm_source=git)** | Delavan, WI | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Corporate Communications Co-op (January through June)](https://jobright.ai/jobs/info/68aea3b52daaba39844193b8?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
+| **[HAZZE MEDIA](https://www.hazzemedia.com)** | **[DFW PR/Publicity & Business Development Internship](https://jobright.ai/jobs/info/68aebed72daaba3984419ea0?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Aug 26 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Marketing Data Science & Analytics](https://jobright.ai/jobs/info/68ae9f3c03c5f15c2fd8a7a1?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Community Manager Co-op, Social Media & Online Engagement (January through June)](https://jobright.ai/jobs/info/68ae9ed87bcb7608b3d2870b?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | ↳ | **[Spring 2026: Brand Marketing Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae9eb82daaba3984419112?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Aug 26 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[New York Internship: PR & Influencer Events](https://jobright.ai/jobs/info/68ae9ea57bcb7608b3d286d3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 26 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Consumer Insights Co-op (January through June)](https://jobright.ai/jobs/info/68ae998a7bcb7608b3d284a4?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Aug 26 |
+| **[Tahirih Justice Center](https://www.tahirih.org/)** | **[Communications Intern (Fall 2025)](https://jobright.ai/jobs/info/68aec65e2daaba398441a218?utm_campaign=1065&utm_source=git)** | Falls Church, VA | On Site | Aug 26 |
 | **[ONEBIT](https://onebitapp.com/)** | **[Creative & Video Marketing Intern](https://jobright.ai/jobs/info/68ae94b6369b8a08e25b02e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Event Services](https://jobright.ai/jobs/info/68ae943ca782bf3e93054593?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 26 |
 | **[AKFI Sustainability Association](http://akfi.org)** | **[Marketing Intern Fall and Winter UNPAID](https://jobright.ai/jobs/info/68ae8b2fdaf1431824ca3e4d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
@@ -150,11 +153,8 @@ For a complete list, click the following sortable link below:
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/68ae1126daf1431824ca0786?utm_campaign=1065&utm_source=git)** | Montgomery County, PA | On Site | Aug 26 |
 | **[Pull Public Relations](http://pull-pr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68ae111bd627244576e514d8?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 26 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Marketing Intern - Phoenix/Minneapolis](https://jobright.ai/jobs/info/68ae105ad627244576e513f3?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 26 |
+| **[Citrin Cooperman](http://www.citrincooperman.com/)** | **[Summer Internship 2026 / Digital Services Advisory Intern (48528)](https://jobright.ai/jobs/info/68aecf6a2daaba398441a676?utm_campaign=1065&utm_source=git)** | Owings Mills, MD | On Site | Aug 26 |
 | **[Ive Sent It](https://ivesentit.com)** | **[College Brand Ambassador / Brand Affiliate (Fall Semester 2025)](https://jobright.ai/jobs/info/68ae0ed6758f2e4ac3010ef6?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Busker Communications](https://buskercom.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ae0c0adaf1431824ca0487?utm_campaign=1065&utm_source=git)** | Buckhead, GA | On Site | Aug 26 |
 | **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Marketing Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68ae0b8e758f2e4ac3010d6e?utm_campaign=1065&utm_source=git)** | Findlay, Ohio | On Site | Aug 26 |
-| **[Selective Insurance](https://www.selective.com/)** | **[Corporate Communications Summer Internship – Branchville, NJ (Hybrid)](https://jobright.ai/jobs/info/68ae0b44d627244576e510d4?utm_campaign=1065&utm_source=git)** | Branchville, NJ | Hybrid | Aug 26 |
-| **[Marathon Petroleum Corporation](http://www.marathonpetroleum.com)** | **[Marketing Analyst (Intern to Full-Time Conversion)](https://jobright.ai/jobs/info/68ae0a7adaf1431824ca0274?utm_campaign=1065&utm_source=git)** | San Antonio, Texas | On Site | Aug 26 |
-| **[Google](https://www.google.com)** | **[Digital Marketing Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae0a2cd627244576e50f4e?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA | On Site | Aug 26 |
-| ↳ | **[Digital Marketing Apprenticeship, March 2026 Start](https://jobright.ai/jobs/info/68ae0a23daf1431824ca01ff?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
