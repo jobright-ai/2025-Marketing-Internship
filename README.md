@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Florida](https://www.ufl.edu)** | **[Intern - Media Relations - PRN - Days](https://jobright.ai/jobs/info/68b0203813563e782a9f392f?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Aug 28 |
+| **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/68b00e3513563e782a9f34a2?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Aug 28 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Social Media Marketing Intern - Student Hourly](https://jobright.ai/jobs/info/68b00d65b47fb001d688f612?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Content Specialist - Digital Marketing](https://jobright.ai/jobs/info/68b007deb47fb001d688f4bc?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Aug 28 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/68afff1eb47fb001d688efc9?utm_campaign=1065&utm_source=git)** | Troy, AL | On Site | Aug 28 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68affed813563e782a9f2e0d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[F.N.B. Corporation](https://www.fnb-online.com)** | **[Summer 2026 Corporate Communications Intern - Pittsburgh, PA](https://jobright.ai/jobs/info/68afce72e723db6c9b7b3b74?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 27 |
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68afcd9313563e782a9f1311?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Aug 27 |
 | **[CYLNDR Studios](www.cylndr.com)** | **[TEST - CYLNDR Open Req](https://jobright.ai/jobs/info/68afccfe13563e782a9f125e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 27 |
-| **[Spring Hill College](http://www.shc.edu/)** | **[Marketing Content Creator](https://jobright.ai/jobs/info/68afe0dfb47fb001d688e34e?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | Aug 27 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68afc591e723db6c9b7b3334?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 27 |
 | **[Trustwell](https://www.trustwell.com)** | **[Marketing & Multimedia Internship (Unpaid)](https://jobright.ai/jobs/info/68afe135e723db6c9b7b48c0?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Aug 27 |
 | **[Mortenson](https://www.mortenson.com)** | **[Social Media Intern / Mortenson](https://jobright.ai/jobs/info/68afd4d013563e782a9f1a36?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
@@ -113,12 +115,10 @@ For a complete list, click the following sortable link below:
 | **[Arch K](www.arch-k.com)** | **[Marketing Intern (Volunteer)](https://jobright.ai/jobs/info/68af7d521f0a2a568a06224b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
 | **[American University](http://american.edu)** | **[CAS Student Social Media Influencer (Student) (FWS)](https://jobright.ai/jobs/info/68af7ab81f0a2a568a062186?utm_campaign=1065&utm_source=git)** | Main Campus (Washington, DC) | On Site | Aug 27 |
 | **[Melbourne Flight Training](https://mlbflight.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68af78e22daaba398441e8f9?utm_campaign=1065&utm_source=git)** | Melbourne, FL | Hybrid | Aug 27 |
-| **[JBIER Inc.](https://www.jbierboutique.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68af78792daaba398441e8a4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Aug 27 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Social Media Intern](https://jobright.ai/jobs/info/68af741e962903596357ce5d?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Aug 27 |
 | **[LogRocket](https://logrocket.com)** | **[Growth and Customer Marketing Intern](https://jobright.ai/jobs/info/68af72f62daaba398441e617?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Aug 27 |
 | **[Trustwell](https://www.trustwell.com)** | **[Marketing & Multimedia Internship (Unpaid)](https://jobright.ai/jobs/info/68af7210962903596357cc1d?utm_campaign=1065&utm_source=git)** | United States (Remote) | Remote | Aug 27 |
 | **[Boyd Jones Construction](http://boydjones.biz)** | **[Marketing Internship](https://jobright.ai/jobs/info/68af715e1f0a2a568a061aea?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Aug 27 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68af6c771f0a2a568a061824?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
 | **[UVA Health](https://www.uvahealth.com)** | **[Sustainability Communications Intern (Student Wage)](https://jobright.ai/jobs/info/68af61182daaba398441dca3?utm_campaign=1065&utm_source=git)** | Charlottesville, VA | On Site | Aug 27 |
 | **[AS Beauty Group](https://asbeautyco.com)** | **[Affiliate Marketing Internship](https://jobright.ai/jobs/info/68af5ee52daaba398441da5a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Fall Marketing Internship (NYSBA)](https://jobright.ai/jobs/info/68af5e802daaba398441d9e4?utm_campaign=1065&utm_source=git)** | Colchester, VT | On Site | Aug 27 |
@@ -131,6 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Hormel Foods - CPG Digital Marketing Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57e61f0a2a568a060cb2?utm_campaign=1065&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Aug 27 |
 | **[Workato](http://www.workato.com)** | **[Intern, Demand Generation](https://jobright.ai/jobs/info/68af57e02daaba398441d67c?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Aug 27 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Corporate Communications Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af57231f0a2a568a060b9a?utm_campaign=1065&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
+| **[Revere Health](https://reverehealth.com/)** | **[Marketing Intern-PT-Marketing-Provo](https://jobright.ai/jobs/info/68af56e71f0a2a568a060b68?utm_campaign=1065&utm_source=git)** | Provo, Utah, United States | On Site | Aug 27 |
 | **[Aquatech](http://www.aquatech.com)** | **[FALL Intern - Marketing Communications](https://jobright.ai/jobs/info/68af56cd962903596357bce4?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, USA | On Site | Aug 27 |
 | **[Alts (fka Alteration Specialists)](https://www.alterationspecialists.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68af56c51f0a2a568a060b46?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 27 |
 | **[The Block](https://www.theblock.co)** | **[Growth intern](https://jobright.ai/jobs/info/68af56c3962903596357bcd0?utm_campaign=1065&utm_source=git)** | Remote within United States | Remote | Aug 27 |
@@ -141,11 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[MBA Associate Brand Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68af552f1f0a2a568a060a08?utm_campaign=1065&utm_source=git)** | Stamford, None, US | On Site | Aug 27 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Foodservice Marketing Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af53bd2daaba398441d409?utm_campaign=1065&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
 | ↳ | **[Hormel Foods - CPG Brand Management Intern - Summer 2026 (Austin, MN or Chicago, IL)](https://jobright.ai/jobs/info/68af537d2daaba398441d3a7?utm_campaign=1065&utm_source=git)** | Austin, MN, United States | On Site | Aug 27 |
-| **[Revere Health](https://reverehealth.com/)** | **[Marketing Intern-PT-Marketing-Provo](https://jobright.ai/jobs/info/68af533b2daaba398441d327?utm_campaign=1065&utm_source=git)** | Provo, Utah, United States | On Site | Aug 27 |
-| **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - Corporate Communications Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af53162daaba398441d2d0?utm_campaign=1065&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Aug 27 |
+| ↳ | **[Hormel Foods - Corporate Communications Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af53162daaba398441d2d0?utm_campaign=1065&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Aug 27 |
 | ↳ | **[Hormel Foods - CPG Consumer Insights Intern - Summer 2026 (Austin, MN)](https://jobright.ai/jobs/info/68af52ff2daaba398441d2a1?utm_campaign=1065&utm_source=git)** | 1 Hormel Place, Austin, MN, 55912, US | On Site | Aug 27 |
 | **[BluChip](https://gobluchip.com)** | **[BluChip Affiliate Marketing & Sales Internship](https://jobright.ai/jobs/info/68af52e82daaba398441d27c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
 | **[University of Iowa Center for Advancement](https://www.foriowa.org/)** | **[Social Media Assistant Student Clerk](https://jobright.ai/jobs/info/68954d7673b3a600fe886866?utm_campaign=1065&utm_source=git)** | Iowa City, IA | On Site | Aug 27 |
+| **[Fifth Third Bank](http://53.com)** | **[Communication Externship - Summer 2026](https://jobright.ai/jobs/info/68af4e5d7bcb7608b3d2c508?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 | **[Mortenson](https://www.mortenson.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68af733b2daaba398441e665?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Social, e.l.f. SKIN](https://jobright.ai/jobs/info/68af4ca12daaba398441d000?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 27 |
 | **[Popbar](https://www.pop-bar.com)** | **[Fall Branding Intern](https://jobright.ai/jobs/info/68af4a5e2daaba398441ce18?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TONYMOLY USA](http://www.tonymoly.us)** | **[Fall 2025 Marketing Internship](https://jobright.ai/jobs/info/68af40b11f0a2a568a060143?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 27 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - SEO, Content, and Creative Operations](https://jobright.ai/jobs/info/68a802c2758f2e4ac3feffb9?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 27 |
 | **[China Institute in America](https://chinainstitute.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68af39d31f0a2a568a05fd0e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 27 |
-| **[Fifth Third Bank](http://53.com)** | **[Marketing Externship - Summer 2026](https://jobright.ai/jobs/info/68af36ba1f0a2a568a05fb1e?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
