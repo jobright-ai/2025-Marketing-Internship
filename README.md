@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Capital City Go-Go Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/689410024c7e851b90ae2716?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 28 |
+| **[Covestro](https://www.covestro.com)** | **[Industrial Marketing Intern](https://jobright.ai/jobs/info/68b03d0513563e782a9f4293?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Aug 28 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Washington Wizards Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68940abef47efe2113968e1b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 28 |
 | **[University of Florida](https://www.ufl.edu)** | **[Intern - Media Relations - PRN - Days](https://jobright.ai/jobs/info/68b0203813563e782a9f392f?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Aug 28 |
+| **[Spring Hill College](http://www.shc.edu/)** | **[Marketing Content Creator](https://jobright.ai/jobs/info/68b0432413563e782a9f452d?utm_campaign=1065&utm_source=git)** | Mobile, AL | On Site | Aug 28 |
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/68b00e3513563e782a9f34a2?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Aug 28 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Social Media Marketing Intern - Student Hourly](https://jobright.ai/jobs/info/68b00d65b47fb001d688f612?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Aug 28 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Student Content Specialist - Digital Marketing](https://jobright.ai/jobs/info/68b007deb47fb001d688f4bc?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Aug 28 |
+| **[Orang Utan Republik Foundation](https://www.orangutanrepublik.org/)** | **[Volunteer: Social Media Coordinators (volunteers or interns) for Orang Utan Republik Foundation](https://jobright.ai/jobs/info/68b034ecb47fb001d6890035?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Remote | Aug 28 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Media Social & Content Creation Intern - Fall 2025](https://jobright.ai/jobs/info/68b03c4413563e782a9f41d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/68afff1eb47fb001d688efc9?utm_campaign=1065&utm_source=git)** | Troy, AL | On Site | Aug 28 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68affed813563e782a9f2e0d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[J/PR](http://jpublicrelations.com)** | **[Spring 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/68affccee723db6c9b7b5254?utm_campaign=1065&utm_source=git)** | Nashville, TN; Denver, CO; New York, NY; Los Angeles, or San Diego, CA | On Site | Aug 27 |
@@ -150,11 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mortenson](https://www.mortenson.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68af733b2daaba398441e665?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Aug 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Social, e.l.f. SKIN](https://jobright.ai/jobs/info/68af4ca12daaba398441d000?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 27 |
 | **[Popbar](https://www.pop-bar.com)** | **[Fall Branding Intern](https://jobright.ai/jobs/info/68af4a5e2daaba398441ce18?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 27 |
-| **[KeyBank](https://www.key.com)** | **[2026 Summer Marketing Internship - Cleveland](https://jobright.ai/jobs/info/68a8cc61758f2e4ac3ff574c?utm_campaign=1065&utm_source=git)** | Brooklyn, OH | On Site | Aug 27 |
-| **[North Star Mutual Insurance Company](http://northstarmutual.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68af46191f0a2a568a0603ef?utm_campaign=1065&utm_source=git)** | Cottonwood, MN | On Site | Aug 27 |
-| **[Brown & Brown](https://www.bbrown.com/us/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/68af42fe7bcb7608b3d2c01b?utm_campaign=1065&utm_source=git)** | Barre, VT | On Site | Aug 27 |
-| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68af417f2daaba398441cb3f?utm_campaign=1065&utm_source=git)** | Prince George, VA | On Site | Aug 27 |
-| **[TONYMOLY USA](http://www.tonymoly.us)** | **[Fall 2025 Marketing Internship](https://jobright.ai/jobs/info/68af40b11f0a2a568a060143?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 27 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Fall 2026 Co-op - SEO, Content, and Creative Operations](https://jobright.ai/jobs/info/68a802c2758f2e4ac3feffb9?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 27 |
-| **[China Institute in America](https://chinainstitute.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68af39d31f0a2a568a05fd0e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 27 |
+| **[Fifth Third Bank](http://53.com)** | **[Marketing Externship - Summer 2026](https://jobright.ai/jobs/info/68af4a351f0a2a568a0604c2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
