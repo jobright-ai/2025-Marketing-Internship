@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Fall 2025 Social & Digital Intern](https://jobright.ai/jobs/info/68b18f50f4e41a61efd7e4c0?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Aug 29 |
+| **[NiSource](https://www.nisource.com/)** | **[Intern Communications](https://jobright.ai/jobs/info/68b18f33f4e41a61efd7e4b7?utm_campaign=1065&utm_source=git)** | Canonsburg, PA | Hybrid | Aug 29 |
+| **[Lakanto](https://www.lakanto.com/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/68b188b7f4e41a61efd7e352?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Aug 29 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b1629b04557a6c207bd50c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Communications Specialist](https://jobright.ai/jobs/info/68b1599304557a6c207bcd16?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Aug 29 |
 | **[Charleston Southern University](charlestonsouthern.edu)** | **[Athletic Marketing and Promotions Assistant](https://jobright.ai/jobs/info/68b179751ade4306aa63019e?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Aug 29 |
@@ -68,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Cher ®](https://cherahome.com/)** | **[Marketing Design Intern 🚀](https://jobright.ai/jobs/info/68b134b9e815524ae11fc032?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Team Member](https://jobright.ai/jobs/info/68b130256fab621da7b0aaa4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 28 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern Communications](https://jobright.ai/jobs/info/68b12ea46fab621da7b0a8ef?utm_campaign=1065&utm_source=git)** | Canonsburg-SPT PA-Hqtr | Hybrid | Aug 28 |
+| **[Aspect](https://www.aspectapp.xyz/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b18a091ade4306aa6306c0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Aug 28 |
 | **[The Marine Mammal Center](https://www.marinemammalcenter.org/)** | **[Journalism and Public Relations Apprentice](https://jobright.ai/jobs/info/68b11ce96fab621da7b0a09e?utm_campaign=1065&utm_source=git)** | Sausalito, CA | On Site | Aug 28 |
-| **[Heald](http://iheald.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b173281ade4306aa62ffd8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[First Federal Bank NC](https://www.firstfederalbanknc.com)** | **[Marketing Associate - Intern](https://jobright.ai/jobs/info/68b1197f04557a6c207b9e0b?utm_campaign=1065&utm_source=git)** | Dunn, NC | On Site | Aug 28 |
 | **[Sailor Health](sailorhealth.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b118a46fab621da7b09d82?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 28 |
 | **[M&H Valve Company](https://www.mh-valve.com)** | **[M&H Valve - Marketing Intern](https://jobright.ai/jobs/info/68b1183b04557a6c207b9d2e?utm_campaign=1065&utm_source=git)** | Anniston, AL | On Site | Aug 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b093beb47fb001d6893817?utm_campaign=1065&utm_source=git)** | La Mesa, CA | Hybrid | Aug 28 |
 | **[City of Fredericksburg, Virginia](https://www.fredericksburgva.gov/)** | **[Transit Marketing Intern](https://jobright.ai/jobs/info/68b0930e2d46f6396cae6a14?utm_campaign=1065&utm_source=git)** | Fredericksburg, VA | On Site | Aug 28 |
 | **[Yellowcake Shop Clothing](http://yellowcakeshop.com)** | **[Student Intern](https://jobright.ai/jobs/info/68b092d513563e782a9f7761?utm_campaign=1065&utm_source=git)** | Greater Cleveland | On Site | Aug 28 |
-| **[Boss Kidz Inc.](https://www.bosskidzinc.com/)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/68b0b4ceb47fb001d6894d50?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Aug 28 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b0917313563e782a9f7637?utm_campaign=1065&utm_source=git)** | San Clemente, CA | Hybrid | Aug 28 |
-| **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Social Media Internship (Unpaid, School Credit Preferred)](https://jobright.ai/jobs/info/68b0b3ac2d46f6396cae7d4b?utm_campaign=1065&utm_source=git)** | Waterford, CT | Remote | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
