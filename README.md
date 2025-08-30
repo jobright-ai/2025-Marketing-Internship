@@ -137,10 +137,8 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68b1fad5f4e41a61efd81449?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Aug 29 |
 | **[Inspire](https://inspirebrands.com)** | **[Corporate Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fab9bc187f64e1bd8586?utm_campaign=1065&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1fa991ade4306aa63372f?utm_campaign=1065&utm_source=git)** | Farmington, NM | Hybrid | Aug 29 |
-| **[Inspire](https://inspirebrands.com)** | **[Brand Experience Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fa76bc187f64e1bd8548?utm_campaign=1065&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
-| ↳ | **[Corporate Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fa731ade4306aa6336ec?utm_campaign=1065&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
+| **[Inspire](https://inspirebrands.com)** | **[Corporate Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fa731ade4306aa6336ec?utm_campaign=1065&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b1fa73f4e41a61efd813a0?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Inspire](https://inspirebrands.com)** | **[Brand Experience Internship - Summer 2026](https://jobright.ai/jobs/info/68b1f99a1ade4306aa633585?utm_campaign=1065&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f9991ade4306aa633581?utm_campaign=1065&utm_source=git)** | Gallatin, TN | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f96b1ade4306aa633524?utm_campaign=1065&utm_source=git)** | Huntsville, TX | Hybrid | Aug 29 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Marketing Intern](https://jobright.ai/jobs/info/68b1f92cbc187f64e1bd8436?utm_campaign=1065&utm_source=git)** | Remote - TN (C) | Remote | Aug 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f71ef4e41a61efd81117?utm_campaign=1065&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f60fbc187f64e1bd8165?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f5e0bc187f64e1bd8133?utm_campaign=1065&utm_source=git)** | Bothell, WA | Hybrid | Aug 29 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f5bcbc187f64e1bd8115?utm_campaign=1065&utm_source=git)** | Beavercreek, OH | Hybrid | Aug 29 |
+| **[Zipline](http://flyzipline.com)** | **[Join Our Summer 2026 Internships Mailing List!](https://jobright.ai/jobs/info/68b1f575bc187f64e1bd80e6?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
