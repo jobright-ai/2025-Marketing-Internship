@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68b30156f4e41a61efd88777?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 30 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fdc1f4e41a61efd8873d?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
+| ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f897bc187f64e1bdf7ee?utm_campaign=1065&utm_source=git)** | Medina, MN | On Site | Aug 30 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Merchandising Internship, Marketplace - 2026](https://jobright.ai/jobs/info/68b2b6ddbc187f64e1bded55?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2a3bc1ade4306aa639422?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 30 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2dd61bc187f64e1bdf3ca?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 29 |
@@ -83,22 +86,21 @@ For a complete list, click the following sortable link below:
 | **[Outcast](https://thisisoutcast.com)** | **[Communications Associate (Intern)](https://jobright.ai/jobs/info/68b2680a1ade4306aa636168?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Aug 29 |
 | **[Cincinnati Metro](https://www.go-metro.com)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/68b2417bbc187f64e1bda1f7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Aug 29 |
 | **[The International Center (Indianapolis)](http://www.internationalcenter.org)** | **[Spring 2026 Marketing & Communications Intern](https://jobright.ai/jobs/info/68b23fdc1ade4306aa635276?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Brand Marketing MBA Intern - Joico – Spring 2026](https://jobright.ai/jobs/info/68b23b1ff4e41a61efd82e41?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b23779f4e41a61efd82cbb?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Digital & eCommerce Intern - Joico - Summer 2026](https://jobright.ai/jobs/info/68b23645f4e41a61efd82be7?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[Arizona State Fair](https://azstatefair.com)** | **[2025 Fall Public Relations Internship with an emphasis in Events and Social Media](https://jobright.ai/jobs/info/68b235c4f4e41a61efd82b6f?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Digital Strategy & eCommerce Intern, Hair Professionals – Summer 2026](https://jobright.ai/jobs/info/68b235771ade4306aa634e68?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b267d2bc187f64e1bdafcb?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
-| **[Henkel](http://www.henkel.com)** | **[Digital Marketing Intern - SexyHair - Spring 2026](https://jobright.ai/jobs/info/68b234cff4e41a61efd82a9d?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Aug 29 |
 | **[The Traveling Black Women Network](https://www.travelingblackwomen.com)** | **[Fall 2025 Internship Program](https://jobright.ai/jobs/info/68b27265f4e41a61efd8480e?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Transcard](http://www.transcard.com)** | **[2026 - Marketing Intern](https://jobright.ai/jobs/info/68b2713b1ade4306aa6367f1?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Digital & eCommerce Intern, Joico - Summer 2026](https://jobright.ai/jobs/info/68b23645f4e41a61efd82be7?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | **[Sam's Club](http://www.samsclub.com)** | **[2026 Summer Corporate Intern: Sam's Club Merchandising](https://jobright.ai/jobs/info/68b231fbbc187f64e1bd9bd9?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Aug 29 |
+| **[Henkel](http://www.henkel.com)** | **[Brand Marketing MBA Intern, Joico – Spring 2026](https://jobright.ai/jobs/info/68b23b1ff4e41a61efd82e41?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
+| ↳ | **[Digital Marketing Intern, SexyHair - Spring 2026](https://jobright.ai/jobs/info/68b234cff4e41a61efd82a9d?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Aug 29 |
 | **[Axiom Optics](http://axiomoptics.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68b2311c1ade4306aa634d0c?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Aug 29 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Special Events](https://jobright.ai/jobs/info/68b2301af4e41a61efd829e1?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Aug 29 |
 | **[NAVER U.Hub](https://www.linkedin.com/company/79479513)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/68b273bebc187f64e1bdbad3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Aug 29 |
 | **[MARA](www.mara.com)** | **[Communications Intern (Fall 2025)](https://jobright.ai/jobs/info/68b22b671ade4306aa634b91?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Event Marketing Assistant for the Red Room at Cafe 939](https://jobright.ai/jobs/info/68b22aa9bc187f64e1bd9a3e?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 29 |
-| **[Nest Navigate](www.nestnavigate.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68b29835bc187f64e1bddcab?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Andrea Leigh Co](andrealeighco.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/68b2732abc187f64e1bdb9af?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/68b21faff4e41a61efd825ec?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Aug 29 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Sponsored Programs Intern](https://jobright.ai/jobs/info/68b21e83bc187f64e1bd9761?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | Hybrid | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f4dbbc187f64e1bd8082?utm_campaign=1065&utm_source=git)** | Mentor, OH | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f458bc187f64e1bd801d?utm_campaign=1065&utm_source=git)** | Biloxi, MS | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f444bc187f64e1bd800d?utm_campaign=1065&utm_source=git)** | Rowland Heights, CA | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f3bef4e41a61efd80e89?utm_campaign=1065&utm_source=git)** | Potomac, MD | Hybrid | Aug 29 |
-| **[SportRelay](https://sportrelay.com)** | **[MLB Social Media & Marketing Intern (unpaid)](https://jobright.ai/jobs/info/68b2a13dbc187f64e1bde197?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
