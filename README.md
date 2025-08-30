@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b34e4c1ade4306aa63b115?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/68b343ccf4e41a61efd88e17?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Aug 30 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b34383f4e41a61efd88de6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 30 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68b3437fbc187f64e1bdff72?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/689752061b9e81727f198476?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 30 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/68983d6883d13d1f5b68c953?utm_campaign=1065&utm_source=git)** | Peabody, MA | Hybrid | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68b30156f4e41a61efd88777?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 30 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2dd61bc187f64e1bdf3ca?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 29 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles & Dallas)](https://jobright.ai/jobs/info/68b29d88f4e41a61efd87154?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Team Member](https://jobright.ai/jobs/info/68b2776c1ade4306aa636eb6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 29 |
-| **[Timbucktoo](https://www.thetimbucktoo.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b2f838bc187f64e1bdf7ae?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b259691ade4306aa635c88?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Aug 29 |
 | **[Grief Journey LLC](https://linktr.ee/grief_journey)** | **[Fall Intern](https://jobright.ai/jobs/info/68b2f3d1f4e41a61efd8856a?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Hybrid | Aug 29 |
 | **[Henkel](http://www.henkel.com)** | **[Digital & eCommerce Intern, Joico - Summer 2026](https://jobright.ai/jobs/info/68b24e71bc187f64e1bda7aa?utm_campaign=1065&utm_source=git)** | Culver City, None, US | On Site | Aug 29 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Digital Marketing Trainee](https://jobright.ai/jobs/info/68b21512bc187f64e1bd93b3?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Aug 29 |
 | **[Motom](https://www.motom.me)** | **[Affiliate & Influencer Marketing Intern (Paid)](https://jobright.ai/jobs/info/68b21471bc187f64e1bd9348?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Aug 29 |
 | **[Jeppesen Industrial Team](https://www.ipgcre.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b27240bc187f64e1bdb800?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 29 |
-| **[Proximity Leadership Network](http://www.proxleadnet.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b2f9c41ade4306aa63a8e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Acre NY Realty Inc](https://acreny.us)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b21327f4e41a61efd8214f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Aug 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b213151ade4306aa634412?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Aug 29 |
 | **[Eli Lilly and Company](https://www.lilly.com)** | **[Marketing Associate - Intern to Fulltime](https://jobright.ai/jobs/info/68b211bc1ade4306aa634292?utm_campaign=1065&utm_source=git)** | US, Indianapolis IN | On Site | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f71ef4e41a61efd81117?utm_campaign=1065&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f60fbc187f64e1bd8165?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f5e0bc187f64e1bd8133?utm_campaign=1065&utm_source=git)** | Bothell, WA | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f5bcbc187f64e1bd8115?utm_campaign=1065&utm_source=git)** | Beavercreek, OH | Hybrid | Aug 29 |
-| **[Zipline](http://flyzipline.com)** | **[Join Our Summer 2026 Internships Mailing List!](https://jobright.ai/jobs/info/68b1f575bc187f64e1bd80e6?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
