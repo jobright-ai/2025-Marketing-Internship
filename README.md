@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[First Responders Children's Foundation](https://1strcf.org/)** | **[Marketing and Communications Fall Intern](https://jobright.ai/jobs/info/68b36962f4e41a61efd89274?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
+| **[MOODRX LLC (moodrx.com)](https://www.linkedin.com/company/73851238)** | **[Campus Ambassador – Social Media & Mental Health Outreach at NayaTherapy.com](https://jobright.ai/jobs/info/68b363961ade4306aa63b38e?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
+| **[VASCOR Logistics](http://vascorlogistics.com)** | **[Marketing Intern-Georgetown KY](https://jobright.ai/jobs/info/68b358adf4e41a61efd89163?utm_campaign=1065&utm_source=git)** | Georgetown, KY | Hybrid | Aug 30 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b34e4c1ade4306aa63b115?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/68b343ccf4e41a61efd88e17?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Aug 30 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b34383f4e41a61efd88de6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f7cabc187f64e1bd82ca?utm_campaign=1065&utm_source=git)** | Wauwatosa, WI | Hybrid | Aug 29 |
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f74ebc187f64e1bd826e?utm_campaign=1065&utm_source=git)** | Olive Branch, MS | Hybrid | Aug 29 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Fall 2025 - Social Media Marketing Intern](https://jobright.ai/jobs/info/68b1f745f4e41a61efd8113b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 29 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f71ef4e41a61efd81117?utm_campaign=1065&utm_source=git)** | Rancho Santa Margarita, CA | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f60fbc187f64e1bd8165?utm_campaign=1065&utm_source=git)** | Winter Garden, FL | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f5e0bc187f64e1bd8133?utm_campaign=1065&utm_source=git)** | Bothell, WA | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
