@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Merchandising Internship, Marketplace - 2026](https://jobright.ai/jobs/info/68b2b6ddbc187f64e1bded55?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2a3bc1ade4306aa639422?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 30 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles & Dallas)](https://jobright.ai/jobs/info/68b29d88f4e41a61efd87154?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Team Member](https://jobright.ai/jobs/info/68b2776c1ade4306aa636eb6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Aug 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f3bef4e41a61efd80e89?utm_campaign=1065&utm_source=git)** | Potomac, MD | Hybrid | Aug 29 |
 | **[SportRelay](https://sportrelay.com)** | **[MLB Social Media & Marketing Intern (unpaid)](https://jobright.ai/jobs/info/68b2a13dbc187f64e1bde197?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Acima](https://www.acima.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68b1f16f1ade4306aa6330b9?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Aug 29 |
-| **[Vin Noir Explorers and Importers](https://www.vneimporters.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68b27821f4e41a61efd84dba?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
