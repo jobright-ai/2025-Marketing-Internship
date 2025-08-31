@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RAAS](https://raastheglobaldesi.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68b489f8f4e41a61efd8c6f0?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 31 |
+| **[Rentah](http://www.rentah.com/)** | **[Social Media Influencer Internship](https://jobright.ai/jobs/info/68b482661ade4306aa63e7be?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 31 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68b476021ade4306aa63e73d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68b47319f4e41a61efd8c5b1?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Aug 31 |
 | **[DataInsta](www.datainsta.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b4702fbc187f64e1be3676?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b47023f4e41a61efd8c595?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b469d0bc187f64e1be34fa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[The One Brand Management](https://www.linkedin.com/company/102595958)** | **[Fall Intern - Sports and Talent Marketing](https://jobright.ai/jobs/info/68b462c7f4e41a61efd8c375?utm_campaign=1065&utm_source=git)** | Metro Detroit, MI | Remote | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b3dab6bc187f64e1be1e51?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Aug 30 |
 | **[Grind By Faith Music Group](GrindByFaith.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b3ce92f4e41a61efd8a64d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
-| **[CTF Illinois](http://www.ctfillinois.org)** | **[Social Media Coordinator - Part Time](https://jobright.ai/jobs/info/68b3b914f4e41a61efd8995a?utm_campaign=1065&utm_source=git)** | Charleston, IL | On Site | Aug 30 |
 | **[People's Beauty](https://www.linkedin.com/company/71669121)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b3b535f4e41a61efd897c6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[SYNCRATIK](http://www.syncratik.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b4461abc187f64e1be3263?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 30 |
 | **[Clove](http://www.goclove.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68b3aa6bbc187f64e1be0779?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Marketing Intern](https://jobright.ai/jobs/info/68b2064bbc187f64e1bd8ce5?utm_campaign=1065&utm_source=git)** | Tennessee, United States | On Site | Aug 29 |
 | **[Toledo Walleye](http://www.toledowalleye.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b205cef4e41a61efd81b80?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Product Marketing CO-OP - REQ # 1318](https://jobright.ai/jobs/info/68a3d56a37d3cc6b0d57a08a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Aug 29 |
-| **[Inspire](https://inspirebrands.com)** | **[Integrated Marketing Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68b205651ade4306aa633e8c?utm_campaign=1065&utm_source=git)** | Atlanta Support Center | On Site | Aug 29 |
-| **[Nutrien](https://www.nutrien.com/)** | **[Retail Intern - Marketing and Sales](https://jobright.ai/jobs/info/68b205381ade4306aa633e57?utm_campaign=1065&utm_source=git)** | Findlay, OH | On Site | Aug 29 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/68b20372bc187f64e1bd8b4d?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
