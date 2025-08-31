@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Market & Customer Activation Intern - Summer 2026](https://jobright.ai/jobs/info/68b39c401ade4306aa63b63e?utm_campaign=1065&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
 | ↳ | **[Marketing Excellence Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68b39c361ade4306aa63b63b?utm_campaign=1065&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
 | ↳ | **[Packaging and Consumer Goods Market Intern – Summer 2026](https://jobright.ai/jobs/info/68b39b90bc187f64e1be05e8?utm_campaign=1065&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
-| **[Hawl Technologies, LLC](https://hawltechs.com/)** | **[AI/Marketing Intern](https://jobright.ai/jobs/info/68b3d6a81ade4306aa63cc02?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Aug 30 |
 | **[Twofold Wellness](https://twofold.myflodesk.com)** | **[MIDWEST Marketing Intern](https://jobright.ai/jobs/info/68b38241bc187f64e1be0438?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 30 |
 | **[First Responders Children's Foundation](https://1strcf.org/)** | **[Marketing and Communications Fall Intern](https://jobright.ai/jobs/info/68b36962f4e41a61efd89274?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | **[MOODRX LLC (moodrx.com)](https://www.linkedin.com/company/73851238)** | **[Campus Ambassador – Social Media & Mental Health Outreach at NayaTherapy.com](https://jobright.ai/jobs/info/68b363961ade4306aa63b38e?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Corporate Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68b1fa731ade4306aa6336ec?utm_campaign=1065&utm_source=git)** | Boston Support Center | On Site | Aug 29 |
 | **[BBI Logistics](https://www.bbilogistics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b1fa73f4e41a61efd813a0?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 29 |
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f9991ade4306aa633581?utm_campaign=1065&utm_source=git)** | Gallatin, TN | Hybrid | Aug 29 |
+| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f96b1ade4306aa633524?utm_campaign=1065&utm_source=git)** | Huntsville, TX | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
