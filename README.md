@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CTF Illinois](http://www.ctfillinois.org)** | **[Social Media Coordinator - Part Time](https://jobright.ai/jobs/info/68b3b914f4e41a61efd8995a?utm_campaign=1065&utm_source=git)** | Charleston, IL | On Site | Aug 30 |
+| **[People's Beauty](https://www.linkedin.com/company/71669121)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b3b535f4e41a61efd897c6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 30 |
 | **[Clove](http://www.goclove.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68b3aa6bbc187f64e1be0779?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 30 |
 | **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b39c821ade4306aa63b65a?utm_campaign=1065&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
 | ↳ | **[Market & Customer Activation Intern - Summer 2026](https://jobright.ai/jobs/info/68b39c401ade4306aa63b63e?utm_campaign=1065&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b34e4c1ade4306aa63b115?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/68b343ccf4e41a61efd88e17?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Aug 30 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b34383f4e41a61efd88de6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Aug 30 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68b3437fbc187f64e1bdff72?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/689752061b9e81727f198476?utm_campaign=1065&utm_source=git)** | Burlington, MA | Hybrid | Aug 30 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/68983d6883d13d1f5b68c953?utm_campaign=1065&utm_source=git)** | Peabody, MA | Hybrid | Aug 30 |
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68b30156f4e41a61efd88777?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f8bf1ade4306aa6333eb?utm_campaign=1065&utm_source=git)** | Roswell, NM | Hybrid | Aug 29 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship - Social Media](https://jobright.ai/jobs/info/68b272b6f4e41a61efd848c1?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 29 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors or Masters - Marketing Co-Op (Spring 2026)](https://jobright.ai/jobs/info/68b1f850f4e41a61efd811e3?utm_campaign=1065&utm_source=git)** | Massachusetts - Boston | Hybrid | Aug 29 |
-| **[Air Mail](https://airmail.news/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b272011ade4306aa636971?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
