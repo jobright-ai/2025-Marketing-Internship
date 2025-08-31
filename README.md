@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clove](http://www.goclove.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68b3aa6bbc187f64e1be0779?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 30 |
+| **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b39c821ade4306aa63b65a?utm_campaign=1065&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
+| ↳ | **[Market & Customer Activation Intern - Summer 2026](https://jobright.ai/jobs/info/68b39c401ade4306aa63b63e?utm_campaign=1065&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
+| ↳ | **[Marketing Excellence Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68b39c361ade4306aa63b63b?utm_campaign=1065&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
+| ↳ | **[Packaging and Consumer Goods Market Intern – Summer 2026](https://jobright.ai/jobs/info/68b39b90bc187f64e1be05e8?utm_campaign=1065&utm_source=git)** | Bridgewater, None, US | On Site | Aug 30 |
 | **[Twofold Wellness](https://twofold.myflodesk.com)** | **[MIDWEST Marketing Intern](https://jobright.ai/jobs/info/68b38241bc187f64e1be0438?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 30 |
 | **[First Responders Children's Foundation](https://1strcf.org/)** | **[Marketing and Communications Fall Intern](https://jobright.ai/jobs/info/68b36962f4e41a61efd89274?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Aug 30 |
 | **[MOODRX LLC (moodrx.com)](https://www.linkedin.com/company/73851238)** | **[Campus Ambassador – Social Media & Mental Health Outreach at NayaTherapy.com](https://jobright.ai/jobs/info/68b363961ade4306aa63b38e?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
@@ -70,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68b30156f4e41a61efd88777?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Aug 30 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fdc1f4e41a61efd8873d?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f897bc187f64e1bdf7ee?utm_campaign=1065&utm_source=git)** | Medina, MN | On Site | Aug 30 |
-| **[Perpay Inc.](http://www.perpay.com)** | **[Merchandising Internship, Marketplace - 2026](https://jobright.ai/jobs/info/68b2b6ddbc187f64e1bded55?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 30 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2a3bc1ade4306aa639422?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 30 |
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2dd61bc187f64e1bdf3ca?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 29 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles & Dallas)](https://jobright.ai/jobs/info/68b29d88f4e41a61efd87154?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
@@ -113,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[MARA](www.mara.com)** | **[Communications Intern (Fall 2025)](https://jobright.ai/jobs/info/68b22b671ade4306aa634b91?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Berklee College of Music](http://berklee.edu)** | **[Event Marketing Assistant for the Red Room at Cafe 939](https://jobright.ai/jobs/info/68b22aa9bc187f64e1bd9a3e?utm_campaign=1065&utm_source=git)** | Berklee College of Music - Boston | On Site | Aug 29 |
 | **[Andrea Leigh Co](andrealeighco.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/68b2732abc187f64e1bdb9af?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
+| **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Foundation & Communications Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Aug 29 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/68b21faff4e41a61efd825ec?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Aug 29 |
 | **[Colorado State University](http://economics.colostate.edu/)** | **[Sponsored Programs Intern](https://jobright.ai/jobs/info/68b21e83bc187f64e1bd9761?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | Hybrid | Aug 29 |
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/68b21d6f1ade4306aa63480c?utm_campaign=1065&utm_source=git)** | Peoria, Illinois | On Site | Aug 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship - Social Media](https://jobright.ai/jobs/info/68b272b6f4e41a61efd848c1?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Aug 29 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Bachelors or Masters - Marketing Co-Op (Spring 2026)](https://jobright.ai/jobs/info/68b1f850f4e41a61efd811e3?utm_campaign=1065&utm_source=git)** | Massachusetts - Boston | Hybrid | Aug 29 |
 | **[Air Mail](https://airmail.news/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b272011ade4306aa636971?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 29 |
-| **[SkyKey Financial](skykeyfinancial.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f83abc187f64e1bd835f?utm_campaign=1065&utm_source=git)** | Attleboro, MA | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f7e71ade4306aa63328a?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f7e6bc187f64e1bd82e5?utm_campaign=1065&utm_source=git)** | Middletown, CT | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f7cabc187f64e1bd82ca?utm_campaign=1065&utm_source=git)** | Wauwatosa, WI | Hybrid | Aug 29 |
-| ↳ | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b1f74ebc187f64e1bd826e?utm_campaign=1065&utm_source=git)** | Olive Branch, MS | Hybrid | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
