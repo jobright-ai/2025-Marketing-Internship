@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mountaire Farms](http://www.mountaire.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68b4f2a4f4e41a61efd8cd49?utm_campaign=1065&utm_source=git)** | 29292 John J Williams Hwy, Millsboro, DE, 19966, US | On Site | Aug 31 |
+| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68b4e4a1bc187f64e1be3cf2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
 | **[UBS](https://www.ubs.com)** | **[2026 Summer Internship – Communications & Branding](https://jobright.ai/jobs/info/68b4de1cbc187f64e1be3c69?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | ↳ | **[2026 Summer Internship - Brand Activation, Sponsorships and Events](https://jobright.ai/jobs/info/68b4ddc6bc187f64e1be3c59?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68b4c9761ade4306aa63eba7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b20cc7f4e41a61efd81ea2?utm_campaign=1065&utm_source=git)** | Stuart, FL | Hybrid | Aug 29 |
 | **[American Outdoor Brands Inc.](http://www.aob.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b20a561ade4306aa634050?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Aug 29 |
 | **[Liberate Legal, PLLC](www.liberatelegal.com)** | **[Unpaid Legal/Marketing Intern](https://jobright.ai/jobs/info/68b2f98af4e41a61efd886a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Aug 29 |
-| **[ASM Global](https://asmglobal.com/)** | **[Premium Suites Intern at AT&T Stadium](https://jobright.ai/jobs/info/68b206c0bc187f64e1bd8d4e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 29 |
-| **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Marketing Intern](https://jobright.ai/jobs/info/68b2064bbc187f64e1bd8ce5?utm_campaign=1065&utm_source=git)** | Tennessee, United States | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
