@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Microsoft](https://www.microsoft.com)** | **[Marketing: MBA Internship Opportunities](https://jobright.ai/jobs/info/68b584df1ade4306aa642082?utm_campaign=1065&utm_source=git)** | Redmond, WA | On Site | Sep 01 |
+| **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68b5829cbc187f64e1be6f7f?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Sep 01 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Product Marketing Intern](https://jobright.ai/jobs/info/68b56c99f4e41a61efd8fabc?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | Hybrid | Sep 01 |
 | ↳ | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/68b5682ebc187f64e1be6a3a?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Hybrid | Sep 01 |
 | ↳ | **[Case IH Global Brand Communications Intern](https://jobright.ai/jobs/info/68b5670bf4e41a61efd8f93a?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Sep 01 |
@@ -132,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[The One Brand Management](https://www.linkedin.com/company/102595958)** | **[Fall Intern - Sports and Talent Marketing](https://jobright.ai/jobs/info/68b462c7f4e41a61efd8c375?utm_campaign=1065&utm_source=git)** | Metro Detroit, MI | Remote | Aug 31 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdd?utm_campaign=1065&utm_source=git)** | Pasadena, CA | On Site | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68b5125a1ade4306aa63f773?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Aug 31 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Aug 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 | **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b3dab6bc187f64e1be1e51?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Aug 30 |
 | **[SYNCRATIK](http://www.syncratik.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b4461abc187f64e1be3263?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fdc1f4e41a61efd8873d?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Aug 30 |
 | ↳ | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2f897bc187f64e1bdf7ee?utm_campaign=1065&utm_source=git)** | Medina, MN | On Site | Aug 30 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Digital Marketing Intern, MPG – Fall 2025](https://jobright.ai/jobs/info/68984d0583d13d1f5b68d853?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Aug 30 |
-| **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2a3bc1ade4306aa639422?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 30 |
-| **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68b2dd61bc187f64e1bdf3ca?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Aug 29 |
-| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
