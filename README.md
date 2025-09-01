@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Raveival](https://www.raveival.com/)** | **[Social Media/Marketing Intern](https://jobright.ai/jobs/info/68b5f9a0f4e41a61efd91a51?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Future Tech Leaders](https://futuretechleader.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5f76e1ade4306aa643a58?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b5f3e91ade4306aa643a00?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
+| **[HealthLinks Marketing](https://hhkmarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5f08f1ade4306aa6439b4?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Sep 01 |
+| **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Merchandising Internship Program - Summer 2026 (New York, NY)](https://jobright.ai/jobs/info/68b5ef36bc187f64e1be88e8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Michigan](https://jobright.ai/jobs/info/68b5ebedf4e41a61efd918ba?utm_campaign=1065&utm_source=git)** | Portage, MI | On Site | Sep 01 |
+| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Merchandising Internship Program - Summer 2026 (New York, NY)](https://jobright.ai/jobs/info/68b5ebb41ade4306aa643861?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
+| ↳ | **[Merchandising Internship Program - Summer 2026 (New York, NY)](https://jobright.ai/jobs/info/68b5eb39f4e41a61efd9184b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 01 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/68b5e182bc187f64e1be8700?utm_campaign=1065&utm_source=git)** | Gainesville Metro | Remote | Sep 01 |
+| **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Communications/Digital Media/Public Relations/Marketing](https://jobright.ai/jobs/info/68b5dfb7f4e41a61efd91671?utm_campaign=1065&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
+| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Internship (On-Site)](https://jobright.ai/jobs/info/68b5dd5f1ade4306aa6436ba?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Sep 01 |
 | **[America Connected](http://americaconnected.org)** | **[Marketing and Fundraising Intern](https://jobright.ai/jobs/info/68b5d92df4e41a61efd9160a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Paidwork](https://www.paidwork.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5d14df4e41a61efd9149f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Spring Co-Op - Communications - Williamsport, PA](https://jobright.ai/jobs/info/68b5cf01bc187f64e1be84a4?utm_campaign=1065&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
@@ -68,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Communications/Digital Media/Public Relations/Marketing](https://jobright.ai/jobs/info/68b5aec9f4e41a61efd90cc8?utm_campaign=1065&utm_source=git)** | Rosemead, CA | Hybrid | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Michigan](https://jobright.ai/jobs/info/68b5ae4df4e41a61efd90bfd?utm_campaign=1065&utm_source=git)** | Portage, Michigan | On Site | Sep 01 |
 | **[Groflex AI](https://groflex.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5adc21ade4306aa642cf6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
-| **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68b5a4361ade4306aa642aad?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Sep 01 |
 | **[Southern California Edison (SCE)](https://www.sce.com)** | **[2026 Summer Internship - Communications/Digital Media/Public Relations/Marketing](https://jobright.ai/jobs/info/68b5a29dbc187f64e1be7a02?utm_campaign=1065&utm_source=git)** | Pomona, CA | Hybrid | Sep 01 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a1daf4e41a61efd909d0?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Minnesota](https://jobright.ai/jobs/info/68b59dc5f4e41a61efd90806?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Sep 01 |
@@ -107,7 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54ea51ade4306aa6415c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Spring Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b54b501ade4306aa64128c?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
 | ↳ | **[2026 Fall Co-Op - Communications - Hunt Valley, MD](https://jobright.ai/jobs/info/68b54af91ade4306aa6411dc?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
-| ↳ | **[2026 Internship - eCommerce Business Analyst](https://jobright.ai/jobs/info/68b549adbc187f64e1be5f77?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b54a051ade4306aa640fd5?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Internship - eCommerce Business Analyst](https://jobright.ai/jobs/info/68b549adbc187f64e1be5f77?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern- Product Marketing- Fort Worth, TX](https://jobright.ai/jobs/info/68b549331ade4306aa640ebc?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
 | ↳ | **[2026 Communications Intern](https://jobright.ai/jobs/info/68b54668f4e41a61efd8ee4f?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Product Marketing CO-OP - REQ # 1318](https://jobright.ai/jobs/info/68a3d56a37d3cc6b0d57a08a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Sep 01 |
@@ -116,8 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Communications Associate](https://jobright.ai/jobs/info/68b544d21ade4306aa640e2c?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Marketing (Able - Mesa, AZ)](https://jobright.ai/jobs/info/68b544cebc187f64e1be5e71?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Internal Communications - Fort Worth, TX](https://jobright.ai/jobs/info/68b542eabc187f64e1be5da8?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b540ecf4e41a61efd8ed42?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
-| **[Textron](http://textron.com)** | **[2026 Fall Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b53fb4f4e41a61efd8ec81?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Aug 31 |
+| ↳ | **[2026 Fall Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b53fb4f4e41a61efd8ec81?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b53968bc187f64e1be5bd6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Texas](https://jobright.ai/jobs/info/68b5307e1ade4306aa640ae7?utm_campaign=1065&utm_source=git)** | Flower Mound, Texas | On Site | Aug 31 |
 | ↳ | **[2026 Summer Intern - Marketing - Illinois](https://jobright.ai/jobs/info/68b5300ebc187f64e1be5aa2?utm_campaign=1065&utm_source=git)** | Cary, Illinois | On Site | Aug 31 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68b519aaf4e41a61efd8de8b?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 31 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b468b31ade4306aa63e52e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 31 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68b468621ade4306aa63e50c?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Aug 31 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68b468481ade4306aa63e500?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Aug 31 |
-| **[Revo Consulting](https://revo-consulting.com/)** | **[Sales Intern Digital Marketing](https://jobright.ai/jobs/info/68b59917f4e41a61efd9067c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
-| **[Beemly](https://beemlyai.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b597651ade4306aa64266e?utm_campaign=1065&utm_source=git)** | Jacksonville Beach, FL | On Site | Aug 31 |
-| **[The One Brand Management](https://www.linkedin.com/company/102595958)** | **[Fall Intern - Sports and Talent Marketing](https://jobright.ai/jobs/info/68b462c7f4e41a61efd8c375?utm_campaign=1065&utm_source=git)** | Metro Detroit, MI | Remote | Aug 31 |
-| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c561eb60544c52d762dcdd?utm_campaign=1065&utm_source=git)** | Pasadena, CA | On Site | Aug 31 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68b5125a1ade4306aa63f773?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Aug 31 |
-| **[The Wellness Shift](www.thewellnessshiftco.com)** | **[Digital Marketing & Growth Intern](https://jobright.ai/jobs/info/68b59943f4e41a61efd906c8?utm_campaign=1065&utm_source=git)** | Ashburn, VA | On Site | Aug 31 |
-| **[MathWorks](http://www.mathworks.com)** | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Aug 31 |
-| **[MathWorks](http://www.mathworks.com)** | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
