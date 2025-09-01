@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UBS](https://www.ubs.com)** | **[2026 Summer Internship – Communications & Branding](https://jobright.ai/jobs/info/68b4de1cbc187f64e1be3c69?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
+| ↳ | **[2026 Summer Internship - Brand Activation, Sponsorships and Events](https://jobright.ai/jobs/info/68b4ddc6bc187f64e1be3c59?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68b4c9761ade4306aa63eba7?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
 | **[Bmore Studio](https://www.bmore.studio/)** | **[TikTok Live Scout – Social Media Role for Creators](https://jobright.ai/jobs/info/68b4bcfe1ade4306aa63eb66?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Aug 31 |
 | **[NetJets](https://www.netjets.com/)** | **[Communications Intern (NJUS)](https://jobright.ai/jobs/info/68b4b34e1ade4306aa63eaf4?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 31 |
 | **[Trending Society](https://trendingsociety.com)** | **[Digital Marketing & TikTok Growth Intern](https://jobright.ai/jobs/info/68b4a5821ade4306aa63ea16?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Aug 31 |
 | **[Orang Utan Republik Foundation](https://www.orangutanrepublik.org/)** | **[Volunteer: Google Ads Grant Assistance (Internship or volunteer)](https://jobright.ai/jobs/info/68b4a2551ade4306aa63e9e9?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Aug 31 |
 | **[RAAS](https://raastheglobaldesi.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68b489f8f4e41a61efd8c6f0?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 31 |
 | **[Rentah](http://www.rentah.com/)** | **[Social Media Influencer Internship](https://jobright.ai/jobs/info/68b482661ade4306aa63e7be?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 31 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68b476021ade4306aa63e73d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68b47319f4e41a61efd8c5b1?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Aug 31 |
-| **[DataInsta](www.datainsta.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b4702fbc187f64e1be3676?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b47023f4e41a61efd8c595?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b47023f4e41a61efd8c595?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b469d0bc187f64e1be34fa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68b46984f4e41a61efd8c3f7?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 31 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b468b31ade4306aa63e52e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 31 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Caterpillar Inc.](https://www.linkedin.com/company/44121827)** | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/68b21faff4e41a61efd825ec?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Aug 29 |
 | ↳ | **[2026 Summer Corporate Intern - Communications](https://jobright.ai/jobs/info/68b21d6f1ade4306aa63480c?utm_campaign=1065&utm_source=git)** | Peoria, Illinois | On Site | Aug 29 |
 | **[High Point University](http://www.highpoint.edu/)** | **[Office of Communications - Social Media Ambassador](https://jobright.ai/jobs/info/68b21d39bc187f64e1bd9683?utm_campaign=1065&utm_source=git)** | High Point University | On Site | Aug 29 |
+| **[Perpay Inc.](http://www.perpay.com)** | **[Merchandising Internship, Marketplace - 2026](https://jobright.ai/jobs/info/68a7c4afd627244576e2eb24?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Aug 29 |
 | **[SoftInWay Inc.](http://www.softinway.com/en/)** | **[Digital Marketing Trainee](https://jobright.ai/jobs/info/68b21512bc187f64e1bd93b3?utm_campaign=1065&utm_source=git)** | Burlington, MA | On Site | Aug 29 |
 | **[Motom](https://www.motom.me)** | **[Affiliate & Influencer Marketing Intern (Paid)](https://jobright.ai/jobs/info/68b21471bc187f64e1bd9348?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Aug 29 |
 | **[Freeman, Healey, & Jensen Industrial Team](https://www.ipgcre.com)** | **[Commercial Real Estate Intern](https://jobright.ai/jobs/info/68b27240bc187f64e1bdb800?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Aug 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Liberate Legal, PLLC](www.liberatelegal.com)** | **[Unpaid Legal/Marketing Intern](https://jobright.ai/jobs/info/68b2f98af4e41a61efd886a0?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Aug 29 |
 | **[ASM Global](https://asmglobal.com/)** | **[Premium Suites Intern at AT&T Stadium](https://jobright.ai/jobs/info/68b206c0bc187f64e1bd8d4e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Aug 29 |
 | **[Landmark Properties, Inc.](http://landmark-properties.com)** | **[Development Marketing Intern](https://jobright.ai/jobs/info/68b2064bbc187f64e1bd8ce5?utm_campaign=1065&utm_source=git)** | Tennessee, United States | On Site | Aug 29 |
-| **[Toledo Walleye](http://www.toledowalleye.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68b205cef4e41a61efd81b80?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Aug 29 |
-| **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Product Marketing CO-OP - REQ # 1318](https://jobright.ai/jobs/info/68a3d56a37d3cc6b0d57a08a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Aug 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
