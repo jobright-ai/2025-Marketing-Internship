@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[America Connected](http://americaconnected.org)** | **[Marketing and Fundraising Intern](https://jobright.ai/jobs/info/68b5d92df4e41a61efd9160a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Paidwork](https://www.paidwork.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5d14df4e41a61efd9149f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
+| **[Textron](http://textron.com)** | **[2026 Spring Co-Op - Communications - Williamsport, PA](https://jobright.ai/jobs/info/68b5cf01bc187f64e1be84a4?utm_campaign=1065&utm_source=git)** | Williamsport, PA | Hybrid | Sep 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Employee Communications & Public Relations Intern](https://jobright.ai/jobs/info/68b5c9aa1ade4306aa643486?utm_campaign=1065&utm_source=git)** | GA - Atlanta, 2605 Circle 75 Pkwy SE | On Site | Sep 01 |
+| ↳ | **[Employee Communications & Public Relations Intern](https://jobright.ai/jobs/info/68b5c98f1ade4306aa64347f?utm_campaign=1065&utm_source=git)** | MI - Plymouth, 41112 Concept Dr | On Site | Sep 01 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media Marketing and Graphic Design Intern (100% WFH)](https://jobright.ai/jobs/info/68b5baa2f4e41a61efd91123?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Label Operations & Publishing Intern - Fall '25](https://jobright.ai/jobs/info/68b5b9c01ade4306aa6430c1?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 01 |
 | **[The School of Gifted Minds](www.theschoolofgiftedminds.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/68b5b227f4e41a61efd90d87?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Sep 01 |
@@ -102,8 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b54ea51ade4306aa6415c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Spring Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b54b501ade4306aa64128c?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
 | ↳ | **[2026 Fall Co-Op - Communications - Hunt Valley, MD](https://jobright.ai/jobs/info/68b54af91ade4306aa6411dc?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Sep 01 |
-| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b54a051ade4306aa640fd5?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[Textron](http://textron.com)** | **[2026 Internship - eCommerce Business Analyst](https://jobright.ai/jobs/info/68b549adbc187f64e1be5f77?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
+| ↳ | **[2026 Internship - eCommerce Business Analyst](https://jobright.ai/jobs/info/68b549adbc187f64e1be5f77?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern- Product Marketing- Fort Worth, TX](https://jobright.ai/jobs/info/68b549331ade4306aa640ebc?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Sep 01 |
 | ↳ | **[2026 Communications Intern](https://jobright.ai/jobs/info/68b54668f4e41a61efd8ee4f?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[Mitsubishi Electric Trane US](https://metahvac.com/)** | **[Product Marketing CO-OP - REQ # 1318](https://jobright.ai/jobs/info/68a3d56a37d3cc6b0d57a08a?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Sep 01 |
@@ -112,7 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Textron](http://textron.com)** | **[2026 Internship - Communications Associate](https://jobright.ai/jobs/info/68b544d21ade4306aa640e2c?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Sep 01 |
 | ↳ | **[2026 Internship - Marketing (Able - Mesa, AZ)](https://jobright.ai/jobs/info/68b544cebc187f64e1be5e71?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Sep 01 |
 | **[Textron](http://textron.com)** | **[2026 Summer Intern - Internal Communications - Fort Worth, TX](https://jobright.ai/jobs/info/68b542eabc187f64e1be5da8?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
-| ↳ | **[2026 Fall Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b53fb4f4e41a61efd8ec81?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Aug 31 |
+| **[Textron Specialized Vehicles](https://www.ezgo.txtsv.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b540ecf4e41a61efd8ed42?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Aug 31 |
+| **[Textron](http://textron.com)** | **[2026 Fall Co-op - Marketing Trade Shows and Events - Hunt Valley, MD](https://jobright.ai/jobs/info/68b53fb4f4e41a61efd8ec81?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Aug 31 |
 | **[Duke Energy Corporation](http://www.duke-energy.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b53968bc187f64e1be5bd6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Aug 31 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Texas](https://jobright.ai/jobs/info/68b5307e1ade4306aa640ae7?utm_campaign=1065&utm_source=git)** | Flower Mound, Texas | On Site | Aug 31 |
 | ↳ | **[2026 Summer Intern - Marketing - Illinois](https://jobright.ai/jobs/info/68b5300ebc187f64e1be5aa2?utm_campaign=1065&utm_source=git)** | Cary, Illinois | On Site | Aug 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/67dc694f7c1f02dd55798f11?utm_campaign=1065&utm_source=git)** | Edina, MN | On Site | Aug 31 |
 | **[MathWorks](http://www.mathworks.com)** | **[Duke University MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d25f?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Aug 31 |
-| **[Apx Labs](https://www.linkedin.com/company/108165115)** | **[Growth Intern](https://jobright.ai/jobs/info/68b597f01ade4306aa6426f0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 31 |
-| **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b3dab6bc187f64e1be1e51?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Aug 30 |
-| **[SYNCRATIK](http://www.syncratik.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68b4461abc187f64e1be3263?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Aug 30 |
-| **[Clove](http://www.goclove.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68b3aa6bbc187f64e1be0779?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Aug 30 |
-| **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68b39c821ade4306aa63b65a?utm_campaign=1065&utm_source=git)** | Rocky Hill, None, US | On Site | Aug 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
