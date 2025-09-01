@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lionchase North America](https://www.lionchase.com/)** | **[Investor Relations / External Relations](https://jobright.ai/jobs/info/68b61428f4e41a61efd91cba?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Marketing Research and Data Analysis Intern](https://jobright.ai/jobs/info/68b6099e1ade4306aa643c94?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Sep 01 |
+| **[REAP Financial](https://reapfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b6076af4e41a61efd91bc0?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Sep 01 |
+| **[Nemacolin](http://www.nemacolin.com)** | **[Marketing/PR Internship - Summer 2026](https://jobright.ai/jobs/info/68b6073abc187f64e1be8bb0?utm_campaign=1065&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
+| **[Starteryou](starteryou.com)** | **[Content Writer Intern](https://jobright.ai/jobs/info/68b602b51ade4306aa643bc2?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Raveival](https://www.raveival.com/)** | **[Social Media/Marketing Intern](https://jobright.ai/jobs/info/68b5f9a0f4e41a61efd91a51?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Future Tech Leaders](https://futuretechleader.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5f76e1ade4306aa643a58?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
+| **[Floza](https://flozaapp.com)** | **[Marketing Intern (Unpaid, Potential Full-Time)](https://jobright.ai/jobs/info/68b6144bf4e41a61efd91cc3?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Campus & Influencer Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68b5f3e91ade4306aa643a00?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[HealthLinks Marketing](https://hhkmarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5f08f1ade4306aa6439b4?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Sep 01 |
 | **[Aerie by AEO, Inc.](https://www.aerie.com)** | **[Merchandising Internship Program - Summer 2026 (New York, NY)](https://jobright.ai/jobs/info/68b5ef36bc187f64e1be88e8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RAAS](https://raastheglobaldesi.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68b489f8f4e41a61efd8c6f0?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Aug 31 |
 | **[Rentah](http://www.rentah.com/)** | **[Social Media Influencer Internship](https://jobright.ai/jobs/info/68b482661ade4306aa63e7be?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68b47319f4e41a61efd8c5b1?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Aug 31 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b47023f4e41a61efd8c595?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Aug 31 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b469d0bc187f64e1be34fa?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Aug 31 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68b46984f4e41a61efd8c3f7?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Aug 31 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/68b519aaf4e41a61efd8de8b?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Aug 31 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68b468b31ade4306aa63e52e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 31 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68b468621ade4306aa63e50c?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Aug 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
