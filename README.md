@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Product Strategy](https://jobright.ai/jobs/info/68b6a7b2bc187f64e1beb089?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[International Franchise and Marketing Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0121ade4306aa645ed9?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
 | ↳ | **[Yellow Shoes Programming, Synergy & Partnership Marketing Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68b69f9f1ade4306aa645e3f?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Network Planning/UAX (Summer 2026)](https://jobright.ai/jobs/info/68b69c601ade4306aa645c77?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
@@ -101,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[REAP Financial](https://reapfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b6076af4e41a61efd91bc0?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Marketing/PR Internship - Summer 2026](https://jobright.ai/jobs/info/68b6073abc187f64e1be8bb0?utm_campaign=1065&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Player Relations & Community Engagement](https://jobright.ai/jobs/info/68b65bf5f4e41a61efd924fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
-| **[Raveival](https://www.raveival.com/)** | **[Social Media/Marketing Intern](https://jobright.ai/jobs/info/68b5f9a0f4e41a61efd91a51?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Future Tech Leaders](https://futuretechleader.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5f76e1ade4306aa643a58?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Sep 01 |
 | **[Perpay Inc.](http://www.perpay.com)** | **[Merchandising Internship, Marketplace - 2026](https://jobright.ai/jobs/info/68a7c4afd627244576e2eb24?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 01 |
 | **[Floza](https://flozaapp.com)** | **[Marketing Intern (Unpaid, Potential Full-Time)](https://jobright.ai/jobs/info/68b6144bf4e41a61efd91cc3?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b55939f4e41a61efd8f767?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b558cb1ade4306aa641821?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | ↳ | **[2026 Communications Intern](https://jobright.ai/jobs/info/68b558b5f4e41a61efd8f747?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b555451ade4306aa6417d5?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 01 |
-| ↳ | **[Category Manager Graduate (TikTok Shop - Home, Luxury Resale & Collectibles) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b5503df4e41a61efd8f5da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Home, Luxury Resale & Collectibles) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b5503df4e41a61efd8f5da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Arizona](https://jobright.ai/jobs/info/68b550221ade4306aa64165a?utm_campaign=1065&utm_source=git)** | Tempe, Arizona | On Site | Sep 01 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
