@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern / Westchester County](https://jobright.ai/jobs/info/68b6d9362124650c1401e0ac?utm_campaign=1065&utm_source=git)** | Yonkers, NY | On Site | Sep 02 |
+| **[Phoenix Suns](https://suns.nba.com)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/68b6cef32124650c1401dfff?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
+| **[Black X Marketing](https://blackxmarketing.com)** | **[Social Media Unpaid Internship](https://jobright.ai/jobs/info/68b6c2712124650c1401df54?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | Sep 02 |
 | **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Product Strategy](https://jobright.ai/jobs/info/68b6a7b2bc187f64e1beb089?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Sep 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[International Franchise and Marketing Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68b6a0121ade4306aa645ed9?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
 | ↳ | **[Yellow Shoes Programming, Synergy & Partnership Marketing Intern, Glendale, Spring 2026](https://jobright.ai/jobs/info/68b69f9f1ade4306aa645e3f?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 02 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Network Planning/UAX (Summer 2026)](https://jobright.ai/jobs/info/68b69c601ade4306aa645c77?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 02 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68b69c0bbc187f64e1beac31?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Sep 02 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68b698c7bc187f64e1beac04?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Sep 02 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Product Marketing](https://jobright.ai/jobs/info/68b69826bc187f64e1beabd8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 02 |
 | **[HII](https://hii.com)** | **[CORPORATE COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/68b6942ebc187f64e1beab13?utm_campaign=1065&utm_source=git)** | Newport News, VA | On Site | Sep 01 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68b693d7f4e41a61efd93aac?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Sep 01 |
 | **[Guardian Life](http://www.guardianlife.com/)** | **[2026 Guardian Summer Intern, Group Marketing](https://jobright.ai/jobs/info/68b68f251ade4306aa645a4a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 01 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68b68efabc187f64e1beaa3b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Yellow Shoes Creative Copywriting Intern, Spring 2026](https://jobright.ai/jobs/info/68b68462f4e41a61efd93899?utm_campaign=1065&utm_source=git)** | Celebration, FL, USA | Hybrid | Sep 01 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Burbrella](https://www.burbrella.org)** | **[Donor & Public Relations Intern](https://jobright.ai/jobs/info/68b624461ade4306aa643e3b?utm_campaign=1065&utm_source=git)** | Burlington, NC | Hybrid | Sep 01 |
 | **[Balance Now](https://www.balance.ca)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/68b619cf1ade4306aa643d7d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Sep 01 |
 | **[Lionchase North America](https://www.lionchase.com/)** | **[Investor Relations / External Relations](https://jobright.ai/jobs/info/68b61428f4e41a61efd91cba?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
-| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68b65e03bc187f64e1be9571?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 01 |
 | **[REAP Financial](https://reapfinancial.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b6076af4e41a61efd91bc0?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Sep 01 |
 | **[Nemacolin](http://www.nemacolin.com)** | **[Marketing/PR Internship - Summer 2026](https://jobright.ai/jobs/info/68b6073abc187f64e1be8bb0?utm_campaign=1065&utm_source=git)** | Farmington, PA | On Site | Sep 01 |
 | **[Hoop Brothers](https://hoopbrothers.com/)** | **[Hoop Brothers Internship – Player Relations & Community Engagement](https://jobright.ai/jobs/info/68b65bf5f4e41a61efd924fe?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[MeaVana ](https://meavana.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68b672d1bc187f64e1bea085?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Michigan](https://jobright.ai/jobs/info/68b5ae4df4e41a61efd90bfd?utm_campaign=1065&utm_source=git)** | Portage, Michigan | On Site | Sep 01 |
-| **[Groflex AI](https://groflex.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b5adc21ade4306aa642cf6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a1daf4e41a61efd909d0?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Minnesota](https://jobright.ai/jobs/info/68b59dc5f4e41a61efd90806?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Marketing - Illinois](https://jobright.ai/jobs/info/68b59da0f4e41a61efd907f7?utm_campaign=1065&utm_source=git)** | Cary, IL | On Site | Sep 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Communications Intern](https://jobright.ai/jobs/info/68b558b5f4e41a61efd8f747?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Home, Luxury Resale & Collectibles) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b5503df4e41a61efd8f5da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Arizona](https://jobright.ai/jobs/info/68b550221ade4306aa64165a?utm_campaign=1065&utm_source=git)** | Tempe, Arizona | On Site | Sep 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b55001f4e41a61efd8f5c6?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
