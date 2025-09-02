@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern / Westchester County](https://jobright.ai/jobs/info/68b6d9362124650c1401e0ac?utm_campaign=1065&utm_source=git)** | Yonkers, NY | On Site | Sep 02 |
+| **[Grande Cheese Company](https://www.grande.com/)** | **[CIG Marketing & Sales Support Intern](https://jobright.ai/jobs/info/689a41cbfaa4e875e8257171?utm_campaign=1065&utm_source=git)** | Fond du Lac, WI | On Site | Sep 02 |
+| **[Cardinal Health](https://www.cardinalhealth.com)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/68b6f0ac1ade4306aa646b84?utm_campaign=1065&utm_source=git)** | OH-Dublin-Cardinal Place | On Site | Sep 02 |
+| **[Post Consumer Brands](https://postconsumerbrands.com)** | **[Brand Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68b6ee622124650c1401e6fe?utm_campaign=1065&utm_source=git)** | Lakeville, MN | On Site | Sep 02 |
+| ↳ | **[Insights & Analytics Intern (Summer 2026)](https://jobright.ai/jobs/info/68b6ed4bf4e41a61efd949b6?utm_campaign=1065&utm_source=git)** | Lakeville, MN | Hybrid | Sep 02 |
+| **[Career Sprint](https://www.linkedin.com/company/86198890)** | **[Marketing Research and Data Analysis Intern](https://jobright.ai/jobs/info/68b6ea731ade4306aa64698a?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Sep 02 |
+| **[Stéphen House Creative](http://stephenhousecreative.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b6e50e1ade4306aa646812?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Sep 02 |
+| **[Learnrithm AI](https://learnrithm.com/)** | **[Influencer marketing intern](https://jobright.ai/jobs/info/68b6e0cb2124650c1401e2e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Enterprise](https://www.enterprise.com)** | **[Fall 2025 Management Trainee Intern / Bronx](https://jobright.ai/jobs/info/68b6dc451ade4306aa6465ae?utm_campaign=1065&utm_source=git)** | Bronx, NY | On Site | Sep 02 |
+| ↳ | **[Fall 2025 Management Trainee Intern / Westchester County](https://jobright.ai/jobs/info/68b6d9362124650c1401e0ac?utm_campaign=1065&utm_source=git)** | Yonkers, NY | On Site | Sep 02 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Digital Experience Intern](https://jobright.ai/jobs/info/68b6cef32124650c1401dfff?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 02 |
 | **[Black X Marketing](https://blackxmarketing.com)** | **[Social Media Unpaid Internship](https://jobright.ai/jobs/info/68b6c2712124650c1401df54?utm_campaign=1065&utm_source=git)** | SD Metro Area | Remote | Sep 02 |
 | **[Ameritas](http://www.ameritas.com)** | **[Marketing Intern - Product Strategy](https://jobright.ai/jobs/info/68b6a7b2bc187f64e1beb089?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Sep 02 |
@@ -93,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Merchandising Internship Program - Summer 2026 (Pittsburgh, PA)](https://jobright.ai/jobs/info/68b63ecebc187f64e1be909c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Sep 01 |
 | **[Heidelberg Materials UK](https://www.heidelbergmaterials.co.uk)** | **[Digital Growth Intern](https://jobright.ai/jobs/info/68b63e861ade4306aa644177?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Sep 01 |
 | **[Carver Road Hospitality](https://carverroad.com/)** | **[Events and Marketing Intern](https://jobright.ai/jobs/info/68b63e3d1ade4306aa644152?utm_campaign=1065&utm_source=git)** | Everett, MA, USA | On Site | Sep 01 |
-| **[Headlamp Health](https://www.headlamp.com/)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/68b668871ade4306aa644d07?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[TripBFF](tripbff.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68b65b1e1ade4306aa6444d1?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Comcast](https://corporate.comcast.com)** | **[Employee Communications & Public Relations Intern](https://jobright.ai/jobs/info/68b62a6bbc187f64e1be8f29?utm_campaign=1065&utm_source=git)** | Plymouth, MI | On Site | Sep 01 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator](https://jobright.ai/jobs/info/68b62a31bc187f64e1be8efd?utm_campaign=1065&utm_source=git)** | Cheshire, CT | On Site | Sep 01 |
@@ -129,8 +136,7 @@ For a complete list, click the following sortable link below:
 | **[MeaVana ](https://meavana.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68b672d1bc187f64e1bea085?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 01 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Search Engine Marketing Intern](https://jobright.ai/jobs/info/65077c75c5d6d59a6ff93e23?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Sep 01 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Michigan](https://jobright.ai/jobs/info/68b5ae4df4e41a61efd90bfd?utm_campaign=1065&utm_source=git)** | Portage, Michigan | On Site | Sep 01 |
-| **[Ocean Spire](https://www.linkedin.com/company/99882613)** | **[Communications Intern](https://jobright.ai/jobs/info/68b5a1daf4e41a61efd909d0?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Sep 01 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Minnesota](https://jobright.ai/jobs/info/68b59dc5f4e41a61efd90806?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Sep 01 |
+| ↳ | **[2026 Summer Intern - Marketing - Minnesota](https://jobright.ai/jobs/info/68b59dc5f4e41a61efd90806?utm_campaign=1065&utm_source=git)** | Bloomington, MN | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Marketing - Illinois](https://jobright.ai/jobs/info/68b59da0f4e41a61efd907f7?utm_campaign=1065&utm_source=git)** | Cary, IL | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Marketing - Texas](https://jobright.ai/jobs/info/68b59b9a1ade4306aa642814?utm_campaign=1065&utm_source=git)** | Flower Mound, TX | On Site | Sep 01 |
 | ↳ | **[2026 Summer Intern - Marketing - California](https://jobright.ai/jobs/info/68b59b04bc187f64e1be7787?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Sep 01 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dharmakit Networks](https://dharmakit.com)** | **[Digital Marketing Internship Opportunity](https://jobright.ai/jobs/info/68b6812b1ade4306aa645718?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Marketing: MBA Internship Opportunities](https://jobright.ai/jobs/info/68b55bc2bc187f64e1be681c?utm_campaign=1065&utm_source=git)** | Redmond, Washington, United States | On Site | Sep 01 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern (Part Time)](https://jobright.ai/jobs/info/68b55abcbc187f64e1be6801?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Sep 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Mass Acquisition & Incubation) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b55954bc187f64e1be67a3?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
-| ↳ | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b55939f4e41a61efd8f767?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Sep 01 |
-| **[Textron GSE](https://textrongse.txtsv.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/68b558cb1ade4306aa641821?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| ↳ | **[2026 Communications Intern](https://jobright.ai/jobs/info/68b558b5f4e41a61efd8f747?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Sep 01 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Home, Luxury Resale & Collectibles) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b5503df4e41a61efd8f5da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 01 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Arizona](https://jobright.ai/jobs/info/68b550221ade4306aa64165a?utm_campaign=1065&utm_source=git)** | Tempe, Arizona | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
