@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMC Networks](http://amcnetworks.com)** | **[Co - Op - Corporate Communications](https://jobright.ai/jobs/info/68b96d718043103d4f217501?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 04 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Communications Intern
 Job ID : 263011](https://jobright.ai/jobs/info/68b9603e7b787c4522cf9e6d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Sep 04 |
 | **[Maryland Oncology Hematology](https://marylandoncology.com/)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/68b94a295b42bc456282ca7e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 04 |
@@ -157,5 +158,4 @@ Job ID : 263011](https://jobright.ai/jobs/info/68b9603e7b787c4522cf9e6d?utm_camp
 | **[Wishes & More](http://www.wishesandmore.org)** | **[Volunteer: Intern - Event Fundraising](https://jobright.ai/jobs/info/68b896c107090163b6ba3274?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Sep 03 |
 | **[Creatza](https://www.linkedin.com/company/96201222)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68b895b107090163b6ba3116?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall Digital Marketing Internship](https://jobright.ai/jobs/info/68b894f7ea901c0d269f7a61?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 03 |
-| **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/68b89439ea901c0d269f7977?utm_campaign=1065&utm_source=git)** | Martin, TN | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
