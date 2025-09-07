@@ -57,19 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Marketing Student Experience](https://jobright.ai/jobs/info/68bcc1553bf9eb44f83247b2?utm_campaign=1065&utm_source=git)** | West Fargo, ND | On Site | Sep 06 |
+| **[Orang Utan Republik Foundation](https://www.orangutanrepublik.org/)** | **[Google Ads Grant Assistance (Internship or volunteer)](https://jobright.ai/jobs/info/68bce61f3bf9eb44f8324acd?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Sep 06 |
+| **[American Red Cross of Northern New England](http://redcross.org/nne)** | **[Communication Intern Opportunity! - Androscoggin County, ME](https://jobright.ai/jobs/info/68bce417ae79610dacddc551?utm_campaign=1065&utm_source=git)** | Lewiston, ME | Remote | Sep 06 |
+| ↳ | **[Communication Intern Opportunity! - Penobscot County, ME](https://jobright.ai/jobs/info/68bce396ae79610dacddc4fa?utm_campaign=1065&utm_source=git)** | Bangor, ME | Remote | Sep 06 |
+| ↳ | **[Communication Intern Opportunity! - Cumberland County, ME](https://jobright.ai/jobs/info/68bce341ae79610dacddc4c2?utm_campaign=1065&utm_source=git)** | Portland, ME | Remote | Sep 06 |
+| ↳ | **[Communication Intern Opportunity! - Kennebec County, ME](https://jobright.ai/jobs/info/68bce2fcae79610dacddc495?utm_campaign=1065&utm_source=git)** | Augusta, ME | On Site | Sep 06 |
+| **[The Arc of San Diego](http://www.arc-sd.com/jobs)** | **[Marketing & Fundraising Intern for Fall 2025!](https://jobright.ai/jobs/info/68bce2d7ae79610dacddc484?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
+| **[WAGMI-Connect](https://www.eventbrite.com/o/wagmi-connect-106202009341)** | **[Content Data Associate Intern](https://jobright.ai/jobs/info/68bce1c268300c452ca16398?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Southern California Drone Film Festival](https://socaldronefilmfestival.com/)** | **[Marketing/PR/Event Planning Intern](https://jobright.ai/jobs/info/68bcbd85ae79610dacddc14d?utm_campaign=1065&utm_source=git)** | Fullerton, CA | Hybrid | Sep 06 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68bcaf06ae79610dacddc08c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 06 |
 | **[UltraSoC](https://www.tessentembeddedanalytics.com)** | **[Strategic Student Program: Technical Marketing Co-op (Spring 2026)](https://jobright.ai/jobs/info/68bcacf468300c452ca15fb0?utm_campaign=1065&utm_source=git)** | Milford, OH | On Site | Sep 06 |
-| **[WAGMI-Connect](https://www.eventbrite.com/o/wagmi-connect-106202009341)** | **[Social Media Intern (Meme & Culture)](https://jobright.ai/jobs/info/68bcac5f68300c452ca15f92?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68bcc858ae79610dacddc1dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
+| **[Page closed](http://www.doosanbobcat.com/)** | **[2026 Marketing Student Experience](https://jobright.ai/jobs/info/68bcc1553bf9eb44f83247b2?utm_campaign=1065&utm_source=git)** | West Fargo, ND | On Site | Sep 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68bc8d0c3bf9eb44f83243ba?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 06 |
-| **[ChiChi](https://chickpeaoats.com)** | **[TikTok Content Strategist](https://jobright.ai/jobs/info/68bc845cae79610dacddbcde?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Bobcat Company](https://www.bobcat.com)** | **[2026 Marketing Student Experience](https://jobright.ai/jobs/info/68bc841268300c452ca15c06?utm_campaign=1065&utm_source=git)** | West Fargo, ND | On Site | Sep 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/68bc7f4e68300c452ca15aeb?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Sep 06 |
-| **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68bc7bcaae79610dacddbb62?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
-| **[Paidwork](https://www.paidwork.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bc77953bf9eb44f8324128?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
-| **[LexTrack AI](https://www.LexTrackAI.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bc76df68300c452ca15a2b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
 | **[Jobs via eFinancialCareers](http://www.efinancialcareers.com/)** | **[2026 Summer Intern - Client Solutions & Analytics Analyst, US - PIMCO](https://jobright.ai/jobs/info/68bc6f5668300c452ca15949?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | On Site | Sep 06 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68bc67dc68300c452ca15881?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 06 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68bc67ae68300c452ca1586a?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Sep 06 |
@@ -146,6 +147,7 @@ Job ID : 263835](https://jobright.ai/jobs/info/68bc00458043103d4f22de01?utm_camp
 | **[POET](http://www.poet.com)** | **[Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68bb740e5f3832749186f42b?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Sep 05 |
 | **[Avocado Green Brands](https://www.avocadogreenmattress.com/)** | **[Intern (Marketing)](https://jobright.ai/jobs/info/68bb731b8043103d4f2289af?utm_campaign=1065&utm_source=git)** | Orange County, CA | On Site | Sep 05 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Digital Marketing Graduate Assistant](https://jobright.ai/jobs/info/68bb722c5f3832749186f360?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 05 |
+| **[Next Target](https://wearenexttarget.com/)** | **[Sales and Marketing Intern (Paid)](https://jobright.ai/jobs/info/68b2cd3cf4e41a61efd88066?utm_campaign=1065&utm_source=git)** | East Los Angeles, CA | On Site | Sep 05 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Communications (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb714a6105227d118a5fcb?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 05 |
 | ↳ | **[2026 Summer Internship - Communications (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb710d6105227d118a5f94?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 05 |
 | **[Henkel](http://www.henkel.com)** | **[Marketing Excellence Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68bb70af5f3832749186f242?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 05 |
@@ -156,6 +158,4 @@ Job ID : 263835](https://jobright.ai/jobs/info/68bc00458043103d4f22de01?utm_camp
 | **[GreatAmerica Financial Services](http://www.greatamerica.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bb69d98043103d4f2286f8?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | Hybrid | Sep 05 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[Digital Marketing Graduate Assistant](https://jobright.ai/jobs/info/68bb69426105227d118a5cb1?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Sep 05 |
 | **[Golin London](https://golin.com/emea/)** | **[PR Graduate Internship](https://jobright.ai/jobs/info/68bb68df8043103d4f2285d9?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 05 |
-| **[Nu Skin](http://www.nuskin.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68bb68665f3832749186ee6e?utm_campaign=1065&utm_source=git)** | Provo, Utah | Hybrid | Sep 05 |
-| **[MINA BAIE](https://minabaie.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68bb67a26105227d118a5bd0?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
