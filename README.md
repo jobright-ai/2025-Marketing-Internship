@@ -57,19 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tangify](https://www.tangify.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/68be14f5e57feb02eb0aca27?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Gaming Community Engagement](https://jobright.ai/jobs/info/68be142fe57feb02eb0aca0d?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Sep 07 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Marketing & Communications Internship](https://jobright.ai/jobs/info/68bdf02fe57feb02eb0ac7c5?utm_campaign=1065&utm_source=git)** | Ada, OK | On Site | Sep 07 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68bde548e57feb02eb0ac72d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Bosmos](www.bosmos.org)** | **[Growth Marketer Interns](https://jobright.ai/jobs/info/68bdcf3cdf5eec448f63d5a5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[SoFi](https://www.sofi.com)** | **[Graduate Student Brand Ambassador](https://jobright.ai/jobs/info/68bdcae2e57feb02eb0ac516?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Winter Motive](https://www.linkedin.com/company/104850583)** | **[Communications Intern](https://jobright.ai/jobs/info/68bdca50e57feb02eb0ac4f1?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 07 |
 | **[Moondust Productions LLC](https://moondustproductions5.wordpress.com)** | **[Marketing Volunteer/Intern at Publishing House](https://jobright.ai/jobs/info/68bdc3dae57feb02eb0ac4b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
-| **[RAAS](https://raastheglobaldesi.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68bdc24bc4c5904ff600420a?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Sep 07 |
 | **[Stellar](http://stellarindustries.com)** | **[Sales & Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68bdbfabe57feb02eb0ac445?utm_campaign=1065&utm_source=git)** | Garner, IA | On Site | Sep 07 |
 | **[Nur](nurprotein.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68bdb872e57feb02eb0ac396?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 07 |
 | **[Envision Executives](https://www.envisionexecutives.com/)** | **[Full Time Marketing Intern](https://jobright.ai/jobs/info/68bda626c4c5904ff6003fec?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Sep 07 |
 | **[Farm Generations Cooperative](https://www.farmgenerations.coop/)** | **[Social media and commuications intern](https://jobright.ai/jobs/info/68bda616c4c5904ff6003fe8?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Sep 07 |
 | **[TripBFF](tripbff.com)** | **[Content Creation Intern (Paid)](https://jobright.ai/jobs/info/68bd9faddf5eec448f63d213?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68bd9c3bdf5eec448f63d1c8?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Sep 07 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a2f06c9231327cd8122?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 07 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Market Research Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/68bd8d45e57feb02eb0abf76?utm_campaign=1065&utm_source=git)** | Noble County, OK | On Site | Sep 07 |
 | ↳ | **[Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68bd8d1fdf5eec448f63cfab?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Sep 07 |
 | ↳ | **[Commercial Marketing Intern (Golf/Sports Fields & Grounds) - The Toro Company](https://jobright.ai/jobs/info/68bd8cc7e57feb02eb0abf4e?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Sep 07 |
@@ -111,7 +113,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcd93bf9eb44f8325887?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcc93bf9eb44f8325857?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcb368300c452ca17206?utm_campaign=1065&utm_source=git)** | Durham, NH | On Site | Sep 06 |
+| ↳ | **[Public Relations/Marketing Program](https://jobright.ai/jobs/info/68bcfcae3bf9eb44f8325815?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcaeae79610dacddcfdc?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Sep 06 |
+| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcad68300c452ca171ef?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc993bf9eb44f83257de?utm_campaign=1065&utm_source=git)** | West Lafayette, IN | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc953bf9eb44f83257d1?utm_campaign=1065&utm_source=git)** | Swainsboro, GA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc9468300c452ca1719e?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Sep 06 |
@@ -127,9 +131,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc6568300c452ca17125?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc61ae79610dacddcf1e?utm_campaign=1065&utm_source=git)** | Moscow, ID | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc6068300c452ca1711a?utm_campaign=1065&utm_source=git)** | Orem, UT | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Program](https://jobright.ai/jobs/info/68bcfc5868300c452ca1710d?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc56ae79610dacddcf01?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Programme](https://jobright.ai/jobs/info/68bcfc4aae79610dacddcee4?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | **[Spero f/k/a Blue Water Pregnancy Care Center](http://bluewaterbabies.org)** | **[Social Media Manager/ Intern](https://jobright.ai/jobs/info/68bcfc443bf9eb44f83256ea?utm_campaign=1065&utm_source=git)** | Port Huron, MI | On Site | Sep 06 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc40ae79610dacddcec8?utm_campaign=1065&utm_source=git)** | Bozeman, MT | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc3fae79610dacddcec0?utm_campaign=1065&utm_source=git)** | Castleton, VT | On Site | Sep 06 |
@@ -142,7 +144,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc273bf9eb44f8325693?utm_campaign=1065&utm_source=git)** | Orono, ME | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc1f3bf9eb44f832566e?utm_campaign=1065&utm_source=git)** | Spokane, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc1fae79610dacddce62?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc163bf9eb44f8325655?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc0fae79610dacddce2d?utm_campaign=1065&utm_source=git)** | Anchorage, AK | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfbfd3bf9eb44f832561a?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfbdf3bf9eb44f83255d4?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Sep 06 |
@@ -153,7 +154,6 @@ For a complete list, click the following sortable link below:
 | **[The Borgen Project](http://borgenproject.org)** | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfbbeae79610dacddcd5b?utm_campaign=1065&utm_source=git)** | Chinle, AZ | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfbb63bf9eb44f8325558?utm_campaign=1065&utm_source=git)** | Ellensburg, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfbaf3bf9eb44f8325546?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfba868300c452ca16f01?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfba568300c452ca16ef5?utm_campaign=1065&utm_source=git)** | Portland, ME | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfb9f68300c452ca16ede?utm_campaign=1065&utm_source=git)** | Murray, KY | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfb9968300c452ca16ed5?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Sep 06 |
