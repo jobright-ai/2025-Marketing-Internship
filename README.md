@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Life @ Emarsys Berlin/München](https://www.emarsys.com/de/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68beb8e6702aa35207aa012b?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Sep 08 |
+| **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Marketing Analytics Summer Intern](https://jobright.ai/jobs/info/68beb8d2702aa35207aa011a?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| ↳ | **[Marketing Summer Intern](https://jobright.ai/jobs/info/68beb8bf8e65e77df55b3eba?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Marketing](https://jobright.ai/jobs/info/68beaf8ee57feb02eb0af872?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[ALLDATA](http://www.alldata.com/)** | **[AutoZone 2026 Summer Internship – eCommerce](https://jobright.ai/jobs/info/68bea2a1c4c5904ff60073f7?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | ↳ | **[AutoZone 2026 Summer Internship – Marketing](https://jobright.ai/jobs/info/68bea1b93d31ec76b7e8b24f?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Sep 08 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Financial Services Marketing Communications Intern](https://jobright.ai/jobs/info/68b561cb1ade4306aa641980?utm_campaign=1065&utm_source=git)** | Waterford, WI | Hybrid | Sep 08 |
@@ -66,11 +70,10 @@ For a complete list, click the following sortable link below:
 | **[Zurich North America](https://www.zurichna.com)** | **[Marketing Internship (Summer 2026) - Omaha](https://jobright.ai/jobs/info/68be8801e57feb02eb0af19f?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Sep 08 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Marketing Analytics Summer Intern](https://jobright.ai/jobs/info/68be80fce57feb02eb0aefa8?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
 | ↳ | **[Marketing Summer Intern](https://jobright.ai/jobs/info/68be80d4e57feb02eb0aefa1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 08 |
+| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Marketing Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68be7e843d31ec76b7e8ac9f?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
 | **[Stealth VC Fund](https://www.linkedin.com/company/106466088)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68be7e00e57feb02eb0aef15?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68be6fef3d31ec76b7e8a7ef?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/68be6dc7e57feb02eb0ae70f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Sep 07 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Market Access Strategy (LCS)](https://jobright.ai/jobs/info/68be6c25e57feb02eb0ae63c?utm_campaign=1065&utm_source=git)** | Milwaukee, Wisconsin, United States | On Site | Sep 07 |
-| **[Blue Cross and Blue Shield of Nebraska](https://www.nebraskablue.com)** | **[Marketing Intern: Starts Summer 2026](https://jobright.ai/jobs/info/68be6912e57feb02eb0ae49e?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Sep 07 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68be656de57feb02eb0ae3e0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Market Data & Access Services Intern](https://jobright.ai/jobs/info/68be6519e57feb02eb0ae3c7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 07 |
 | ↳ | **[Marketing Intern, Retail Derivatives Product Marketing](https://jobright.ai/jobs/info/68be64cfc4c5904ff60061f7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
@@ -92,12 +95,13 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[Digital Merchandising Intern - 6 Months](https://jobright.ai/jobs/info/68be344cc4c5904ff6004a98?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 07 |
 | **[Southwire Company](http://southwire.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68be33cce57feb02eb0accf4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Sep 07 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Marketing and Communications Internship - College of Engineering](https://jobright.ai/jobs/info/688a61eb9f961617fe21b21b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Sep 07 |
+| **[Showchat](https://www.showchat.club/)** | **[Marketing Intern (remote, unpaid)](https://jobright.ai/jobs/info/68beaa4795fba9349d96514c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Gaming Community Engagement](https://jobright.ai/jobs/info/68be1fa9df5eec448f63db16?utm_campaign=1065&utm_source=git)** | Meridian, OK | On Site | Sep 07 |
 | ↳ | **[Intern - Gaming Community Engagement](https://jobright.ai/jobs/info/68be142fe57feb02eb0aca0d?utm_campaign=1065&utm_source=git)** | Meridian, ID | On Site | Sep 07 |
+| **[Heald](http://iheald.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68beab5195fba9349d9651f7?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Teens Make Health Happen Marketing & Communications Internship](https://jobright.ai/jobs/info/68bdf02fe57feb02eb0ac7c5?utm_campaign=1065&utm_source=git)** | Ada, OK | On Site | Sep 07 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68bde548e57feb02eb0ac72d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[KnoWhiz](https://knowhiz.us/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/68be688ae57feb02eb0ae3e2?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Sep 07 |
-| **[Bosmos](www.bosmos.org)** | **[Growth Marketer Interns](https://jobright.ai/jobs/info/68bdcf3cdf5eec448f63d5a5?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Moondust Productions LLC](https://moondustproductions5.wordpress.com)** | **[Marketing Volunteer/Intern at Publishing House](https://jobright.ai/jobs/info/68bdc3dae57feb02eb0ac4b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 07 |
 | **[Stellar](http://stellarindustries.com)** | **[Sales & Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68bdbfabe57feb02eb0ac445?utm_campaign=1065&utm_source=git)** | Garner, IA | On Site | Sep 07 |
 | **[Envision Executives](https://www.envisionexecutives.com/)** | **[Full Time Marketing Intern](https://jobright.ai/jobs/info/68bda626c4c5904ff6003fec?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Sep 07 |
@@ -111,6 +115,9 @@ For a complete list, click the following sortable link below:
 | **[NAMI Chicago](https://www.namichicago.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68bd7274df5eec448f63cb4f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/68bd6dc9e57feb02eb0abab1?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Sep 07 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Global Publicity Intern – Fall 2025](https://jobright.ai/jobs/info/68a0b6bf83d13d1f5b6d1489?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Sep 07 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rice University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6867ae3035584b6542e8c470?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Sep 07 |
+| **[Uline](http://www.uline.com)** | **[Web Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/689fe3cccc9ee94dc911a7d6?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 07 |
+| ↳ | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe0ddfaa4e875e828bc99?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Sep 07 |
 | **[Republic Airways](http://www.rjet.com)** | **[Corporate Communications Intern - Spring 2026](https://jobright.ai/jobs/info/689f7f35faa4e875e8288b27?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 06 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Digital PR Intern](https://jobright.ai/jobs/info/68bd0ee3ae79610dacddde1c?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA | On Site | Sep 06 |
 | **[BHALO Inc](https://bhalo.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/68be47f0e57feb02eb0ad489?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Sep 06 |
@@ -121,7 +128,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68be5885e57feb02eb0ade1d?utm_campaign=1065&utm_source=git)** | Charleston, IL | On Site | Sep 06 |
 | **[Soymas Foundation](https://soymasfoundation.org/)** | **[Marketing & Fundraising Intern](https://jobright.ai/jobs/info/68bd022b3bf9eb44f8325d08?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 06 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfe7bae79610dacddd476?utm_campaign=1065&utm_source=git)** | Monroe, LA | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfe7bae79610dacddd478?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfe72ae79610dacddd45e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfe49ae79610dacddd40c?utm_campaign=1065&utm_source=git)** | Norman, OK | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfe24ae79610dacddd3a2?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Sep 06 |
@@ -139,22 +145,16 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd353bf9eb44f832596f?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd2c68300c452ca17356?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd2a3bf9eb44f8325958?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd2a3bf9eb44f8325959?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd28ae79610dacddd11d?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd263bf9eb44f8325949?utm_campaign=1065&utm_source=git)** | Madison, NJ | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd1fae79610dacddd10f?utm_campaign=1065&utm_source=git)** | Santa Fe, NM | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd1b3bf9eb44f8325931?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd17ae79610dacddd0f5?utm_campaign=1065&utm_source=git)** | Ottawa, KS | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd113bf9eb44f8325916?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Sep 06 |
+| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfd0c68300c452ca172fd?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcffae79610dacddd0c0?utm_campaign=1065&utm_source=git)** | Clemson, SC | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcffae79610dacddd0bd?utm_campaign=1065&utm_source=git)** | Juneau, AK | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfce73bf9eb44f83258a3?utm_campaign=1065&utm_source=git)** | Powell, WY | On Site | Sep 06 |
+| ↳ | **[Public Relations/Marketing Programme](https://jobright.ai/jobs/info/68bcfcdaae79610dacddd034?utm_campaign=1065&utm_source=git)** | Tacoma, WA | On Site | Sep 06 |
 | ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcd93bf9eb44f8325887?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcc93bf9eb44f8325857?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcb368300c452ca17206?utm_campaign=1065&utm_source=git)** | Durham, NH | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfcaeae79610dacddcfdc?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc993bf9eb44f83257de?utm_campaign=1065&utm_source=git)** | West Lafayette, IN | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc953bf9eb44f83257d1?utm_campaign=1065&utm_source=git)** | Swainsboro, GA | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc9468300c452ca1719e?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Sep 06 |
-| ↳ | **[Public Relations/Marketing Internship](https://jobright.ai/jobs/info/68bcfc94ae79610dacddcf8e?utm_campaign=1065&utm_source=git)** | Grand Junction, CO | On Site | Sep 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
