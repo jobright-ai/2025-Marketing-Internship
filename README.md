@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Drexel University's Westphal College of Media Arts & Design](https://drexel.edu/westphal)** | **[Associate Director, Athletic Communications](https://jobright.ai/jobs/info/68bf9d068e65e77df55bbdd2?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 08 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - Internal Communications & Media](https://jobright.ai/jobs/info/68bf9ca1702aa35207aa7e13?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Sep 08 |
+| **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[2026 Undergraduate Summer Digital Growth / Marketing Intern](https://jobright.ai/jobs/info/68bf994d8e65e77df55bbc7a?utm_campaign=1065&utm_source=git)** | Ewing, NJ | Hybrid | Sep 08 |
+| **[Harvest Group Tunisia](http://harvestgroup.com)** | **[Summer 2026 / Retail Media Internship](https://jobright.ai/jobs/info/68bf98488e65e77df55bbadb?utm_campaign=1065&utm_source=git)** | Rogers, AR | On Site | Sep 08 |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Marketing Content Intern (Video/Photo Editing)](https://jobright.ai/jobs/info/68bf95ac702aa35207aa789b?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Remote | Sep 08 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Omaha Marketing Intern](https://jobright.ai/jobs/info/68bf92768e65e77df55bb6e7?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Sep 08 |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/68bf907a702aa35207aa773a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
+| **[Ferrara](https://www.ferrara.com)** | **[Consumer Analytics Internship Program 2026](https://jobright.ai/jobs/info/68bf902e5c5d5f14f46d808d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| ↳ | **[Consumer Communications Internship Program 2026](https://jobright.ai/jobs/info/68bf8f7c5c5d5f14f46d8014?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 08 |
+| **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68bf8ee6702aa35207aa7639?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Sep 08 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bf8e185c5d5f14f46d7f3a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 08 |
+| **[Lids](https://www.lids.com)** | **[Summer 2026 - Merchandising Intern](https://jobright.ai/jobs/info/68bf8e13702aa35207aa75ad?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 08 |
+| **[RoboForce](https://www.roboforce.ai)** | **[Marketing Intern (2025 Fall Intern)](https://jobright.ai/jobs/info/68bf8dd65c5d5f14f46d7f11?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Sep 08 |
+| **[ThePixelCinema](ThePixelCinema.com)** | **[Music Marketing & Outreach Intern](https://jobright.ai/jobs/info/68bf8b2d8e65e77df55bb418?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Sep 08 |
+| **[KoolShiit](https://www.koolshiit.com/)** | **[Social Media & Growth - internship](https://jobright.ai/jobs/info/68bf8a475c5d5f14f46d7e6f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Sep 08 |
+| **[MAGZ MARKETING](https://www.magzsports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bf89cc8e65e77df55bb2d7?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Sep 08 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68bf88775c5d5f14f46d7cab?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Sep 08 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Internal Communications & Media](https://jobright.ai/jobs/info/68bf8779702aa35207aa7239?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 08 |
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68bf84858e65e77df55bb07c?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Sep 08 |
 | ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68bf84858e65e77df55bb07d?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 08 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf843b8e65e77df55bb021?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 08 |
@@ -101,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Internal Communications & Media](https://jobright.ai/jobs/info/68bf57675c5d5f14f46d613f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 08 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Investor Relations & Finance Summer Intern](https://jobright.ai/jobs/info/68bf53895c5d5f14f46d6037?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | On Site | Sep 08 |
 | **[CliquePrize -Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68bf53895c5d5f14f46d6038?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
-| **[ShipHub.Ikeocean](www.ikeocean.com)** | **[Social Media Strategist](https://jobright.ai/jobs/info/68bf4e3d5c5d5f14f46d5ed8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 08 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/68bf4da88e65e77df55b93b2?utm_campaign=1065&utm_source=git)** | Chicago | On Site | Sep 08 |
 | **[Our Piece of the Pie](https://opp.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bf4d0b702aa35207aa53e3?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Sep 08 |
 | **[Ovative Group](http://www.ovative.com)** | **[Summer 2026 Internship - Digital Marketing & Analytics](https://jobright.ai/jobs/info/68bf4c44702aa35207aa5377?utm_campaign=1065&utm_source=git)** | Minneapolis | On Site | Sep 08 |
@@ -118,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[EACE Events and Communication Intern](https://jobright.ai/jobs/info/68bf4622702aa35207aa4f52?utm_campaign=1065&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | On Site | Sep 08 |
 | **[Detroit Zoological Society](https://detroitzoo.org/)** | **[Events Intern](https://jobright.ai/jobs/info/68bf45ac8e65e77df55b8e57?utm_campaign=1065&utm_source=git)** | Royal Oak, MI | On Site | Sep 08 |
 | **[AgCertain Industries, Inc.](https://www.agcertain.com/)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/68bf451c8e65e77df55b8de5?utm_campaign=1065&utm_source=git)** | Ames, IA | On Site | Sep 08 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30198e65e77df55b7faf?utm_campaign=1065&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30f4702aa35207aa419b?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Sep 08 |
+| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30f4702aa35207aa419b?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Sep 08 |
+| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30198e65e77df55b7faf?utm_campaign=1065&utm_source=git)** | USA-WV - West Virginia Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3109702aa35207aa41ab?utm_campaign=1065&utm_source=git)** | USA-OK - Oklahoma Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf31b7702aa35207aa4226?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30f35c5d5f14f46d4b23?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf31da5c5d5f14f46d4bb9?utm_campaign=1065&utm_source=git)** | USA-WA - Washington Remote | Remote | Sep 08 |
+| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30f35c5d5f14f46d4b23?utm_campaign=1065&utm_source=git)** | USA-SC - South Carolina Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30558e65e77df55b7fda?utm_campaign=1065&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf325c5c5d5f14f46d4c08?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32ad8e65e77df55b81f1?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Sep 08 |
@@ -136,25 +153,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30218e65e77df55b7fb3?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32c08e65e77df55b8214?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3198702aa35207aa420e?utm_campaign=1065&utm_source=git)** | USA-NV - Nevada Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3039702aa35207aa40fa?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf320b8e65e77df55b80e2?utm_campaign=1065&utm_source=git)** | USA-AL - Alabama Remote | Remote | Sep 08 |
+| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3039702aa35207aa40fa?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32415c5d5f14f46d4bfa?utm_campaign=1065&utm_source=git)** | USA-MT - Montana Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3109702aa35207aa41ac?utm_campaign=1065&utm_source=git)** | USA-VA - Virginia Remote | Remote | Sep 08 |
 | ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf31c85c5d5f14f46d4baa?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf322e702aa35207aa4267?utm_campaign=1065&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32408e65e77df55b8135?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32bc5c5d5f14f46d4c46?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3272702aa35207aa4296?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30258e65e77df55b7fb6?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf31d75c5d5f14f46d4bb4?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30f45c5d5f14f46d4b27?utm_campaign=1065&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32138e65e77df55b80f1?utm_campaign=1065&utm_source=git)** | USA-IA - Iowa Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32bc5c5d5f14f46d4c45?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf3020702aa35207aa40d4?utm_campaign=1065&utm_source=git)** | USA-IN - Indiana Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf319b5c5d5f14f46d4b8c?utm_campaign=1065&utm_source=git)** | USA-TX - Texas Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf326a8e65e77df55b817c?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30d55c5d5f14f46d4b10?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf30995c5d5f14f46d4ae6?utm_campaign=1065&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32185c5d5f14f46d4be3?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Sep 08 |
-| ↳ | **[Spring 2026 Internship - Social Impact](https://jobright.ai/jobs/info/68bf32065c5d5f14f46d4bcf?utm_campaign=1065&utm_source=git)** | USA-OR - Oregon Remote | Remote | Sep 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
