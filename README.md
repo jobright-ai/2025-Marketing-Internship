@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Workout Buddy](https://workoutbuddy.online)** | **[Social Media Marketing Intern - Unpaid](https://jobright.ai/jobs/info/68c75a91db52c07d2884a89b?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Sep 14 |
 | **[Livia](https://www.hi-livia.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68c74dc9c96a22563ecf0ab4?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Sep 14 |
 | **[SERHANT.](https://www.serhant.com)** | **[Social Media Intern to Commercial Real Estate Agent and Netflix Star](https://jobright.ai/jobs/info/68c71a597d0db4114273ba3a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 14 |
 | **[The Block](https://www.theblock.co)** | **[Content Writing Intern](https://jobright.ai/jobs/info/68af56c3962903596357bcd0?utm_campaign=1065&utm_source=git)** | Remote within United States | Remote | Sep 14 |
@@ -111,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2026 Internship: Product Marketing](https://jobright.ai/jobs/info/68c5a8d5db52c07d28843889?utm_campaign=1065&utm_source=git)** | Ashburn, VA | On Site | Sep 13 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Field Marketing Intern (Spring 2026, ST&MK)](https://jobright.ai/jobs/info/68c654d27d0db41142738b4e?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | Remote | Sep 13 |
 | **[Hunter Engineering Company](http://www.hunter.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68a8d0d4758f2e4ac3ff58d8?utm_campaign=1065&utm_source=git)** | Bridgeton, MO | On Site | Sep 13 |
-| **[Lumen Path](https://www.linkedin.com/company/108610660)** | **[Communications Intern](https://jobright.ai/jobs/info/68c57545c96a22563ece8f88?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Sep 13 |
 | **[Stellantis](https://www.stellantis.com)** | **[2026 Communications – Media Relations Summer Internship](https://jobright.ai/jobs/info/68a90633d627244576e36ec3?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | Hybrid | Sep 13 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/68c6713ac96a22563eceed88?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Sep 13 |
 | **[Exelon](http://www.exeloncorp.com/)** | **[2026 Summer Internship - Communications (Various Exelon Locations)](https://jobright.ai/jobs/info/68bb710d6105227d118a5f94?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 13 |
@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Community & Wellness Collective](cawcollective.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/68c55a687d0db41142733b0c?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Sep 13 |
 | **[CNH](http://www.cnhindustrial.com)** | **[CE NA Product Marketing & Management Intern](https://jobright.ai/jobs/info/68c555fbc96a22563ece8727?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Sep 13 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c54a817d0db41142733737?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Sep 13 |
-| **[TEASPRESSA](https://teaspressa.com)** | **[Intern Content Creator, Social Media & Affiliate Marketing](https://jobright.ai/jobs/info/68c488c1e396b25cb5c690cd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 13 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Tractor Marketing Intern](https://jobright.ai/jobs/info/68b5619c1ade4306aa641958?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Sep 13 |
 | ↳ | **[Precision Technology Marketing Communications Intern](https://jobright.ai/jobs/info/68b562bdbc187f64e1be68d0?utm_campaign=1065&utm_source=git)** | Racine, WI | Hybrid | Sep 13 |
 | **[Rutgers University](http://www.rutgers.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c53c8cdb52c07d28841e3d?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Sep 13 |
@@ -133,7 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Marketing Communications Internship](https://jobright.ai/jobs/info/68c51af2c96a22563ece71a1?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Summer 2026) - Arlington, VA](https://jobright.ai/jobs/info/68c51ad4c96a22563ece717b?utm_campaign=1065&utm_source=git)** | Arlington, VA, 22202 | On Site | Sep 13 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c584acc96a22563ece92cf?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 13 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Portsmouth, NH](https://jobright.ai/jobs/info/68a7c487d627244576e2eb0c?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Sep 12 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | ↳ | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | ↳ | **[Marketing Communications Internship](https://jobright.ai/jobs/info/68c63c9cdb52c07d288459a0?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
@@ -142,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Managed Networks](http://www.mn.co.uk/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c506b2c96a22563ece62a8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 12 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Internship (October 2025) - Avon, CO](https://jobright.ai/jobs/info/68c50688c96a22563ece622c?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Sep 12 |
 | **[Grand Canyon University](http://www.gcu.edu/)** | **[University Sponsorships-Campus Brand Ambassador (FWS/NFWS)](https://jobright.ai/jobs/info/68c4fbdac96a22563ece585d?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 12 |
-| **[Vortex Doors](https://www.vortexdoors.com/)** | **[Digital Marketing Intern – SEO Focus](https://jobright.ai/jobs/info/68c5f81cc96a22563ecea401?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | Sep 12 |
 | **[Collectors Expo](www.collectorsexpo.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68c4f4c67d0db41142730169?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Sep 12 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68c4f431db52c07d2883eb69?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68c4eebddb52c07d2883e5ca?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Sep 12 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Marketing Rotation Internship (Spring and Summer 2026)](https://jobright.ai/jobs/info/68c638dd7d0db41142736bcd?utm_campaign=1065&utm_source=git)** | Des Moines, IA | Hybrid | Sep 12 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Integrated Media Intern](https://jobright.ai/jobs/info/68c637e0db52c07d288455df?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Sep 12 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68c6094f7d0db4114273583c?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Sep 12 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68c4dc577279451d6a0384a5?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Sep 12 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68c4dc2c31e5763f188e4318?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Sep 12 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68c4bddf7279451d6a0373be?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
