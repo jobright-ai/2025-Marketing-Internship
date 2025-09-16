@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68c94a7a95f5211cd2cef946?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 16 |
+| **[Primera](https://primera.net)** | **[Social Media/Marketing Intern](https://jobright.ai/jobs/info/68c945da95f5211cd2cef88a?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Sep 16 |
 | **[Washington Regional](http://www.wregional.com)** | **[Marketing Coordinator (10-12hrs/week)](https://jobright.ai/jobs/info/68c92fd2f9c6ff7aedf18a91?utm_campaign=1065&utm_source=git)** | Fayetteville, AR | On Site | Sep 16 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Communications Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c929a1f9c6ff7aedf188fc?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Sep 16 |
 | **[Celonis](https://www.celonis.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68c923f295f5211cd2cef1a1?utm_campaign=1065&utm_source=git)** | New York, US, New York | On Site | Sep 16 |
@@ -81,10 +83,10 @@ For a complete list, click the following sortable link below:
 | **[SportRelay](https://sportrelay.com)** | **[MLB Social Media & Marketing Intern (unpaid)](https://jobright.ai/jobs/info/68c8d5ee95f5211cd2ce9a14?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c8d2fef9c6ff7aedf12d58?utm_campaign=1065&utm_source=git)** | Conyers, GA | On Site | Sep 15 |
 | **[WEX](http://www.wexinc.com)** | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cbbcf9c6ff7aedf12c99?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Sep 15 |
-| ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb82983e6768bc551757?utm_campaign=1065&utm_source=git)** | Portland, ME | Remote | Sep 15 |
 | ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb82983e6768bc551758?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Sep 15 |
-| ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb7d95f5211cd2ce9663?utm_campaign=1065&utm_source=git)** | Washington DC | Remote | Sep 15 |
+| ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb82983e6768bc551757?utm_campaign=1065&utm_source=git)** | Portland, ME | Remote | Sep 15 |
 | ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb7d95f5211cd2ce9664?utm_campaign=1065&utm_source=git)** | Bay Area, CA | Remote | Sep 15 |
+| ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb7d95f5211cd2ce9663?utm_campaign=1065&utm_source=git)** | Washington DC | Remote | Sep 15 |
 | ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb7095f5211cd2ce963f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Sep 15 |
 | ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb62f9c6ff7aedf12c0f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Sep 15 |
 | ↳ | **[AI Product Marketing Operations Manager](https://jobright.ai/jobs/info/68c8cb24983e6768bc55168b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 15 |
@@ -114,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[The deFIANT](https://www.thedefiant.com)** | **[Event Intern 09/16-9/18- Chicago Based](https://jobright.ai/jobs/info/68c899e7f9c6ff7aedf10ab9?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Sep 15 |
 | **[Translation](http://www.translationllc.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68c899d7f9c6ff7aedf10a9d?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 15 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Communications Internship (Summer 2026 - Hybrid/In-Office)](https://jobright.ai/jobs/info/68c897f795f5211cd2ce747c?utm_campaign=1065&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Sep 15 |
-| **[American Fidelity](http://www.americanfidelity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c89769f9c6ff7aedf106e4?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Sep 15 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68c8bc88f9c6ff7aedf122b0?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Sep 15 |
 | **[Sky Academy NJ](http://skyacademynj.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68c8932595f5211cd2ce6e44?utm_campaign=1065&utm_source=git)** | Rochelle Park, NJ | Hybrid | Sep 15 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2025 Internship: Social Media Intern to Founder & CEO (Florida Keys/Miami)](https://jobright.ai/jobs/info/68c8925f95f5211cd2ce6d2b?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 15 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[WinField United Business Operations & Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68c8daf8983e6768bc552517?utm_campaign=1065&utm_source=git)** | Arden Hills, MN | On Site | Sep 15 |
 | **[Nassau Financial Group](https://nfg.com)** | **[Corporate Communications and Community Engagement Intern](https://jobright.ai/jobs/info/68c8909c95f5211cd2ce6a74?utm_campaign=1065&utm_source=git)** | Hartford, CT | On Site | Sep 15 |
 | **[Penn State University](http://psu.edu)** | **[Marketing and Fan Experience Interns](https://jobright.ai/jobs/info/68c8906295f5211cd2ce6a29?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Sep 15 |
+| **[CDK Global](https://www.cdkglobal.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c9404695f5211cd2cef79b?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Sep 15 |
 | **[Evvolve & Partners](http://evvolve.io/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68c887a6f9c6ff7aedf0fbd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 15 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/68c86e2e95f5211cd2ce526b?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Sep 15 |
 | **[Flourish Coworking Space](https://www.flourishcoworking.com/)** | **[Event Planning Internship](https://jobright.ai/jobs/info/68c8a3e4983e6768bc54ffda?utm_campaign=1065&utm_source=git)** | West Chester, PA | On Site | Sep 15 |
 | **[IPCMobile (founded as Infinite Peripherals)](https://ipcmobile.com/)** | **[B2B Marketing Intern — Mobile Device (2 Openings)](https://jobright.ai/jobs/info/68c890e5983e6768bc54f3c1?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Sep 15 |
 | **[Wellmark Blue Cross and Blue Shield](http://www.wellmark.com)** | **[Corporate Communications Internship (Spring and Summer 2026)](https://jobright.ai/jobs/info/68c86a97983e6768bc54d2f7?utm_campaign=1065&utm_source=git)** | Des Moines, IA, USA | Hybrid | Sep 15 |
-| **[Bee Street Co.](www.beestreet.co)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/68c88ae3f9c6ff7aedf100e1?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Sep 15 |
-| **[Catalyst Content](https://gotcatalyst.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c86989f9c6ff7aedf0e59f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
