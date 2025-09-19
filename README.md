@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Communications Intern (Spring 2026; STMK)](https://jobright.ai/jobs/info/68cd5f23e23def7af55b914e?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | Remote | Sep 19 |
+| **[Texas Higher Education Coordinating Board](https://www.highered.texas.gov/)** | **[THECB - Intern, Digital Marketing](https://jobright.ai/jobs/info/68cd5ab2b2a74e1837ed5c17?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Sep 19 |
+| **[Charles Schwab](https://www.schwab.com/)** | **[2026 Charles Schwab Marketing Internship (AUSTIN ONLY)](https://jobright.ai/jobs/info/68cd59c31ad6b16f0289839e?utm_campaign=1065&utm_source=git)** | US-TX-Austin | On Site | Sep 19 |
+| **[Bravia Capital](http://www.braviacapital.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cd553fe23def7af55b8499?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 19 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Washington Wizards Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68cd483ae23def7af55b79ff?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 19 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Fall 2025 Digital Paid Media Intern](https://jobright.ai/jobs/info/68cd406cb2a74e1837ed4635?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 19 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68cd23241ad6b16f0289597c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[Race Winning Brands](http://racewinningbrands.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cd1b1ee23def7af55b5751?utm_campaign=1065&utm_source=git)** | Mentor, OH | On Site | Sep 19 |
@@ -87,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/68ccc22aa77e5d7d744f4e98?utm_campaign=1065&utm_source=git)** | State College, PA | On Site | Sep 18 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/68ccb93f128dc347fd928a6b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Sep 18 |
 | **[American Dining Creations](http://www.adc-us.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ccb8b416d00d2beeb236dd?utm_campaign=1065&utm_source=git)** | Appleton, WI | On Site | Sep 18 |
-| **[Don't Miss Your Turn, Inc.](https://www.linkedin.com/company/91198962)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ccb7017342c7623ae688d6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Temporary Associate Manager - Social Content Strategy](https://jobright.ai/jobs/info/68ccb3967342c7623ae68663?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 18 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ccb2b07342c7623ae684db?utm_campaign=1065&utm_source=git)** | US-NY-New York | On Site | Sep 18 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Lettuce Corporate Summer Internship - Marketing Analytics](https://jobright.ai/jobs/info/68ccd928d11b445e0bee2c9e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 18 |
@@ -127,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Surpass Behavioral Health](https://surpassbehavioralhealth.com)** | **[Student Brand Ambassador, University of Illinois Chicago](https://jobright.ai/jobs/info/68cc7d27128dc347fd925ac6?utm_campaign=1065&utm_source=git)** | Virtual IL | Remote | Sep 18 |
 | ↳ | **[Student Brand Ambassador - University of North Carolina Chapel Hill](https://jobright.ai/jobs/info/68cc7cfa7342c7623ae65908?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC, USA | Remote | Sep 18 |
 | **[Shaw Industries](https://shawinc.com)** | **[Commercial Marketing & Customer Experience Trainee](https://jobright.ai/jobs/info/68cc7cb7128dc347fd925992?utm_campaign=1065&utm_source=git)** | Shaw Plant CX, 230 Douthit Ferry Road, Cartersville, GA 30120 USA | On Site | Sep 18 |
-| **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cc9ac67342c7623ae671b7?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
+| **[Kaplan](http://www.kaplan.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cc9a8e7342c7623ae6716e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cc91d2128dc347fd926a87?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Remote | Sep 18 |
 | **[Asian Community Development Center](https://www.acdcco.org/)** | **[Marketing Volunteer (Unpaid)](https://jobright.ai/jobs/info/68cce61477add66568abb920?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 18 |
 | **[Breakwater Hospitality Group](https://breakwaterhg.com)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/68cc7a8a16d00d2beeb2041b?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Client Events Intern - (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68cc6306128dc347fd9240e2?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Sep 18 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Sep 18 |
 | **[Safe Passage Project](https://www.safepassageproject.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68ccb2737342c7623ae6847e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Sep 18 |
-| **[American Red Cross North Texas Region](http://www.redcross.org/northtexas)** | **[Gain valuable experience in communications: Communications and Marketing: DFW INTERN](https://jobright.ai/jobs/info/68cc8306128dc347fd925f9f?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 18 |
-| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/68cc5f5816d00d2beeb1e89b?utm_campaign=1065&utm_source=git)** | Clayton, MO | Hybrid | Sep 18 |
-| **[Income Research + Management](http://incomeresearch.com)** | **[Client Services, Intern (Summer 2026)](https://jobright.ai/jobs/info/68cc5ea116d00d2beeb1e70c?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Sep 18 |
-| **[Generation Hope](https://www.generationhope.org/)** | **[Communications & Marketing Intern (Fall – Summer)](https://jobright.ai/jobs/info/68cc5e9616d00d2beeb1e6f5?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Sep 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
