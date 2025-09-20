@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Royal Credit Union](https://www.rcu.org)** | **[Community Relations Intern - Chippewa Valley](https://jobright.ai/jobs/info/68ce1926e23def7af55c238a?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
+| ↳ | **[Community Relations Intern - St. Croix Valley](https://jobright.ai/jobs/info/68ce1818e23def7af55c20d1?utm_campaign=1065&utm_source=git)** | New Richmond, WI | On Site | Sep 19 |
+| **[MARLEYLILLY](https://marleylilly.com/)** | **[Marketing & Social Media Intern Spring 2026 (54890)](https://jobright.ai/jobs/info/68ce21cee23def7af55c284d?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 19 |
+| **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68ce157bb2a74e1837edf1bf?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
+| ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ce14f6b2a74e1837edf163?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Healthcare PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68ce0685b2a74e1837edea16?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Marketing and Communications Intern (year-round)](https://jobright.ai/jobs/info/68ce0575b2a74e1837ede7aa?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Sep 19 |
 | **[COMPA STUDIOS™](https://www.linkedin.com/company/85646029)** | **[Creator Management Intern (Remote)](https://jobright.ai/jobs/info/68ce00a21ad6b16f028a0cf0?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Sep 19 |
@@ -84,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdc504b2a74e1837edc3dc?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 19 |
 | **[LCRA](https://www.lcra.org/)** | **[Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68cdc3ece23def7af55bf229?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 19 |
 | **[HONEY.inc](https://getfluid.com)** | **[Media Buyer](https://jobright.ai/jobs/info/68cdc3eb1ad6b16f0289ed4e?utm_campaign=1065&utm_source=git)** | SLC Metro Area | Hybrid | Sep 19 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc395e23def7af55bf188?utm_campaign=1065&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc390e23def7af55bf177?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc37fe23def7af55bf13e?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Sep 19 |
@@ -138,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1da1ad6b16f0289e98f?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1d1b2a74e1837edbf58?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1beb2a74e1837edbf34?utm_campaign=1065&utm_source=git)** | USA-AK - Alaska Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1b4b2a74e1837edbf1c?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1b41ad6b16f0289e936?utm_campaign=1065&utm_source=git)** | USA-ME - Maine Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1b4b2a74e1837edbf1c?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Sep 19 |
 | **[Tenaska](http://www.tenaska.com/)** | **[Business Intelligence & Innovation - Summer Rotational Internship Program](https://jobright.ai/jobs/info/68cdc172e23def7af55bed8b?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Sep 19 |
 | **[GAO Tek](www.TheGAOGroup.com)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/68cdc139e23def7af55bed35?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Sep 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdb588e23def7af55be66c?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cdb4d5e23def7af55be634?utm_campaign=1065&utm_source=git)** | Corporate Center, 200 Riverfront Terrace, Eau Claire, Wisconsin, United States of America | On Site | Sep 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Marketing Creative Content Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb3161ad6b16f0289e12f?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Sep 19 |
-| **[Alli CBD Marketplace](https://www.linkedin.com/company/92619289)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/68cdb1e1b2a74e1837edb297?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Digital Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68cdb178e23def7af55be489?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | Hybrid | Sep 19 |
-| **[Online Optimism](https://www.onlineoptimism.com/)** | **[Content Specialist / Spring Season](https://jobright.ai/jobs/info/68cdb1501ad6b16f0289dd25?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Sep 19 |
-| **[HappyHopper](https://happyhopper.app)** | **[College Social Media Ambassador](https://jobright.ai/jobs/info/68cdb1451ad6b16f0289dd14?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
-| **[Voloridge Health](http://www.voloridgehealth.com)** | **[Health Brand & Marketing Intern 2026](https://jobright.ai/jobs/info/68cdb0f0b2a74e1837edb13f?utm_campaign=1065&utm_source=git)** | Jupiter, FL | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
