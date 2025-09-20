@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Digital Operations Intern](https://jobright.ai/jobs/info/68ce9298846f0b04af67b277?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[MARLEYLILLY](https://marleylilly.com/)** | **[Merchandising Intern Fall 2026 (54891)](https://jobright.ai/jobs/info/68ce7e3bfb49c96ca6ea0f1c?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 20 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68ce7218dbd9fb154eddfc3d?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Sep 20 |
 | **[MARLEYLILLY](https://marleylilly.com/)** | **[Merchandising Intern Spring 2026 (54889)](https://jobright.ai/jobs/info/68ce71a6dbd9fb154eddfb7e?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 20 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ce657bfb49c96ca6e9fec6?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Sep 20 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68ce4a0fdbd9fb154edddb61?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Ecommerce & CRM Intern, D2C (February to May)](https://jobright.ai/jobs/info/68ce42d524dd5209002f0fe0?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Sep 19 |
 | ↳ | **[Summer 2026: Ecommerce & CRM Intern, D2C (May to August)](https://jobright.ai/jobs/info/68ce42531ad6b16f028a376b?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Sep 19 |
-| **[Certified Information Security](https://www.certifiedinfosec.com/)** | **[Intern](https://jobright.ai/jobs/info/68ce330bb2a74e1837ee0420?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/68ce2928b2a74e1837edfed8?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 19 |
 | **[ClearMindConnect](https://www.clearmindconnect.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/68ce2589e23def7af55c2a05?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Community Relations Intern - Chippewa Valley](https://jobright.ai/jobs/info/68ce1926e23def7af55c238a?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdc504b2a74e1837edc3dc?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 19 |
 | **[LCRA](https://www.lcra.org/)** | **[Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68cdc3ece23def7af55bf229?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 19 |
 | **[HONEY.inc](https://getfluid.com)** | **[Media Buyer](https://jobright.ai/jobs/info/68cdc3eb1ad6b16f0289ed4e?utm_campaign=1065&utm_source=git)** | SLC Metro Area | Hybrid | Sep 19 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc395e23def7af55bf188?utm_campaign=1065&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc390e23def7af55bf177?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc37fe23def7af55bf13e?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Sep 19 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Marketing and Communications Intern (year-round)](https://jobright.ai/jobs/info/68cdc2c3b2a74e1837edc15a?utm_campaign=1065&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 19 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2c0e23def7af55bef37?utm_campaign=1065&utm_source=git)** | USA-LA - Louisiana Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2bfb2a74e1837edc14d?utm_campaign=1065&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2bf1ad6b16f0289ebb5?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2bfe23def7af55bef34?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2bf1ad6b16f0289ebb5?utm_campaign=1065&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2bae23def7af55bef24?utm_campaign=1065&utm_source=git)** | USA-WA - Washington Remote | Remote | Sep 19 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cdc2b8e23def7af55bef16?utm_campaign=1065&utm_source=git)** | 162 Fifth Avenue, New York, NY | On Site | Sep 19 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2b71ad6b16f0289eba1?utm_campaign=1065&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Sep 19 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Northern Children's Services](https://northernchildren.org)** | **[Marketing and Developing Intern](https://jobright.ai/jobs/info/68cdc2041ad6b16f0289e9fc?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | Sep 19 |
 | **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc201b2a74e1837edbfc3?utm_campaign=1065&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1f91ad6b16f0289e9e0?utm_campaign=1065&utm_source=git)** | USA-TN - Tennessee Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1ecb2a74e1837edbf95?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1ecb2a74e1837edbf94?utm_campaign=1065&utm_source=git)** | USA-TX - Texas Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1ecb2a74e1837edbf95?utm_campaign=1065&utm_source=git)** | USA-ND - North Dakota Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1e1b2a74e1837edbf78?utm_campaign=1065&utm_source=git)** | USA-ID - Idaho Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1da1ad6b16f0289e98f?utm_campaign=1065&utm_source=git)** | USA-RI - Rhode Island Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc1d1b2a74e1837edbf58?utm_campaign=1065&utm_source=git)** | USA-CO - Colorado Remote | Remote | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
