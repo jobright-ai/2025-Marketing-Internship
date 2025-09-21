@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Opal Nest](https://www.linkedin.com/company/98648381)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68d00fe4846f0b04af68746f?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Sep 21 |
+| **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall Internship 2025](https://jobright.ai/jobs/info/68d00f08dbd9fb154eded193?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Sep 21 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d006da846f0b04af687048?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68d0062e846f0b04af686f3b?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Sep 21 |
 | **[TPG Hotels and Resorts](https://marshallhotels.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cff653846f0b04af686744?utm_campaign=1065&utm_source=git)** | Cranston, RI | On Site | Sep 21 |
 | **[Denver Water](https://www.denverwater.org/)** | **[Summer Internship 2026 - Communications / Business Focus / Finance](https://jobright.ai/jobs/info/68cfece6fb49c96ca6eaca7c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Sep 21 |
 | **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cfdc2cdbd9fb154edeb5f3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Customer Communications Intern](https://jobright.ai/jobs/info/68cddffee23def7af55bfe2d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Healthcare PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68cddf77e23def7af55bfdbf?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 19 |
 | **[Staples Canada](http://www.staples.ca)** | **[Customer Engagement Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdda5f1ad6b16f0289f716?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 19 |
-| **[Staples](http://www.staples.com)** | **[Customer Engagement Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdda461ad6b16f0289f6ec?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 19 |
-| **[UniFirst Corporation](https://unifirst.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68cf319ffb49c96ca6ea647c?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Sep 19 |
-| **[Social Influence Studios](https://www.linkedin.com/company/104686333)** | **[Social Media management internship](https://jobright.ai/jobs/info/68cdd4671ad6b16f0289f515?utm_campaign=1065&utm_source=git)** | Tampa, FL | Remote | Sep 19 |
-| **[Until There's A Cure Foundation](https://www.until.org)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/68cdcdf3e23def7af55bf5f7?utm_campaign=1065&utm_source=git)** | Woodside, CA | Remote | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
