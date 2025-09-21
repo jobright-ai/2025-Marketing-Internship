@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stellar](https://stellarlearning.app)** | **[High School Social Media Content Creation Paid Internship](https://jobright.ai/jobs/info/68cf6facfb49c96ca6ea897c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
+| **[Zibbly](https://www.zibbly.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf6f8afb49c96ca6ea896b?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Sep 20 |
 | **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5872846f0b04af68160b?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
 | **[ThePixelCinema](ThePixelCinema.com)** | **[Music Marketing & Outreach Intern](https://jobright.ai/jobs/info/68cf550cdbd9fb154ede6f32?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Sep 20 |
 | **[Project Coin](https://sites.google.com/view/projectcoin/home?authuser=0)** | **[Social Media Team Member - High School Student](https://jobright.ai/jobs/info/68cf380edbd9fb154ede5a2b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
@@ -84,7 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Matriosh](Matriosh.com)** | **[Investor Relations Intern (Remote – Performance-Based)](https://jobright.ai/jobs/info/68cecbb0fb49c96ca6ea3926?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68cecb50dbd9fb154ede2dee?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Disney Entertainment Digital Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68cec1d0dbd9fb154ede28a9?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Sep 20 |
-| ↳ | **[Studio Marketing Creative Content Intern, Spring 2026](https://jobright.ai/jobs/info/68cebdfdfb49c96ca6ea3202?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Sep 20 |
+| **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87b6?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Sep 20 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Marketing Creative Content Intern, Spring 2026](https://jobright.ai/jobs/info/68cebdfdfb49c96ca6ea3202?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Marketing MBA Intern, Joico – Spring 2026](https://jobright.ai/jobs/info/68ccd7a45954791a1d6ff6bf?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Sep 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fdc1f4e41a61efd8873d?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Events & Engagement Intern](https://jobright.ai/jobs/info/68b1fbcfbc187f64e1bd86b8?utm_campaign=1065&utm_source=git)** | Dublin, OH | Hybrid | Sep 20 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Royal Credit Union](https://www.rcu.org)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/68ce347524dd5209002f080b?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Healthcare PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68ce0685b2a74e1837edea16?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 19 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Marketing and Communications Intern (year-round)](https://jobright.ai/jobs/info/68ce0575b2a74e1837ede7aa?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Sep 19 |
-| **[COMPA STUDIOS](https://www.linkedin.com/company/85646029)** | **[Creator Management Intern (Remote)](https://jobright.ai/jobs/info/68ce00a21ad6b16f028a0cf0?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Sep 19 |
 | **[Organic Valley](https://www.organicvalley.coop)** | **[Brand Management Intern](https://jobright.ai/jobs/info/68ce0097b2a74e1837ede410?utm_campaign=1065&utm_source=git)** | Cashton, WI | Hybrid | Sep 19 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cdfe00e23def7af55c0e93?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Sep 19 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 19 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Until There's A Cure Foundation](https://www.until.org)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/68cdcdf3e23def7af55bf5f7?utm_campaign=1065&utm_source=git)** | Woodside, CA | Remote | Sep 19 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Lettuce Corporate Summer Internship - Social Media](https://jobright.ai/jobs/info/68cf1df7dbd9fb154ede529c?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 19 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdc504b2a74e1837edc3dc?utm_campaign=1065&utm_source=git)** | Jacksonville, Florida, United States | On Site | Sep 19 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf199?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Sep 19 |
+| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc39ae23def7af55bf19a?utm_campaign=1065&utm_source=git)** | USA-MS - Mississippi Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc395e23def7af55bf188?utm_campaign=1065&utm_source=git)** | USA-WY - Wyoming Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc390e23def7af55bf177?utm_campaign=1065&utm_source=git)** | USA-OH - Ohio Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc37fe23def7af55bf13e?utm_campaign=1065&utm_source=git)** | USA-NJ - New Jersey Remote | Remote | Sep 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc342e23def7af55bf091?utm_campaign=1065&utm_source=git)** | USA-NY - New York Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc324e23def7af55bf034?utm_campaign=1065&utm_source=git)** | USA-NE - Nebraska Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc31ae23def7af55bf01f?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc308e23def7af55beff9?utm_campaign=1065&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2efe23def7af55befb4?utm_campaign=1065&utm_source=git)** | USA-GA - Georgia Remote | Remote | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
