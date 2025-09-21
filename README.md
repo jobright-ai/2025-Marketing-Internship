@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MozartCultures](https://mozartcultures.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68d03a32846f0b04af68831c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
+| **[Atmosfy](https://atmosfy.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d02f38846f0b04af68810a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
+| **[Brillient](https://brillient.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d02754dbd9fb154ededb3e?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Sep 21 |
 | **[Opal Nest](https://www.linkedin.com/company/98648381)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68d00fe4846f0b04af68746f?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Sep 21 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall Internship 2025](https://jobright.ai/jobs/info/68d00f08dbd9fb154eded193?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Sep 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d006da846f0b04af687048?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
@@ -68,11 +71,11 @@ For a complete list, click the following sortable link below:
 | **[OpenQQuantify](https://www.openqquantify.com/)** | **[Media & Marketing (Unpaid Internship)](https://jobright.ai/jobs/info/68cfd075846f0b04af68540c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68cfbfa3fb49c96ca6eab3fa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[Go Play DC (formerly CRYSP DC)](goplaydc.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/68cfacedfb49c96ca6eaab19?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 21 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68cff447dbd9fb154edec304?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68cff2b3fb49c96ca6eacc3f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
 | ↳ | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68cff205846f0b04af6864e9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Sep 21 |
 | **[Stellar](https://stellarlearning.app)** | **[High School Social Media Content Creation Paid Internship](https://jobright.ai/jobs/info/68cf6facfb49c96ca6ea897c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Zibbly](https://www.zibbly.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf6f8afb49c96ca6ea896b?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Sep 20 |
-| **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5897846f0b04af681625?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
+| **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5872846f0b04af68160b?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
 | **[ThePixelCinema](ThePixelCinema.com)** | **[Music Marketing & Outreach Intern](https://jobright.ai/jobs/info/68cf550cdbd9fb154ede6f32?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Sep 20 |
 | **[Project Coin](https://sites.google.com/view/projectcoin/home?authuser=0)** | **[Social Media Team Member - High School Student](https://jobright.ai/jobs/info/68cf380edbd9fb154ede5a2b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[The Hotel at Auburn University](http://www.auhcc.com)** | **[Digital Marketing Asset Coordinator](https://jobright.ai/jobs/info/68cf14f1846f0b04af67f29a?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Sep 20 |
@@ -95,11 +98,13 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | Hybrid | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cecc25fb49c96ca6ea3992?utm_campaign=1065&utm_source=git)** | Arlington, TX | On Site | Sep 20 |
 | **[Matriosh](Matriosh.com)** | **[Investor Relations Intern (Remote – Performance-Based)](https://jobright.ai/jobs/info/68cecbb0fb49c96ca6ea3926?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
+| **[Sam's Club](http://www.samsclub.com)** | **[2026 Summer Corporate Intern: Sam's Club Merchandising](https://jobright.ai/jobs/info/68ce1ac51ad6b16f028a1e82?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Sep 20 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68cecb50dbd9fb154ede2dee?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 20 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Disney Entertainment Digital Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68cec1d0dbd9fb154ede28a9?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Sep 20 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/66c55a5a06c9231327cd87b6?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Sep 20 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Marketing Creative Content Intern, Spring 2026](https://jobright.ai/jobs/info/68cebdfdfb49c96ca6ea3202?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Sep 20 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Marketing MBA Intern, Joico – Spring 2026](https://jobright.ai/jobs/info/68ccd7a45954791a1d6ff6bf?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Sep 20 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68c7bdc0f42a830e1c7e7349?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68b2fdc1f4e41a61efd8873d?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Sep 20 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Events & Engagement Intern](https://jobright.ai/jobs/info/68b1fbcfbc187f64e1bd86b8?utm_campaign=1065&utm_source=git)** | Dublin, OH | Hybrid | Sep 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68ceae79dbd9fb154ede2150?utm_campaign=1065&utm_source=git)** | Medina, MN | On Site | Sep 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VITA ESTATES](vitaestates.com)** | **[Social Media & Marketing Intern l Luxury Real Estate and lifestyle brand](https://jobright.ai/jobs/info/68cde65bb2a74e1837edd337?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Sep 19 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Marketing, Mergers and Acquisitions](https://jobright.ai/jobs/info/68cde4ede23def7af55c008e?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Sep 19 |
 | **[Mad Events](https://wearemadevents.com/)** | **[Marketing Assistant](https://jobright.ai/jobs/info/68cde4241ad6b16f0289fb23?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Sep 19 |
-| **[Staples](http://www.staples.com)** | **[Customer Engagement Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cde0df1ad6b16f0289fa38?utm_campaign=1065&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Sep 19 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Customer Communications Intern](https://jobright.ai/jobs/info/68cde0691ad6b16f0289f9fd?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Sep 19 |
-| ↳ | **[Customer Communications Intern](https://jobright.ai/jobs/info/68cddffee23def7af55bfe2d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 19 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Healthcare PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68cddf77e23def7af55bfdbf?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Sep 19 |
-| **[Staples Canada](http://www.staples.ca)** | **[Customer Engagement Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68cdda5f1ad6b16f0289f716?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
