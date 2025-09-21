@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5872846f0b04af68160b?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
+| **[ThePixelCinema](ThePixelCinema.com)** | **[Music Marketing & Outreach Intern](https://jobright.ai/jobs/info/68cf550cdbd9fb154ede6f32?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Sep 20 |
 | **[Project Coin](https://sites.google.com/view/projectcoin/home?authuser=0)** | **[Social Media Team Member - High School Student](https://jobright.ai/jobs/info/68cf380edbd9fb154ede5a2b?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Side Quest](https://www.linkedin.com/company/106831212)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf21aadbd9fb154ede53fd?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[The Hotel at Auburn University](http://www.auhcc.com)** | **[Digital Marketing Asset Coordinator](https://jobright.ai/jobs/info/68cf14f1846f0b04af67f29a?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Sep 20 |
@@ -93,8 +95,12 @@ For a complete list, click the following sortable link below:
 | **[Walmart](http://www.walmart.com)** | **[2026 Summer Intern: Walmart Merchandising](https://jobright.ai/jobs/info/68cea9b1dbd9fb154ede1ea7?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Sep 20 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Fall 2025 Social & Digital Intern](https://jobright.ai/jobs/info/68948d518c6d6b44267725ef?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 20 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Communications Intern](https://jobright.ai/jobs/info/68ce9725dbd9fb154ede11ee?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
-| ↳ | **[Summer 2026 Internship – Digital Operations Intern](https://jobright.ai/jobs/info/68ce9298846f0b04af67b277?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative / Customer Service Internship](https://jobright.ai/jobs/info/68b2a3bc1ade4306aa639422?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Sep 20 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship – Digital Operations Intern](https://jobright.ai/jobs/info/68ce9298846f0b04af67b277?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 20 |
+| **[Boston Medical Center (BMC)](http://www.bmc.org/)** | **[Marketing Data & SEO Intern](https://jobright.ai/jobs/info/68c1b2e84d652f0447759385?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 20 |
+| **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Marketing Administrative / Customer Service Internship](https://jobright.ai/jobs/info/68b2dd61bc187f64e1bdf3ca?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Sep 20 |
 | **[MARLEYLILLY](https://marleylilly.com/)** | **[Merchandising Intern Fall 2026 (54891)](https://jobright.ai/jobs/info/68ce7e3bfb49c96ca6ea0f1c?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 20 |
+| **[Red Hat](http://www.redhat.com)** | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/68ce36f41ad6b16f028a305b?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Sep 20 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Foundation & Communications Intern](https://jobright.ai/jobs/info/689555a573b3a600fe886b39?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Sep 20 |
 | **[MARLEYLILLY](https://marleylilly.com/)** | **[Merchandising Intern Spring 2026 (54889)](https://jobright.ai/jobs/info/68ce71a6dbd9fb154eddfb7e?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 20 |
 | **[MillerKnoll](http://www.millerknoll.com/)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68cec693dbd9fb154ede2aef?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Sep 20 |
@@ -107,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68ce4a0fdbd9fb154edddb61?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 19 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Ecommerce & CRM Intern, D2C (February to May)](https://jobright.ai/jobs/info/68ce42d524dd5209002f0fe0?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Sep 19 |
 | ↳ | **[Summer 2026: Ecommerce & CRM Intern, D2C (May to August)](https://jobright.ai/jobs/info/68ce42531ad6b16f028a376b?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Sep 19 |
-| **[ClearMindConnect](https://www.clearmindconnect.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/68ce2589e23def7af55c2a05?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Community Relations Intern - Chippewa Valley](https://jobright.ai/jobs/info/68ce1926e23def7af55c238a?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 | ↳ | **[Community Relations Intern - St. Croix Valley](https://jobright.ai/jobs/info/68ce1818e23def7af55c20d1?utm_campaign=1065&utm_source=git)** | New Richmond, WI | On Site | Sep 19 |
 | **[MARLEYLILLY](https://marleylilly.com/)** | **[Marketing & Social Media Intern Spring 2026 (54890)](https://jobright.ai/jobs/info/68ce21cee23def7af55c284d?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc31ae23def7af55bf01f?utm_campaign=1065&utm_source=git)** | USA-PA - Pennsylvania Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc308e23def7af55beff9?utm_campaign=1065&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Sep 19 |
 | ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2efe23def7af55befb4?utm_campaign=1065&utm_source=git)** | USA-GA - Georgia Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2e7e23def7af55befa1?utm_campaign=1065&utm_source=git)** | USA-MA - Massachusetts Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2e11ad6b16f0289ec1e?utm_campaign=1065&utm_source=git)** | USA-DE - Delaware Remote | Remote | Sep 19 |
-| **[Nissan Motor Corporation](https://www.nissan-global.com/EN/)** | **[Aftersales Accessories Intern – Summer 2026 – Franklin, TN](https://jobright.ai/jobs/info/68cdc2db1ad6b16f0289ec0b?utm_campaign=1065&utm_source=git)** | Franklin, Tennessee - United States of America | On Site | Sep 19 |
-| **[Wasserman](http://www.teamwass.com)** | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2d71ad6b16f0289ec03?utm_campaign=1065&utm_source=git)** | USA-IN - Indiana Remote | Remote | Sep 19 |
-| ↳ | **[Fall 2025 Internship - NIL Marketing Intern, Baseball](https://jobright.ai/jobs/info/68cdc2d6e23def7af55bef73?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
