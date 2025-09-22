@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Qualer Asset Management](https://qualer.com)** | **[Internal Communications Specialist (Temporary )](https://jobright.ai/jobs/info/68d0f7b07727df7d5a84f198?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Sep 22 |
+| **[Volta](https://linktr.ee/volta_io)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d0f6d87727df7d5a84f0aa?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 22 |
+| **[Kirkland's](http://www.kirklands.com/)** | **[Social Media Intern (Part-Time) - The Brand House Collective](https://jobright.ai/jobs/info/68d0f48017bd5d3415aa7dc7?utm_campaign=1065&utm_source=git)** | Brentwood, TN (NSSC) | On Site | Sep 22 |
 | **[Urban Unity INC](https://www.urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68d0d8e47727df7d5a84e18a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Sep 21 |
 | **[MFS Investment Management](https://www.mfs.com)** | **[SPRING 2026 - Marketing Co-ops (6 Months)](https://jobright.ai/jobs/info/68d0d6d0f1976376178eff46?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Sep 21 |
 | **[Live Oak Bank](https://www.liveoakbank.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68d0d177f1976376178efc2b?utm_campaign=1065&utm_source=git)** | Wilmington, NC | On Site | Sep 21 |
 | **[OXYENERGY](https://oxyenergy-labs.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68d0c3c70ebfb22f38aa873c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Sep 21 |
-| **[TrueBrand](truebrandme.wixsite.com/home)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d0c3890ebfb22f38aa8721?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 21 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/68d0c34d846f0b04af6899e1?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Remote | Sep 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d0c2d3846f0b04af68999e?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Sep 21 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68d0a82d846f0b04af688f93?utm_campaign=1065&utm_source=git)** | Pflugerville, TX | Hybrid | Sep 21 |
@@ -79,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Brillient](https://brillient.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d02754dbd9fb154ededb3e?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Sep 21 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Fall Internship 2025](https://jobright.ai/jobs/info/68d00f08dbd9fb154eded193?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Sep 21 |
 | **[Henkel](http://www.henkel.com)** | **[Rotational Program Marketing & Project Intern – Summer 2026](https://jobright.ai/jobs/info/68b3db3b1ade4306aa63ce5f?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Sep 21 |
+| ↳ | **[Market & Customer Activation Intern – Summer 2026](https://jobright.ai/jobs/info/68ce4ad0dbd9fb154edddcad?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Sep 21 |
 | **[Global Nomadic](https://globalnomadic.com)** | **[Volunteer: Marketing + Communications Volunteer Placement (online and in-person) in Peru](https://jobright.ai/jobs/info/68d006da846f0b04af687048?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 21 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Consumable Licensing Intern, Spring 2026](https://jobright.ai/jobs/info/68d0062e846f0b04af686f3b?utm_campaign=1065&utm_source=git)** | Celebration, FL | On Site | Sep 21 |
 | **[TPG Hotels and Resorts](https://marshallhotels.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cff653846f0b04af686744?utm_campaign=1065&utm_source=git)** | Cranston, RI | On Site | Sep 21 |
@@ -88,9 +91,8 @@ For a complete list, click the following sortable link below:
 | **[MathWorks](http://www.mathworks.com)** | **[University of California Davis MATLAB Student Ambassador](https://jobright.ai/jobs/info/685f37415762ea8e0626d262?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Sep 21 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68cfbfa3fb49c96ca6eab3fa?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 21 |
 | **[Go Play DC (formerly CRYSP DC)](goplaydc.org)** | **[Special Events Intern](https://jobright.ai/jobs/info/68cfacedfb49c96ca6eaab19?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 21 |
-| **[Stellar](https://stellarlearning.app)** | **[High School Social Media Content Creation Paid Internship](https://jobright.ai/jobs/info/68cf6facfb49c96ca6ea897c?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 20 |
 | **[Zibbly](https://www.zibbly.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf6f8afb49c96ca6ea896b?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Sep 20 |
-| **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5897846f0b04af681625?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
+| **[quarkbooker](https://quarkbooker.com)** | **[Digital Marketing Internship (Remote / On-Site)](https://jobright.ai/jobs/info/68cf5872846f0b04af68160b?utm_campaign=1065&utm_source=git)** | Dallas, United States | Remote | Sep 20 |
 | **[MathWorks](http://www.mathworks.com)** | **[Stanford University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6752f871e4dfea73c9993916?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Sep 20 |
 | **[In Her Corner Foundation](https://www.linkedin.com/company/108979414)** | **[Digital Communication & Outreach Intern](https://jobright.ai/jobs/info/68d0dd267727df7d5a84e3bc?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Sep 20 |
 | **[The Hotel at Auburn University](http://www.auhcc.com)** | **[Digital Marketing Asset Coordinator](https://jobright.ai/jobs/info/68cf14f1846f0b04af67f29a?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Sep 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MARLEYLILLY](https://marleylilly.com/)** | **[Marketing & Social Media Intern Spring 2026 (54890)](https://jobright.ai/jobs/info/68ce21cee23def7af55c284d?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 19 |
 | **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68ce157bb2a74e1837edf1bf?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 | ↳ | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ce14f6b2a74e1837edf163?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
-| **[MARLEYLILLY](https://marleylilly.com/)** | **[Marketing & Social Media Intern Fall 2026 (54894)](https://jobright.ai/jobs/info/68ce72ea846f0b04af67a15b?utm_campaign=1065&utm_source=git)** | Greer, SC | On Site | Sep 19 |
-| **[Royal Credit Union](https://www.rcu.org)** | **[Multimedia Marketing Intern](https://jobright.ai/jobs/info/68ce347524dd5209002f080b?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Sep 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
