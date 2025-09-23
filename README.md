@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Communications Intern](https://jobright.ai/jobs/info/68d27ac8f0d9af73038d8e47?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 23 |
+| **[HII](https://hii.com)** | **[CORPORATE COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/68b6942ebc187f64e1beab13?utm_campaign=1065&utm_source=git)** | Newport News, VA | On Site | Sep 23 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Marketing, Communications & Event Management Intern - Summer 2026](https://jobright.ai/jobs/info/68bc09cb5f38327491874c7a?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Sep 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d263ee8c62e63bc7fd76ac?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Sep 23 |
 | **[Kalmbach Feeds Inc.](http://kalmbachfeeds.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d2632d8c62e63bc7fd7641?utm_campaign=1065&utm_source=git)** | Upper Sandusky, OH | On Site | Sep 23 |
+| **[Trimble Inc.](http://www.trimble.com)** | **[Marketing, Communications & Event Management Intern - Summer 2026](https://jobright.ai/jobs/info/68b735851ade4306aa648666?utm_campaign=1065&utm_source=git)** | Lake Oswego, OR | On Site | Sep 23 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Media Coding Assistant](https://jobright.ai/jobs/info/68d255538c62e63bc7fd7229?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 23 |
 | **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Digital Media Internship](https://jobright.ai/jobs/info/68d2425ba54edb3bf3e1caf4?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Sep 22 |
 | **[MantraCare](https://mantracare.org/)** | **[BDE Intern](https://jobright.ai/jobs/info/68d24e068c62e63bc7fd6ea0?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Sep 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Marketing & Publicity (NYC)](https://jobright.ai/jobs/info/68d1a8d38c62e63bc7fce1ea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 22 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing Internship - Spring 2026 - Park City, UT](https://jobright.ai/jobs/info/68d1a76da54edb3bf3e146c8?utm_campaign=1065&utm_source=git)** | Marriott's MountainSide | On Site | Sep 22 |
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/68d1a74a8c62e63bc7fcdf60?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 22 |
-| **[Orion](https://orionadvisortech.com/)** | **[Intern, Portfolio Strategy](https://jobright.ai/jobs/info/68d1a7368c62e63bc7fcdf3b?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Sep 22 |
-| **[Emerson](http://www.emerson.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1a6fc8c62e63bc7fcded2?utm_campaign=1065&utm_source=git)** | Elyria, OH | On Site | Sep 22 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Marketing, Ecco (NYC)](https://jobright.ai/jobs/info/68d1a64f8c62e63bc7fcdd8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 22 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Corporate Communications Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68d1a4b917554c2d9eeddf9f?utm_campaign=1065&utm_source=git)** | Orrville, OH | Hybrid | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
