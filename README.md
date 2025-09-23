@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Los Angeles Angels](https://www.mlb.com/angels)** | **[Los Angeles Angels-2026 Digital Media Internship](https://jobright.ai/jobs/info/68d2425ba54edb3bf3e1caf4?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Sep 22 |
+| **[MantraCare](https://mantracare.org/)** | **[BDE Intern](https://jobright.ai/jobs/info/68d24e068c62e63bc7fd6ea0?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Sep 22 |
 | **[Abbott](https://www.abbott.com)** | **[Nutrition Brand Management Intern - Infant and Adult](https://jobright.ai/jobs/info/68d2231d17554c2d9eee485c?utm_campaign=1065&utm_source=git)** | United States - Ohio - Columbus | On Site | Sep 22 |
 | **[Answerr](https://www.linkedin.com/company/104508627)** | **[AI Influencer Marketing Intern (Academic Credit)](https://jobright.ai/jobs/info/68d2218e8c62e63bc7fd47ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[Domufi](https://domufi.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68d21a3717554c2d9eee3a97?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
@@ -68,12 +70,14 @@ For a complete list, click the following sortable link below:
 | **[Reditus Space | YC W25](https://www.reditus.space)** | **[Marketing & PR Internship](https://jobright.ai/jobs/info/68d20aaea54edb3bf3e18f12?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[CAMS](http://camstex.com)** | **[Marketing and Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68d205348c62e63bc7fd248b?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 22 |
 | **[Structured Labs](https://www.structuredlabs.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/68d2048f17554c2d9eee24c3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Sep 22 |
+| **[Roundhouse](https://rndhouse.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d2040e8c62e63bc7fd233e?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Sep 22 |
 | **[Los Angeles Times](http://www.latimes.com)** | **[Client Solutions & Content Marketing Intern Part-time (LA Times Studios)](https://jobright.ai/jobs/info/68d2021b17554c2d9eee21e9?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Sep 22 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Marketing & Advertising Intern - Spring 2026](https://jobright.ai/jobs/info/68d201ee17554c2d9eee21b0?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/68d2018917554c2d9eee213e?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 22 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Marketing Operations Intern - Summer 2026](https://jobright.ai/jobs/info/68d1fedf8c62e63bc7fd20bd?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Sep 22 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[Digital Marketing Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fc65a54edb3bf3e186e9?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Sep 22 |
 | ↳ | **[Digital Marketing Intern - Baltimore, MD](https://jobright.ai/jobs/info/68d1fc498c62e63bc7fd1e59?utm_campaign=1065&utm_source=git)** | Baltimore, Maryland | On Site | Sep 22 |
+| **[Organic Valley](https://www.organicvalley.coop)** | **[Brand Management Intern](https://jobright.ai/jobs/info/68ce0097b2a74e1837ede410?utm_campaign=1065&utm_source=git)** | Cashton, WI | Hybrid | Sep 22 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d1fb1417554c2d9eee1d0d?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Sep 22 |
 | **[Carboline](https://www.carboline.com)** | **[Marketing: Event Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68d1fa00a54edb3bf3e18369?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Sep 22 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern Conversion - Marketing Associate, CMF](https://jobright.ai/jobs/info/68d1f8d68c62e63bc7fd1cb1?utm_campaign=1065&utm_source=git)** | Portage, MI | Hybrid | Sep 22 |
@@ -85,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Wellabe](https://www.wellabe.com)** | **[Social Media Summer 2026 Internship- Hybrid -Des Moines, Iowa](https://jobright.ai/jobs/info/68d1f1ee8c62e63bc7fd1705?utm_campaign=1065&utm_source=git)** | Des Moines, IA | Hybrid | Sep 22 |
 | **[Reditus Space | YC W25](https://www.reditus.space)** | **[Marketing & PR Internship](https://jobright.ai/jobs/info/68d1efaf17554c2d9eee15cc?utm_campaign=1065&utm_source=git)** | Atlanta, GA, US | On Site | Sep 22 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Marketing Communications Intern](https://jobright.ai/jobs/info/68d1ef0d17554c2d9eee140b?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Sep 22 |
-| **[Roundhouse](https://rndhouse.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d1eeb117554c2d9eee12db?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Sep 22 |
 | **[Alervio®](https://www.linkedin.com/company/106023689)** | **[Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68d1ed77a54edb3bf3e17987?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 22 |
 | **[American University](http://american.edu)** | **[Athletics Communications (Student)](https://jobright.ai/jobs/info/68d1ec8ba54edb3bf3e17886?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 22 |
 | **[GlobalFoundries](https://gf.com/)** | **[Talent Accelerator Program (2026 New College Graduate)](https://jobright.ai/jobs/info/68bf37ff5c5d5f14f46d50d7?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 22 |
@@ -98,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing Internship - Spring 2026 - Park City, UT](https://jobright.ai/jobs/info/68d1e0018c62e63bc7fd080d?utm_campaign=1065&utm_source=git)** | Park City, UT | On Site | Sep 22 |
 | **[Workout Buddy](https://workoutbuddy.online)** | **[Marketing Content Photography Intern - Unpaid](https://jobright.ai/jobs/info/68d1ddbe8c62e63bc7fd0488?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | Remote | Sep 22 |
 | **[World Vision](http://www.worldvision.org/)** | **[Digital Channels- Social Media Intern](https://jobright.ai/jobs/info/68d1dd45a54edb3bf3e16da4?utm_campaign=1065&utm_source=git)** | Home Working, United States | Remote | Sep 22 |
+| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Corporate Communications Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68d1d9888c62e63bc7fd022e?utm_campaign=1065&utm_source=git)** | Orrville, OH | Hybrid | Sep 22 |
 | **[Transparent Energy](https://transparentedge.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68d1d8208c62e63bc7fd00ca?utm_campaign=1065&utm_source=git)** | Fairfield, NJ | Hybrid | Sep 22 |
 | **[TEASPRESSA](https://teaspressa.com)** | **[Internship: Content Creator, Social Media & Affiliate Marketing](https://jobright.ai/jobs/info/68d1d3678c62e63bc7fcff18?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Sep 22 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Marketing: Event Planning Intern - Summer 2026](https://jobright.ai/jobs/info/68d1d1d3a54edb3bf3e16701?utm_campaign=1065&utm_source=git)** | 2150 Schuetz Rd, St. Louis, MO, 63146, US | On Site | Sep 22 |
@@ -112,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Global Communications (Summer 2026)](https://jobright.ai/jobs/info/68d1bf6417554c2d9eedf587?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 22 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Intern
 Job ID : 264509](https://jobright.ai/jobs/info/68d1bf2117554c2d9eedf52b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 22 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Marketing Communications Intern](https://jobright.ai/jobs/info/68d1b81017554c2d9eedef6d?utm_campaign=1065&utm_source=git)** | Denver Tech Center | On Site | Sep 22 |
-| ↳ | **[2026 Summer Marketing Communications Intern](https://jobright.ai/jobs/info/68d1b810a54edb3bf3e15957?utm_campaign=1065&utm_source=git)** | Southfield | On Site | Sep 22 |
+| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Summer Marketing Communications Intern](https://jobright.ai/jobs/info/68d1b810a54edb3bf3e15957?utm_campaign=1065&utm_source=git)** | Southfield | On Site | Sep 22 |
+| ↳ | **[2026 Summer Marketing Communications Intern](https://jobright.ai/jobs/info/68d1b81017554c2d9eedef6d?utm_campaign=1065&utm_source=git)** | Denver Tech Center | On Site | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/68d1b7bda54edb3bf3e15883?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Sep 22 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Intern Conversion - Marketing Associate, CMF](https://jobright.ai/jobs/info/68d1b6e2a54edb3bf3e1568c?utm_campaign=1065&utm_source=git)** | Portage, Michigan | Hybrid | Sep 22 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Tradeshow Coordinator Intern](https://jobright.ai/jobs/info/68d1b69d17554c2d9eedece9?utm_campaign=1065&utm_source=git)** | Plymouth, MN | Hybrid | Sep 22 |
@@ -153,9 +157,5 @@ Job ID : 264509](https://jobright.ai/jobs/info/68d1bf2117554c2d9eedf52b?utm_camp
 | **[Orion](https://orionadvisortech.com/)** | **[Intern, Portfolio Strategy](https://jobright.ai/jobs/info/68d1a7368c62e63bc7fcdf3b?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Sep 22 |
 | **[Emerson](http://www.emerson.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68d1a6fc8c62e63bc7fcded2?utm_campaign=1065&utm_source=git)** | Elyria, OH | On Site | Sep 22 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship - Marketing, Ecco (NYC)](https://jobright.ai/jobs/info/68d1a64f8c62e63bc7fcdd8e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 22 |
-| **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Corporate Communications Intern, Summer 2026, Orrville, OH](https://jobright.ai/jobs/info/68d1a4b917554c2d9eeddf9f?utm_campaign=1065&utm_source=git)** | Orrville, OH | Hybrid | Sep 22 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Summer Internship – Publicity, HarperOne (NYC)](https://jobright.ai/jobs/info/68d1a3ca17554c2d9eeddedf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 22 |
-| **[HarperCollins Christian Publishing](https://www.harpercollinschristian.com/)** | **[2026 Summer Internship - Marketing, Thomas Nelson Fiction (Nashville Hybrid)](https://jobright.ai/jobs/info/68d1a381cece431f8b58662c?utm_campaign=1065&utm_source=git)** | Nashville, TN | Hybrid | Sep 22 |
-| **[Conagra Brands](http://www.conagrabrands.com/)** | **[Summer 2026 - Brand Management Internship](https://jobright.ai/jobs/info/68d1a348cece431f8b5865cb?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 22 |
-| **[SCHERDEL North America](https://www.scherdel.com/?lang=en)** | **[Employer Branding & Marketing Intern](https://jobright.ai/jobs/info/68d1a2c317554c2d9eeddd60?utm_campaign=1065&utm_source=git)** | Muskegon, MI | Hybrid | Sep 22 |
+| ↳ | **[2026 Summer Internship – Publicity, HarperOne (NYC)](https://jobright.ai/jobs/info/68d1a3ca17554c2d9eeddedf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
