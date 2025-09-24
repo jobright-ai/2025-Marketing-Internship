@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Oncology Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68d3f55817554c2d9eef518e?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Sep 24 |
+| **[Emarsys](http://emarsys.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68d3ebe38c62e63bc7fe4e01?utm_campaign=1065&utm_source=git)** | Minnesota, United States | Hybrid | Sep 24 |
+| **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Oncology Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68d3eb635ae5a90cfd4821a9?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Sep 24 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Commercial Leader Program  Therapeutics MBA Internship](https://jobright.ai/jobs/info/68d3da255ae5a90cfd481dfd?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Sep 24 |
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68d3c47c8c62e63bc7fe47d6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
+| **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Erborian Sales & Marketing Intern (Fall 2025)](https://jobright.ai/jobs/info/689a7c24faa4e875e8258fcd?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 24 |
 | **[Burke & Herbert Bank](http://www.burkeandherbertbank.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68d3af44952b4a32e23d8925?utm_campaign=1065&utm_source=git)** | Moorefield, WV | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68d39d5c8c62e63bc7fe38c9?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Sep 24 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[PT Social Media Intern](https://jobright.ai/jobs/info/68d3905e8c62e63bc7fe2d35?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Sep 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[AD Retail Media Growth Intern](https://jobright.ai/jobs/info/68d38ca98c62e63bc7fe2957?utm_campaign=1065&utm_source=git)** | Salisbury, NC | Hybrid | Sep 23 |
-| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Client Brand Ambassador](https://jobright.ai/jobs/info/68d3d3d317554c2d9eef49fc?utm_campaign=1065&utm_source=git)** | Gainesville, GA | On Site | Sep 23 |
+| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Brand Marketing Advocate](https://jobright.ai/jobs/info/68d3eb048c62e63bc7fe4d7f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 23 |
+| ↳ | **[Client Brand Ambassador](https://jobright.ai/jobs/info/68d3d3d317554c2d9eef49fc?utm_campaign=1065&utm_source=git)** | Gainesville, GA | On Site | Sep 23 |
 | **[In Her Corner Foundation](https://www.linkedin.com/company/108979414)** | **[Digital Communication & Outreach Intern](https://jobright.ai/jobs/info/68d388288c62e63bc7fe27a6?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Sep 23 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/68d37a7417554c2d9eef1c77?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d378f2952b4a32e23d5ea2?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Sep 23 |
 | ↳ | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3782b8c62e63bc7fe1bca?utm_campaign=1065&utm_source=git)** | San Jose | On Site | Sep 23 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Retail Marketing Strategy Intern (Summer 2026)](https://jobright.ai/jobs/info/68d35b7cf0d9af73038e1658?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Sep 23 |
-| **[Chi Forest](https://www.drinkgenki.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d35b1ef0d9af73038e15c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/68d35a7af0d9af73038e14c8?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Sep 23 |
 | **[Besimple AI](https://besimple.ai/)** | **[Growth Intern - Remote Part Time](https://jobright.ai/jobs/info/68d35992f0d9af73038e138e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[CTBK](https://www.ctbk.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d3596617554c2d9eef0118?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Sep 23 |
@@ -118,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[Allegion](https://www.allegion.com)** | **[Market Research Intern, Research & Design team](https://jobright.ai/jobs/info/68d34cd58c62e63bc7fdf7fa?utm_campaign=1065&utm_source=git)** | Carmel, IN | On Site | Sep 23 |
 | **[Purple Brand](https://intl.purple-brand.com/en-in)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68d322e88c62e63bc7fde127?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[Pioneer Management Consulting](https://pioneermanagementconsulting.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/68d3223d8c62e63bc7fddfec?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Sep 23 |
+| **[SLCA North America](https://studentledca.org)** | **[High School Social Media Intern](https://jobright.ai/jobs/info/68d316d0f0d9af73038df045?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Influencers Marketing Intern](https://jobright.ai/jobs/info/68d3195817554c2d9eeeddd9?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 23 |
 | **[Devoucoux](https://north-america.devoucoux.com)** | **[Digital Marketing Intern - Devoucoux](https://jobright.ai/jobs/info/68d318ef8c62e63bc7fddbc1?utm_campaign=1065&utm_source=git)** | Wellington, FL | On Site | Sep 23 |
 | **[1NFLUENC3 MEDIA](www.1nfluenc3.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d315d817554c2d9eeedd35?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
@@ -130,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68d30f1417554c2d9eeed954?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 23 |
 | **[VITA ESTATES](vitaestates.com)** | **[VITA ESTATES Internship Program – Fall/Winter 2025 l Luxury Real Estate and lifestyle brand](https://jobright.ai/jobs/info/68d30eacf0d9af73038dea01?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | Hybrid | Sep 23 |
 | **[CLD PR](https://cldstylehouse.com)** | **[Falloween 2025 Event Intern (Celebrity & Macro Influencer Experiential Event)](https://jobright.ai/jobs/info/68d30e2517554c2d9eeed84b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 23 |
-| **[SLCA North America](https://studentledca.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/68d316d0f0d9af73038df045?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[YouWare](https://www.youware.com/)** | **[User Growth Intern](https://jobright.ai/jobs/info/68d30c6e17554c2d9eeed647?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Free Speech America Intern - Media Research Center](https://jobright.ai/jobs/info/68d30bfd17554c2d9eeed5a8?utm_campaign=1065&utm_source=git)** | Virginia | On Site | Sep 23 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Intern for Mental Health Nonprofit](https://jobright.ai/jobs/info/68d304abf0d9af73038de2ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Athlete Asset Protection](https://athleteprotection.org)** | **[NIL Marketing Agent Internship (unpaid)](https://jobright.ai/jobs/info/68d2eebe17554c2d9eeebc8f?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Sep 23 |
 | **[MGM Resorts International](http://mgmresorts.com)** | **[Social Media Coordinator - Seasonal](https://jobright.ai/jobs/info/68d2eddd8c62e63bc7fdb854?utm_campaign=1065&utm_source=git)** | Office - Bellagio | On Site | Sep 23 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Go to Market Intern](https://jobright.ai/jobs/info/68d2ed788c62e63bc7fdb788?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Sep 23 |
-| **[ColdForge](getcoldforge.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/68d2e680f0d9af73038dc9a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
-| **[Endeavor](http://www.endeavor.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/68d2e5ec8c62e63bc7fdb599?utm_campaign=1065&utm_source=git)** | Lebanon, PA | Hybrid | Sep 23 |
-| **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (ADMINISTRATIVE INTERN) (NON-CAREER)](https://jobright.ai/jobs/info/68d2e5d9f0d9af73038dc8fb?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 23 |
-| **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Marketing](https://jobright.ai/jobs/info/68d2e52517554c2d9eeeb6dd?utm_campaign=1065&utm_source=git)** | Reston, VA | Remote | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
