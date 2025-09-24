@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Commercial Leader Program  Therapeutics MBA Internship](https://jobright.ai/jobs/info/68d3da255ae5a90cfd481dfd?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Sep 24 |
+| **[Saint Xavier University](http://www.sxu.edu/)** | **[Student Ambassador - Student Employment](https://jobright.ai/jobs/info/68d3c47c8c62e63bc7fe47d6?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Sep 24 |
 | **[Burke & Herbert Bank](http://www.burkeandherbertbank.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68d3af44952b4a32e23d8925?utm_campaign=1065&utm_source=git)** | Moorefield, WV | On Site | Sep 24 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 24 |
 | **[Schoolconomy Inc.](https://schoolconomy.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68d39d5c8c62e63bc7fe38c9?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Hybrid | Sep 24 |
 | **[San Jacinto College](http://www.sanjac.edu/)** | **[PT Social Media Intern](https://jobright.ai/jobs/info/68d3905e8c62e63bc7fe2d35?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Sep 23 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[AD Retail Media Growth Intern](https://jobright.ai/jobs/info/68d38ca98c62e63bc7fe2957?utm_campaign=1065&utm_source=git)** | Salisbury, NC | Hybrid | Sep 23 |
+| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Client Brand Ambassador](https://jobright.ai/jobs/info/68d3d3d317554c2d9eef49fc?utm_campaign=1065&utm_source=git)** | Gainesville, GA | On Site | Sep 23 |
 | **[In Her Corner Foundation](https://www.linkedin.com/company/108979414)** | **[Digital Communication & Outreach Intern](https://jobright.ai/jobs/info/68d388288c62e63bc7fe27a6?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Sep 23 |
 | **[SentinelOne](http://www.sentinelone.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/68d37a7417554c2d9eef1c77?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d378f2952b4a32e23d5ea2?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Sep 23 |
@@ -97,10 +100,10 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68d338678c62e63bc7fdebb0?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Sep 23 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Social Media Creative Marketing CO-OP - REQ # 1337](https://jobright.ai/jobs/info/68d33859f0d9af73038dff37?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Sep 23 |
 | **[University of Kentucky](https://ukhealthcare.uky.edu/markey-cancer-center)** | **[Student Worker-Fine Arts Marketing Communications](https://jobright.ai/jobs/info/68d38b9617554c2d9eef28e1?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Sep 23 |
+| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Paid Internship / Marketing and Communications](https://jobright.ai/jobs/info/68d3d2038c62e63bc7fe4973?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Sep 23 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Social Commerce](https://jobright.ai/jobs/info/68d33445f0d9af73038dfe4b?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Sep 23 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[Social Video Intern](https://jobright.ai/jobs/info/68d33396f0d9af73038dfd93?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Sep 23 |
 | **[Inmar Intelligence](http://www.inmar.com)** | **[Content Management Intern, Summer 2026](https://jobright.ai/jobs/info/68d332a7f0d9af73038dfcc4?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Sep 23 |
-| **[Rho](https://rho.co)** | **[Events & Community Intern](https://jobright.ai/jobs/info/68d33261f0d9af73038dfc82?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 23 |
 | **[FIGS](http://www.wearfigs.com)** | **[Community Intern](https://jobright.ai/jobs/info/68d331f48c62e63bc7fde767?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Sep 23 |
 | **[Little League International](https://www.littleleague.org/)** | **[Media Relations Intern](https://jobright.ai/jobs/info/68d331b717554c2d9eeee8ea?utm_campaign=1065&utm_source=git)** | Williamsport, PA | On Site | Sep 23 |
 | **[Auto-Owners Insurance](https://www.auto-owners.com/)** | **[Marketing and Sales Projects Internship - Summer 2026](https://jobright.ai/jobs/info/68d32f328c62e63bc7fde5c7?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Sep 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Endeavor](http://www.endeavor.org)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/68d2e5ec8c62e63bc7fdb599?utm_campaign=1065&utm_source=git)** | Lebanon, PA | Hybrid | Sep 23 |
 | **[City of Long Beach](http://www.longbeach.gov/)** | **[COMMUNICATIONS INTERN (ADMINISTRATIVE INTERN) (NON-CAREER)](https://jobright.ai/jobs/info/68d2e5d9f0d9af73038dc8fb?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 23 |
 | **[ICF](https://www.icf.com)** | **[2026 Summer Intern, Marketing](https://jobright.ai/jobs/info/68d2e52517554c2d9eeeb6dd?utm_campaign=1065&utm_source=git)** | Reston, VA | Remote | Sep 23 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Wealth Management Marketing Summer Intern](https://jobright.ai/jobs/info/68d2e4e6f0d9af73038dc7f5?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Sep 23 |
-| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Public Relations Intern / Fall 2025](https://jobright.ai/jobs/info/68d2e42ef0d9af73038dc73a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 23 |
-| **[The Boston Beer Company](http://bostonbeer.com/)** | **[Twisted Tea Brand Team CO-OP](https://jobright.ai/jobs/info/68d2e4208c62e63bc7fdb384?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
