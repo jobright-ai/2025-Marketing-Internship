@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Really Nourished](www.reallynourished.com)** | **[Marketing + Social Media Intern (Nutrition-Focused / For College Credit)](https://jobright.ai/jobs/info/68d51d91e678d65ec7d8b3b4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Sep 25 |
+| **[SEEN Group](https://www.seengroup.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68d5173524b1ee4c7b663c57?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Sep 25 |
+| **[Aibrary](https://www.aibrary.ai/)** | **[Campus Ambassador （Internship)](https://jobright.ai/jobs/info/68d5124424b1ee4c7b663ae8?utm_campaign=1065&utm_source=git)** | Greater Boston | Hybrid | Sep 25 |
 | **[Charleston Southern University](charlestonsouthern.edu)** | **[Athletic Marketing and Promotions Assistant](https://jobright.ai/jobs/info/68d5096724b1ee4c7b6635dc?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Sep 25 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rensselaer Polytechnic Institute MATLAB Student Ambassador](https://jobright.ai/jobs/info/68cf47bfdbd9fb154ede5ef1?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Sep 25 |
 | **[Cabarrus Health Alliance](https://www.cabarrushealth.org)** | **[Healthy Living Internship](https://jobright.ai/jobs/info/68d503f7e678d65ec7d8aa0e?utm_campaign=1065&utm_source=git)** | Kannapolis, NC | On Site | Sep 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68d501e324b1ee4c7b66338e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 25 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Pool: Marketing Behavioral Lab Student Assistant](https://jobright.ai/jobs/info/68d4f3002ed36439e51e370b?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 25 |
@@ -130,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[RoboForce](https://www.roboforce.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bf8dd65c5d5f14f46d7f11?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Sep 24 |
 | **[Moncler](http://www.monclergroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d4455affc1276de3fd8f1b?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Sep 24 |
 | **[Penn State University](http://psu.edu)** | **[Part-Time Digital Media Intern](https://jobright.ai/jobs/info/68d469dc8c62e63bc7fe925b?utm_campaign=1065&utm_source=git)** | University Park, PA | On Site | Sep 24 |
+| **[LMCU](https://www.lmcu.org/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/68d441f8ffc1276de3fd8c46?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Sep 24 |
 | **[Columbia Threadneedle Investments](http://www.columbiathreadneedle.com)** | **[Content Publishing Co-op](https://jobright.ai/jobs/info/68d441208c62e63bc7fe718d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 24 |
 | **[Linn-Benton Community College](http://www.linnbenton.edu/)** | **[[Learn/Earn] Clerical and Marketing Assistant](https://jobright.ai/jobs/info/68d4569617554c2d9eef8757?utm_campaign=1065&utm_source=git)** | Albany, OR | On Site | Sep 24 |
 | ↳ | **[[WorkStudy] Clerical and Marketing Assistant](https://jobright.ai/jobs/info/68d45c4a8c62e63bc7fe8ae2?utm_campaign=1065&utm_source=git)** | Albany, OR | On Site | Sep 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68d4f3f5e678d65ec7d89e6b?utm_campaign=1065&utm_source=git)** | Indian Wells, CA | On Site | Sep 24 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/68d44a41ffc1276de3fd9678?utm_campaign=1065&utm_source=git)** | Mt. Laurel, NJ | On Site | Sep 24 |
 | **[Alliance Sport Marketing](https://www.alliancesportmarketing.com/)** | **[Marketing and Events Coordinator (Internship)](https://jobright.ai/jobs/info/68d42837ffc1276de3fd7cc9?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Sep 24 |
-| **[fortyseven communications](https://www.fortyseven.com)** | **[Postgraduate Internship Program](https://jobright.ai/jobs/info/68d426668c62e63bc7fe62f9?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 24 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68d42632ffc1276de3fd7a10?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 24 |
-| **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/68d425fbffc1276de3fd79cf?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 24 |
-| **[Ronald McDonald House Charities of Alabama](https://www.rmhca.org)** | **[Marketing, Public Relations, and Communications Internship](https://jobright.ai/jobs/info/68d425708c62e63bc7fe6237?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Sep 24 |
-| **[SentinelOne](http://www.sentinelone.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68d424588c62e63bc7fe6174?utm_campaign=1065&utm_source=git)** | United States - Remote | Remote | Sep 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
