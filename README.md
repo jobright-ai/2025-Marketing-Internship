@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Topify.ai](https://www.topify.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d7a2e97796a83635f0958b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Marketing & Corporate Communications Intern](https://jobright.ai/jobs/info/68d792b5267b154f9a2dcfa1?utm_campaign=1065&utm_source=git)** | Janney Montgomery Scott LLC, 1717 Arch Street, Philadelphia, Pennsylvania, United States of America | On Site | Sep 27 |
 | **[Youth Alliance for Leadership and Development in Africa](http://yaldafrica.org)** | **[Volunteer: Social Media Calendar & Content Development](https://jobright.ai/jobs/info/68d78b5b295f8e37655dcfc7?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Sep 26 |
 | **[Topify.ai](https://www.topify.ai/)** | **[SEO 数据产品交互设计实习生](https://jobright.ai/jobs/info/68d77f63267b154f9a2dad7b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[PayPal](https://www.paypal.com/home)** | **[Content, Messaging & Pipeline Intern](https://jobright.ai/jobs/info/68d708d6894705799a2f0069?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d7078c894705799a2efe59?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Fashion & Luxury Intern](https://jobright.ai/jobs/info/68d7057dd3fe025a3015e1d7?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Sep 26 |
+| **[Ibotta](https://home.ibotta.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68d70575d3fe025a3015e1cd?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[PowerSouth Energy Cooperative](https://www.powersouth.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68d7044ed3fe025a3015e04e?utm_campaign=1065&utm_source=git)** | Andalusia, AL | On Site | Sep 26 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Angelo State University](https://jobright.ai/jobs/info/68d7042bd3fe025a3015e01e?utm_campaign=1065&utm_source=git)** | San Angelo, TX | On Site | Sep 26 |
 | **[Harris](https://www.harriscompany.com/)** | **[Marketing + Communications Intern](https://jobright.ai/jobs/info/68d7016445853d0e39ccbfca?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Sep 26 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Lucky Stars Planning](www.luckystarsplanning.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/68d6e9bc45853d0e39ccaf1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Content Marketing (Omaha, NE)](https://jobright.ai/jobs/info/68d6e7a9894705799a2eeadb?utm_campaign=1065&utm_source=git)** | Omaha Metropolitan Area | On Site | Sep 26 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill eCommerce Engineer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e486d3fe025a3015ce80?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 26 |
-| **[Ibotta](https://home.ibotta.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68d6e449894705799a2ee8e6?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Staples](http://www.staples.com)** | **[Quill eCommerce Engineer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d6e40bd3fe025a3015cd70?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Sep 26 |
 | **[Seniors In Distress](seniorshelpdesk.org)** | **[Volunteer: Create 7-10 Compelling Social Media Posts and Templates](https://jobright.ai/jobs/info/68d6e3fed3fe025a3015cd4e?utm_campaign=1065&utm_source=git)** | Sunrise, FL | Remote | Sep 26 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship](https://jobright.ai/jobs/info/68d6e39b894705799a2ee6f8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Sep 26 |
@@ -135,11 +136,11 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Studio Influencer Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68d6e2bad3fe025a3015ca89?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Sep 26 |
 | **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6e2a645853d0e39cca9d0?utm_campaign=1065&utm_source=git)** | FORE 12500 TI Boulevard, Dallas, TX, 75243, US | On Site | Sep 26 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Digital Campaigns Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d6e2a2d3fe025a3015ca58?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Sep 26 |
-| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68d6e27a894705799a2ee4a0?utm_campaign=1065&utm_source=git)** | Remote,Other,US | Remote | Sep 26 |
 | **[Dua Health](www.duahealth.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d6de10d3fe025a3015c8b8?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 26 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Digital Campaigns Internship - Winter/Spring '26](https://jobright.ai/jobs/info/68d6dc54d3fe025a3015c72b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[AI SW Marketing Intern - Undergrad](https://jobright.ai/jobs/info/68d6d63d45853d0e39cca451?utm_campaign=1065&utm_source=git)** | Rancho Cordova, CA | On Site | Sep 26 |
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Community Relations and Youth Hockey Spring 2026 Internship, Boston Bruins](https://jobright.ai/jobs/info/68d6d5f445853d0e39cca41d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 26 |
+| **[Follett Higher Education](http://www.follett.com)** | **[Student Marketing Director - Texas Tech University Campus Store](https://jobright.ai/jobs/info/68d79dde7796a83635f0904b?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Sep 26 |
 | **[LSM](https://lsm.works)** | **[Ads & Operations Intern](https://jobright.ai/jobs/info/68d6d1e7894705799a2edfd4?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Sep 26 |
 | **[The Good Food Institute](http://www.gfi.org)** | **[Corporate Engagement Intern](https://jobright.ai/jobs/info/68d6d122d3fe025a3015c477?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern – Marketing Communications & Sales Enablement (January 2026)](https://jobright.ai/jobs/info/68d6cfc9894705799a2ede36?utm_campaign=1065&utm_source=git)** | United States of America, North Carolina, Raleigh | Hybrid | Sep 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Digital Marketing Intern](https://jobright.ai/jobs/info/68d6bae5894705799a2ed5a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Visionet Systems Inc.](https://www.visionet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d6b60045853d0e39cc961c?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d6b3f6d3fe025a3015b4ff?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Hanyul Integrated Marketing Intern](https://jobright.ai/jobs/info/68d6b039894705799a2ecf0b?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
