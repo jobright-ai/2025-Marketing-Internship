@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68c6429fc96a22563ecec272?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 27 |
+| ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829dc26fcd973d15adaf53?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Sep 27 |
+| ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/688291bfb54cac0f1e730f7b?utm_campaign=1065&utm_source=git)** | Hartford, CT | Hybrid | Sep 27 |
+| ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829d366fcd973d15adaefb?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Sep 27 |
 | **[Topify.ai](https://www.topify.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d7a2e97796a83635f0958b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Marketing & Corporate Communications Intern](https://jobright.ai/jobs/info/68d792b5267b154f9a2dcfa1?utm_campaign=1065&utm_source=git)** | Janney Montgomery Scott LLC, 1717 Arch Street, Philadelphia, Pennsylvania, United States of America | On Site | Sep 27 |
 | **[Youth Alliance for Leadership and Development in Africa](http://yaldafrica.org)** | **[Volunteer: Social Media Calendar & Content Development](https://jobright.ai/jobs/info/68d78b5b295f8e37655dcfc7?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Sep 26 |
@@ -99,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[2026 Spring Marketing Internship / Cincinnati](https://jobright.ai/jobs/info/68d7112ad3fe025a3015ea21?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Sep 26 |
 | **[Bravia Capital](http://www.braviacapital.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d70f3c45853d0e39ccca0b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Digital Media Marketing Intern](https://jobright.ai/jobs/info/68d70badd3fe025a3015e743?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Sep 26 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68d709ac894705799a2f025f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[PayPal](https://www.paypal.com/home)** | **[Content, Messaging & Pipeline Intern](https://jobright.ai/jobs/info/68d708d6894705799a2f0069?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Sep 26 |
 | **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d7078c894705799a2efe59?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 | **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Fashion & Luxury Intern](https://jobright.ai/jobs/info/68d7057dd3fe025a3015e1d7?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Sep 26 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[Tastelli](http://www.tastelli.com)** | **[Tastelli Brand Ambassador – College Students](https://jobright.ai/jobs/info/68d6ef6545853d0e39ccb1c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[SSW Student Video Production Assistant](https://jobright.ai/jobs/info/68d6ef4b45853d0e39ccb1b4?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Sep 26 |
 | **[Workiva](http://www.workiva.com)** | **[Spring 2026 Intern - Product Marketing Manager (MBA)](https://jobright.ai/jobs/info/68d6ee70894705799a2eee00?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68d70a94894705799a2f03a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Miramar, FL](https://jobright.ai/jobs/info/68d6ebcc894705799a2eecf7?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 26 |
 | **[Lucky Stars Planning](www.luckystarsplanning.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/68d6e9bc45853d0e39ccaf1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 | **[FNBO](https://www.fnbo.com)** | **[Summer Intern - Content Marketing (Omaha, NE)](https://jobright.ai/jobs/info/68d6e7a9894705799a2eeadb?utm_campaign=1065&utm_source=git)** | Omaha Metropolitan Area | On Site | Sep 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/68d6c42c45853d0e39cc9c4a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 26 |
 | **[Universities of Wisconsin](https://www.wisconsin.edu/)** | **[Theatre Marketing and Publicity Intern](https://jobright.ai/jobs/info/68d6c303894705799a2ed85d?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Sep 26 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Communications Intern](https://jobright.ai/jobs/info/68d6bfca894705799a2ed65c?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Sep 26 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Corporate + Financial Communications Intern](https://jobright.ai/jobs/info/68d6bc9545853d0e39cc9944?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 26 |
-| ↳ | **[Comcast Digital Marketing Intern](https://jobright.ai/jobs/info/68d6bae5894705799a2ed5a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
-| **[Visionet Systems Inc.](https://www.visionet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d6b60045853d0e39cc961c?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Sep 26 |
-| **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d6b3f6d3fe025a3015b4ff?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
