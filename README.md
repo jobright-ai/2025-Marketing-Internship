@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mika - AI Project Manager](https://www.linkedin.com/company/108774905)** | **[Marketing & Growth - Intern](https://jobright.ai/jobs/info/68d8b185c52ed61722c951ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68d8a0f1c52ed61722c9411a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
 | **[edgetrace](https://www.edgetrace.ai/)** | **[Go-to-Market (GTM) Intern Fall 2025](https://jobright.ai/jobs/info/68d893a622308b3db35ea209?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Sep 27 |
 | **[iHealth and Wellness Foundation](https://www.ihealthwellness.org/)** | **[Volunteer: SWOT Analysis](https://jobright.ai/jobs/info/68d88972295f8e37655e8193?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Infrrd](http://infrrd.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d86cf9295f8e37655e7823?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Sep 27 |
@@ -77,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/68d840d67a37c712687d9202?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Sep 27 |
 | **[University of La Verne](http://laverne.edu)** | **[Makerspace Outreach & Promotions Assistant - FWS (2025/2026)](https://jobright.ai/jobs/info/68d840b27796a83635f0ff1e?utm_campaign=1065&utm_source=git)** | La Verne, CA | On Site | Sep 27 |
 | **[Nimbus Line](https://www.linkedin.com/company/104976825)** | **[Communications Intern](https://jobright.ai/jobs/info/68d81680295f8e37655e54dd?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 27 |
-| **[Rent|Vest](https://www.rentvest.io)** | **[Social Media Coordinator + Canva Designer Intern](https://jobright.ai/jobs/info/68d813c3295f8e37655e53e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Influencer Marketing Internship / Spring 2026](https://jobright.ai/jobs/info/68d80e007796a83635f0ea56?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 27 |
 | **[Quill](http://www.quill.com)** | **[Quill eCommerce Engineer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d8094e7a37c712687d7e46?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d806387a37c712687d7c75?utm_campaign=1065&utm_source=git)** | Waller County, TX | Remote | Sep 27 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Associate Spring Internship Program - 2026 Competitive Insights, US Consumer Marketing – New York, NY](https://jobright.ai/jobs/info/68d76fc7295f8e37655d911d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d76d977a37c712687cce60?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d76b0f61a175619f8ccb02?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Sep 26 |
+| **[AS Beauty Group](https://asbeautyco.com)** | **[Merchandising Internship, Beauty](https://jobright.ai/jobs/info/68d8b1b1eed6e340d9e1cbed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Marketing-Sales Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/68d7590d61a175619f8c9996?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Sep 26 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – Copywriter](https://jobright.ai/jobs/info/68d757f861a175619f8c92a5?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Sep 26 |
 | **[Barry Katz Entertainment](http://www.barrykatz.com)** | **[Barry Katz Entertainment - Social Media Intern](https://jobright.ai/jobs/info/68d75700295f8e37655d51e5?utm_campaign=1065&utm_source=git)** | Malibu, CA | On Site | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern](https://jobright.ai/jobs/info/68d7012545853d0e39ccbf75?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
 | **[Babson College](http://www.babson.edu)** | **[Cutler Center Marketing Student Assistant](https://jobright.ai/jobs/info/68d6feadd3fe025a3015dbf1?utm_campaign=1065&utm_source=git)** | Wellesley MA | Hybrid | Sep 26 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Consumer PR Intern (Spring 2026)](https://jobright.ai/jobs/info/68d6fe9d894705799a2ef7de?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Sep 26 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/68d6fe64d3fe025a3015db54?utm_campaign=1065&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 26 |
-| **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6fe39d3fe025a3015db13?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
