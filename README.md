@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[edgetrace](https://www.edgetrace.ai/)** | **[Go-to-Market (GTM) Intern Fall 2025](https://jobright.ai/jobs/info/68d893a622308b3db35ea209?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Sep 27 |
+| **[iHealth and Wellness Foundation](https://www.ihealthwellness.org/)** | **[Volunteer: SWOT Analysis](https://jobright.ai/jobs/info/68d88972295f8e37655e8193?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
 | **[Infrrd](http://infrrd.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d86cf9295f8e37655e7823?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Sep 27 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68d86a51295f8e37655e7722?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68d86a0fc9952514e1e95343?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
@@ -131,6 +133,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Campus Graduate Summer Internship Program - 2026 Marketing Analytics, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d72068d3fe025a3015f1d0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[JOJA](http://www.jojanyc.com)** | **[Brand Strategy Intern - LA based](https://jobright.ai/jobs/info/68d71f8145853d0e39ccd0a3?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 26 |
 | **[Flourish By Sage](https://flourishbysage.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68d71d2e894705799a2f0c5f?utm_campaign=1065&utm_source=git)** | East Orange, NJ | Hybrid | Sep 26 |
+| **[LCRA](https://www.lcra.org/)** | **[Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68ceb57ffb49c96ca6ea3007?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 26 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Consumer PR Intern (Spring 2026)](https://jobright.ai/jobs/info/68d71be9894705799a2f0b0d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[BAY AREA PRABASI INC](http://www.prabasi.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d715f445853d0e39cccd15?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 26 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/68d7152b45853d0e39cccc95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Sep 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Consumer PR Intern (Spring 2026)](https://jobright.ai/jobs/info/68d6fe9d894705799a2ef7de?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Sep 26 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/68d6fe64d3fe025a3015db54?utm_campaign=1065&utm_source=git)** | Oshkosh, Wisconsin, United States | On Site | Sep 26 |
 | **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6fe39d3fe025a3015db13?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Sep 26 |
-| **[United Airlines](https://www.united.com)** | **[Intern - United for Business Marketing (Summer 2026)](https://jobright.ai/jobs/info/68d6fe3545853d0e39ccbb5c?utm_campaign=1065&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | Hybrid | Sep 26 |
-| **[Precision Conservation Management](https://www.precisionconservation.org)** | **[IL CORN AG ADVOCACY & COMMUNICATIONS INTERNSHIP-Summer 2026](https://jobright.ai/jobs/info/68d6f63e894705799a2ef3b7?utm_campaign=1065&utm_source=git)** | Bloomington, IL | On Site | Sep 26 |
-| **[WellDhan](https://welldhan.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68d7dfac7796a83635f0cb11?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
