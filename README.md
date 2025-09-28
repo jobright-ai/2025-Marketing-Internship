@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829a51b54cac0f1e731363?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
+| ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cd891e1ad6b16f0289b01f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
+| **[The University of New Mexico](http://unm.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d8ee3f061b716fa2959b57?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Sep 28 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/68d8d52e022fc803b48751c7?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Sep 27 |
 | **[Mika - AI Project Manager](https://www.linkedin.com/company/108774905)** | **[Marketing & Growth - Intern](https://jobright.ai/jobs/info/68d8b185c52ed61722c951ac?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68d8a0f1c52ed61722c9411a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
 | **[edgetrace](https://www.edgetrace.ai/)** | **[Go-to-Market (GTM) Intern Fall 2025](https://jobright.ai/jobs/info/68d893a622308b3db35ea209?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Sep 27 |
@@ -83,8 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Quill](http://www.quill.com)** | **[Quill eCommerce Engineer Intern (Hybrid) - June 2026](https://jobright.ai/jobs/info/68d8094e7a37c712687d7e46?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Sep 27 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d806387a37c712687d7c75?utm_campaign=1065&utm_source=git)** | Waller County, TX | Remote | Sep 27 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Marketing Business Analytics & Data Science)](https://jobright.ai/jobs/info/68cd1fb4b2a74e1837ed2b9c?utm_campaign=1065&utm_source=git)** | Vienna, VA | On Site | Sep 27 |
-| **[NY Automotive Experience Center - New York Auto Museum](https://www.newyorkautomuseum.com/index.html)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68d802fa7a37c712687d7bb4?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 27 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Scientist - Marketing Business Analytics & Data Science)](https://jobright.ai/jobs/info/68d7fb1a295f8e37655e4781?utm_campaign=1065&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
+| ↳ | **[Summer Associate Internship (Data Scientist - Marketing Business Analytics & Data Science)](https://jobright.ai/jobs/info/68d7fb1a295f8e37655e4781?utm_campaign=1065&utm_source=git)** | Pensacola, FL | Hybrid | Sep 27 |
 | ↳ | **[Summer Associate Internship (Social Media Strategist - Influencer)](https://jobright.ai/jobs/info/68bb78e55f3832749186f694?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Sep 27 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2026 Product, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68cf6bf8fb49c96ca6ea87d5?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 27 |
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/689fe07bcc9ee94dc911a633?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Sep 27 |
@@ -114,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[American Express](http://www.americanexpress.com)** | **[Campus Associate Spring Internship Program - 2026 Competitive Insights, US Consumer Marketing – New York, NY](https://jobright.ai/jobs/info/68d76fc7295f8e37655d911d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d76d977a37c712687cce60?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d76b0f61a175619f8ccb02?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Sep 26 |
-| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68d8bf52c52ed61722c95c11?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Sep 26 |
 | **[Columbia Threadneedle Investments](http://www.columbiathreadneedle.com)** | **[Content Publishing Co-op](https://jobright.ai/jobs/info/68d441208c62e63bc7fe718d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 26 |
 | **[AS Beauty Group](https://asbeautyco.com)** | **[Merchandising Internship, Beauty](https://jobright.ai/jobs/info/68d8b1b1eed6e340d9e1cbed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 26 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBCU Local Bay Area - Marketing-Sales Internship – Academic Year '25-'26](https://jobright.ai/jobs/info/68d7590d61a175619f8c9996?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Sep 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bravia Capital](http://www.braviacapital.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d70f3c45853d0e39ccca0b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Barrett Industries](https://barrettindustries.com)** | **[Digital Media Marketing Intern](https://jobright.ai/jobs/info/68d70badd3fe025a3015e743?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Sep 26 |
 | **[PayPal](https://www.paypal.com/home)** | **[Content, Messaging & Pipeline Intern](https://jobright.ai/jobs/info/68d708d6894705799a2f0069?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Sep 26 |
-| **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d7078c894705799a2efe59?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 26 |
-| **[Boston Consulting Group (BCG)](http://www.bcg.com)** | **[Fashion & Luxury Intern](https://jobright.ai/jobs/info/68d7057dd3fe025a3015e1d7?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
