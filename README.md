@@ -78,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Second Harvest Heartland](https://www.2harvest.org)** | **[Annual Giving Intern](https://jobright.ai/jobs/info/68d94b2d9a8e451a446a4865?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN | Hybrid | Sep 28 |
 | **[Uline](http://www.uline.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68cfef9edbd9fb154edec00c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Sep 28 |
 | **[Philo Homes](https://philo.homes/)** | **[Social Media Marketing Intern (Mandarin-English)](https://jobright.ai/jobs/info/68d945cc061b716fa295a27b?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 28 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Group Marketing Summer Intern](https://jobright.ai/jobs/info/68d9412b022fc803b4876f77?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 28 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d94125022fc803b4876f6c?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Sep 28 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d02f38846f0b04af68810a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Vitalis Smart Communities](www.vitalissmart.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d92cdc022fc803b4876d2b?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | On Site | Sep 28 |
@@ -88,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Observer Media](https://www.observermedia.com/)** | **[EVENTS INTERNSHIPS](https://jobright.ai/jobs/info/68d91556022fc803b4876b45?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829a51b54cac0f1e731363?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cd891e1ad6b16f0289b01f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Special Events, Food & Beverage (Summer 2026)](https://jobright.ai/jobs/info/68d59cb563d77d6f6f3f0e5c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Sep 28 |
 | **[The University of New Mexico](http://unm.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d8ee3f061b716fa2959b57?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Sep 28 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/68d8d52e022fc803b48751c7?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Sep 27 |
 | **[Henkel](http://www.henkel.com)** | **[Marketing Excellence Intern – Spring/Summer 2026](https://jobright.ai/jobs/info/68bb70af5f3832749186f242?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | Hybrid | Sep 27 |
@@ -133,10 +133,10 @@ For a complete list, click the following sortable link below:
 | **[Swedish American Chamber of Commerce Chicago](http://www.sacc-chicago.org/)** | **[Marketing Intern, SIREUS, Fall 2024](https://jobright.ai/jobs/info/68d9328a022fc803b4876db1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | ↳ | **[Marketing & Communications Assistant Intern, Spring 2026, Position Filled](https://jobright.ai/jobs/info/68d939399a8e451a446a46aa?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | ↳ | **[PR & Communication Marketing Manager Internship, SACC LA, Spring 2026](https://jobright.ai/jobs/info/68da18570b832179ca4aaf45?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 27 |
-| ↳ | **[Marketing & Business Intern, SACC-DC, Spring 2026](https://jobright.ai/jobs/info/68da16413c03cd3270942c65?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | ↳ | **[Event Marketing Manager Internship, SACC LA, Spring 2026](https://jobright.ai/jobs/info/68da19080b832179ca4ab1e1?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 27 |
-| ↳ | **[Marketing and Business Development Intern, SACC Florida, Spring 2026](https://jobright.ai/jobs/info/68da18900b832179ca4ab014?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 27 |
+| ↳ | **[Marketing & Business Intern, SACC-DC, Spring 2026](https://jobright.ai/jobs/info/68da16413c03cd3270942c65?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | ↳ | **[Business and Marketing Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68da160d3c03cd3270942c50?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 27 |
+| ↳ | **[Marketing and Business Development Intern, SACC Florida, Spring 2026](https://jobright.ai/jobs/info/68da18900b832179ca4ab014?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 27 |
 | ↳ | **[Business and Events Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68da19360b832179ca4ab2c4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 27 |
 | ↳ | **[Marketing & Cleantech Intern, SACC San Diego, Spring 2026](https://jobright.ai/jobs/info/68da16323c03cd3270942c5e?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
 | ↳ | **[Development + membership relations, SACC-San Diego, Spring 2026](https://jobright.ai/jobs/info/68da160e6df7b8311bb0c291?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
