@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68d9f1cf061b716fa295b2d6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Brand Marketing Intern](https://jobright.ai/jobs/info/68d9e279022fc803b4877d0e?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 28 |
 | **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68d9d190061b716fa295ae63?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68d9ac6a9a8e451a446a5227?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Sep 28 |
@@ -64,10 +65,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Leadership Development Program (MLDP) – Summer Intern Early Career Track](https://jobright.ai/jobs/info/68d99ee1022fc803b487786b?utm_campaign=1065&utm_source=git)** | Bloomfield, CT | On Site | Sep 28 |
 | **[Topicly](https://topiclyorg.wordpress.com/)** | **[Marketer](https://jobright.ai/jobs/info/68d99ba29a8e451a446a5050?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CreativeOPTIC (Agency)](https://creativeoptic.co)** | **[Copy Writer](https://jobright.ai/jobs/info/68d994e6022fc803b4877668?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 28 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68d98f789a8e451a446a4e6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Akari Gin](akarigin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d987069a8e451a446a4c96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Sep 28 |
 | **[Adler](https://www.linkedin.com/company/106780698)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d97eea9a8e451a446a4ba0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[Dakota Group, LLC](https://dakotagroupus.com/)** | **[Social Media And Digital Strategy Intern](https://jobright.ai/jobs/info/68d976629a8e451a446a4b28?utm_campaign=1065&utm_source=git)** | Chelsea, NY | Hybrid | Sep 28 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68d9711e9a8e451a446a4aea?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68d96bb49a8e451a446a4abc?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d96b9b9a8e451a446a4aaa?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Sep 28 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d968e69a8e451a446a4a79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 28 |
@@ -83,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Vitalis Smart Communities](www.vitalissmart.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d92cdc022fc803b4876d2b?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | On Site | Sep 28 |
 | **[Graco](http://graco.com/in/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ba059c6105227d1189a39d?utm_campaign=1065&utm_source=git)** | Rogers, MN | On Site | Sep 28 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d92806061b716fa2959f2c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 28 |
+| **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - Marketing](https://jobright.ai/jobs/info/689f87f1faa4e875e8289670?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Sep 28 |
 | **[Observer Media](https://www.observermedia.com/)** | **[EVENTS INTERNSHIPS](https://jobright.ai/jobs/info/68d91556022fc803b4876b45?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829a51b54cac0f1e731363?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cd891e1ad6b16f0289b01f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Youth Alliance for Leadership and Development in Africa](http://yaldafrica.org)** | **[Volunteer: Social Media Calendar & Content Development](https://jobright.ai/jobs/info/68d78b5b295f8e37655dcfc7?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Sep 26 |
 | **[Topify.ai](https://www.topify.ai/)** | **[SEO 数据产品交互设计实习生](https://jobright.ai/jobs/info/68d77f63267b154f9a2dad7b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Associate Spring Internship Program - 2026 Competitive Insights, US Consumer Marketing – New York, NY](https://jobright.ai/jobs/info/68d76fc7295f8e37655d911d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
-| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d76d977a37c712687cce60?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Sep 26 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d76b0f61a175619f8ccb02?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
