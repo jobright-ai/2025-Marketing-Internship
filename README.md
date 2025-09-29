@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Brand Marketing Intern](https://jobright.ai/jobs/info/68d9e279022fc803b4877d0e?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 28 |
+| **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68d9d190061b716fa295ae63?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68d9ac6a9a8e451a446a5227?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Sep 28 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Marketing Leadership Development Program (MLDP) – Summer Intern, MBA Track (On-Site)](https://jobright.ai/jobs/info/68d99eee061b716fa295ab74?utm_campaign=1065&utm_source=git)** | Bloomfield, CT | On Site | Sep 28 |
 | ↳ | **[Marketing Leadership Development Program (MLDP) – Summer Intern Early Career Track](https://jobright.ai/jobs/info/68d99ee1022fc803b487786b?utm_campaign=1065&utm_source=git)** | Bloomfield, CT | On Site | Sep 28 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cd891e1ad6b16f0289b01f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[The University of New Mexico](http://unm.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d8ee3f061b716fa2959b57?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Sep 28 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/68d8d52e022fc803b48751c7?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Sep 27 |
-| **[edgetrace](https://www.edgetrace.ai/)** | **[Go-to-Market (GTM) Intern Fall 2025](https://jobright.ai/jobs/info/68d893a622308b3db35ea209?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Sep 27 |
 | **[iHealth and Wellness Foundation, Inc.](https://www.ihealthwellness.org/)** | **[Volunteer: SWOT Analysis](https://jobright.ai/jobs/info/68d88972295f8e37655e8193?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
+| **[MathWorks](http://www.mathworks.com)** | **[Rice University MATLAB Student Ambassador](https://jobright.ai/jobs/info/6867ae3035584b6542e8c470?utm_campaign=1065&utm_source=git)** | Natick, MA | Hybrid | Sep 27 |
 | **[Infrrd](http://infrrd.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d86cf9295f8e37655e7823?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Sep 27 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68d86a51295f8e37655e7722?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Sep 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68d86a0fc9952514e1e95343?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
@@ -96,7 +98,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68d8641fc9952514e1e951d2?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Sep 27 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68d8640cc9952514e1e951b2?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Sep 27 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68d860187796a83635f10e4f?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 27 |
-| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d85e8bc9952514e1e95031?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 27 |
+| **[Topify.ai](https://www.topify.ai/)** | **[Social Media Manager](https://jobright.ai/jobs/info/68d7a2e97796a83635f0958b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d85e8bc9952514e1e95031?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Sep 27 |
 | **[Norman Regional Health System](https://www.normanregional.com)** | **[Foundation Intern for Digital Media & Content Creation](https://jobright.ai/jobs/info/68d85004c9952514e1e94b04?utm_campaign=1065&utm_source=git)** | Norman, OK | On Site | Sep 27 |
 | **[Pickle](https://www.shoponpickle.com)** | **[Pickle Growth Fellow](https://jobright.ai/jobs/info/68d848907796a83635f10343?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Sep 27 |
 | **[Mortgage Research Center](https://www.mortgageresearch.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68d844a07796a83635f100fa?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Sep 27 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Activision](https://www.activision.com/)** | **[2026 US Summer Internships - Inclusive Growth](https://jobright.ai/jobs/info/68cc9d07128dc347fd92748c?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Sep 27 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/?utm_source=linkedin&utm_medium=social&utm_campaign=aboutHT&utm_content=mainpage)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/68b9d9888043103d4f21afd5?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Sep 27 |
 | **[Walmart](http://www.walmart.com)** | **[Summer 2026 MBA Intern: Merchandising Leadership Program, MBA Intern](https://jobright.ai/jobs/info/68cd123db2a74e1837ed1cb0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Sep 27 |
-| **[Topify.ai](https://www.topify.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d7a2e97796a83635f0958b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 27 |
 | **[Janney Montgomery Scott LLC](http://www.janney.com)** | **[Marketing & Corporate Communications Intern](https://jobright.ai/jobs/info/68d792b5267b154f9a2dcfa1?utm_campaign=1065&utm_source=git)** | Janney Montgomery Scott LLC, 1717 Arch Street, Philadelphia, Pennsylvania, United States of America | On Site | Sep 27 |
 | **[Youth Alliance for Leadership and Development in Africa](http://yaldafrica.org)** | **[Volunteer: Social Media Calendar & Content Development](https://jobright.ai/jobs/info/68d78b5b295f8e37655dcfc7?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Sep 26 |
 | **[Topify.ai](https://www.topify.ai/)** | **[SEO 数据产品交互设计实习生](https://jobright.ai/jobs/info/68d77f63267b154f9a2dad7b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Associate Spring Internship Program - 2026 Competitive Insights, US Consumer Marketing – New York, NY](https://jobright.ai/jobs/info/68d76fc7295f8e37655d911d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 26 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d76d977a37c712687cce60?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Sep 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d76b0f61a175619f8ccb02?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Sep 26 |
-| **[Columbia Threadneedle Investments](http://www.columbiathreadneedle.com)** | **[Content Publishing Co-op](https://jobright.ai/jobs/info/68d441208c62e63bc7fe718d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 26 |
-| **[AS Beauty Group](https://asbeautyco.com)** | **[Merchandising Internship, Beauty](https://jobright.ai/jobs/info/68d8b1b1eed6e340d9e1cbed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
