@@ -57,22 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sniffari](https://www.linkedin.com/company/102182713)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68da6ab20b832179ca4ad7d7?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Sep 29 |
+| **[Addison Bay](https://addisonbay.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68da8cda0b832179ca4ae660?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 29 |
+| **[Affiliated Advisors](http://www.affiliatedadvisors.com)** | **[Internship](https://jobright.ai/jobs/info/68da8cc807c157682e56aff7?utm_campaign=1065&utm_source=git)** | St Louis Park, MN | Hybrid | Sep 29 |
+| **[Truewind](https://www.truewind.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/68da83cc6df7b8311bb0f57c?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Sep 29 |
+| ↳ | **[Growth Intern](https://jobright.ai/jobs/info/68da838807c157682e56aa95?utm_campaign=1065&utm_source=git)** | San Francisco, CA, US | On Site | Sep 29 |
+| **[Flaire](https://flaire.me)** | **[Growth Intern](https://jobright.ai/jobs/info/68da7c3b07c157682e56a618?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Fitchburg State University](http://www.fitchburgstate.edu/)** | **[Graduate Assistant - Fitchburg State University](https://jobright.ai/jobs/info/68da60e507c157682e56a04a?utm_campaign=1065&utm_source=git)** | Fitchburg, MA | On Site | Sep 29 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content & Brand Insights Intern, Spring 2026](https://jobright.ai/jobs/info/68da39546df7b8311bb0de38?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | On Site | Sep 29 |
 | **[Barge Design Solutions](https://www.bargedesign.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/68d459dd17554c2d9eef8b80?utm_campaign=1065&utm_source=git)** | Peachtree Corners, GA | Hybrid | Sep 28 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/68da0ed46df7b8311bb0bdaf?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 28 |
-| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68da30603c03cd3270943a0e?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Urban Outfitters Brand Marketing Intern](https://jobright.ai/jobs/info/68d9e279022fc803b4877d0e?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Sep 28 |
 | **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68d9d190061b716fa295ae63?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68d9ac6a9a8e451a446a5227?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Sep 28 |
 | **[The Cigna Group](https://www.cigna.com/)** | **[Marketing Leadership Development Program (MLDP) – Summer Intern, MBA Track (On-Site)](https://jobright.ai/jobs/info/68d99eee061b716fa295ab74?utm_campaign=1065&utm_source=git)** | Bloomfield, CT | On Site | Sep 28 |
 | ↳ | **[Marketing Leadership Development Program (MLDP) – Summer Intern Early Career Track](https://jobright.ai/jobs/info/68d99ee1022fc803b487786b?utm_campaign=1065&utm_source=git)** | Bloomfield, CT | On Site | Sep 28 |
 | **[Topicly](https://topiclyorg.wordpress.com/)** | **[Marketer](https://jobright.ai/jobs/info/68d99ba29a8e451a446a5050?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 28 |
-| **[CreativeOPTIC (Agency)](https://creativeoptic.co)** | **[Copy Writer](https://jobright.ai/jobs/info/68d994e6022fc803b4877668?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 28 |
 | **[Akari Gin](akarigin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d987069a8e451a446a4c96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Sep 28 |
 | **[Adler](https://www.linkedin.com/company/106780698)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68d97eea9a8e451a446a4ba0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 28 |
-| **[Dakota Group, LLC](https://dakotagroupus.com/)** | **[Social Media And Digital Strategy Intern](https://jobright.ai/jobs/info/68d976629a8e451a446a4b28?utm_campaign=1065&utm_source=git)** | Chelsea, NY | Hybrid | Sep 28 |
+| **[Dakota Group](https://dakotagroupus.com/)** | **[Social Media And Digital Strategy Intern](https://jobright.ai/jobs/info/68d976629a8e451a446a4b28?utm_campaign=1065&utm_source=git)** | Chelsea, NY | Hybrid | Sep 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68d96bb49a8e451a446a4abc?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 28 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d96b9b9a8e451a446a4aaa?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Sep 28 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68d968e69a8e451a446a4a79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 28 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Disney+ Growth Marketing Operations Graduate Intern, Spring 2026](https://jobright.ai/jobs/info/68d92806061b716fa2959f2c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2025 Internship - Marketing](https://jobright.ai/jobs/info/689f87f1faa4e875e8289670?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Sep 28 |
 | **[Observer Media](https://www.observermedia.com/)** | **[EVENTS INTERNSHIPS](https://jobright.ai/jobs/info/68d91556022fc803b4876b45?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
+| **[Shure Incorporated](http://www.shure.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/68bb7a528043103d4f228e61?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Sep 28 |
 | **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68829a51b54cac0f1e731363?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Sep 28 |
 | ↳ | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68cd891e1ad6b16f0289b01f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 28 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Special Events, Food & Beverage (Summer 2026)](https://jobright.ai/jobs/info/68d59cb563d77d6f6f3f0e5c?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Sep 28 |
@@ -132,14 +135,15 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68ce5ca0846f0b04af679246?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Sep 27 |
 | **[Hashtag Influencer](https://www.hashtaginfluencer.com/)** | **[Influencer Marketing Internship](https://jobright.ai/jobs/info/68c83535f9c6ff7aedf0bfce?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Sep 27 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb193d6105227d118a2db5?utm_campaign=1065&utm_source=git)** | Field, MN | On Site | Sep 27 |
+| **[Mason Companies, Inc](http://www.masoncompaniesinc.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68da8ccb07c157682e56b007?utm_campaign=1065&utm_source=git)** | Chippewa Falls, WI | On Site | Sep 27 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2026 BRANDS Summer Internship](https://jobright.ai/jobs/info/68c6659fc96a22563ecee657?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI | On Site | Sep 27 |
-| **[Swedish American Chamber of Commerce Chicago](http://www.sacc-chicago.org/)** | **[Marketing Intern, SIREUS, Fall 2024](https://jobright.ai/jobs/info/68d9328a022fc803b4876db1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
+| **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Marketing Intern, SIREUS, Fall 2024](https://jobright.ai/jobs/info/68d9328a022fc803b4876db1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
 | ↳ | **[Marketing & Communications Assistant Intern, Spring 2026, Position Filled](https://jobright.ai/jobs/info/68d939399a8e451a446a46aa?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Sep 27 |
 | ↳ | **[PR & Communication Marketing Manager Internship, SACC LA, Spring 2026](https://jobright.ai/jobs/info/68da18570b832179ca4aaf45?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 27 |
 | ↳ | **[Event Marketing Manager Internship, SACC LA, Spring 2026](https://jobright.ai/jobs/info/68da19080b832179ca4ab1e1?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Sep 27 |
 | ↳ | **[Marketing & Business Intern, SACC-DC, Spring 2026](https://jobright.ai/jobs/info/68da16413c03cd3270942c65?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 27 |
-| ↳ | **[Marketing and Business Development Intern, SACC Florida, Spring 2026](https://jobright.ai/jobs/info/68da18900b832179ca4ab014?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 27 |
 | ↳ | **[Business and Marketing Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68da160d3c03cd3270942c50?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 27 |
+| ↳ | **[Marketing and Business Development Intern, SACC Florida, Spring 2026](https://jobright.ai/jobs/info/68da18900b832179ca4ab014?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Sep 27 |
 | ↳ | **[Business and Events Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68da19360b832179ca4ab2c4?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Sep 27 |
 | ↳ | **[Marketing & Cleantech Intern, SACC San Diego, Spring 2026](https://jobright.ai/jobs/info/68da16323c03cd3270942c5e?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
 | ↳ | **[Development + membership relations, SACC-San Diego, Spring 2026](https://jobright.ai/jobs/info/68da160e6df7b8311bb0c291?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Sep 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](http://www.spx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bb85565f3832749186fc42?utm_campaign=1065&utm_source=git)** | Burr Ridge, IL | On Site | Sep 27 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studio Influencer Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68d7d31d7796a83635f0c0ef?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Sep 27 |
 | **[Apollo Global Management, Inc.](https://www.apollo.com)** | **[2026 Summer Analyst, Institutional Client Group](https://jobright.ai/jobs/info/68c9867da0c52d598ea3834f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 27 |
-| **[Weil-McLain](https://www.weil-mclain.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cea21ffb49c96ca6ea255b?utm_campaign=1065&utm_source=git)** | Burr Ridge, IL | On Site | Sep 27 |
-| **[Union Pacific Railroad](http://www.up.com/)** | **[Year Round Intern - Corporate Relations](https://jobright.ai/jobs/info/68ca3a97d4187c55157a8718?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Sep 27 |
-| **[Thomson Reuters](http://thomsonreuters.com)** | **[Student Brand Ambassador](https://jobright.ai/jobs/info/68c6429fc96a22563ecec272?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Sep 27 |
-| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Sep 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
