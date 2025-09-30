@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Advize](https://advizehealth.com)** | **[Event Marketing Intern](https://jobright.ai/jobs/info/68dbab6d3d59b17e43bcfff8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Marketing Master’s Data & AI Intern](https://jobright.ai/jobs/info/68dba8133d59b17e43bcf624?utm_campaign=1065&utm_source=git)** | Round Rock, TX | Hybrid | Sep 30 |
+| **[Aramark](http://www.aramark.com)** | **[Student Worker - Marketing Intern - Samford University](https://jobright.ai/jobs/info/68dba48f3d59b17e43bceb90?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Sep 30 |
 | **[MeaVana ](https://meavana.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68db9a4f9f13662d20e4f1ac?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 30 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - McAllen/Brownsville](https://jobright.ai/jobs/info/68db92839f13662d20e4e2e5?utm_campaign=1065&utm_source=git)** | McAllen, TX | On Site | Sep 30 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[THORPE INTERN TRANSIT - COMMUNITY OUTREACH](https://jobright.ai/jobs/info/68db831534f2c406da6d8cfe?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Hybrid | Sep 30 |
@@ -103,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[SoleLuxe](www.soleluxe.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68db0f776df7b8311bb15cc0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68db0f690dffed6f83d2c4fc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68db0f516df7b8311bb15c65?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68db0f140dffed6f83d2c406?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Shainin](https://www.shainin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68db0c29e9b48513789b1725?utm_campaign=1065&utm_source=git)** | Northville, MI | Hybrid | Sep 29 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Corporate Marketing Summer Intern](https://jobright.ai/jobs/info/68db0860e9b48513789b154e?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Sep 29 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall 2025 Creator Marketing and Entertainment Internship](https://jobright.ai/jobs/info/68db0852e9b48513789b1533?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
@@ -127,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Billion Dollar Beauty](https://billiondollarbeauty.com/pages/brows)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68daf6900dffed6f83d2b4da?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Sep 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Digital Growth Graduate Internship](https://jobright.ai/jobs/info/68daf6860dffed6f83d2b4c0?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Sep 29 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – IBM Marketing (New York City)](https://jobright.ai/jobs/info/68daf5f20dffed6f83d2b34e?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Sep 29 |
-| **[Nomad Group](https://nomadgroup.io)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/68daf5256df7b8311bb14ad9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Nomad](https://nomadgroup.io)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/68daf5256df7b8311bb14ad9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Evvolve & Partners](http://evvolve.io/)** | **[Investor Engagement Intern](https://jobright.ai/jobs/info/68daf22607c157682e56fedc?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | ↳ | **[VC Marketing Intern](https://jobright.ai/jobs/info/68daf05007c157682e56fb48?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Risepoint](http://www.risepoint.com)** | **[Marketing & Ops Intern](https://jobright.ai/jobs/info/68daf04d6df7b8311bb146ef?utm_campaign=1065&utm_source=git)** | US - Remote | Remote | Sep 29 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2026 Public Relations (Paid) Intern](https://jobright.ai/jobs/info/68dad9970b832179ca4b1d47?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Marketing (Paid) Intern](https://jobright.ai/jobs/info/68dad9296df7b8311bb13002?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Marketing (Paid) Intern](https://jobright.ai/jobs/info/68dad78a6df7b8311bb12e64?utm_campaign=1065&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dad7600b832179ca4b19af?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
 | **[Raya Diagnostics](https://www.raya-diagnostics.com)** | **[Marketing Werkstudent:in (m/w/d)](https://jobright.ai/jobs/info/68dad74d07c157682e56e4ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Princess Cruises](http://www.princess.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad73a6df7b8311bb12d49?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 29 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Public Markets Manager Research Intern](https://jobright.ai/jobs/info/68dad7186df7b8311bb12ce4?utm_campaign=1065&utm_source=git)** | Madison Wisconsin | On Site | Sep 29 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad6ee0b832179ca4b1858?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 29 |
-| **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern ( Spring 2026)](https://jobright.ai/jobs/info/68dad6e30b832179ca4b1829?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dad6bf0b832179ca4b17c1?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad6af6df7b8311bb12b6c?utm_campaign=1065&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 29 |
-| **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Corporate Marketing Summer Intern](https://jobright.ai/jobs/info/68dad68f6df7b8311bb12af8?utm_campaign=1065&utm_source=git)** | Alachua, FL | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
