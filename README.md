@@ -57,6 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReliefWeb](http://reliefweb.int/)** | **[Fundraising Intern – Event Coordination (based in New York)](https://jobright.ai/jobs/info/68dc16756f6c5c3fadf36680?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 30 |
+| **[Birchs Communications](http://birchscommunications.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc164f6f6c5c3fadf36647?utm_campaign=1065&utm_source=git)** | Dorothy, NJ | Hybrid | Sep 30 |
+| **[State of Tennessee](https://www.tn.gov/)** | **[MEDIA RELATIONS INTERN - 71839](https://jobright.ai/jobs/info/68dc16166f6c5c3fadf365fd?utm_campaign=1065&utm_source=git)** | Davidson County, TN | On Site | Sep 30 |
+| **[Independent Force LLC](www.independentforceusa.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68dc15b56f6c5c3fadf36564?utm_campaign=1065&utm_source=git)** | Ohio, United States | Remote | Sep 30 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68dc12356f6c5c3fadf36462?utm_campaign=1065&utm_source=git)** | Kohler, WI | On Site | Sep 30 |
+| **[Barrett Industries](https://barrettindustries.com)** | **[Digital Media Marketing Intern](https://jobright.ai/jobs/info/68d70badd3fe025a3015e743?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Sep 30 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[AI-Powered Marketing Operations & Project Management Intern - Indianapolis, Indiana](https://jobright.ai/jobs/info/68dc0f2497329f2f77322581?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| **[Gordon Food Service](https://www.gfs.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/68dc0f1297329f2f77322544?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Sep 30 |
+| **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Market Access Summer Intern](https://jobright.ai/jobs/info/68dc0eaf6f6c5c3fadf3625b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Remote | Sep 30 |
+| **[Bogart Associates](https://www.linkedin.com/company/20511206)** | **[Political Fundraising Intern](https://jobright.ai/jobs/info/68dc0ea56f6c5c3fadf3623b?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Sep 30 |
+| **[Safe Passage Project](https://www.safepassageproject.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68dc0d46d6470e72cf4d8515?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Sep 30 |
+| **[Alphametic](http://alphametic.com/)** | **[Digital Marketing Intern -  Paid (SEO/SEM/Analytics) - Miami, FL](https://jobright.ai/jobs/info/68dc0c67d6470e72cf4d8376?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 30 |
+| **[Clean Power Alliance](https://cleanpoweralliance.org/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68dc0b3697329f2f77322401?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Sep 30 |
+| **[Outsmart Labs](http://outsmartlabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc0ada6f6c5c3fadf36141?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 30 |
+| **[GoStudent](https://gostudent.org)** | **[Werkstudent (m/w/d) - SEO](https://jobright.ai/jobs/info/68dc0ab797329f2f773222dd?utm_campaign=1065&utm_source=git)** | Germany, PA | Remote | Sep 30 |
+| **[Elle and Bee Clothing](www.shopelleandbee.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc0a1c97329f2f773221a5?utm_campaign=1065&utm_source=git)** | Bloomingdale, NJ | Hybrid | Sep 30 |
+| **[We Are Unicorns](https://www.weareunicorns.co)** | **[Marketing Intern / Winter 2025-26](https://jobright.ai/jobs/info/68dc0a016f6c5c3fadf35f66?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Sep 30 |
+| **[MBG360](www.mbg360.com)** | **[Finance & Culture Research Intern](https://jobright.ai/jobs/info/68dc02246f6c5c3fadf35ce9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68dbffe0d6470e72cf4d7e30?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 30 |
+| **[Lele Sadoughi](http://www.lelesadoughi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dbffb1d6470e72cf4d7dce?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Merchandising Intern (2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68dbfe6197329f2f77321d11?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Sep 30 |
+| **[Beia](https://beiabeauty.com)** | **[Marketing & Operations Intern (Winter 2025)](https://jobright.ai/jobs/info/68dbfe3e97329f2f77321cc7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/68dbfd9f6f6c5c3fadf35a5e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Acuity Insurance](http://www.acuity.com)** | **[Strategic Information Intern (Summer 2026)](https://jobright.ai/jobs/info/68dbfa9197329f2f77321b7b?utm_campaign=1065&utm_source=git)** | Sheboygan, WI | On Site | Sep 30 |
 | **[Service Express](https://www.serviceexpress.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68dbf5ea6f6c5c3fadf355d9?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Sep 30 |
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/68dbf368d6470e72cf4d7769?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 30 |
@@ -78,6 +101,7 @@ For a complete list, click the following sortable link below:
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dbafecd6470e72cf4d0e24?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI | On Site | Sep 30 |
 | **[MeloTech](https://www.melotech.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/68dbd9ce97329f2f7731ef2c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | ↳ | **[Performance Marketing Intern](https://jobright.ai/jobs/info/68dbd80a6f6c5c3fadf32765?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| ↳ | **[YouTube Platform Intern](https://jobright.ai/jobs/info/68dc05d897329f2f77321fa1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | **[Unbound](https://www.instagram.com/unbound.bookishdesign/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dbd8fb6f6c5c3fadf3285d?utm_campaign=1065&utm_source=git)** | Millersville, MD | Hybrid | Sep 29 |
 | **[Elevatum](linkpop.com/elevatum)** | **[Social Media & Personal Brand Intern (6-Month Internship)](https://jobright.ai/jobs/info/68dbd9596f6c5c3fadf328b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Moments](www.havemoments.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68db67cae19b9e63ba20bb5a?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | Sep 28 |
