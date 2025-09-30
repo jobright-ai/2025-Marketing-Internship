@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Agency Channel Performance - Channel Delivery Analyst](https://jobright.ai/jobs/info/68dc31f297329f2f77323554?utm_campaign=1065&utm_source=git)** | Richardson, TX | Hybrid | Sep 30 |
+| ↳ | **[Summer 2026 Intern - Agency Channel Performance - Channel Delivery Analyst](https://jobright.ai/jobs/info/68dc31dc97329f2f77323536?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Sep 30 |
+| ↳ | **[Summer 2026 Intern - Agency Channel Performance - Channel Delivery Analyst](https://jobright.ai/jobs/info/68dc31dc66059a42a715c631?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Sep 30 |
+| **[AriaReply.ai](https://www.ariareply.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc2e3597329f2f7732347a?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Core Value Capital](www.corevaluetrading.com)** | **[Forum & Community Engagement Intern – Core Value Capital](https://jobright.ai/jobs/info/68dc2da566059a42a715c516?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Sep 30 |
+| **[ReplyQuickAI](https://www.replyquick.ai)** | **[Marketing Internship](https://jobright.ai/jobs/info/68dc29d266059a42a715c327?utm_campaign=1065&utm_source=git)** | Sarasota, FL | Remote | Sep 30 |
+| **[DOLCE&GABBANA](https://www.dolcegabbana.com)** | **[DGB Americas Marketing Intern](https://jobright.ai/jobs/info/68dc20bfd6470e72cf4d8bf2?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Sep 30 |
+| **[Pella Corporation](http://www.pella.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68dc1d1c97329f2f77322af9?utm_campaign=1065&utm_source=git)** | Pella, IA | On Site | Sep 30 |
+| **[Numeric](https://www.numeric.io/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dc1cf466059a42a715bd08?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Sep 30 |
+| **[World Wide Sports Radio Network](https://worldwidesportsradio.com/)** | **[Sports Media Internship](https://jobright.ai/jobs/info/68dc1c58d6470e72cf4d8b17?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
+| **[Brain Capital AI](https://braincapital.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc18ded6470e72cf4d8a80?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
 | **[ReliefWeb](http://reliefweb.int/)** | **[Fundraising Intern – Event Coordination (based in New York)](https://jobright.ai/jobs/info/68dc16756f6c5c3fadf36680?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Sep 30 |
 | **[Birchs Communications](http://birchscommunications.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dc164f6f6c5c3fadf36647?utm_campaign=1065&utm_source=git)** | Dorothy, NJ | Hybrid | Sep 30 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[MEDIA RELATIONS INTERN - 71839](https://jobright.ai/jobs/info/68dc16166f6c5c3fadf365fd?utm_campaign=1065&utm_source=git)** | Davidson County, TN | On Site | Sep 30 |
@@ -85,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/68dbf368d6470e72cf4d7769?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 30 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[Procurement Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68dbf0e297329f2f77321401?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Sep 30 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Field Marketing Events Intern – Research Triangle Park, NC](https://jobright.ai/jobs/info/68dbe7b56f6c5c3fadf34088?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Sep 30 |
-| **[Syvaq Technologies](www.syvaq.com)** | **[Founding Social Media & Community Intern (Future Marketing Leader)](https://jobright.ai/jobs/info/68dbe6666f6c5c3fadf33bbc?utm_campaign=1065&utm_source=git)** | Delray Beach, FL | Remote | Sep 30 |
 | **[DataInsta](www.datainsta.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dbe352d6470e72cf4d57de?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 30 |
 | **[Tangify](https://www.tangify.co)** | **[Social Media Intern](https://jobright.ai/jobs/info/68dbe2c8d6470e72cf4d564b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Sep 30 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[ECommerce Summer Intern](https://jobright.ai/jobs/info/68dbd9ad97329f2f7731ef0b?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Sep 30 |
@@ -102,6 +112,8 @@ For a complete list, click the following sortable link below:
 | **[MeloTech](https://www.melotech.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/68dbd9ce97329f2f7731ef2c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | ↳ | **[Performance Marketing Intern](https://jobright.ai/jobs/info/68dbd80a6f6c5c3fadf32765?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
 | ↳ | **[YouTube Platform Intern](https://jobright.ai/jobs/info/68dc05d897329f2f77321fa1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 30 |
+| **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[THORPE INTERN TRANSIT - COMMUNITY OUTREACH](https://jobright.ai/jobs/info/68dc2156d6470e72cf4d8d69?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Hybrid | Sep 29 |
+| **[AVI Foodsystems](http://www.AVIFoodsystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dc1d0e97329f2f77322ad6?utm_campaign=1065&utm_source=git)** | Youngstown, OH | On Site | Sep 29 |
 | **[Unbound](https://www.instagram.com/unbound.bookishdesign/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dbd8fb6f6c5c3fadf3285d?utm_campaign=1065&utm_source=git)** | Millersville, MD | Hybrid | Sep 29 |
 | **[Elevatum](linkpop.com/elevatum)** | **[Social Media & Personal Brand Intern (6-Month Internship)](https://jobright.ai/jobs/info/68dbd9596f6c5c3fadf328b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Moments](www.havemoments.com)** | **[Social Media & Content Creation Intern](https://jobright.ai/jobs/info/68db67cae19b9e63ba20bb5a?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | Sep 28 |
