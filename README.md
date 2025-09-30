@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MeaVana ](https://meavana.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68db9a4f9f13662d20e4f1ac?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Sep 30 |
+| **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Management Trainee Spring Internship - McAllen/Brownsville](https://jobright.ai/jobs/info/68db92839f13662d20e4e2e5?utm_campaign=1065&utm_source=git)** | McAllen, TX | On Site | Sep 30 |
 | **[Town of Chapel Hill, NC](http://www.townofchapelhill.org)** | **[THORPE INTERN TRANSIT - COMMUNITY OUTREACH](https://jobright.ai/jobs/info/68db831534f2c406da6d8cfe?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | Hybrid | Sep 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68db70fb34f2c406da6d817b?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Sep 29 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Marketing Coordinator](https://jobright.ai/jobs/info/68db648c34f2c406da6d78ae?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Sep 29 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Intern, Digital Marketing & Promotions](https://jobright.ai/jobs/info/68db50e934f2c406da6d69e5?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Sep 29 |
 | **[Finvest](https://getfinvest.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68db50de34f2c406da6d69ae?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Sep 29 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[2026 Spring Internship - Marketing & Publicity (Remote)](https://jobright.ai/jobs/info/68d1a27ccece431f8b58648d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68db482034f2c406da6d5de9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Acadia Insurance (a Berkley Company)](https://www.acadiainsurance.com/)** | **[Summer Intern, Marketing](https://jobright.ai/jobs/info/68db437d9f13662d20e4907b?utm_campaign=1065&utm_source=git)** | NJ, Moorestown | On Site | Sep 29 |
 | ↳ | **[Summer Intern, Marketing](https://jobright.ai/jobs/info/68db437ce19b9e63ba209ba2?utm_campaign=1065&utm_source=git)** | US-NJ-Moorestown | On Site | Sep 29 |
 | **[Dimensional Innovations](https://www.dimin.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68db3678e19b9e63ba20950d?utm_campaign=1065&utm_source=git)** | Overland Park, KS, USA | On Site | Sep 29 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Illinois Soybean Association](http://www.ilsoy.org)** | **[Communications Internship-Summer 2026](https://jobright.ai/jobs/info/68db2b57e9b48513789b25a5?utm_campaign=1065&utm_source=git)** | Illinois Soybean Association-Bloomington | On Site | Sep 29 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68db2b51e9b48513789b2583?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Illinois Soybean Association](http://www.ilsoy.org)** | **[Market Development Internship-Summer 2026-Lombard](https://jobright.ai/jobs/info/68db2b38e9b48513789b2508?utm_campaign=1065&utm_source=git)** | Illinois Soybean Association-Lombard | On Site | Sep 29 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68db2b10e9b48513789b247e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Sep 29 |
 | **[Welldoc](https://www.welldoc.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68db2b06e9b48513789b2460?utm_campaign=1065&utm_source=git)** | Columbia, Maryland, United States | Hybrid | Sep 29 |
 | **[Illinois Soybean Association](http://www.ilsoy.org)** | **[Market Development Internship-Summer 2026-Bloomington](https://jobright.ai/jobs/info/68db2afa0dffed6f83d2ced5?utm_campaign=1065&utm_source=git)** | Illinois Soybean Association-Bloomington | On Site | Sep 29 |
 | **[WeVote](https://www.WeVote.US)** | **[About UsNewsletter Writer/Content Developer](https://jobright.ai/jobs/info/68db2af10dffed6f83d2ceb8?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
@@ -101,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[SoleLuxe](www.soleluxe.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68db0f776df7b8311bb15cc0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Sep 29 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68db0f690dffed6f83d2c4fc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68db0f516df7b8311bb15c65?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
-| ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68db0f140dffed6f83d2c406?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
 | **[Shainin](https://www.shainin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68db0c29e9b48513789b1725?utm_campaign=1065&utm_source=git)** | Northville, MI | Hybrid | Sep 29 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Corporate Marketing Summer Intern](https://jobright.ai/jobs/info/68db0860e9b48513789b154e?utm_campaign=1065&utm_source=git)** | Gainesville, FL | On Site | Sep 29 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall 2025 Creator Marketing and Entertainment Internship](https://jobright.ai/jobs/info/68db0852e9b48513789b1533?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2026 Public Relations (Paid) Intern](https://jobright.ai/jobs/info/68dad9970b832179ca4b1d47?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Marketing (Paid) Intern](https://jobright.ai/jobs/info/68dad9296df7b8311bb13002?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Sep 29 |
 | ↳ | **[Spring 2026 Marketing (Paid) Intern](https://jobright.ai/jobs/info/68dad78a6df7b8311bb12e64?utm_campaign=1065&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
-| **[Americold Logistics, LLC.](http://americold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dad7600b832179ca4b19af?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
 | **[Raya Diagnostics](https://www.raya-diagnostics.com)** | **[Marketing Werkstudent:in (m/w/d)](https://jobright.ai/jobs/info/68dad74d07c157682e56e4ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 29 |
 | **[Princess Cruises](http://www.princess.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad73a6df7b8311bb12d49?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 29 |
 | **[State of Wisconsin Investment Board](http://www.swib.state.wi.us)** | **[Public Markets Manager Research Intern](https://jobright.ai/jobs/info/68dad7186df7b8311bb12ce4?utm_campaign=1065&utm_source=git)** | Madison Wisconsin | On Site | Sep 29 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad6ee0b832179ca4b1858?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Sep 29 |
 | **[Roller Rabbit](http://rollerrabbit.com)** | **[Social Media & Marketing Intern ( Spring 2026)](https://jobright.ai/jobs/info/68dad6e30b832179ca4b1829?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Sep 29 |
+| **[Americold Logistics, LLC.](http://americold.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dad6bf0b832179ca4b17c1?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 29 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Global Gaming Marketing Special Events - Summer 2026 Intern](https://jobright.ai/jobs/info/68dad6af6df7b8311bb12b6c?utm_campaign=1065&utm_source=git)** | 3655 NW 87th Avenue, Miami, FL, 33178, US | Hybrid | Sep 29 |
 | **[Tower Hill Insurance Group](https://www.thig.com/)** | **[Corporate Marketing Summer Intern](https://jobright.ai/jobs/info/68dad68f6df7b8311bb12af8?utm_campaign=1065&utm_source=git)** | Alachua, FL | On Site | Sep 29 |
-| **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Spring 2026 Public Relations (Paid) Intern](https://jobright.ai/jobs/info/68dad65107c157682e56e1a7?utm_campaign=1065&utm_source=git)** | Country Music Hall of Fame and Museum | On Site | Sep 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
