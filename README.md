@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68df446bfe896042b0b78c9c?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Oct 02 |
+| **[Target](https://www.target.com)** | **[Roundel Marketing Internship - Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68df32e6fe896042b0b77bfb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68df2e80fe896042b0b7791a?utm_campaign=1065&utm_source=git)** | Durham, NC | Hybrid | Oct 02 |
 | **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/68df28c76be63b6ec996cb0c?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Oct 02 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68df25fffe896042b0b7750c?utm_campaign=1065&utm_source=git)** | Kennesaw, GA | On Site | Oct 02 |
 | **[Cheekwood](https://cheekwood.org)** | **[Events Intern - Spring 2026](https://jobright.ai/jobs/info/68df21865ab4977c2e950e21?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 02 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[GenZFacilitySolutions](http://www.GenZFacilitySolutions.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68df0a765ab4977c2e94d687?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 02 |
 | **[StoryGold](http://storygold.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ded4d8a125e75c422b7204?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Connected Product Marketing Analyst](https://jobright.ai/jobs/info/68ded4a144d32141e0c02be4?utm_campaign=1065&utm_source=git)** | Lewisville, TX | Hybrid | Oct 02 |
-| ↳ | **[Summer Internship - Product Marketing](https://jobright.ai/jobs/info/68ded48fa125e75c422b7199?utm_campaign=1065&utm_source=git)** | Renton, WA | Hybrid | Oct 02 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Marketing and Communications Intern](https://jobright.ai/jobs/info/68ded46d09bda65a4b62e183?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
 | **[Golin](http://golin.com/)** | **[Corporate Marketing Graduate Internship](https://jobright.ai/jobs/info/68ded42ca125e75c422b7104?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Retail Marketing](https://jobright.ai/jobs/info/68ded41aa125e75c422b70d1?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Oct 02 |
@@ -132,14 +134,10 @@ For a complete list, click the following sortable link below:
 | **[GE Vernova](https://www.gevernova.com)** | **[GE Vernova Marketing and  Commercial Data and Process Enablement Intern - Summer 2026](https://jobright.ai/jobs/info/68dead05a125e75c422b5bbc?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Oct 02 |
 | **[Golin London](https://golin.com/emea/)** | **[Corporate Marketing Graduate Internship](https://jobright.ai/jobs/info/68deaca2a125e75c422b5b14?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[KABC-TV (ABC7) Social Media & Audience Engagement Intern, Spring 2026](https://jobright.ai/jobs/info/68deac63a125e75c422b5a46?utm_campaign=1065&utm_source=git)** | Glendale, CA, USA | On Site | Oct 02 |
-| **[High Level Media Sports](https://www.highlevelmediasports.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68deac4844d32141e0c01786?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Wholesome Goods](https://www.wholesomegoods.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dea90ea125e75c422b58c6?utm_campaign=1065&utm_source=git)** | Clearwater, FL | On Site | Oct 02 |
 | **[Legends](http://legends.net)** | **[Intern (CSL International)](https://jobright.ai/jobs/info/68dea85fa125e75c422b5788?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Communications Intern - Empire Center for Public Policy](https://jobright.ai/jobs/info/68dea80e44d32141e0c01499?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 02 |
-| **[Humanity & Wellness Expansion LLC ](Humanityexpansion.com)** | **[Social Media & Marketing Intern (Professional Development Experience)](https://jobright.ai/jobs/info/68dea80644d32141e0c01491?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Oct 02 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dea41c09bda65a4b62c829?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 02 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68dea3ec44d32141e0c01413?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 02 |
-| **[Vilostudios](https://vilostudios.com/)** | **[Intern Marketing Content Specialist](https://jobright.ai/jobs/info/68dea39a44d32141e0c01370?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
 | **[The Hartford](http://www.thehartford.com)** | **[2026 Summer Intern - Marketing & PR](https://jobright.ai/jobs/info/68de9bbd09bda65a4b62bcc5?utm_campaign=1065&utm_source=git)** | Wayne, PA | Hybrid | Oct 02 |
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68de98c244d32141e0c00f19?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Clarios](https://www.clarios.com/)** | **[Digital Media Intern (Summer 2026)](https://jobright.ai/jobs/info/68de95f109bda65a4b62b850?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Oct 02 |
@@ -155,6 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c22f7e33864f172f9bdb3c?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Oct 02 |
 | **[RENK America](https://www.renk.com/en/company/about-renk/locations/muskegon)** | **[Intern - Marketing and Communications](https://jobright.ai/jobs/info/68de878109bda65a4b62b129?utm_campaign=1065&utm_source=git)** | Muskegon, MI | On Site | Oct 02 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – IBM Product Marketing](https://jobright.ai/jobs/info/68dea4f509bda65a4b62c98d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 02 |
+| **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Integrated Communications Intern](https://jobright.ai/jobs/info/68df36fdfe896042b0b77daf?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Oct 02 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68de784144d32141e0c002ae?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 02 |
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Digital Marketing Intern IFBF - May 2026 - May 2027](https://jobright.ai/jobs/info/68de973909bda65a4b62ba3e?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Oct 02 |
+| **[ChampionX](https://www.championx.com)** | **[Commercial Marketing Intern](https://jobright.ai/jobs/info/68c63c4fc96a22563eceb98d?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
