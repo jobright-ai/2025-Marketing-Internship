@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[International Content Strategy & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e925ab4977c2e9551ec?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | **[DormMe](https://www.dormme.app)** | **[(Student Role) Social Media Marketing - UNPAID](https://jobright.ai/jobs/info/68df5dec5ab4977c2e953c1a?utm_campaign=1065&utm_source=git)** | San Luis Obispo County, CA | Remote | Oct 02 |
 | **[YTK Media](https://www.ytkmedia.com)** | **[Content Campaign Internship - Fall/Winter 2025/2026](https://jobright.ai/jobs/info/68df53fe6be63b6ec996ed1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68df53826be63b6ec996ec82?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Oct 02 |
@@ -74,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Allegheny County Department of Human Services](http://www.alleghenycounty.us/dhs)** | **[2026 Allegheny County Department of Human Services Internship Program - Children, Youth & Family](https://jobright.ai/jobs/info/68df20545ab4977c2e9509d6?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 02 |
 | **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Athlete Success & Partnerships Coordinator ( Internship )](https://jobright.ai/jobs/info/68df1f55fe896042b0b76dea?utm_campaign=1065&utm_source=git)** | Bradenton, FL | On Site | Oct 02 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Socials Marketing Fall Startup Internship (Unpaid)](https://jobright.ai/jobs/info/68df1f31fe896042b0b76db8?utm_campaign=1065&utm_source=git)** | Berkeley, CA | Remote | Oct 02 |
+| **[BWXT](http://www.bwxt.com/)** | **[Communications Intern (Year-Round)](https://jobright.ai/jobs/info/68dc5647accfd24b67e54799?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | Hybrid | Oct 02 |
 | **[Vent Now](ventnow.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68df168b5ab4977c2e94f463?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
 | **[Dairy Farmers of America](https://www.dfamilk.com/)** | **[Summer 2026 Internal Communications Intern](https://jobright.ai/jobs/info/68df16375ab4977c2e94f2f1?utm_campaign=1065&utm_source=git)** | Kansas City, KS | On Site | Oct 02 |
 | **[Humanity & Wellness Expansion LLC ](Humanityexpansion.com)** | **[Outreach & Engagement Intern (Experience-Based Learning Opportunity)](https://jobright.ai/jobs/info/68df10b25ab4977c2e94e32f?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | Remote | Oct 02 |
@@ -96,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Communications & PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68dee36809bda65a4b62ec6d?utm_campaign=1065&utm_source=git)** | Farmington, CT | Remote | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - eCommerce Development](https://jobright.ai/jobs/info/68dee2f009bda65a4b62ebb8?utm_campaign=1065&utm_source=git)** | Renton, WA | Hybrid | Oct 02 |
 | **[ADT](http://www.adt.com)** | **[GTM Growth Strategy Intern](https://jobright.ai/jobs/info/68dee23409bda65a4b62ea8c?utm_campaign=1065&utm_source=git)** | 1501 Yamato Road, Boca Raton, FL, 33431, US | Hybrid | Oct 02 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Product Marketing](https://jobright.ai/jobs/info/68dee23209bda65a4b62ea86?utm_campaign=1065&utm_source=git)** | Renton, WA | Hybrid | Oct 02 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern (Dynapower) - Summer 2026](https://jobright.ai/jobs/info/68dee192a125e75c422b7b79?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Oct 02 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[Market Development Intern](https://jobright.ai/jobs/info/68dee18aa125e75c422b7b62?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 02 |
 | **[Bounce](https://usebounce.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68df0b855ab4977c2e94dbdd?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Oct 02 |
@@ -119,6 +120,7 @@ For a complete list, click the following sortable link below:
 | **[GenZFacilitySolutions](http://www.GenZFacilitySolutions.com)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/68df0a765ab4977c2e94d687?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | Hybrid | Oct 02 |
 | **[StoryGold](http://storygold.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ded4d8a125e75c422b7204?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Connected Product Marketing Analyst](https://jobright.ai/jobs/info/68ded4a144d32141e0c02be4?utm_campaign=1065&utm_source=git)** | Lewisville, TX | Hybrid | Oct 02 |
+| ↳ | **[Summer Internship - Product Marketing](https://jobright.ai/jobs/info/68ded48fa125e75c422b7199?utm_campaign=1065&utm_source=git)** | Renton, WA | Hybrid | Oct 02 |
 | **[The Heritage Group](https://thgrp.com)** | **[The Heritage Group - Marketing and Communications Intern](https://jobright.ai/jobs/info/68ded46d09bda65a4b62e183?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 02 |
 | **[Golin](http://golin.com/)** | **[Corporate Marketing Graduate Internship](https://jobright.ai/jobs/info/68ded42ca125e75c422b7104?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 02 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Retail Marketing](https://jobright.ai/jobs/info/68ded41aa125e75c422b70d1?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Oct 02 |
@@ -126,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Essentials](https://www.onearchwell.com/archwell-essentials)** | **[Intern, Marketing Writer](https://jobright.ai/jobs/info/68ded3e209bda65a4b62e02d?utm_campaign=1065&utm_source=git)** | Remote (USA) | Hybrid | Oct 02 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern (Dynapower) - Summer 2026](https://jobright.ai/jobs/info/68ded3aaa125e75c422b6f0b?utm_campaign=1065&utm_source=git)** | Dynapower South Burlington, VT | On Site | Oct 02 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Communications & PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68ded15044d32141e0c02a31?utm_campaign=1065&utm_source=git)** | North Charleston, SC | Remote | Oct 02 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Entertainment PR Intern](https://jobright.ai/jobs/info/68decbfca125e75c422b6a76?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 02 |
 | **[Alphametic](http://alphametic.com/)** | **[Digital Marketing Intern -  Paid (SEO/SEM/Analytics) - Miami, FL](https://jobright.ai/jobs/info/68dc0c67d6470e72cf4d8376?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 02 |
 | **[Xcel Energy](https://www.xcelenergy.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68df0afc5ab4977c2e94d8de?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Student Assistant](https://jobright.ai/jobs/info/68debd9444d32141e0c01f86?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hill's Pet Nutrition](https://www.hillspet.com)** | **[US Professional Veterinary Affairs Summer Intern](https://jobright.ai/jobs/info/68ddfe3044d32141e0bfc9fb?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Oct 02 |
 | **[Otis Elevator Co.](http://www.otis.com/)** | **[Communications & PR Intern (Fall 2025)](https://jobright.ai/jobs/info/68de8d3509bda65a4b62b204?utm_campaign=1065&utm_source=git)** | OT398: TAF - NO. CHARLESTON, SC 2557 Oscar Johnson Drive, North Charleston, SC, 29405 USA | Remote | Oct 02 |
 | **[Clarios](https://www.clarios.com/)** | **[Digital Media Intern (Summer 2026)](https://jobright.ai/jobs/info/68de8d0609bda65a4b62b1c8?utm_campaign=1065&utm_source=git)** | United States, Wisconsin, Milwaukee | Hybrid | Oct 02 |
-| **[Princess Cruises](http://www.princess.com)** | **[Corporate Communications - Summer 2026 Intern](https://jobright.ai/jobs/info/68de8bc544d32141e0c00988?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
