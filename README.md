@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e15ca6f758fe1f97e55059?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 04 |
+| **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music / Record Label Music Publishing Intern](https://jobright.ai/jobs/info/68e174fbf758fe1f97e552ea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 04 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1670df758fe1f97e55119?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 04 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e166a3f758fe1f97e550f6?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 04 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e16511b99ec3563b0d72d9?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e15ca6f758fe1f97e55059?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68e15b0fb99ec3563b0d7202?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Oct 04 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e159991852e62f007f28fe?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Oct 04 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1591ff758fe1f97e55012?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e00229b99ec3563b0cafdd?utm_campaign=1065&utm_source=git)** | United States-Colorado-Denver | On Site | Oct 03 |
 | **[Sterling Brands](http://sterlingbrands.com)** | **[Client Services & Marketing Intern](https://jobright.ai/jobs/info/68dffe5ff758fe1f97e48877?utm_campaign=1065&utm_source=git)** | New York | On Site | Oct 03 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68dffe32f758fe1f97e48848?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Oct 03 |
+| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1065&utm_source=git)** | Whitman, MA | On Site | Oct 03 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dff3bcb99ec3563b0ca75c?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Oct 03 |
 | **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68dff251b99ec3563b0ca5b6?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
-| **[Dell Technologies](https://www.delltechnologies.com)** | **[Global Marketing Master’s Data & AI Intern](https://jobright.ai/jobs/info/68dfef66f758fe1f97e48048?utm_campaign=1065&utm_source=git)** | Round Rock, TX | Hybrid | Oct 03 |
-| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68dfedc9b99ec3563b0ca487?utm_campaign=1065&utm_source=git)** | USA - Texas - Houston | Hybrid | Oct 03 |
-| ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68dfed681852e62f007e5b30?utm_campaign=1065&utm_source=git)** | USA - Illinois - Naperville | Hybrid | Oct 03 |
-| ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68dfed2bf758fe1f97e47ed7?utm_campaign=1065&utm_source=git)** | USA - Minnesota - Saint Paul | Hybrid | Oct 03 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68dfed261852e62f007e5ab9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
