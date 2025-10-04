@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e0acb6f758fe1f97e4fd85?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
+| **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Digital & Social Media Intern / Wings Event Center](https://jobright.ai/jobs/info/68e0aaeab99ec3563b0d1eb1?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Oct 03 |
+| **[Virtually Testing Foundation](https://vt.foundation)** | **[WordPress Admin - Entry level role](https://jobright.ai/jobs/info/68e0a88d1852e62f007ed72e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 03 |
+| **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Athlete Success & Partnerships Coordinator ( Internship )](https://jobright.ai/jobs/info/68e0a2761852e62f007ed3e3?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | On Site | Oct 03 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Marketing Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a24a1852e62f007ed3c3?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
+| **[Land O'Lakes, Inc.](http://www.landolakesinc.com/)** | **[Marketing Brand Management MBA Intern, Summer 2026](https://jobright.ai/jobs/info/68e09e01f758fe1f97e4f49f?utm_campaign=1065&utm_source=git)** | Arden Hills, MN | Hybrid | Oct 03 |
 | **[Aramark](http://www.aramark.com)** | **[Student Marketing Ambassador - Randolph College](https://jobright.ai/jobs/info/68e093bfb99ec3563b0d0d62?utm_campaign=1065&utm_source=git)** | Lynchburg, VA | On Site | Oct 03 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68e08eecf758fe1f97e4e56f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Internship Summer 2026 (Minnesota)](https://jobright.ai/jobs/info/68e08af51852e62f007ebff9?utm_campaign=1065&utm_source=git)** | United States | US-MN-Arden Hills | Hybrid | Oct 03 |
@@ -110,6 +116,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e00e86f758fe1f97e491d4?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 03 |
+| **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Membership Marketing Internship](https://jobright.ai/jobs/info/68e09e8cf758fe1f97e4f5ef?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
@@ -135,6 +142,7 @@ For a complete list, click the following sortable link below:
 | **[The Home Depot](https://www.homedepot.com)** | **[Merchandising Co-Op Intern](https://jobright.ai/jobs/info/68dfd3c1b99ec3563b0c9944?utm_campaign=1065&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Oct 03 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Nuuly Growth Marketing Intern](https://jobright.ai/jobs/info/68dfcccfb99ec3563b0c951b?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 03 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Marketing and Event Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68dfcce41852e62f007e4dc3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 03 |
+| **[New York Life Investments](http://www.nylinvestments.com/)** | **[2026 Investments Summer Internship Program](https://jobright.ai/jobs/info/68dee738a125e75c422b7f9f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
 | **[Brown & Brown](https://www.bbrown.com/us/)** | **[Risk Management Insurance](https://jobright.ai/jobs/info/68dfc6d6b99ec3563b0c9370?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Lab Associate Content Specialist Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Oct 03 |
 | **[MOIRAI 3](https://moirai3.com/)** | **[Intern Social Media (UNPAID) - Remote](https://jobright.ai/jobs/info/68dfbeddb99ec3563b0c91b9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Oct 03 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[GTM Growth Strategy Intern](https://jobright.ai/jobs/info/68df8350fe896042b0b7baa5?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[International Content Strategy & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68df7e925ab4977c2e9551ec?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 03 |
 | **[Livin](https://www.dormme.app)** | **[(Student Role) Social Media Marketing - UNPAID](https://jobright.ai/jobs/info/68df5dec5ab4977c2e953c1a?utm_campaign=1065&utm_source=git)** | San Luis Obispo County, CA | Remote | Oct 02 |
-| **[YTK Media](https://www.ytkmedia.com)** | **[Content Campaign Internship - Fall/Winter 2025/2026](https://jobright.ai/jobs/info/68df53fe6be63b6ec996ed1a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 02 |
-| **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68df4e626be63b6ec996e979?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68df53826be63b6ec996ec82?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Oct 02 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Global Communications Intern](https://jobright.ai/jobs/info/68df4d265ab4977c2e952f78?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 02 |
-| **[Carnival Corporation](http://carnivalcorp.com)** | **[Talent Engagement & Social Media - Summer 2026 Intern](https://jobright.ai/jobs/info/68df503dfe896042b0b795fa?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
-| ↳ | **[Corporate Communications - Summer 2026 Intern](https://jobright.ai/jobs/info/68df4e516be63b6ec996e95d?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Oct 02 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68df446bfe896042b0b78c9c?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Oct 02 |
-| **[Target](https://www.target.com)** | **[Roundel Marketing Internship - Minneapolis, MN (Starting Summer, 2026)](https://jobright.ai/jobs/info/68df32e6fe896042b0b77bfb?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
