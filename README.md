@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AlphaGPU](https://www.alphagpu.ai)** | **[Business Growth Intern](https://jobright.ai/jobs/info/68e190d1b99ec3563b0d7b9a?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 04 |
+| **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
+| **[Columbus Crew](https://www.columbuscrew.com/)** | **[2025 Marketing Matchday Activation Intern](https://jobright.ai/jobs/info/68e185c91852e62f007f2f02?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
+| **[Four Corners Real Estate](www.teamfourcorners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e17c491852e62f007f2c94?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 04 |
 | **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music / Record Label Music Publishing Intern](https://jobright.ai/jobs/info/68e174fbf758fe1f97e552ea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1670df758fe1f97e55119?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e166a3f758fe1f97e550f6?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 04 |
@@ -66,8 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e159991852e62f007f28fe?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Oct 04 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1591ff758fe1f97e55012?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
 | **[Netup](https://www.netup.social)** | **[Marketing Intern - Mandarin Speaking](https://jobright.ai/jobs/info/68e1590c1852e62f007f28cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
-| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15653f758fe1f97e54feb?utm_campaign=1065&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
-| ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15630f758fe1f97e54fd3?utm_campaign=1065&utm_source=git)** | Billings, MT | On Site | Oct 04 |
+| **[NorthWestern Energy](http://northwesternenergy.com)** | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15630f758fe1f97e54fd3?utm_campaign=1065&utm_source=git)** | Billings, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15468b99ec3563b0d718b?utm_campaign=1065&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15450b99ec3563b0d7183?utm_campaign=1065&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e1544ab99ec3563b0d7181?utm_campaign=1065&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68e14e661852e62f007f279a?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Oct 04 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e14e50f758fe1f97e54ed9?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 04 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1486bb99ec3563b0d6fa5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 04 |
-| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68e1255ef758fe1f97e541b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68e11ad71852e62f007f1544?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 04 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e103f8b99ec3563b0d59f0?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[ARRO Consulting, Inc.](https://www.arroconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e058f2f758fe1f97e4c9b1?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Oct 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
-| **[LOVE NEST JAM FEST INC.](www.lovenestjamfest.com)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/68e055391852e62f007ea484?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Oct 03 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Merchandising](https://jobright.ai/jobs/info/68e053e0f758fe1f97e4c74a?utm_campaign=1065&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Marketing Intern - Reason Foundation](https://jobright.ai/jobs/info/68e053d1f758fe1f97e4c72b?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Oct 03 |
 | **[1AM Talent Group](http://1am.management)** | **[Influencer Marketing Intern - August](https://jobright.ai/jobs/info/68e050071852e62f007ea0c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
@@ -146,7 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
 | ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e010b4b99ec3563b0cb75b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
+| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68dffe32f758fe1f97e48848?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Oct 03 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1065&utm_source=git)** | Whitman, MA | On Site | Oct 03 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dff3bcb99ec3563b0ca75c?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Oct 03 |
-| **[Lactalis American Group](http://www.lactalisamericangroup.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68dff251b99ec3563b0ca5b6?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
