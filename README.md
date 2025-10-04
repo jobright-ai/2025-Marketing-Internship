@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68e1255ef758fe1f97e541b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
+| **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68e11ad71852e62f007f1544?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 04 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e103f8b99ec3563b0d59f0?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0fc95b99ec3563b0d584b?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 04 |
 | **[Hylant](http://www.hylant.com)** | **[Spring and Summer 2026 Internship: Event Planning and Communications](https://jobright.ai/jobs/info/68e0fb77b99ec3563b0d57bb?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Oct 04 |
@@ -88,8 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e06f7cb99ec3563b0cf4bc?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 03 |
 | **[HealthCorps](https://www.HealthCorps.org)** | **[Marketing Intern- Los Angeles](https://jobright.ai/jobs/info/68e06ba7f758fe1f97e4cf81?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Oct 03 |
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0664a1852e62f007ea9fc?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 03 |
-| **[LeetMock](https://leetmock.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e065e3f758fe1f97e4cdf4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
-| **[Jade Lingerie](https://jadelingerieofficial.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/68e06226f758fe1f97e4cd26?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
+| **[Jade](reveriesofjade.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/68e06226f758fe1f97e4cd26?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e05ee9f758fe1f97e4cbf0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[ARRO Consulting, Inc.](https://www.arroconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e058f2f758fe1f97e4c9b1?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Oct 03 |
@@ -129,7 +131,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
 | ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e010b4b99ec3563b0cb75b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
+| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Marketing Brand Management MBA Intern, Summer 2026](https://jobright.ai/jobs/info/68dfdeee1852e62f007e5346?utm_campaign=1065&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Oct 03 |
 | **[EX Venture Inc.](https://ex-zerocarbon.com/)** | **[AI & Marketing Growth Specialist Internship In Bali](https://jobright.ai/jobs/info/68dfde3df758fe1f97e47663?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 03 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Merchandising Co-Op Intern](https://jobright.ai/jobs/info/68dfd3c1b99ec3563b0c9944?utm_campaign=1065&utm_source=git)** | STORE SUPPORT CENTER, ATLANTA - 9090 | Hybrid | Oct 03 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Nuuly Growth Marketing Intern](https://jobright.ai/jobs/info/68e11fcfb99ec3563b0d6159?utm_campaign=1065&utm_source=git)** | US-PA-Philadelphia | On Site | Oct 03 |
 | **[SACC Chicago (Swedish American Chamber of Commerce Chicago)](http://www.sacc-chicago.org/)** | **[Marketing and Event Intern, SACC Texas, Spring 2026](https://jobright.ai/jobs/info/68dfcce41852e62f007e4dc3?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 03 |
 | **[New York Life Investments](http://www.nylinvestments.com/)** | **[2026 Investments Summer Internship Program](https://jobright.ai/jobs/info/68dee738a125e75c422b7f9f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| **[Brown & Brown](https://www.bbrown.com/us/)** | **[Risk Management Insurance](https://jobright.ai/jobs/info/68dfc6d6b99ec3563b0c9370?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Oct 03 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Digital Lab Associate Content Specialist Intern (Masters)](https://jobright.ai/jobs/info/68ccff47d11b445e0bee5cf9?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Oct 03 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a7709a33dd7158bbca72f7?utm_campaign=1065&utm_source=git)** | Monroe, NC | On Site | Oct 03 |
-| **[Verizon](https://www.verizon.com)** | **[New York University Consumer Marketing & Strategy Summer 2026 Internship](https://jobright.ai/jobs/info/68c3830c6031587f8458b7fa?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
