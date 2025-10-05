@@ -57,17 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68e2c4f71852e62f007f854d?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 05 |
+| **[Broken Leg Entertainment](https://brokenleginc.com/)** | **[Social Media / Editing Internship](https://jobright.ai/jobs/info/68e2bf01f758fe1f97e5ab32?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Oct 05 |
+| **[grangou app](https://www.grangouapp.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/68e2b1faf758fe1f97e5a9d7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 05 |
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68e2a605f758fe1f97e5a944?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e2a1f2f758fe1f97e5a8b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Boost Engine Tech](www.boostengines.com)** | **[TikTok Creator Management and Strategy Intern](https://jobright.ai/jobs/info/68e2a1e5b99ec3563b0dca23?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Oct 05 |
-| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68e29afcf758fe1f97e5a845?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e28a15b99ec3563b0dc802?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
 | ↳ | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68e289bcf758fe1f97e5a6b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 05 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Communications](https://jobright.ai/jobs/info/68e27b781852e62f007f7e7e?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | ↳ | **[Internship - Brand Strategy & Innovation](https://jobright.ai/jobs/info/68e279b1b99ec3563b0dc64c?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | ↳ | **[Internship - Marketing](https://jobright.ai/jobs/info/68e2788df758fe1f97e5a4ad?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68e2772f1852e62f007f7d97?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 05 |
-| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Go-To-Market](https://jobright.ai/jobs/info/68c484ea14bb275ce0194448?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68e24fc9b99ec3563b0dc23f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68e24fa61852e62f007f7a14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
@@ -100,7 +101,6 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e228b3b99ec3563b0db218?utm_campaign=1065&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e22968f758fe1f97e5912d?utm_campaign=1065&utm_source=git)** | Bozeman, MT | On Site | Oct 04 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1486bb99ec3563b0d6fa5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 04 |
-| **[American Enterprise Institute](http://www.aei.org)** | **[Media Relations Assistant, Foreign and Defense Policy](https://jobright.ai/jobs/info/68e11ad71852e62f007f1544?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 04 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e103f8b99ec3563b0d59f0?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0fc95b99ec3563b0d584b?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 04 |
