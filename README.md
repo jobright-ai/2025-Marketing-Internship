@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68e2a605f758fe1f97e5a944?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e2a1f2f758fe1f97e5a8b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
+| **[Boost Engine Tech](www.boostengines.com)** | **[TikTok Creator Management and Strategy Intern](https://jobright.ai/jobs/info/68e2a1e5b99ec3563b0dca23?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Oct 05 |
+| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68e29afcf758fe1f97e5a845?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
 | **[BioSpace](http://www.biospace.com/)** | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e28a15b99ec3563b0dc802?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
 | ↳ | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68e289bcf758fe1f97e5a6b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 05 |
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Communications](https://jobright.ai/jobs/info/68e27b781852e62f007f7e7e?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
@@ -71,13 +75,11 @@ For a complete list, click the following sortable link below:
 Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 05 |
 | **[Precision Castparts](http://precast.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/68e22ce0b99ec3563b0db504?utm_campaign=1065&utm_source=git)** | Gardena, CA | On Site | Oct 04 |
 | **[AdvancingX](https://advancingx.com/)** | **[International Content Creator Internship](https://jobright.ai/jobs/info/68e1cc96b99ec3563b0d8109?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Social Media Internship (Unpaid) - Tell Somebody](https://jobright.ai/jobs/info/68e1a8a61852e62f007f34e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 04 |
 | **[AlphaGPU](https://www.alphagpu.ai)** | **[Business Growth Intern](https://jobright.ai/jobs/info/68e190d1b99ec3563b0d7b9a?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2025 Marketing Matchday Activation Intern](https://jobright.ai/jobs/info/68e185c91852e62f007f2f02?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
 | **[Four Corners Real Estate](www.teamfourcorners.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e17c491852e62f007f2c94?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 04 |
-| **[AntiFragile Music](https://www.antifragilemusic.com/)** | **[Music / Record Label Music Publishing Intern](https://jobright.ai/jobs/info/68e174fbf758fe1f97e552ea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 04 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1670df758fe1f97e55119?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 04 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e166a3f758fe1f97e550f6?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 04 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68e16511b99ec3563b0d72d9?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
@@ -156,6 +158,4 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship [Social Media]](https://jobright.ai/jobs/info/68e027d3b99ec3563b0cc8b0?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Oct 03 |
 | **[Aptean](http://www.aptean.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e024051852e62f007e7d46?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 03 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e02141f758fe1f97e49e75?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Oct 03 |
-| ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01f081852e62f007e7a6e?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Oct 03 |
-| ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01ee71852e62f007e7a41?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
