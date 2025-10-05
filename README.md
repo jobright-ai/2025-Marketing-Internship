@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Go-To-Market](https://jobright.ai/jobs/info/68c484ea14bb275ce0194448?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Oct 05 |
+| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68e269951852e62f007f7bd6?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68e24fc9b99ec3563b0dc23f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68e24fa61852e62f007f7a14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
@@ -99,7 +101,8 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68e0f6ac1852e62f007f0d55?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Oct 04 |
 | ↳ | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68e0f684b99ec3563b0d562c?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 04 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
-| ↳ | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern, Spring 2026](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
 | **[Atlanta Track Club](https://www.atlantatrackclub.org/)** | **[Summer Internship - Events](https://jobright.ai/jobs/info/68e0e404f758fe1f97e5266e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/68e0e36d1852e62f007effce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Merchandising Co-Op Intern](https://jobright.ai/jobs/info/68e0b868f758fe1f97e50741?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
@@ -122,7 +125,7 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0664a1852e62f007ea9fc?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 03 |
 | **[Jade](reveriesofjade.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/68e06226f758fe1f97e4cd26?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e05ee9f758fe1f97e4cbf0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
+| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 03 |
 | **[ARRO Consulting, Inc.](https://www.arroconsulting.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e058f2f758fe1f97e4c9b1?utm_campaign=1065&utm_source=git)** | Lancaster, PA | On Site | Oct 03 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 03 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's 2026 Summer Internship - Merchandising](https://jobright.ai/jobs/info/68e053e0f758fe1f97e4c74a?utm_campaign=1065&utm_source=git)** | 151 West 34th Street, New York, NY, 10001, US | On Site | Oct 03 |
@@ -155,7 +158,4 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | **[Atlanta Track Club](https://www.atlantatrackclub.org/)** | **[Summer Internship - Events](https://jobright.ai/jobs/info/68e01ae7b99ec3563b0cbd83?utm_campaign=1065&utm_source=git)** | Atlanta Track Club Office | On Site | Oct 03 |
 | ↳ | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/68e01aa5b99ec3563b0cbccb?utm_campaign=1065&utm_source=git)** | Atlanta Track Club Office | On Site | Oct 03 |
 | **[Aptean](http://www.aptean.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e01a74f758fe1f97e49783?utm_campaign=1065&utm_source=git)** | US-GA-Alpharetta | On Site | Oct 03 |
-| **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68e0190b1852e62f007e724e?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | Oct 03 |
-| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[International Content Strategy & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68e015b5b99ec3563b0cb8bc?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
-| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
