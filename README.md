@@ -59,8 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Orbit AI](https://findmyorbit.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1d1421852e62f007f38ea?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[AdvancingX](https://advancingx.com/)** | **[International Content Creator Internship](https://jobright.ai/jobs/info/68e1cc96b99ec3563b0d8109?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/68e1b87bf758fe1f97e55cb0?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 04 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Social Media Internship (Unpaid) - Tell Somebody](https://jobright.ai/jobs/info/68e1a8a61852e62f007f34e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 04 |
 | **[AlphaGPU](https://www.alphagpu.ai)** | **[Business Growth Intern](https://jobright.ai/jobs/info/68e190d1b99ec3563b0d7b9a?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
@@ -96,12 +95,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
 | **[Atlanta Track Club](https://www.atlantatrackclub.org/)** | **[Summer Internship - Events](https://jobright.ai/jobs/info/68e0e404f758fe1f97e5266e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/68e0e36d1852e62f007effce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
-| **[Exituity](www.exituity.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e204551852e62f007f50d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Merchandising Co-Op Intern](https://jobright.ai/jobs/info/68e0b868f758fe1f97e50741?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e0acb6f758fe1f97e4fd85?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
 | **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Digital & Social Media Intern / Wings Event Center](https://jobright.ai/jobs/info/68e0aaeab99ec3563b0d1eb1?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Oct 03 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68e1e8d21852e62f007f4465?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Oct 03 |
-| **[Los Angeles County Museum of Art (LACMA)](http://www.lacma.org/)** | **[Communications Internship](https://jobright.ai/jobs/info/68e203f41852e62f007f4ff8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 03 |
 | **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Athlete Success & Partnerships Coordinator ( Internship )](https://jobright.ai/jobs/info/68e0a2761852e62f007ed3e3?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | On Site | Oct 03 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Marketing Intern - Reason Foundation](https://jobright.ai/jobs/info/68e0a24a1852e62f007ed3c3?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 03 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[International Marketing Intern](https://jobright.ai/jobs/info/68e1ed5eb99ec3563b0d8eef?utm_campaign=1065&utm_source=git)** | Visalia, CA | On Site | Oct 03 |
@@ -145,8 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Aptean](http://www.aptean.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e024051852e62f007e7d46?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 03 |
 | **[VenturEd](https://www.venturedglobal.org)** | **[High School Marketing Intern](https://jobright.ai/jobs/info/68e0221cb99ec3563b0cc4b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e02141f758fe1f97e49e75?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Oct 03 |
-| **[Tu Companies Inc](www.tucompanies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e2021cf758fe1f97e5771a?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Oct 03 |
-| **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01f081852e62f007e7a6e?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Oct 03 |
+| ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01f081852e62f007e7a6e?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Oct 03 |
 | ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01ee71852e62f007e7a41?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e01d041852e62f007e77d2?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 03 |
 | **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e01bf5f758fe1f97e49c2d?utm_campaign=1065&utm_source=git)** | Milford, NH | On Site | Oct 03 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[International Content Strategy & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68e015b5b99ec3563b0cb8bc?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
+| ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
+| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e010b4b99ec3563b0cb75b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
+| **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
+| **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
