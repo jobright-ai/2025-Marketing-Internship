@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
+| **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Social Media Internship (Unpaid) - Tell Somebody](https://jobright.ai/jobs/info/68e1a8a61852e62f007f34e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 04 |
+| **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68e19e21b99ec3563b0d7ca3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[AlphaGPU](https://www.alphagpu.ai)** | **[Business Growth Intern](https://jobright.ai/jobs/info/68e190d1b99ec3563b0d7b9a?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 04 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 04 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2025 Marketing Matchday Activation Intern](https://jobright.ai/jobs/info/68e185c91852e62f007f2f02?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 04 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
 | **[Atlanta Track Club](https://www.atlantatrackclub.org/)** | **[Summer Internship - Events](https://jobright.ai/jobs/info/68e0e404f758fe1f97e5266e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
 | ↳ | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/68e0e36d1852e62f007effce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 04 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68e0d889f758fe1f97e523a8?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 04 |
 | **[The Home Depot](https://www.homedepot.com)** | **[Merchandising Co-Op Intern](https://jobright.ai/jobs/info/68e0b868f758fe1f97e50741?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 03 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Phoenix, AZ - Investor Relations & Corporate Strategy](https://jobright.ai/jobs/info/68e0acb6f758fe1f97e4fd85?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 03 |
 | **[Greenleaf Hospitality Group](https://greenleafhospitalitygroup.com/)** | **[Digital & Social Media Intern / Wings Event Center](https://jobright.ai/jobs/info/68e0aaeab99ec3563b0d1eb1?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Oct 03 |
@@ -147,7 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
 | ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
+| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e010b4b99ec3563b0cb75b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e00229b99ec3563b0cafdd?utm_campaign=1065&utm_source=git)** | United States-Colorado-Denver | On Site | Oct 03 |
 | **[Sterling Brands](http://sterlingbrands.com)** | **[Client Services & Marketing Intern](https://jobright.ai/jobs/info/68dffe5ff758fe1f97e48877?utm_campaign=1065&utm_source=git)** | New York | On Site | Oct 03 |
 | **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68dffe32f758fe1f97e48848?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Oct 03 |
-| **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Brockton area](https://jobright.ai/jobs/info/68df3ba46be63b6ec996d6d3?utm_campaign=1065&utm_source=git)** | Whitman, MA | On Site | Oct 03 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68dff3bcb99ec3563b0ca75c?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
