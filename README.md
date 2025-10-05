@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68e24fc9b99ec3563b0dc23f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
+| ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68e24fa61852e62f007f7a14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
+| ↳ | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Intern
+Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 05 |
 | **[Precision Castparts](http://precast.com)** | **[Marketing Co-op](https://jobright.ai/jobs/info/68e22ce0b99ec3563b0db504?utm_campaign=1065&utm_source=git)** | Gardena, CA | On Site | Oct 04 |
 | **[AdvancingX](https://advancingx.com/)** | **[International Content Creator Internship](https://jobright.ai/jobs/info/68e1cc96b99ec3563b0d8109?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
@@ -90,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e103f8b99ec3563b0d59f0?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0fc95b99ec3563b0d584b?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 04 |
-| **[Hylant](http://www.hylant.com)** | **[Spring and Summer 2026 Internship: Event Planning and Communications](https://jobright.ai/jobs/info/68e0fb77b99ec3563b0d57bb?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68e1d19a1852e62f007f3900?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68e0f6ac1852e62f007f0d55?utm_campaign=1065&utm_source=git)** | Hillsboro, OR | On Site | Oct 04 |
 | ↳ | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68e0f684b99ec3563b0d562c?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 04 |
@@ -154,7 +158,4 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68e0190b1852e62f007e724e?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | Oct 03 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[International Content Strategy & Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68e015b5b99ec3563b0cb8bc?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
-| ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
