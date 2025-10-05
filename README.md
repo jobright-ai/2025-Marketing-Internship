@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BioSpace](http://www.biospace.com/)** | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e28a15b99ec3563b0dc802?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 05 |
+| ↳ | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68e289bcf758fe1f97e5a6b6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 05 |
+| **[Food Lion](https://www.foodlion.com)** | **[Internship - Communications](https://jobright.ai/jobs/info/68e27b781852e62f007f7e7e?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
+| ↳ | **[Internship - Brand Strategy & Innovation](https://jobright.ai/jobs/info/68e279b1b99ec3563b0dc64c?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
+| ↳ | **[Internship - Marketing](https://jobright.ai/jobs/info/68e2788df758fe1f97e5a4ad?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
+| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68e2772f1852e62f007f7d97?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 05 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Go-To-Market](https://jobright.ai/jobs/info/68c484ea14bb275ce0194448?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Oct 05 |
-| **[TechVyne](https://www.linkedin.com/company/102970632)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68e269951852e62f007f7bd6?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68e24fc9b99ec3563b0dc23f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68e24fa61852e62f007f7a14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
@@ -153,9 +158,4 @@ Job ID : 264509](https://jobright.ai/jobs/info/68e248c9b99ec3563b0dc141?utm_camp
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e02141f758fe1f97e49e75?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Oct 03 |
 | ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01f081852e62f007e7a6e?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Oct 03 |
 | ↳ | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01ee71852e62f007e7a41?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Oct 03 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e01d041852e62f007e77d2?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 03 |
-| **[Marmon Foodservice Technologies](https://marmonfoodservice.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e01bf5f758fe1f97e49c2d?utm_campaign=1065&utm_source=git)** | Milford, NH | On Site | Oct 03 |
-| **[Atlanta Track Club](https://www.atlantatrackclub.org/)** | **[Summer Internship - Events](https://jobright.ai/jobs/info/68e01ae7b99ec3563b0cbd83?utm_campaign=1065&utm_source=git)** | Atlanta Track Club Office | On Site | Oct 03 |
-| ↳ | **[Summer Internship - Marketing](https://jobright.ai/jobs/info/68e01aa5b99ec3563b0cbccb?utm_campaign=1065&utm_source=git)** | Atlanta Track Club Office | On Site | Oct 03 |
-| **[Aptean](http://www.aptean.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e01a74f758fe1f97e49783?utm_campaign=1065&utm_source=git)** | US-GA-Alpharetta | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
