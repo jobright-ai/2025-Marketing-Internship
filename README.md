@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
+| **[AdvancingX](https://advancingx.com/)** | **[International Content Creator Internship](https://jobright.ai/jobs/info/68e1cc96b99ec3563b0d8109?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
+| **[AI Trusted Advisors](https://aitrustedadvisors.com/)** | **[==> Marketing Data Analytics Intern for the right graduate](https://jobright.ai/jobs/info/68e1ba2db99ec3563b0d7ebd?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/68e1b87bf758fe1f97e55cb0?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 04 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68e1b241f758fe1f97e55c55?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 04 |
 | **[Tell Somebody](https://www.instagram.com/tellsomebodypresents/)** | **[Social Media Internship (Unpaid) - Tell Somebody](https://jobright.ai/jobs/info/68e1a8a61852e62f007f34e7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 04 |
 | **[Pulchritude® Fashion Studio](pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68e19e21b99ec3563b0d7ca3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[AlphaGPU](https://www.alphagpu.ai)** | **[Business Growth Intern](https://jobright.ai/jobs/info/68e190d1b99ec3563b0d7b9a?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 04 |
@@ -74,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68e1591ff758fe1f97e55012?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 04 |
 | **[Netup](https://www.netup.social)** | **[Marketing Intern - Mandarin Speaking](https://jobright.ai/jobs/info/68e1590c1852e62f007f28cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 04 |
 | **[NorthWestern Energy](http://northwesternenergy.com)** | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15630f758fe1f97e54fd3?utm_campaign=1065&utm_source=git)** | Billings, MT | On Site | Oct 04 |
-| ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15468b99ec3563b0d718b?utm_campaign=1065&utm_source=git)** | Butte, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e15450b99ec3563b0d7183?utm_campaign=1065&utm_source=git)** | Missoula, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e1544ab99ec3563b0d7181?utm_campaign=1065&utm_source=git)** | Great Falls, MT | On Site | Oct 04 |
 | ↳ | **[Internal Content Development Specialist Intern](https://jobright.ai/jobs/info/68e153fab99ec3563b0d7168?utm_campaign=1065&utm_source=git)** | Helena, MT | On Site | Oct 04 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[External Communications Intern - Summer 2026](https://jobright.ai/jobs/info/68e012711852e62f007e6f60?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Corporate Alliances Integration Intern, Spring 2026](https://jobright.ai/jobs/info/68e011e91852e62f007e6ecc?utm_campaign=1065&utm_source=git)** | Lake Buena Vista, FL | On Site | Oct 03 |
 | ↳ | **[ABC News Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e0112bb99ec3563b0cb7b5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 03 |
-| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e010b4b99ec3563b0cb75b?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
+| ↳ | **[Marketing & Digital Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e0101af758fe1f97e49379?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 03 |
 | **[KU Endowment](http://www.kuendowment.org/)** | **[Student Assistant, Marketing + Brand Communications](https://jobright.ai/jobs/info/68e00afbb99ec3563b0cb4cf?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 03 |
 | **[SouthState Bank](https://southstatebank.com)** | **[Credit Intern](https://jobright.ai/jobs/info/68e007631852e62f007e68a6?utm_campaign=1065&utm_source=git)** | Birmingham Luckie Drive | On Site | Oct 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 03 |
 | **[Professional Sports Publications](http://www.pspsports.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e002c41852e62f007e669e?utm_campaign=1065&utm_source=git)** | Melville, NY | On Site | Oct 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e00229b99ec3563b0cafdd?utm_campaign=1065&utm_source=git)** | United States-Colorado-Denver | On Site | Oct 03 |
-| **[Sterling Brands](http://sterlingbrands.com)** | **[Client Services & Marketing Intern](https://jobright.ai/jobs/info/68dffe5ff758fe1f97e48877?utm_campaign=1065&utm_source=git)** | New York | On Site | Oct 03 |
-| **[Major League Baseball Players Association](https://www.mlbplayers.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68dffe32f758fe1f97e48848?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
