@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vyro Co.](www.wearevyro.com)** | **[Sports Marketing/Branding Team Intern](https://jobright.ai/jobs/info/68e2f2811852e62f007f8b13?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
+| **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/68e2f8c8b99ec3563b0dd31b?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
+| **[OpenR&D](https://www.theopenrnd.com/)** | **[Marketing & Business Development Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68e2f57e1852e62f007f8b3f?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 05 |
 | **[Future Physicians](https://futurephysicians.org/)** | **[Fundraising Intern](https://jobright.ai/jobs/info/68e2e9bbb99ec3563b0dd1fa?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Digital Marketing Intern (Email Focus)](https://jobright.ai/jobs/info/68e2e9211852e62f007f8a36?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 05 |
 | **[Flaire](https://flaire.me)** | **[Growth Intern](https://jobright.ai/jobs/info/68e2e686b99ec3563b0dd1a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 05 |
@@ -72,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Food Lion](https://www.foodlion.com)** | **[Internship - Communications](https://jobright.ai/jobs/info/68e27b781852e62f007f7e7e?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | ↳ | **[Internship - Brand Strategy & Innovation](https://jobright.ai/jobs/info/68e279b1b99ec3563b0dc64c?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
 | ↳ | **[Internship - Marketing](https://jobright.ai/jobs/info/68e2788df758fe1f97e5a4ad?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 05 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68e2772f1852e62f007f7d97?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 05 |
+| **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Go-To-Market](https://jobright.ai/jobs/info/68e2fbbfb99ec3563b0dd35c?utm_campaign=1065&utm_source=git)** | Draper, UT | On Site | Oct 05 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Digital Undergraduate Internship](https://jobright.ai/jobs/info/68e24fc9b99ec3563b0dc23f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Events Undergraduate Internship](https://jobright.ai/jobs/info/68e24fa61852e62f007f7a14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
 | ↳ | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 05 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e103f8b99ec3563b0d59f0?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
 | **[Anyware Robotics](https://anyware-robotics.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e0fc95b99ec3563b0d584b?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 04 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68e1d19a1852e62f007f3900?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 04 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/68e0f684b99ec3563b0d562c?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 04 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Special Events Intern, Spring 2026](https://jobright.ai/jobs/info/68e03b271852e62f007e8f9d?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 04 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 04 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Corporate Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68e0338a1852e62f007e870e?utm_campaign=1065&utm_source=git)** | Lansing, MI | On Site | Oct 03 |
 | **[Marmon Utility](http://marmonutility.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e033811852e62f007e86f6?utm_campaign=1065&utm_source=git)** | Milford, NH | On Site | Oct 03 |
 | **[Center for Intimacy Recovery](https://www.intimacyrecovery.com/)** | **[Event Coordination And Social Media Intern](https://jobright.ai/jobs/info/68e032d6b99ec3563b0ccff4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[Kahlab](https://www.kahlab.app)** | **[Community Outreach & Marketing Intern](https://jobright.ai/jobs/info/68e1231fb99ec3563b0d62f3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 03 |
 | **[CENTRALPLAS LLC](http://www.centralplas.com)** | **[Art & Media Intern – E-Commerce Marketing Support](https://jobright.ai/jobs/info/68e02dce1852e62f007e83d9?utm_campaign=1065&utm_source=git)** | LaGrange, GA | On Site | Oct 03 |
 | **[Sterling Brands](http://sterlingbrands.com)** | **[Client Services & Marketing Intern](https://jobright.ai/jobs/info/68e02c8eb99ec3563b0ccc72?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 03 |
-| **[Aptean](http://www.aptean.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e024051852e62f007e7d46?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
