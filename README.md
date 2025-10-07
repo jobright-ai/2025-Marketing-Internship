@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SkyTrade](https://sky.trade)** | **[Content intern (fully remote)](https://jobright.ai/jobs/info/68e4f2fbae2b894b1d70a089?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Oct 07 |
 | **[1Digitals](https://www.1digitals.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e4dae2ae2b894b1d7097c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Parfums de Marly](https://parfums-de-marly.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/68e4c29cae2b894b1d70842f?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | On Site | Oct 07 |
 | **[Echo Transportation Texas](https://echotransportation.com/)** | **[Social Media - Marketing Intern](https://jobright.ai/jobs/info/68e4e174ae2b894b1d709b40?utm_campaign=1065&utm_source=git)** | Broadview, IL | On Site | Oct 06 |
@@ -79,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Catholic Sports](http://www.CatholicSports.net)** | **[Internships in Adult Intramural Sports, Marketing-Events-Development](https://jobright.ai/jobs/info/68e482e71852e62f00806ac6?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 06 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Lettuce Divisional Summer Internship - Marketing](https://jobright.ai/jobs/info/68e482381852e62f00806a02?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time Paid Intern – Youth Social Media Writer](https://jobright.ai/jobs/info/68e4819df758fe1f97e68e91?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Communications](https://jobright.ai/jobs/info/68e47d26b99ec3563b0ead8d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Midstream & Marketing Internship](https://jobright.ai/jobs/info/68e47cd0f758fe1f97e68ce0?utm_campaign=1065&utm_source=git)** | Midland, TX | On Site | Oct 06 |
 | **[SYNEAR FOODS USA](https://synearusa.com)** | **[Unpaid Internship- Sales and Marketing Coordinator ( Chinese Speaking Required)](https://jobright.ai/jobs/info/68e47c47f758fe1f97e68c5a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Communications](https://jobright.ai/jobs/info/68e47c47f758fe1f97e68c5d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Public Relations](https://jobright.ai/jobs/info/68e47c38b99ec3563b0eaca8?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Trade Marketing & Content Intern](https://jobright.ai/jobs/info/68e47b3db99ec3563b0eab89?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | ↳ | **[Summer 2026 Internship- Marketing Data Science (Modeling & Forecasting) Intern](https://jobright.ai/jobs/info/68e47a9a1852e62f0080659b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 06 |
@@ -116,9 +117,9 @@ For a complete list, click the following sortable link below:
 | **[FYI Brand Group](https://www.fyibrandgroup.com/)** | **[Entertainment PR Intern](https://jobright.ai/jobs/info/68e448ed1852e62f0080434a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Recruitment Marketing Intern](https://jobright.ai/jobs/info/68e447b9f758fe1f97e666e6?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Oct 06 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Marketing](https://jobright.ai/jobs/info/68e446bcb99ec3563b0e8666?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Oct 06 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship Marketing - Public Relations](https://jobright.ai/jobs/info/68e446b91852e62f00803eb5?utm_campaign=1065&utm_source=git)** | San Diego | Hybrid | Oct 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[ABC News Insights and Analytics Intern, Spring 2026](https://jobright.ai/jobs/info/68e446ab1852e62f00803e89?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Health Systems Marketing Intern](https://jobright.ai/jobs/info/68e446a7b99ec3563b0e8650?utm_campaign=1065&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship Marketing - Public Relations](https://jobright.ai/jobs/info/68e44669f758fe1f97e665ac?utm_campaign=1065&utm_source=git)** | San Diego | Hybrid | Oct 06 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Midstream & Marketing Internship](https://jobright.ai/jobs/info/68e445f51852e62f00803d15?utm_campaign=1065&utm_source=git)** | Midland, Texas | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Marketing AI Enablement & Automation - Summer 2026](https://jobright.ai/jobs/info/68e43ba2f758fe1f97e65e1d?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 06 |
 | **[Charter Steel](http://www.chartersteel.com/)** | **[Marketing Intern (Year-Round)](https://jobright.ai/jobs/info/68e43b211852e62f008036a4?utm_campaign=1065&utm_source=git)** | Saukville, WI | Hybrid | Oct 06 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[CLD PR](https://cldstylehouse.com)** | **[Winter 2025 Public Relations Intern](https://jobright.ai/jobs/info/68e439ecf758fe1f97e65bae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Product Marketing/Communications Intern](https://jobright.ai/jobs/info/68e439cfb99ec3563b0e7c92?utm_campaign=1065&utm_source=git)** | US - WI - Madison | On Site | Oct 06 |
 | **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Partner Marketing - Summer 2026](https://jobright.ai/jobs/info/68e439bbb99ec3563b0e7c5f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 06 |
-| **[ACE Hardware](http://www.acehardware.af)** | **[EJD Merchandising Internship- Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/68e439b5b99ec3563b0e7c4d?utm_campaign=1065&utm_source=git)** | IL - Oak Brook | On Site | Oct 06 |
-| **[Lumen Technologies](https://www.lumen.com)** | **[Intern - Growth Marketing - Summer 2026](https://jobright.ai/jobs/info/68e439541852e62f008033eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 06 |
+| ↳ | **[Intern - Growth Marketing - Summer 2026](https://jobright.ai/jobs/info/68e439541852e62f008033eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 06 |
+| **[ACE Hardware](http://www.acehardware.af)** | **[EJD Merchandising Internship- Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/68e438f6b99ec3563b0e7a8e?utm_campaign=1065&utm_source=git)** | IL - Oak Brook | On Site | Oct 06 |
 | **[Kratos Defense and Security Solutions](http://www.kratosdefense.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/68e43886f758fe1f97e658b4?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Oct 06 |
 | **[TmrO App](https://www.tmroapp.com/)** | **[Media Intern](https://jobright.ai/jobs/info/68e433c9f758fe1f97e65620?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 06 |
 | **[Harmony Venture Labs](https://harmonyventurelabs.com/)** | **[Growth Marketing intern](https://jobright.ai/jobs/info/68e433a3b99ec3563b0e783c?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Oct 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Elliott Tool Technologies](https://www.elliott-tool.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bef2a98e65e77df55b5b17?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Oct 06 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Marketing Intern, Food BU](https://jobright.ai/jobs/info/68e42311f758fe1f97e64614?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 06 |
 | **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e41f70b99ec3563b0e63f1?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 06 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship - Communications](https://jobright.ai/jobs/info/68e41cdab99ec3563b0e63cc?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
