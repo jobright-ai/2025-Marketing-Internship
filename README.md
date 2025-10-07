@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slideoo AI](https://slideoo.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e51231b99ec3563b0eff00?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Hyperbots Inc.](https://www.hyperbots.com/)** | **[Finance Conference: Event Intern](https://jobright.ai/jobs/info/68e502c8ae2b894b1d70a489?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Oct 07 |
 | **[SkyTrade](https://sky.trade)** | **[Content intern (fully remote)](https://jobright.ai/jobs/info/68e4f2fbae2b894b1d70a089?utm_campaign=1065&utm_source=git)** | Texas, United States | Hybrid | Oct 07 |
 | **[1Digitals](https://www.1digitals.com/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68e4dae2ae2b894b1d7097c7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 07 |
 | **[Parfums de Marly](https://parfums-de-marly.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/68e4c29cae2b894b1d70842f?utm_campaign=1065&utm_source=git)** | Hoboken, NJ | On Site | Oct 07 |
@@ -80,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Catholic Sports](http://www.CatholicSports.net)** | **[Internships in Adult Intramural Sports, Marketing-Events-Development](https://jobright.ai/jobs/info/68e482e71852e62f00806ac6?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 06 |
 | **[Lettuce Entertain You Restaurants](http://www.leye.com/)** | **[Lettuce Divisional Summer Internship - Marketing](https://jobright.ai/jobs/info/68e482381852e62f00806a02?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 06 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time Paid Intern – Youth Social Media Writer](https://jobright.ai/jobs/info/68e4819df758fe1f97e68e91?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Oct 06 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Communications](https://jobright.ai/jobs/info/68e47d26b99ec3563b0ead8d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Permian Resources](https://permianres.com)** | **[Summer 2026 Midstream & Marketing Internship](https://jobright.ai/jobs/info/68e47cd0f758fe1f97e68ce0?utm_campaign=1065&utm_source=git)** | Midland, TX | On Site | Oct 06 |
 | **[SYNEAR FOODS USA](https://synearusa.com)** | **[Unpaid Internship- Sales and Marketing Coordinator ( Chinese Speaking Required)](https://jobright.ai/jobs/info/68e47c47f758fe1f97e68c5a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 06 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Communications](https://jobright.ai/jobs/info/68e47c47f758fe1f97e68c5d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Public Relations](https://jobright.ai/jobs/info/68e47c38b99ec3563b0eaca8?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Trade Marketing & Content Intern](https://jobright.ai/jobs/info/68e47b3db99ec3563b0eab89?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 06 |
 | ↳ | **[Summer 2026 Internship- Marketing Data Science (Modeling & Forecasting) Intern](https://jobright.ai/jobs/info/68e47a9a1852e62f0080659b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CELSIUS](http://celsius.com/)** | **[Marketing Intern (Community Engagement)](https://jobright.ai/jobs/info/68e428cdf758fe1f97e648f1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 06 |
 | **[Dow Jones](http://www.dowjones.com)** | **[Summer 2026 Internship - Paid Media Intern](https://jobright.ai/jobs/info/68e428c6f758fe1f97e648df?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 06 |
 | **[Elliott Tool Technologies](https://www.elliott-tool.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bef2a98e65e77df55b5b17?utm_campaign=1065&utm_source=git)** | Dayton, OH | On Site | Oct 06 |
-| **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Marketing Intern, Food BU](https://jobright.ai/jobs/info/68e42311f758fe1f97e64614?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | Hybrid | Oct 06 |
-| **[AARP](http://www.aarp.org)** | **[Advocacy Mobilization Intern](https://jobright.ai/jobs/info/68e41f70b99ec3563b0e63f1?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
