@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/68e8e45d65768b6412b171fd?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Oct 10 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing - Digital Content Strategist](https://jobright.ai/jobs/info/68e8c20acc49a84b7e10a492?utm_campaign=1065&utm_source=git)** | Bloomington, IL | Hybrid | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e8b9a8c72beb74cb322206?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e8a214cc49a84b7e1081e5?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 09 |
@@ -80,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing-Creative Content Analyst](https://jobright.ai/jobs/info/68e86de809580a2fe57f7946?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Oct 09 |
 | **[NiSource](https://www.nisource.com/)** | **[Public Awareness Intern](https://jobright.ai/jobs/info/68dd8714ddc10244dd6804e3?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Oct 09 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing-Creative Content Analyst](https://jobright.ai/jobs/info/68e86a80cc49a84b7e105fa4?utm_campaign=1065&utm_source=git)** | Richardson, TX | Hybrid | Oct 09 |
+| **[Waters Corporation](http://www.waters.com)** | **[Immerse Delaware Intern, Social Engagement and Communication Coordinator](https://jobright.ai/jobs/info/68dc3ff3accfd24b67e536d5?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Oct 09 |
 | **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/68e867b309580a2fe57f7654?utm_campaign=1065&utm_source=git)** | Tucson, Arizona | On Site | Oct 09 |
 | **[Career Launch Recruitment Solutions](https://www.linkedin.com/company/104165626)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e8615809580a2fe57f7302?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Welcome to Guerra!Events Marketing Internship](https://jobright.ai/jobs/info/68e85fb309580a2fe57f722c?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[IT Marketing- Crop Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7d77cc4895107182beaa6?utm_campaign=1065&utm_source=git)** | Fargo, ND, USA | Hybrid | Oct 09 |
 | **[Wish Farms](http://wishfarms.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e7f667cc49a84b7e10000f?utm_campaign=1065&utm_source=git)** | Plant City, FL | On Site | Oct 09 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Consumer Insights Co-op (January through June)](https://jobright.ai/jobs/info/68ce5bdedbd9fb154eddedee?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Oct 09 |
-| **[Acumatica](https://www.acumatica.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68e7c7f2c4895107182be2fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 09 |
-| **[Sports Promotions Group](https://www.sportspromotionsgroup.com/)** | **[Experiential Marketing Brand Ambassador](https://jobright.ai/jobs/info/68e7c7a8c4895107182be2b6?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
