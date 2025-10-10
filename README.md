@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doeren Mayhew](http://doeren.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b08f2ab47fb001d6893653?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Oct 10 |
 | **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/68e8e45d65768b6412b171fd?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Oct 10 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9004b65768b6412b17de5?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 10 |
+| **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 10 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing - Digital Content Strategist](https://jobright.ai/jobs/info/68e8c20acc49a84b7e10a492?utm_campaign=1065&utm_source=git)** | Bloomington, IL | Hybrid | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e8b9a8c72beb74cb322206?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[FJDZ INTERNATIONAL,INC.](http://www.fjdzinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e8a214cc49a84b7e1081e5?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | Hybrid | Oct 09 |
@@ -95,8 +98,9 @@ For a complete list, click the following sortable link below:
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68e849a409580a2fe57f64f3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 09 |
 | **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Intern- Marketing & Optimization](https://jobright.ai/jobs/info/68e847d9c72beb74cb31d414?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 09 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern – Outreach Analytics](https://jobright.ai/jobs/info/68e83e59c72beb74cb31cb0e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 09 |
-| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Communications](https://jobright.ai/jobs/info/68e837bdcc49a84b7e103e07?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
+| **[CIBC](https://www.cibc.com)** | **[2026 Summer Intern - Communications](https://jobright.ai/jobs/info/68e8379b09580a2fe57f560b?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e8372ecc49a84b7e103d02?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 09 |
+| **[FAIRWINDS Credit Union](https://www.fairwinds.org)** | **[Community Relations Intern](https://jobright.ai/jobs/info/68e834ff09580a2fe57f53c9?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 09 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Communications Internship Spring 2026](https://jobright.ai/jobs/info/68e832d7c4895107182c3d5a?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 09 |
 | **[Pink Olive Events](https://pinkoliveevents.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e83016cc49a84b7e10377f?utm_campaign=1065&utm_source=git)** | Cheshire, CT | On Site | Oct 09 |
 | **[Americold Logistics, LLC.](http://americold.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/68e82c0609580a2fe57f4ae2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 09 |
@@ -134,12 +138,11 @@ For a complete list, click the following sortable link below:
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sustainability Marketing Intern - (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e7f2a9c4895107182c004e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 09 |
 | **[Nexity Agency | Marketing Agency](nexityagency.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e811d1c4895107182c1d77?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Oct 09 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/68e7f071c4895107182bfd24?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 09 |
-| **[Homecoming Inc.](https://homecominginc.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68e7f03f09580a2fe57f1446?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Oct 09 |
+| **[Homecoming](https://homecominginc.com/)** | **[Student Intern](https://jobright.ai/jobs/info/68e7f03f09580a2fe57f1446?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Oct 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Field Marketing Intern (Spring 2026, ST&MK)](https://jobright.ai/jobs/info/68e7f00ac4895107182bfcac?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | Remote | Oct 09 |
 | **[Bozzuto](https://www.bozzuto.com/)** | **[Sales & Marketing Intern (Summer 2026) - Boston, MA](https://jobright.ai/jobs/info/68e7ee59cc49a84b7e0ff87e?utm_campaign=1065&utm_source=git)** | Boston, MA, 02210 | On Site | Oct 09 |
 | **[Bottega Veneta](http://bottegaveneta.it)** | **[BOTTEGA VENETA Private Client Intern, Spring](https://jobright.ai/jobs/info/68e7eda409580a2fe57f1096?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
 | **[The Capitol Theatre](https://www.capitoltheatrewheeling.com)** | **[Live Music Marketing Intern - Spring 2025](https://jobright.ai/jobs/info/68e7ec7b09580a2fe57f0efa?utm_campaign=1065&utm_source=git)** | Port Chester, NY | On Site | Oct 09 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e7e905c4895107182bf7b6?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 09 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Communications Intern (Spring 2026; STMK)](https://jobright.ai/jobs/info/68e7e8afcc49a84b7e0ff54a?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 09 |
 | **[Perdue Farms](http://www.perduefarms.com/)** | **[Digital Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/68e7e7f8cc49a84b7e0ff3ea?utm_campaign=1065&utm_source=git)** | Salisbury, MD | On Site | Oct 09 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Summer 2026 Internship-  B2B Enterprise Marketing Intern](https://jobright.ai/jobs/info/68e7e787c4895107182bf4c7?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Oct 09 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Strategic Student Program: Global Press Relations Intern (Spring 2026; STMK)](https://jobright.ai/jobs/info/68e7f4f2cc49a84b7e0ffdf1?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | Hybrid | Oct 09 |
 | **[Rise Brands](https://www.risebrands.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68e7d82fc4895107182beba4?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Oct 09 |
 | **[QBE Insurance](http://www.qbe.com)** | **[IT Marketing- Crop Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7d7b2cc49a84b7e0fe99c?utm_campaign=1065&utm_source=git)** | Missoula, MT, USA | Hybrid | Oct 09 |
-| ↳ | **[IT Marketing- Crop Intern (Summer 2026)](https://jobright.ai/jobs/info/68e7d77cc4895107182beaa6?utm_campaign=1065&utm_source=git)** | Fargo, ND, USA | Hybrid | Oct 09 |
-| **[Wish Farms](http://wishfarms.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e7f667cc49a84b7e10000f?utm_campaign=1065&utm_source=git)** | Plant City, FL | On Site | Oct 09 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Consumer Insights Co-op (January through June)](https://jobright.ai/jobs/info/68ce5bdedbd9fb154eddedee?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
