@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68ea5c282f64880ca0b526e1?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 11 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68ea366e6afbef49f2c66391?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Oct 11 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Perrigo Company plc](http://www.perrigo.com)** | **[Perrigo Aspire Commercial Internship Program - Marketing Summer 2026](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdcc?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Oct 11 |
@@ -90,7 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e9acb9feeb0006c1a56665?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Oct 10 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9acb30930fe0bc4628268?utm_campaign=1065&utm_source=git)** | La Grange | On Site | Oct 10 |
 | ↳ | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9ac1e65768b6412b1e77e?utm_campaign=1065&utm_source=git)** | EMD HQ LaGrange, IL - 400 | On Site | Oct 10 |
-| **[Todd](https://toddagriscience.com)** | **[Growth Intern](https://jobright.ai/jobs/info/68e9ab5065768b6412b1e696?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 10 |
+| **[McGraw Hill](http://www.mheducation.com)** | **[Events Intern](https://jobright.ai/jobs/info/68ea518e8369791ef7820cef?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Oct 10 |
 | **[Federal Express Corporation](https://careers.fedex.com/?utm_domicile=unspecified&utm_persona=unspecified&utm_trackedsource=srm_linkedin_company&utm_subco=FEC)** | **[Intern - Marketing and Communications](https://jobright.ai/jobs/info/68e99e0e0930fe0bc4627c19?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 10 |
 | **[Zippia](https://www.zippia.com)** | **[Start-up Growth/Marketing Intern](https://jobright.ai/jobs/info/68e98995f195760c354aa646?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Defense Marketing & Events Intern](https://jobright.ai/jobs/info/68e9990165768b6412b1df59?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Oct 10 |
@@ -103,7 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Athlete Success & Partnerships Coordinator (18-25)](https://jobright.ai/jobs/info/68e9837df195760c354aa1d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/68e98286f195760c354aa0af?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Oct 10 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Market Access – Cell Therapy (Summer 2026)](https://jobright.ai/jobs/info/68e9804565768b6412b1cd34?utm_campaign=1065&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 10 |
-| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68e97c2d65768b6412b1cab2?utm_campaign=1065&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 10 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68e97c3465768b6412b1cab6?utm_campaign=1065&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 10 |
 | **[Special Olympics Missouri](https://somo.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68e978ef0930fe0bc4626203?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Oct 10 |
 | **[William G. Pomeroy Foundation](https://www.wgpfoundation.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68e978cf0930fe0bc46261df?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Oct 10 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Digital Marketing Technology Intern](https://jobright.ai/jobs/info/68e978ad65768b6412b1c690?utm_campaign=1065&utm_source=git)** | Malvern, PA | On Site | Oct 10 |
@@ -150,11 +151,10 @@ For a complete list, click the following sortable link below:
 | **[CU Online](https://online.cu.edu/)** | **[Assistant Director, Marketing & Promotions](https://jobright.ai/jobs/info/68e9f850cdf8d94b293a386a?utm_campaign=1065&utm_source=git)** | Boulder, CO | On Site | Oct 10 |
 | **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/68e8e45d65768b6412b171fd?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Oct 10 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9004b65768b6412b17de5?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 10 |
+| **[Stardust AI](https://stardust.ai/en-US/)** | **[AI Product Marketing](https://jobright.ai/jobs/info/68e798d870315f028bcac801?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Oct 10 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 10 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing - Digital Content Strategist](https://jobright.ai/jobs/info/68e8c20acc49a84b7e10a492?utm_campaign=1065&utm_source=git)** | Bloomington, IL | Hybrid | Oct 10 |
 | **[Nexity Agency | Marketing Agency](nexityagency.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ea3084db8fbc4015c65fc6?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68e8b9a8c72beb74cb322206?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 10 |
 | **[ConnectUs Technology Inc.](https://www.linkedin.com/company/107681953)** | **[2025 Fall Marketing Specialist Internship (Unpaid) – AI Product Branding and Social Campaign Design/Operation](https://jobright.ai/jobs/info/68e89ee8cc49a84b7e10815d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney+ Connected TV Paid Media Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68e88e9609580a2fe57f9179?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Oct 09 |
-| ↳ | **[Digital Marketing YouTube Creative & Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68e88d7ec72beb74cb31ff87?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
