@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Comfrt](https://comfrt.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/68e9d11154fbf903f6a7ef83?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Royal Credit Union](https://www.rcu.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68e9d0bccdf8d94b293a2804?utm_campaign=1065&utm_source=git)** | Eau Claire-Menomonie | On Site | Oct 10 |
+| **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Social Media Intern, CulinArt / Stoney Brook University / Stoney Brook, NY](https://jobright.ai/jobs/info/68e9d0a6cdf8d94b293a27f6?utm_campaign=1065&utm_source=git)** | Stony Brook, NY | On Site | Oct 10 |
+| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/68e9cd77cfc08e4908913165?utm_campaign=1065&utm_source=git)** | Redmond, WA | On Site | Oct 10 |
+| **[CourseCareers](http://coursecareers.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e9cc7acdf8d94b293a26ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
+| ↳ | **[TikTok Marketing Intern](https://jobright.ai/jobs/info/68e9cbd4cdf8d94b293a2696?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Integrated Communications Intern](https://jobright.ai/jobs/info/68e9c66ecdf8d94b293a2368?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 10 |
+| ↳ | **[Integrated Communications Intern](https://jobright.ai/jobs/info/68e9c2c954fbf903f6a7e9e5?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Oct 10 |
+| **[JonnyPops](https://www.jonnypops.com/)** | **[Events Intern (Summer)](https://jobright.ai/jobs/info/68e9c29e54fbf903f6a7e9c2?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Oct 10 |
+| ↳ | **[NE Field Marketing/Sales Intern (Summer)](https://jobright.ai/jobs/info/68e9c275cfc08e4908912bfd?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 10 |
+| **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9ba6465768b6412b1ef04?utm_campaign=1065&utm_source=git)** | La Grange, IL | On Site | Oct 10 |
+| **[Sealaska](http://www.sealaska.com/)** | **[Intern 2026 - Greenhouse & Marketing Intern](https://jobright.ai/jobs/info/68e9b7c6feeb0006c1a56dea?utm_campaign=1065&utm_source=git)** | Juneau, AK | On Site | Oct 10 |
 | **[CorePower Yoga](http://corepoweryoga.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e9b52c65768b6412b1ed22?utm_campaign=1065&utm_source=git)** | Denver, CO, USA | On Site | Oct 10 |
 | **[Invitation Homes](http://invitationhomes.com/)** | **[Marketing Intern - Resident Acquisition](https://jobright.ai/jobs/info/68e9afd70930fe0bc46284f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 10 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9aeb5feeb0006c1a568d1?utm_campaign=1065&utm_source=git)** | La Grange, IL | On Site | Oct 10 |
@@ -98,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[PSC Biotech® Corporation](http://biotech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9633f0930fe0bc4625124?utm_campaign=1065&utm_source=git)** | York, PA | On Site | Oct 10 |
 | **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern- Marketing](https://jobright.ai/jobs/info/68e959ca65768b6412b1ad45?utm_campaign=1065&utm_source=git)** | WI Madison | Hybrid | Oct 10 |
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68e978c30930fe0bc46261ce?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
-| **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Creative Marketing Associate (Intern)](https://jobright.ai/jobs/info/68e952779020b95add6a5c13?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Oct 10 |
 | **[Youthvine Agency](http://www.immersiveyouthmarketing.com)** | **[Social, Digital & Creator Marketing Internship: Multiple Roles](https://jobright.ai/jobs/info/68e9526365768b6412b1a76c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[TogetherInWitness](togetherinwitness.org)** | **[Campus Marketing Internship](https://jobright.ai/jobs/info/68e9524c65768b6412b1a74e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Qorvo, Inc.](https://www.qorvo.com/)** | **[Digital Strategy Marketing Intern](https://jobright.ai/jobs/info/68e950449020b95add6a598d?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Oct 10 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Events Marketing Internship](https://jobright.ai/jobs/info/68e879f309580a2fe57f8038?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 09 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Los Angeles)](https://jobright.ai/jobs/info/68e8797d09580a2fe57f7f95?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Oct 09 |
 | **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing-Creative Content Analyst](https://jobright.ai/jobs/info/68e878ee09580a2fe57f7eab?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Oct 09 |
-| **[Southwest Power Pool](https://spp.org)** | **[Summer 2026 Communications Intern](https://jobright.ai/jobs/info/68e877e9cc49a84b7e106787?utm_campaign=1065&utm_source=git)** | Little Rock, AR | On Site | Oct 09 |
-| **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/68e87550cc49a84b7e1064a4?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Oct 09 |
-| **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Intern, Marketing & Publicity (Hybrid)](https://jobright.ai/jobs/info/68e872e309580a2fe57f7aad?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 09 |
-| **[State Farm](https://www.statefarm.com/careers)** | **[Summer 2026 Intern - Marketing-Creative Content Analyst](https://jobright.ai/jobs/info/68e86de809580a2fe57f7946?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Oct 09 |
-| ↳ | **[Summer 2026 Intern - Marketing-Creative Content Analyst](https://jobright.ai/jobs/info/68e86a80cc49a84b7e105fa4?utm_campaign=1065&utm_source=git)** | Richardson, TX | Hybrid | Oct 09 |
-| **[Waters Corporation](http://www.waters.com)** | **[Immerse Delaware Intern, Social Engagement and Communication Coordinator](https://jobright.ai/jobs/info/68dc3ff3accfd24b67e536d5?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Oct 09 |
-| **[Meritage Homes](https://www.meritagehomes.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/68e867b309580a2fe57f7654?utm_campaign=1065&utm_source=git)** | Tucson, Arizona | On Site | Oct 09 |
-| **[Guerra Wealth Advisors](https://guerrafinancial.com)** | **[Welcome to Guerra!Events Marketing Internship](https://jobright.ai/jobs/info/68e85fb309580a2fe57f722c?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 09 |
-| **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Spring Marketing Intern](https://jobright.ai/jobs/info/68e85ebfc72beb74cb31e069?utm_campaign=1065&utm_source=git)** | Tulsa, OK, USA | On Site | Oct 09 |
-| **[KQED](http://www.kqed.org)** | **[Audience Development Intern, Email Marketing](https://jobright.ai/jobs/info/68e85d7209580a2fe57f6e47?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 09 |
-| **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Spring Marketing Intern](https://jobright.ai/jobs/info/68e85cb309580a2fe57f6caa?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, USA | On Site | Oct 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
