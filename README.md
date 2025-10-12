@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[East-West](https://www.eastwest.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/68eb87f476a1db7c59860b3c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Oct 12 |
+| **[Eva Eco System, Inc](https://vapewitheva.com)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/68eb7ba48369791ef7827536?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Oct 12 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ugg Copy Intern - UGG](https://jobright.ai/jobs/info/68eb70a32f64880ca0b582fd?utm_campaign=1065&utm_source=git)** | Goleta, CA | Hybrid | Oct 12 |
+| **[ZobeLab](http://www.ZobeLab.com)** | **[Internship - Music Technology (Marketing, Sales, Business Development, Partnership Management, Social, & PR)](https://jobright.ai/jobs/info/68eb7b9a8369791ef782752f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 11 |
 | **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Communications Intern - Interns Elevated Program - Minnetonka, MN](https://jobright.ai/jobs/info/68eaf0cf2f64880ca0b54686?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | Hybrid | Oct 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68eae4e12f64880ca0b545d1?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
@@ -82,9 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5b38369791ef78228ab?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5428369791ef78227e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6ced7e8daec61499aeee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac4c38369791ef7822f0a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa07676a1db7c5985b9bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6dcd6ae2b894b1d71ee65?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
-| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68ea9dd58369791ef7822702?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ea8c6d2f64880ca0b5370a?utm_campaign=1065&utm_source=git)** | Maitland, FL | On Site | Oct 11 |
 | **[CreativeOPTIC (Agency)](https://creativeoptic.co)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/68ea7fcb76a1db7c5985b5e7?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Oct 11 |
@@ -101,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Perrigo Company plc](http://www.perrigo.com)** | **[Perrigo Aspire Commercial Internship Program - Marketing Summer 2026](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdcc?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Oct 11 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Fan Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68ea4b4576a1db7c59859de5?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 11 |
 | **[La French Tech Taiwan](https://www.frenchtechtaiwan.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68ea182dcfc08e4908915ce9?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 11 |
+| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Investor Relations & Finance Summer Intern](https://jobright.ai/jobs/info/68e732b7ae2b894b1d72246a?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Oct 11 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Market Access - Cell Therapy (Summer 2026)](https://jobright.ai/jobs/info/68ea120dcfc08e490891583c?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Oct 11 |
 | **[Wolf Trap Foundation for the Performing Arts](https://www.wolftrap.org/)** | **[Intern, Social Media (Spring 2026)](https://jobright.ai/jobs/info/68ea066acdf8d94b293a41c7?utm_campaign=1065&utm_source=git)** | Vienna, VA, USA | On Site | Oct 11 |
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Communications Internship, Brookings Metro (Job ID 2025-3745)](https://jobright.ai/jobs/info/68eb56d08369791ef78260bb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 10 |
@@ -142,7 +146,7 @@ For a complete list, click the following sortable link below:
 | **[Central Contra Costa Sanitary District](https://www.centralsan.org/)** | **[STUDENT INTERN - COMMUNICATIONS](https://jobright.ai/jobs/info/68e987aa65768b6412b1d306?utm_campaign=1065&utm_source=git)** | Martinez, CA | On Site | Oct 10 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales (Growth) Intern](https://jobright.ai/jobs/info/68e98286f195760c354aa0af?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Remote | Oct 10 |
 | **[Bristol Myers Squibb](http://www.bms.com)** | **[Intern, Market Access – Cell Therapy (Summer 2026)](https://jobright.ai/jobs/info/68e9804565768b6412b1cd34?utm_campaign=1065&utm_source=git)** | Princeton - NJ - US | Hybrid | Oct 10 |
-| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68e97c3465768b6412b1cab6?utm_campaign=1065&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 10 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68e97c2d65768b6412b1cab2?utm_campaign=1065&utm_source=git)** | Vancouver, Washington, United States of America | On Site | Oct 10 |
 | **[Special Olympics Missouri](https://somo.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/68e978ef0930fe0bc4626203?utm_campaign=1065&utm_source=git)** | Jefferson City, MO | On Site | Oct 10 |
 | **[William G. Pomeroy Foundation](https://www.wgpfoundation.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68e978cf0930fe0bc46261df?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Oct 10 |
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Digital Marketing Technology Intern](https://jobright.ai/jobs/info/68e978ad65768b6412b1c690?utm_campaign=1065&utm_source=git)** | Malvern, PA | On Site | Oct 10 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[WilkinGuttenplan](http://wgcpas.com)** | **[Marketing Internship - Hybrid](https://jobright.ai/jobs/info/68e973670930fe0bc4625ef1?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | Hybrid | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content and Social Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e9725165768b6412b1c15c?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 10 |
 | **[The Weitz Company](http://www.weitz.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68e96b1c65768b6412b1bcf6?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 10 |
+| **[David Yurman](http://www.davidyurman.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68e96a9365768b6412b1bc62?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
 | **[Deckers Brands](http://deckers.com)** | **[Copy Intern - UGG](https://jobright.ai/jobs/info/68e9650e65768b6412b1b8eb?utm_campaign=1065&utm_source=git)** | Goleta, California | Hybrid | Oct 10 |
-| **[Taskify](https://www.linkedin.com/company/74901660)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/68e96477f195760c354a8875?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
-| **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/68e963d165768b6412b1b6a6?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Oct 10 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68e9639365768b6412b1b63e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 10 |
-| **[PSC Biotech® Corporation](http://biotech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9633f0930fe0bc4625124?utm_campaign=1065&utm_source=git)** | York, PA | On Site | Oct 10 |
-| **[American Family Insurance](http://amfamventures.com/)** | **[Summer 2026 Intern- Marketing](https://jobright.ai/jobs/info/68e959ca65768b6412b1ad45?utm_campaign=1065&utm_source=git)** | WI Madison | Hybrid | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
