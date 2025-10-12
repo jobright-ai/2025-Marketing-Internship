@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Boston Scientific](http://www.bostonscientific.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ebe4aa2f64880ca0b59924?utm_campaign=1065&utm_source=git)** | Maple Grove, MN | Hybrid | Oct 12 |
+| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Public Relations Intern / Fall 2025](https://jobright.ai/jobs/info/68ebd6262f64880ca0b597cb?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 12 |
 | **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ebc3ee76a1db7c59861555?utm_campaign=1065&utm_source=git)** | Waller, TX | On Site | Oct 12 |
 | **[East-West](https://www.eastwest.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/68eb87f476a1db7c59860b3c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Oct 12 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ugg Copy Intern - UGG](https://jobright.ai/jobs/info/68eb70a32f64880ca0b582fd?utm_campaign=1065&utm_source=git)** | Goleta, CA | Hybrid | Oct 12 |
@@ -77,13 +79,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaaa4a8369791ef7822a6e?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d0d3e8daec61499af358?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/68eaa96c8369791ef78229f9?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61490e8daec61499a851e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaa8382f64880ca0b53c31?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaa8382f64880ca0b53c31?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68eaa8112f64880ca0b53c18?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Oct 11 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaa7f02f64880ca0b53bff?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Oct 11 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68eaa7ec2f64880ca0b53bfd?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Oct 11 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68eaa61f8369791ef7822961?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 11 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5f68369791ef7822919?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6d010ae2b894b1d71e32f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5f68369791ef7822919?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5b38369791ef78228ab?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5428369791ef78227e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6ced7e8daec61499aeee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
@@ -112,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[The Brookings Institution](http://www.brookings.edu/)** | **[Spring 2026, Communications Internship, Brookings Metro (Job ID 2025-3745)](https://jobright.ai/jobs/info/68eb56d08369791ef78260bb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 10 |
 | **[CourseCareers](http://coursecareers.com)** | **[Short Form Content Marketing Intern](https://jobright.ai/jobs/info/68e9e4cccfc08e49089137a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Market Access Strategy (LCS)](https://jobright.ai/jobs/info/68e9e01a54fbf903f6a7f331?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 10 |
-| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68e9e00154fbf903f6a7f31e?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[CourseCareers](http://coursecareers.com)** | **[Marketing Intern - TikTok](https://jobright.ai/jobs/info/68e9dec354fbf903f6a7f210?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68e9d9a454fbf903f6a7f13d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 10 |
 | **[Rockwell Automation](http://www.rockwellautomation.com)** | **[Intern, Market Intelligence (LCS)](https://jobright.ai/jobs/info/68e9d53254fbf903f6a7f059?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 10 |
@@ -133,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/68cfc80e846f0b04af685071?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 | **[Invitation Homes](http://invitationhomes.com/)** | **[Marketing Intern - Resident Acquisition](https://jobright.ai/jobs/info/68e9afd70930fe0bc46284f0?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 10 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9aeb5feeb0006c1a568d1?utm_campaign=1065&utm_source=git)** | La Grange, IL | On Site | Oct 10 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Fan Engagement Intern - Spring 2026](https://jobright.ai/jobs/info/68e9ae190930fe0bc46283c4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 10 |
 | **[FlyteVu](https://www.flytevu.com)** | **[Public Relations Intern (F.L.O.C.K.)](https://jobright.ai/jobs/info/68e9acd265768b6412b1e815?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 10 |
 | **[Cook Medical](http://www.cookmedical.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68e9acb9feeb0006c1a56665?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Oct 10 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9acb30930fe0bc4628268?utm_campaign=1065&utm_source=git)** | La Grange | On Site | Oct 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Healthineers](https://www.siemens-healthineers.com)** | **[Digital Marketing Technology Intern](https://jobright.ai/jobs/info/68e978ad65768b6412b1c690?utm_campaign=1065&utm_source=git)** | Malvern, PA | On Site | Oct 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[D23 Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68e975a665768b6412b1c632?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 10 |
 | **[Capital Farm Credit](https://www.capitalfarmcredit.com/)** | **[Internship - Marketing](https://jobright.ai/jobs/info/68e973b265768b6412b1c401?utm_campaign=1065&utm_source=git)** | College Station, TX | On Site | Oct 10 |
-| **[WilkinGuttenplan](http://wgcpas.com)** | **[Marketing Internship - Hybrid](https://jobright.ai/jobs/info/68e973670930fe0bc4625ef1?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | Hybrid | Oct 10 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Content and Social Media Intern, Spring 2026](https://jobright.ai/jobs/info/68e9725165768b6412b1c15c?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
