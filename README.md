@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedHealth Group](https://www.unitedhealthgroup.com/)** | **[Communications Intern - Interns Elevated Program - Minnetonka, MN](https://jobright.ai/jobs/info/68eaf0cf2f64880ca0b54686?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | Hybrid | Oct 11 |
 | **[Indy](https://weareindy.com/)** | **[Growth Hacker Intern (Remote)](https://jobright.ai/jobs/info/68eaeadc8369791ef78233f7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Oct 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68eae4e12f64880ca0b545d1?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
@@ -71,8 +72,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaaa4a8369791ef7822a6e?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 11 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68eaa96c8369791ef78229f9?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | Hybrid | Oct 11 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaa8382f64880ca0b53c31?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Oct 11 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/68eaa81376a1db7c5985bc6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 11 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68eaa8112f64880ca0b53c18?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Oct 11 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68eaa8112f64880ca0b53c18?utm_campaign=1065&utm_source=git)** | Sugar Land, TX | On Site | Oct 11 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68eaa7f02f64880ca0b53bff?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Oct 11 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68eaa7ec2f64880ca0b53bfd?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Oct 11 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68eaa61f8369791ef7822961?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 11 |
@@ -80,9 +80,10 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5f68369791ef7822919?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5b38369791ef78228ab?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5428369791ef78227e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa07676a1db7c5985b9bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68ea9dd58369791ef7822702?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6ced7e8daec61499aeee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac4c38369791ef7822f0a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa07676a1db7c5985b9bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68ea9dd58369791ef7822702?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[Cohen Law Group](https://itsaboutjustice.law/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ea8c6d2f64880ca0b5370a?utm_campaign=1065&utm_source=git)** | Maitland, FL | On Site | Oct 11 |
 | **[Todd](https://toddagriscience.com)** | **[Growth Intern](https://jobright.ai/jobs/info/68ea833b2f64880ca0b535dc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 11 |
 | **[CreativeOPTIC (Agency)](https://creativeoptic.co)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/68ea7fcb76a1db7c5985b5e7?utm_campaign=1065&utm_source=git)** | LA Metro Area | Remote | Oct 11 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Marketing YouTube Creative & Programming Intern, Spring 2026](https://jobright.ai/jobs/info/68ea68ad8369791ef7821b32?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Ecommerce & CRM Intern, D2C (February to May)](https://jobright.ai/jobs/info/68ce42d524dd5209002f0fe0?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Oct 11 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[FX Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68ea63f276a1db7c5985ab92?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 11 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68ea5c282f64880ca0b526e1?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 11 |
 | **[Hyatt](http://www.hyatt.com/)** | **[Marketing Administrative/Customer Service Internship ($20.20/HR) - Key West](https://jobright.ai/jobs/info/68ea366e6afbef49f2c66391?utm_campaign=1065&utm_source=git)** | Key West, FL | On Site | Oct 11 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
 | **[Perrigo Company plc](http://www.perrigo.com)** | **[Perrigo Aspire Commercial Internship Program - Marketing Summer 2026](https://jobright.ai/jobs/info/68cd95851ad6b16f0289bdcc?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Oct 11 |
