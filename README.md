@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ámaxa](https://www.amaxaimpact.org/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/68ecd99c6335d33236123d9e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Sensei Ag](https://www.sensei.ag/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ecc234d4b0106e703ed06f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 13 |
 | **[Feel-Good MSP](http://www.feelgoodmsp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ecbd92d4b0106e703ece83?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 13 |
 | **[Crest Vale](crestvale.us)** | **[Group Marketing Summer Intern](https://jobright.ai/jobs/info/68ecb562d4b0106e703ec9d4?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 13 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e61b5f1852e62f00818df0?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68eae4e12f64880ca0b545d1?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 11 |
-| **[Steel Dynamics, Inc](http://steeldynamics.com)** | **[Marketing Development Internship](https://jobright.ai/jobs/info/68ead7462f64880ca0b544d0?utm_campaign=1065&utm_source=git)** | Columbia, SC | Hybrid | Oct 11 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ead6b88369791ef7823265?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eac64e76a1db7c5985c26e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 11 |
 | **[The Classic Center](http://classiccenter.com)** | **[Intern: Digital Marketing & Communications](https://jobright.ai/jobs/info/68eac2d42f64880ca0b54187?utm_campaign=1065&utm_source=git)** | Athens, GA | Hybrid | Oct 11 |
@@ -115,9 +115,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5b38369791ef78228ab?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5428369791ef78227e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6ced7e8daec61499aeee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
+| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac4c38369791ef7822f0a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa07676a1db7c5985b9bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6dcd6ae2b894b1d71ee65?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
-| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68ea9dd58369791ef7822702?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[Firstpick International LLC](www.firstpick.cc)** | **[Marketing & Market Research Intern (Unpaid)](https://jobright.ai/jobs/info/68ec8d78c26b9574506f3261?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Oct 11 |
 | **[Get Out and About](getoutandabout.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68ea7e492f64880ca0b5350b?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Oct 11 |
