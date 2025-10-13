@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sensei Ag](https://www.sensei.ag/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ecc234d4b0106e703ed06f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 13 |
+| **[Feel-Good MSP](http://www.feelgoodmsp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ecbd92d4b0106e703ece83?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 13 |
+| **[Crest Vale](crestvale.us)** | **[Group Marketing Summer Intern](https://jobright.ai/jobs/info/68ecb562d4b0106e703ec9d4?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 13 |
 | **[National Grid](https://www.nationalgrid.com)** | **[Summer 2026 Intern Program: Business, Finance, Public Relations Majors (Brooklyn, NY)](https://jobright.ai/jobs/info/68eca2b8c26b9574506f5915?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Oct 12 |
 | **[DAYBREAKER](http://daybreaker.com/)** | **[Daybreaker Social Media Internship](https://jobright.ai/jobs/info/68ec817ac26b9574506f29da?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Oct 12 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Franchise Planning and Operations Intern, Spring 2026](https://jobright.ai/jobs/info/68ec7f60c26b9574506f2940?utm_campaign=1065&utm_source=git)** | New York, NY, USA | Hybrid | Oct 12 |
@@ -78,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[East-West](https://www.eastwest.org)** | **[Marketing Internship](https://jobright.ai/jobs/info/68eb87f476a1db7c59860b3c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Oct 12 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ugg Copy Intern - UGG](https://jobright.ai/jobs/info/68eb70a32f64880ca0b582fd?utm_campaign=1065&utm_source=git)** | Goleta, CA | Hybrid | Oct 12 |
 | **[silvr](https://www.silvr.ai)** | **[Growth & Marketing Intern (Fully Remote)](https://jobright.ai/jobs/info/68ec5f0dbb72c377a55123b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 12 |
+| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6cbc81852e62f0081ea0c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 12 |
 | **[EMKUBE TECHNOLOGY](emkube.io)** | **[Social Media & Public Relations Intern](https://jobright.ai/jobs/info/68ec9afbd4b0106e703ea65a?utm_campaign=1065&utm_source=git)** | Lake Mary, FL | Hybrid | Oct 11 |
 | **[Lightpath](https://lightpathfiber.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68ec71311eecd439f43f8a70?utm_campaign=1065&utm_source=git)** | Wakefield, MA | On Site | Oct 11 |
 | **[SageSure](https://www.sagesure.com)** | **[Intern (Marketing & Events)](https://jobright.ai/jobs/info/68ec5d78bb72c377a55117a7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Oct 11 |
@@ -111,9 +115,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5b38369791ef78228ab?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 11 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa5428369791ef78227e4?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6ced7e8daec61499aeee2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 11 |
-| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac4c38369791ef7822f0a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68eaa07676a1db7c5985b9bb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 11 |
-| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
+| **[PwC](http://pwc.com)** | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68e6dcd6ae2b894b1d71ee65?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
+| ↳ | **[Delivering Deal Value (DDV) Senior Associate Intern - Summer 2026](https://jobright.ai/jobs/info/68eac5cc8369791ef7822f93?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68ea9dd58369791ef7822702?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 11 |
 | **[Firstpick International LLC](www.firstpick.cc)** | **[Marketing & Market Research Intern (Unpaid)](https://jobright.ai/jobs/info/68ec8d78c26b9574506f3261?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Oct 11 |
 | **[Get Out and About](getoutandabout.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68ea7e492f64880ca0b5350b?utm_campaign=1065&utm_source=git)** | Buffalo-Niagara Area | Hybrid | Oct 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NE Field Marketing/Sales Intern (Summer)](https://jobright.ai/jobs/info/68e9c275cfc08e4908912bfd?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 10 |
 | **[Progress Rail, A Caterpillar Company](http://www.progressrail.com/)** | **[Proposal Management Intern](https://jobright.ai/jobs/info/68e9ba6465768b6412b1ef04?utm_campaign=1065&utm_source=git)** | La Grange, IL | On Site | Oct 10 |
 | **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Marketing Intern](https://jobright.ai/jobs/info/68cc763816d00d2beeb202f4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Oct 10 |
-| **[Sealaska](http://www.sealaska.com/)** | **[Intern 2026 - Greenhouse & Marketing Intern](https://jobright.ai/jobs/info/68e9b7c6feeb0006c1a56dea?utm_campaign=1065&utm_source=git)** | Juneau, AK | On Site | Oct 10 |
-| **[CorePower Yoga](http://corepoweryoga.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68e9b52c65768b6412b1ed22?utm_campaign=1065&utm_source=git)** | Denver, CO, USA | On Site | Oct 10 |
-| **[JonnyPops](https://www.jonnypops.com/)** | **[Social Media Intern (Summer)](https://jobright.ai/jobs/info/68eca2131eecd439f43fc009?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Oct 10 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/68cfc80e846f0b04af685071?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
