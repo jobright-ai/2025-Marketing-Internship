@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/68f0b48a1f624a7ec1cf6faa?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 16 |
+| **[Bessemer Trust](http://www.bessemertrust.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68f0add31f624a7ec1cf63a0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 16 |
+| **[Inter Miami CF](https://www.intermiamicf.com)** | **[Intern, Marketing Season 2026](https://jobright.ai/jobs/info/68f0ac9d1f624a7ec1cf6254?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 16 |
+| ↳ | **[Intern, Digital Season 2026](https://jobright.ai/jobs/info/68f0aaf81f624a7ec1cf5d62?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Oct 16 |
+| **[Veeup.cc](https://veeup.cc/)** | **[GTM Intern](https://jobright.ai/jobs/info/68f0a4aeeb273a32d976a506?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Federal Reserve Bank of Chicago](http://www.chicagofed.org)** | **[Summer 2026 Intern - Marketing, Communications, Journalism Majors](https://jobright.ai/jobs/info/68f099f1eb273a32d9769f57?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 16 |
 | **[Triple-S Steel Holdings, Inc.](http://www.sss-steel.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f09997a6b9004b5e321e11?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Oct 16 |
 | **[Matthews™](https://www.matthews.com/)** | **[Marketing Intern (PHX)](https://jobright.ai/jobs/info/68f08d971f624a7ec1cf4039?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 15 |
@@ -74,10 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Intern(2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68f061fc9e09d311e0431373?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Oct 15 |
 | **[Pijlhove](https://www.linkedin.com/company/119770)** | **[Communication Intern](https://jobright.ai/jobs/info/68f0603e569e752a99d4acee?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Oct 15 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68f08d17a6b9004b5e3216c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 15 |
-| **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f08caba6b9004b5e321623?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Oct 15 |
 | **[SYNEAR FOODS USA](https://synearusa.com)** | **[Unpaid Internship- Sales and Marketing Coordinator ( Chinese Speaking Required)](https://jobright.ai/jobs/info/68f05c5fe2767e5e924c59eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 15 |
 | **[Freeport-McMoRan](https://fcx.com)** | **[2026 Summer Internship - Social Media & Marketing - Hybrid](https://jobright.ai/jobs/info/68f055ad99530851ee6ec7b9?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Hybrid | Oct 15 |
-| **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f07abd1f624a7ec1cf346f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 15 |
 | **[NetGain Technologies, LLC](http://www.netgainit.com/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/68f051cfe2767e5e924c55ca?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Oct 15 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68f0515be2767e5e924c553b?utm_campaign=1065&utm_source=git)** | Temple Terrace, FL | On Site | Oct 15 |
 | **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f08cba1f624a7ec1cf3ec9?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Oct 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efd80cde50091dbfa5098e?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Oct 15 |
 | **[Constellation Brands](http://cbrands.com)** | **[Intern, Beer Marketing](https://jobright.ai/jobs/info/68efd43bde50091dbfa508fb?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 15 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Oct 15 |
-| **[PatentFlip](patentflip.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68efd2c278ba1621431e0a00?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Oct 15 |
-| **[LV Collective](https://lvcollective.com)** | **[Brand Ambassador Intern / Rambler Ann Arbor](https://jobright.ai/jobs/info/68efcd6d9821486c423c76f9?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Oct 15 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (RevenueOps - Sales Enablement) (Summer 2026) - Manchester, NH](https://jobright.ai/jobs/info/68efcd65de50091dbfa504c1?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Oct 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
