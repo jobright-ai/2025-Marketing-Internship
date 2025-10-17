@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Communications Intern](https://jobright.ai/jobs/info/68c4017be471ef3ce16d3583?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
+| **[Selfin (YC F25)](https://selfin.app)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1eae2e6870116b1f5e505?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Oct 17 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Event Assistant Intern - Spring 2026](https://jobright.ai/jobs/info/68f1eaacef766b3f0fd133e2?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
+| **[Burns & Scalo Roofing - Ohio](https://burnsscaloohio.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1e502e6870116b1f5e27f?utm_campaign=1065&utm_source=git)** | Pittsburgh, Pennsylvania, United States | On Site | Oct 16 |
 | **[Shorr Solutions](https://shorrsolutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1ceb0e6870116b1f5d494?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Marketing & Content Internship (Unpaid)](https://jobright.ai/jobs/info/68f1cde2ef766b3f0fd1223f?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Oct 16 |
 | **[SendNow](https://sendnow.live)** | **[Product Marketing Intern (Unpaid - 3 Months)](https://jobright.ai/jobs/info/68f1c34ef462172a5a7dc482?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Enlighten 3D](https://forms.gle/B9yeFRntJUiZihKm6)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/68f1bd7cf462172a5a7dbf1d?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | On Site | Oct 16 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[Digital Marketing Communications Intern](https://jobright.ai/jobs/info/68f1bbfee6870116b1f5c72f?utm_campaign=1065&utm_source=git)** | Portage, MI | On Site | Oct 16 |
-| **[DataInsta](www.datainsta.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/68f1b675e6870116b1f5c38c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program — Global Communications — Intern](https://jobright.ai/jobs/info/68f1b51cef766b3f0fd1112d?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Oct 16 |
 | **[Centene Corporation](http://www.centene.com)** | **[Internal Communications Intern (Undergraduate - Summer 2026)](https://jobright.ai/jobs/info/68f1b151e6870116b1f5c093?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Oct 16 |
 | **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/68f1b0b2e6870116b1f5bf62?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 16 |
@@ -124,6 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f1568aef766b3f0fd0c486?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 16 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Net Revenue Optimization Intern, Summer 2026](https://jobright.ai/jobs/info/68f15487ef766b3f0fd0c0b8?utm_campaign=1065&utm_source=git)** | Orrville, OH | Hybrid | Oct 16 |
 | **[SpartanNash](https://www.spartannash.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68f1545ee6870116b1f5719d?utm_campaign=1065&utm_source=git)** | Byron Center, MI | On Site | Oct 16 |
+| **[Wisconsin Vein Center & MediSpa](http://wimedispa.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f1fd50b2a7144bf268a3af?utm_campaign=1065&utm_source=git)** | Pewaukee, WI | Hybrid | Oct 16 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[EDU Technical Marketing Intern](https://jobright.ai/jobs/info/68f14edaf462172a5a7d5f89?utm_campaign=1065&utm_source=git)** | Boston, MA, USA | On Site | Oct 16 |
 | **[The J.M. Smucker Co.](https://www.jmsmucker.com)** | **[Net Revenue Optimization Intern, Summer 2026](https://jobright.ai/jobs/info/68f14e22e6870116b1f56757?utm_campaign=1065&utm_source=git)** | Orrville, OH | Hybrid | Oct 16 |
 | **[American Bankers Association](http://www.aba.com)** | **[Intern, Digital Marketing Analytics](https://jobright.ai/jobs/info/68f14b9aef766b3f0fd0b5e4?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | On Site | Oct 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f1421def766b3f0fd0ab11?utm_campaign=1065&utm_source=git)** | USA-VA - Virginia Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141fee6870116b1f55bde?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141fee6870116b1f55bdf?utm_campaign=1065&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Oct 16 |
-| **[Opportunity Education](https://opportunityeducation.org/)** | **[Student Recruitment & Marketing Intern (Immediate Opening) / Des Moines Prep](https://jobright.ai/jobs/info/68b75e89f4e41a61efd987f4?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 16 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141d7ef766b3f0fd0aa6d?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141afe6870116b1f55ae5?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141a7ef766b3f0fd0a9ea?utm_campaign=1065&utm_source=git)** | USA-MI - Michigan Remote | Remote | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
