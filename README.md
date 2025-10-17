@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[US Vietnam Talent International School](https://utschool.edu.vn/)** | **[Intern, Marketing And Communications](https://jobright.ai/jobs/info/68f1952bf462172a5a7da29d?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 16 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Graduate Intern, Innovation - Marketing and Communications (Spring 2026)](https://jobright.ai/jobs/info/68f194f8f462172a5a7da214?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 16 |
+| **[WriteMed.AI](https://writemed.ai)** | **[Marketing Intern - AI/Medical Science - Unpaid](https://jobright.ai/jobs/info/68f18f52ef766b3f0fd0f5d0?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
+| **[David C Cook](https://davidccook.org)** | **[Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/68f18f2cef766b3f0fd0f5b6?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Oct 16 |
+| **[Terex Corporation](http://www.terex.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f18810f462172a5a7d9983?utm_campaign=1065&utm_source=git)** | Watertown, SD | On Site | Oct 16 |
+| **[Rho](https://rho.co)** | **[Social Media Intern (TikToks, Reels, Shorts)](https://jobright.ai/jobs/info/68f186d2e6870116b1f5a219?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 16 |
 | **[State of Arizona](https://gaming.az.gov)** | **[Social Media College Intern (Unc)](https://jobright.ai/jobs/info/68f18235e6870116b1f59ebe?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 16 |
 | **[DataInsta](www.datainsta.com)** | **[Social Media & Growth Intern](https://jobright.ai/jobs/info/68f18229f462172a5a7d952f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
 | **[YouWare](https://www.youware.com/?utm_source=linkedin-official)** | **[User Growth Intern](https://jobright.ai/jobs/info/68f17bbbe6870116b1f59a03?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 16 |
@@ -127,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/68f14267e6870116b1f55d10?utm_campaign=1065&utm_source=git)** | Washington, US | On Site | Oct 16 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f14241e6870116b1f55c84?utm_campaign=1065&utm_source=git)** | USA-WA - Washington Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f1421def766b3f0fd0ab11?utm_campaign=1065&utm_source=git)** | USA-VA - Virginia Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141fee6870116b1f55bde?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141fee6870116b1f55bdf?utm_campaign=1065&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Oct 16 |
+| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141fee6870116b1f55bde?utm_campaign=1065&utm_source=git)** | USA-MD - Maryland Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141d7ef766b3f0fd0aa6d?utm_campaign=1065&utm_source=git)** | USA-CA - California Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141afe6870116b1f55ae5?utm_campaign=1065&utm_source=git)** | USA-UT - Utah Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f141a7ef766b3f0fd0a9ea?utm_campaign=1065&utm_source=git)** | USA-MI - Michigan Remote | Remote | Oct 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f1405ee6870116b1f55714?utm_campaign=1065&utm_source=git)** | USA-AZ - Arizona Remote | Remote | Oct 16 |
 | ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f1404cf462172a5a7d5263?utm_campaign=1065&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Oct 16 |
 | **[USF College of Nursing](http://health.usf.edu/nursing)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/68f14043e6870116b1f556c5?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Oct 16 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f13ffcf462172a5a7d51f1?utm_campaign=1065&utm_source=git)** | USA-VT - Vermont Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f13fefef766b3f0fd0a5c2?utm_campaign=1065&utm_source=git)** | USA-NV - Nevada Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f13fe4e6870116b1f555a9?utm_campaign=1065&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Oct 16 |
-| ↳ | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f13fe1f462172a5a7d51c7?utm_campaign=1065&utm_source=git)** | USA-IL - Illinois Remote | Remote | Oct 16 |
-| **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68f13fd3e6870116b1f55556?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Oct 16 |
-| **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Client Services & Marketing, Baseball](https://jobright.ai/jobs/info/68f13fc3ef766b3f0fd0a589?utm_campaign=1065&utm_source=git)** | USA-TX - Texas Remote | Remote | Oct 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
