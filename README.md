@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Oct 18 |
+| **[YMCA of the North Shore](http://www.northshoreymca.org)** | **[Development & Events Intern (Spring 2026) - YMCA of the North Shore](https://jobright.ai/jobs/info/68f33b3476a51a4307bcc4a1?utm_campaign=1065&utm_source=git)** | Beverly, MA | On Site | Oct 18 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f320a49a63986de756f564?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Oct 17 |
 | **[Zurich North America](https://www.zurichna.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68f3157176a51a4307bcaf9b?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 17 |
 | **[Kiva](http://kiva.org)** | **[Marketing Creative Insights Intern](https://jobright.ai/jobs/info/68f313a476a51a4307bcae5b?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[CSM Corporation](https://csmcorp.net/)** | **[Lodging Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68f2f19d9a63986de756d61d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 17 |
 | **[Iconic Hearts, Inc.](https://iconichearts.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f2f0ff9a63986de756d5d4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 17 |
 | **[TRG](https://trg.agency)** | **[Copywriter Intern (Fall 2025)](https://jobright.ai/jobs/info/68f2ef769a63986de756d536?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 17 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f2e4df9a63986de756cfac?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Oct 17 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f2e4c89a65fd3458581c0c?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Oct 17 |
 | **[Anker Innovations LTD](https://us.anker.com/)** | **[Social Media & Influencer Marketing Intern](https://jobright.ai/jobs/info/68ba0c4b5f38327491863ade?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Oct 17 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68dc6028accfd24b67e54f60?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Oct 17 |
 | **[Selfin (YC F25)](https://selfin.app)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f2d8b99a63986de756cb0e?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 17 |
@@ -148,13 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service - Canada](https://www.gfs.ca/en-ca)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/68f30edb76a51a4307bcaa84?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | ↳ | **[Brands Marketing Internship](https://jobright.ai/jobs/info/68f30e4376a51a4307bca9df?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Oct 17 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Spring 2026](https://jobright.ai/jobs/info/68f280e39a63986de756867e?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/68f2b92b76a51a4307bc78b4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 17 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/68f27f6376a51a4307bc43e4?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
+| ↳ | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/68f27f6376a51a4307bc43e4?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 17 |
 | **[Nike](http://www.nike.com)** | **[Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/68f1bdeaef766b3f0fd119e0?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
+| ↳ | **[NIKE, Inc. Digital Growth Graduate Internship](https://jobright.ai/jobs/info/68f1c38df462172a5a7dc4e7?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Oct 17 |
 | **[Saya Agency](https://www.saya-agency.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68f2a1e89a65fd345857e5c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 17 |
 | **[Tencent Americas](http://www.exploretencent.com/careers/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/68f29aad9a65fd345857e178?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 17 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/68f2a9fb76a51a4307bc6227?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 17 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Athlete Exchange (Organic Content)](https://jobright.ai/jobs/info/68f275879a65fd345857cc68?utm_campaign=1065&utm_source=git)** | USA-CA - Los Angeles HQ | Hybrid | Oct 17 |
-| **[TÜV Rheinland North America](http://www.tuv.com/us)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f272b49a65fd345857cac4?utm_campaign=1065&utm_source=git)** | Boxborough, MA, US | On Site | Oct 17 |
-| **[Hartford Athletic](https://www.hartfordathletic.com/)** | **[Event and Promotions Street Team Internship Winter 2025](https://jobright.ai/jobs/info/68f292db9a65fd345857dc77?utm_campaign=1065&utm_source=git)** | Greater Hartford | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
