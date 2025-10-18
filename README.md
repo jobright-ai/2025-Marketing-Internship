@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Care Collective](www.carecollective.help.com)** | **[Intern](https://jobright.ai/jobs/info/68f409e89a65fd3458589036?utm_campaign=1065&utm_source=git)** | Storrs Mansfield, CT | Remote | Oct 18 |
+| **[UltraTend](https://ultratend.com)** | **[Instagram Intern](https://jobright.ai/jobs/info/68f4031c9a65fd3458588f9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 18 |
+| **[American Lung Association](http://www.lung.org)** | **[Health Promotions Intern - Winter/Spring 2026](https://jobright.ai/jobs/info/68f402ab9a65fd3458588f79?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 18 |
+| **[MillerKnoll](http://www.millerknoll.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68f3fefa9a65fd3458588f23?utm_campaign=1065&utm_source=git)** | Holland, MI | On Site | Oct 18 |
+| **[Zof AI](https://zof.ai)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/68f3fd2f76a51a4307bd01cc?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Oct 18 |
 | **[University of La Verne](http://laverne.edu)** | **[Student Social Media Coordinator](https://jobright.ai/jobs/info/68f3ec1b9a65fd3458588b5a?utm_campaign=1065&utm_source=git)** | La Verne, CA | Hybrid | Oct 18 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68f3e9019a65fd3458588ae2?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68f3e8cf9a65fd3458588acc?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 18 |
@@ -111,8 +116,8 @@ For a complete list, click the following sortable link below:
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Video Marketing - Intern](https://jobright.ai/jobs/info/68cd0d0ee23def7af55b47ae?utm_campaign=1065&utm_source=git)** | North Wales, PA | Hybrid | Oct 18 |
 | **[Enovis](https://enovis.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf0859fb49c96ca6ea5448?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 18 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f382489a65fd3458587436?utm_campaign=1065&utm_source=git)** | Morgantown, WV | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f382419a65fd3458587435?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3821b9a65fd345858742e?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f382079a65fd345858742c?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f380dc9a65fd3458587401?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f37e579a65fd3458587393?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f37d819a65fd345858733b?utm_campaign=1065&utm_source=git)** | Muncie, IN | On Site | Oct 18 |
@@ -132,29 +137,24 @@ For a complete list, click the following sortable link below:
 | **[The Andersons, Inc.](http://www.andersonsinc.com)** | **[Commodity Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68d6847445853d0e39cc814f?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Oct 18 |
 | ↳ | **[Commodity Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68d67c8e45853d0e39cc7f33?utm_campaign=1065&utm_source=git)** | Maumee, OH | On Site | Oct 18 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38f939a63986de7572a16?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f388219a65fd34585874d9?utm_campaign=1065&utm_source=git)** | Henderson, NV | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f387a69a63986de75727e0?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3873576a51a4307bce823?utm_campaign=1065&utm_source=git)** | Lawrence, KS | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f387a69a63986de75727e0?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f388219a65fd34585874d9?utm_campaign=1065&utm_source=git)** | Henderson, NV | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3921a9a63986de7572aa7?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3912b9a63986de7572a69?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3881e9a63986de7572801?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3875276a51a4307bce82a?utm_campaign=1065&utm_source=git)** | Boise, ID | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3912b9a63986de7572a69?utm_campaign=1065&utm_source=git)** | Trenton, NJ | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38fb39a63986de7572a1c?utm_campaign=1065&utm_source=git)** | Springfield, IL | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f392d79a65fd34585877ee?utm_campaign=1065&utm_source=git)** | College Station, TX | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f392b476a51a4307bceb46?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38d749a63986de75728a3?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f386de76a51a4307bce813?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f392b476a51a4307bceb46?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3885676a51a4307bce85a?utm_campaign=1065&utm_source=git)** | Greeley, CO | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38fae9a65fd34585876ca?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38f6376a51a4307bcea4a?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38d159a63986de7572890?utm_campaign=1065&utm_source=git)** | Fort Myers, FL | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38fae9a65fd34585876ca?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f392f876a51a4307bceb54?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38af79a65fd345858755f?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f392f876a51a4307bceb54?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3874c9a63986de75727ce?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f387ff9a63986de75727f6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38f109a63986de75729bf?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38ac29a65fd3458587551?utm_campaign=1065&utm_source=git)** | Jonesboro, AR | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f38abc9a65fd345858754f?utm_campaign=1065&utm_source=git)** | Corvallis, OR | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f386a376a51a4307bce7fa?utm_campaign=1065&utm_source=git)** | Chapel Hill, NC | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f390899a63986de7572a4d?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3879e76a51a4307bce843?utm_campaign=1065&utm_source=git)** | West Lafayette, IN | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
