@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Business Content Writer -Intern](https://jobright.ai/jobs/info/68f524209a63986de7578760?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 19 |
+| **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[Investor Relations Intern (Fall)](https://jobright.ai/jobs/info/68f520179a65fd345858d3ec?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Oct 19 |
+| **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68f50bbe9a65fd345858d302?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 19 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f506ad76a51a4307bd456b?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 19 |
 | **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/68f503ac9a63986de75785ae?utm_campaign=1065&utm_source=git)** | Edison, NJ | Hybrid | Oct 19 |
 | **[CIKA Consulting](cikaconsulting.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f5037a9a63986de75785a8?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 19 |
@@ -76,10 +79,10 @@ For a complete list, click the following sortable link below:
 | **[Quill](http://www.quill.com)** | **[Quill eCommerce Engineer Intern - June 2026](https://jobright.ai/jobs/info/68d8094e7a37c712687d7e46?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Oct 19 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Oct 19 |
 | **[Steelcase](https://www.steelcase.com/)** | **[2026 Summer Marketing Intern - Grand Rapids,MI](https://jobright.ai/jobs/info/68baf0ab6105227d118a18aa?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Oct 19 |
+| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN MARKETING](https://jobright.ai/jobs/info/68f4b69c76a51a4307bd3464?utm_campaign=1065&utm_source=git)** | Edison, NJ | Hybrid | Oct 19 |
 | **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Communications](https://jobright.ai/jobs/info/68bb47946105227d118a4d40?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Oct 19 |
 | **[John Deere](https://www.deere.com)** | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/68cd0835e23def7af55b3982?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Oct 19 |
 | **[TruStage](https://www.trustage.com/)** | **[Creative Services - Copywriter Intern (Hybrid)](https://jobright.ai/jobs/info/68d50a582ed36439e51e45d4?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Oct 19 |
-| **[JFK Johnson Rehabilitation Institute ](http://JFKJohnson.org)** | **[INTERN MARKETING](https://jobright.ai/jobs/info/68f4a93d76a51a4307bd302f?utm_campaign=1065&utm_source=git)** | Edison, NJ | Hybrid | Oct 19 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Event Assistant Intern - Spring 2026](https://jobright.ai/jobs/info/68f4818e9a65fd345858ac0e?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 18 |
 | **[EmberPay Inc.](https://www.embercard.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/68f477aa9a65fd345858a66c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 18 |
 | **[zant](https://www.zant.app/)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/68f4732a9a65fd345858a4f7?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Oct 18 |
@@ -119,13 +122,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68f3cec576a51a4307bcf9da?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 18 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68f3ce479a63986de75738f9?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Oct 18 |
 | **[Fresh Patch](http://www.freshpatch.com)** | **[Marketing Intern or Assistant](https://jobright.ai/jobs/info/68f3c7c49a63986de7573884?utm_campaign=1065&utm_source=git)** | Oxnard, CA | On Site | Oct 18 |
-| **[Kestrel Yard](https://www.linkedin.com/company/90858281)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68f3b8e09a65fd3458588398?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Oct 18 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Graduate Summer Internship Program - 2026 Marketing Analytics, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d72068d3fe025a3015f1d0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | ↳ | **[Campus Graduate Summer Internship Program - 2026 Marketing, Global Commercial Services - New York, NY](https://jobright.ai/jobs/info/68d7207a45853d0e39ccd149?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Communication Specialist)](https://jobright.ai/jobs/info/68bb79f08043103d4f228e0f?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/68bb7a2d8043103d4f228e38?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/68f3a8849a63986de7573119?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 18 |
-| **[Shure Incorporated](http://www.shure.com)** | **[Performance Marketing Intern](https://jobright.ai/jobs/info/68e213e51852e62f007f5860?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
+| ↳ | **[Performance Marketing Intern](https://jobright.ai/jobs/info/68e213e51852e62f007f5860?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | ↳ | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/68bb80416105227d118a6706?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68ce5ca0846f0b04af679246?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Oct 18 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Social Media Strategist - Influencer)](https://jobright.ai/jobs/info/68f45f1076a51a4307bd0fac?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Oct 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SPX Technologies](https://www.spx.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/68bb81668043103d4f22919f?utm_campaign=1065&utm_source=git)** | Overland Park, KS | On Site | Oct 18 |
 | **[Massachusetts Medical Society](http://www.massmed.org/)** | **[Marketing Operations Assistant Co-Op (NU Students only)](https://jobright.ai/jobs/info/68bb19636105227d118a2dd6?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 18 |
 | **[Weil-McLain](https://www.weil-mclain.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cea21ffb49c96ca6ea255b?utm_campaign=1065&utm_source=git)** | Burr Ridge, IL | On Site | Oct 18 |
-| **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f45f269a65fd3458589d99?utm_campaign=1065&utm_source=git)** | Vermillion, SD | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
