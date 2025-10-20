@@ -68,10 +68,9 @@ For a complete list, click the following sortable link below:
 | **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Business Content Writer -Intern](https://jobright.ai/jobs/info/68f524209a63986de7578760?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 19 |
 | **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[Investor Relations Intern (Fall)](https://jobright.ai/jobs/info/68f520179a65fd345858d3ec?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Oct 19 |
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Spring 2026 / Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68f50bbe9a65fd345858d302?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 19 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f506ad76a51a4307bd456b?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 19 |
-| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/68f503ac9a63986de75785ae?utm_campaign=1065&utm_source=git)** | Edison, NJ | Hybrid | Oct 19 |
 | **[CIKA Consulting](cikaconsulting.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f5037a9a63986de75785a8?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 19 |
 | **[Edge Branding Inc.](https://www.edgebrandinginc.com/)** | **[Marketing & PR Internship](https://jobright.ai/jobs/info/68f5028d9a63986de7578583?utm_campaign=1065&utm_source=git)** | Santa Ana, CA | On Site | Oct 19 |
+| **[Hackensack Meridian Health](https://www.hackensackmeridianhealth.org)** | **[Intern Marketing](https://jobright.ai/jobs/info/68f501e476a51a4307bd4503?utm_campaign=1065&utm_source=git)** | Edison, NJ | Hybrid | Oct 19 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/68f4fe5a9a63986de757851e?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 19 |
 | **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Communications Intern](https://jobright.ai/jobs/info/68f4fbee9a65fd345858d1bb?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 19 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Oct 19 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Enovis](https://enovis.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf0859fb49c96ca6ea5448?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 18 |
 | **[The Borgen Project](http://borgenproject.org)** | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f382489a65fd3458587436?utm_campaign=1065&utm_source=git)** | Morgantown, WV | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f3821b9a65fd345858742e?utm_campaign=1065&utm_source=git)** | Tulsa, OK | On Site | Oct 18 |
-| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f382079a65fd345858742c?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f380dc9a65fd3458587401?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Oct 18 |
 | ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f37e579a65fd3458587393?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Oct 18 |
+| ↳ | **[Social Media/Digital Marketing Internship](https://jobright.ai/jobs/info/68f37d819a65fd345858733b?utm_campaign=1065&utm_source=git)** | Muncie, IN | On Site | Oct 18 |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f377b376a51a4307bce4ba?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Oct 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
