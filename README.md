@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Textron](http://textron.com)** | **[2026 Communications Intern](https://jobright.ai/jobs/info/68f75135b0edcf159dc7a6d5?utm_campaign=1065&utm_source=git)** | Augusta, GA | On Site | Oct 21 |
+| ↳ | **[2026 Internship - Communications Associate](https://jobright.ai/jobs/info/68f74f32aed0577b7e051932?utm_campaign=1065&utm_source=git)** | Wichita, KS | On Site | Oct 21 |
+| **[Rutgers University](http://www.rutgers.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f74b8bec6dbe7073fbbdb8?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Oct 21 |
+| **[Textron](http://textron.com)** | **[2026 Internship - Marketing (Able - Mesa, AZ)](https://jobright.ai/jobs/info/68f746e6b0edcf159dc78a05?utm_campaign=1065&utm_source=git)** | Mesa, AZ | On Site | Oct 21 |
+| **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Franchise Management - Spring 2026](https://jobright.ai/jobs/info/68f750f8ec6dbe7073fbcf37?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Oct 20 |
+| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68f74702aed0577b7e050181?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Oct 20 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Communications Intern](https://jobright.ai/jobs/info/68f711c876a51a4307be0b07?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WTVD (ABC11) Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68f70ece9a63986de7584a55?utm_campaign=1065&utm_source=git)** | Durham, NC, USA | On Site | Oct 20 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship (Content)](https://jobright.ai/jobs/info/68f709609a63986de758495a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Oct 20 |
@@ -73,10 +79,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[F.I.T. Intern Global Merchandising](https://jobright.ai/jobs/info/68f6ded276a51a4307bdef8d?utm_campaign=1065&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Oct 20 |
 | **[SCHERDEL North America](https://www.scherdel.com/?lang=en)** | **[Employer Branding And Marketing Intern](https://jobright.ai/jobs/info/68f6f2b19a65fd34585986e4?utm_campaign=1065&utm_source=git)** | Muskegon, MI | On Site | Oct 20 |
 | **[FutureTech Insights](futuretechinsights.us)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68f6ed4376a51a4307bdf6be?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Oct 20 |
-| **[IDEMIA](https://www.idemia.com/)** | **[Marketing & Communications Internship - Summer 2026](https://jobright.ai/jobs/info/68f6eb589a63986de758375b?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Oct 20 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing internship](https://jobright.ai/jobs/info/68f6eb209a63986de7583736?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Elior Collegiate Dining](https://www.elior-collegiatedining.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f6e48d9a63986de758342d?utm_campaign=1065&utm_source=git)** | Columbia, MO | On Site | Oct 20 |
-| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/68f6e4169a65fd3458598024?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 20 |
 | **[Skanska](http://skanska.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f6e3b29a65fd3458597fe8?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Oct 20 |
 | **[Coastline Collective](https://www.instagram.com/coastlinecollectivehb/)** | **[Event Planning Intern](https://jobright.ai/jobs/info/68f6e20076a51a4307bdf1d0?utm_campaign=1065&utm_source=git)** | Huntington Beach, CA | Hybrid | Oct 20 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[Advertising Internship](https://jobright.ai/jobs/info/68f6e1ba9a63986de7583200?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Oct 20 |
@@ -134,6 +137,7 @@ For a complete list, click the following sortable link below:
 | **[AcceptanceNow](http://acceptancenow.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/68f6a01b9a65fd3458595404?utm_campaign=1065&utm_source=git)** | Plano, TX, 75024, United States | On Site | Oct 20 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/68f69f4c9a63986de7580675?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Oct 20 |
 | **[OneStream Software](https://www.onestream.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/68f69e8276a51a4307bdc5ca?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
+| **[BBYO](https://www.bbyo.org)** | **[Alumni Engagement Intern](https://jobright.ai/jobs/info/68f69e7076a51a4307bdc5b8?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[RoboForce](https://www.roboforce.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f69d0f9a63986de758042e?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Oct 20 |
 | **[Ensign-Bickford Aerospace & Defense Company (EBAD)](https://www.ebad.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f69cd39a65fd34585952ad?utm_campaign=1065&utm_source=git)** | Simsbury, CT | On Site | Oct 20 |
 | **[Levi Strauss & Co.](http://levistrauss.com/)** | **[F.I.T. Intern Ecomm Analytics MBA](https://jobright.ai/jobs/info/68f69c149a65fd3458595174?utm_campaign=1065&utm_source=git)** | HQ-Office, San Francisco, CA, USA | On Site | Oct 20 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Intern - Digital Marketing & Strategy](https://jobright.ai/jobs/info/68f6874976a51a4307bdb15d?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
 | **[Port of Huntsville](https://www.flyhuntsville.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68f687319a63986de757efd3?utm_campaign=1065&utm_source=git)** | Huntsville,AL,US | On Site | Oct 20 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[User Growth Business Analyst Intern](https://jobright.ai/jobs/info/68f6861476a51a4307bdb027?utm_campaign=1065&utm_source=git)** | San Jose, CA/Remote | Remote | Oct 20 |
-| **[Townsquare Media](http://townsquaremedia.com)** | **[Townsquare Media Albany - Internship](https://jobright.ai/jobs/info/68f685ef76a51a4307bdb018?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Oct 20 |
+| **[Townsquare Media](http://townsquaremedia.com)** | **[Townsquare Media Albany - Internship](https://jobright.ai/jobs/info/68f684e59a63986de757ee3e?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Oct 20 |
 | **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Communications Intern](https://jobright.ai/jobs/info/68c4017be471ef3ce16d3583?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/68f67f189a65fd3458593ac3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 20 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68d5f32a2116ff37ee09172d?utm_campaign=1065&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Oct 20 |
-| **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/68f67b679a65fd3458593a39?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
-| **[MLC CAD Systems, LLC](http://www.mlc-cad.com)** | **[Marketing Intern -  Digital Media](https://jobright.ai/jobs/info/68f67a9e9a65fd34585939d9?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
