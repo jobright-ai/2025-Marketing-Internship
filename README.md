@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Communications Intern](https://jobright.ai/jobs/info/68f711c876a51a4307be0b07?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[WTVD (ABC11) Marketing Intern, Spring 2026](https://jobright.ai/jobs/info/68f70ece9a63986de7584a55?utm_campaign=1065&utm_source=git)** | Durham, NC, USA | On Site | Oct 20 |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Internship (Content)](https://jobright.ai/jobs/info/68f709609a63986de758495a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Oct 20 |
 | **[Parallax Advanced Research](https://parallaxresearch.org/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/68f6fffd9a63986de75843b4?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 20 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Integrated Marketing Communications, Keys Soulcare](https://jobright.ai/jobs/info/68f6fb479a65fd3458598d2a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 20 |
 | **[UniFirst Corporation](https://unifirst.com/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/68f6fa929a65fd3458598cb5?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Oct 20 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/68f6b3689a63986de7581846?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 20 |
 | **[Kaili Woop LLC.](https://www.kailiwoop.com)** | **[Outreach & PR Intern](https://jobright.ai/jobs/info/68f6b2cc76a51a4307bdd807?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[BAZZAAL](https://bazzaal.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f6b2649a65fd3458596447?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 20 |
-| ↳ | **[Influencer Marketing Intern (Hybrid/Unpaid)](https://jobright.ai/jobs/info/68f6b2629a65fd3458596446?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Kaili Woop LLC.](https://www.kailiwoop.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68f6b21376a51a4307bdd75c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Nickerson and Associates LLC](https://www.nickersonassociates.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f6b1699a63986de75816b8?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Oct 20 |
 | **[DemaDose](https://www.linkedin.com/company/107191997)** | **[Content Strategist](https://jobright.ai/jobs/info/68f6b0e476a51a4307bdd658?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
@@ -118,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2026 Intern - Distribution Marketing](https://jobright.ai/jobs/info/68f6ae2b9a63986de758145a?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
 | **[ACE Hardware](http://www.acehardware.af)** | **[Marketing Internship – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/68f6ad8f9a63986de75813b1?utm_campaign=1065&utm_source=git)** | IL - Oak Brook | On Site | Oct 20 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Spring 2026 Intern - Latin Marketing (Distribution)](https://jobright.ai/jobs/info/68f6acb69a63986de75812f4?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
-| **[Gurusamy Ventures](https://gurusamys-venture-hub.lovable.app/)** | **[(Fall) Investor Relations Intern](https://jobright.ai/jobs/info/68f6ab009a63986de758115e?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Oct 20 |
+| **[BAZZAAL](https://bazzaal.com)** | **[Influencer Marketing Intern (Hybrid/Unpaid)](https://jobright.ai/jobs/info/68f6b2629a65fd3458596446?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Oct 20 |
 | **[Environmental Defense Fund](http://www.edf.org/)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/68f6a9fc76a51a4307bdd053?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Public Relations](https://jobright.ai/jobs/info/68f6a9129a63986de7580fbd?utm_campaign=1065&utm_source=git)** | Kissimmee, FL | On Site | Oct 20 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Social Media Content Creation Intern 2026](https://jobright.ai/jobs/info/68f6a85a76a51a4307bdce96?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Oct 20 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Intern - Creative Marketing, Strategy & PR](https://jobright.ai/jobs/info/68f6882976a51a4307bdb2f6?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
 | ↳ | **[Spring 2026 Intern - Artist Marketing (Los Angeles)](https://jobright.ai/jobs/info/68f6875c76a51a4307bdb18b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, USA | On Site | Oct 20 |
 | ↳ | **[Spring 2026 Intern - Digital Marketing & Strategy](https://jobright.ai/jobs/info/68f6874976a51a4307bdb15d?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Oct 20 |
+| **[MLC CAD Systems, LLC](http://www.mlc-cad.com)** | **[Marketing Student Internship - Digital Media Intern](https://jobright.ai/jobs/info/68f687369a65fd345859409c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 20 |
 | **[Port of Huntsville](https://www.flyhuntsville.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68f687319a63986de757efd3?utm_campaign=1065&utm_source=git)** | Huntsville,AL,US | On Site | Oct 20 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[User Growth Business Analyst Intern](https://jobright.ai/jobs/info/68f6861476a51a4307bdb027?utm_campaign=1065&utm_source=git)** | San Jose, CA/Remote | Remote | Oct 20 |
-| **[Townsquare Media](http://townsquaremedia.com)** | **[Townsquare Media Albany - Internship](https://jobright.ai/jobs/info/68f685ef76a51a4307bdb018?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Oct 20 |
+| **[Townsquare Media](http://townsquaremedia.com)** | **[Townsquare Media Albany - Internship](https://jobright.ai/jobs/info/68f684e59a63986de757ee3e?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Oct 20 |
 | **[Planned Parenthood Keystone](http://www.plannedparenthood.org/keystone/)** | **[Communications Intern](https://jobright.ai/jobs/info/68c4017be471ef3ce16d3583?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
-| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/68f67f189a65fd3458593ac3?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 20 |
-| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/68d5f32a2116ff37ee09172d?utm_campaign=1065&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Oct 20 |
-| **[WG Business Enterprises, LLC](https://www.linkedin.com/company/86755920)** | **[Content Writer - Intern](https://jobright.ai/jobs/info/68f67b679a65fd3458593a39?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
