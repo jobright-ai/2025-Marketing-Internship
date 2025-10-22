@@ -57,13 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Dealism](https://www.linkedin.com/company/107801050)** | **[GTM Intern (Growth Marketing Intern)](https://jobright.ai/jobs/info/68f862266de2db04dc3de8cf?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
+| **[Dealism](https://www.linkedin.com/company/107801050)** | **[GTM Intern (Growth Marketing Intern)](https://jobright.ai/jobs/info/68f8877c4bafad6d2d763a9e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
+| **[Initium Health](https://initiumhealth.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f87b9ba628d10664e83406?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Oct 21 |
+| **[Genzest LLC](https://nailphoria.com/)** | **[Content & Email Marketing Intern](https://jobright.ai/jobs/info/68f87b47a628d10664e833dd?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Oct 21 |
+| **[SHOPLINE](http://www.shoplineapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f879586de2db04dc3df82d?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Remote | Oct 21 |
+| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/68f876374bafad6d2d762f86?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 21 |
 | **[RSVP Social](rsvpsocial.io)** | **[Marketing Rep - INTERN or PART TIME](https://jobright.ai/jobs/info/68f8621c6de2db04dc3de8c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f86064a628d10664e82534?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Oct 21 |
 | **[Seagate Technology](http://www.seagate.com)** | **[Sustainability Marketing Specialist Intern Summer 2026](https://jobright.ai/jobs/info/68f85fc7a628d10664e824f9?utm_campaign=1065&utm_source=git)** | Shakopee, MN | Remote | Oct 21 |
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Digital Communications](https://jobright.ai/jobs/info/68f85f776de2db04dc3de70a?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | On Site | Oct 21 |
 | **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f8592a6de2db04dc3de462?utm_campaign=1065&utm_source=git)** | North Highlands, CA | On Site | Oct 21 |
 | **[CLIENT LINK LLC](https://www.linkedin.com/company/107413226)** | **[Outreach/Marketing Intern (Unpaid, Remote Opportunity)](https://jobright.ai/jobs/info/68f84fb54bafad6d2d7616b8?utm_campaign=1065&utm_source=git)** | Wilton, NY | Remote | Oct 21 |
+| **[Royal Electric Company](https://www.royalelect.com/)** | **[Marketing Intern - Fall 2025](https://jobright.ai/jobs/info/68f871154bafad6d2d762bb9?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Oct 21 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern/ Marketing/ Summer 2026](https://jobright.ai/jobs/info/68f8492ea628d10664e814dd?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | Oct 21 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[On-Site Search Intern - Spring 2026](https://jobright.ai/jobs/info/68f848274bafad6d2d7611fe?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Oct 21 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Global E-Commerce Marketing Intern](https://jobright.ai/jobs/info/68f8440fa628d10664e811a0?utm_campaign=1065&utm_source=git)** | US-IL-Niles | Hybrid | Oct 21 |
@@ -133,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Communications Intern](https://jobright.ai/jobs/info/68f7dcf5ec6dbe7073fcd2e5?utm_campaign=1065&utm_source=git)** | Germantown, WI, United States | On Site | Oct 21 |
 | **[Ohio Expo Center & State Fairgrounds](https://www.ohioexpocenter.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/68f7dc1eec6dbe7073fcd128?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Oct 21 |
 | **[WM](https://www.wm.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68f7dbd4ec6dbe7073fcd083?utm_campaign=1065&utm_source=git)** | Germantown, WI | On Site | Oct 21 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Marketing Intern (2026)](https://jobright.ai/jobs/info/68f7c2b3ec6dbe7073fcb122?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Oct 21 |
 | **[NEON](https://neonrated.com)** | **[NEON Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68f7d64f5dc1be601281c8b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 21 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/68f7d578ec6dbe7073fcc9c2?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Oct 21 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026 - Marketing and Research Operations Intern](https://jobright.ai/jobs/info/68f7d441ec6dbe7073fcc775?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Groupe Clarins](http://www.groupeclarins.com)** | **[Intern, Marketing - Skincare](https://jobright.ai/jobs/info/68f7bdce5dc1be601281a5c2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 21 |
 | **[Primient](https://primient.com)** | **[Grain Merchandising Intern - Summer 2026](https://jobright.ai/jobs/info/68f7e4fab0edcf159dc8b4c1?utm_campaign=1065&utm_source=git)** | Watseka, IL | On Site | Oct 21 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Marketing Intern (2026)](https://jobright.ai/jobs/info/68f7bc8bb0edcf159dc87c2d?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Oct 21 |
-| **[Totus Tuus Consulting, LLC](https://ttcadvisors.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f7bbf9b0edcf159dc87b29?utm_campaign=1065&utm_source=git)** | St Augustine, FL | On Site | Oct 21 |
-| **[Certes Partners](https://certespartners.com)** | **[Leasing & Marketing Intern](https://jobright.ai/jobs/info/68f7bb9fec6dbe7073fca524?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 21 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Esports Digital Content (Part-Time/Seasonal)](https://jobright.ai/jobs/info/68f7bb755dc1be601281a3c4?utm_campaign=1065&utm_source=git)** | Washington, DC 20004 | Hybrid | Oct 21 |
-| **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Marketing](https://jobright.ai/jobs/info/68beaf8ee57feb02eb0af872?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Oct 21 |
-| **[ICM Properties, Inc.](https://icmproperties.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68f7b7115dc1be6012819cdc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
-| **[Opportunity Education](https://opportunityeducation.org/)** | **[Student Recruitment & Marketing Intern (Spring 2026) / Quest Forward Santa Rosa](https://jobright.ai/jobs/info/68f7b6df5dc1be6012819c3a?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
