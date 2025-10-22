@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dealism](https://www.linkedin.com/company/107801050)** | **[GTM Intern (Growth Marketing Intern)](https://jobright.ai/jobs/info/68f862266de2db04dc3de8cf?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
+| **[RSVP Social](rsvpsocial.io)** | **[Marketing Rep - INTERN or PART TIME](https://jobright.ai/jobs/info/68f8621c6de2db04dc3de8c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 21 |
+| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f86064a628d10664e82534?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Oct 21 |
+| **[Seagate Technology](http://www.seagate.com)** | **[Sustainability Marketing Specialist Intern Summer 2026](https://jobright.ai/jobs/info/68f85fc7a628d10664e824f9?utm_campaign=1065&utm_source=git)** | Shakopee, MN | Remote | Oct 21 |
+| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Digital Communications](https://jobright.ai/jobs/info/68f85f776de2db04dc3de70a?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX | On Site | Oct 21 |
+| **[Pacific Coast Supply, LLC](https://paccoastsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f8592a6de2db04dc3de462?utm_campaign=1065&utm_source=git)** | North Highlands, CA | On Site | Oct 21 |
 | **[CLIENT LINK LLC](https://www.linkedin.com/company/107413226)** | **[Outreach/Marketing Intern (Unpaid, Remote Opportunity)](https://jobright.ai/jobs/info/68f84fb54bafad6d2d7616b8?utm_campaign=1065&utm_source=git)** | Wilton, NY | Remote | Oct 21 |
 | **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Care Intern/ Marketing/ Summer 2026](https://jobright.ai/jobs/info/68f8492ea628d10664e814dd?utm_campaign=1065&utm_source=git)** | US-GA-Atlanta | On Site | Oct 21 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[On-Site Search Intern - Spring 2026](https://jobright.ai/jobs/info/68f848274bafad6d2d7611fe?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Oct 21 |
@@ -92,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Market Leader Technologies](https://marketleadertechnologies.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/68f804ecec6dbe7073fd0541?utm_campaign=1065&utm_source=git)** | Morgantown, WV | Remote | Oct 21 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Content Management Intern](https://jobright.ai/jobs/info/68f800beb0edcf159dc8d99c?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Oct 21 |
 | **[Portage Learning](https://portagelearning.edu)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f80056b0edcf159dc8d90f?utm_campaign=1065&utm_source=git)** | Beaver Falls, PA | On Site | Oct 21 |
-| **[Vishay Siliconix Itzehoe GmbH](www.vishay.com/itzehoe)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/68f80004ec6dbe7073fd00e3?utm_campaign=1065&utm_source=git)** | Yankton, SD | On Site | Oct 21 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68efaf819821486c423c6c28?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Oct 21 |
 | **[FIRST](https://firstagency.com/)** | **[Internal Communications Intern - Spring 2026](https://jobright.ai/jobs/info/68f7ffc1ec6dbe7073fd005c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 21 |
 | **[HUB International](https://www.hubinternational.com)** | **[HUB International/Specialty Program Group Summer Internship 2026](https://jobright.ai/jobs/info/68f7ff95b0edcf159dc8d7dd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
@@ -128,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[WM India](https://www.wm.com/us/en/inside-wm/who-we-are/wm-india)** | **[Communications Intern](https://jobright.ai/jobs/info/68f7dcf5ec6dbe7073fcd2e5?utm_campaign=1065&utm_source=git)** | Germantown, WI, United States | On Site | Oct 21 |
 | **[Ohio Expo Center & State Fairgrounds](https://www.ohioexpocenter.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/68f7dc1eec6dbe7073fcd128?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Oct 21 |
 | **[WM](https://www.wm.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/68f7dbd4ec6dbe7073fcd083?utm_campaign=1065&utm_source=git)** | Germantown, WI | On Site | Oct 21 |
-| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Marketing Intern (2026)](https://jobright.ai/jobs/info/68f7c2b3ec6dbe7073fcb122?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Oct 21 |
 | **[NEON](https://neonrated.com)** | **[NEON Publicity Intern, Spring 2026](https://jobright.ai/jobs/info/68f7d64f5dc1be601281c8b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 21 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/68f7d578ec6dbe7073fcc9c2?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Oct 21 |
 | **[Capstone](https://capstonedc.com)** | **[Spring 2026 - Marketing and Research Operations Intern](https://jobright.ai/jobs/info/68f7d441ec6dbe7073fcc775?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 21 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AutoZone](http://www.autozone.com/)** | **[AutoZone 2026 Summer Internship – Marketing](https://jobright.ai/jobs/info/68beaf8ee57feb02eb0af872?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Oct 21 |
 | **[ICM Properties, Inc.](https://icmproperties.com)** | **[Real Estate Intern](https://jobright.ai/jobs/info/68f7b7115dc1be6012819cdc?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 21 |
 | **[Opportunity Education](https://opportunityeducation.org/)** | **[Student Recruitment & Marketing Intern (Spring 2026) / Quest Forward Santa Rosa](https://jobright.ai/jobs/info/68f7b6df5dc1be6012819c3a?utm_campaign=1065&utm_source=git)** | Santa Rosa, CA | On Site | Oct 21 |
-| **[State of Delaware](https://www.delawarestatejobs.com/)** | **[Marketing Communications Intern-DNREC](https://jobright.ai/jobs/info/68f7b6cfec6dbe7073fca11b?utm_campaign=1065&utm_source=git)** | Delaware, United States | Hybrid | Oct 21 |
-| **[Moët Hennessy](http://www.lvmh.com/houses/wines-spirits/)** | **[MHUSA 2026 Summer Internship Program - Trade Marketing](https://jobright.ai/jobs/info/68bf6dd9702aa35207aa642c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 21 |
-| **[HotTakes](https://hottakes.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/681e293bebce9c9da0880c5e?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | Oct 21 |
-| **[Delaware Department of Natural Resources and Environmental Control](https://dnrec.alpha.delaware.gov)** | **[Marketing Communications Intern-DNREC](https://jobright.ai/jobs/info/68f7b30fec6dbe7073fc99c5?utm_campaign=1065&utm_source=git)** | Dover, DE | Hybrid | Oct 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
