@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ec6cc3c26b9574506f1c3d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 23 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Communications Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c042695c5d5f14f46dc130?utm_campaign=1065&utm_source=git)** | Dickinson County, MI | On Site | Oct 23 |
+| ↳ | **[Marketing Performance Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c041465c5d5f14f46dc097?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 23 |
+| ↳ | **[Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cd2262e23def7af55b5ed1?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 23 |
+| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Market Analyst](https://jobright.ai/jobs/info/68f9f16b089c7e2b4457f4e4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 23 |
+| **[Moody's Corporation](http://www.moodys.com)** | **[Solutions Marketing Intern](https://jobright.ai/jobs/info/68f9e82a089c7e2b4457ef63?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 23 |
+| **[ClearHome Self Storage](https://www.clearhomestorage.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f9e6158a7359609b8c785c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 23 |
+| **[Chicago White Sox](https://www.mlb.com/whitesox)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f9e49a089c7e2b4457ed3f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ef21aca1a1d02df61e99c6?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 23 |
 | **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern](https://jobright.ai/jobs/info/68f9c6cb6de2db04dc3ebff1?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/68f9b81f7b89366816033cea?utm_campaign=1065&utm_source=git)** | Mundelein, IL | Remote | Oct 22 |
 | **[GlobeKin, Inc.](https://www.globekin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f9b213cadb2e5a06a66f42?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
 | **[Avkin](https://avkin.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68f923f6a628d10664e89a09?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Oct 22 |
 | **[Flaire](https://flaire.me)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f99832cadb2e5a06a66163?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Oct 22 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Event Management Intern](https://jobright.ai/jobs/info/68f91e1ba628d10664e89805?utm_campaign=1065&utm_source=git)** | Bossier City, LA | On Site | Oct 22 |
-| **[Kid Power, Inc.](http://www.kidpowerdc.org)** | **[Development Communications Intern](https://jobright.ai/jobs/info/68f91ddba628d10664e897af?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
-| **[Formlabs](http://www.formlabs.com)** | **[Marketing Analytics MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/68f91ac46de2db04dc3e590b?utm_campaign=1065&utm_source=git)** | Somerville, MA | On Site | Oct 22 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Oct 22 |
-| **[ITW Global Tire Repair](https://www.itwgtr.com/)** | **[Social Media Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f918e9a628d10664e892fd?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 22 |
-| **[Koppers Inc.](http://www.koppers.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68f917fdcadb2e5a06a611a1?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
