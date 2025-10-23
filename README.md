@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/68a453452d2a252445cd68c1?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 23 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Sales Analytics Intern](https://jobright.ai/jobs/info/68dd585d44d32141e0bf5db9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/688e2c3be5cead4afd45bf24?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Oct 23 |
+| **[Bob Evans Farms, Inc.](https://www.bobevansgrocery.com/)** | **[MBA Marketing Intern  Summer 2026](https://jobright.ai/jobs/info/68ccc1d4d99309000e5a29b0?utm_campaign=1065&utm_source=git)** | New Albany, OH | On Site | Oct 23 |
+| **[Democracy Docket](https://www.democracydocket.com)** | **[Social Team Spring 2026 Internship](https://jobright.ai/jobs/info/68c08cb28e65e77df55c2734?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Strategy Intern (TikTok Shop Resource Management) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68c7c32ef42a830e1c7e76b0?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68fa0a307ab77a56387e921b?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Oct 23 |
+| **[STP Nuclear Operating Company](https://www.stpnoc.com/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/68c0d5b08e65e77df55c4f13?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Oct 23 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/68cc19ce16d00d2beeb19d0b?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Oct 23 |
+| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern -Water](https://jobright.ai/jobs/info/68c090875c5d5f14f46df387?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Oct 23 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Communications Intern - BOSS Snowplow](https://jobright.ai/jobs/info/68c042695c5d5f14f46dc130?utm_campaign=1065&utm_source=git)** | Dickinson County, MI | On Site | Oct 23 |
 | ↳ | **[Marketing Performance Analytics Intern - The Toro Company](https://jobright.ai/jobs/info/68c041465c5d5f14f46dc097?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 23 |
 | ↳ | **[Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cd2262e23def7af55b5ed1?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 23 |
@@ -64,7 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Moody's Corporation](http://www.moodys.com)** | **[Solutions Marketing Intern](https://jobright.ai/jobs/info/68f9e82a089c7e2b4457ef63?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 23 |
 | **[ClearHome Self Storage](https://www.clearhomestorage.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f9e6158a7359609b8c785c?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 23 |
 | **[Chicago White Sox](https://www.mlb.com/whitesox)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f9e49a089c7e2b4457ed3f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 23 |
+| **[Phoenix Contact USA](https://www.phoenixcontact.com/en-us/)** | **[Marketing Intern (EtherWAN)](https://jobright.ai/jobs/info/68c1acf33fd8b059a20f1720?utm_campaign=1065&utm_source=git)** | Irvine, California | On Site | Oct 23 |
 | **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ef21aca1a1d02df61e99c6?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 23 |
+| ↳ | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ec6cc3c26b9574506f1c3d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 23 |
 | **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern](https://jobright.ai/jobs/info/68f9c6cb6de2db04dc3ebff1?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/68f9b81f7b89366816033cea?utm_campaign=1065&utm_source=git)** | Mundelein, IL | Remote | Oct 22 |
 | **[GlobeKin, Inc.](https://www.globekin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f9b213cadb2e5a06a66f42?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
@@ -77,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Ryflo](https://www.linkedin.com/company/107666899)** | **[Content Creation Intern](https://jobright.ai/jobs/info/68f9a1e8cadb2e5a06a6674d?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68f99e156de2db04dc3eaa22?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f99bb76de2db04dc3ea8a0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
-| **[CorMetrix](http://http://cormetrix.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f99aa06de2db04dc3ea79b?utm_campaign=1065&utm_source=git)** | Portland, Oregon Metropolitan Area | On Site | Oct 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Reputation Management Intern](https://jobright.ai/jobs/info/68f99352cadb2e5a06a65e6d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 22 |
 | **[Sunoco LP](https://www.sunocolp.com)** | **[Intern - BD & Marketing](https://jobright.ai/jobs/info/68f9924d6de2db04dc3ea2b8?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Oct 22 |
 | **[TeleWorld Solutions](http://teleworldsolutions.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f9918ccadb2e5a06a65d63?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GM Financial](https://www.gmfinancial.com/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/68f931eecadb2e5a06a62354?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Oct 22 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/68f92e326de2db04dc3e65f4?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA | On Site | Oct 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Social Media](https://jobright.ai/jobs/info/68f92d976de2db04dc3e64e9?utm_campaign=1065&utm_source=git)** | Frankfort, KY, US | On Site | Oct 22 |
-| **[Sachs Media](https://sachsmedia.com/)** | **[Junior Account Coordinator (JAC) Intern Spring 2026](https://jobright.ai/jobs/info/68f92cddcadb2e5a06a61fe5?utm_campaign=1065&utm_source=git)** | Tallahassee, Florida, United States | Hybrid | Oct 22 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing Intern - FMU](https://jobright.ai/jobs/info/68f92cbe6de2db04dc3e638c?utm_campaign=1065&utm_source=git)** | Florence, SC, USA | On Site | Oct 22 |
-| ↳ | **[The Post and Courier Advertising Intern - FMU](https://jobright.ai/jobs/info/68f92c986de2db04dc3e6341?utm_campaign=1065&utm_source=git)** | Florence, SC, USA | On Site | Oct 22 |
-| ↳ | **[The Post and Courier Advertising Intern - TCL](https://jobright.ai/jobs/info/68f92c61a628d10664e89e83?utm_campaign=1065&utm_source=git)** | Bluffton, South Carolina, United States | On Site | Oct 22 |
-| **[The Strategy Group Company](http://sgformedia.com/)** | **[Social Media Strategy & Administrative Intern](https://jobright.ai/jobs/info/68f92c366de2db04dc3e6299?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Oct 22 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Advertising Intern - USCB](https://jobright.ai/jobs/info/68f92c02cadb2e5a06a61ea6?utm_campaign=1065&utm_source=git)** | Bluffton, SC, USA | On Site | Oct 22 |
-| **[Death Penalty Information Center](http://www.deathpenaltyinfo.org)** | **[Spring 2026 Social Media and Communications Intern](https://jobright.ai/jobs/info/68f92bed6de2db04dc3e621e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 22 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - USCB](https://jobright.ai/jobs/info/68f92aa2cadb2e5a06a61c8e?utm_campaign=1065&utm_source=git)** | Bluffton, South Carolina, United States | Hybrid | Oct 22 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Oct 22 |
-| **[Avkin](https://avkin.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68f923f6a628d10664e89a09?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Oct 22 |
-| **[Flaire](https://flaire.me)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f99832cadb2e5a06a66163?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
