@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ec6cc3c26b9574506f1c3d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Oct 23 |
+| **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern](https://jobright.ai/jobs/info/68f9c6cb6de2db04dc3ebff1?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[MacLean-Fogg Company](https://macleanfogg.com)** | **[Marketing & Employee Communications Intern](https://jobright.ai/jobs/info/68f9b81f7b89366816033cea?utm_campaign=1065&utm_source=git)** | Mundelein, IL | Remote | Oct 22 |
 | **[GlobeKin, Inc.](https://www.globekin.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68f9b213cadb2e5a06a66f42?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 22 |
 | **[Save the Children US](http://savethechildren.org)** | **[Marketing & Growth Intern (M&G)](https://jobright.ai/jobs/info/68f2bd9176a51a4307bc7bdd?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Oct 22 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/68f92e326de2db04dc3e65f4?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA | On Site | Oct 22 |
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Social Media](https://jobright.ai/jobs/info/68f92d976de2db04dc3e64e9?utm_campaign=1065&utm_source=git)** | Frankfort, KY, US | On Site | Oct 22 |
 | **[Sachs Media](https://sachsmedia.com/)** | **[Junior Account Coordinator (JAC) Intern Spring 2026](https://jobright.ai/jobs/info/68f92cddcadb2e5a06a61fe5?utm_campaign=1065&utm_source=git)** | Tallahassee, Florida, United States | Hybrid | Oct 22 |
-| **[Aria](https://ariareply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f92cd0a628d10664e89f33?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing Intern - FMU](https://jobright.ai/jobs/info/68f92cbe6de2db04dc3e638c?utm_campaign=1065&utm_source=git)** | Florence, SC, USA | On Site | Oct 22 |
 | ↳ | **[The Post and Courier Advertising Intern - FMU](https://jobright.ai/jobs/info/68f92c986de2db04dc3e6341?utm_campaign=1065&utm_source=git)** | Florence, SC, USA | On Site | Oct 22 |
 | ↳ | **[The Post and Courier Advertising Intern - TCL](https://jobright.ai/jobs/info/68f92c61a628d10664e89e83?utm_campaign=1065&utm_source=git)** | Bluffton, South Carolina, United States | On Site | Oct 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Oct 22 |
 | **[ITW Global Tire Repair](https://www.itwgtr.com/)** | **[Social Media Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/68f918e9a628d10664e892fd?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Oct 22 |
 | **[Koppers Inc.](http://www.koppers.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/68f917fdcadb2e5a06a611a1?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Oct 22 |
-| **[Woyage AI](https://www.woyage.ai)** | **[Fractional Digital Marketing /Growth Intern](https://jobright.ai/jobs/info/68f9177f6de2db04dc3e5548?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
