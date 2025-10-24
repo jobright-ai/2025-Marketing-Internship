@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Talent Nest Solutions](https://www.linkedin.com/company/100992279)** | **[Group Marketing Summer Intern](https://jobright.ai/jobs/info/68fb13093c99cc1d960289ae?utm_campaign=1065&utm_source=git)** | Nyack, NY | Remote | Oct 23 |
+| **[Arc](https://arcboats.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fb036ce154835f11ef928a?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Oct 23 |
+| **[Pa'Lante Leaders](https://linktr.ee/palanteleaders)** | **[In-Person Social Media & Content Intern (Unpaid)](https://jobright.ai/jobs/info/68faffbf9e8e925ac6c883b8?utm_campaign=1065&utm_source=git)** | Englewood, NJ | Hybrid | Oct 23 |
+| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Public Relations Specialist](https://jobright.ai/jobs/info/68faf9039e8e925ac6c88025?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Oct 23 |
+| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/68faf8bd9e8e925ac6c87ff6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
+| **[Scholar Advising](https://www.scholarfinancialadvising.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f2c0929a63986de756be7a?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Oct 23 |
+| **[Ulike Global](https://www.linkedin.com/company/89752912)** | **[Marketing and Sales Intern (Chinese-Speaking)](https://jobright.ai/jobs/info/68faf7c19e8e925ac6c87f6a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 23 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Florida Atlantic University](https://jobright.ai/jobs/info/68faf4a58d32c164778ccf83?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Oct 23 |
 | **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/68faf3a19e8e925ac6c87d6c?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Oct 23 |
 | **[Lincoln Electric](http://www.lincolnelectric.com)** | **[Marketing Summer 2026 Internship (Euclid, OH)](https://jobright.ai/jobs/info/68ac7ff2daf1431824c95802?utm_campaign=1065&utm_source=git)** | Euclid, OH | On Site | Oct 23 |
@@ -123,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Dantech Corporation Inc.](http://www.dantechcorp.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68fa8ae7b2c86843bf20f0a2?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Oct 23 |
 | **[StructureCare®](https://www.structurecareus.com)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68fa8ac5b2c86843bf20f07b?utm_campaign=1065&utm_source=git)** | Denver, PA | On Site | Oct 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/68fa88adedd190144238dddb?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Oct 23 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/68fa86a0b2c86843bf20ebc0?utm_campaign=1065&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 23 |
 | **[Yedi Technologies](http://www.yedi.app)** | **[Consumer GTM Intern](https://jobright.ai/jobs/info/68fa85fe67272b29af7305bc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 23 |
-| **[Brown & Brown](http://www.bbrown.com)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/68fa85fb67272b29af7305b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, USA | On Site | Oct 23 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Ashro Lifestyle Brand Marketing Internship](https://jobright.ai/jobs/info/68fa8553b2c86843bf20ea28?utm_campaign=1065&utm_source=git)** | Monroe, WI | On Site | Oct 23 |
 | **[Quik Content](www.quikcontent.com)** | **[Marketing & Outreach Intern (Phoenix, AZ)](https://jobright.ai/jobs/info/68fa853c67272b29af73048e?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | On Site | Oct 23 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026 Communications Intern - UNPAID](https://jobright.ai/jobs/info/68fa84eb67272b29af73040e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Regal Rexnord](https://www.regalrexnord.com)** | **[Digital Marketing Summer Internship](https://jobright.ai/jobs/info/68fa66a467272b29af72eb79?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Oct 23 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68fa65107959161d33e62da5?utm_campaign=1065&utm_source=git)** | Arlington, TX | On Site | Oct 23 |
 | **[Miami Friendors](www.miamifriendors.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/68fa6491edd190144238be74?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Oct 23 |
-| **[MOIRAI 3](https://moirai3.com/)** | **[Social Media Intern (UNPAID) - Remote](https://jobright.ai/jobs/info/68fa617bedd190144238bb5e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Oct 23 |
-| **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Spring PR Internship](https://jobright.ai/jobs/info/68fa5f287959161d33e627f1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 23 |
-| **[Grifols](http://www.grifols.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/68fa6092edd190144238ba77?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Oct 23 |
-| **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Marketing & Communications) (668)](https://jobright.ai/jobs/info/68fa5ef87959161d33e627aa?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Oct 23 |
-| **[Mastercard](http://www.mastercard.com)** | **[Communications Intern, Summer 2026 – Purchase, NY](https://jobright.ai/jobs/info/68fa5eeb67272b29af72e54b?utm_campaign=1065&utm_source=git)** | Purchase, New York | On Site | Oct 23 |
-| **[Electro Gum](https://www.linkedin.com/company/107151260)** | **[Social Media and NIL outreach intern](https://jobright.ai/jobs/info/68fa5a6a7959161d33e624ac?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 23 |
-| **[Continental Properties](http://www.cproperties.com/)** | **[Paid Market Research Summer Intern](https://jobright.ai/jobs/info/68f2b5cb76a51a4307bc73a2?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
