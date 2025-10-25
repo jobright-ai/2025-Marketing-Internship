@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KCC Capital Partners](kcccapitalpartners.com)** | **[Intern](https://jobright.ai/jobs/info/68fd1674e04ac838fb5ae20b?utm_campaign=1065&utm_source=git)** | Newport Beach, CA | Remote | Oct 25 |
+| **[Aura Creative](zumacreative.co)** | **[Sales And Marketing Assistant/Intern](https://jobright.ai/jobs/info/68fd39fce0c73b3a11191933?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 25 |
+| **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Marketing & Live Camera Intern 2026](https://jobright.ai/jobs/info/68fd37f60ab3b222462a14de?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Oct 25 |
+| **[Versaterm](https://www.versaterm.com/)** | **[Content Marketing Intern - Winter 2026 Term](https://jobright.ai/jobs/info/68fd32e00ab3b222462a13f1?utm_campaign=1065&utm_source=git)** | Lexington, South Carolina, United States | On Site | Oct 25 |
+| **[Mint Project -- MintProject.org](https://www.mintproject.org)** | **[Marketing And Communication Intern](https://jobright.ai/jobs/info/68fd2d11e0c73b3a111916b9?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Hybrid | Oct 25 |
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/68fd15e3e04ac838fb5ae1e2?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Algo Seeker](https://algoseeker.com/)** | **[Digital Marketing & Sales Intern](https://jobright.ai/jobs/info/68fd15d5e0c73b3a11191220?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Nashville Digital Group, Inc.](www.nashvilledigitalgroup.com)** | **[Search Engine Optimization Executive](https://jobright.ai/jobs/info/68fd1524e0c73b3a111911e5?utm_campaign=1065&utm_source=git)** | Nashville, TN | Remote | Oct 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NEON Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/68fc2fff93c49825ab10aa41?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Social Media Intern](https://jobright.ai/jobs/info/68fc2f4e4129dd33cd139833?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 24 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc27a74129dd33cd13949d?utm_campaign=1065&utm_source=git)** | South Campus6201 NW H.K. Dodgen Loop | On Site | Oct 24 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Product Marketing Intern - Arthroplasty & Shoulder Fracture](https://jobright.ai/jobs/info/68fc22ef93c49825ab10a24e?utm_campaign=1065&utm_source=git)** | Naples, FL | On Site | Oct 24 |
-| **[Rematch U.S.](www.rematch.tv)** | **[Social Media & Content Internship](https://jobright.ai/jobs/info/68fc229b4129dd33cd139135?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Hybrid | Oct 24 |
-| **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement communications Intern](https://jobright.ai/jobs/info/68fc214993c49825ab10a01e?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
