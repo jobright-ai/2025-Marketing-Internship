@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Event Assistant Intern - Spring 2026](https://jobright.ai/jobs/info/68fd0e260ab3b222462a0d45?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
+| **[Twinning Labs](https://twinninglabs.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd07ebe04ac838fb5ae085?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 25 |
+| **[RehabifyMe](https://www.linkedin.com/company/99084781)** | **[Content Writer](https://jobright.ai/jobs/info/68fcff9c0ab3b222462a0bd4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Tech World Networking](techworldnetworking.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fcfb820ab3b222462a0b57?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Oct 25 |
+| **[Biome](Joinbiome.com)** | **[Product Growth & Brand Ambassador Intern (Spring 2026 / Student-Athletes Welcome)](https://jobright.ai/jobs/info/68fcfa530ab3b222462a0b00?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Influencer Marketing Internship / Spring 2026](https://jobright.ai/jobs/info/68fcf5060ab3b222462a09d5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | **[Envision Executives](https://www.envisionexecutives.com/)** | **[Full Time Marketing Intern](https://jobright.ai/jobs/info/68fceee40ab3b222462a07ed?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Oct 25 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26011 Plastics Corporate Engagement & Events Intern - Spring 2026](https://jobright.ai/jobs/info/68f716a69a63986de7584d49?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 25 |
 | **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68fce935e04ac838fb5adaac?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
@@ -136,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[Encompass Health](http://encompasshealth.com/)** | **[Communications Analyst- Intern](https://jobright.ai/jobs/info/68fc4e8d93c49825ab10bc10?utm_campaign=1065&utm_source=git)** | Land O' Lakes, FL | On Site | Oct 24 |
 | **[Oxfam America](http://www.oxfamamerica.org/)** | **[Public Engagement communications Intern](https://jobright.ai/jobs/info/68fc46f94129dd33cd13a79d?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Oct 24 |
 | **[CAA ICON](http://iconvenue.com)** | **[CAA ICON - Summer 2026 Marketing Intern (Denver)](https://jobright.ai/jobs/info/68fc440b93c49825ab10b520?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 24 |
-| **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/68fc4224f55bb021a88a206f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 24 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Client Marketing Summer Intern](https://jobright.ai/jobs/info/68fc40f24129dd33cd13a339?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 24 |
 | **[JonnyPops](https://www.jonnypops.com/)** | **[NE Field Marketing Internship (Summer - MA/RI location only)](https://jobright.ai/jobs/info/68fc40c44129dd33cd13a315?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Oct 24 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/68fc3b51f55bb021a88a1c8a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WeCheck AI](https://www.WeCheck.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68fc12424129dd33cd1386c6?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 24 |
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68fc11d493c49825ab10970f?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Oct 24 |
 | **[GCM Grosvenor](https://www.gcmgrosvenor.com/)** | **[2026 Client Marketing Summer Intern](https://jobright.ai/jobs/info/68fc0b2293c49825ab10921f?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, United States | On Site | Oct 24 |
-| **[CU Online](https://online.cu.edu/)** | **[Temporary Social Media Intern](https://jobright.ai/jobs/info/68fc45444129dd33cd13a612?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 24 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Influencer Intern](https://jobright.ai/jobs/info/68fc07fb93c49825ab108dd4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 24 |
-| **[Save the Children US](http://savethechildren.org)** | **[Marketing & Growth Intern (M&G)](https://jobright.ai/jobs/info/68f2c0de9a63986de756beca?utm_campaign=1065&utm_source=git)** | Fairfield, CT | Hybrid | Oct 24 |
-| **[Highland Film Group](https://highlandfilmgroup.com)** | **[Domestic & International – Marketing & Distribution Internship](https://jobright.ai/jobs/info/68fc034193c49825ab108b25?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 24 |
-| **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - External Relations Intern - Mercatus Center](https://jobright.ai/jobs/info/68fbfe6a4129dd33cd1377ba?utm_campaign=1065&utm_source=git)** | Virginia, United States | On Site | Oct 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
