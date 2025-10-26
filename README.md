@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68fd636e0ab3b222462a1c46?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 25 |
+| **[GoldBug](http://goldbuginc.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68fd7f3e0ab3b222462a24b2?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 25 |
+| **[Utah Lunch Debt Relief Foundation](utldr.org)** | **[Paid Intern](https://jobright.ai/jobs/info/68fd7300e0c73b3a111921f0?utm_campaign=1065&utm_source=git)** | SLC Metro Area | Hybrid | Oct 25 |
+| **[Versaterm](https://www.versaterm.com/)** | **[Content Marketing Intern - Winter 2026 Term](https://jobright.ai/jobs/info/68fd71aa0ab3b222462a1dcf?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Oct 25 |
+| **[Muni Insurance ](https://www.muniinsurance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd7197e04ac838fb5af0e3?utm_campaign=1065&utm_source=git)** | Naugatuck, CT | On Site | Oct 25 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68fd67010ab3b222462a1cbc?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68fd66e00ab3b222462a1cac?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 25 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/68fd66680ab3b222462a1c80?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Hybrid | Oct 25 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68fd65d7e0c73b3a111920ad?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 25 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68fd65bae0c73b3a111920a1?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Oct 25 |
+| ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/68fd636e0ab3b222462a1c46?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Oct 25 |
 | **[PamPerryPR.com](https://www.pamperrypr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/68fd629ce0c73b3a1119204b?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Experience Intern](https://jobright.ai/jobs/info/68fd61a3e04ac838fb5aef6e?utm_campaign=1065&utm_source=git)** | Lafayette, LA | On Site | Oct 25 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68fd617ae04ac838fb5aef67?utm_campaign=1065&utm_source=git)** | Temple Terrace, FL | Hybrid | Oct 25 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b7bc31e5763f188e2fdd?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a199e3a822f5d248c9f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68c7b51e27f0732240603758?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 25 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68d00191dbd9fb154edecabf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68cd55a11ad6b16f028982c4?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Oct 25 |
-| **[Marmon Utility](http://marmonutility.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e033811852e62f007e86f6?utm_campaign=1065&utm_source=git)** | Milford, NH | On Site | Oct 25 |
-| **[Swagelok](http://www.swagelok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bb3ff78043103d4f227053?utm_campaign=1065&utm_source=git)** | Solon, OH | On Site | Oct 25 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e01d041852e62f007e77d2?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 25 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68ccd89577add66568aba4d7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Oct 25 |
-| **[Institute for Justice](http://ij.org/)** | **[Winter Fundraising Intern](https://jobright.ai/jobs/info/68fca045e04ac838fb5ab0d7?utm_campaign=1065&utm_source=git)** | Arlington, VA, US | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
