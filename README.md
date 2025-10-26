@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fe4379e0c73b3a11196e93?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 26 |
+| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe3de4e0c73b3a11196dc3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
+| **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a8f494d627244576e3692b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
+| **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe33c00ab3b222462a68be?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 26 |
+| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2026](https://jobright.ai/jobs/info/68cd3b3ab2a74e1837ed4377?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Dairy Cattle Marketing Intern](https://jobright.ai/jobs/info/66c5c7980b7d57d04a94d286?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Oct 26 |
+| **[Henkel](http://www.henkel.com)** | **[Digital Marketing Intern, Schwarzkopf Professional – Summer 2026](https://jobright.ai/jobs/info/68cc84f17342c7623ae660ff?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Oct 26 |
+| **[Winland Foods](https://winlandfoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cacac29e3a822f5d23f1f0?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | Hybrid | Oct 26 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 26 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c487c4e396b25cb5c68fad?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Oct 26 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
@@ -144,17 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e041f71852e62f007e95e7?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 25 |
 | **[National Pork Board](https://pork.org/)** | **[Producer & State Engagement Internship 2026](https://jobright.ai/jobs/info/68e0ea13b99ec3563b0d4f18?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
 | **[River Riders, Inc](https://www.riverriders.com)** | **[Event Planner / Coordinator Internship](https://jobright.ai/jobs/info/68fcd53ee04ac838fb5ad098?utm_campaign=1065&utm_source=git)** | Harpers Ferry, WV | On Site | Oct 25 |
+| **[Sea Service Family, Foundation](http://www.seaservicefamily.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68fe23a30ab3b222462a66e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Save the Children US](http://savethechildren.org)** | **[Marketing & Growth Intern (M&G)](https://jobright.ai/jobs/info/68f2bd9176a51a4307bc7bdd?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Oct 25 |
 | **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 25 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 25 |
 | ↳ | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
-| ↳ | **[Summer 2026 Marketing Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04ae0b99ec3563b0ce4b0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
-| **[ASSA ABLOY Group](http://www.assaabloy.com/en/com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a7709a33dd7158bbca72f7?utm_campaign=1065&utm_source=git)** | Monroe, NC | On Site | Oct 25 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Marketing (Year-Round)](https://jobright.ai/jobs/info/68c49e8be471ef3ce16d7ccb?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Marketing Intern (Summer 2026) - Archdale, NC](https://jobright.ai/jobs/info/68cda66fb2a74e1837eda44a?utm_campaign=1065&utm_source=git)** | Archdale, NC | On Site | Oct 25 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Events & Partnerships Internship (Unpaid)](https://jobright.ai/jobs/info/68cfdd49846f0b04af685873?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Oct 25 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Communications (Year-Round)](https://jobright.ai/jobs/info/68cfa3fffb49c96ca6eaa07e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| ↳ | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| **[Fresh Patch](http://www.freshpatch.com)** | **[Marketing Intern or Assistant - Must Love Dogs!](https://jobright.ai/jobs/info/68fbcbddf55bb021a889c7b7?utm_campaign=1065&utm_source=git)** | Oxnard, CA | On Site | Oct 25 |
-| **[Lufthansa](https://www.lufthansa.com)** | **[Marketing intern Hybrid Model (Remotely & On-site) / 6-month position / Full time / Part-time not excluded](https://jobright.ai/jobs/info/68fcba88e0c73b3a1118f485?utm_campaign=1065&utm_source=git)** | Uniondale, NY | Hybrid | Oct 25 |
-| **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c8f08a95f5211cd2cebbb2?utm_campaign=1065&utm_source=git)** | Allentown, PA | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
