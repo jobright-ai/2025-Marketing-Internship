@@ -57,15 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68fe0a95e0c73b3a11196242?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| **[DeepKutz Records](https://deepkutzrecords.disco.ac/cat/387065937)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fdf98ae0c73b3a11195d65?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Remote | Oct 26 |
+| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Field Marketing Internship - Spring 2026](https://jobright.ai/jobs/info/68fdf7ff0ab3b222462a5885?utm_campaign=1065&utm_source=git)** | Hampton, GA | On Site | Oct 26 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Marketing Communications Internship](https://jobright.ai/jobs/info/68c63c9cdb52c07d288459a0?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| ↳ | **[Integrated Media Intern](https://jobright.ai/jobs/info/68ce33b724dd5209002f0680?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/68ce7ea9fb49c96ca6ea0fb8?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Oct 26 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 26 |
+| ↳ | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 26 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/68ad433b758f2e4ac300c5a8?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Oct 26 |
 | **[Lockton](https://global.lockton.com)** | **[Marketing Internship - Kansas City](https://jobright.ai/jobs/info/68d02f4a846f0b04af68812a?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Oct 26 |
 | **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68ccfda477add66568abd442?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Oct 26 |
-| **[LumoraX](lumorax.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68fddf67e0c73b3a1119562e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 26 |
 | **[OpenR&D](https://www.theopenrnd.com/)** | **[Marketing & Business Development Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68fdb54de0c73b3a111946d9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 25 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Social Media & Email Marketing intern](https://jobright.ai/jobs/info/68fd8530e04ac838fb5afc3d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 25 |
 | **[CSI DMC](http://csi-dmc.com)** | **[Event Internship at CSI DMC, Washington, DC](https://jobright.ai/jobs/info/68fd83110ab3b222462a2720?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[Superior Fence & Rail of Arkansas](https://www.superiorfenceandrail.com/arkansas/)** | **[Internship Program](https://jobright.ai/jobs/info/68fd829de0c73b3a1119296c?utm_campaign=1065&utm_source=git)** | Springdale, AR | Hybrid | Oct 25 |
-| **[GoldBug](http://goldbuginc.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68fd7f3e0ab3b222462a24b2?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 25 |
 | **[Utah Lunch Debt Relief Foundation](utldr.org)** | **[Paid Intern](https://jobright.ai/jobs/info/68fd7300e0c73b3a111921f0?utm_campaign=1065&utm_source=git)** | SLC Metro Area | Hybrid | Oct 25 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Content Marketing Intern - Winter 2026 Term](https://jobright.ai/jobs/info/68fd71aa0ab3b222462a1dcf?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Oct 25 |
 | **[Muni Insurance ](https://www.muniinsurance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd7197e04ac838fb5af0e3?utm_campaign=1065&utm_source=git)** | Naugatuck, CT | On Site | Oct 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68e0190b1852e62f007e724e?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | Oct 25 |
 | **[Kyowa Kirin, Inc.- U.S.](https://kkna.kyowakirin.com/)** | **[Rare Disease Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68c9197cf9c6ff7aedf17d6c?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Oct 25 |
 | **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Marketing Communications Internship](https://jobright.ai/jobs/info/68c8fabff9c6ff7aedf15933?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
-| ↳ | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
-| ↳ | **[Integrated Media Intern](https://jobright.ai/jobs/info/68c4c332fce86561b9289243?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
-| **[Tyson Foods](http://tysonfoods.com)** | **[Marketing Commerce Design (MCD) Year-Round Intern](https://jobright.ai/jobs/info/68fcaac2e04ac838fb5ab96d?utm_campaign=1065&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern – IBM Product Marketing](https://jobright.ai/jobs/info/68fcaa4ee0c73b3a1118e9c4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 25 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b7bc31e5763f188e2fdd?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
-| **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a199e3a822f5d248c9f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 25 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68c7b51e27f0732240603758?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Oct 25 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
