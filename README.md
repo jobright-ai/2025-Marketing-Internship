@@ -57,16 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68fe72510ab3b222462a6e6e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 26 |
+| **[ColomboAI](https://ColomboAI.com)** | **[Go-To-Market (GTM) Intern — ColomboAI](https://jobright.ai/jobs/info/68fe8ec6e0c73b3a1119773e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
+| **[MBA Standards Board](https://applymba.org/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/68fe84ea0ab3b222462a71f3?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68fe6f24e04ac838fb5b41d8?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 26 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe6ed60ab3b222462a6dd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Communications Team Intern – Childhood Cancer Society  Volunteer / Course Credit Eligible / Remote / ~20 hours per week](https://jobright.ai/jobs/info/68fe65670ab3b222462a6d3a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[RehabifyMe](https://www.linkedin.com/company/99084781)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/68fe622ce0c73b3a111970c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Percival](https://www.linkedin.com/company/108127498)** | **[Growth Intern](https://jobright.ai/jobs/info/68fe61c60ab3b222462a6ce5?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Remote | Oct 26 |
 | **[Mathnasium (Operated by JCR Learning, Inc.)](http://www.mathnasium.com/desertridge)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe58ffe0c73b3a11197041?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 26 |
-| **[Doich Foods](www.doichfoods.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68fe55e3e04ac838fb5b403d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 26 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/68fe47e9e04ac838fb5b3f13?utm_campaign=1065&utm_source=git)** | Oneonta, NY | Hybrid | Oct 26 |
-| **[Orlin Circle](https://www.linkedin.com/company/108614115)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fe4379e0c73b3a11196e93?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 26 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a8f494d627244576e3692b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
 | **[Talentrift](https://www.linkedin.com/company/97929709)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe33c00ab3b222462a68be?utm_campaign=1065&utm_source=git)** | Waller, TX | Remote | Oct 26 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2026](https://jobright.ai/jobs/info/68cd3b3ab2a74e1837ed4377?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Oct 26 |
@@ -94,9 +92,7 @@ For a complete list, click the following sortable link below:
 | **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68ccfda477add66568abd442?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Oct 26 |
 | **[OpenR&D](https://www.theopenrnd.com/)** | **[Marketing & Business Development Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68fdb54de0c73b3a111946d9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 25 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Social Media & Email Marketing intern](https://jobright.ai/jobs/info/68fd8530e04ac838fb5afc3d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 25 |
-| **[Utah Lunch Debt Relief Foundation](utldr.org)** | **[Paid Intern](https://jobright.ai/jobs/info/68fd7300e0c73b3a111921f0?utm_campaign=1065&utm_source=git)** | SLC Metro Area | Hybrid | Oct 25 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Content Marketing Intern - Winter 2026 Term](https://jobright.ai/jobs/info/68fd71aa0ab3b222462a1dcf?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Oct 25 |
-| **[Muni Insurance ](https://www.muniinsurance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd7197e04ac838fb5af0e3?utm_campaign=1065&utm_source=git)** | Naugatuck, CT | On Site | Oct 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68fd67010ab3b222462a1cbc?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68fd66e00ab3b222462a1cac?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 25 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/68fd66680ab3b222462a1c80?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | Hybrid | Oct 25 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | **[National Pork Board](https://pork.org/)** | **[Producer & State Engagement Internship 2026](https://jobright.ai/jobs/info/68e0ea13b99ec3563b0d4f18?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
 | **[River Riders, Inc](https://www.riverriders.com)** | **[Event Planner / Coordinator Internship](https://jobright.ai/jobs/info/68fcd53ee04ac838fb5ad098?utm_campaign=1065&utm_source=git)** | Harpers Ferry, WV | On Site | Oct 25 |
 | **[Sea Service Family, Foundation](http://www.seaservicefamily.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68fe23a30ab3b222462a66e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
+| **[Save the Children US](http://savethechildren.org)** | **[Marketing & Growth Intern (M&G)](https://jobright.ai/jobs/info/68f2bd9176a51a4307bc7bdd?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Oct 25 |
+| **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 25 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 25 |
+| ↳ | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
