@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OpenR&D](https://www.theopenrnd.com/)** | **[Marketing & Business Development Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68fdb54de0c73b3a111946d9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 25 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Social Media & Email Marketing intern](https://jobright.ai/jobs/info/68fd8530e04ac838fb5afc3d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 25 |
 | **[CSI DMC](http://csi-dmc.com)** | **[Event Internship at CSI DMC, Washington, DC](https://jobright.ai/jobs/info/68fd83110ab3b222462a2720?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Oct 25 |
 | **[Superior Fence & Rail of Arkansas](https://www.superiorfenceandrail.com/arkansas/)** | **[Internship Program](https://jobright.ai/jobs/info/68fd829de0c73b3a1119296c?utm_campaign=1065&utm_source=git)** | Springdale, AR | Hybrid | Oct 25 |
@@ -97,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[Algo Seeker](https://algoseeker.com/)** | **[Digital Marketing & Sales Intern](https://jobright.ai/jobs/info/68fd15d5e0c73b3a11191220?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Event Assistant Intern - Spring 2026](https://jobright.ai/jobs/info/68fd0e260ab3b222462a0d45?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 25 |
 | **[Twinning Labs](https://twinninglabs.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd07ebe04ac838fb5ae085?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 25 |
-| **[RehabifyMe](https://www.linkedin.com/company/99084781)** | **[Content Writer](https://jobright.ai/jobs/info/68fcff9c0ab3b222462a0bd4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/68fcfb820ab3b222462a0b57?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Oct 25 |
 | **[Biome](Joinbiome.com)** | **[Product Growth & Brand Ambassador Intern (Spring 2026 / Student-Athletes Welcome)](https://jobright.ai/jobs/info/68fcfa530ab3b222462a0b00?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Influencer Marketing Internship / Spring 2026](https://jobright.ai/jobs/info/68fcf5060ab3b222462a09d5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Oct 25 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Operation Smile](http://www.operationsmile.org)** | **[Events & Partnerships Internship (Unpaid)](https://jobright.ai/jobs/info/68cfdd49846f0b04af685873?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Oct 25 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Communications (Year-Round)](https://jobright.ai/jobs/info/68cfa3fffb49c96ca6eaa07e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
 | ↳ | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 25 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fd87400ab3b222462a2936?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Oct 25 |
 | **[Lufthansa](https://www.lufthansa.com)** | **[Marketing intern Hybrid Model (Remotely & On-site) / 6-month position / Full time / Part-time not excluded](https://jobright.ai/jobs/info/68fcba88e0c73b3a1118f485?utm_campaign=1065&utm_source=git)** | Uniondale, NY | Hybrid | Oct 25 |
 | **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c8f08a95f5211cd2cebbb2?utm_campaign=1065&utm_source=git)** | Allentown, PA | Hybrid | Oct 25 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Integrated Media Intern](https://jobright.ai/jobs/info/68c4c332fce86561b9289243?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 25 |
 | **[Tyson Foods](http://tysonfoods.com)** | **[Marketing Commerce Design (MCD) Year-Round Intern](https://jobright.ai/jobs/info/68fcaac2e04ac838fb5ab96d?utm_campaign=1065&utm_source=git)** | Springdale, AR | On Site | Oct 25 |
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – IBM Product Marketing](https://jobright.ai/jobs/info/68fcaa4ee0c73b3a1118e9c4?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 25 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b7bc31e5763f188e2fdd?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
