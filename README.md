@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68fe72510ab3b222462a6e6e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Oct 26 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/68fe6f24e04ac838fb5b41d8?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Oct 26 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe6ed60ab3b222462a6dd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 26 |
+| **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Communications Team Intern – Childhood Cancer Society  Volunteer / Course Credit Eligible / Remote / ~20 hours per week](https://jobright.ai/jobs/info/68fe65670ab3b222462a6d3a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
+| **[RehabifyMe](https://www.linkedin.com/company/99084781)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/68fe622ce0c73b3a111970c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
+| **[Percival](https://www.linkedin.com/company/108127498)** | **[Growth Intern](https://jobright.ai/jobs/info/68fe61c60ab3b222462a6ce5?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Remote | Oct 26 |
 | **[Mathnasium (Operated by JCR Learning, Inc.)](http://www.mathnasium.com/desertridge)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe58ffe0c73b3a11197041?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 26 |
 | **[Doich Foods](www.doichfoods.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68fe55e3e04ac838fb5b403d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 26 |
 | **[Springbrook NY, Inc](https://springbrookny.org)** | **[Family and Community Engagement Intern - Unpaid](https://jobright.ai/jobs/info/68fe47e9e04ac838fb5b3f13?utm_campaign=1065&utm_source=git)** | Oneonta, NY | Hybrid | Oct 26 |
@@ -76,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Conference Services (Year-Round)](https://jobright.ai/jobs/info/68c4e0e8c96a22563ece3366?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
 | **[Biome](Joinbiome.com)** | **[Brand Ambassador Marketing Intern (Student-Athletes Encouraged)](https://jobright.ai/jobs/info/68fe0a95e0c73b3a11196242?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
-| **[DeepKutz Records](https://deepkutzrecords.disco.ac/cat/387065937)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fdf98ae0c73b3a11195d65?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Remote | Oct 26 |
 | **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Field Marketing Internship - Spring 2026](https://jobright.ai/jobs/info/68fdf7ff0ab3b222462a5885?utm_campaign=1065&utm_source=git)** | Hampton, GA | On Site | Oct 26 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Marketing Communications Internship](https://jobright.ai/jobs/info/68c63c9cdb52c07d288459a0?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
 | ↳ | **[Integrated Media Intern](https://jobright.ai/jobs/info/68ce33b724dd5209002f0680?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Oct 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Pork Board](https://pork.org/)** | **[Producer & State Engagement Internship 2026](https://jobright.ai/jobs/info/68e0ea13b99ec3563b0d4f18?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
 | **[River Riders, Inc](https://www.riverriders.com)** | **[Event Planner / Coordinator Internship](https://jobright.ai/jobs/info/68fcd53ee04ac838fb5ad098?utm_campaign=1065&utm_source=git)** | Harpers Ferry, WV | On Site | Oct 25 |
 | **[Sea Service Family, Foundation](http://www.seaservicefamily.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68fe23a30ab3b222462a66e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
-| **[Save the Children US](http://savethechildren.org)** | **[Marketing & Growth Intern (M&G)](https://jobright.ai/jobs/info/68f2bd9176a51a4307bc7bdd?utm_campaign=1065&utm_source=git)** | Lexington, KY | Hybrid | Oct 25 |
-| **[Rogers Electric](https://www.rogerselectric.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c598227d0db41142734974?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Oct 25 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 25 |
-| ↳ | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Oct 25 |
-| ↳ | **[Summer 2026 Marketing Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04ae0b99ec3563b0ce4b0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
