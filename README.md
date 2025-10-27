@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Concord](https://concord.com/)** | **[Publishing Sync Intern](https://jobright.ai/jobs/info/68ff12eee0c73b3a11199287?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 26 |
+| ↳ | **[Craft Catalog A&R Intern](https://jobright.ai/jobs/info/68ff10680ab3b222462a8e01?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
+| ↳ | **[Fearless Digital Marketing Intern](https://jobright.ai/jobs/info/68ff0fd60ab3b222462a8def?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
+| ↳ | **[Concord Records Marketing Intern](https://jobright.ai/jobs/info/68ff0eb6e04ac838fb5b6114?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68feff34e0c73b3a11198e5e?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Oct 26 |
 | ↳ | **[Intern - Events Management](https://jobright.ai/jobs/info/68fefbe40ab3b222462a880e?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68fef86b0ab3b222462a87be?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
@@ -66,9 +70,7 @@ For a complete list, click the following sortable link below:
 | **[InClover Research](https://inclover.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68feab0ae04ac838fb5b48c4?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 26 |
 | **[Doich Foods](www.doichfoods.com)** | **[INTERN: Social Media + Digital Marketing](https://jobright.ai/jobs/info/68fe9eefe04ac838fb5b4804?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Public Relations & Partnerships Intern, Spring 2026](https://jobright.ai/jobs/info/6882b57fb54cac0f1e732369?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Oct 26 |
-| **[MoneyChoice Capital](http://www.tinoiq.com)** | **[Marketing And Growth Intern](https://jobright.ai/jobs/info/68fe9813e04ac838fb5b47a5?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Oct 26 |
 | **[Childhood Cancer Society](http://www.childhoodcancersociety.org)** | **[Communications Team Intern – Childhood Cancer Society  Volunteer / Course Credit Eligible / Remote / ~20 hours per week](https://jobright.ai/jobs/info/68fe65670ab3b222462a6d3a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
-| **[RehabifyMe](https://www.linkedin.com/company/99084781)** | **[Medical Writing Intern](https://jobright.ai/jobs/info/68fe622ce0c73b3a111970c6?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Percival](https://www.linkedin.com/company/108127498)** | **[Growth Intern](https://jobright.ai/jobs/info/68fe61c60ab3b222462a6ce5?utm_campaign=1065&utm_source=git)** | Cambridge, MA | Remote | Oct 26 |
 | **[Mathnasium (Operated by JCR Learning, Inc.)](http://www.mathnasium.com/desertridge)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fe58ffe0c73b3a11197041?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Oct 26 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68a8f494d627244576e3692b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 25 |
 | ↳ | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Commercial Leader Program – Therapeutics MBA Internship](https://jobright.ai/jobs/info/68a7b3a1d627244576e2e101?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Oct 25 |
-| ↳ | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e041f71852e62f007e95e7?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 25 |
-| **[National Pork Board](https://pork.org/)** | **[Producer & State Engagement Internship 2026](https://jobright.ai/jobs/info/68e0ea13b99ec3563b0d4f18?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
