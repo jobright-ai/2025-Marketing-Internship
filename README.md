@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68feff34e0c73b3a11198e5e?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Oct 26 |
+| ↳ | **[Intern - Events Management](https://jobright.ai/jobs/info/68fefbe40ab3b222462a880e?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
+| **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68fef86b0ab3b222462a87be?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
 | **[Heatmap Studios](https://www.youtube.com/@HeatmapStudios)** | **[High School Intern: Social Media Manager](https://jobright.ai/jobs/info/68fee964e0c73b3a11198749?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Acumatica](https://www.acumatica.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68fedf250ab3b222462a7bd7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
-| **[Kuraray America, Inc.](https://www.kuraray.us.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/68fedb080ab3b222462a7b55?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
-| **[Acumatica](https://www.acumatica.com)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/68feccf5e04ac838fb5b4b81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
+| ↳ | **[Grant Writing Intern](https://jobright.ai/jobs/info/68feccf5e04ac838fb5b4b81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | **[InClover Research](https://inclover.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68feab0ae04ac838fb5b48c4?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 26 |
 | **[Doich Foods](www.doichfoods.com)** | **[INTERN: Social Media + Digital Marketing](https://jobright.ai/jobs/info/68fe9eefe04ac838fb5b4804?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Public Relations & Partnerships Intern, Spring 2026](https://jobright.ai/jobs/info/6882b57fb54cac0f1e732369?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Oct 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AbbVie](https://www.abbvie.com)** | **[2026 Commercial Leader Program – Therapeutics MBA Internship](https://jobright.ai/jobs/info/68a7b3a1d627244576e2e101?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Oct 25 |
 | ↳ | **[2026 Oncology Brand Management Intern](https://jobright.ai/jobs/info/68e041f71852e62f007e95e7?utm_campaign=1065&utm_source=git)** | North Chicago, IL | On Site | Oct 25 |
 | **[National Pork Board](https://pork.org/)** | **[Producer & State Engagement Internship 2026](https://jobright.ai/jobs/info/68e0ea13b99ec3563b0d4f18?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Oct 25 |
-| **[River Riders, Inc](https://www.riverriders.com)** | **[Event Planner / Coordinator Internship](https://jobright.ai/jobs/info/68fcd53ee04ac838fb5ad098?utm_campaign=1065&utm_source=git)** | Harpers Ferry, WV | On Site | Oct 25 |
-| **[Sea Service Family, Foundation](http://www.seaservicefamily.org)** | **[Communications Intern](https://jobright.ai/jobs/info/68fe23a30ab3b222462a66e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
