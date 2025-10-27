@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pinellas County Clerk of the Circuit Court and Comptroller](https://www.mypinellasclerk.gov/)** | **[VisitSPC Spring Management Intern](https://jobright.ai/jobs/info/68ff3785e0c73b3a1119a979?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Oct 27 |
+| **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Social Media Intern](https://jobright.ai/jobs/info/68fc2f4e4129dd33cd139833?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 27 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68ff32ace0c73b3a1119a6b0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
+| **[American Electric Power](http://aep.com)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/68bfd5688e65e77df55bd668?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Oct 27 |
+| **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68ff31490ab3b222462aa068?utm_campaign=1065&utm_source=git)** | Albany, NY | Hybrid | Oct 27 |
 | **[Concord](https://concord.com/)** | **[Publishing Sync Intern](https://jobright.ai/jobs/info/68ff12eee0c73b3a11199287?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Oct 26 |
 | ↳ | **[Craft Catalog A&R Intern](https://jobright.ai/jobs/info/68ff10680ab3b222462a8e01?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | ↳ | **[Fearless Digital Marketing Intern](https://jobright.ai/jobs/info/68ff0fd60ab3b222462a8def?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2026 Communications, Brennan en Español Undergraduate Internship](https://jobright.ai/jobs/info/68e24f7d1852e62f007f79ec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 26 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c487c4e396b25cb5c68fad?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Oct 26 |
 | **[Link Logistics](https://www.linklogistics.com/)** | **[Corporate Communications Summer Intern](https://jobright.ai/jobs/info/68e18c8cb99ec3563b0d7a00?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Oct 26 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Spring 2026](https://jobright.ai/jobs/info/68fe1e380ab3b222462a64c4?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Oct 26 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Marketing](https://jobright.ai/jobs/info/68cba12c9e3a822f5d249479?utm_campaign=1065&utm_source=git)** | Draper, VA | On Site | Oct 26 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Portsmouth, NH](https://jobright.ai/jobs/info/68c9126aa0c52d598ea34e93?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Oct 26 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Conference Services (Year-Round)](https://jobright.ai/jobs/info/68c4e0e8c96a22563ece3366?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Oct 26 |
@@ -97,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Oct 26 |
 | **[Lockton](https://global.lockton.com)** | **[Marketing Internship - Kansas City](https://jobright.ai/jobs/info/68d02f4a846f0b04af68812a?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Oct 26 |
 | **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/68ccfda477add66568abd442?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Oct 26 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ff3eda0ab3b222462aa692?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Oct 26 |
 | **[OpenR&D](https://www.theopenrnd.com/)** | **[Marketing & Business Development Coordinator (Intern/Temp)](https://jobright.ai/jobs/info/68fdb54de0c73b3a111946d9?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 25 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fee2720ab3b222462a7c7b?utm_campaign=1065&utm_source=git)** | College Park, MD | On Site | Oct 25 |
 | **[Skin Gym](https://www.skingymco.com)** | **[Social Media & Email Marketing intern](https://jobright.ai/jobs/info/68fd8530e04ac838fb5afc3d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 25 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Content Marketing Intern - Winter 2026 Term](https://jobright.ai/jobs/info/68fd71aa0ab3b222462a1dcf?utm_campaign=1065&utm_source=git)** | Lexington, SC | On Site | Oct 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/68fd67010ab3b222462a1cbc?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/68cf6a8d846f0b04af681dad?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Oct 25 |
 | **[Leviton](https://www.leviton.com)** | **[Marketing Intern (year-round)](https://jobright.ai/jobs/info/68ccf7f15954791a1d702002?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/68cc83687342c7623ae65f56?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Oct 25 |
-| ↳ | **[Brand Development Intern, MBA – Summer 2026](https://jobright.ai/jobs/info/68cd7887e23def7af55ba2d0?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Oct 25 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 25 |
-| ↳ | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Oct 25 |
-| **[AbbVie](https://www.abbvie.com)** | **[2026 Commercial Leader Program – Therapeutics MBA Internship](https://jobright.ai/jobs/info/68a7b3a1d627244576e2e101?utm_campaign=1065&utm_source=git)** | Mettawa, IL | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
