@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crest Vale](crestvale.us)** | **[Group Marketing Summer Intern](https://jobright.ai/jobs/info/68ff5e24e04ac838fb5b82a8?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Oct 27 |
+| **[Food Lion](https://www.foodlion.com)** | **[Internship - Communications](https://jobright.ai/jobs/info/68e27b781852e62f007f7e7e?utm_campaign=1065&utm_source=git)** | Salisbury, NC | On Site | Oct 27 |
+| **[MeaVana ](https://meavana.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68ff593e0ab3b222462aac81?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 27 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[RLC Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cf2e06fb49c96ca6ea6387?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Oct 27 |
+| **[La-Z-Boy Incorporated](http://www.la-z-boy.com)** | **[Internship - Marketing (Summer 2026)](https://jobright.ai/jobs/info/68e741081852e62f00823bb1?utm_campaign=1065&utm_source=git)** | Monroe, MI | Hybrid | Oct 27 |
 | **[Pinellas County Clerk of the Circuit Court and Comptroller](https://www.mypinellasclerk.gov/)** | **[VisitSPC Spring Management Intern](https://jobright.ai/jobs/info/68ff3785e0c73b3a1119a979?utm_campaign=1065&utm_source=git)** | Florida, United States | On Site | Oct 27 |
 | **[University of Colorado Boulder](https://www.colorado.edu)** | **[Temporary Social Media Intern](https://jobright.ai/jobs/info/68fc2f4e4129dd33cd139833?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 27 |
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68ff32ace0c73b3a1119a6b0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 27 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[NYSERDA](https://www.nyserda.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68feff34e0c73b3a11198e5e?utm_campaign=1065&utm_source=git)** | New York City, New York, NY, US | Hybrid | Oct 26 |
 | ↳ | **[Intern - Events Management](https://jobright.ai/jobs/info/68fefbe40ab3b222462a880e?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Intern - Events Management](https://jobright.ai/jobs/info/68fef86b0ab3b222462a87be?utm_campaign=1065&utm_source=git)** | Albany , Albany, NY, US | Hybrid | Oct 26 |
-| **[Heatmap Studios](https://www.youtube.com/@HeatmapStudios)** | **[High School Intern: Social Media Manager](https://jobright.ai/jobs/info/68fee964e0c73b3a11198749?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 26 |
 | **[Acumatica](https://www.acumatica.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/68fedf250ab3b222462a7bd7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | ↳ | **[Grant Writing Intern](https://jobright.ai/jobs/info/68feccf5e04ac838fb5b4b81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 26 |
 | **[InClover Research](https://inclover.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68feab0ae04ac838fb5b48c4?utm_campaign=1065&utm_source=git)** | Boulder, CO | Hybrid | Oct 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[Digital Marketing & AI Research Intern - Summer 2026](https://jobright.ai/jobs/info/68c366b86031587f8458a95e?utm_campaign=1065&utm_source=git)** | Addison, TX | Hybrid | Oct 25 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/68e01ee71852e62f007e7a41?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Oct 25 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/68cd1137b2a74e1837ed1aed?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Oct 25 |
-| ↳ | **[Market Strategy Intern – Fall 2026](https://jobright.ai/jobs/info/68cc0884128dc347fd91db19?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Oct 25 |
-| ↳ | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/68cf6a8d846f0b04af681dad?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Oct 25 |
-| **[Leviton](https://www.leviton.com)** | **[Marketing Intern (year-round)](https://jobright.ai/jobs/info/68ccf7f15954791a1d702002?utm_campaign=1065&utm_source=git)** | New Orleans, LA | On Site | Oct 25 |
-| **[Henkel](http://www.henkel.com)** | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/68cc83687342c7623ae65f56?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Oct 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
