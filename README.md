@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy Analyst](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Oct 29 |
+| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/68cfc80e846f0b04af685071?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Seekho](https://www.seekho.in)** | **[Social Media Research Intern (Remote – U.S.)](https://jobright.ai/jobs/info/6901c0974539ea1f21422c5e?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Edge](http://www.edgeintelligence.xyz)** | **[Intern (Marketing/Event/Creative Design) - AI Venture Studio](https://jobright.ai/jobs/info/6901bfd6f8ce7a040fdc264f?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Oct 29 |
 | **[Coughlan Luxury Collection](coughlanluxury.com)** | **[Marketing & Operations Intern](https://jobright.ai/jobs/info/6901b85fd5259a1b3cff76bf?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Oct 28 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Seagate Technology](http://www.seagate.com)** | **[IT Communications Intern](https://jobright.ai/jobs/info/68f94b54a628d10664e8bb38?utm_campaign=1065&utm_source=git)** | Fremont, CA | On Site | Oct 28 |
 | **[Zurich Insurance](http://www.zurich.com)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/690192044539ea1f214215c1?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | Hybrid | Oct 28 |
 | **[RBC](https://www.rbc.com)** | **[2026  GAM Digital Marketing Summer Internship - USWM](https://jobright.ai/jobs/info/690191834539ea1f21421563?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States of America | On Site | Oct 28 |
-| **[DESTINATE](destinate.net)** | **[Remote Social Media Marketing Internship](https://jobright.ai/jobs/info/69018f0bf8ce7a040fdc0d13?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Oct 28 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Spring Intern - Digital Marketing/Training](https://jobright.ai/jobs/info/69018d37d5259a1b3cff61c0?utm_campaign=1065&utm_source=git)** | Chesapeake, VA | On Site | Oct 28 |
 | **[RBC](https://www.rbc.com)** | **[2026  GAM Digital Marketing Summer Internship - USWM](https://jobright.ai/jobs/info/69018d28f8ce7a040fdc0c09?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States of America | On Site | Oct 28 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Audience & Insights Intern](https://jobright.ai/jobs/info/69018d0af8ce7a040fdc0bf9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 28 |
@@ -143,12 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Brookfield](https://bam.brookfield.com)** | **[Intern, Marketing & Communications](https://jobright.ai/jobs/info/69011df7d5259a1b3cff1a52?utm_campaign=1065&utm_source=git)** | New York, New York | On Site | Oct 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Entertainment Television Communication Intern, Spring 2026](https://jobright.ai/jobs/info/69011ceef8ce7a040fdbc2ae?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Oct 28 |
 | **[Flow Shooting Academy](WWW.flowshootingacademy.com)** | **[Social Media and Marketing Assistant Intern](https://jobright.ai/jobs/info/69011cb8d5259a1b3cff1938?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Oct 28 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/69013b97d5259a1b3cff34ba?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Oct 28 |
 | **[Balfour Beatty US](https://www.balfourbeattyus.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf9d52846f0b04af683525?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 28 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69011a58d5259a1b3cff165e?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Oct 28 |
 | **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Spring 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/690137fdf8ce7a040fdbdb29?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Oct 28 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Entertainment PR Winter Intern](https://jobright.ai/jobs/info/69011a25d5259a1b3cff162d?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Oct 28 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Marketing Internship / Part-Time / Addition Financial Arena](https://jobright.ai/jobs/info/690119f64539ea1f2141c7c3?utm_campaign=1065&utm_source=git)** | US-FL-Orlando | On Site | Oct 28 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Summer 2026](https://jobright.ai/jobs/info/690119e1f8ce7a040fdbc1ad?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Oct 28 |
 | **[Nidec Motor Corporation](https://acim.nidec.com/motors)** | **[Custom Design Marketing Co-Op](https://jobright.ai/jobs/info/690119c3d5259a1b3cff15e8?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Oct 28 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Corporate Marketing Intern - Content](https://jobright.ai/jobs/info/690119abd5259a1b3cff15cb?utm_campaign=1065&utm_source=git)** | Spartanburg, SC | Hybrid | Oct 28 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Marketing Communications](https://jobright.ai/jobs/info/690135bed5259a1b3cff3094?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Oct 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hello Soju](https://hellosoju.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/690117b4d5259a1b3cff142a?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Oct 28 |
 | **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Corporate Marketing Intern - Digital](https://jobright.ai/jobs/info/690117584539ea1f2141c437?utm_campaign=1065&utm_source=git)** | Spartanburg, SC | Hybrid | Oct 28 |
 | **[Concord](https://concord.com/)** | **[Craft A&R and Marketing Intern](https://jobright.ai/jobs/info/6901174df8ce7a040fdbbf2a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Oct 28 |
-| **[Promega Corporation ](http://www.promega.com/es)** | **[Marketing Intern – Academia & Gov't Markets](https://jobright.ai/jobs/info/690116e4d5259a1b3cff1366?utm_campaign=1065&utm_source=git)** | Madison, Wisconsin | On Site | Oct 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
