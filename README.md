@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Greenstone](http://www.greenstoneplus.com)** | **[Marketing & PR Internship](https://jobright.ai/jobs/info/6903293e00a1816c41ea465a?utm_campaign=1065&utm_source=git)** | East Lansing, MI | On Site | Oct 30 |
+| **[Triple-S Steel](Www.sss-steel.no)** | **[Marketing Intern](https://jobright.ai/jobs/info/6903234200a1816c41ea4256?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Oct 30 |
+| **[Chance AI](https://www.chance.vision)** | **[Student Ambassador & Go-To-Market Analyst](https://jobright.ai/jobs/info/69031fc1ff462851fefe9147?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 30 |
 | **[Mind Spark Technologies LLP - Web Application Development Company Orlando, FL, USA, India, Swiss](https://www.mindsparktechnologies.com/)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/69031288ff462851fefe89ea?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Oct 30 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/69030dafff462851fefe86df?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Oct 30 |
 | **[onsemi](http://www.onsemi.com)** | **[Spring 2026 - Strategic Engagement & Culture Intern](https://jobright.ai/jobs/info/69030d7d00a1816c41ea3636?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Oct 30 |
@@ -72,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern – Marketing Analytics](https://jobright.ai/jobs/info/6902d0b100a1816c41ea1a0b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 29 |
 | ↳ | **[2026 Intern – IBM Marketing (Austin, TX)](https://jobright.ai/jobs/info/6902cfda98707b2b0fe72f07?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Oct 29 |
 | **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Marketing Internship](https://jobright.ai/jobs/info/6902cfcaff462851fefe68b9?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 29 |
-| **[Day One Accounting and Financial Services](https://dayoneaccounting.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6902cfb300a1816c41ea1987?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Energizer Holdings](http://energizerholdings.com)** | **[Marketing Intern, Shopper](https://jobright.ai/jobs/info/6902ccb900a1816c41ea180e?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Oct 29 |
 | **[True Legacy Homes](https://www.truelegacyhomes.com/)** | **[Social Media / Content Creator (Intern)](https://jobright.ai/jobs/info/6902c77500a1816c41ea162e?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Oct 29 |
 | **[Western Alliance Bank](https://www.westernalliancebancorporation.com)** | **[Summer 2026 Internship - Westlake Village, CA - Retail Lending](https://jobright.ai/jobs/info/6902c615ff462851fefe64a4?utm_campaign=1065&utm_source=git)** | Westlake Village, CA | On Site | Oct 29 |
@@ -145,16 +147,14 @@ For a complete list, click the following sortable link below:
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media and Digital Marketing Associate (Intern)](https://jobright.ai/jobs/info/690251d5ff462851fefe1d6f?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | Oct 29 |
 | **[Versaterm](https://www.versaterm.com/)** | **[Events Marketing Intern- Winter 2026 Term](https://jobright.ai/jobs/info/69025175ff462851fefe1d15?utm_campaign=1065&utm_source=git)** | Lexington, South Carolina, United States | On Site | Oct 29 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6902510298707b2b0fe6e308?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Oct 29 |
+| **[Flaire](https://flaire.me)** | **[Marketing Intern](https://jobright.ai/jobs/info/69031c61ff462851fefe8ea4?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 29 |
 | **[Médecins Sans Frontières (MSF)](http://www.msf.org)** | **[Public Engagement Intern](https://jobright.ai/jobs/info/69024e5398707b2b0fe6e134?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Oct 29 |
 | **[BOIRON USA](https://www.boironusa.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69024cd098707b2b0fe6e02d?utm_campaign=1065&utm_source=git)** | Newtown Square, PA | On Site | Oct 29 |
 | **[Dunmore](http://www.dunmore.com/)** | **[Intern- Internal Communications](https://jobright.ai/jobs/info/69024a4b98707b2b0fe6de0d?utm_campaign=1065&utm_source=git)** | Bristol, PA, 19007, United States | On Site | Oct 29 |
 | **[ClimateHaven](https://www.climatehaven.tech)** | **[Climate Media & Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6902640998707b2b0fe6ed4b?utm_campaign=1065&utm_source=git)** | New Haven, CT | On Site | Oct 29 |
 | **[Ada S. McKinley Community Services, Inc](https://www.adasmckinley.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6902496800a1816c41e9c8cf?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 29 |
 | **[VCS HR](https://www.vcssoftware.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/690246a2ff462851fefe16aa?utm_campaign=1065&utm_source=git)** | Freehold, NJ | On Site | Oct 29 |
-| **[Marketing Choices](https://marketingchoices.com)** | **[UGC Creator Internship](https://jobright.ai/jobs/info/69024562ff462851fefe15af?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Oct 29 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Media Relations Corporate Internship (Undergraduate)](https://jobright.ai/jobs/info/6902455000a1816c41e9c609?utm_campaign=1065&utm_source=git)** | Woonsocket, RI | Hybrid | Oct 29 |
 | **[Skookum](https://tessera.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69024486ff462851fefe150b?utm_campaign=1065&utm_source=git)** | Bremerton, Washington | On Site | Oct 29 |
 | **[Moos & Co.](http://moosandco.com)** | **[Interior Design Communications Intern](https://jobright.ai/jobs/info/69025c0900a1816c41e9d4db?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 29 |
-| **[CVS Health](https://www.cvshealth.com/)** | **[Media Relations Corporate Internship (Undergraduate)](https://jobright.ai/jobs/info/6902333600a1816c41e9bbd2?utm_campaign=1065&utm_source=git)** | RI - Woonsocket | Hybrid | Oct 29 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/68c9b55aa0c52d598ea3a591?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
