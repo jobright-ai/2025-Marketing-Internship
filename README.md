@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69059721122e8474c78da38d?utm_campaign=1065&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
+| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905947f63502c0aded7c56b?utm_campaign=1065&utm_source=git)** | Headquarters, Opa-locka, FL, US | On Site | Oct 31 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6905912563502c0aded7c394?utm_campaign=1065&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
+| **[Siren](givewithsiren.com)** | **[Marketing Lead](https://jobright.ai/jobs/info/6905888c122e8474c78d9d9e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Oct 31 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Sr. Marketing Intern](https://jobright.ai/jobs/info/69058859122e8474c78d9d76?utm_campaign=1065&utm_source=git)** | Waltham, MA | On Site | Oct 31 |
+| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/69058319ff462851feffe133?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | Hybrid | Oct 31 |
 | **[RentVision](https://www.rentvision.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/690582a4ff462851feffe0ca?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Oct 31 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Women's Sports & The Collective](https://jobright.ai/jobs/info/690581c4ff462851feffe083?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Oct 31 |
 | **[Flower Girl Apparel](https://flowergirl.co/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69057547122e8474c78d91c6?utm_campaign=1065&utm_source=git)** | Los Angeles County, CA | On Site | Oct 31 |
@@ -115,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Community Engagement Intern](https://jobright.ai/jobs/info/6905136663502c0aded77c6c?utm_campaign=1065&utm_source=git)** | Longwood,FL,US | On Site | Oct 31 |
 | **[Clipbook](https://clipbook.com/)** | **[Go-to-Market Engineer Intern](https://jobright.ai/jobs/info/690512b3122e8474c78d5aec?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Oct 31 |
 | ↳ | **[Go-to-Market Engineer Intern](https://jobright.ai/jobs/info/690511da122e8474c78d5a83?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Oct 31 |
-| **[Valeo Financial Advisors LLC](http://www.valeofinancial.com/)** | **[Summer 2026: Marketing Internship](https://jobright.ai/jobs/info/69050df563502c0aded7798b?utm_campaign=1065&utm_source=git)** | Carmel, IN | On Site | Oct 31 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Intern - Internal Communications (Enterprise Mobility IT) - Summer 2026](https://jobright.ai/jobs/info/69052f82122e8474c78d73b1?utm_campaign=1065&utm_source=git)** | St. Louis - Brentwood, Richmond Heights, Clayton, Maplewood & central areas | Hybrid | Oct 31 |
 | **[ODK Media](https://www.odkmedia.net/)** | **[Content Specialist Intern (Unpaid)](https://jobright.ai/jobs/info/69050aa4ff462851feff9c1e?utm_campaign=1065&utm_source=git)** | Fullerton, CA | On Site | Oct 31 |
 | **[Carnegie Mellon University](https://www.cmu.edu)** | **[Marketing and Communications Internship - College of Engineering](https://jobright.ai/jobs/info/688a61eb9f961617fe21b21b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Oct 31 |
@@ -131,7 +136,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2026 Marketing Content Production Intern](https://jobright.ai/jobs/info/69051acf63502c0aded7831a?utm_campaign=1065&utm_source=git)** | Hyde Park, MA | On Site | Oct 31 |
 | **[Vault Communications](https://www.vaultcommunications.com/)** | **[Spring 2026 PR Internship](https://jobright.ai/jobs/info/6905287663502c0aded78da7?utm_campaign=1065&utm_source=git)** | Conshohocken, Pennsylvania, United States | Hybrid | Oct 31 |
 | **[Hall of Fame Resort & Entertainment Company](https://www.hofreco.com/)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/690528a6ff462851feffb251?utm_campaign=1065&utm_source=git)** | Canton,OH,US | On Site | Oct 31 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69050074122e8474c78d5022?utm_campaign=1065&utm_source=git)** | Nashville Metro | On Site | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Customer Marketing Analytics Intern](https://jobright.ai/jobs/info/6904f9da122e8474c78d4caf?utm_campaign=1065&utm_source=git)** | Freeport, Me | On Site | Oct 31 |
 | **[Selfin (YC F25)](https://selfin.app)** | **[Social Media Intern](https://jobright.ai/jobs/info/6904f883ff462851feff9227?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Oct 31 |
 | **[L.L.Bean](http://www.llbean.com/)** | **[Marketing - Social Media Internship](https://jobright.ai/jobs/info/6904f71d122e8474c78d4a64?utm_campaign=1065&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
@@ -139,9 +143,10 @@ For a complete list, click the following sortable link below:
 | **[Esperion](http://www.esperion.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6904f46663502c0aded76972?utm_campaign=1065&utm_source=git)** | Remote, Ann Arbor, MI, US | Remote | Oct 31 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6904f35c122e8474c78d4835?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Oct 31 |
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Innovation Analyst Intern](https://jobright.ai/jobs/info/6904f11f63502c0aded76855?utm_campaign=1065&utm_source=git)** | Carlisle, PA, 17013, United States | On Site | Oct 31 |
+| **[D1 TRAINING](https://www.d1training.com/)** | **[Marketing & PR Intern](https://jobright.ai/jobs/info/69050074122e8474c78d5022?utm_campaign=1065&utm_source=git)** | Nashville Metro | Hybrid | Oct 31 |
 | **[Esperion](http://www.esperion.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6904ee8e63502c0aded766cd?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Oct 31 |
-| **[L.L.Bean](http://www.llbean.com/)** | **[Brand & Performance Media Internship](https://jobright.ai/jobs/info/6904faec63502c0aded76d86?utm_campaign=1065&utm_source=git)** | Freeport, Me | On Site | Oct 31 |
-| ↳ | **[Merchandising Internship](https://jobright.ai/jobs/info/6905165263502c0aded77f8e?utm_campaign=1065&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
+| **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Internship](https://jobright.ai/jobs/info/6905165263502c0aded77f8e?utm_campaign=1065&utm_source=git)** | Freeport, ME | On Site | Oct 31 |
+| ↳ | **[Brand & Performance Media Internship](https://jobright.ai/jobs/info/6904faec63502c0aded76d86?utm_campaign=1065&utm_source=git)** | Freeport, Me | On Site | Oct 31 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Oct 31 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Marketing Intern](https://jobright.ai/jobs/info/69050e27ff462851feff9efc?utm_campaign=1065&utm_source=git)** | Bradenton, FL | On Site | Oct 31 |
 | **[Henkel](http://www.henkel.com)** | **[MBA Associate Brand Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ccd911d11b445e0bee2c60?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Oct 31 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Brand Marketing Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae9eb82daaba3984419112?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Oct 31 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/68cce00cd11b445e0bee3655?utm_campaign=1065&utm_source=git)** | Clayton, MO | Hybrid | Oct 31 |
 | **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern – Outreach Analytics](https://jobright.ai/jobs/info/68e83e59c72beb74cb31cb0e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 31 |
-| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Marketing Intern (College Students Only)](https://jobright.ai/jobs/info/6904fab7ff462851feff9383?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Oct 31 |
-| **[Henkel](http://www.henkel.com)** | **[Marketing Coordinator Intern – Summer 2026](https://jobright.ai/jobs/info/68b267f1f4e41a61efd83e73?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | Hybrid | Oct 31 |
-| **[Rich Products Corporation](https://rich.com)** | **[Intern - Strategic Insights](https://jobright.ai/jobs/info/68caec0f9e3a822f5d240398?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Oct 31 |
-| **[The New York Times](https://www.nytco.com/)** | **[Creative Marketing Design Intern](https://jobright.ai/jobs/info/6904ea9063502c0aded7647c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
-| **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68fcca43e04ac838fb5acb44?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
