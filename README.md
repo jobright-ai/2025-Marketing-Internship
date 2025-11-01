@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Market Analyst Intern (College Students)](https://jobright.ai/jobs/info/69067ff163502c0aded82640?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 01 |
+| **[Axia Growth](https://www.axiagrowth.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69067f70ff462851fe004b40?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Grapevine Pro](https://grapevinepro.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066cbfff462851fe00493e?utm_campaign=1065&utm_source=git)** | Iselin, NJ | On Site | Nov 01 |
+| **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066ad463502c0aded823aa?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 01 |
+| **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/690669b763502c0aded82333?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[YouTube Operations Intern, Brand Partnerships & Innovations - Spring 2026](https://jobright.ai/jobs/info/69066278122e8474c78dfe6b?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 01 |
 | ↳ | **[Social Media Intern, Game Show Group - Spring 2026](https://jobright.ai/jobs/info/6906619063502c0aded821d9?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Nov 01 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/69065836ff462851fe004586?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6906574e122e8474c78dfc91?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690656d963502c0aded82006?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69065517ff462851fe0044e8?utm_campaign=1065&utm_source=git)** | Temple Terrace, FL | On Site | Nov 01 |
@@ -111,7 +115,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[eCommerce Technology Summer Internship](https://jobright.ai/jobs/info/68e9349d65768b6412b19524?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Ecommerce & CRM Intern, D2C (February to May)](https://jobright.ai/jobs/info/68ce42d524dd5209002f0fe0?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Men's Merchandising Summer Internship](https://jobright.ai/jobs/info/6905f98dff462851fe002087?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
-| ↳ | **[Merchandising Summer Internship](https://jobright.ai/jobs/info/6905c168ff462851fe000147?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
+| **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/69067080122e8474c78e013d?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 01 |
+| **[EXPRESS](http://express.com)** | **[Merchandising Summer Internship](https://jobright.ai/jobs/info/6905c168ff462851fe000147?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69064fd063502c0aded81f22?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Nov 01 |
 | **[Altronica](http://www.altronica.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69065043122e8474c78dfba4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
 | **[PT MGM Bosco Logistics](http://www.mgmbosco.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69064fa963502c0aded81f17?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | ↳ | **[2026 Select Sires, Inc. Internship - Dairy Sire Development and Marketing](https://jobright.ai/jobs/info/6905b80e63502c0aded7d5f5?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905e11dff462851fe001268?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | On Site | Nov 01 |
-| **[Crescent Butte Designs Co](http://www.crescentbuttedesigns.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69060c6263502c0aded8066a?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
-| **[Silver Valley Homes](http://www.silvervalleyhomes.ca)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6906086aff462851fe002893?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 01 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Spring 2026](https://jobright.ai/jobs/info/6905e21163502c0aded7edb5?utm_campaign=1065&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
-| ↳ | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/6905e490ff462851fe001448?utm_campaign=1065&utm_source=git)** | Cleveland, Ohio | On Site | Nov 01 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905e0c9122e8474c78dc9e7?utm_campaign=1065&utm_source=git)** | Plain City, Ohio | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
