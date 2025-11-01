@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
+| ↳ | **[2026 Select Sires, Inc. Internship - Dairy Sire Development and Marketing](https://jobright.ai/jobs/info/6905b80e63502c0aded7d5f5?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6905aa95122e8474c78dab0a?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 31 |
+| **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6905a6ad122e8474c78daa2b?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Oct 31 |
 | **[Dollar Tree Distribution, Inc.](https://www.linkedin.com/company/53969352)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69059721122e8474c78da38d?utm_campaign=1065&utm_source=git)** | VA-Chesapeake | On Site | Oct 31 |
 | **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905947f63502c0aded7c56b?utm_campaign=1065&utm_source=git)** | Headquarters, Opa-locka, FL, US | On Site | Oct 31 |
 | **[August Mack Environmental, Inc.](http://augustmack.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6905912563502c0aded7c394?utm_campaign=1065&utm_source=git)** | Indianapolis Office, Indianapolis, IN, US | On Site | Oct 31 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2026 Community Engagement Intern](https://jobright.ai/jobs/info/69056d1163502c0aded7afe4?utm_campaign=1065&utm_source=git)** | Longwood, FL | On Site | Oct 31 |
 | **[NAPA Auto Parts](http://napaonline.com)** | **[Marketing, Creative Intern Summer 2026](https://jobright.ai/jobs/info/69056c1b122e8474c78d8d98?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Oct 31 |
 | **[PeopleLinx](http://www.peoplelinx.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/690566b3122e8474c78d8b8c?utm_campaign=1065&utm_source=git)** | United States | Remote | Oct 31 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/690561c463502c0aded7abab?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Oct 31 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Media Intern, Game Show Group - Spring 2026](https://jobright.ai/jobs/info/69055d84122e8474c78d87bd?utm_campaign=1065&utm_source=git)** | Culver City, California | Hybrid | Oct 31 |
 | **[Novacore](http://nsminc.com)** | **[Summer Intern- Marketing & Communications](https://jobright.ai/jobs/info/690557d4ff462851feffcc96?utm_campaign=1065&utm_source=git)** | Conshohocken, PA | Hybrid | Oct 31 |
 | **[GenPark](https://genpark.ai)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6905534c122e8474c78d841a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Oct 31 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[MBA Associate Brand Manager Intern – Summer 2026](https://jobright.ai/jobs/info/68ccd911d11b445e0bee2c60?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Oct 31 |
 | **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Sustainability Marketing Intern - (Summer 2026 Internship)](https://jobright.ai/jobs/info/68e830b8cc49a84b7e10385c?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Oct 31 |
 | **[Ready Automotive Marketing](https://www.readyautomotive.com)** | **[Marketing Intern (Paid)](https://jobright.ai/jobs/info/69051137122e8474c78d5a44?utm_campaign=1065&utm_source=git)** | Braintree, MA | On Site | Oct 31 |
+| **[The New York Times](https://www.nytco.com/)** | **[Creative Marketing Design Intern](https://jobright.ai/jobs/info/6904d8fa122e8474c78d3a9c?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Oct 31 |
 | **[Takeda](http://www.takeda.com)** | **[2026 U.S Summer Internship Program: Brand-Planning Intern (Neuroscience)](https://jobright.ai/jobs/info/6904fdc563502c0aded76fcf?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
-| ↳ | **[2026 U.S Summer Internship Program: Sleep Disorders Marketing Launch Intern](https://jobright.ai/jobs/info/6904fb3bff462851feff93da?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Oct 31 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Brand Marketing Co-op, Ninja (January through June)](https://jobright.ai/jobs/info/68ae9eb82daaba3984419112?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Oct 31 |
-| **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/68cce00cd11b445e0bee3655?utm_campaign=1065&utm_source=git)** | Clayton, MO | Hybrid | Oct 31 |
-| **[First Citizens Bank](http://www.firstcitizens.com)** | **[Corporate Intern – Outreach Analytics](https://jobright.ai/jobs/info/68e83e59c72beb74cb31cb0e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Oct 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
