@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ruby Slipper Restaurant Group](http://rubyslippercafe.com)** | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907a932122e8474c78e5ef7?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Nov 02 |
+| ↳ | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907a640122e8474c78e5e30?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 02 |
+| **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/6907a32e63502c0aded8821c?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | Nov 02 |
+| **[MaMu](mamuedu.com)** | **[🎤 MaMu Social Media & Storytelling Intern](https://jobright.ai/jobs/info/69079f90ff462851fe00a5d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Axia Growth](https://www.axiagrowth.com/)** | **[Growth Marketing Intern (Paid, Part Time)](https://jobright.ai/jobs/info/690795f6ff462851fe00a46d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6907930863502c0aded87fbf?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 02 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b259691ade4306aa635c88?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Nov 02 |
 | **[Sarah’s Social Strategy](https://www.sarahsocialstrategy.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/690784e6ff462851fe00a127?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Nov 02 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship  [Social Media]](https://jobright.ai/jobs/info/690784c5122e8474c78e5884?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 02 |
-| **[Crestfall Solutions](https://www.linkedin.com/company/108616595)** | **[Content Creation Intern (Digital & Social Media)](https://jobright.ai/jobs/info/690784bc63502c0aded87c83?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 02 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Marketing Intern, Creative Marketing - Spring 2026](https://jobright.ai/jobs/info/690784b6ff462851fe00a113?utm_campaign=1065&utm_source=git)** | Culver City, California | On Site | Nov 02 |
 | **[LearnRider](https://www.linkedin.com/company/105644155)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6907842363502c0aded87c4b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/69077f7663502c0aded87b42?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 02 |
@@ -86,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Kukamet Clamping Solutions](http://www.kukamet.com.tr/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69078e73ff462851fe00a2d7?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68eae4e12f64880ca0b545d1?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 02 |
 | **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdb588e23def7af55be66c?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Nov 02 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2025 Publicity & Marketing Intern, Workman Kids](https://jobright.ai/jobs/info/69074687ff462851fe00806c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/69073d44ff462851fe007d19?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Nov 02 |
 | **[Red Hat](http://www.redhat.com)** | **[Technical Marketing Manager Intern](https://jobright.ai/jobs/info/68b1dff11ade4306aa6326e7?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Nov 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/69067080122e8474c78e013d?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Merchandising Summer Internship](https://jobright.ai/jobs/info/6905c168ff462851fe000147?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[Рекламное агентство Вектор](http://ra-vektor.ru)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6907686863502c0aded86d47?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Nov 01 |
-| **[Great Expectations Photography & Advertising](http://www.greatexpectationsmedia.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69064fd063502c0aded81f22?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Nov 01 |
-| **[Altronica](http://www.altronica.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69065043122e8474c78dfba4?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
