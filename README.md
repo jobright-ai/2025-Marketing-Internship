@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6906f551ff462851fe006494?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Lumen Path](https://www.linkedin.com/company/108610660)** | **[Communications Intern](https://jobright.ai/jobs/info/6906deba63502c0aded838ed?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
 | **[PureCreate](https://purecreate.app)** | **[Social Media Intern: "Star-building Program"](https://jobright.ai/jobs/info/6906acea122e8474c78e05fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6906a9b4122e8474c78e05ac?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6905d76cff462851fe000df7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | ↳ | **[2026 Select Sires, Inc. Internship - Dairy Sire Development and Marketing](https://jobright.ai/jobs/info/6905b80e63502c0aded7d5f5?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
-| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905e11dff462851fe001268?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
