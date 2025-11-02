@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Social Media (Internship)](https://jobright.ai/jobs/info/69068f7363502c0aded82722?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
+| **[Nightly](https://nightlyhq.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/69068e03122e8474c78e03a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Quota's](https://www.linkedin.com/company/109363021)** | **[Market Analyst Intern (College Students)](https://jobright.ai/jobs/info/69067ff163502c0aded82640?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Axia Growth](https://www.axiagrowth.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69067f70ff462851fe004b40?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Grapevine Pro](https://grapevinepro.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066cbfff462851fe00493e?utm_campaign=1065&utm_source=git)** | Iselin, NJ | On Site | Nov 01 |
@@ -90,7 +92,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690648a0122e8474c78dfa90?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690645fbff462851fe0042ff?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/690636b863502c0aded81a24?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
-| **[CIELO Agency](https://cielo.agency)** | **[Branding and Social Media Internship](https://jobright.ai/jobs/info/6906323263502c0aded81982?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Nov 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Integrated Communications Intern - The Sims](https://jobright.ai/jobs/info/69062cc0ff462851fe003cf8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Academy of Our Lady of Peace](https://aolp.org)** | **[MarComm Intern](https://jobright.ai/jobs/info/690628ec122e8474c78df367?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Nov 01 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Defense Marketing & Events Intern](https://jobright.ai/jobs/info/68e9990165768b6412b1df59?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | Nov 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6905d76cff462851fe000df7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | ↳ | **[2026 Select Sires, Inc. Internship - Dairy Sire Development and Marketing](https://jobright.ai/jobs/info/6905b80e63502c0aded7d5f5?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
-| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905e11dff462851fe001268?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
