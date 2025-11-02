@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Acumatica](https://www.acumatica.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6907601bff462851fe008d5e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Corporate Communication Summer Intern 2026](https://jobright.ai/jobs/info/68b24bd5f4e41a61efd832fd?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Hybrid | Nov 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68eae4e12f64880ca0b545d1?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 02 |
+| **[RF-SMART](http://rfsmart.com/)** | **[Digital Marketing Intern- Spring 2026](https://jobright.ai/jobs/info/68cdb588e23def7af55be66c?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Nov 02 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Fall 2025 Publicity & Marketing Intern, Workman Kids](https://jobright.ai/jobs/info/69074687ff462851fe00806c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 02 |
+| **[Staples](http://www.staples.com)** | **[Quill Customer Engagement Intern - June 2026](https://jobright.ai/jobs/info/68ceaa8a846f0b04af67c2ed?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Nov 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
 | **[Hylant](http://www.hylant.com)** | **[Spring and Summer 2026 Internship: Event Planning and Communications](https://jobright.ai/jobs/info/69073f1d63502c0aded85887?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Nov 02 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/69073d44ff462851fe007d19?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Nov 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9004b65768b6412b17de5?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Nov 01 |
 | **[Red Hat](http://www.redhat.com)** | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/68b1e3e31ade4306aa632a63?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 01 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
-| **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f312a09a63986de756eb96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
-| **[Rocket Companies](https://rocket.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6905d25763502c0aded7e55e?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 01 |
-| **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Nov 01 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Hugo Boss Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6905cfe1122e8474c78dc11e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
-| **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f313b69a65fd34585839b4?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Nov 01 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Spring 2026](https://jobright.ai/jobs/info/6905c4c8ff462851fe00032d?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
