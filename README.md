@@ -59,17 +59,14 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PureCreate](https://purecreate.app)** | **[Social Media Intern: "Star-building Program"](https://jobright.ai/jobs/info/6906acea122e8474c78e05fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6906a9b4122e8474c78e05ac?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 01 |
-| **[GenPark](https://genpark.ai)** | **[Research Intern](https://jobright.ai/jobs/info/69069d47122e8474c78e04ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Social Media (Internship)](https://jobright.ai/jobs/info/69068f7363502c0aded82722?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Nightly](https://nightlyhq.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/69068e03122e8474c78e03a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
-| **[Quota's](https://www.linkedin.com/company/109363021)** | **[Market Analyst Intern (College Students)](https://jobright.ai/jobs/info/69067ff163502c0aded82640?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Axia Growth](https://www.axiagrowth.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/69067f70ff462851fe004b40?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Grapevine Pro](https://grapevinepro.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066cbfff462851fe00493e?utm_campaign=1065&utm_source=git)** | Iselin, NJ | On Site | Nov 01 |
 | **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066ad463502c0aded823aa?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 01 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/690669b763502c0aded82333?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 01 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[YouTube Operations Intern, Brand Partnerships & Innovations - Spring 2026](https://jobright.ai/jobs/info/69066278122e8474c78dfe6b?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 01 |
 | ↳ | **[Social Media Intern, Game Show Group - Spring 2026](https://jobright.ai/jobs/info/6906619063502c0aded821d9?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Nov 01 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6906574e122e8474c78dfc91?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690656d963502c0aded82006?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69065517ff462851fe0044e8?utm_campaign=1065&utm_source=git)** | Temple Terrace, FL | On Site | Nov 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6906544aff462851fe0044bd?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Nov 01 |
@@ -124,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Altronica](http://www.altronica.com)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/69063d5aff462851fe00416d?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 01 |
 | **[Randstad](https://www.randstad.nl)** | **[Engagement Coordinator Intern](https://jobright.ai/jobs/info/68fa56ea67272b29af72de99?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Nov 01 |
 | **[Penta Group](https://pentagroup.com)** | **[Media Monitoring Internship - Hawaii Remote](https://jobright.ai/jobs/info/68cb4f1bba798c1a501ce1d1?utm_campaign=1065&utm_source=git)** | Hawaii, United States | Remote | Nov 01 |
+| **[Vision Link Surveillance](http://www.visionlinksurveillance.com)** | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6906bc0aff462851fe0050c2?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 01 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/68e96a9365768b6412b1bc62?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 01 |
 | **[Penta Group](https://pentagroup.com)** | **[Media Monitoring Internship - US Remote](https://jobright.ai/jobs/info/68cb924c9e3a822f5d24860a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Indiana Farm Bureau Insurance](http://www.infarmbureau.com)** | **[Web & SEO Development Intern - Summer 2026](https://jobright.ai/jobs/info/68e412eeb99ec3563b0e559c?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Nov 01 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6905d76cff462851fe000df7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 01 |
 | **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 | ↳ | **[2026 Select Sires, Inc. Internship - Dairy Sire Development and Marketing](https://jobright.ai/jobs/info/6905b80e63502c0aded7d5f5?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
+| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/6905e11dff462851fe001268?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | On Site | Nov 01 |
+| **[Crescent Butte Designs Co](http://www.crescentbuttedesigns.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69060c6263502c0aded8066a?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
