@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PureCreate](https://purecreate.app)** | **[Social Media Intern: "Star-building Program"](https://jobright.ai/jobs/info/6906acea122e8474c78e05fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
+| **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6906a9b4122e8474c78e05ac?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 01 |
+| **[GenPark](https://genpark.ai)** | **[Research Intern](https://jobright.ai/jobs/info/69069d47122e8474c78e04ba?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Social Media (Internship)](https://jobright.ai/jobs/info/69068f7363502c0aded82722?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Nightly](https://nightlyhq.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/69068e03122e8474c78e03a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Quota's](https://www.linkedin.com/company/109363021)** | **[Market Analyst Intern (College Students)](https://jobright.ai/jobs/info/69067ff163502c0aded82640?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 01 |
@@ -77,8 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/690653b263502c0aded81f91?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 01 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/690653a363502c0aded81f8c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Nov 01 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6906535c122e8474c78dfbd1?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 01 |
-| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/69065177ff462851fe00449a?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Nov 01 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69064fc0122e8474c78dfb87?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69064fc0122e8474c78dfb87?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 01 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/69064c9d122e8474c78dfb37?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 01 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/69064c7f122e8474c78dfb2a?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Nov 01 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/69064c7a122e8474c78dfb29?utm_campaign=1065&utm_source=git)** | Arlington, TX | Hybrid | Nov 01 |
@@ -97,9 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Defense Marketing & Events Intern](https://jobright.ai/jobs/info/68e9990165768b6412b1df59?utm_campaign=1065&utm_source=git)** | Wichita, KS | Hybrid | Nov 01 |
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Brand & Marketing Intern 2026](https://jobright.ai/jobs/info/68cdb0f0b2a74e1837edb13f?utm_campaign=1065&utm_source=git)** | Jupiter, FL | On Site | Nov 01 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/68e9cd77cfc08e4908913165?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Nov 01 |
-| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/6906269cff462851fe003b80?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 01 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Integrated Communications Intern - The Sims](https://jobright.ai/jobs/info/68e9c2c954fbf903f6a7e9e5?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Nov 01 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6906219e122e8474c78df121?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 01 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/68e963d165768b6412b1b6a6?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Nov 01 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Ecommerce & CRM Intern, D2C (May to August)](https://jobright.ai/jobs/info/68ce42531ad6b16f028a376b?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Nov 01 |
 | **[Dollar Tree Stores](http://dollartree.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/69061f8aff462851fe003907?utm_campaign=1065&utm_source=git)** | Chesapeake, VA | On Site | Nov 01 |
