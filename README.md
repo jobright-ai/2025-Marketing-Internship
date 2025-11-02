@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 02 |
+| **[Hylant](http://www.hylant.com)** | **[Spring and Summer 2026 Internship: Event Planning and Communications](https://jobright.ai/jobs/info/69073f1d63502c0aded85887?utm_campaign=1065&utm_source=git)** | Toledo, OH | On Site | Nov 02 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/69073d44ff462851fe007d19?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Nov 02 |
+| **[Red Hat](http://www.redhat.com)** | **[Technical Marketing Manager Intern](https://jobright.ai/jobs/info/68b1dff11ade4306aa6326e7?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Nov 02 |
+| ↳ | **[Technical Marketing Manager Intern](https://jobright.ai/jobs/info/68b1e5d4bc187f64e1bd792a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
+| ↳ | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/68ce36f41ad6b16f028a305b?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 02 |
+| ↳ | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/68f538f676a51a4307bd495c?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Nov 02 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68fa71be7959161d33e6366b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6906f551ff462851fe006494?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Lumen Path](https://www.linkedin.com/company/108610660)** | **[Communications Intern](https://jobright.ai/jobs/info/6906deba63502c0aded838ed?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
 | **[PureCreate](https://purecreate.app)** | **[Social Media Intern: "Star-building Program"](https://jobright.ai/jobs/info/6906acea122e8474c78e05fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6906a9b4122e8474c78e05ac?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 01 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Social Media (Internship)](https://jobright.ai/jobs/info/69068f7363502c0aded82722?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Nightly](https://nightlyhq.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/69068e03122e8474c78e03a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Grapevine Pro](https://grapevinepro.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066cbfff462851fe00493e?utm_campaign=1065&utm_source=git)** | Iselin, NJ | On Site | Nov 01 |
 | **[Altered Athletics](alteredathletics.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69066ad463502c0aded823aa?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | Hybrid | Nov 01 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Hugo Boss Fall Internship 2025 - Visual Merchandising](https://jobright.ai/jobs/info/6905cfe1122e8474c78dc11e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 01 |
 | **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/68f313b69a65fd34585839b4?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Nov 01 |
 | **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Content Internship - Spring 2026](https://jobright.ai/jobs/info/6905c4c8ff462851fe00032d?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
-| **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/69071d83122e8474c78e2ba1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 01 |
-| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Intern - Fellowship](https://jobright.ai/jobs/info/6905c48763502c0aded7dd7b?utm_campaign=1065&utm_source=git)** | Concord, NC | On Site | Nov 01 |
-| **[Destination Cleveland](https://www.thisiscleveland.com/)** | **[Social Media Internship - Spring 2026](https://jobright.ai/jobs/info/6905c247122e8474c78db9e0?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 01 |
-| **[BuildingAdvice, Inc.](https://www.buildingadvice.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69064fe3122e8474c78dfb8f?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 01 |
-| **[Gatistavam Softech Pvt. Ltd.](https://www.gatistavamsoftech.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6905dd9863502c0aded7ebd8?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 01 |
-| ↳ | **[Social Media Intern (Remote)](https://jobright.ai/jobs/info/6905d76cff462851fe000df7?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 01 |
-| **[Select Sires Inc.](http://selectsires.com)** | **[2026 Select Sires, Inc. Internship - Corporate Communications](https://jobright.ai/jobs/info/6905b830ff462851fefffb86?utm_campaign=1065&utm_source=git)** | Plain City, OH | On Site | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
