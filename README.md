@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/69086d97e253473bb20f8f3b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Nov 03 |
+| **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/69087945d046ab6061cca792?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Nov 02 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/690859ef63502c0aded8c707?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 02 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/69084b18ff462851fe00e10f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 02 |
 | **[Corewell Health](https://corewellhealth.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6908417b63502c0aded8b5a1?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PSC Biotech® Corporation](http://biotech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68e9633f0930fe0bc4625124?utm_campaign=1065&utm_source=git)** | York, PA | On Site | Nov 01 |
 | **[EXPRESS](http://express.com)** | **[Women's Merchandising Summer Internship](https://jobright.ai/jobs/info/68e9366f9020b95add6a4ccc?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
 | **[Kenvue](https://www.kenvue.com)** | **[2026 - Marketing Summer Intern (Undergraduate)](https://jobright.ai/jobs/info/68c340765adaee6c9bda8c0c?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 01 |
-| **[EXPRESS](http://express.com)** | **[Employer Brand & Recruitment Marketing Summer Internship](https://jobright.ai/jobs/info/68e935a89020b95add6a4ba9?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Nov 01 |
-| **[BNSF Railway](http://www.bnsf.com/)** | **[Marketing (B2B) Summer Intern (Fort Worth, TX) 2026](https://jobright.ai/jobs/info/68b24b381ade4306aa635587?utm_campaign=1065&utm_source=git)** | DFW Metroplex | Hybrid | Nov 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
