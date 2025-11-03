@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[3DA](https://www.3da.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6907ed7463502c0aded899e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Nexren](https://thenexren.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6907d3c063502c0aded8948d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Nov 02 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/6907d213ff462851fe00b761?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 02 |
 | **[Do it Best](http://www.doitbestcorp.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6907ce9fff462851fe00b6fc?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 02 |
@@ -64,12 +65,12 @@ For a complete list, click the following sortable link below:
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2026 Communications Internship](https://jobright.ai/jobs/info/6907c320ff462851fe00b19b?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Spring 2026 Internship Role Business and Creative Role](https://jobright.ai/jobs/info/6907c27f63502c0aded88f7a?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Summer 2026 Development Internship](https://jobright.ai/jobs/info/6907c1ff63502c0aded88de4?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
+| **[Ruby Slipper Restaurant Group](http://rubyslippercafe.com)** | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907be1763502c0aded88b23?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Nov 02 |
+| ↳ | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907bd5063502c0aded88a58?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 02 |
+| ↳ | **[Marketing Intern - Part TIme](https://jobright.ai/jobs/info/6907bc50ff462851fe00aebd?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Nov 02 |
 | **[Azgari LLC](https://azgari.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6907ba2b63502c0aded8898d?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 02 |
-| **[Ruby Slipper Restaurant Group](http://rubyslippercafe.com)** | **[Marketing Intern - Part TIme](https://jobright.ai/jobs/info/6907b968ff462851fe00ac4b?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Nov 02 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2026 Development Internship](https://jobright.ai/jobs/info/6907b8da63502c0aded88712?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
 | ↳ | **[Summer 2026 Communications Internship](https://jobright.ai/jobs/info/6907b7c6ff462851fe00ab72?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 02 |
-| **[Ruby Slipper Restaurant Group](http://rubyslippercafe.com)** | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907a932122e8474c78e5ef7?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Nov 02 |
-| ↳ | **[Marketing Intern - Part Time](https://jobright.ai/jobs/info/6907a640122e8474c78e5e30?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 02 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media & Brand Marketing Associate (Intern)](https://jobright.ai/jobs/info/6907a32e63502c0aded8821c?utm_campaign=1065&utm_source=git)** | Charleston, SC | Remote | Nov 02 |
 | **[MaMu](mamuedu.com)** | **[🎤 MaMu Social Media & Storytelling Intern](https://jobright.ai/jobs/info/69079f90ff462851fe00a5d5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 02 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b259691ade4306aa635c88?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Nov 02 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Manager Intern](https://jobright.ai/jobs/info/68f538f676a51a4307bd495c?utm_campaign=1065&utm_source=git)** | Durham, NC | On Site | Nov 02 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/68fa71be7959161d33e6366b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 02 |
 | **[Lumen Path](https://www.linkedin.com/company/108610660)** | **[Communications Intern](https://jobright.ai/jobs/info/6906deba63502c0aded838ed?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Nov 01 |
-| **[PureCreate](https://purecreate.app)** | **[Social Media Intern: "Star-building Program"](https://jobright.ai/jobs/info/6906acea122e8474c78e05fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 01 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6906a9b4122e8474c78e05ac?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 01 |
 | **[Nightly](https://nightlyhq.com/)** | **[Brand Ambassador](https://jobright.ai/jobs/info/69068e03122e8474c78e03a7?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 01 |
 | **[Bins Storage](http://www.bins-storage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69075bb2122e8474c78e42fe?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 01 |
