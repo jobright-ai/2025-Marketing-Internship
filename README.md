@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/6909a43cbcccf20de59dcefc?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Nov 03 |
+| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6909a39cbcccf20de59dce9e?utm_campaign=1065&utm_source=git)** | Westerville, OH | Hybrid | Nov 03 |
+| ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6909a31cd046ab6061cd718d?utm_campaign=1065&utm_source=git)** | Westerville, OH | Hybrid | Nov 03 |
 | **[Heartland School Security Association](https://www.facebook.com/share/1B3EQLtTft/?mibextid=wwXIfr)** | **[Social Media Manager Internship (Unpaid)](https://jobright.ai/jobs/info/6909934dbcccf20de59dc90e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[Public Relations & Marketing Intern Position](https://jobright.ai/jobs/info/6909930dbcccf20de59dc8ce?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
 | **[SKIP IT.](https://skipit.tech/)** | **[Content Lead (Short-Form Strategy + Intern Oversight)](https://jobright.ai/jobs/info/6909913fbcccf20de59dc7a9?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 03 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690924d94a1b456627afd2c5?utm_campaign=1065&utm_source=git)** | Neenah, WI | Hybrid | Nov 03 |
 | **[Ever.Ag](https://www.ever.ag)** | **[Market Advisor Intern](https://jobright.ai/jobs/info/6909246fbcccf20de59d7d55?utm_campaign=1065&utm_source=git)** | Ames, IA | On Site | Nov 03 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate Marketing Intern - Transportation & Electronics Business Group (TEBG)](https://jobright.ai/jobs/info/690923c3d046ab6061cd1fb9?utm_campaign=1065&utm_source=git)** | US, Minnesota, Maplewood | On Site | Nov 03 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Game Show Network, Social Media/PR Department Spring 2026 (Santa Monica)](https://jobright.ai/jobs/info/690923a34a1b456627afd150?utm_campaign=1065&utm_source=git)** | Santa Monica, California | On Site | Nov 03 |
 | **[Olsson](https://www.olsson.com)** | **[Marketing Student Internship](https://jobright.ai/jobs/info/69092219bcccf20de59d7a92?utm_campaign=1065&utm_source=git)** | Springfield, MO | Hybrid | Nov 03 |
 | **[BioSpace](http://www.biospace.com/)** | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/690921624a1b456627afce8c?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 03 |
 | **[Groupe Clarins](http://www.groupeclarins.com)** | **[Intern, Marketing - Makeup & Treatment](https://jobright.ai/jobs/info/69091e5d4a1b456627afca39?utm_campaign=1065&utm_source=git)** | New York, NY, US | Hybrid | Nov 03 |
@@ -141,7 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global R&D Communications, Change, and Enablement Intern](https://jobright.ai/jobs/info/69090d48d046ab6061cd0bb0?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Social Media Operations Intern (AI Content) — Chinese Speaker](https://jobright.ai/jobs/info/69090b69d046ab6061cd09cb?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 03 |
 | **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/69090b5fbcccf20de59d6646?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | Hybrid | Nov 03 |
-| **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Omnichannel Marketing Intern](https://jobright.ai/jobs/info/69090b2c4a1b456627afbada?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Game Show Network, Social Media/PR Department Spring 2026 (Santa Monica)](https://jobright.ai/jobs/info/69092e9ed046ab6061cd286e?utm_campaign=1065&utm_source=git)** | Santa Monica, California | On Site | Nov 03 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[Global Oncology Marketing Intern](https://jobright.ai/jobs/info/6909091cd046ab6061cd0835?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
 | **[Catalyst House](https://catalyst.house)** | **[Public Relations Internship (US only, unpaid)](https://jobright.ai/jobs/info/690904f9d046ab6061cd03c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Investor Relations Intern, Strategy & Communications Summer Internship Program 2026](https://jobright.ai/jobs/info/6908ff484a1b456627afaf6d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 03 |
 | **[YINAN NEW YORK](yinan.us)** | **[PR Internship_2025-2026](https://jobright.ai/jobs/info/6908fef0bcccf20de59d5a4a?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Nov 03 |
 | **[Daiichi Sankyo US](https://daiichisankyo.us)** | **[US Marketing Intern](https://jobright.ai/jobs/info/69091c07bcccf20de59d744a?utm_campaign=1065&utm_source=git)** | Basking Ridge, NJ | On Site | Nov 03 |
-| **[German American Chamber of Commerce, Inc.](http://www.gaccny.com)** | **[Marketing Events Intern (Atlanta Office)](https://jobright.ai/jobs/info/6908fdccd046ab6061ccfe3c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 03 |
-| **[DEFENSEWERX](https://defensewerx.org)** | **[Marketing, Communication, and Events Intern](https://jobright.ai/jobs/info/6908fd99d046ab6061ccfe1a?utm_campaign=1065&utm_source=git)** | Vicksburg, Mississippi, United States | On Site | Nov 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
