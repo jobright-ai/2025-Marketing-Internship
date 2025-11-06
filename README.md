@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CVS Health](https://www.cvshealth.com/)** | **[Marketing Strategy MBA Corporate Internship - Summer 2026 (Graduate)](https://jobright.ai/jobs/info/690c897dd046ab6061cee171?utm_campaign=1065&utm_source=git)** | Woonsocket, RI | Hybrid | Nov 06 |
+| **[TKO](https://tkogrp.com)** | **[Consumer Products Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/68eff147de50091dbfa50fc0?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Nov 06 |
+| **[brandRUSSO](http://brandrusso.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690c86fa4a1b456627b1915b?utm_campaign=1065&utm_source=git)** | Lafayette, LA | Hybrid | Nov 06 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
+| **[South Bay Cities Council of Governments (SBCCOG)](https://southbaycities.org)** | **[(CLOSED) South Bay Cities Council of Governments – Communications Intern](https://jobright.ai/jobs/info/690c78814a1b456627b18a8f?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Nov 06 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social media intern-fashion marketing](https://jobright.ai/jobs/info/690c728e4a1b456627b187dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 06 |
 | **[Rock Lititz](https://rocklititz.com)** | **[Community Development & Event Production Internship](https://jobright.ai/jobs/info/690c6495221b890c277fd575?utm_campaign=1065&utm_source=git)** | Lititz, PA | On Site | Nov 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/690c61e9221b890c277fd410?utm_campaign=1065&utm_source=git)** | Lititz, PA | On Site | Nov 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/690c6164221b890c277fd3c3?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 06 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[Outreach & Marketing Student Assistant](https://jobright.ai/jobs/info/690c51ad4a1b456627b17847?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 05 |
 | ↳ | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/690c3d91d046ab6061cec056?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 05 |
+| **[Tidewater Consulting](https://www.tidewaterconsultinginc.com/)** | **[Paid Internship / Marketing and Communications](https://jobright.ai/jobs/info/690c7aa34a1b456627b18c08?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 05 |
 | **[Insilico Medicine](http://www.insilico.com)** | **[Internship Opportunity: AI & Longevity Industry – Communications, PR, and Strategy (3-Month Program)](https://jobright.ai/jobs/info/690c36b4d046ab6061cebe88?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 05 |
 | **[True Crime Story Magazine](https://truecrimestorymagazine.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/690c32f14a1b456627b16de9?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 05 |
 | **[LytteAI Inc](https://www.lytte.ai)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690c32d9d046ab6061cebbf7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 05 |
@@ -114,6 +121,7 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Marketing Intern - Competitive Intelligence](https://jobright.ai/jobs/info/690bd7ee4a1b456627b13979?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 05 |
 | **[Scale Media](https://scalemedia.com)** | **[Creator Marketing Intern](https://jobright.ai/jobs/info/690bd71a221b890c277f8f6d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 05 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/690bf317d046ab6061ce96d3?utm_campaign=1065&utm_source=git)** | Grove City, PA | On Site | Nov 05 |
+| **[Northwest Bank](https://www.northwest.bank)** | **[Marketing Intern](https://jobright.ai/jobs/info/690bd2854a1b456627b133fa?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 05 |
 | **[CVS Health](https://www.cvshealth.com/)** | **[Marketing Strategy MBA Corporate Internship - Summer 2026 (Graduate)](https://jobright.ai/jobs/info/690bd221221b890c277f8a58?utm_campaign=1065&utm_source=git)** | RI - Woonsocket | Hybrid | Nov 05 |
 | **[CN Guidance and Counseling Services, Inc](https://centralnassau.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/690bcd7f221b890c277f87de?utm_campaign=1065&utm_source=git)** | Hicksville, NY | On Site | Nov 05 |
 | **[DoStuff](http://dostuffmedia.com/)** | **[DoStuff Texas Intern, Spring 2026](https://jobright.ai/jobs/info/690bcc4cd046ab6061ce7f3a?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 05 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Galaxy](https://www.galaxy.com)** | **[2026 Marketing Intern - NYC](https://jobright.ai/jobs/info/690bb0d4221b890c277f7030?utm_campaign=1065&utm_source=git)** | New York | On Site | Nov 05 |
 | **[Iron Mountain](http://www.ironmountain.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690bb0a4221b890c277f700b?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 05 |
 | **[Chicago White Sox](https://www.mlb.com/whitesox)** | **[Public Relations Internship](https://jobright.ai/jobs/info/690bb007d046ab6061ce67c1?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 05 |
-| **[Autism Speaks](https://www.autismspeaks.org/)** | **[2 Spring Events Interns (Columbus & Pittsburgh locations)](https://jobright.ai/jobs/info/68ec9a4cd4b0106e703ea44d?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 05 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing-1](https://jobright.ai/jobs/info/690bafad221b890c277f6f10?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 05 |
-| **[Wattpad](https://www.wattpad.com)** | **[[WEBTOON] Brand & Partnerships Marketing Intern](https://jobright.ai/jobs/info/690baf7dd046ab6061ce676e?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 05 |
-| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Digital Marketing Intern - Spring 2026 (2)](https://jobright.ai/jobs/info/690baecc4a1b456627b11908?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | Remote | Nov 05 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Minnesota Twin Cities](https://jobright.ai/jobs/info/690be02dd046ab6061ce8d20?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Nov 05 |
-| **[Autism Speaks](https://www.autismspeaks.org/)** | **[2 Spring Event Interns (Chicago and St. Louis locations)](https://jobright.ai/jobs/info/690a2544d046ab6061cd985e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 05 |
-| **[USAFacts](https://www.usafacts.org)** | **[Summer Intern](https://jobright.ai/jobs/info/690bcc564a1b456627b13026?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Nov 05 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Amlitelimab Marketing](https://jobright.ai/jobs/info/690bc901221b890c277f828a?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
