@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blanchard Machinery](http://blanchardmachinery.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/690eef63d046ab6061d02380?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Nov 07 |
+| **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Social Media](https://jobright.ai/jobs/info/68f91cdfcadb2e5a06a61466?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Nov 07 |
+| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/690eda92221b890c27812391?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 07 |
 | **[grangou app](https://www.grangouapp.com/)** | **[Growth & Content Intern](https://jobright.ai/jobs/info/690ecd3dd046ab6061d01521?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Western National Insurance](https://wnins.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68eca33dd4b0106e703eb4cd?utm_campaign=1065&utm_source=git)** | Edina, MN | Hybrid | Nov 07 |
 | **[Arul Health](https://www.arulhealth.com)** | **[Outreach/Growth Intern (Oncology Centers)](https://jobright.ai/jobs/info/690ec78244146d3b6ec57c1b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
@@ -92,12 +95,12 @@ For a complete list, click the following sortable link below:
 | **[Ardent Privacy](https://ardentprivacy.ai/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690e80b4221b890c2780eb7d?utm_campaign=1065&utm_source=git)** | Baltimore City County, MD | Hybrid | Nov 07 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Services Intern - June 2026](https://jobright.ai/jobs/info/690e7f00221b890c2780ea67?utm_campaign=1065&utm_source=git)** | Framingham, MA, United States | On Site | Nov 07 |
 | **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/690eb996221b890c278111ed?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Neptune Ops](https://www.neptuneops.com)** | **[Digital Campaign Internship](https://jobright.ai/jobs/info/690e90ba44146d3b6ec5584b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Tales of the Cocktail Foundation](https://talesofthecocktail.org/)** | **[2026 Marketing Internship (Paid)](https://jobright.ai/jobs/info/690e7addd046ab6061cfe14c?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Nov 07 |
 | **[Continental Properties](http://www.cproperties.com/)** | **[Paid Summer Marketing Intern](https://jobright.ai/jobs/info/6905370c122e8474c78d795b?utm_campaign=1065&utm_source=git)** | Menomonee Falls, WI | Hybrid | Nov 07 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/690e79fad046ab6061cfe095?utm_campaign=1065&utm_source=git)** | San Diego | Hybrid | Nov 07 |
+| **[Neptune Ops](https://www.neptuneops.com)** | **[Digital Campaign Internship - Full Time](https://jobright.ai/jobs/info/690e90ba44146d3b6ec5584b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Signify](https://www.signify.com)** | **[Technical Marketing Intern, Intelligent Lighting Controls/Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/690e790f44146d3b6ec54a55?utm_campaign=1065&utm_source=git)** | Eden Prairie | On Site | Nov 07 |
-| ↳ | **[Technical Marketing Intern, Intelligent Lighting Controls/Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/690e77b8d046ab6061cfde9b?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Nov 07 |
+| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/690e788144146d3b6ec549d5?utm_campaign=1065&utm_source=git)** | San Diego | Hybrid | Nov 07 |
+| **[Signify](https://www.signify.com)** | **[Technical Marketing Intern, Intelligent Lighting Controls/Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/690e77b8d046ab6061cfde9b?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Nov 07 |
 | **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - Cleveland ICG](https://jobright.ai/jobs/info/690e758844146d3b6ec5479d?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 07 |
 | **[RBC](https://www.rbc.com)** | **[2026  GAM Digital Marketing Summer Internship - USWM](https://jobright.ai/jobs/info/690188c24539ea1f2142102a?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 07 |
 | **[BakerRipley](https://www.bakerripley.org)** | **[Administrative Intern (Marketing & Communications) (668)](https://jobright.ai/jobs/info/68fa5ef87959161d33e627aa?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 07 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[MEMX](http://www.memx.com/)** | **[Market Technology and Member Experience Intern, Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/690e6322d046ab6061cfcfac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Merchandising Planning Intern](https://jobright.ai/jobs/info/68eec6aa46e5b153e5a5fc19?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
 | **[CIPIO.ai](https://cipio.ai/)** | **[UGC Creator Acquisition Intern](https://jobright.ai/jobs/info/690e852dd046ab6061cfe748?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Dean Street Consulting](https://www.linkedin.com/company/75478618)** | **[Intern](https://jobright.ai/jobs/info/690e805e44146d3b6ec54e96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Talks Brand Group](https://www.talksbrandgroup.com/)** | **[Virtual Social Media Intern](https://jobright.ai/jobs/info/690e7bb8221b890c2780e8cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690e83cf221b890c2780ee22?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 07 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Merchandising Buying Intern](https://jobright.ai/jobs/info/68eec62746e5b153e5a5fab6?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BitNest Solutions](https://www.linkedin.com/company/91022948)** | **[Communications Intern](https://jobright.ai/jobs/info/690e3cdcd046ab6061cfb8ac?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Remote | Nov 07 |
 | **[BorderX Lab](https://www.borderxlab.com/)** | **[Intern of BeyondStyle Demand Growth](https://jobright.ai/jobs/info/690e6beed046ab6061cfd640?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
 | **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/690e5bfa221b890c2780d242?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Nov 07 |
-| **[National Life Group](https://www.nationallife.com)** | **[Distribution Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690e3b38d046ab6061cfb770?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Nov 07 |
-| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Spring 2026](https://jobright.ai/jobs/info/690e62e044146d3b6ec538ae?utm_campaign=1065&utm_source=git)** | Boston | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
