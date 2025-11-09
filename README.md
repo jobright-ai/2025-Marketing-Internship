@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/691109fabb519377733edfc2?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 09 |
+| **[LPP Media](https://lppmedia.com)** | **[🚀 Marketing Intern – Storytelling, Engagement & Video (Remote)](https://jobright.ai/jobs/info/69110153988c2b7b4ec535ed?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
+| **[East-West](https://www.eastwest.org)** | **[Internal Communications Internship](https://jobright.ai/jobs/info/6910fe36183be660d267a96f?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 09 |
+| **[iSoftpull](https://www.isoftpull.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6910fc74988c2b7b4ec53531?utm_campaign=1065&utm_source=git)** | Carlsbad, TX | On Site | Nov 09 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Communications Intern](https://jobright.ai/jobs/info/6910f335183be660d267a703?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 09 |
+| **[Hikaflow (FU-W25)](hikaflow.com)** | **[Marketing And Promotions Intern](https://jobright.ai/jobs/info/6910f32ebb519377733edc4b?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Nov 09 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6910f244bb519377733edc10?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 09 |
 | **[HealthLinks Marketing](https://healthlinksmarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6910e94b183be660d267a424?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Nov 09 |
 | **[WS Development](http://wsdevelopment.com)** | **[Intern, MarketStreet](https://jobright.ai/jobs/info/6910e361183be660d267a166?utm_campaign=1065&utm_source=git)** | Lynnfield, MA | On Site | Nov 09 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6910df16bb519377733ed564?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b2a49a65fd345857fc90?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Nov 08 |
 | **[John Deere](https://www.deere.com)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/68ba416a5f38327491865902?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 08 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern - Santa Clara](https://jobright.ai/jobs/info/68b9e02d8043103d4f21b20b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b0fc76a51a4307bc6c21?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
-| **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - Web Technology and Platforms](https://jobright.ai/jobs/info/68c8cc1f95f5211cd2ce9752?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
-| **[Arup](http://www.arup.com)** | **[Marketing Intern (Available June 2026)](https://jobright.ai/jobs/info/6906768e63502c0aded8256a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
-| **[Amway](http://www.amway.com)** | **[Digital Marketing Intern, Summer 2026 (42270)](https://jobright.ai/jobs/info/68ba235d8043103d4f21dc26?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Nov 08 |
-| ↳ | **[Digital Content Intern, Summer 2026 (42291)](https://jobright.ai/jobs/info/68ba25e35f38327491864618?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Nov 08 |
-| **[Texas Instruments](http://www.ti.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68c8c012983e6768bc5511fe?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
-| ↳ | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6fe39d3fe025a3015db13?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
