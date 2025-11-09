@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research and Data Analysis Intern](https://jobright.ai/jobs/info/69109663183be660d2679608?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Nov 09 |
+| **[Harris](https://www.harriscompany.com/)** | **[Marketing + Communications Intern](https://jobright.ai/jobs/info/68d7016445853d0e39ccbfca?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Nov 09 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Market Research Intern](https://jobright.ai/jobs/info/6910917abb519377733ec9e9?utm_campaign=1065&utm_source=git)** | Kentucky, United States | Remote | Nov 09 |
+| **[Motion](https://www.motion.com)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/68ec6677bb72c377a5513359?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Nov 09 |
 | **[Quill](http://www.quill.com)** | **[Quill eCommerce Engineer Intern - June 2026](https://jobright.ai/jobs/info/68d8094e7a37c712687d7e46?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 09 |
 | **[TruStage](https://www.trustage.com/)** | **[Creative Services - Copywriter Intern (Hybrid)](https://jobright.ai/jobs/info/68d50a582ed36439e51e45d4?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Nov 09 |
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 09 |
@@ -70,7 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/690fe1a1bb519377733e9dec?utm_campaign=1065&utm_source=git)** | San Mateo, California, United States | On Site | Nov 08 |
 | **[Finvest](https://getfinvest.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/690fdd69183be660d267689c?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/690fc873bb519377733e9c48?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 08 |
-| **[TESO LIFE](https://www.tesolife.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690fc19f183be660d26766d0?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 08 |
+| **[TESO Life](https://www.tesolife.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690fc19f183be660d26766d0?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690fafc1bb519377733e9a4e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/690fafbabb519377733e9a4a?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/690faf99183be660d2676540?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
@@ -134,7 +138,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Intern, Summer 2026 (42291)](https://jobright.ai/jobs/info/68ba25e35f38327491864618?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Nov 08 |
 | **[Texas Instruments](http://www.ti.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68c8c012983e6768bc5511fe?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | ↳ | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6fe39d3fe025a3015db13?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
-| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/690f200a44146d3b6ec5a44c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6906740a63502c0aded82557?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Product Marketing Intern- Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69106987988c2b7b4ec51b24?utm_campaign=1065&utm_source=git)** | Georgia, United States | On Site | Nov 08 |
 | **[Berri Goldfarb Public Relations](https://www.berrigoldfarbpr.com)** | **[Fashion Public Relations Intern](https://jobright.ai/jobs/info/690f02d9d046ab6061d02b6d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Nov 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/690ea2f544146d3b6ec5638c?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Nov 07 |
 | **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Near-Peer Internship](https://jobright.ai/jobs/info/690ea1c744146d3b6ec56242?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
 | **[Lindsay Precast](http://lindsayprecast.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690bc086221b890c277f7bb4?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 07 |
-| **[East-West](https://www.eastwest.org)** | **[Internal Communications Internship](https://jobright.ai/jobs/info/690e9faf221b890c2780ff5c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 07 |
-| **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/690e9a4b221b890c2780fbcd?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern - Summer 2026](https://jobright.ai/jobs/info/690e99e3221b890c2780fb5b?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
