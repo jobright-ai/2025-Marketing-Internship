@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ALTINAD](https://www.altinad.com)** | **[Investor Relations Intern - Miami / Remote](https://jobright.ai/jobs/info/69105065bb519377733eb747?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Nov 09 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Monarch Watch Communications Assistant (Student Position)](https://jobright.ai/jobs/info/691049d7183be660d26781a7?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/69102b62bb519377733eaf79?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Nov 08 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[DIVISION MARKETING CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68c0770e702aa35207aad424?utm_campaign=1065&utm_source=git)** | Erlanger, KY | On Site | Nov 08 |
 | **[PeopleLinx](http://www.peoplelinx.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/690ff0d7183be660d2676a3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teli.Ai](https://www.linkedin.com/company/98065282)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/690e90de44146d3b6ec55862?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/690eba8b44146d3b6ec573cb?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
 | **[Intrinsic Development](https://www.id.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/690e8e91221b890c2780f488?utm_campaign=1065&utm_source=git)** | Lees Summit, MO | On Site | Nov 07 |
-| **[TickerTrends](https://www.tickertrends.io/)** | **[Client Relations & Operations Associate](https://jobright.ai/jobs/info/690e8c3c221b890c2780f317?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
-| **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Teen Intern](https://jobright.ai/jobs/info/690eb3bc221b890c27810dbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
