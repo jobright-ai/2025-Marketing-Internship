@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Quill](http://www.quill.com)** | **[Quill eCommerce Engineer Intern - June 2026](https://jobright.ai/jobs/info/68d8094e7a37c712687d7e46?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Nov 09 |
+| **[TruStage](https://www.trustage.com/)** | **[Creative Services - Copywriter Intern (Hybrid)](https://jobright.ai/jobs/info/68d50a582ed36439e51e45d4?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Nov 09 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 09 |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Communications](https://jobright.ai/jobs/info/68bb47946105227d118a4d40?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 09 |
+| **[John Deere](https://www.deere.com)** | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/68cd0835e23def7af55b3982?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 09 |
 | **[ALTINAD](https://www.altinad.com)** | **[Investor Relations Intern - Miami / Remote](https://jobright.ai/jobs/info/69105065bb519377733eb747?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Nov 09 |
 | **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Monarch Watch Communications Assistant (Student Position)](https://jobright.ai/jobs/info/691049d7183be660d26781a7?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 08 |
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/69102b62bb519377733eaf79?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Nov 08 |
@@ -131,6 +136,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Marketing Intern - Product Portfolio Marketing](https://jobright.ai/jobs/info/68d6fe39d3fe025a3015db13?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/690f200a44146d3b6ec5a44c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 08 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6906740a63502c0aded82557?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Product Marketing Intern- Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69106987988c2b7b4ec51b24?utm_campaign=1065&utm_source=git)** | Georgia, United States | On Site | Nov 08 |
 | **[Berri Goldfarb Public Relations](https://www.berrigoldfarbpr.com)** | **[Fashion Public Relations Intern](https://jobright.ai/jobs/info/690f02d9d046ab6061d02b6d?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Nov 08 |
 | **[Kennedy-Donovan Center](https://www.kdc.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/690efc35d046ab6061d028ee?utm_campaign=1065&utm_source=git)** | Foxborough (Foxboro), MA | On Site | Nov 08 |
 | **[Blanchard Machinery](http://blanchardmachinery.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/690eef63d046ab6061d02380?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Nov 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[East-West](https://www.eastwest.org)** | **[Internal Communications Internship](https://jobright.ai/jobs/info/690e9faf221b890c2780ff5c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 07 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/690e9a4b221b890c2780fbcd?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern - Summer 2026](https://jobright.ai/jobs/info/690e99e3221b890c2780fb5b?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
-| **[Golpo (YC S25)](https://video.golpoai.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690e9855221b890c2780f9ad?utm_campaign=1065&utm_source=git)** | Stanford, CA | On Site | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690e972244146d3b6ec55ae5?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
-| **[Ajenda Public Relations](http://www.ajendapr.com)** | **[Spring 2026 Creative Marketing Internship](https://jobright.ai/jobs/info/690e911844146d3b6ec5587f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
-| **[Teli.Ai](https://www.linkedin.com/company/98065282)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/690e90de44146d3b6ec55862?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Nov 07 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/690eba8b44146d3b6ec573cb?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
-| **[Intrinsic Development](https://www.id.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/690e8e91221b890c2780f488?utm_campaign=1065&utm_source=git)** | Lees Summit, MO | On Site | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
