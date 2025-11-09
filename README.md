@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fischer Homes](http://fischerhomes.com)** | **[DIVISION MARKETING CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68c0770e702aa35207aad424?utm_campaign=1065&utm_source=git)** | Erlanger, KY | On Site | Nov 08 |
 | **[PeopleLinx](http://www.peoplelinx.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/690ff0d7183be660d2676a3c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/690fe1a1bb519377733e9dec?utm_campaign=1065&utm_source=git)** | San Mateo, California, United States | On Site | Nov 08 |
 | **[Finvest](https://getfinvest.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/690fdd69183be660d267689c?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 08 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Lindt & Sprüngli USA](https://www.lindtusa.com)** | **[Brand Management MBA Intern](https://jobright.ai/jobs/info/690ea3ce221b890c278102a6?utm_campaign=1065&utm_source=git)** | Stratham, NH | On Site | Nov 07 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/690ea2f544146d3b6ec5638c?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Nov 07 |
 | **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Near-Peer Internship](https://jobright.ai/jobs/info/690ea1c744146d3b6ec56242?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
+| **[Lindsay Precast](http://lindsayprecast.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690bc086221b890c277f7bb4?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Hybrid | Nov 07 |
 | **[East-West](https://www.eastwest.org)** | **[Internal Communications Internship](https://jobright.ai/jobs/info/690e9faf221b890c2780ff5c?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 07 |
 | **[LPL Financial](https://www.lpl.com)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/690e9a4b221b890c2780fbcd?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Nov 07 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern - Summer 2026](https://jobright.ai/jobs/info/690e99e3221b890c2780fb5b?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Development](https://www.id.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/690e8e91221b890c2780f488?utm_campaign=1065&utm_source=git)** | Lees Summit, MO | On Site | Nov 07 |
 | **[TickerTrends](https://www.tickertrends.io/)** | **[Client Relations & Operations Associate](https://jobright.ai/jobs/info/690e8c3c221b890c2780f317?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
 | **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Teen Intern](https://jobright.ai/jobs/info/690eb3bc221b890c27810dbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
-| **[Kennedy-Donovan Center](https://www.kdc.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/690ec758d046ab6061d0121b?utm_campaign=1065&utm_source=git)** | Foxboro, MA | Hybrid | Nov 07 |
-| **[Groq](http://groq.com)** | **[Events & Partnerships Intern](https://jobright.ai/jobs/info/690ea71c44146d3b6ec566bb?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
