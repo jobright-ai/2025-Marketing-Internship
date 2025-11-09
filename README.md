@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Kentucky](https://careers.ky.gov/)** | **[Team Kentucky Internship Program - Tourism, Arts, & Heritage - Social Media](https://jobright.ai/jobs/info/68f91cdfcadb2e5a06a61466?utm_campaign=1065&utm_source=git)** | Frankfort, KY | On Site | Nov 07 |
 | **[grangou app](https://www.grangouapp.com/)** | **[Growth & Content Intern](https://jobright.ai/jobs/info/690ecd3dd046ab6061d01521?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 07 |
 | **[Western National Insurance](https://wnins.com)** | **[Communications Intern](https://jobright.ai/jobs/info/68eca33dd4b0106e703eb4cd?utm_campaign=1065&utm_source=git)** | Edina, MN | Hybrid | Nov 07 |
-| **[Arul Health](https://www.arulhealth.com)** | **[Outreach/Growth Intern (Oncology Centers)](https://jobright.ai/jobs/info/690ec78244146d3b6ec57c1b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 07 |
 | **[LV Collective](https://lvcollective.com)** | **[Brand Ambassador Intern / Rambler Ann Arbor](https://jobright.ai/jobs/info/690ec5af221b890c27811922?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Nov 07 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Science Communication Intern](https://jobright.ai/jobs/info/690ec1e744146d3b6ec578f2?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Nov 07 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Barry University](https://jobright.ai/jobs/info/690ebaa444146d3b6ec573d5?utm_campaign=1065&utm_source=git)** | Miami, FL | On Site | Nov 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Development](https://www.id.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/690e8e91221b890c2780f488?utm_campaign=1065&utm_source=git)** | Lees Summit, MO | On Site | Nov 07 |
 | **[TickerTrends](https://www.tickertrends.io/)** | **[Client Relations & Operations Associate](https://jobright.ai/jobs/info/690e8c3c221b890c2780f317?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
 | **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Teen Intern](https://jobright.ai/jobs/info/690eb3bc221b890c27810dbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
+| **[Kennedy-Donovan Center](https://www.kdc.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/690ec758d046ab6061d0121b?utm_campaign=1065&utm_source=git)** | Foxboro, MA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
