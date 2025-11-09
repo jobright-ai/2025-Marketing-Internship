@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/690fc873bb519377733e9c48?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 08 |
+| **[TESO LIFE](https://www.tesolife.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690fc19f183be660d26766d0?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690fafc1bb519377733e9a4e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/690fafbabb519377733e9a4a?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/690faf99183be660d2676540?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Marketing Intern](https://jobright.ai/jobs/info/68bb7a2d8043103d4f228e38?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
 | ↳ | **[Global E-Commerce Marketing Intern](https://jobright.ai/jobs/info/68e213e51852e62f007f5860?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68ce5ca0846f0b04af679246?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 08 |
-| **[Kyndrix](https://www.linkedin.com/company/101602118)** | **[Marketing Intern](https://jobright.ai/jobs/info/690f5a4644146d3b6ec5b777?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 08 |
 | **[Ibotta](https://home.ibotta.com)** | **[Consumer Lifecycle Marketing Intern](https://jobright.ai/jobs/info/68d7078c894705799a2efe59?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Nov 08 |
 | **[Randstad](https://www.randstad.nl)** | **[Engagement Coordinator Intern](https://jobright.ai/jobs/info/690f4dedd046ab6061d048eb?utm_campaign=1065&utm_source=git)** | Malvern, PA | Hybrid | Nov 08 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f320a49a63986de756f564?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Nov 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TickerTrends](https://www.tickertrends.io/)** | **[Client Relations & Operations Associate](https://jobright.ai/jobs/info/690e8c3c221b890c2780f317?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 07 |
 | **[VOX ATL](https://voxatl.org)** | **[Social Media & Communications Teen Intern](https://jobright.ai/jobs/info/690eb3bc221b890c27810dbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 07 |
 | **[Kennedy-Donovan Center](https://www.kdc.org)** | **[Development & Communications Intern](https://jobright.ai/jobs/info/690ec758d046ab6061d0121b?utm_campaign=1065&utm_source=git)** | Foxboro, MA | Hybrid | Nov 07 |
-| **[Groq](http://groq.com)** | **[Events & Partnerships Intern](https://jobright.ai/jobs/info/690ea71c44146d3b6ec566bb?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
