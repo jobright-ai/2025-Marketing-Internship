@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[westhaus](http://www.westhausgroup.com)** | **[Event Intern](https://jobright.ai/jobs/info/69116496183be660d267bb57?utm_campaign=1065&utm_source=git)** | United States | On Site | Nov 09 |
+| **[uInterview, Inc.](http://uinterview.com)** | **[Writing & Social Media Intern](https://jobright.ai/jobs/info/69116277bb519377733eedfd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 09 |
+| **[Style On The Spot](http://www.StyleOnTheSpot.com)** | **[Healthcare Social Media Intern](https://jobright.ai/jobs/info/6911609e183be660d267b904?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Nov 09 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Merchandising Buying Intern](https://jobright.ai/jobs/info/69115603988c2b7b4ec5408d?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 09 |
 | **[Insilico Medicine](http://www.insilico.com)** | **[Internship Opportunity: AI & Longevity Industry – Communications, PR, and Strategy (3-Month Program)](https://jobright.ai/jobs/info/6911510e183be660d267b36c?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 09 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69110e60bb519377733ee054?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Nov 09 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Finvest](https://getfinvest.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/690fdd69183be660d267689c?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 08 |
 | **[Swagelok](http://www.swagelok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68bb3ff78043103d4f227053?utm_campaign=1065&utm_source=git)** | Solon, OH | On Site | Nov 08 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/690fc873bb519377733e9c48?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 08 |
-| **[TESO Life](https://www.tesolife.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/690fc19f183be660d26766d0?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 08 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/690fafc1bb519377733e9a4e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/690fafbabb519377733e9a4a?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/690faf99183be660d2676540?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b9ab76a51a4307bc79d8?utm_campaign=1065&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 08 |
 | ↳ | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b35f9a63986de756af47?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 08 |
 | ↳ | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b2a49a65fd345857fc90?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Nov 08 |
-| **[John Deere](https://www.deere.com)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/68ba416a5f38327491865902?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 08 |
-| **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern - Santa Clara](https://jobright.ai/jobs/info/68b9e02d8043103d4f21b20b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
