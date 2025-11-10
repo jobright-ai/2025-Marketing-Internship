@@ -57,18 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69110e60bb519377733ee054?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Nov 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Research Intern](https://jobright.ai/jobs/info/691109fabb519377733edfc2?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 09 |
 | **[LPP Media](https://lppmedia.com)** | **[🚀 Marketing Intern – Storytelling, Engagement & Video (Remote)](https://jobright.ai/jobs/info/69110153988c2b7b4ec535ed?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
 | **[East-West](https://www.eastwest.org)** | **[Internal Communications Internship](https://jobright.ai/jobs/info/6910fe36183be660d267a96f?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 09 |
 | **[iSoftpull](https://www.isoftpull.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6910fc74988c2b7b4ec53531?utm_campaign=1065&utm_source=git)** | Carlsbad, TX | On Site | Nov 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Communications Intern](https://jobright.ai/jobs/info/6910f335183be660d267a703?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 09 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Marketing And Promotions Intern](https://jobright.ai/jobs/info/6910f32ebb519377733edc4b?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Nov 09 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6910f244bb519377733edc10?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 09 |
 | **[HealthLinks Marketing](https://healthlinksmarketing.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6910e94b183be660d267a424?utm_campaign=1065&utm_source=git)** | Mount Pleasant, SC | On Site | Nov 09 |
 | **[WS Development](http://wsdevelopment.com)** | **[Intern, MarketStreet](https://jobright.ai/jobs/info/6910e361183be660d267a166?utm_campaign=1065&utm_source=git)** | Lynnfield, MA | On Site | Nov 09 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6910df16bb519377733ed564?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 09 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6910db53183be660d267a000?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 09 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/6910d24cbb519377733ed2ff?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 09 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6910d20b183be660d2679d7a?utm_campaign=1065&utm_source=git)** | Kohler, WI | On Site | Nov 09 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Disney Branded Television Creative Marketing Intern, Burbank, Spring 2026](https://jobright.ai/jobs/info/6910d1febb519377733ed2e9?utm_campaign=1065&utm_source=git)** | Burbank, CA | On Site | Nov 09 |
 | **[Speck Design](http://www.speckdesign.com/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6910c9a6988c2b7b4ec5287d?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 09 |
@@ -80,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Global Marketing and Partnerships Intern](https://jobright.ai/jobs/info/68cfe6d9846f0b04af685f44?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 09 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 09 |
 | **[Henkel](http://www.henkel.com)** | **[Packaging and Consumer Goods Market Intern – Summer 2026](https://jobright.ai/jobs/info/68c90f03f9c6ff7aedf17092?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | Hybrid | Nov 09 |
-| **[Hollow Star Solutions](https://www.linkedin.com/company/98856018)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6910a7ee183be660d2679947?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 09 |
 | **[Elanco](https://www.elanco.com)** | **[Farm Animal Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68bb193d6105227d118a2db5?utm_campaign=1065&utm_source=git)** | Field, MN | On Site | Nov 09 |
 | **[Harris](https://www.harriscompany.com/)** | **[Marketing + Communications Intern](https://jobright.ai/jobs/info/68d7016445853d0e39ccbfca?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Nov 09 |
 | **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Market Research Intern](https://jobright.ai/jobs/info/6910917abb519377733ec9e9?utm_campaign=1065&utm_source=git)** | Kentucky, United States | Remote | Nov 09 |
@@ -95,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Swan City Ballet](https://www.instagram.com/swancityballet/)** | **[Digital Media & Community Intern](https://jobright.ai/jobs/info/69108fda183be660d26794ff?utm_campaign=1065&utm_source=git)** | Lakeland, FL | On Site | Nov 08 |
 | **[SeatPing](https://www.seatping.biz/)** | **[Growth Intern](https://jobright.ai/jobs/info/69108fa0183be660d26794f6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 08 |
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/69102b62bb519377733eaf79?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Nov 08 |
-| **[Jstdigi](https://www.linkedin.com/company/109588065)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/691093bbbb519377733eca82?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Nov 08 |
 | **[Fischer Homes](http://fischerhomes.com)** | **[DIVISION MARKETING CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68c0770e702aa35207aad424?utm_campaign=1065&utm_source=git)** | Erlanger, KY | On Site | Nov 08 |
 | **[Sendbird](https://sendbird.com)** | **[Product Marketing Intern (Spring, Part-time)](https://jobright.ai/jobs/info/690fe1a1bb519377733e9dec?utm_campaign=1065&utm_source=git)** | San Mateo, California, United States | On Site | Nov 08 |
 | **[Finvest](https://getfinvest.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/690fdd69183be660d267689c?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 08 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b2a49a65fd345857fc90?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Nov 08 |
 | **[John Deere](https://www.deere.com)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/68ba416a5f38327491865902?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 08 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern - Santa Clara](https://jobright.ai/jobs/info/68b9e02d8043103d4f21b20b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 08 |
+| **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b0fc76a51a4307bc6c21?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 08 |
+| **[Texas Instruments](http://www.ti.com)** | **[Web Marketing Intern - Web Technology and Platforms](https://jobright.ai/jobs/info/68c8cc1f95f5211cd2ce9752?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 08 |
+| **[Arup](http://www.arup.com)** | **[Marketing Intern (Available June 2026)](https://jobright.ai/jobs/info/6906768e63502c0aded8256a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
