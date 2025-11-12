@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 12 |
 | **[Brewery Running Series](https://www.breweryrunningseries.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69142533e344172248f7765f?utm_campaign=1065&utm_source=git)** | Toledo, OH | Hybrid | Nov 11 |
 | **[Beacon Media NC](https://beaconmedianc.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69141f2dd1047e3565d091e7?utm_campaign=1065&utm_source=git)** | North Carolina, United States | Hybrid | Nov 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/69141d78e344172248f770bb?utm_campaign=1065&utm_source=git)** | Tampa, FL | Hybrid | Nov 11 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/691416c9d1047e3565d08c02?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 11 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/691450f76f36db06ef046c22?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/691416c9d1047e3565d08c02?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 11 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/6914140dd1047e3565d08af0?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Nov 11 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/691412b71465e02904e9a052?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 11 |
 | ↳ | **[Brand Experience Intern](https://jobright.ai/jobs/info/691411fae344172248f768f2?utm_campaign=1065&utm_source=git)** | Clearwater, FL | On Site | Nov 11 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Content Marketing & Partnerships - Part-Time](https://jobright.ai/jobs/info/69140a781465e02904e999af?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
 | **[Quest National Services, LLC](http://www.questns.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6914076ae344172248f761e3?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 11 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/691428bf1465e02904e9ae6e?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 11 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69143c64286ccf0a15125e84?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Nov 11 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6914301f1465e02904e9b3f8?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Nov 11 |
 | **[Stange Law Firm, PC](https://www.stangelawfirm.com/)** | **[Marketing Intern (Part-time) (Clayton, MO)](https://jobright.ai/jobs/info/6913fb9fd1047e3565d07a14?utm_campaign=1065&utm_source=git)** | Clayton, MO | On Site | Nov 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Talent Relations - Part-Time](https://jobright.ai/jobs/info/6913fb1cd1047e3565d079e4?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
@@ -76,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Advertising & Partnerships Marketing and Communications – Summer 2026](https://jobright.ai/jobs/info/6913f7c1d1047e3565d0781a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 11 |
 | **[Texas Instruments](http://www.ti.com)** | **[Communications Intern-Giving and Volunteering](https://jobright.ai/jobs/info/6913f5f4e344172248f756e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 11 |
 | **[SiriusXM](http://siriusxm.com)** | **[Spring Intern, Podcast Marketing - Part-Time](https://jobright.ai/jobs/info/6914122ee344172248f76905?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 11 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Industry Coordinator Intern](https://jobright.ai/jobs/info/69142e631465e02904e9b2ca?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Nov 11 |
 | **[Equinox](http://www.equinox.com)** | **[Media & Channel Marketing Internship (Winter 2026)](https://jobright.ai/jobs/info/6913f15f1465e02904e98bb2?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Nov 11 |
 | **[Golin](http://golin.com/)** | **[Dallas Summer Internship Program - 2026](https://jobright.ai/jobs/info/6913eff21465e02904e98b59?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Nov 11 |
 | **[PeopleLinx](http://www.peoplelinx.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6913ef1bd1047e3565d07305?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
@@ -112,12 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Curious Plot](https://curiousplot.agency/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6913b4f41465e02904e96d7e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Nov 11 |
 | **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/6913b3e71465e02904e96cdb?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Nov 11 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/68ffc532e04ac838fb5bb0f2?utm_campaign=1065&utm_source=git)** | Canonsburg, PA | On Site | Nov 11 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Social Media](https://jobright.ai/jobs/info/6913b18b1465e02904e96ba1?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 11 |
 | **[Curious Plot](https://curiousplot.agency/)** | **[Content & Copywriting Intern](https://jobright.ai/jobs/info/6913b0dfe344172248f734ad?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Nov 11 |
 | **[Golin London](https://golin.com/emea/)** | **[Dallas Summer Internship Program - 2026](https://jobright.ai/jobs/info/6913af7fe344172248f73386?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | Hybrid | Nov 11 |
 | **[Answerr](https://answerr.ai)** | **[Creator and social media intern ( Remote, Unpaid with Performance-Based Opportunities)](https://jobright.ai/jobs/info/6913adf0e344172248f73271?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 11 |
 | **[Greater Public](https://www.greaterpublic.org)** | **[Marketing and Community Engagement Coordinator](https://jobright.ai/jobs/info/6913a868d1047e3565d04e00?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Nov 11 |
-| **[Missouri Restaurant Association](http://www.morestaurants.org)** | **[Membership & Marketing Intern](https://jobright.ai/jobs/info/690e33ca44146d3b6ec51e17?utm_campaign=1065&utm_source=git)** | Kansas City, MO | Hybrid | Nov 11 |
 | **[Marketing Stable](https://www.marketingstablellc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6913cc34e344172248f743ec?utm_campaign=1065&utm_source=git)** | Reno, NV | Hybrid | Nov 11 |
 | **[Curious Plot](https://curiousplot.agency/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6913a53ad1047e3565d04bfd?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, US | On Site | Nov 11 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Universal Filmed Entertainment Group Communications & Marketing Internships – Summer 2026](https://jobright.ai/jobs/info/6913a3921465e02904e96407?utm_campaign=1065&utm_source=git)** | Universal City, CA | Hybrid | Nov 11 |
