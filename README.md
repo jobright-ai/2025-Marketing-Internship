@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916ece7286ccf0a1513ab6c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 14 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Influencer Marketing Intern  (Part Time)](https://jobright.ai/jobs/info/6916d9b39c388539cbdff237?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Nov 13 |
 | **[EcoFlow](https://ecoflow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916d8de286ccf0a15139ccc?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 13 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6916d1c39c388539cbdfedbc?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
@@ -116,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[FACTEUR PR](https://www.facteurpr.com)** | **[Media Research & Engagement Intern](https://jobright.ai/jobs/info/69165bcc6f36db06ef055780?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/68ffc532e04ac838fb5bb0f2?utm_campaign=1065&utm_source=git)** | Canonsburg, PA | On Site | Nov 13 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Marketing](https://jobright.ai/jobs/info/69167f1c286ccf0a15136a6b?utm_campaign=1065&utm_source=git)** | Milwaukee 111 Kilbourn | On Site | Nov 13 |
+| **[CN](http://www.cn.ca)** | **[Intern, Public Affairs & Media Relations- EN](https://jobright.ai/jobs/info/6916f2df286ccf0a1513b4e2?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 13 |
 | **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern / Mortenson](https://jobright.ai/jobs/info/691653e56f36db06ef05511d?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Nov 13 |
 | **[KROST](https://krostnewyork.com)** | **[Influencer & Community Management Intern](https://jobright.ai/jobs/info/69169624286ccf0a15137b00?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 13 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Product Marketing Intern](https://jobright.ai/jobs/info/691651de286ccf0a15134741?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
@@ -147,6 +149,7 @@ For a complete list, click the following sortable link below:
 | **[Woke Media](http://www.wokemediahouse.com)** | **[Social Media & Graphic Intern (Spring 2026)](https://jobright.ai/jobs/info/69166755286ccf0a1513572f?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 13 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Intern-Gifting](https://jobright.ai/jobs/info/68eeca03e0db92422580b769?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69163978286ccf0a15133843?utm_campaign=1065&utm_source=git)** | Grimes, IA | Hybrid | Nov 13 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6916f06b6f36db06ef05b1fe?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 13 |
 | **[Headsbase](https://www.headsbaseconsulting.com)** | **[Intern, Social Media & Influencer Marketing](https://jobright.ai/jobs/info/691638846f36db06ef053dec?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69163802286ccf0a15133758?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Marketing, Bibles Publishing](https://jobright.ai/jobs/info/691637fb286ccf0a15133755?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Nov 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dublin City Schools](https://www.dublinschools.net/home)** | **[Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/6916585d286ccf0a15134bd0?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 13 |
 | **[GSA - Global Student Accommodation](https://www.gsagroup.com)** | **[Student Ambassador](https://jobright.ai/jobs/info/69165f279c388539cbdfa6e9?utm_campaign=1065&utm_source=git)** | Pullman, WA | On Site | Nov 13 |
 | **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Event Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6916559c9c388539cbdfa093?utm_campaign=1065&utm_source=git)** | West Chester, PA | On Site | Nov 13 |
-| **[Sumitomo Mitsui Trust Bank Limited New York Branch](http://www.smtb.jp/tools/english/)** | **[Market Making Summer Intern](https://jobright.ai/jobs/info/69166e399c388539cbdfb23a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/691630fb6f36db06ef0539c6?utm_campaign=1065&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Marketing, Bibles Publishing](https://jobright.ai/jobs/info/69167e88286ccf0a151369de?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
