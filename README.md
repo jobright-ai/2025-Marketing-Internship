@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c98bffa0c52d598ea3860a?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Nov 14 |
+| **[Insilico Medicine](http://www.insilico.com)** | **[Biotech Internship Opportunity: AI(Drug Discovery) & Longevity Industry – Communications, PR, and Strategy (3-Month Program)](https://jobright.ai/jobs/info/6916ff3dab115751cca3e464?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916ece7286ccf0a1513ab6c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 14 |
+| **[Learnrithm AI](https://learnrithm.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69171593370fde633d07d0b8?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 14 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Consumer Insights Intern (February to May)](https://jobright.ai/jobs/info/69170b7d370fde633d07c9ee?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Nov 14 |
+| **[Northern Kentucky University](http://www.nku.edu/)** | **[Athletic Marketing & Promotions Internship](https://jobright.ai/jobs/info/69170361370fde633d07c35c?utm_campaign=1065&utm_source=git)** | Newport, KY | On Site | Nov 13 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Influencer Marketing Intern  (Part Time)](https://jobright.ai/jobs/info/6916d9b39c388539cbdff237?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Nov 13 |
+| **[Prep Network](https://prepnetwork.com)** | **[2026 Event Operations Internship](https://jobright.ai/jobs/info/691700dd370fde633d07c1a2?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Nov 13 |
 | **[EcoFlow](https://ecoflow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916d8de286ccf0a15139ccc?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 13 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6916d1c39c388539cbdfedbc?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
 | **[QUASAR](https://quasarrealestate.com)** | **[Investor Relations Intern (Marketing)](https://jobright.ai/jobs/info/6916d0c19c388539cbdfed6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
@@ -98,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Marketing, Corporate Services- Campus 2026](https://jobright.ai/jobs/info/6916935a6f36db06ef057f07?utm_campaign=1065&utm_source=git)** | GH Office: New York, NY (75 Rockefeller) | On Site | Nov 13 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Marketing Communications Intern](https://jobright.ai/jobs/info/6916a02d286ccf0a15137ff3?utm_campaign=1065&utm_source=git)** | 16 & Gibbon, Laramie, WY, 82071, US | On Site | Nov 13 |
 | **[Cavender's](https://www.cavenders.com/)** | **[Public Relations and Special Events Intern](https://jobright.ai/jobs/info/691672919c388539cbdfb66c?utm_campaign=1065&utm_source=git)** | Tyler, TX | On Site | Nov 13 |
-| **[Prep Network](https://prepnetwork.com)** | **[2026 Event Operations Internship](https://jobright.ai/jobs/info/691693d4286ccf0a1513785e?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Nov 13 |
 | **[Corrigan Krause CPAs and Consultants](https://www.corrigankrause.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/691671986f36db06ef056946?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Nov 13 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Spring 2026 - Events Intern - R Street Institute](https://jobright.ai/jobs/info/691671426f36db06ef0568f7?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 13 |
 | **[LytteAI Inc](https://www.lytte.ai)** | **[Marketing Intern](https://jobright.ai/jobs/info/691670ac9c388539cbdfb4e9?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Trade Marketing Intern](https://jobright.ai/jobs/info/6916f06b6f36db06ef05b1fe?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Nov 13 |
 | **[Headsbase](https://www.headsbaseconsulting.com)** | **[Intern, Social Media & Influencer Marketing](https://jobright.ai/jobs/info/691638846f36db06ef053dec?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Daikin Applied Americas](https://www.daikinapplied.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69163802286ccf0a15133758?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Nov 13 |
-| **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Marketing, Bibles Publishing](https://jobright.ai/jobs/info/691637fb286ccf0a15133755?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Nov 13 |
-| **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Social Media Communications](https://jobright.ai/jobs/info/69167cf4286ccf0a151368bd?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Nov 13 |
-| **[Dublin City Schools](https://www.dublinschools.net/home)** | **[Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/6916585d286ccf0a15134bd0?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 13 |
-| **[GSA - Global Student Accommodation](https://www.gsagroup.com)** | **[Student Ambassador](https://jobright.ai/jobs/info/69165f279c388539cbdfa6e9?utm_campaign=1065&utm_source=git)** | Pullman, WA | On Site | Nov 13 |
-| **[All-Star Sports Academy](https://allstarsportsacademy.com/)** | **[Event Manager Internship - Summer 2026](https://jobright.ai/jobs/info/6916559c9c388539cbdfa093?utm_campaign=1065&utm_source=git)** | West Chester, PA | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
