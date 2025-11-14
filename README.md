@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CivicReset](https://www.civicreset.org)** | **[Intern](https://jobright.ai/jobs/info/6916beba286ccf0a151390a5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Nov 13 |
+| **[SHEIN Distribution Corporation](https://sheingroup.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6916ba689c388539cbdfe308?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
+| **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Marketing and Communications](https://jobright.ai/jobs/info/6916af259c388539cbdfdf5b?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 13 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 - Merchandising Intern - King Soopers - Denver, CO](https://jobright.ai/jobs/info/691696449c388539cbdfcfad?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 13 |
+| **[BSE Global](https://www.bseglobal.net)** | **[New York Liberty Partnership Marketing Seasonal Intern 2025-2026](https://jobright.ai/jobs/info/6916bb67286ccf0a15138f5d?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Nov 13 |
 | **[Guidehouse](https://guidehouse.com)** | **[Intern - Marketing, Corporate Services- Campus 2026](https://jobright.ai/jobs/info/691694e3286ccf0a15137a2a?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Nov 13 |
-| ↳ | **[Intern - Marketing, Corporate Services- Campus 2026](https://jobright.ai/jobs/info/69168ce9286ccf0a15137462?utm_campaign=1065&utm_source=git)** | US - IL, Chicago | On Site | Nov 13 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summar 2026 - Human Resources Intern - King Soopers - Denver, CO](https://jobright.ai/jobs/info/6916a9f36f36db06ef058d21?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 13 |
+| ↳ | **[Summer 2026 - Finance Intern - King Soopers - Denver, CO](https://jobright.ai/jobs/info/6916ad656f36db06ef058ee0?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 13 |
+| ↳ | **[Summer 2026 - Advertising/Corporate Affairs Intern - King Soopers - Denver, CO](https://jobright.ai/jobs/info/6916ab226f36db06ef058d8e?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 13 |
+| **[Guidehouse](https://guidehouse.com)** | **[Intern - Marketing, Corporate Services- Campus 2026](https://jobright.ai/jobs/info/69168ce9286ccf0a15137462?utm_campaign=1065&utm_source=git)** | US - IL, Chicago | On Site | Nov 13 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/691689da286ccf0a151371f1?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 13 |
 | **[UNOPS](https://www.unops.org/english/Pages/Home.aspx)** | **[Web Content Management Intern](https://jobright.ai/jobs/info/691688d46f36db06ef05783f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 13 |
 | **[Associated Bank](http://associatedbank.com)** | **[Corporate Intern- Marketing](https://jobright.ai/jobs/info/691685506f36db06ef057575?utm_campaign=1065&utm_source=git)** | Greater Milwaukee | On Site | Nov 13 |
@@ -128,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[McShane’s Exchange ](http://mcshanes-exchange.shop)** | **[Fashion Intern -- Spring 2026](https://jobright.ai/jobs/info/6916614f286ccf0a15135186?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 13 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Winter Intern](https://jobright.ai/jobs/info/69166a58286ccf0a151359f4?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Nov 13 |
 | **[Contentsquare](https://contentsquare.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/69165ffb6f36db06ef0559f7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
-| **[Franklin Electric](http://www.franklin-electric.com/corporate/default.aspx)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69168fa0286ccf0a15137714?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 13 |
 | **[JEA](https://www.jea.com)** | **[Intern - Multimedia](https://jobright.ai/jobs/info/6916941d9c388539cbdfce6a?utm_campaign=1065&utm_source=git)** | 225 N Pearl Street225 N Pearl Street | On Site | Nov 13 |
 | **[Woke Media](http://www.wokemediahouse.com)** | **[Social Media & Graphic Intern (Spring 2026)](https://jobright.ai/jobs/info/69166755286ccf0a1513572f?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 13 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Intern-Gifting](https://jobright.ai/jobs/info/68eeca03e0db92422580b769?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Nov 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/69167f1a9c388539cbdfbf0f?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Nov 13 |
 | **[Hudl](http://www.hudl.com)** | **[PR Intern](https://jobright.ai/jobs/info/69162a3d6f36db06ef053627?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
 | **[The Alpha Group of Delaware](https://alphagroup.net)** | **[Events and Marketing Internship](https://jobright.ai/jobs/info/69164c7d6f36db06ef054c38?utm_campaign=1065&utm_source=git)** | Delaware, OH | On Site | Nov 13 |
-| **[Narrative Strategies](https://narrativedc.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/691674e49c388539cbdfb8c3?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 13 |
-| **[Better Collective](http://bettercollective.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fba1e493c49825ab1044bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
-| **[Selfin (YC F25)](https://selfin.app)** | **[Social Media Intern](https://jobright.ai/jobs/info/691670f96f36db06ef0568d0?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 13 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Walt Disney Animation Studios Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/691620236f36db06ef0531b3?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Nov 13 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Enterprise Marketing AI Data Engineer](https://jobright.ai/jobs/info/6916669e286ccf0a1513564f?utm_campaign=1065&utm_source=git)** | San Jose | Hybrid | Nov 13 |
-| **[Mortenson](https://www.mortenson.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69161a0f9c388539cbdf7d07?utm_campaign=1065&utm_source=git)** | 700 Meadow Lane N, Minneapolis, MN, 55422, US | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
