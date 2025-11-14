@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Influencer Marketing Intern  (Part Time)](https://jobright.ai/jobs/info/6916d9b39c388539cbdff237?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Nov 13 |
+| **[EcoFlow](https://ecoflow.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916d8de286ccf0a15139ccc?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 13 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6916d1c39c388539cbdfedbc?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 13 |
+| **[QUASAR](https://quasarrealestate.com)** | **[Investor Relations Intern (Marketing)](https://jobright.ai/jobs/info/6916d0c19c388539cbdfed6e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
+| **[Hakakian Law Group, PC](www.hakakianlaw.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916cfeb6f36db06ef059f02?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Nov 13 |
+| **[Olympex Labs](www.olympex.io)** | **[Digital Marketing intern](https://jobright.ai/jobs/info/6916cc34286ccf0a15139748?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6916cc0b9c388539cbdfec12?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
+| **[Stylere](stylere.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6916c402286ccf0a151393a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
 | **[CivicReset](https://www.civicreset.org)** | **[Intern](https://jobright.ai/jobs/info/6916beba286ccf0a151390a5?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Nov 13 |
 | **[SHEIN Distribution Corporation](https://sheingroup.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6916ba689c388539cbdfe308?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 13 |
 | **[Type One Energy](https://www.typeoneenergy.com)** | **[Summer Internship- Marketing and Communications](https://jobright.ai/jobs/info/6916af259c388539cbdfdf5b?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 13 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sumitomo Mitsui Trust Bank Limited New York Branch](http://www.smtb.jp/tools/english/)** | **[Market Making Summer Intern](https://jobright.ai/jobs/info/69166e399c388539cbdfb23a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 13 |
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/691630fb6f36db06ef0539c6?utm_campaign=1065&utm_source=git)** | Helpful Smiles Technology Center (HST), James Street, Grimes, IA | Hybrid | Nov 13 |
 | **[Lifeway Christian Resources](https://wordsearchbible.lifeway.com/)** | **[Remote Summer Internship - Marketing, Bibles Publishing](https://jobright.ai/jobs/info/69167e88286ccf0a151369de?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 13 |
-| **[Emotiv Media Group](http://emotivmediagroup.com)** | **[Social Media + Video Promo Intern](https://jobright.ai/jobs/info/6916622c9c388539cbdfa8ec?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Nov 13 |
-| **[Boardwalktech](http://www.boardwalktech.com)** | **[2026 Spring Marketing & Growth Internship Program](https://jobright.ai/jobs/info/69164046286ccf0a15133c77?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 13 |
-| **[Peak Alliance](https://www.peak-alliance.com)** | **[Part Time Digital Marketing Intern - Reddit](https://jobright.ai/jobs/info/691649bb9c388539cbdf9855?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Nov 13 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology Marketing (Undergraduate-level)](https://jobright.ai/jobs/info/6916619f286ccf0a151351c9?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Nov 13 |
-| ↳ | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/691653cf6f36db06ef055102?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Nov 13 |
-| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/69167f1a9c388539cbdfbf0f?utm_campaign=1065&utm_source=git)** | Alexandria, VA | On Site | Nov 13 |
-| **[Hudl](http://www.hudl.com)** | **[PR Intern](https://jobright.ai/jobs/info/69162a3d6f36db06ef053627?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 13 |
-| **[The Alpha Group of Delaware](https://alphagroup.net)** | **[Events and Marketing Internship](https://jobright.ai/jobs/info/69164c7d6f36db06ef054c38?utm_campaign=1065&utm_source=git)** | Delaware, OH | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
