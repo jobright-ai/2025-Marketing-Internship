@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[La Sierra University](http://www.lasierra.edu/)** | **[Student Biology Social Media Assistant (BSM) AY’26](https://jobright.ai/jobs/info/6918e4e9bcdbf3560c9d3c7c?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 15 |
+| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale)](https://jobright.ai/jobs/info/6918e3db45fb6f5ead8a700f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
+| **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- B2C Market Strategy Intern](https://jobright.ai/jobs/info/6918de9645fb6f5ead8a6f11?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
+| **[Speedway Motors, Inc](http://speedwaymotors.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6918de4e45fb6f5ead8a6f07?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Nov 15 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6918d0e945fb6f5ead8a6d3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6918c8aa15b4156367183b13?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918b92945fb6f5ead8a69f6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
@@ -145,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Trek Bicycle](https://www.trekbikes.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6917df3fbcdbf3560c9cc283?utm_campaign=1065&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 | **[Bins Storage](http://www.bins-storage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6917d4a945fb6f5ead89efe9?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
 | **[Closr.](www.shopclosr.com)** | **[Social Media Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/6917d442bcdbf3560c9cbc4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[CMG Worldwide](https://www.cmgworldwide.com/)** | **[Winter/Spring Marketing Internship](https://jobright.ai/jobs/info/6917d3b6bcdbf3560c9cbbc1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Nov 14 |
 | **[Head Start California](https://headstart.itulstaging.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6917ff4abcdbf3560c9cd7e2?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | Nov 14 |
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Conference & Events Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc750aaccfd24b67e559b3?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
 | **[Axil Health](www.axilhealth.com)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/6917e663bcdbf3560c9cc6b6?utm_campaign=1065&utm_source=git)** | Raleigh,NC,US | Hybrid | Nov 14 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6917f2e015b415636717d0c5?utm_campaign=1065&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917c0a7bcdbf3560c9cb094?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Nov 14 |
-| ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917bff6bcdbf3560c9cafce?utm_campaign=1065&utm_source=git)** | Lehi | Hybrid | Nov 14 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6917bef845fb6f5ead89e2e9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
-| **[The Phelan Focus](www.thephelanfocus.com)** | **[Social Media Marketing Manager (Intern)](https://jobright.ai/jobs/info/69187def45fb6f5ead8a5922?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
