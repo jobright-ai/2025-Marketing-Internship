@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/6918d0e945fb6f5ead8a6d3d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Greystar](https://www.stoneridgemp.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6918c8aa15b4156367183b13?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918b92945fb6f5ead8a69f6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Chinese-Speaking Email Marketing](https://jobright.ai/jobs/info/6918b2c845fb6f5ead8a6822?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 15 |
 | **[Tech World Networking](techworldnetworking.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6918b03e15b415636718368d?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917bff6bcdbf3560c9cafce?utm_campaign=1065&utm_source=git)** | Lehi | Hybrid | Nov 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/6917bef845fb6f5ead89e2e9?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 14 |
 | **[The Phelan Focus](www.thephelanfocus.com)** | **[Social Media Marketing Manager (Intern)](https://jobright.ai/jobs/info/69187def45fb6f5ead8a5922?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Nov 14 |
-| **[Hudl](http://www.hudl.com)** | **[Brand Video Content Intern](https://jobright.ai/jobs/info/6917bb1ebcdbf3560c9caba7?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Nov 14 |
-| **[The deFIANT](https://www.thedefiant.com)** | **[Showroom/VIP/Influencer Intern](https://jobright.ai/jobs/info/6917dfc615b415636717c5a6?utm_campaign=1065&utm_source=git)** | West Hollywood, CA | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
