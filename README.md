@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Nov 16 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Nov 16 |
+| **[Christian Cowan](http://www.christiancowan.com)** | **[Public Relations, Partnerships & Events Spring Intern](https://jobright.ai/jobs/info/691a2e47bcdbf3560c9d7eb3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 16 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/691a1e0045fb6f5ead8ab010?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Winter Construction](https://winter-construction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691a1b3015b4156367187e7d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/691a1155bcdbf3560c9d7bde?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
 | ↳ | **[Internship – Communications (Year-Round)](https://jobright.ai/jobs/info/68cfa3fffb49c96ca6eaa07e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
 | **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
-| **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918785f45fb6f5ead8a57d0?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 15 |
-| **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c8f08a95f5211cd2cebbb2?utm_campaign=1065&utm_source=git)** | Allentown, PA | Hybrid | Nov 15 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b7bc31e5763f188e2fdd?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
