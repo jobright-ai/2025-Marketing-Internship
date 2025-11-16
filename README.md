@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[POSH Fleet Services](https://posh.com.sg)** | **[Marketing and Branding Specialist](https://jobright.ai/jobs/info/691951e245fb6f5ead8a827f?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 15 |
 | **[IT Public Relations](http://www.itpublicrelations.com)** | **[NY/NJ Public Relations Agency Spring Intern-for school credit](https://jobright.ai/jobs/info/691945a615b4156367184d80?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso Product Marketing Intern](https://jobright.ai/jobs/info/6919314cbcdbf3560c9d446e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Affilicademy](www.affilicademy.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69192ec815b4156367184660?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 15 |
@@ -71,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Ethos Early Learning Center](http://www.ethoslearn.com/)** | **[Marketing Intern (Contractor – Part-Time)](https://jobright.ai/jobs/info/69193a56bcdbf3560c9d4654?utm_campaign=1065&utm_source=git)** | Boston, MA, 02127, US | Hybrid | Nov 15 |
 | **[RxGpt](https://rxgpthealth.com)** | **[Content Writer Intern (Remote)](https://jobright.ai/jobs/info/691912db45fb6f5ead8a74dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[1AM Talent Group](http://1amtalentgroup.com)** | **[Influencer Marketing Intern - Spring](https://jobright.ai/jobs/info/6919106f15b4156367184398?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
-| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6919059ebcdbf3560c9d407e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 15 |
 | **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6919036645fb6f5ead8a740f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Biology Social Media Assistant (BSM) AY’26](https://jobright.ai/jobs/info/6918e4e9bcdbf3560c9d3c7c?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 15 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale)](https://jobright.ai/jobs/info/6918e3db45fb6f5ead8a700f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
