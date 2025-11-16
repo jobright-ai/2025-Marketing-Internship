@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PeopleLinx](http://www.peoplelinx.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/69192d2bbcdbf3560c9d43e0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Signal Theory Inc.](https://www.signaltheory.com)** | **[Social Media and Content Strategy Internship](https://jobright.ai/jobs/info/6919241f45fb6f5ead8a766b?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | Hybrid | Nov 15 |
+| ↳ | **[Copywriter Internship](https://jobright.ai/jobs/info/691923a815b4156367184556?utm_campaign=1065&utm_source=git)** | Wichita , Wichita, KS, US | On Site | Nov 15 |
+| ↳ | **[Public Relations Internship](https://jobright.ai/jobs/info/69192327bcdbf3560c9d42a5?utm_campaign=1065&utm_source=git)** | Wichita , Wichita, KS, US | Hybrid | Nov 15 |
+| ↳ | **[Copywriter Internship](https://jobright.ai/jobs/info/6919231dbcdbf3560c9d42a0?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | On Site | Nov 15 |
+| ↳ | **[Brand Strategy Internship](https://jobright.ai/jobs/info/691920ea45fb6f5ead8a75ea?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | On Site | Nov 15 |
+| ↳ | **[Public Relations Internship](https://jobright.ai/jobs/info/691920df45fb6f5ead8a75e1?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | Hybrid | Nov 15 |
+| **[GreenData Ventures](https://greendata.io)** | **[AI Transformation Performance Marketing Intern](https://jobright.ai/jobs/info/69191cf3bcdbf3560c9d4234?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[RxGpt](https://rxgpthealth.com)** | **[Content Writer Intern (Remote)](https://jobright.ai/jobs/info/691912db45fb6f5ead8a74dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[1AM Talent Group](http://1amtalentgroup.com)** | **[Influencer Marketing Intern - Spring](https://jobright.ai/jobs/info/6919106f15b4156367184398?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6919059ebcdbf3560c9d407e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 15 |
 | **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6919036645fb6f5ead8a740f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
@@ -68,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Greystar](https://www.stoneridgemp.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6918c8aa15b4156367183b13?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918b92945fb6f5ead8a69f6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Chinese-Speaking Email Marketing](https://jobright.ai/jobs/info/6918b2c845fb6f5ead8a6822?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 15 |
-| **[Tech World Networking](techworldnetworking.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6918b03e15b415636718368d?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 15 |
 | **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918afb915b415636718365f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918af8545fb6f5ead8a678e?utm_campaign=1065&utm_source=git)** | US_WI_Glendale_N Green Bay Ave | Hybrid | Nov 15 |
 | ↳ | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918ae9d15b41563671835f0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
@@ -137,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Wind Chill](http://www.windchillultimate.com)** | **[Social Media/Content Creation Internship](https://jobright.ai/jobs/info/69186fd615b4156367182470?utm_campaign=1065&utm_source=git)** | Minneapolis–Saint Paul, WI | Hybrid | Nov 14 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69182b8f45fb6f5ead8a25da?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Nov 14 |
 | **[RReverie](www.rreverie.org)** | **[Fight Against Hunger Tech Intern](https://jobright.ai/jobs/info/6918474f15b4156367181109?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 14 |
-| **[Bluecrest Partners](bluecrestpartners.us)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/69180b3845fb6f5ead8a12a3?utm_campaign=1065&utm_source=git)** | Houston, TX | Remote | Nov 14 |
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Texas PBS Marketing & Media Intern](https://jobright.ai/jobs/info/6917eb18bcdbf3560c9cc9f6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | **[Closr.](www.shopclosr.com)** | **[Digital Retail Strategy Intern (Spring 2026)](https://jobright.ai/jobs/info/6917e46845fb6f5ead89f946?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 14 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/690966ffd046ab6061cd4e9d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 14 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6917df3fbcdbf3560c9cc283?utm_campaign=1065&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
-| **[Bins Storage](http://www.bins-storage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6917d4a945fb6f5ead89efe9?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 14 |
-| **[Closr.](www.shopclosr.com)** | **[Social Media Marketing Intern (Spring 2026)](https://jobright.ai/jobs/info/6917d442bcdbf3560c9cbc4d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 14 |
-| **[Head Start California](https://headstart.itulstaging.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6917ff4abcdbf3560c9cd7e2?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Hybrid | Nov 14 |
-| **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Conference & Events Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc750aaccfd24b67e559b3?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
-| **[Axil Health](www.axilhealth.com)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/6917e663bcdbf3560c9cc6b6?utm_campaign=1065&utm_source=git)** | Raleigh,NC,US | Hybrid | Nov 14 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6917f0f8bcdbf3560c9cccae?utm_campaign=1065&utm_source=git)** | Austin,TX,US | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
