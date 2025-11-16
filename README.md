@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship- Marketing](https://jobright.ai/jobs/info/6909362f4a1b456627afe063?utm_campaign=1065&utm_source=git)** | Bloomington, Indiana, United States | On Site | Nov 16 |
+| **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Health Equity Communications Intern (Non-Work Study)](https://jobright.ai/jobs/info/69198c5315b4156367186397?utm_campaign=1065&utm_source=git)** | Bridgewater, MA | On Site | Nov 16 |
 | **[IT Public Relations](http://www.itpublicrelations.com)** | **[NY/NJ Public Relations Agency Spring Intern-for school credit](https://jobright.ai/jobs/info/691945a615b4156367184d80?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso Product Marketing Intern](https://jobright.ai/jobs/info/6919314cbcdbf3560c9d446e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[POSH Fleet Services](https://posh.com.sg)** | **[Marketing and Branding Specialist](https://jobright.ai/jobs/info/691951e245fb6f5ead8a827f?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 15 |
@@ -69,15 +71,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Strategy Internship](https://jobright.ai/jobs/info/691920ea45fb6f5ead8a75ea?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | On Site | Nov 15 |
 | ↳ | **[Public Relations Internship](https://jobright.ai/jobs/info/691920df45fb6f5ead8a75e1?utm_campaign=1065&utm_source=git)** | Kansas City, Kansas City, MO, US | Hybrid | Nov 15 |
 | **[GreenData Ventures](https://greendata.io)** | **[AI Transformation Performance Marketing Intern](https://jobright.ai/jobs/info/69191cf3bcdbf3560c9d4234?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/6919994fbcdbf3560c9d6a06?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 15 |
 | **[Ethos Early Learning Center](http://www.ethoslearn.com/)** | **[Marketing Intern (Contractor – Part-Time)](https://jobright.ai/jobs/info/69193a56bcdbf3560c9d4654?utm_campaign=1065&utm_source=git)** | Boston, MA, 02127, US | Hybrid | Nov 15 |
-| **[RxGpt](https://rxgpthealth.com)** | **[Content Writer Intern (Remote)](https://jobright.ai/jobs/info/691912db45fb6f5ead8a74dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[1AM Talent Group](http://1amtalentgroup.com)** | **[Influencer Marketing Intern - Spring](https://jobright.ai/jobs/info/6919106f15b4156367184398?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6919036645fb6f5ead8a740f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Biology Social Media Assistant (BSM) AY’26](https://jobright.ai/jobs/info/6918e4e9bcdbf3560c9d3c7c?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 15 |
-| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale)](https://jobright.ai/jobs/info/6918e3db45fb6f5ead8a700f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- B2C Market Strategy Intern](https://jobright.ai/jobs/info/6918de9645fb6f5ead8a6f11?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Speedway Motors, Inc](http://speedwaymotors.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6918de4e45fb6f5ead8a6f07?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Nov 15 |
-| **[Greystar](https://www.stoneridgemp.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6918c8aa15b4156367183b13?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 15 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6918b92945fb6f5ead8a69f6?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 15 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Chinese-Speaking Email Marketing](https://jobright.ai/jobs/info/6918b2c845fb6f5ead8a6822?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 15 |
 | **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918afb915b415636718365f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
@@ -109,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/6918892e15b4156367182aa7?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Merchandising Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e05754f758fe1f97e4c800?utm_campaign=1065&utm_source=git)** | Reynoldsburg, OH | Hybrid | Nov 15 |
 | ↳ | **[Summer 2026 Marketing Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04ae0b99ec3563b0ce4b0?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| **[Cleveland Automation Systems™](http://www.clevelandautomationsystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6918a42315b415636718336a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[AOA](https://www.insideaoa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/691887a7bcdbf3560c9d286c?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Vow'd Merchandising Intern](https://jobright.ai/jobs/info/68fbeb7bf55bb021a889e202?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Product Marketing Intern](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
@@ -137,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6901b3f14539ea1f21422698?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 15 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/691975b645fb6f5ead8a8b04?utm_campaign=1065&utm_source=git)** | Muscatine, IA | Hybrid | Nov 15 |
 | **[Domo](http://www.domo.com)** | **[Intern - AI Marketing](https://jobright.ai/jobs/info/68dc54b8a125e75c4229fb3d?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Nov 15 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 15 |
 | **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/6918415015b415636718090d?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 15 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6917eb28bcdbf3560c9cca04?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | ↳ | **[Texas PBS Marketing & Media Intern](https://jobright.ai/jobs/info/6917eb18bcdbf3560c9cc9f6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/690966ffd046ab6061cd4e9d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 14 |
+| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6917df3fbcdbf3560c9cc283?utm_campaign=1065&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
