@@ -57,7 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 16 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/68ce7ea9fb49c96ca6ea0fb8?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Nov 16 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b6bf31e5763f188e2f08?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 16 |
+| ↳ | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 16 |
+| **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6919aa4215b41563671870aa?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Nov 16 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/69009cb8e0c73b3a111a6130?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 16 |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Marketing Internship - Kansas City](https://jobright.ai/jobs/info/68d02f4a846f0b04af68812a?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 16 |
 | **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship- Marketing](https://jobright.ai/jobs/info/6909362f4a1b456627afe063?utm_campaign=1065&utm_source=git)** | Bloomington, Indiana, United States | On Site | Nov 16 |
+| **[Crest Vale](crestvale.us)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/6919b333bcdbf3560c9d7046?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
 | **[Bridgewater State University](http://www.bridgew.edu/)** | **[AY25-26 Health Equity Communications Intern (Non-Work Study)](https://jobright.ai/jobs/info/69198c5315b4156367186397?utm_campaign=1065&utm_source=git)** | Bridgewater, MA | On Site | Nov 16 |
 | **[IT Public Relations](http://www.itpublicrelations.com)** | **[NY/NJ Public Relations Agency Spring Intern-for school credit](https://jobright.ai/jobs/info/691945a615b4156367184d80?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso Product Marketing Intern](https://jobright.ai/jobs/info/6919314cbcdbf3560c9d446e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 14 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
 | ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 14 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / University of Houston - Victoria](https://jobright.ai/jobs/info/6917f78a15b415636717d48d?utm_campaign=1065&utm_source=git)** | Victoria, TX | On Site | Nov 14 |
-| **[Amazon](https://amazon.com)** | **[2026  Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/6917f5c345fb6f5ead8a0666?utm_campaign=1065&utm_source=git)** | Seattle, Washington, USA | On Site | Nov 14 |
-| **[GeoComply](https://www.geocomply.com)** | **[Product Marketing Intern - Winter 2026](https://jobright.ai/jobs/info/6917f12745fb6f5ead8a016e?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 14 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6917ecf145fb6f5ead89feb7?utm_campaign=1065&utm_source=git)** | Waterloo, WI | On Site | Nov 14 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 14 |
-| **[Austin PBS](http://www.austinpbs.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6917eb28bcdbf3560c9cca04?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
-| ↳ | **[Texas PBS Marketing & Media Intern](https://jobright.ai/jobs/info/6917eb18bcdbf3560c9cc9f6?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 14 |
-| **[Giant Spoon](http://giantspoon.com/)** | **[Strategy Intern](https://jobright.ai/jobs/info/690966ffd046ab6061cd4e9d?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 14 |
-| **[Trek Bicycle](https://www.trekbikes.com/)** | **[Marketing Summer Intern](https://jobright.ai/jobs/info/6917df3fbcdbf3560c9cc283?utm_campaign=1065&utm_source=git)** | Waterloo, Wisconsin | On Site | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
