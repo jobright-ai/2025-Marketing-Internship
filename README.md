@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/691a1e0045fb6f5ead8ab010?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
+| **[Winter Construction](https://winter-construction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691a1b3015b4156367187e7d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/691a1155bcdbf3560c9d7bde?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Atmosfy](https://atmosfy.io)** | **[Social Media Intern](https://jobright.ai/jobs/info/69176d653ea85638ae1ca8c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Curvaceous Behavior](https://www.curvaceousbehavior.org/about)** | **[Spring 2026 Internship Role Business and Creative Role](https://jobright.ai/jobs/info/691a014215b4156367187ca6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Nov 16 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6919f47c15b4156367187b21?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 16 |
@@ -74,6 +77,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Development Representative Full-time Intern (Multilingual)](https://jobright.ai/jobs/info/6919de4f15b4156367187895?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 16 |
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Research, Development & Application](https://jobright.ai/jobs/info/6919d4ce15b41563671876bc?utm_campaign=1065&utm_source=git)** | Beloit, WI | Remote | Nov 16 |
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Conference Services (Year-Round)](https://jobright.ai/jobs/info/68c4e0e8c96a22563ece3366?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 16 |
+| **[NexyFinVerse](https://nexyfinverse.lovable.app/)** | **[Senior Growth & Strategy Officer Intern](https://jobright.ai/jobs/info/691a28a745fb6f5ead8ab199?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Portsmouth, NH](https://jobright.ai/jobs/info/68c9126aa0c52d598ea34e93?utm_campaign=1065&utm_source=git)** | Portsmouth, NH | On Site | Nov 16 |
 | **[Subaru of America](http://www.subaru.com)** | **[INTERN - Corporate Social Responsibility](https://jobright.ai/jobs/info/6919cd48bcdbf3560c9d733b?utm_campaign=1065&utm_source=git)** | Camden, NJ | On Site | Nov 16 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Digital Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/68e04d40f758fe1f97e4c294?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918785f45fb6f5ead8a57d0?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Nov 15 |
 | **[Wacker Chemical Corporation USA](https://www.wacker.com/cms/en-us/about-wacker/wacker-global/north-america/about-us/overview.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c8f08a95f5211cd2cebbb2?utm_campaign=1065&utm_source=git)** | Allentown, PA | Hybrid | Nov 15 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68c4b7bc31e5763f188e2fdd?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 15 |
-| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
-| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc36b893c49825ab10adc3?utm_campaign=1065&utm_source=git)** | Temple, TX | On Site | Nov 15 |
-| **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68cd55a11ad6b16f028982c4?utm_campaign=1065&utm_source=git)** | Southfield, MI | On Site | Nov 15 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Aviation Sales & Marketing Intern](https://jobright.ai/jobs/info/68e04af3f758fe1f97e4bfd3?utm_campaign=1065&utm_source=git)** | Olathe, KS | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
