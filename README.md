@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[1AM Talent Group](http://1amtalentgroup.com)** | **[Influencer Marketing Intern - Spring](https://jobright.ai/jobs/info/6919106f15b4156367184398?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Focus Loom](https://www.linkedin.com/company/106102351)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6919059ebcdbf3560c9d407e?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 15 |
+| **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6919036645fb6f5ead8a740f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Biology Social Media Assistant (BSM) AY’26](https://jobright.ai/jobs/info/6918e4e9bcdbf3560c9d3c7c?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 15 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale)](https://jobright.ai/jobs/info/6918e3db45fb6f5ead8a700f?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- B2C Market Strategy Intern](https://jobright.ai/jobs/info/6918de9645fb6f5ead8a6f11?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
@@ -121,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68d00191dbd9fb154edecabf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 15 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68ccd89577add66568aba4d7?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 15 |
 | ↳ | **[2026 Marketing Pursuit Strategy & Proposal Team Intern](https://jobright.ai/jobs/info/68c7b51e27f0732240603758?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 15 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/6918f93f45fb6f5ead8a7367?utm_campaign=1065&utm_source=git)** | Muscatine, IA | Hybrid | Nov 15 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 15 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Nov 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6901b3f14539ea1f21422698?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of Cleveland](https://clevelandfed.org/)** | **[Conference & Events Management Intern - Summer 2026](https://jobright.ai/jobs/info/68dc750aaccfd24b67e559b3?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 14 |
 | **[Axil Health](www.axilhealth.com)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/6917e663bcdbf3560c9cc6b6?utm_campaign=1065&utm_source=git)** | Raleigh,NC,US | Hybrid | Nov 14 |
 | **[Austin PBS](http://www.austinpbs.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6917f0f8bcdbf3560c9cccae?utm_campaign=1065&utm_source=git)** | Austin,TX,US | On Site | Nov 14 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c3e315b415636717b567?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[AOA](https://www.insideaoa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6917f2e015b415636717d0c5?utm_campaign=1065&utm_source=git)** | Winter Park,FL,US | On Site | Nov 14 |
-| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 14 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917c0a7bcdbf3560c9cb094?utm_campaign=1065&utm_source=git)** | Austin | Hybrid | Nov 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
