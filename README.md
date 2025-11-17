@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Growth Intern (Summer '26)](https://jobright.ai/jobs/info/691a928115b4156367188f05?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
+| **[Danber Technologies](www.danbertech.com)** | **[Marketing Intern (UNPAID)](https://jobright.ai/jobs/info/691a8a1d45fb6f5ead8abc1c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 16 |
+| **[Intgr8AI](www.intgr8ai.com)** | **[Content & Marketing Intern](https://jobright.ai/jobs/info/691a814b15b4156367188829?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Tumbling Dumpling Media](https://www.yingc.com)** | **[Editorial and Marketing Intern](https://jobright.ai/jobs/info/691a7acc15b415636718878f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/691a6dea45fb6f5ead8ab784?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Nov 16 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb5eb9821486c423c6d84?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Nov 16 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/691a644d15b41563671885d0?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Nov 16 |
-| **[Todd](https://toddagriscience.com)** | **[Growth Intern (Summer '26)](https://jobright.ai/jobs/info/691a5e17bcdbf3560c9d8305?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
 | **[Jonathan Quiñónez Farmers Insurance Agency](https://agents.farmers.com/ok/norman/jonathan-quinonez)** | **[Marketing & Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/691a54c3bcdbf3560c9d8244?utm_campaign=1065&utm_source=git)** | Norman, OK | On Site | Nov 16 |
 | **[KAISO Los Angeles](www.instagram.com/kaisolosangeles)** | **[Social Media Music Intern](https://jobright.ai/jobs/info/691a4f2e15b415636718843f?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Nov 16 |
 | **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Nov 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axil Health](www.axilhealth.com)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/6918a84e45fb6f5ead8a656b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/68fbe876f55bb021a889ddea?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 15 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Marketing Intern (Summer 2026) - Archdale, NC](https://jobright.ai/jobs/info/68cda66fb2a74e1837eda44a?utm_campaign=1065&utm_source=git)** | Archdale, NC | On Site | Nov 15 |
-| **[Operation Smile](http://www.operationsmile.org)** | **[Events & Partnerships Internship (Unpaid)](https://jobright.ai/jobs/info/68cfdd49846f0b04af685873?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 15 |
-| **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/690ba86b221b890c277f6a39?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
