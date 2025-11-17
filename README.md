@@ -57,23 +57,30 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Event Support and Social Media (Las Vegas, NV)](https://jobright.ai/jobs/info/691ae661bcdbf3560c9db5ae?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Nov 17 |
-| ↳ | **[Summer 2026 Intern - Peer-to-Peer Campaigns (Atlanta, GA)](https://jobright.ai/jobs/info/691ae379bcdbf3560c9db3fe?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 17 |
-| ↳ | **[Summer 2026 Intern - Workflow Coordinator (Memphis, TN)](https://jobright.ai/jobs/info/691ae34845fb6f5ead8aea37?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
+| **[Deutsche Börse](http://deutsche-boerse.com/dbg-en/about-us/deutsche-boerse-group/business-areas/ventures/db1ventures-contacts)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/68d42e4217554c2d9eef686b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 17 |
+| **[The Toro Company](https://www.thetorocompany.com)** | **[RLC Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cf2e06fb49c96ca6ea6387?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Nov 17 |
+| **[moomoo ](https://www.moomoo.com)** | **[Unpaid - Integrated Marketing Intern](https://jobright.ai/jobs/info/68bf0cd78e65e77df55b6716?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Nov 17 |
+| ↳ | **[Unpaid - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/690bca2b4a1b456627b12def?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Nov 17 |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Event Planner (Southern California)](https://jobright.ai/jobs/info/691af2f915b415636718c272?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
 | ↳ | **[Summer 2026 Intern - Event Planner (Peoria, IL)](https://jobright.ai/jobs/info/691ae2dd45fb6f5ead8aea13?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Nov 17 |
-| ↳ | **[Summer 2026 Intern - Events and Social Media (Pennsylvania)](https://jobright.ai/jobs/info/691ae246bcdbf3560c9db3af?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Event Support and Social Media (Las Vegas, NV)](https://jobright.ai/jobs/info/691ae661bcdbf3560c9db5ae?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Nov 17 |
+| ↳ | **[Summer 2026 Intern - Marketing Operations (Memphis TN)](https://jobright.ai/jobs/info/691ae3f6bcdbf3560c9db45c?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | ↳ | **[Summer 2026 Intern - Social Media Specialist (Memphis, TN)](https://jobright.ai/jobs/info/691add0645fb6f5ead8ae672?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern – NYC (Hybrid)](https://jobright.ai/jobs/info/691adb83bcdbf3560c9db2e4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
+| **[Chanhassen Dinner Theatres](http://chanhassendt.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/691aff4215b415636718c5a8?utm_campaign=1065&utm_source=git)** | Chanhassen, MN, US | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Next Generation Intern (Tri Delta) - Memphis TN](https://jobright.ai/jobs/info/691ad6b615b415636718b1bf?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 17 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Events and Social Media (Baton Rouge, LA)](https://jobright.ai/jobs/info/691ad37515b415636718ae4a?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | Hybrid | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Public Relations (Memphis, TN)](https://jobright.ai/jobs/info/691ad2eabcdbf3560c9dabe4?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
-| ↳ | **[Summer 2026 Intern - Marketing Operations (Memphis TN)](https://jobright.ai/jobs/info/691acfb145fb6f5ead8adebc?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Event and Social Media Specialist (Boston, MA)](https://jobright.ai/jobs/info/691af8efbcdbf3560c9dc226?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Event Planner (Memphis, TN)](https://jobright.ai/jobs/info/691acc1ebcdbf3560c9da6c5?utm_campaign=1065&utm_source=git)** | Memphis, TN | Hybrid | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Dinners, Galas, Golf Events Support (Memphis, TN)](https://jobright.ai/jobs/info/691acb7cbcdbf3560c9da69d?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | **[NinjaHoldings](https://www.ninjaholdings.com/)** | **[Marketing Analytics Summer Intern](https://jobright.ai/jobs/info/691ac88e45fb6f5ead8ad9cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 16 |
 | **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Fundraising Strategy & Innovation (Memphis, TN)](https://jobright.ai/jobs/info/691ac4d115b415636718a85d?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Workflow Coordinator (Memphis, TN)](https://jobright.ai/jobs/info/691ac4cd45fb6f5ead8ad963?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Event and Social Media Specialist (Boston, MA)](https://jobright.ai/jobs/info/691ab4f245fb6f5ead8ad323?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Peer-to-Peer Campaigns (Atlanta, GA)](https://jobright.ai/jobs/info/691ab4e445fb6f5ead8ad322?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
 | ↳ | **[Summer 2026 Intern - Event Coordinator (New York, New York)](https://jobright.ai/jobs/info/691acf9dbcdbf3560c9dab62?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Events and Social Media (Pennsylvania)](https://jobright.ai/jobs/info/691acc3515b415636718a998?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Nov 16 |
 | **[Pa'Lante Leaders](https://linktr.ee/palanteleaders)** | **[Fundraising Intern (Unpaid)](https://jobright.ai/jobs/info/691a9b7145fb6f5ead8ac5ee?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Nov 16 |
 | **[Intgr8AI](www.intgr8ai.com)** | **[Content & Marketing Intern](https://jobright.ai/jobs/info/691a814b15b4156367188829?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Tumbling Dumpling Media](https://www.yingc.com)** | **[Editorial and Marketing Intern](https://jobright.ai/jobs/info/691a7acc15b415636718878f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Influencer Intern](https://jobright.ai/jobs/info/68fc07fb93c49825ab108dd4?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 15 |
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/68fc11d493c49825ab10970f?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Nov 15 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68e05eccb99ec3563b0cf009?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Nov 15 |
-| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Marketing Technology & Ops](https://jobright.ai/jobs/info/6918962545fb6f5ead8a5fed?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 15 |
-| **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/68cf6a8d846f0b04af681dad?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Nov 15 |
-| ↳ | **[Marketing Intern – Fall 2026](https://jobright.ai/jobs/info/68cf4e18846f0b04af6804c2?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Nov 15 |
-| ↳ | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/68cc83687342c7623ae65f56?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Nov 15 |
-| ↳ | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/68cd1137b2a74e1837ed1aed?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Nov 15 |
-| ↳ | **[Brand Development Intern, MBA – Summer 2026](https://jobright.ai/jobs/info/68cd7887e23def7af55ba2d0?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Nov 15 |
-| **[BinkleyBarfield | DCCM](http://www.binkleybarfield.DCCM.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fbf57993c49825ab107dc5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
