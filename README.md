@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Event and Social Media Specialist (Boston, MA)](https://jobright.ai/jobs/info/691ab4f245fb6f5ead8ad323?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 16 |
+| ↳ | **[Summer 2026 Intern - Peer-to-Peer Campaigns (Atlanta, GA)](https://jobright.ai/jobs/info/691ab4e445fb6f5ead8ad322?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 16 |
+| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/691aab68bcdbf3560c9d9b07?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 16 |
+| **[Pa'Lante Leaders](https://linktr.ee/palanteleaders)** | **[Fundraising Intern (Unpaid)](https://jobright.ai/jobs/info/691a9b7145fb6f5ead8ac5ee?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Nov 16 |
 | **[Todd](https://toddagriscience.com)** | **[Growth Intern (Summer '26)](https://jobright.ai/jobs/info/691a928115b4156367188f05?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
-| **[Danber Technologies](www.danbertech.com)** | **[Marketing Intern (UNPAID)](https://jobright.ai/jobs/info/691a8a1d45fb6f5ead8abc1c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 16 |
 | **[Intgr8AI](www.intgr8ai.com)** | **[Content & Marketing Intern](https://jobright.ai/jobs/info/691a814b15b4156367188829?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Tumbling Dumpling Media](https://www.yingc.com)** | **[Editorial and Marketing Intern](https://jobright.ai/jobs/info/691a7acc15b415636718878f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Yardi](https://www.yardi.com)** | **[Intern](https://jobright.ai/jobs/info/691a6dea45fb6f5ead8ab784?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA | Hybrid | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/691887a7bcdbf3560c9d286c?utm_campaign=1065&utm_source=git)** | Winter Park, FL | On Site | Nov 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Vow'd Merchandising Intern](https://jobright.ai/jobs/info/68fbeb7bf55bb021a889e202?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Product Marketing Intern](https://jobright.ai/jobs/info/6918a8ffbcdbf3560c9d3256?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
-| **[Axil Health](www.axilhealth.com)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/6918a84e45fb6f5ead8a656b?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 15 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/68fbe876f55bb021a889ddea?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Nov 15 |
-| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Marketing Intern (Summer 2026) - Archdale, NC](https://jobright.ai/jobs/info/68cda66fb2a74e1837eda44a?utm_campaign=1065&utm_source=git)** | Archdale, NC | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
