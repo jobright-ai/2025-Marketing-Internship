@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Todd](https://toddagriscience.com)** | **[Growth Intern (Summer '26)](https://jobright.ai/jobs/info/691a5e17bcdbf3560c9d8305?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 16 |
+| **[Jonathan Quiñónez Farmers Insurance Agency](https://agents.farmers.com/ok/norman/jonathan-quinonez)** | **[Marketing & Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/691a54c3bcdbf3560c9d8244?utm_campaign=1065&utm_source=git)** | Norman, OK | On Site | Nov 16 |
+| **[KAISO Los Angeles](www.instagram.com/kaisolosangeles)** | **[Social Media Music Intern](https://jobright.ai/jobs/info/691a4f2e15b415636718843f?utm_campaign=1065&utm_source=git)** | Columbus, Ohio Metropolitan Area | Remote | Nov 16 |
 | **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Nov 16 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Nov 16 |
 | **[Christian Cowan](http://www.christiancowan.com)** | **[Public Relations, Partnerships & Events Spring Intern](https://jobright.ai/jobs/info/691a2e47bcdbf3560c9d7eb3?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 16 |
@@ -111,7 +114,7 @@ For a complete list, click the following sortable link below:
 | **[International Friendships, Inc.](https://www.ifiusa.org)** | **[Unpaid Internship: Event and Trip Intern in Columbus](https://jobright.ai/jobs/info/6919994fbcdbf3560c9d6a06?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 15 |
 | **[Ethos Early Learning Center](http://www.ethoslearn.com/)** | **[Marketing Intern (Contractor – Part-Time)](https://jobright.ai/jobs/info/69193a56bcdbf3560c9d4654?utm_campaign=1065&utm_source=git)** | Boston, MA, 02127, US | Hybrid | Nov 15 |
 | **[1AM Talent Group](http://1amtalentgroup.com)** | **[Influencer Marketing Intern - Spring](https://jobright.ai/jobs/info/6919106f15b4156367184398?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
-| **[Exituity](www.exituity.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6919036645fb6f5ead8a740f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 15 |
+| **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c3e315b415636717b567?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 15 |
 | **[La Sierra University](http://www.lasierra.edu/)** | **[Student Biology Social Media Assistant (BSM) AY’26](https://jobright.ai/jobs/info/6918e4e9bcdbf3560c9d3c7c?utm_campaign=1065&utm_source=git)** | Riverside, CA | On Site | Nov 15 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso- B2C Market Strategy Intern](https://jobright.ai/jobs/info/6918de9645fb6f5ead8a6f11?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 15 |
 | **[Speedway Motors, Inc](http://speedwaymotors.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6918de4e45fb6f5ead8a6f07?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Hybrid | Nov 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Product Marketing Intern (Summer 2026) - Archdale, NC](https://jobright.ai/jobs/info/68cda66fb2a74e1837eda44a?utm_campaign=1065&utm_source=git)** | Archdale, NC | On Site | Nov 15 |
 | **[Operation Smile](http://www.operationsmile.org)** | **[Events & Partnerships Internship (Unpaid)](https://jobright.ai/jobs/info/68cfdd49846f0b04af685873?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | Hybrid | Nov 15 |
 | **[Wilbur-Ellis](http://www.wilburellis.com)** | **[Marketing Intern - Summer '26](https://jobright.ai/jobs/info/690ba86b221b890c277f6a39?utm_campaign=1065&utm_source=git)** | Colorado, United States | Remote | Nov 15 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
-| ↳ | **[Internship – Communications (Year-Round)](https://jobright.ai/jobs/info/68cfa3fffb49c96ca6eaa07e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 15 |
-| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
