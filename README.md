@@ -57,13 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lockton](https://www.lockton.com/offices/uk)** | **[Market Strategy & Engagement Intern](https://jobright.ai/jobs/info/68ec935bd4b0106e703e9cbb?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 18 |
+| **[SPS Commerce](http://spscommerce.com)** | **[Marketing Intern (Talent Pool)](https://jobright.ai/jobs/info/69047b3b63502c0aded73383?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 18 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/691b6e4022a2cb4b9bd124c6?utm_campaign=1065&utm_source=git)** | Shanghai, VA | Hybrid | Nov 18 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/68ec6cc3c26b9574506f1c3d?utm_campaign=1065&utm_source=git)** | Vancouver, WA | Hybrid | Nov 18 |
+| **[TikTok](https://www.tiktok.com)** | **[Growth Marketing Intern (SMB Product) 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68cd2884b2a74e1837ed34cb?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 18 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Communications Intern](https://jobright.ai/jobs/info/691c5c45ff70244984167856?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Nov 18 |
+| **[Innovative Project Solutions](https://www.ipsinc.net)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691c5aa922a2cb4b9bd1a61d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 18 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, West Los Angeles](https://jobright.ai/jobs/info/691c25e122a2cb4b9bd19722?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Columbus](https://jobright.ai/jobs/info/691c24f8bcdbf3560c9e5f03?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, East Los Angeles](https://jobright.ai/jobs/info/691c1cd215b4156367195e0e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 17 |
 | **[Greystar](https://www.stoneridgemp.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/691c1c6a15b4156367195df5?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 17 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Charleston](https://jobright.ai/jobs/info/691c1970bcdbf3560c9e5afa?utm_campaign=1065&utm_source=git)** | Charleston, SC | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Cleveland](https://jobright.ai/jobs/info/691c18ca15b4156367195d34?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Nov 17 |
-| ↳ | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/691c1721bcdbf3560c9e5a6e?utm_campaign=1065&utm_source=git)** | Providence, RI | Hybrid | Nov 17 |
+| **[SIEG Soluções Fiscais Estratégicas](https://www.sieg.com)** | **[Estagiário de Marketing - BI](https://jobright.ai/jobs/info/691781ea15b4156367178670?utm_campaign=1065&utm_source=git)** | Greater São Paulo Area | On Site | Nov 17 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/691c1721bcdbf3560c9e5a6e?utm_campaign=1065&utm_source=git)** | Providence, RI | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/691c172022a2cb4b9bd19250?utm_campaign=1065&utm_source=git)** | Honolulu, HI | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Peninsula](https://jobright.ai/jobs/info/691c3171bcdbf3560c9e620e?utm_campaign=1065&utm_source=git)** | San Mateo, CA | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, San Diego](https://jobright.ai/jobs/info/691c3465ff70244984166baa?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Nov 17 |
@@ -78,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Social Media Communications](https://jobright.ai/jobs/info/69167cf4286ccf0a151368bd?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | On Site | Nov 17 |
 | **[Hudl](http://www.hudl.com)** | **[PR Intern](https://jobright.ai/jobs/info/69162a3d6f36db06ef053627?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 17 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[On - line Digital - Marketing-Intern - Wfh](https://jobright.ai/jobs/info/691beb3522a2cb4b9bd17821?utm_campaign=1065&utm_source=git)** | Canada | On Site | Nov 17 |
+| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/691c5a8022a2cb4b9bd1a60d?utm_campaign=1065&utm_source=git)** | Hebron, KY | On Site | Nov 17 |
 | **[BoldTek](https://www.boldtek.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691be2a515b4156367193bf5?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | Hybrid | Nov 17 |
 | **[TalentAlly](http://www.prodivnet.com/)** | **[Retail Marketing Partnerships Internship/ Co-op / Titleist](https://jobright.ai/jobs/info/691c0482bcdbf3560c9e4f24?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Nov 17 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Maine](https://jobright.ai/jobs/info/691be04122a2cb4b9bd16ff2?utm_campaign=1065&utm_source=git)** | US-ME-Portland | Hybrid | Nov 17 |
@@ -114,12 +123,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Boston](https://jobright.ai/jobs/info/691bcd5dbcdbf3560c9e2c48?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, St. Louis](https://jobright.ai/jobs/info/691bcc48bcdbf3560c9e2bb3?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 17 |
-| ↳ | **[Community Intern, Peninsula](https://jobright.ai/jobs/info/691bf2cfbcdbf3560c9e442c?utm_campaign=1065&utm_source=git)** | US-CA-San Mateo | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, East Los Angeles](https://jobright.ai/jobs/info/691befe015b4156367194577?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles | Hybrid | Nov 17 |
+| ↳ | **[Community Intern, Peninsula](https://jobright.ai/jobs/info/691bf2cfbcdbf3560c9e442c?utm_campaign=1065&utm_source=git)** | US-CA-San Mateo | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, West Los Angeles](https://jobright.ai/jobs/info/691be8acbcdbf3560c9e3e0c?utm_campaign=1065&utm_source=git)** | US-CA-Los Angeles (West) | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/691bedeebcdbf3560c9e410f?utm_campaign=1065&utm_source=git)** | US-RI-Providence | Hybrid | Nov 17 |
-| ↳ | **[Community Intern, Charleston](https://jobright.ai/jobs/info/691c049515b415636719532e?utm_campaign=1065&utm_source=git)** | US-SC-Charleston | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Columbus](https://jobright.ai/jobs/info/691bf57f22a2cb4b9bd17dd9?utm_campaign=1065&utm_source=git)** | US-OH-Columbus | Hybrid | Nov 17 |
+| ↳ | **[Community Intern, Charleston](https://jobright.ai/jobs/info/691c049515b415636719532e?utm_campaign=1065&utm_source=git)** | US-SC-Charleston | Hybrid | Nov 17 |
 | ↳ | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/691bed79bcdbf3560c9e40b7?utm_campaign=1065&utm_source=git)** | US-HI-Honolulu | Hybrid | Nov 17 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Public Relations Specialist](https://jobright.ai/jobs/info/691bf2e815b4156367194788?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Nov 17 |
 | **[M&T Bank](http://www.mtb.com)** | **[2026 Corporate Summer Internship Program - Engagement Coordinator](https://jobright.ai/jobs/info/691bc1d822a2cb4b9bd15b74?utm_campaign=1065&utm_source=git)** | Buffalo, NY | Hybrid | Nov 17 |
@@ -143,18 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Nov 17 |
 | **[The Math Agency](https://themathagency.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691c35fbff70244984166c66?utm_campaign=1065&utm_source=git)** | Greater Seattle Area | On Site | Nov 17 |
 | **[BoldTek](https://www.boldtek.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691bcbbc22a2cb4b9bd16223?utm_campaign=1065&utm_source=git)** | Fort Collins, CO | Hybrid | Nov 17 |
+| **[Four Hands](https://fourhands.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/691baef9bcdbf3560c9e1679?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 17 |
 | **[EDLORE](http://edlore.com/)** | **[Sales and Marketing Intern - Technology and the defense sector](https://jobright.ai/jobs/info/691c2e9b22a2cb4b9bd19920?utm_campaign=1065&utm_source=git)** | Laguna Niguel, CA | On Site | Nov 17 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Michigan](https://jobright.ai/jobs/info/691bab83bcdbf3560c9e1436?utm_campaign=1065&utm_source=git)** | Portage, MI | On Site | Nov 17 |
 | **[Airdog USA Inc.](https://www.airdogusa.com)** | **[Social Media & Influencer Marketing Specialist (Entry-Level/Internship)](https://jobright.ai/jobs/info/691bd5c215b4156367193483?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Nov 17 |
 | **[Wasserman](http://www.teamwass.com)** | **[Spring 2026 Internship - Strategy, Creators](https://jobright.ai/jobs/info/691bee06bcdbf3560c9e4126?utm_campaign=1065&utm_source=git)** | USA-NY - New York City Office (One Liberty Plaza) | Remote | Nov 17 |
-| **[Delibity](https://delibity.com/)** | **[Delibity Campus Sales Ambassador](https://jobright.ai/jobs/info/691608ed286ccf0a151320f8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 17 |
-| **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Onsite Social Media Marketing Intern](https://jobright.ai/jobs/info/691bc60615b4156367192a4f?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 17 |
-| **[Veach & Company](https://veach.ai/)** | **[Marketing Intern - NYC](https://jobright.ai/jobs/info/691bd333bcdbf3560c9e30ca?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Nov 17 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern - Atlanta, GA](https://jobright.ai/jobs/info/691ba31322a2cb4b9bd14817?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 17 |
-| **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Marketing - Texas](https://jobright.ai/jobs/info/691b9ef915b4156367190f90?utm_campaign=1065&utm_source=git)** | Flower Mound, TX | On Site | Nov 17 |
-| **[KeyBank](https://www.key.com)** | **[Summer 2026 Real Estate Capital Internship - Cleveland ICG](https://jobright.ai/jobs/info/690e758844146d3b6ec5479d?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 17 |
-| **[FC Dallas](http://www.fcdallas.com)** | **[FC Dallas Foundation & Community Relations 2026 MLS Season Intern](https://jobright.ai/jobs/info/691bbd9a22a2cb4b9bd15805?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Nov 17 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Brantford, ON](https://jobright.ai/jobs/info/691b9ddd22a2cb4b9bd14459?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Nov 17 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Events Intern](https://jobright.ai/jobs/info/691bcbf722a2cb4b9bd16264?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 17 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - Kite Marketing - Global Commercial Strategy](https://jobright.ai/jobs/info/691bf9ccbcdbf3560c9e4a31?utm_campaign=1065&utm_source=git)** | United States - California - Santa Monica | Hybrid | Nov 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
