@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Music Group PR & Promo Intern](https://jobright.ai/jobs/info/68e5f15ce8daec61499a6910?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Nov 19 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/689108a5f5ee707a15dbb854?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
+| **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/690c7652221b890c277fdf1d?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Nov 19 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 19 |
+| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69014379f8ce7a040fdbe4d5?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Nov 19 |
+| **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/68e5ab82e8daec61499a37b1?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | Hybrid | Nov 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/68ef57fc9821486c423c48fe?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68e5a4bc1852e62f0081331c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
 | **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Nov 19 |
@@ -71,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Events Intern](https://jobright.ai/jobs/info/691d917b7481340785ed87a8?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Nov 18 |
 | **[The Anthem Group](https://www.theanthemgroup.com/)** | **[Event & Marketing Intern](https://jobright.ai/jobs/info/691d9d45bcdbf3560c9f1f1a?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Marketing Co-Op Student](https://jobright.ai/jobs/info/691d5b287481340785ed6e87?utm_campaign=1065&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Nov 18 |
-| **[Nouri - Automated Grocery Planning](go-nouri.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691d5886bcdbf3560c9f0169?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691d57d7bcdbf3560c9f0119?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Nov 18 |
 | **[TEASPRESSA](https://teaspressa.com)** | **[Internship: Email Marketing, Copywriting & Design](https://jobright.ai/jobs/info/691d56937481340785ed6b64?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
 | **[Menlo School](https://www.menloschool.org/)** | **[Marketing and Design Intern](https://jobright.ai/jobs/info/691d54820b7dff7341502a17?utm_campaign=1065&utm_source=git)** | Atherton, CA | On Site | Nov 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kroger](https://www.thekrogerco.com/)** | **[Spring 2026 Operational Finance Supply Chain Intern](https://jobright.ai/jobs/info/691cede3ff7024498416bfa4?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Nov 18 |
 | **[OmniTrans](http://omnitrans.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/691ccffc22a2cb4b9bd1d769?utm_campaign=1065&utm_source=git)** | San Bernardino, CA | On Site | Nov 18 |
 | **[PIM Brands](https://pimbrands.com)** | **[eCommerce Sales & Marketing Intern](https://jobright.ai/jobs/info/691cec8b22a2cb4b9bd1eccc?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Nov 18 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/691ccdfc22a2cb4b9bd1d62f?utm_campaign=1065&utm_source=git)** | Canada | On Site | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Communications: Social Media](https://jobright.ai/jobs/info/691ccd52bcdbf3560c9e9e4d?utm_campaign=1065&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
-| **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Marketing - Cleveland](https://jobright.ai/jobs/info/691ccc2022a2cb4b9bd1d480?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
-| **[West + Main Homes](https://www.westandmain.com/)** | **[Social Media + Events](https://jobright.ai/jobs/info/691d1323ff7024498416d8e2?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Nov 18 |
-| **[CalAmp](http://www.calamp.com)** | **[Marketing Intern (Data/Statistical Analysis Focus)](https://jobright.ai/jobs/info/691cf46422a2cb4b9bd1f19f?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
