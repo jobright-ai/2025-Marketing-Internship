@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/68ef57fc9821486c423c48fe?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 19 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68e5a4bc1852e62f0081331c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 19 |
+| **[Q2](https://www.q2.com)** | **[2026 Summer Internship - Marketing](https://jobright.ai/jobs/info/68e58f12b99ec3563b0f66e1?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Nov 19 |
+| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Content Marketing Strategy](https://jobright.ai/jobs/info/6901e196d5259a1b3cff85dd?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Nov 19 |
+| **[Simtra BioPharma Solutions](https://simtra.com)** | **[2026 Summer Internship- Marketing](https://jobright.ai/jobs/info/691d99687481340785ed8951?utm_campaign=1065&utm_source=git)** | Bloomington, IN | On Site | Nov 19 |
+| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Marketing Communications](https://jobright.ai/jobs/info/691d96107481340785ed891d?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Nov 19 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Aerospace Marketing Intern (Business)](https://jobright.ai/jobs/info/691d7f6b0b7dff73415040ef?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Nov 19 |
 | **[Heritage Cooperative](http://heritagecooperative.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691d7f4b0b7dff73415040e8?utm_campaign=1065&utm_source=git)** | Delaware, OH | Hybrid | Nov 19 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/691d7bdd0b7dff7341503dec?utm_campaign=1065&utm_source=git)** | Orlando, Florida | On Site | Nov 19 |
 | **[Middle Seat](https://middleseat.co/)** | **[Digital Ads Intern (Winter 2026)](https://jobright.ai/jobs/info/691d7b260b7dff7341503dd5?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Remote | Nov 19 |
-| **[GenPark](https://genpark.ai)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/691d78127481340785ed7ef6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/691d9c3d49c9744234f1f076?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Nov 18 |
+| **[Turning Pointe Autism Foundation](http://www.turningpointeautismfoundation.org)** | **[Events Intern](https://jobright.ai/jobs/info/691d917b7481340785ed87a8?utm_campaign=1065&utm_source=git)** | Naperville, IL | On Site | Nov 18 |
+| **[The Anthem Group](https://www.theanthemgroup.com/)** | **[Event & Marketing Intern](https://jobright.ai/jobs/info/691d9d45bcdbf3560c9f1f1a?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 18 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Marketing Co-Op Student](https://jobright.ai/jobs/info/691d5b287481340785ed6e87?utm_campaign=1065&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Nov 18 |
 | **[Nouri - Automated Grocery Planning](go-nouri.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691d5886bcdbf3560c9f0169?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691d57d7bcdbf3560c9f0119?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Nov 18 |
@@ -148,13 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Communications: Social Media](https://jobright.ai/jobs/info/691ccd52bcdbf3560c9e9e4d?utm_campaign=1065&utm_source=git)** | Washington, D.C. | On Site | Nov 18 |
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Marketing - Cleveland](https://jobright.ai/jobs/info/691ccc2022a2cb4b9bd1d480?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
 | **[West + Main Homes](https://www.westandmain.com/)** | **[Social Media + Events](https://jobright.ai/jobs/info/691d1323ff7024498416d8e2?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Nov 18 |
-| **[Topia](https://www.utopiaspaandglobalwellness.com/)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/691cf51b22a2cb4b9bd1f22f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 18 |
 | **[CalAmp](http://www.calamp.com)** | **[Marketing Intern (Data/Statistical Analysis Focus)](https://jobright.ai/jobs/info/691cf46422a2cb4b9bd1f19f?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | Hybrid | Nov 18 |
-| **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Sycamore & Oak: Strategic Communications](https://jobright.ai/jobs/info/691ce96122a2cb4b9bd1e9d1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Communications: Social Media](https://jobright.ai/jobs/info/691ce7a8ff7024498416b9c4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| ↳ | **[Summer Intern, XQ Institute: Campaigns & Engagement](https://jobright.ai/jobs/info/691cebd622a2cb4b9bd1ec39?utm_campaign=1065&utm_source=git)** | Oakland, CA | On Site | Nov 18 |
-| ↳ | **[Summer Intern, Communications: Communications](https://jobright.ai/jobs/info/691cee4ebcdbf3560c9eb591?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
-| **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Digital Marketing Intern IFBF - May 2026 - May 2027](https://jobright.ai/jobs/info/691cc70022a2cb4b9bd1d1d4?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Nov 18 |
-| **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/691cc6b4bcdbf3560c9e9932?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Nov 18 |
-| **[Capital Bank, N.A.](http://www.capitalbankmd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691d11febcdbf3560c9ecf1e?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
