@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Marketing Co-Op Student](https://jobright.ai/jobs/info/691d5b287481340785ed6e87?utm_campaign=1065&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Nov 18 |
 | **[Nouri - Automated Grocery Planning](go-nouri.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691d5886bcdbf3560c9f0169?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691d57d7bcdbf3560c9f0119?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Nov 18 |
 | **[TEASPRESSA](https://teaspressa.com)** | **[Internship: Email Marketing, Copywriting & Design](https://jobright.ai/jobs/info/691d56937481340785ed6b64?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Nov 18 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[BWE](https://www.bwe.com/)** | **[Summer 2026 Internship - Marketing - Cleveland](https://jobright.ai/jobs/info/691ccc2022a2cb4b9bd1d480?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 18 |
 | **[West + Main Homes](https://www.westandmain.com/)** | **[Social Media + Events](https://jobright.ai/jobs/info/691d1323ff7024498416d8e2?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Nov 18 |
 | **[Topia](https://www.utopiaspaandglobalwellness.com/)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/691cf51b22a2cb4b9bd1f22f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 18 |
-| **[Institute for the Study of War](http://understandingwar.org/)** | **[Communications Internship Spring 2026](https://jobright.ai/jobs/info/691cecfcbcdbf3560c9eb431?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | **[CalAmp](http://www.calamp.com)** | **[Marketing Intern (Data/Statistical Analysis Focus)](https://jobright.ai/jobs/info/691cf46422a2cb4b9bd1f19f?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | Hybrid | Nov 18 |
 | **[Emerson Collective](http://emersoncollective.com)** | **[Summer Intern, Sycamore & Oak: Strategic Communications](https://jobright.ai/jobs/info/691ce96122a2cb4b9bd1e9d1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
 | ↳ | **[Summer Intern, Communications: Social Media](https://jobright.ai/jobs/info/691ce7a8ff7024498416b9c4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 18 |
