@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Parker Hannifin](http://www.parker.com)** | **[Aerospace Marketing Intern (Business)](https://jobright.ai/jobs/info/691d7f6b0b7dff73415040ef?utm_campaign=1065&utm_source=git)** | Kent, WA | On Site | Nov 19 |
+| **[Heritage Cooperative](http://heritagecooperative.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691d7f4b0b7dff73415040e8?utm_campaign=1065&utm_source=git)** | Delaware, OH | Hybrid | Nov 19 |
+| **[Orlando Health](https://www.orlandohealth.com/)** | **[Community Relations Intern](https://jobright.ai/jobs/info/691d7bdd0b7dff7341503dec?utm_campaign=1065&utm_source=git)** | Orlando, Florida | On Site | Nov 19 |
+| **[Middle Seat](https://middleseat.co/)** | **[Digital Ads Intern (Winter 2026)](https://jobright.ai/jobs/info/691d7b260b7dff7341503dd5?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Remote | Nov 19 |
+| **[GenPark](https://genpark.ai)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/691d78127481340785ed7ef6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 18 |
 | **[The Seaboard Transport Group](https://seaboardtransportgroup.com/)** | **[Marketing Co-Op Student](https://jobright.ai/jobs/info/691d5b287481340785ed6e87?utm_campaign=1065&utm_source=git)** | Dartmouth, Nova Scotia, Canada | On Site | Nov 18 |
 | **[Nouri - Automated Grocery Planning](go-nouri.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691d5886bcdbf3560c9f0169?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 18 |
 | **[GSI Engineering LLC](http://gsinetwork.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691d57d7bcdbf3560c9f0119?utm_campaign=1065&utm_source=git)** | Irving, TX | Hybrid | Nov 18 |
@@ -111,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/691cf7e722a2cb4b9bd1f4d2?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 18 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern- Commercial- Marketing](https://jobright.ai/jobs/info/691cf60922a2cb4b9bd1f2f7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 18 |
 | **[Agital](https://agital.com)** | **[Creator Community Intern](https://jobright.ai/jobs/info/68f8a60f4bafad6d2d764cdc?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 18 |
-| **[Mr Chirp Media](https://thedailychirp.beehiiv.com/)** | **[Sports Social Media Intern](https://jobright.ai/jobs/info/691d3e817481340785ed55b1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 18 |
 | **[Moondance Adventures](https://moondanceadventures.com/)** | **[Media + Marketing Intern](https://jobright.ai/jobs/info/691d2b150b7dff7341500791?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Nov 18 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Women's Merchandising](https://jobright.ai/jobs/info/691d15ffff7024498416dad8?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Nov 18 |
 | **[DirectCare AI](www.directcareai.com)** | **[Brand Ambassador & Social Media Intern (Unpaid Internship)](https://jobright.ai/jobs/info/691cf20422a2cb4b9bd1efb2?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Farm Bureau Financial Services](https://www.fbfs.com)** | **[Digital Marketing Intern IFBF - May 2026 - May 2027](https://jobright.ai/jobs/info/691cc70022a2cb4b9bd1d1d4?utm_campaign=1065&utm_source=git)** | West Des Moines, IA | On Site | Nov 18 |
 | **[Net Conversion](http://www.net-conversion.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/691cc6b4bcdbf3560c9e9932?utm_campaign=1065&utm_source=git)** | Orlando,FL,US | On Site | Nov 18 |
 | **[Capital Bank, N.A.](http://www.capitalbankmd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691d11febcdbf3560c9ecf1e?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Nov 18 |
-| **[Axalta](https://www.axalta.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/691cc0d2ff70244984169f66?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Nov 18 |
-| ↳ | **[Market Research & Data Analyst Intern](https://jobright.ai/jobs/info/691cbfa5ff70244984169e64?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Nov 18 |
-| **[Middle Seat](https://middleseat.co/)** | **[Social Media & Texting Intern (Winter 2025)](https://jobright.ai/jobs/info/691cbf8222a2cb4b9bd1cc86?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Remote | Nov 18 |
-| **[Haworth](http://www.haworth.com/)** | **[Product Line Marketing - Storage & Private Office Intern](https://jobright.ai/jobs/info/691ce9d422a2cb4b9bd1ea4d?utm_campaign=1065&utm_source=git)** | Holland, MI | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
