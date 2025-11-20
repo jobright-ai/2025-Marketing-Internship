@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nirva](https://www.nirva.life/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691eb611a49a885af9a2a648?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 19 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/691ea1c809cc522e8773b44f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/691ea11109cc522e8773b429?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 19 |
 | **[TPH Academy](https://totalpackagehockey.com)** | **[Marketing Internship - TPH St. Louis](https://jobright.ai/jobs/info/691e9e383f782d2f1afb61c7?utm_campaign=1065&utm_source=git)** | Maryland Heights, MO | On Site | Nov 19 |
-| **[RAAS](https://raastheglobaldesi.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/691e948ba49a885af9a29cad?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691e945b09cc522e8773b115?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Nov 19 |
 | **[Thompson Hospitality](http://www.thompsonhospitality.com)** | **[Marketing Intern (GMU Students)](https://jobright.ai/jobs/info/691e8fec09cc522e8773af94?utm_campaign=1065&utm_source=git)** | Reston, Virginia | On Site | Nov 19 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
@@ -79,7 +79,9 @@ For a complete list, click the following sortable link below:
 | **[Cerrowire](http://cerrowire.com)** | **[Tiger Launch - Marketing Intern](https://jobright.ai/jobs/info/691e7083a49a885af9a28605?utm_campaign=1065&utm_source=git)** | Hartselle, AL | On Site | Nov 19 |
 | **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Digital Marketing/eCommerce](https://jobright.ai/jobs/info/691e6fdaa49a885af9a28575?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | ↳ | **[Summer Internship - Marketing & Sales/Independent Bookstore](https://jobright.ai/jobs/info/691e6f63a49a885af9a28513?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
-| ↳ | **[Summer Internship - Kids/YA Marketing and Publicity](https://jobright.ai/jobs/info/691e68ca3f782d2f1afb46b3?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
+| **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec1073f782d2f1afb6bbd?utm_campaign=1065&utm_source=git)** | US-TX-Austin | On Site | Nov 19 |
+| ↳ | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/691ec30d09cc522e8773bfe9?utm_campaign=1065&utm_source=git)** | Moody Center (Austin, TX) | On Site | Nov 19 |
+| **[Sourcebooks](http://www.sourcebooks.com/)** | **[Summer Internship - Kids/YA Marketing and Publicity](https://jobright.ai/jobs/info/691e68ca3f782d2f1afb46b3?utm_campaign=1065&utm_source=git)** | Naperville, IL | Hybrid | Nov 19 |
 | **[Kosyachts](kosyachts.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691e6594a49a885af9a28318?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 19 |
 | **[CCYP.COM INC](https://www.ccyp.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/691e858d3f782d2f1afb591a?utm_campaign=1065&utm_source=git)** | Rosemead, CA | On Site | Nov 19 |
 | **[Matrix Partners | Pet Marketing Agency](https://matrix1.com/)** | **[Influencer Marketing & Content Intern (Unpaid)](https://jobright.ai/jobs/info/691e5fd6a49a885af9a2812b?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 19 |
@@ -89,9 +91,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/691e58aea49a885af9a27e3a?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Nov 19 |
 | **[UES](https://www.teamues.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691e56f33f782d2f1afb3f99?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 19 |
 | **[MG Companies](https://www.instagram.com/mgcompanies/)** | **[Social Media Marketing Intern (Construction)](https://jobright.ai/jobs/info/691e7ac009cc522e8773a272?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 19 |
-| **[DomainTools](http://www.domaintools.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/691e738c3f782d2f1afb4b2e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 19 |
+| **[DomainTools](http://www.domaintools.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/691e70f23f782d2f1afb48c2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 19 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/691e7491a49a885af9a28a1c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 19 |
-| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/691e70f23f782d2f1afb48c2?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 19 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/691e738c3f782d2f1afb4b2e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 19 |
 | **[FC Dallas](http://www.fcdallas.com)** | **[Spring 2026 Partnership Marketing Intern](https://jobright.ai/jobs/info/691e51ef09cc522e87738e9e?utm_campaign=1065&utm_source=git)** | Frisco, TX | On Site | Nov 19 |
 | **[Los Angeles Times](http://www.latimes.com)** | **[Content Intern Part-time (LA Times Studios)](https://jobright.ai/jobs/info/691e514509cc522e87738dfe?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Nov 19 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content ❤️](https://jobright.ai/jobs/info/691e512209cc522e87738ddb?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 19 |
@@ -153,8 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Summer 2026] Communications Internship](https://jobright.ai/jobs/info/691e16afa49a885af9a24d4b?utm_campaign=1065&utm_source=git)** | New York City, NY | Hybrid | Nov 19 |
 | ↳ | **[[Summer 2026] Marketing Internship](https://jobright.ai/jobs/info/691e15dea49a885af9a24c72?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 | **[Cedarcrest](https://cedarcrestcenter.org/)** | **[Marketing and Digital Media Intern: Spring 2026](https://jobright.ai/jobs/info/691e1576a49a885af9a24bf0?utm_campaign=1065&utm_source=git)** | KEENE, NH, USA | On Site | Nov 19 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Internship - Creator Management (Digital Marketing)](https://jobright.ai/jobs/info/691e148b09cc522e87735e35?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 19 |
 | **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[Corporate Social Responsibility Intern - Summer 2026](https://jobright.ai/jobs/info/691e13da3f782d2f1afb0ac3?utm_campaign=1065&utm_source=git)** | Red Wing, MN, USA | On Site | Nov 19 |
-| **[Dallas Zoo](http://dallaszoo.com)** | **[Philanthropy / Event Management Non-Profit Management Internship- Spring 2026](https://jobright.ai/jobs/info/691e13b809cc522e87735d2d?utm_campaign=1065&utm_source=git)** | Dallas, Texas | On Site | Nov 19 |
-| **[UES](https://www.teamues.com)** | **[Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/691e13b309cc522e87735d26?utm_campaign=1065&utm_source=git)** | Irving, Texas | On Site | Nov 19 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Spring 2026 Internship - Merchandising Operations](https://jobright.ai/jobs/info/691e1262a49a885af9a24809?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
