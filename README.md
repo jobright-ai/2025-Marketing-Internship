@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/690418bdff462851feff2b49?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Nov 21 |
+| **[Pentair](http://www.pentair.com)** | **[Marketing Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/689406fca9199876488e1f50?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 21 |
+| ↳ | **[Marketing Leadership Development Internship Program - Summer 2026](https://jobright.ai/jobs/info/68940af4f47efe2113968e27?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Nov 21 |
+| **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Nov 21 |
 | **[LiveTrends Design Group](http://livetrendsdesign.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69202f153f782d2f1afc370b?utm_campaign=1065&utm_source=git)** | Apopka, FL | On Site | Nov 21 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Digital Marketing Internship -Spring 2026](https://jobright.ai/jobs/info/69202a7ca49a885af9a37223?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Nov 21 |
 | **[Lavish Gastronomy Privé](https://www.lavishgastronomyprive.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/692024b5a49a885af9a37010?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | On Site | Nov 21 |
@@ -91,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Project Management](https://jobright.ai/jobs/info/691fc5a909cc522e877454eb?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Nov 20 |
 | **[International Rescue Committee](http://www.rescue.org/)** | **[Spring 2026: Development & Communications Intern (Unpaid)](https://jobright.ai/jobs/info/691fc448a49a885af9a33e07?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Nov 20 |
 | **[CAIA Association](https://www.caia.org/)** | **[Chapter Relations Intern (Remote)](https://jobright.ai/jobs/info/691fc2c909cc522e8774529f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 20 |
-| **[Ross Video](http://rossvideo.com)** | **[W25-MC1: Digital Marketing Student Intern](https://jobright.ai/jobs/info/691feb3609cc522e87746a1c?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 20 |
+| **[Ross Video](http://rossvideo.com)** | **[W25-MC1: Digital Marketing Student Intern](https://jobright.ai/jobs/info/691fed9aa49a885af9a35755?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Nov 20 |
 | **[Trybe 8](www.trybe8.com)** | **[Event Coordinator Intern – Trybe 8 (Miami Beach)](https://jobright.ai/jobs/info/691fdc2009cc522e8774617c?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | Hybrid | Nov 20 |
 | **[POSH](https://www.poshenergy.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/691ff4183f782d2f1afc1d23?utm_campaign=1065&utm_source=git)** | Hayward, CA | On Site | Nov 20 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Digital Marketing Internship -Spring 2026](https://jobright.ai/jobs/info/691fbd83a49a885af9a33987?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Nov 20 |
@@ -136,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[QPS Holdings, LLC](https://www.qps.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/691f8f28a49a885af9a31bcd?utm_campaign=1065&utm_source=git)** | Newark, DE, US | On Site | Nov 20 |
 | **[Hickman Mills C-1 School District](https://www.hickmanmills.org/)** | **[Student Intern - Communications Department](https://jobright.ai/jobs/info/691f8e05a49a885af9a31a73?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Nov 20 |
 | **[AARP](http://www.aarp.org)** | **[Brand and Social Media Intern](https://jobright.ai/jobs/info/691f8dd809cc522e87742d6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 20 |
+| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691f8dc909cc522e87742d54?utm_campaign=1065&utm_source=git)** | Jericho, NY | On Site | Nov 20 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691f8b0709cc522e87742b8c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 20 |
 | **[Boyd Jones Construction](http://boydjones.biz)** | **[Marketing Internship](https://jobright.ai/jobs/info/691f8a473f782d2f1afbd8a5?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 20 |
 | **[Encompass Solutions, Inc.](https://www.encompass-inc.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/691f89daa49a885af9a316d8?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Nov 20 |
@@ -144,7 +149,6 @@ For a complete list, click the following sortable link below:
 | **[Craftwork](https://craftwork.com)** | **[Market Launch Intern](https://jobright.ai/jobs/info/691fa5a409cc522e87744146?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 20 |
 | **[QPS Holdings, LLC](https://www.qps.com)** | **[Market Research Intern](https://jobright.ai/jobs/info/691f892b3f782d2f1afbd769?utm_campaign=1065&utm_source=git)** | Newark, DE | On Site | Nov 20 |
 | **[Virtual, Inc.](http://virtualmgmt.com)** | **[Spring 2026 Marketing Communications Internship](https://jobright.ai/jobs/info/691f88b93f782d2f1afbd6e8?utm_campaign=1065&utm_source=git)** | Wakefield, MA | On Site | Nov 20 |
-| **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691f885ba49a885af9a3154e?utm_campaign=1065&utm_source=git)** | Jericho, NY | On Site | Nov 20 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Programming, Marketing and Merchandising Intern, New Media - Spring 2026](https://jobright.ai/jobs/info/691f82453f782d2f1afbd28c?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Nov 20 |
 | **[Southern Champion Tray](http://sctray.com)** | **[Marketing Intern - Spring Semester](https://jobright.ai/jobs/info/691fa3cc3f782d2f1afbee1a?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Nov 20 |
 | **[The Lede Company](https://ledecompany.com)** | **[Intern - Spring 2026](https://jobright.ai/jobs/info/691f6e883f782d2f1afbbf1e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunner](http://brunnerworks.com)** | **[Digital Performance Marketing Intern](https://jobright.ai/jobs/info/691f7a6fa49a885af9a3089a?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 20 |
 | **[PA Workforce Development Association](https://www.pawork.org/)** | **[Membership And Marketing Intern](https://jobright.ai/jobs/info/691f9fa509cc522e87743ccb?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Nov 20 |
 | **[The State University of New York](http://www.suny.edu/)** | **[Communications Intern for the Office of Research, Innovation, and Economic Development](https://jobright.ai/jobs/info/690d02e8d046ab6061cf17ee?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Nov 20 |
-| **[Covia](https://www.coviacorp.com/)** | **[Marketing Communications Internship Summer 2026](https://jobright.ai/jobs/info/691f78e73f782d2f1afbc986?utm_campaign=1065&utm_source=git)** | Concord, NC | Hybrid | Nov 20 |
-| **[Friends of the Blue Hills](https://friendsofthebluehills.org/)** | **[Nonprofit Management Intern](https://jobright.ai/jobs/info/691f97173f782d2f1afbe5c7?utm_campaign=1065&utm_source=git)** | Milton, MA | Hybrid | Nov 20 |
-| **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/691f76f0a49a885af9a30487?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 20 |
-| **[Susan G. Komen](http://www.komen.org)** | **[New York Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/691f9a64a49a885af9a324e5?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Nov 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
