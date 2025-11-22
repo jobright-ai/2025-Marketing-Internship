@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mitra Chem](https://mitrachem.com)** | **[MBA Commercial Intern](https://jobright.ai/jobs/info/6922132b3f782d2f1afd48a2?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Nov 22 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/69221248d1ec2c3565c46a67?utm_campaign=1065&utm_source=git)** | Illinois, United States | On Site | Nov 22 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, F&B/Beauty (Spring 2026)](https://jobright.ai/jobs/info/6905412163502c0aded79f09?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6922029a3f782d2f1afd4543?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Red Wing Shoe Co.](http://www.redwingshoes.com/)** | **[Brand Creative + Social Intern - Summer 2026](https://jobright.ai/jobs/info/692200dfd1ec2c3565c466eb?utm_campaign=1065&utm_source=git)** | Red Wing, MN | On Site | Nov 22 |
+| **[Novacore](http://nsminc.com)** | **[Summer Intern- Marketing & Communications](https://jobright.ai/jobs/info/690d7e41d046ab6061cf6ab8?utm_campaign=1065&utm_source=git)** | Conshohocken, PA | Hybrid | Nov 22 |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Digital Marketing intern - summer](https://jobright.ai/jobs/info/6921fb1ea49a885af9a480a5?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 22 |
 | **[PACCAR Parts](http://www.paccarparts.com/)** | **[Summer Internship - Digital Marketing](https://jobright.ai/jobs/info/68e963d165768b6412b1b6a6?utm_campaign=1065&utm_source=git)** | Renton, WA | On Site | Nov 22 |
 | **[Enterprise Bank & Trust](https://www.enterprisebank.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cc92b5128dc347fd926b9f?utm_campaign=1065&utm_source=git)** | Clayton, MO | Hybrid | Nov 22 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Ecommerce & CRM Intern, D2C (May to August)](https://jobright.ai/jobs/info/68ce42531ad6b16f028a376b?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Nov 22 |
@@ -119,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
 | **[Ascendro](https://www.linkedin.com/company/101421200)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/6921948ad1ec2c3565c451d3?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 21 |
 | **[Match](http://www.lifeatmatch.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921663ba49a885af9a45904?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
-| **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/692163133f782d2f1afd1c94?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 21 |
 | **[AARP](http://www.aarp.org)** | **[Outreach and Communications Intern](https://jobright.ai/jobs/info/6921594b00c9ee50eaece117?utm_campaign=1065&utm_source=git)** | Annapolis, MD | Hybrid | Nov 21 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/69217990d1ec2c3565c44693?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 21 |
 | **[Atlas Cloud](https://www.atlascloud.ai/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69214afc00c9ee50eaecd89d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 21 |
@@ -127,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692143c5a49a885af9a445d7?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Nov 21 |
 | **[Etico Management](https://eticomanagement.com/)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6921430100c9ee50eaecd2bc?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 21 |
 | **[Tinder](http://www.tinder.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921423f00c9ee50eaecd252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[Crest Vale](crestvale.us)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/69213fcc3f782d2f1afd08fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 21 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 21 |
 | **[Root Access](https://rootaccess.ai/)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/692135a700c9ee50eaecce37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | Hybrid | Nov 21 |
@@ -139,7 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921172f3f782d2f1afcf213?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/692115ad3f782d2f1afcf0f0?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6921144fa49a885af9a42be3?utm_campaign=1065&utm_source=git)** | American Fork, Utah | On Site | Nov 21 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692112f83f782d2f1afceeb7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692113af3f782d2f1afcefa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6921128ba49a885af9a42a5d?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921119800c9ee50eaecb663?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Signal Group DC](https://signaldc.com/)** | **[Digital Internship (Spring 2026)](https://jobright.ai/jobs/info/692110513f782d2f1afcecfc?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arc](https://arcboats.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fab63db2c86843bf21159f?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/69210a2200c9ee50eaecb093?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/692106703f782d2f1afce6c0?utm_campaign=1065&utm_source=git)** | Prescott, AZ | On Site | Nov 21 |
-| **[Genmab](https://www.genmab.com)** | **[Omnichannel Marketing Strategy Intern](https://jobright.ai/jobs/info/692104bd3f782d2f1afce584?utm_campaign=1065&utm_source=git)** | Princeton, NJ | Hybrid | Nov 21 |
-| **[Sunfish](https://joinsunfish.com/)** | **[Content & Partnerships Intern](https://jobright.ai/jobs/info/6921040b3f782d2f1afce519?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[Tinder](http://www.tinder.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6921027a3f782d2f1afce3fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[ZUMAS](https://zumasrescueranch.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/692100cba49a885af9a41eee?utm_campaign=1065&utm_source=git)** | Littleton, CO | Hybrid | Nov 21 |
-| **[Tinder](http://www.tinder.com)** | **[Social Marketing Intern](https://jobright.ai/jobs/info/6920fccc00c9ee50eaeca73d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
