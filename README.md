@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/6921a0d8d1ec2c3565c45548?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
+| **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
+| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
+| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[Social Media Manager/Content Creator Internship](https://jobright.ai/jobs/info/69219b25d1ec2c3565c4542b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
+| **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
+| **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
+| **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
+| **[AxoraQ](axoraq.us)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/692189363f782d2f1afd2ca9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Brand Marketing Intern](https://jobright.ai/jobs/info/692184db3f782d2f1afd2ac2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6921846c3f782d2f1afd2a99?utm_campaign=1065&utm_source=git)** | Ada, MI | On Site | Nov 22 |
 | **[Adamczyk Fine Homes + Interiors](https://www.adamczykfinehomes.com)** | **[Social Media Producer - Intern](https://jobright.ai/jobs/info/6921841c3f782d2f1afd2a80?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Nov 22 |
@@ -68,13 +76,15 @@ For a complete list, click the following sortable link below:
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Regional Merchandising Intern](https://jobright.ai/jobs/info/692177bdd1ec2c3565c445e7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Global Corporate Communications Intern](https://jobright.ai/jobs/info/692177903f782d2f1afd2512?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Brand and Product Strategy Intern](https://jobright.ai/jobs/info/6921768a3f782d2f1afd2497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
+| **[Aether Field](https://www.linkedin.com/company/108607800)** | **[Communications Intern](https://jobright.ai/jobs/info/69219beed1ec2c3565c45469?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 22 |
 | **[Fast Protein](https://fast-protein.com/)** | **[Social media intern](https://jobright.ai/jobs/info/69216810d1ec2c3565c43f92?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Nov 21 |
+| **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
+| **[Ascendro](https://www.linkedin.com/company/101421200)** | **[B2B and B2C Marketing Intern](https://jobright.ai/jobs/info/6921948ad1ec2c3565c451d3?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Nov 21 |
 | **[Match](http://www.lifeatmatch.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921663ba49a885af9a45904?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/692163133f782d2f1afd1c94?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 21 |
 | **[Horizon Lane](horizonlane.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69217f663f782d2f1afd28e0?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 21 |
 | **[AARP](http://www.aarp.org)** | **[Outreach and Communications Intern](https://jobright.ai/jobs/info/6921594b00c9ee50eaece117?utm_campaign=1065&utm_source=git)** | Annapolis, MD | Hybrid | Nov 21 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/69217990d1ec2c3565c44693?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 21 |
-| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/69214c3aa49a885af9a44c8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 21 |
 | **[Atlas Cloud](https://www.atlascloud.ai/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/69214afc00c9ee50eaecd89d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Nov 21 |
 | **[TikTok](https://www.tiktok.com)** | **[Music Marketing Project Intern (Music Promotion and Distribution) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/692149ee3f782d2f1afd0e6c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 | **[OpenSesame](http://www.OpenSesame.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692143c5a49a885af9a445d7?utm_campaign=1065&utm_source=git)** | San Diego, CA | Remote | Nov 21 |
@@ -92,7 +102,7 @@ For a complete list, click the following sortable link below:
 | **[DMR Technologies](https://www.alsetai.com/)** | **[First Flight Social Media Intern](https://jobright.ai/jobs/info/692118ea00c9ee50eaecbaeb?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921172f3f782d2f1afcf213?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6921144fa49a885af9a42be3?utm_campaign=1065&utm_source=git)** | American Fork, Utah | On Site | Nov 21 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692113af3f782d2f1afcefa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
+| **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692112f83f782d2f1afceeb7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6921128ba49a885af9a42a5d?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921119800c9ee50eaecb663?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/69211120a49a885af9a428c8?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Brand and Product Strategy Intern](https://jobright.ai/jobs/info/6920eeea3f782d2f1afccf0f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Brand Marketing Intern, NA Wholesale Intern](https://jobright.ai/jobs/info/6920f6a03f782d2f1afcd722?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Global Brand Marketing Intern](https://jobright.ai/jobs/info/6920f71aa49a885af9a4167d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| ↳ | **[Regional Merchandising Intern](https://jobright.ai/jobs/info/6920f02600c9ee50eaec9959?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6920e8733f782d2f1afccb60?utm_campaign=1065&utm_source=git)** | Michigan City, IN | Remote | Nov 21 |
-| **[3rd-i: Safety Made Social](https://3rd-i.org)** | **[Marketing & Sales Internship (Performance-Based) FOR CURRENT UMIAMI OR PENN STATE STUDENTS](https://jobright.ai/jobs/info/69138fd81465e02904e95872?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 21 |
-| **[APEX Public Relations](https://theapex-pr.com/)** | **[Brands & Events PR Spring Intern](https://jobright.ai/jobs/info/6920ef5800c9ee50eaec9843?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[IRA Financial](https://www.irafinancialgroup.com/)** | **[Digital Marketing Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6920ef823f782d2f1afccfe4?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Nov 21 |
-| ↳ | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6920e3e2a49a885af9a40568?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Nov 21 |
-| **[Atlanta Hustle](https://www.watchufa.com/hustle)** | **[Social Media Intern](https://jobright.ai/jobs/info/6920ea443f782d2f1afccc8a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 21 |
-| **[Prysmian](https://www.prysmian.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6920c49400c9ee50eaec7c88?utm_campaign=1065&utm_source=git)** | Highland Heights, KY | On Site | Nov 21 |
-| **[Tuff City Records](http://www.tuffcity.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6920c373a49a885af9a3ef81?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 21 |
-| **[Gal Media Group](https://www.galmediagroup.com/)** | **[Influencer Management Intern (UNPAID)](https://jobright.ai/jobs/info/6920c35c3f782d2f1afcb2ff?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
