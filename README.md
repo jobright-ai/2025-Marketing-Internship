@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Intern - Fresh](https://jobright.ai/jobs/info/691ea13aa49a885af9a29f9f?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Public Relations Intern (Full-Time)](https://jobright.ai/jobs/info/68cc93697342c7623ae669e1?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 22 |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6905f28263502c0aded7f78b?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Nov 22 |
+| **[Guidewire Software](http://www.guidewire.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6912d734ea9ab01b82bf56b0?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Nov 22 |
+| **[Rehlko](https://www.rehlko.com/)** | **[2026 Rehlko Marketing Intern](https://jobright.ai/jobs/info/68cc763816d00d2beeb202f4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 22 |
+| **[Group 1001](https://group1001.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/691009ba183be660d2676f84?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Nov 22 |
 | **[CSIS Middle East Program](https://www.csis.org/programs/middle-east-program)** | **[Intern - Communications (Spring 2026)](https://jobright.ai/jobs/info/6921a0d8d1ec2c3565c45548?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 22 |
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
-| **[To & Fro ](https://www.linkedin.com/company/12644491)** | **[Social Media Manager/Content Creator Internship](https://jobright.ai/jobs/info/69219b25d1ec2c3565c4542b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Healthcare Research Associate (Intern – Flex Schedule)](https://jobright.ai/jobs/info/6921b85ba49a885af9a474bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
-| **[AxoraQ](axoraq.us)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/692189363f782d2f1afd2ca9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Brand Marketing Intern](https://jobright.ai/jobs/info/692184db3f782d2f1afd2ac2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Turtle Line](https://www.linkedin.com/company/107018721)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6921846c3f782d2f1afd2a99?utm_campaign=1065&utm_source=git)** | Ada, MI | On Site | Nov 22 |
 | **[Adamczyk Fine Homes + Interiors](https://www.adamczykfinehomes.com)** | **[Social Media Producer - Intern](https://jobright.ai/jobs/info/6921841c3f782d2f1afd2a80?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Nov 22 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Genmab](https://www.genmab.com)** | **[Omnichannel Marketing Strategy Intern](https://jobright.ai/jobs/info/6920cd91a49a885af9a3f617?utm_campaign=1065&utm_source=git)** | Princeton | Hybrid | Nov 21 |
 | **[The Bradley Center](https://thebradleycenter.org/)** | **[Marketing Internship](https://jobright.ai/jobs/info/692100f8a49a885af9a41f0e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Nov 21 |
 | **[Toyota of Orlando](http://toyotaoforlando.com)** | **[Social Media/Digital Marketing Intern](https://jobright.ai/jobs/info/6920ccc23f782d2f1afcbae8?utm_campaign=1065&utm_source=git)** | Orlando, FL, 32811, US | Hybrid | Nov 21 |
-| **[D.C. United](http://dcunited.com)** | **[Intern, Social Media - Spring 2026](https://jobright.ai/jobs/info/6920f10aa49a885af9a40cf1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 21 |
-| **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Long Term Internship - Marketing & Events](https://jobright.ai/jobs/info/6920ca7100c9ee50eaec80b1?utm_campaign=1065&utm_source=git)** | Chicago | On Site | Nov 21 |
-| **[Signify](https://www.signify.com)** | **[Marketing Intern, Animal Lighting - Spring 2026](https://jobright.ai/jobs/info/6920ca343f782d2f1afcb898?utm_campaign=1065&utm_source=git)** | Plymouth | On Site | Nov 21 |
-| **[Ralph Lauren](https://corporate.ralphlauren.com)** | **[Brand and Product Strategy Intern](https://jobright.ai/jobs/info/6920eeea3f782d2f1afccf0f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| ↳ | **[Brand Marketing Intern, NA Wholesale Intern](https://jobright.ai/jobs/info/6920f6a03f782d2f1afcd722?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| ↳ | **[Global Brand Marketing Intern](https://jobright.ai/jobs/info/6920f71aa49a885af9a4167d?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
