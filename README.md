@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 23 |
+| **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68985c3b5574fd6bc0c78fb5?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | Nov 23 |
+| **[Envision Executives](https://www.envisionexecutives.com/)** | **[Full Time Marketing Intern](https://jobright.ai/jobs/info/692324c838cd5478a8d561a9?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 23 |
+| **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692320a3c0cefa13343da376?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 23 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 23 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division Toronto [UG/Masters]](https://jobright.ai/jobs/info/691dd7d2748c4e1301ec93b5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 23 |
 | **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/6922f9b47795cd460c837d5f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 23 |
@@ -117,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Healthcare Research Associate (Intern – Flex Schedule)](https://jobright.ai/jobs/info/6921b85ba49a885af9a474bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
-| **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| ↳ | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| ↳ | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | ↳ | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Brand Marketing Intern](https://jobright.ai/jobs/info/692184db3f782d2f1afd2ac2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
@@ -143,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[Etico Management](https://eticomanagement.com/)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6921430100c9ee50eaecd2bc?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Nov 21 |
 | **[Tinder](http://www.tinder.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921423f00c9ee50eaecd252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Nov 21 |
+| **[Fastlane](https://www.linkedin.com/company/107855334)** | **[Marketing Intern](https://jobright.ai/jobs/info/69230b6ac0cefa13343da169?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 21 |
 | **[Root Access](https://rootaccess.ai/)** | **[Marketing & Growth Intern](https://jobright.ai/jobs/info/692135a700c9ee50eaecce37?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 21 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | Hybrid | Nov 21 |
 | **[Freese and Nichols](http://www.freese.com)** | **[Summer 2026 Internship - PR/Communications](https://jobright.ai/jobs/info/68ffea53e04ac838fb5bd444?utm_campaign=1065&utm_source=git)** | San Marcos, TX | Hybrid | Nov 21 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Brand Experience (Summer 2026)](https://jobright.ai/jobs/info/6914f8c36f36db06ef04a37a?utm_campaign=1065&utm_source=git)** | Neenah, WI | On Site | Nov 21 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[First Flight Social Media Intern](https://jobright.ai/jobs/info/692118ea00c9ee50eaecbaeb?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921172f3f782d2f1afcf213?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6921144fa49a885af9a42be3?utm_campaign=1065&utm_source=git)** | American Fork, Utah | On Site | Nov 21 |
-| **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692112f83f782d2f1afceeb7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6921128ba49a885af9a42a5d?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921119800c9ee50eaecb663?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/69211120a49a885af9a428c8?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| **[Signal Group DC](https://signaldc.com/)** | **[Digital Internship (Spring 2026)](https://jobright.ai/jobs/info/692110513f782d2f1afcecfc?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
