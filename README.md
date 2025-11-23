@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/692348a1c0cefa13343da7b4?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 23 |
+| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/692351e238cd5478a8d5661b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | On Site | Nov 23 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6923490e38cd5478a8d56551?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69234785c0cefa13343da778?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 23 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Category Manager - Intern/Hybrid Co-op](https://jobright.ai/jobs/info/68b20cc7f4e41a61efd81ea2?utm_campaign=1065&utm_source=git)** | Mettawa, IL | Hybrid | Nov 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Cattle Feeder Marketing Intern](https://jobright.ai/jobs/info/65b88183a337a8bf50301271?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 23 |
@@ -73,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6923384c38cd5478a8d5636c?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6923380738cd5478a8d5635f?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Abortion Campaigns Intern](https://jobright.ai/jobs/info/69233635c0cefa13343da58f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
-| **[Arvento A](arventoa.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692331eac0cefa13343da537?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 23 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6923303138cd5478a8d56293?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 23 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68985c3b5574fd6bc0c78fb5?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | Nov 23 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Klyros Growth Solutions](https://www.linkedin.com/company/92936762)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692320a3c0cefa13343da376?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 23 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 23 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division Toronto [UG/Masters]](https://jobright.ai/jobs/info/691dd7d2748c4e1301ec93b5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Nov 23 |
-| **[Nexora Solutions](https://www.linkedin.com/company/74301328)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/6922f9b47795cd460c837d5f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68eae5a476a1db7c5985c6a2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 23 |
 | **[Hudl](http://www.hudl.com)** | **[PR Intern](https://jobright.ai/jobs/info/69162a3d6f36db06ef053627?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 22 |
 | **[Shield Bearer Counseling Centers](http://www.ShieldBearer.org)** | **[Digital Media & Executive Intern](https://jobright.ai/jobs/info/69229aa6c0cefa13343d8835?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 22 |
@@ -137,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Healthcare Research Associate (Intern – Flex Schedule)](https://jobright.ai/jobs/info/6921b85ba49a885af9a474bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
-| **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| ↳ | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| ↳ | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | ↳ | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Brand Marketing Intern](https://jobright.ai/jobs/info/692184db3f782d2f1afd2ac2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
