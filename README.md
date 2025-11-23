@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Intern (Tik Tok)](https://jobright.ai/jobs/info/69226199a49a885af9a48d47?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 22 |
+| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/69225d97d1ec2c3565c4728b?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 22 |
+| **[Women Speak Up](www.womenspeakupus.org)** | **[Social Media & Communication Intern](https://jobright.ai/jobs/info/69224f883f782d2f1afd4ecd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/692226793f782d2f1afd4b81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 22 |
-| **[DrewFeig](https://www.linkedin.com/company/108576909)** | **[Marketing and Data Intern](https://jobright.ai/jobs/info/6922200ea49a885af9a48763?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[Campbell Street Services, LLC](https://campbellstreetservices.com)** | **[Digital Media & Talent Engagement Intern](https://jobright.ai/jobs/info/692217033f782d2f1afd4916?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Nov 22 |
 | **[InvisibleSun Energy](http://www.invisiblesunenergy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692213d83f782d2f1afd48d5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 22 |
 | **[Mitra Chem](https://mitrachem.com)** | **[MBA Commercial Intern](https://jobright.ai/jobs/info/6922132b3f782d2f1afd48a2?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Nov 22 |
@@ -143,11 +145,11 @@ For a complete list, click the following sortable link below:
 | **[Plexus Corp.](http://www.plexus.com/)** | **[Intern - Brand Experience (Summer 2026)](https://jobright.ai/jobs/info/6914f8c36f36db06ef04a37a?utm_campaign=1065&utm_source=git)** | Neenah, WI | On Site | Nov 21 |
 | **[DMR Technologies](https://www.alsetai.com/)** | **[First Flight Social Media Intern](https://jobright.ai/jobs/info/692118ea00c9ee50eaecbaeb?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921172f3f782d2f1afcf213?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
-| ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/692115ad3f782d2f1afcf0f0?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/6921144fa49a885af9a42be3?utm_campaign=1065&utm_source=git)** | American Fork, Utah | On Site | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692112f83f782d2f1afceeb7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
 | ↳ | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6921128ba49a885af9a42a5d?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | ↳ | **[Retention Marketing Intern](https://jobright.ai/jobs/info/6921119800c9ee50eaecb663?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
+| ↳ | **[Merchandising Intern](https://jobright.ai/jobs/info/69211120a49a885af9a428c8?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
 | **[Signal Group DC](https://signaldc.com/)** | **[Digital Internship (Spring 2026)](https://jobright.ai/jobs/info/692110513f782d2f1afcecfc?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Match](http://www.lifeatmatch.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692110303f782d2f1afcece0?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/69211010a49a885af9a42789?utm_campaign=1065&utm_source=git)** | Summit, NJ | Hybrid | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sunfish](https://joinsunfish.com/)** | **[Growth Marketing Operations Intern](https://jobright.ai/jobs/info/69210f3d00c9ee50eaecb3bf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 21 |
 | **[Signal Group DC](https://signaldc.com/)** | **[Communications Internship (Spring 2026)](https://jobright.ai/jobs/info/69210e59a49a885af9a425be?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 21 |
 | **[Tinder](http://www.tinder.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69210cd33f782d2f1afce926?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 21 |
-| **[Match](http://www.lifeatmatch.com)** | **[Social Marketing Intern](https://jobright.ai/jobs/info/69210bb700c9ee50eaecb1fb?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
-| **[Arc](https://arcboats.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68fab63db2c86843bf21159f?utm_campaign=1065&utm_source=git)** | Torrance, CA | On Site | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
