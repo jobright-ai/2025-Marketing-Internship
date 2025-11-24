@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Health) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68cccc4dfa466330fef91246?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
+| ↳ | **[Category Manager Graduate (TikTok Shop - Mass Acquisition & Incubation) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b7b103872d1074a98b23ec?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 24 |
+| **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/69243f6fc0cefa13343dde05?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 24 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68ce831bfb49c96ca6ea116f?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 24 |
+| **[Orchid Workshop](https://www.linkedin.com/company/72659170)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/6924359338cd5478a8d59802?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 24 |
+| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Marketing and Sales Associate - Vaccine](https://jobright.ai/jobs/info/69073d44ff462851fe007d19?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Nov 24 |
+| **[Starbeam](www.starbeam.org)** | **[Marketing and Sales (Growth) Intern](https://jobright.ai/jobs/info/6924331a7795cd460c83b835?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Nov 24 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692429377795cd460c83b693?utm_campaign=1065&utm_source=git)** | West Olive, MI | Hybrid | Nov 24 |
 | **[Bain & Company](https://www.bain.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6924251fc0cefa13343dd79f?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 24 |
 | **[Ohio Department of Youth Services](http://www.dys.ohio.gov)** | **[College Intern - Communications](https://jobright.ai/jobs/info/6920e9e700c9ee50eaec94f0?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 24 |
@@ -65,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69241d4ec0cefa13343dd612?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Nov 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69241bdec0cefa13343dd5cc?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
 | **[FranklinCovey](http://www.franklincovey.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/692404af38cd5478a8d58a56?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Remote | Nov 23 |
-| **[Crest Vale](crestvale.us)** | **[Market and Business Insights Intern](https://jobright.ai/jobs/info/6923fdfd7795cd460c83a770?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
 | **[Insilico Medicine](http://www.insilico.com)** | **[Internship Opportunity: AI & Longevity Industry – Communications, PR, and Strategy (3-Month Program)](https://jobright.ai/jobs/info/6923f8c47795cd460c83a482?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Nov 23 |
 | **[Kestra Financial](http://www.kestrafinancial.com/)** | **[Summer Internship, Marketing](https://jobright.ai/jobs/info/6923f2e6c0cefa13343dc6de?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 23 |
 | **[Tech Verses](techverses.us)** | **[Business Communications Intern](https://jobright.ai/jobs/info/6923f28cc0cefa13343dc6c1?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Nov 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simons Foundation](https://www.simonsfoundation.org)** | **[Communications Intern (Autism in the Workplace Program)](https://jobright.ai/jobs/info/68cecc7dfb49c96ca6ea39ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Nov 22 |
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Healthcare Research Associate (Intern – Flex Schedule)](https://jobright.ai/jobs/info/6921b85ba49a885af9a474bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
-| **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
-| **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
-| **[MathWorks](http://www.mathworks.com)** | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| ↳ | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| ↳ | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
