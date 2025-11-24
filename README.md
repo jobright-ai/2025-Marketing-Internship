@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6923d419c0cefa13343dbaf1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Nov 23 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6923d0a5c0cefa13343db9c2?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 23 |
+| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6923c1b9c0cefa13343db3ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
+| **[Topia](https://www.utopiaspaandglobalwellness.com/)** | **[Social Media Strategist (Remote Intern)](https://jobright.ai/jobs/info/6923be2dc0cefa13343db358?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923b1627795cd460c838f9f?utm_campaign=1065&utm_source=git)** | New York, NY 10018 | On Site | Nov 23 |
 | ↳ | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923aebf38cd5478a8d56eea?utm_campaign=1065&utm_source=git)** | Nashville, TN 37217 | On Site | Nov 23 |
 | **[Sugarbush Resort](https://www.sugarbush.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6923a37a38cd5478a8d56d85?utm_campaign=1065&utm_source=git)** | Warren, VT | On Site | Nov 23 |
 | **[Windmill Wellness Ranch](https://windmillwellnessranch.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/6923977038cd5478a8d56cd0?utm_campaign=1065&utm_source=git)** | Canyon Lake, TX | On Site | Nov 23 |
-| **[Mind4Youth](https://mind4youth.com)** | **[Student Intern Marketing](https://jobright.ai/jobs/info/6923745ac0cefa13343dad02?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69237c167795cd460c838b69?utm_campaign=1065&utm_source=git)** | West Olive, MI | Hybrid | Nov 23 |
-| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/692351e238cd5478a8d5661b?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6719311d6920306148c39217?utm_campaign=1065&utm_source=git)** | Lake Charles, LA | On Site | Nov 23 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6923490e38cd5478a8d56551?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69234785c0cefa13343da778?utm_campaign=1065&utm_source=git)** | Queens, NY | On Site | Nov 23 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6923384c38cd5478a8d5636c?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 23 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6923380738cd5478a8d5635f?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 23 |
 | **[The Hub Project](https://thehubproject.org/)** | **[Abortion Campaigns Intern](https://jobright.ai/jobs/info/69233635c0cefa13343da58f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 23 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6923303138cd5478a8d56293?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 23 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 23 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (Summer 2026) - Shelton, CT](https://jobright.ai/jobs/info/68985c3b5574fd6bc0c78fb5?utm_campaign=1065&utm_source=git)** | Shelton, CT | On Site | Nov 23 |
 | **[Envision Executives](https://www.envisionexecutives.com/)** | **[Full Time Marketing Intern](https://jobright.ai/jobs/info/692324c838cd5478a8d561a9?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 23 |
@@ -94,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Fischer Homes](http://fischerhomes.com)** | **[DIVISION MARKETING CO-OP/INTERNSHIP](https://jobright.ai/jobs/info/68c0770e702aa35207aad424?utm_campaign=1065&utm_source=git)** | Erlanger, KY | On Site | Nov 22 |
 | **[Healthee](https://healthee.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6922812938cd5478a8d53e83?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Nov 22 |
 | **[GeoComply](https://www.geocomply.com)** | **[Product Marketing Intern - Winter 2026](https://jobright.ai/jobs/info/69227984c0cefa13343d7e3e?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 22 |
+| **[Penta Group](https://pentagroup.com)** | **[Media Monitoring Internship - Hawaii Remote](https://jobright.ai/jobs/info/68cb4f1bba798c1a501ce1d1?utm_campaign=1065&utm_source=git)** | Hawaii, United States | Remote | Nov 22 |
 | **[Women Speak Up](www.womenspeakupus.org)** | **[Social Media & Communication Intern](https://jobright.ai/jobs/info/69224f883f782d2f1afd4ecd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[Marketing Intern- California State University - Sacramento State](https://jobright.ai/jobs/info/6923a469c0cefa13343db03f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Nov 22 |
 | **[Campbell Street](https://campbellstreetsl.com/)** | **[Digital Media & Talent Engagement Intern](https://jobright.ai/jobs/info/692217033f782d2f1afd4916?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Aramark](http://www.aramark.com)** | **[Marketing Intern- California State University - Sacramento State](https://jobright.ai/jobs/info/69217903a49a885af9a460b8?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Influencer Intern](https://jobright.ai/jobs/info/692178d9a49a885af9a460a7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Regional Merchandising Intern](https://jobright.ai/jobs/info/692177bdd1ec2c3565c445e7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Global Corporate Communications Intern](https://jobright.ai/jobs/info/692177903f782d2f1afd2512?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Brand and Product Strategy Intern](https://jobright.ai/jobs/info/6921768a3f782d2f1afd2497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
