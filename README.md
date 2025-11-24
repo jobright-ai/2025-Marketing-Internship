@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923b1627795cd460c838f9f?utm_campaign=1065&utm_source=git)** | New York, NY 10018 | On Site | Nov 23 |
+| ↳ | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923aebf38cd5478a8d56eea?utm_campaign=1065&utm_source=git)** | Nashville, TN 37217 | On Site | Nov 23 |
+| **[Sugarbush Resort](https://www.sugarbush.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6923a37a38cd5478a8d56d85?utm_campaign=1065&utm_source=git)** | Warren, VT | On Site | Nov 23 |
 | **[Windmill Wellness Ranch](https://windmillwellnessranch.com)** | **[Digital Marketing Specialist](https://jobright.ai/jobs/info/6923977038cd5478a8d56cd0?utm_campaign=1065&utm_source=git)** | Canyon Lake, TX | On Site | Nov 23 |
 | **[Mind4Youth](https://mind4youth.com)** | **[Student Intern Marketing](https://jobright.ai/jobs/info/6923745ac0cefa13343dad02?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69237c167795cd460c838b69?utm_campaign=1065&utm_source=git)** | West Olive, MI | Hybrid | Nov 23 |
@@ -92,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Healthee](https://healthee.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6922812938cd5478a8d53e83?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Nov 22 |
 | **[GeoComply](https://www.geocomply.com)** | **[Product Marketing Intern - Winter 2026](https://jobright.ai/jobs/info/69227984c0cefa13343d7e3e?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Nov 22 |
 | **[Women Speak Up](www.womenspeakupus.org)** | **[Social Media & Communication Intern](https://jobright.ai/jobs/info/69224f883f782d2f1afd4ecd?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
+| **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[Marketing Intern- California State University - Sacramento State](https://jobright.ai/jobs/info/6923a469c0cefa13343db03f?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Nov 22 |
 | **[Campbell Street](https://campbellstreetsl.com/)** | **[Digital Media & Talent Engagement Intern](https://jobright.ai/jobs/info/692217033f782d2f1afd4916?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Nov 22 |
 | **[InvisibleSun Energy](http://www.invisiblesunenergy.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692213d83f782d2f1afd48d5?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Nov 22 |
 | **[Mitra Chem](https://mitrachem.com)** | **[MBA Commercial Intern](https://jobright.ai/jobs/info/6922132b3f782d2f1afd48a2?utm_campaign=1065&utm_source=git)** | Mountain View, CA | Hybrid | Nov 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Ralph Lauren Regional Merchandising Intern](https://jobright.ai/jobs/info/692177bdd1ec2c3565c445e7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Global Corporate Communications Intern](https://jobright.ai/jobs/info/692177903f782d2f1afd2512?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | ↳ | **[Ralph Lauren Brand and Product Strategy Intern](https://jobright.ai/jobs/info/6921768a3f782d2f1afd2497?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Media & Gaming Intern](https://jobright.ai/jobs/info/6921c09d3f782d2f1afd3b0f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 21 |
-| **[Fast Protein](https://fast-protein.com/)** | **[Social media intern](https://jobright.ai/jobs/info/69216810d1ec2c3565c43f92?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Nov 21 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Nov 21 |
-| **[Match](http://www.lifeatmatch.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921663ba49a885af9a45904?utm_campaign=1065&utm_source=git)** | Los Angeles, California | Hybrid | Nov 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
