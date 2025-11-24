@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Growth Specialist](https://jobright.ai/jobs/info/6923ec357795cd460c83a071?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 23 |
+| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6923ec13c0cefa13343dc2ef?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
+| **[Association of Spaceflight Professionals](https://www.spaceflightprofessionals.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6923e48bc0cefa13343dbfb3?utm_campaign=1065&utm_source=git)** | St. Petersburg, FL | Hybrid | Nov 23 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6923d419c0cefa13343dbaf1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Nov 23 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6923d0a5c0cefa13343db9c2?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 23 |
-| **[CareerCrib](https://www.linkedin.com/company/109777740)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6923c1b9c0cefa13343db3ae?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Topia](https://www.utopiaspaandglobalwellness.com/)** | **[Social Media Strategist (Remote Intern)](https://jobright.ai/jobs/info/6923be2dc0cefa13343db358?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 23 |
 | **[Drive IT](https://drivenash.com)** | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923b1627795cd460c838f9f?utm_campaign=1065&utm_source=git)** | New York, NY 10018 | On Site | Nov 23 |
 | ↳ | **[Intern Wanted!! (Marketing Department)](https://jobright.ai/jobs/info/6923aebf38cd5478a8d56eea?utm_campaign=1065&utm_source=git)** | Nashville, TN 37217 | On Site | Nov 23 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Optimatum Solutions LLC](https://www.optimatumsolutions.com)** | **[Healthcare Research Associate (Intern – Flex Schedule)](https://jobright.ai/jobs/info/6921b85ba49a885af9a474bf?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 22 |
 | **[ByteDance](http://bytedance.com)** | **[Content Operation Project Intern (Lemon8 US) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68e9005365768b6412b17ded?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 22 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Lead Marketing Intern](https://jobright.ai/jobs/info/69219527d1ec2c3565c451e5?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Nov 22 |
-| **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
-| ↳ | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| **[MathWorks](http://www.mathworks.com)** | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
+| ↳ | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | ↳ | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 22 |
 | **[SLCA North America](https://studentledca.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/69218b723f782d2f1afd2d35?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Brand Marketing Intern](https://jobright.ai/jobs/info/692184db3f782d2f1afd2ac2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DMR Technologies](https://www.alsetai.com/)** | **[First Flight Social Media Intern](https://jobright.ai/jobs/info/69217c783f782d2f1afd27e6?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Nov 22 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Brand Marketing Intern, NA Wholesale Intern](https://jobright.ai/jobs/info/69217b8ba49a885af9a46197?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 | **[Aramark](http://www.aramark.com)** | **[Marketing Intern- California State University - Sacramento State](https://jobright.ai/jobs/info/69217903a49a885af9a460b8?utm_campaign=1065&utm_source=git)** | Sacramento, CA | On Site | Nov 22 |
-| **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Influencer Intern](https://jobright.ai/jobs/info/692178d9a49a885af9a460a7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
-| ↳ | **[Ralph Lauren Regional Merchandising Intern](https://jobright.ai/jobs/info/692177bdd1ec2c3565c445e7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
