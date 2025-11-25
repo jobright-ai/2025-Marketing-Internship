@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paramount](https://www.paramount.com)** | **[Advertising, Distribution & Strategy Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69255a79d47de4798eccf68b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 24 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Her Campus Chapter Network Community Intern - Spring 2026](https://jobright.ai/jobs/info/692555e7f0beb0723261ce85?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - External Communications Intern](https://jobright.ai/jobs/info/692552fad47de4798eccf4a2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 24 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/692543d127bf2f41a2c3dc62?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Plug-In Promotions LLC](pluginpromotions.com)** | **[Social Media Manager](https://jobright.ai/jobs/info/69253ebed47de4798eccec17?utm_campaign=1065&utm_source=git)** | Morgantown, WV | Hybrid | Nov 24 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6925345527bf2f41a2c3d2e4?utm_campaign=1065&utm_source=git)** | Pasadena, CA | Remote | Nov 24 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/69252a9827bf2f41a2c3cb5a?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Revenue Marketing Intern](https://jobright.ai/jobs/info/69252614f0beb0723261b1dc?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[SHEIN Technology LLC](http://www.sheingroup.com)** | **[Influencer Marketing Intern  (Part Time)](https://jobright.ai/jobs/info/6916d9b39c388539cbdff237?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Nov 24 |
 | **[FootIntel](https://www.linkedin.com/company/106449374)** | **[Social Media Marketing & Narrative Intern](https://jobright.ai/jobs/info/69253bfb27bf2f41a2c3d88e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Babel Institute](https://www.babelinstitute.us/)** | **[Social Media Intern (Paid)](https://jobright.ai/jobs/info/69251c1738cd5478a8d6276d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
 | **[Truist](https://www.truist.com)** | **[2026 AFCO Direct - Summer Marketing Internship](https://jobright.ai/jobs/info/69251b3138cd5478a8d626ce?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Nov 24 |
 | **[Paramount](https://www.paramount.com)** | **[Marketing Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69250f2138cd5478a8d61e2f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
 | ↳ | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 24 |
@@ -116,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Balance Now](https://www.balance.ca)** | **[Social Media Engagement Team Member](https://jobright.ai/jobs/info/6924d8b7c0cefa13343e2a4a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Nov 24 |
 | **[Moments By Max: Balloon Decor, Marquees & Event Rentals](www.momentsbymax.com)** | **[Social Media, Marketing & Admin Internship](https://jobright.ai/jobs/info/6924d86838cd5478a8d5e805?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Nov 24 |
 | **[SeatPing](https://www.seatping.biz/)** | **[Growth Intern](https://jobright.ai/jobs/info/6924d71eec574f4265bb7ad0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 24 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Revenue Marketing Intern](https://jobright.ai/jobs/info/69250321ec574f4265bba89f?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | Nov 24 |
-| ↳ | **[Events & Marketing Intern](https://jobright.ai/jobs/info/6924f4d8ec574f4265bb9c60?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | Nov 24 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Events & Marketing Intern](https://jobright.ai/jobs/info/6924f4d8ec574f4265bb9c60?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | Nov 24 |
+| ↳ | **[Revenue Marketing Intern](https://jobright.ai/jobs/info/69250321ec574f4265bba89f?utm_campaign=1065&utm_source=git)** | San Jose, California | On Site | Nov 24 |
 | **[MongoDB](https://www.mongodb.com/)** | **[2026 - Global Corporate Communications Intern, NYC](https://jobright.ai/jobs/info/6924d547ec574f4265bb7968?utm_campaign=1065&utm_source=git)** | New York City | On Site | Nov 24 |
 | **[Coinbase](https://www.coinbase.com)** | **[Creator Marketing Intern](https://jobright.ai/jobs/info/6924d528c0cefa13343e26a8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 24 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[The Ogilvy Group / 2026 Creative Summer Internship - Copywriter](https://jobright.ai/jobs/info/6924ce4338cd5478a8d5e04f?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b35f9a63986de756af47?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 24 |
 | **[JanSport](http://www.jansport.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6924b6a138cd5478a8d5ce63?utm_campaign=1065&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
 | **[Reaction Tackle](https://www.reactiontackle.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6924d25ec0cefa13343e2647?utm_campaign=1065&utm_source=git)** | Big Bend, WI | On Site | Nov 24 |
-| **[The North Face](http://www.thenorthface.com/)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6924b58138cd5478a8d5cd60?utm_campaign=1065&utm_source=git)** | USCA > USA > New Hampshire > Stratham Domain Dr HQ - TBL | Hybrid | Nov 24 |
-| **[Altra Running](https://www.altrarunning.com/)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6924b4b638cd5478a8d5ccb0?utm_campaign=1065&utm_source=git)** | USCA > USA > Colorado > Denver HQ - VFC | Hybrid | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b0fc76a51a4307bc6c21?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
