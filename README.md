@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Marketing Operations Intern - Summer 2026](https://jobright.ai/jobs/info/69092606d046ab6061cd227d?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 25 |
+| ↳ | **[Social Media Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690924d94a1b456627afd2c5?utm_campaign=1065&utm_source=git)** | Neenah, WI | Hybrid | Nov 25 |
+| **[Oatey Company](https://www.oatey.com//)** | **[eCommerce Intern](https://jobright.ai/jobs/info/6908df64bcccf20de59d45ac?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 25 |
+| **[Ahold Delhaize USA](https://www.adusa.com)** | **[Intern Communications](https://jobright.ai/jobs/info/68d193c617554c2d9eedcce0?utm_campaign=1065&utm_source=git)** | Salisbury, NC | Hybrid | Nov 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b7b18b195d032a0960ad4a?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 25 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[Industry Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69092e91bcccf20de59d8512?utm_campaign=1065&utm_source=git)** | Neenah, WI | Hybrid | Nov 25 |
+| ↳ | **[Marketing Strategy Intern - Summer 2026](https://jobright.ai/jobs/info/690925bcbcccf20de59d7eae?utm_campaign=1065&utm_source=git)** | Neenah, WI | Hybrid | Nov 25 |
+| **[Lennox](http://www.lennox.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/68f762dbec6dbe7073fbfdaa?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 25 |
+| ↳ | **[Foundation Marketing Intern](https://jobright.ai/jobs/info/68f715b176a51a4307be0ccc?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 25 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68b7bef15e55be5e2604d36b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 25 |
+| **[H15DEN](https://h15den.com)** | **[Research Intern  (1 Month)](https://jobright.ai/jobs/info/692581f127bf2f41a2c3f2a8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 25 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Marketing & Communications Intern](https://jobright.ai/jobs/info/6925769fd47de4798ecd01b4?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Nov 25 |
 | **[Elekta](http://elekta.com/)** | **[Product Marketing Operations Intern- San Jose, CA](https://jobright.ai/jobs/info/692575bcf0beb0723261dbdb?utm_campaign=1065&utm_source=git)** | San Jose | Hybrid | Nov 25 |
 | ↳ | **[Product Marketing Operations Intern- San Jose, CA](https://jobright.ai/jobs/info/692572f327bf2f41a2c3ee22?utm_campaign=1065&utm_source=git)** | San Jose | Hybrid | Nov 25 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Merchandising Internships](https://jobright.ai/jobs/info/6924c69738cd5478a8d5da1f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
 | **[99 Yards](https://99yards.app)** | **[Community Engagement Intern (3-Month Program)](https://jobright.ai/jobs/info/6924e5c9c0cefa13343e3998?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Nov 24 |
 | **[Oceana](http://oceana.org/en)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6924c37238cd5478a8d5d7b2?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Nov 24 |
-| **[Paramount](https://www.paramount.com)** | **[Advertising, Distribution & Strategy Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6924c296ec574f4265bb6adf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 24 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Communications and Social Media Intern](https://jobright.ai/jobs/info/6924c22dc0cefa13343e1990?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Tapestry](http://www.tapestry.com/)** | **[Summer Marketing Internships](https://jobright.ai/jobs/info/6924c19bec574f4265bb6a47?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Lincoln Center for the Performing Arts](http://www.lincolncenter.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6924c159ec574f4265bb6a09?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 24 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6924c10038cd5478a8d5d512?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[Coastal Carolina University](http://www.coastal.edu/)** | **[Marketing Assistant (Student)](https://jobright.ai/jobs/info/6924bfe5ec574f4265bb68a6?utm_campaign=1065&utm_source=git)** | Conway, SC | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[Growth Marketer Intern (8 months)](https://jobright.ai/jobs/info/69171dc53ea85638ae1c7f2d?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | Hybrid | Nov 24 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Marketing Coordinator (Technical) - COBO](https://jobright.ai/jobs/info/6924e522c0cefa13343e3894?utm_campaign=1065&utm_source=git)** | Edmond, OK | On Site | Nov 24 |
-| **[IBM](http://www.ibm.com)** | **[2026 Intern: IBM Quantum Writing Intern](https://jobright.ai/jobs/info/68f2b9ab76a51a4307bc79d8?utm_campaign=1065&utm_source=git)** | Yorktown Heights, NY | On Site | Nov 24 |
-| **[Playfly Sports](https://www.playfly.com/)** | **[Integrated Marketing Strategy Intern](https://jobright.ai/jobs/info/6924bc63c0cefa13343e14f2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 24 |
-| **[The Feast of Friends](http://www.thefeastoffriends.com)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/6924ba72c0cefa13343e1355?utm_campaign=1065&utm_source=git)** | LV Metro Area | Hybrid | Nov 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
