@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Promotions Internship](https://jobright.ai/jobs/info/6928a8cf91ceeb2e8a54611f?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| ↳ | **[Full-Time Marketing Internship](https://jobright.ai/jobs/info/6928a88d91ceeb2e8a54610f?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| ↳ | **[Part-Time Game Day Promotions Internship](https://jobright.ai/jobs/info/6928a86bf0beb07232630fd3?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| **[AFC Fitness](https://www.afcfitness.com/index.php)** | **[Social Media Content Lead](https://jobright.ai/jobs/info/6928a6a4d47de4798ece3667?utm_campaign=1065&utm_source=git)** | Greater Philadelphia Region | On Site | Nov 27 |
+| **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Fundraising Event Coordinator (Intern), Corporate and Community Partnerships](https://jobright.ai/jobs/info/69289d36f0beb07232630df2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
+| **[nexova.ai (HOA)](nexovaai.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/692898a091ceeb2e8a545e9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
+| **[Coinbase](https://www.coinbase.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69212ed3a49a885af9a43ba4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/690ccf6f221b890c278002f1?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Nov 27 |
+| **[Bloom Energy](http://www.bloomenergy.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690bb7f2221b890c277f73d5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
 | **[Bitcoin Culture Hub](https://bitcoinculturehub.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69288b63f0beb07232630ba6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Remote | Nov 27 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efde41de50091dbfa50c4b?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (R](https://jobright.ai/jobs/info/69288a7191ceeb2e8a545cc4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[francesca’s®](http://www.francescas.com)** | **[Marketing Intern (Houston, TX)](https://jobright.ai/jobs/info/692797d391ceeb2e8a5417a3?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Healthcare Provider Marketing - Women's Health](https://jobright.ai/jobs/info/6927962d91ceeb2e8a5416aa?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
 | **[Perrigo France](https://www.perrigo.fr)** | **[Perrigo Aspire Commercial Internship Program - Digital Marketing Summer 2026](https://jobright.ai/jobs/info/692791d7d47de4798ecde9fe?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Nov 26 |
-| **[PROJXON](www.projxon.com)** | **[Content Strategist / Copywriter (Intern)](https://jobright.ai/jobs/info/69277d9bd47de4798ecdd4d3?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Remote | Nov 26 |
-| **[KaraMGMT](https://www.linkedin.com/company/110102351)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69284c26d47de4798ece25bc?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 26 |
-| **[Unison](http://www.unison.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/692786dcf0beb0723262ba50?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
-| **[Multi Image Group (MIG)](http://www.mig.cc/)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/69278616d47de4798ecddf8e?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Nov 26 |
-| **[Highland Film Group](https://highlandfilmgroup.com)** | **[Internship (Various) - Highland Film Group & The Avenue - Domestic & Global Marketing](https://jobright.ai/jobs/info/6927853cd47de4798ecdde25?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology Market Access Marketing & Strategy (Graduate-level)](https://jobright.ai/jobs/info/69277e2cd47de4798ecdd5e5?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Nov 26 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6927779cf0beb0723262a80b?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 26 |
-| **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Event Coordinator](https://jobright.ai/jobs/info/692774fad47de4798ecdcdd3?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Nov 26 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Healthcare Provider Marketing - Women's Health](https://jobright.ai/jobs/info/69277499d47de4798ecdcd62?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
