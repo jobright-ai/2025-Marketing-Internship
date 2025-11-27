@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Discoursefy](https://www.linkedin.com/company/103492527)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927fb5291ceeb2e8a54411f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[H15DEN](https://h15den.com)** | **[Research Intern     1 Month](https://jobright.ai/jobs/info/6927f086d47de4798ece14d6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tinder](http://www.tinder.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921423f00c9ee50eaecd252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6921027a3f782d2f1afce3fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69210cd33f782d2f1afce926?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[AdZeta](adzeta.io)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6927ca92f0beb0723262e035?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Nov 26 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Communications Winter 2026 Intern (Remote)](https://jobright.ai/jobs/info/6927c202d47de4798ece0329?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Nov 26 |
-| **[GenPark](https://genpark.ai)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6927b9cbd47de4798ecdffd2?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 26 |
 | **[HP Marketing](https://www.hpros.com/)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/6927b429f0beb0723262d4e2?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Nov 26 |
 | **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927b3eaf0beb0723262d4ac?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Unison](http://www.unison.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6927abc391ceeb2e8a542234?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
@@ -122,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed475e0db92422580bdee?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
 | **[Unilever](http://www.unilever.com)** | **[Category Management Internship](https://jobright.ai/jobs/info/692741f5d47de4798ecdb078?utm_campaign=1065&utm_source=git)** | Magnum ICC Tour & Taxis | On Site | Nov 26 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Customer Experience Internship - (January-July 2026)](https://jobright.ai/jobs/info/692763eef0beb07232629b05?utm_campaign=1065&utm_source=git)** | Sheraton Vistana Resort | On Site | Nov 26 |
-| **[Insight](https://www.insight.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690ac020d046ab6061cdfc1a?utm_campaign=1065&utm_source=git)** | Chandler, AZ | Hybrid | Nov 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/68cd9cbce23def7af55bcb01?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Grova Creative](https://grova.com)** | **[Writing & Copywriting Intern](https://jobright.ai/jobs/info/69273fbbf0beb07232628883?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Nov 26 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Digital Experience Marketing Internship / Hybrid](https://jobright.ai/jobs/info/690a74d1d046ab6061cdcc82?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4a2e0db92422580be3f?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO | On Site | Nov 26 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Marketing Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68d1920d8c62e63bc7fccbd9?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed436d078b81ad160fdb3?utm_campaign=1065&utm_source=git)** | Coppell, TX | On Site | Nov 26 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece3fe0db92422580b991?utm_campaign=1065&utm_source=git)** | Medina, OH | On Site | Nov 26 |
+| **[Insight](https://www.insight.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690abadf4a1b456627b0aaa3?utm_campaign=1065&utm_source=git)** | Chandler, AZ | Hybrid | Nov 26 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece3fe0db92422580b991?utm_campaign=1065&utm_source=git)** | Medina, OH | On Site | Nov 26 |
 | **[Banneker-Douglass-Tubman Museum](http://bdtmuseum.maryland.gov)** | **[Spring 2026 Marketing & Communications Intern](https://jobright.ai/jobs/info/69272130d47de4798ecda2d6?utm_campaign=1065&utm_source=git)** | Annapolis, MD | Hybrid | Nov 26 |
 | **[Takeda](http://www.takeda.com)** | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68b794c62124650c14023e9f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
