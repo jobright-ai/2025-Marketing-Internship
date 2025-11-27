@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Promotions Internship](https://jobright.ai/jobs/info/6928a8cf91ceeb2e8a54611f?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| **[RIVESSE LLC](https://rivesse.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6928c475f0beb0723263146d?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Nov 27 |
+| **[H15DEN](https://h15den.com)** | **[Research Intern      1 Month](https://jobright.ai/jobs/info/6928c1b9d47de4798ece3b0a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
+| **[FIRST](https://firstagency.com/)** | **[Internal Communications Intern - Spring 2026](https://jobright.ai/jobs/info/6928bbd0d47de4798ece39eb?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
+| **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6928ba56f0beb072326312d5?utm_campaign=1065&utm_source=git)** | West Olive, MI | Hybrid | Nov 27 |
+| **[GREENVILLE DRIVE](https://www.milb.com/greenville)** | **[Full-Time Media Relations Internship](https://jobright.ai/jobs/info/6928b16891ceeb2e8a54627c?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| ↳ | **[Full-Time Social Media Internship](https://jobright.ai/jobs/info/6928af82f0beb072326310b2?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
+| ↳ | **[Full-Time Promotions Internship](https://jobright.ai/jobs/info/6928a8cf91ceeb2e8a54611f?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | ↳ | **[Full-Time Marketing Internship](https://jobright.ai/jobs/info/6928a88d91ceeb2e8a54610f?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | ↳ | **[Part-Time Game Day Promotions Internship](https://jobright.ai/jobs/info/6928a86bf0beb07232630fd3?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Nov 27 |
 | **[AFC Fitness](https://www.afcfitness.com/index.php)** | **[Social Media Content Lead](https://jobright.ai/jobs/info/6928a6a4d47de4798ece3667?utm_campaign=1065&utm_source=git)** | Greater Philadelphia Region | On Site | Nov 27 |
@@ -134,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6921027a3f782d2f1afce3fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69210cd33f782d2f1afce926?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Social Marketing Intern](https://jobright.ai/jobs/info/6920fccc00c9ee50eaeca73d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6927d6b6d47de4798ece0e7d?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Development Intern](https://jobright.ai/jobs/info/6927d4bef0beb0723262e5c3?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
 | **[Spinoff](https://spinoff.community/)** | **[Social Media Intern, TV Focus](https://jobright.ai/jobs/info/69284889d47de4798ece250c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 26 |
 | **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/6927cf0cf0beb0723262e3b3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Morse Manufacturing Co., Inc.](https://morsedrum.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927a139f0beb0723262cac9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Nov 26 |
 | **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927a102d47de4798ecdf1d1?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Nov 26 |
 | **[Hudson Partnership CMO](https://www.hudsoncmo.org)** | **[Unpaid Community Resource Intern](https://jobright.ai/jobs/info/6927a0d591ceeb2e8a541bb2?utm_campaign=1065&utm_source=git)** | Secaucus, NJ | On Site | Nov 26 |
-| **[Wefunder](http://www.wefunder.com)** | **[Fundraising Intern-to-Hire](https://jobright.ai/jobs/info/6927a0a6f0beb0723262ca66?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
-| **[Trade Republic](https://traderepublic.com)** | **[Intern Influencer & Affiliate Marketing](https://jobright.ai/jobs/info/69279b8691ceeb2e8a541984?utm_campaign=1065&utm_source=git)** | Headquarter | On Site | Nov 26 |
-| **[francesca’s®](http://www.francescas.com)** | **[Marketing Intern (Houston, TX)](https://jobright.ai/jobs/info/692797d391ceeb2e8a5417a3?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 26 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Healthcare Provider Marketing - Women's Health](https://jobright.ai/jobs/info/6927962d91ceeb2e8a5416aa?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Nov 26 |
-| **[Perrigo France](https://www.perrigo.fr)** | **[Perrigo Aspire Commercial Internship Program - Digital Marketing Summer 2026](https://jobright.ai/jobs/info/692791d7d47de4798ecde9fe?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
