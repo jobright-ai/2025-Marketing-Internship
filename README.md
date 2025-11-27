@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Anchor Home](http://www.anchorhomeinc.com)** | **[Digital Marketing Internship: Spring 2026](https://jobright.ai/jobs/info/69281610f0beb0723262f5b7?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Nov 27 |
+| **[TalentSphere Global](talentsphereglobal.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6928108af0beb0723262f4b0?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 27 |
+| **[Paramount Global](https://www.paramountglobal.com/)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69280ef1d47de4798ece1ab1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Discoursefy](https://www.linkedin.com/company/103492527)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927fb5291ceeb2e8a54411f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 | **[H15DEN](https://h15den.com)** | **[Research Intern     1 Month](https://jobright.ai/jobs/info/6927f086d47de4798ece14d6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Tinder](http://www.tinder.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921423f00c9ee50eaecd252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
@@ -94,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Event Coordinator](https://jobright.ai/jobs/info/692774fad47de4798ecdcdd3?utm_campaign=1065&utm_source=git)** | Glendale, CA | On Site | Nov 26 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Healthcare Provider Marketing - Women's Health](https://jobright.ai/jobs/info/69277499d47de4798ecdcd62?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Nov 26 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[IT Communications Winter 2026 Intern (Remote)](https://jobright.ai/jobs/info/69277496d47de4798ecdcd61?utm_campaign=1065&utm_source=git)** | US - Remote (Any Location) | Remote | Nov 26 |
-| **[Magnolia](https://magnolia.com)** | **[Marketing - Marketing Intern](https://jobright.ai/jobs/info/69277113d47de4798ecdcbf6?utm_campaign=1065&utm_source=git)** | Waco, TX | On Site | Nov 26 |
+| **[Magnolia](https://magnolia.com)** | **[Marketing - Marketing Intern](https://jobright.ai/jobs/info/692772e8f0beb0723262a5ff?utm_campaign=1065&utm_source=git)** | Waco, TX | On Site | Nov 26 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Media Buying Intern](https://jobright.ai/jobs/info/69276f4b91ceeb2e8a53f445?utm_campaign=1065&utm_source=git)** | Topeka Metropolitan Area | On Site | Nov 26 |
 | **[Group 1 Automotive](http://www.group1auto.com/index.htm)** | **[Marketing Intern](https://jobright.ai/jobs/info/69276e48d47de4798ecdc91e?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Nov 26 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Live Service Marketing Creative Producer Intern](https://jobright.ai/jobs/info/69276bb591ceeb2e8a53f104?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
@@ -123,6 +126,7 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed475e0db92422580bdee?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | On Site | Nov 26 |
 | **[Unilever](http://www.unilever.com)** | **[Category Management Internship](https://jobright.ai/jobs/info/692741f5d47de4798ecdb078?utm_campaign=1065&utm_source=git)** | Magnum ICC Tour & Taxis | On Site | Nov 26 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Customer Experience Internship - (January-July 2026)](https://jobright.ai/jobs/info/692763eef0beb07232629b05?utm_campaign=1065&utm_source=git)** | Sheraton Vistana Resort | On Site | Nov 26 |
+| **[Insight](https://www.insight.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690ac020d046ab6061cdfc1a?utm_campaign=1065&utm_source=git)** | Chandler, AZ | Hybrid | Nov 26 |
 | **[Honeywell](http://www.honeywell.com)** | **[Marketing - Summer 2026 Intern](https://jobright.ai/jobs/info/68cd9cbce23def7af55bcb01?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 26 |
 | **[Grova Creative](https://grova.com)** | **[Writing & Copywriting Intern](https://jobright.ai/jobs/info/69273fbbf0beb07232628883?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | On Site | Nov 26 |
 | **[Allianz Life](http://www.allianzlife.com)** | **[Summer 2026 Digital Experience Marketing Internship / Hybrid](https://jobright.ai/jobs/info/690a74d1d046ab6061cdcc82?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4a2e0db92422580be3f?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO | On Site | Nov 26 |
 | **[Marvell Technology](https://www.marvell.com/)** | **[Product Marketing Intern - Bachelor's Degree](https://jobright.ai/jobs/info/68d1920d8c62e63bc7fccbd9?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 26 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed436d078b81ad160fdb3?utm_campaign=1065&utm_source=git)** | Coppell, TX | On Site | Nov 26 |
-| **[Insight](https://www.insight.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690abadf4a1b456627b0aaa3?utm_campaign=1065&utm_source=git)** | Chandler, AZ | Hybrid | Nov 26 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eece3fe0db92422580b991?utm_campaign=1065&utm_source=git)** | Medina, OH | On Site | Nov 26 |
-| **[Banneker-Douglass-Tubman Museum](http://bdtmuseum.maryland.gov)** | **[Spring 2026 Marketing & Communications Intern](https://jobright.ai/jobs/info/69272130d47de4798ecda2d6?utm_campaign=1065&utm_source=git)** | Annapolis, MD | Hybrid | Nov 26 |
-| **[Takeda](http://www.takeda.com)** | **[Analytics Leadership Development Program Summer Internship](https://jobright.ai/jobs/info/68b794c62124650c14023e9f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
