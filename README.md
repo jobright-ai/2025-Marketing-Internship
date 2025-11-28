@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Intern
+Job ID : 267580](https://jobright.ai/jobs/info/69296083fa28370be26943d3?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 28 |
+| **[City of Arvada](https://arvada.org)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/692958da4c474121999c9279?utm_campaign=1065&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Vinaire Inc.](https://www.linkedin.com/company/103014821)** | **[Marketing & Community Strategy Intern (Minneapolis — Part-Time / Flexible)](https://jobright.ai/jobs/info/6929352f91ceeb2e8a5471b6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69292896f0beb07232631fad?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292857f0beb07232631f9f?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 27 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Workforce Communications Intern, R&D](https://jobright.ai/jobs/info/690bb1684a1b456627b11ac3?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD | On Site | Nov 27 |
 | **[Lennox](http://www.lennox.com)** | **[Events & Incentives Intern](https://jobright.ai/jobs/info/690be2c6221b890c277f9761?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 27 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Product Marketing Manager](https://jobright.ai/jobs/info/68d3abcf17554c2d9eef4104?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 27 |
-| **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Amlitelimab Marketing](https://jobright.ai/jobs/info/690bc901221b890c277f828a?utm_campaign=1065&utm_source=git)** | Cambridge, MA | On Site | Nov 27 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Marketing, Communications & Event Management Intern - Summer 2026](https://jobright.ai/jobs/info/68bc09cb5f38327491874c7a?utm_campaign=1065&utm_source=git)** | Westminster, CO | On Site | Nov 27 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[Marketing Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69282459d47de4798ece1f31?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Anchor Home](http://www.anchorhomeinc.com)** | **[Digital Marketing Internship: Spring 2026](https://jobright.ai/jobs/info/69281610f0beb0723262f5b7?utm_campaign=1065&utm_source=git)** | Timonium, MD | On Site | Nov 27 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69210cd33f782d2f1afce926?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Social Marketing Intern](https://jobright.ai/jobs/info/6920fccc00c9ee50eaeca73d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Development Intern](https://jobright.ai/jobs/info/6927d4bef0beb0723262e5c3?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
-| **[Spinoff](https://spinoff.community/)** | **[Social Media Intern, TV Focus](https://jobright.ai/jobs/info/69284889d47de4798ece250c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
