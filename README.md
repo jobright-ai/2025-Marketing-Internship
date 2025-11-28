@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292831f0beb07232631f93?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292645d47de4798ece45ee?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69291f3bd47de4798ece4574?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
-| **[WEARSHIKA](www.wearshika.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69291da191ceeb2e8a54701a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
@@ -72,6 +71,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f20991ceeb2e8a5469d3?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f12af0beb0723263187c?utm_campaign=1065&utm_source=git)** | Saskatoon, SK, CA | Hybrid | Nov 27 |
 | **[Temperise](https://temperise.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6928ec60f0beb072326317d4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 27 |
+| **[VCycene Inc.](https://lilacomposter.com/products/lila-composter)** | **[Marketing Intern - Unpaid (Co-op/WIL Placement)](https://jobright.ai/jobs/info/69293b1391ceeb2e8a5471f9?utm_campaign=1065&utm_source=git)** | Markham, Ontario, Canada | On Site | Nov 27 |
 | **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Property Content Intern (On-site)](https://jobright.ai/jobs/info/6928cd4491ceeb2e8a546715?utm_campaign=1065&utm_source=git)** | Liberty, ME | On Site | Nov 27 |
 | **[MSI Americas](https://msiamericas.com/)** | **[Pasante en Digitalización de Campañas Publicitarias](https://jobright.ai/jobs/info/6928ccd9d47de4798ece3c4f?utm_campaign=1065&utm_source=git)** | Latin America | On Site | Nov 27 |
 | **[RIVESSE LLC](https://rivesse.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6928c475f0beb0723263146d?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Nov 27 |
@@ -131,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[Matthews™](https://www.matthews.com/)** | **[PR & Publications Intern (PHX)](https://jobright.ai/jobs/info/68f089f8eb273a32d97692f3?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/68d501e324b1ee4c7b66338e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 27 |
 | **[PwC](http://pwc.com)** | **[Marketing, Communications & Business Development Intern](https://jobright.ai/jobs/info/69283d2891ceeb2e8a544de4?utm_campaign=1065&utm_source=git)** | Prishtina | On Site | Nov 27 |
-| **[HDR](http://www.hdrinc.com)** | **[Resources Marketing Intern](https://jobright.ai/jobs/info/68d4595417554c2d9eef8a94?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 27 |
 | **[Waterton](https://www.waterton.com/)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/690be7594a1b456627b143d3?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Nov 27 |
 | **[Albany International Corp.](http://www.albint.com/)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6910695c988c2b7b4ec51a40?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Nov 27 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68cb9400ba798c1a501d1fed?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 27 |
@@ -151,6 +150,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69280ef1d47de4798ece1ab1?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[Paramount Global](https://www.paramountglobal.com/)** | **[Communications/PR Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69282c5191ceeb2e8a544b73?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Nov 26 |
 | **[Discoursefy](https://www.linkedin.com/company/103492527)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927fb5291ceeb2e8a54411f?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 26 |
+| **[407 ETR](https://407etr.com)** | **[Communications Intern (8 Months Contract)](https://jobright.ai/jobs/info/692940774c474121999c8e94?utm_campaign=1065&utm_source=git)** | Woodbridge, Ontario, Canada | On Site | Nov 26 |
 | **[Tinder](http://www.tinder.com)** | **[Brand & Media Marketing Intern](https://jobright.ai/jobs/info/6921423f00c9ee50eaecd252?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6921027a3f782d2f1afce3fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69210cd33f782d2f1afce926?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
