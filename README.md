@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vinaire Inc.](https://www.linkedin.com/company/103014821)** | **[Marketing & Community Strategy Intern (Minneapolis — Part-Time / Flexible)](https://jobright.ai/jobs/info/6929352f91ceeb2e8a5471b6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
+| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69292896f0beb07232631fad?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292857f0beb07232631f9f?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6929284bf0beb07232631f9b?utm_campaign=1065&utm_source=git)** | Saskatoon, Saskatchewan, Canada | On Site | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292831f0beb07232631f93?utm_campaign=1065&utm_source=git)** | Regina, Saskatchewan, Canada | On Site | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292645d47de4798ece45ee?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
+| **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69291f3bd47de4798ece4574?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
+| **[WEARSHIKA](www.wearshika.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69291da191ceeb2e8a54701a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 27 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Marketing Intern](https://jobright.ai/jobs/info/6920fccc00c9ee50eaeca73d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Nov 26 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Market Development Intern](https://jobright.ai/jobs/info/6927d4bef0beb0723262e5c3?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 26 |
 | **[Spinoff](https://spinoff.community/)** | **[Social Media Intern, TV Focus](https://jobright.ai/jobs/info/69284889d47de4798ece250c?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Nov 26 |
-| **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/6927cf0cf0beb0723262e3b3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 26 |
-| **[University Health Network](https://www.uhn.ca/)** | **[Junior Fundraising Event Coordinator (Intern), Corporate and Community Partnerships](https://jobright.ai/jobs/info/6927cd1d91ceeb2e8a5433fa?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927cb48f0beb0723262e0cc?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Nov 26 |
-| **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Nov 26 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[IT Communications Winter 2026 Intern (Remote)](https://jobright.ai/jobs/info/6927c202d47de4798ece0329?utm_campaign=1065&utm_source=git)** | Virginia, United States | Remote | Nov 26 |
-| **[HP Marketing](https://www.hpros.com/)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/6927b429f0beb0723262d4e2?utm_campaign=1065&utm_source=git)** | Provo, UT | On Site | Nov 26 |
-| **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927b3eaf0beb0723262d4ac?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
-| **[Unison](http://www.unison.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6927abc391ceeb2e8a542234?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
