@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f21d91ceeb2e8a5469d9?utm_campaign=1065&utm_source=git)** | Regina, SK, CA | Hybrid | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f20991ceeb2e8a5469d3?utm_campaign=1065&utm_source=git)** | Calgary, AB, CA | Hybrid | Nov 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f12af0beb0723263187c?utm_campaign=1065&utm_source=git)** | Saskatoon, SK, CA | Hybrid | Nov 27 |
+| **[Temperise](https://temperise.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6928ec60f0beb072326317d4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 27 |
 | **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Property Content Intern (On-site)](https://jobright.ai/jobs/info/6928cd4491ceeb2e8a546715?utm_campaign=1065&utm_source=git)** | Liberty, ME | On Site | Nov 27 |
 | **[MSI Americas](https://msiamericas.com/)** | **[Pasante en Digitalización de Campañas Publicitarias](https://jobright.ai/jobs/info/6928ccd9d47de4798ece3c4f?utm_campaign=1065&utm_source=git)** | Latin America | On Site | Nov 27 |
 | **[RIVESSE LLC](https://rivesse.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6928c475f0beb0723263146d?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Hybrid | Nov 27 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927b3eaf0beb0723262d4ac?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 26 |
 | **[Unison](http://www.unison.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6927abc391ceeb2e8a542234?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Nov 26 |
 | **[University Health Network](https://www.uhn.ca/)** | **[Junior Fundraising Event Coordinator (Intern), Corporate and Community Partnerships](https://jobright.ai/jobs/info/6927abb0d47de4798ecdf764?utm_campaign=1065&utm_source=git)** | 700 University Ave, Toronto, ON M5G 1X6, Canada | Hybrid | Nov 26 |
-| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - OAS Communications Intern](https://jobright.ai/jobs/info/6920da7f00c9ee50eaec8c2e?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 26 |
-| **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927a3cfd47de4798ecdf3a4?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Nov 26 |
-| **[Morse Manufacturing Co., Inc.](https://morsedrum.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6927a139f0beb0723262cac9?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Nov 26 |
-| **[Groq](http://groq.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6927a102d47de4798ecdf1d1?utm_campaign=1065&utm_source=git)** | Toronto | Hybrid | Nov 26 |
-| **[Hudson Partnership CMO](https://www.hudsoncmo.org)** | **[Unpaid Community Resource Intern](https://jobright.ai/jobs/info/6927a0d591ceeb2e8a541bb2?utm_campaign=1065&utm_source=git)** | Secaucus, NJ | On Site | Nov 26 |
-| **[Wefunder](http://www.wefunder.com)** | **[Fundraising Intern-to-Hire](https://jobright.ai/jobs/info/6927a0a6f0beb0723262ca66?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
