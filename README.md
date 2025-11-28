@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
+| **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692a0edf4c474121999cb511?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 28 |
+| **[Prestage Farms](http://www.prestagefarms.com/prestage-foods-processing-plants/)** | **[2026 College Internship Marketing](https://jobright.ai/jobs/info/692a04d166796e3028f8e051?utm_campaign=1065&utm_source=git)** | Eagle Grove, IA | On Site | Nov 28 |
+| **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Analyst, Merchandising & Mapping – Co-op Student](https://jobright.ai/jobs/info/6929fd9466796e3028f8ddf7?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Nov 28 |
+| **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/6929fd78fa28370be2695fb6?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 28 |
 | **[Conexant](http://www.conexant.com/)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/6929f6d94c474121999caea3?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/6929f2cefa28370be2695cc4?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6929ed3c4c474121999cac1d?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Nov 28 |
@@ -118,8 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[Content Branding and Marketing Intern Position](https://jobright.ai/jobs/info/692973464c474121999c98f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[LTV.ai](https://ltv.ai/)** | **[Growth Intern](https://jobright.ai/jobs/info/692966744c474121999c961e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 | ↳ | **[Growth Intern](https://jobright.ai/jobs/info/692965f14c474121999c95e2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 28 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Intern
-Job ID : 267580](https://jobright.ai/jobs/info/69296083fa28370be26943d3?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/692958da4c474121999c9279?utm_campaign=1065&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Vinaire Inc.](https://www.linkedin.com/company/103014821)** | **[Marketing & Community Strategy Intern (Minneapolis — Part-Time / Flexible)](https://jobright.ai/jobs/info/6929352f91ceeb2e8a5471b6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69292896f0beb07232631fad?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 27 |
@@ -154,8 +157,4 @@ Job ID : 267580](https://jobright.ai/jobs/info/69296083fa28370be26943d3?utm_camp
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (R](https://jobright.ai/jobs/info/69288a7191ceeb2e8a545cc4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690c2198221b890c277fbc86?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 27 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media and NIL Outreach Internship](https://jobright.ai/jobs/info/69287f19f0beb0723263091d?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 27 |
-| **[FIRST](https://firstagency.com/)** | **[Internal Communications Intern - Spring 2026](https://jobright.ai/jobs/info/69287f05f0beb07232630916?utm_campaign=1065&utm_source=git)** | FIRST - New York | On Site | Nov 27 |
-| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Community & Employee Engagement Intern – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/690ba0aad046ab6061ce5e3f?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | On Site | Nov 27 |
-| **[Nutanix](http://www.nutanix.com)** | **[Corporate Communications Intern - LOCAL undergrads applicant ONLY](https://jobright.ai/jobs/info/691fe7bd3f782d2f1afc1553?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
-| **[David Yurman](http://www.davidyurman.com)** | **[Paid Media Intern](https://jobright.ai/jobs/info/6915645e286ccf0a1512dd8e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
