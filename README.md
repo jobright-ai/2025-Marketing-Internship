@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
+| **[RONA](http://www.rona.ca/en)** | **[Internship, Marketing](https://jobright.ai/jobs/info/692a5b624c474121999cc00c?utm_campaign=1065&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 28 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[2026 Design Marketing Internship](https://jobright.ai/jobs/info/692a4ee64c474121999cbe3b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a23744c474121999cb888?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Nov 28 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6929e2284c474121999caa0d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[eCommerce Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68f12d57f462172a5a7d3c02?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Nov 28 |
 | **[The Clorox Company](https://www.thecloroxcompany.com/)** | **[Brand Management Intern (MBA - Summer 2026)](https://jobright.ai/jobs/info/68ccdb445954791a1d7000de?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Nov 28 |
+| **[Nike](http://www.nike.com)** | **[Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/68f1bdeaef766b3f0fd119e0?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1c78ba1621431e0dd9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Marketing Operations Intern,  2026](https://jobright.ai/jobs/info/6929cd46fa28370be26953c9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Nov 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dc93b221b890c278099d5?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Nov 28 |
@@ -99,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68f0022a78ba1621431e19ff?utm_campaign=1065&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 28 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Intern(2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68f061fc9e09d311e0431373?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Nov 28 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
-| **[Metapilot Academy](https://www.neurobotx.ai/)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6929a9d34c474121999c9ff0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Inn at Bay Harbor](http://www.innatbayharbor.com)** | **[Events Management Internship- Level 2](https://jobright.ai/jobs/info/690d26614a1b456627b1e751?utm_campaign=1065&utm_source=git)** | Petoskey, MI | On Site | Nov 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/68d6074d63d77d6f6f3f3dcc?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Nov 28 |
 | **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6929a3fc66796e3028f8ccba?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 28 |
@@ -109,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[PIM Brands](https://pimbrands.com)** | **[Omni Marketing Intern](https://jobright.ai/jobs/info/68f158fcf462172a5a7d6c93?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Nov 28 |
 | **[Acadium](http://www.acadium.com)** | **[SEO Intern](https://jobright.ai/jobs/info/692998ebfa28370be2694ceb?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[David C Cook](https://davidccook.org)** | **[Digital Marketing & Content Internship (Unpaid)](https://jobright.ai/jobs/info/68f1cde2ef766b3f0fd1223f?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Nov 28 |
-| **[Emerson](http://www.emerson.com)** | **[Marketing Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/690d282e4a1b456627b1e94a?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Nov 28 |
 | **[Henderson Engineers](https://www.hendersonengineers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691d48a60b7dff7341501f99?utm_campaign=1065&utm_source=git)** | Lenexa, KS | Hybrid | Nov 28 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Technical Marketing Intern - Onshape](https://jobright.ai/jobs/info/690d187b4a1b456627b1da35?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b9f5a38043103d4f21c51c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efde41de50091dbfa50c4b?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (R](https://jobright.ai/jobs/info/69288a7191ceeb2e8a545cc4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690c2198221b890c277fbc86?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 27 |
-| **[FIRST](https://firstagency.com/)** | **[Internal Communications Intern - Spring 2026](https://jobright.ai/jobs/info/69287f05f0beb07232630916?utm_campaign=1065&utm_source=git)** | FIRST - New York | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
