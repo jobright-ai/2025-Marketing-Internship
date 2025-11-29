@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WilkinGuttenplan](http://wgcpas.com)** | **[Marketing Internship - Hybrid (December-March)](https://jobright.ai/jobs/info/692a7b664c474121999cc34f?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | Hybrid | Nov 28 |
+| **[BioCore Education](https://www.biocoreeducation.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/692a78864c474121999cc32c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Marketing](https://jobright.ai/jobs/info/692a5b624c474121999cc00c?utm_campaign=1065&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 28 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coinbase](https://www.coinbase.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69212ed3a49a885af9a43ba4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/690ccf6f221b890c278002f1?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Nov 27 |
 | **[Bloom Energy](http://www.bloomenergy.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690bb7f2221b890c277f73d5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
-| **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efde41de50091dbfa50c4b?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
-| **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (R](https://jobright.ai/jobs/info/69288a7191ceeb2e8a545cc4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
-| **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690c2198221b890c277fbc86?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
