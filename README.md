@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FINNA](drinkfinna.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b670b4c474121999cdc0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 29 |
+| **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692b66eb4c474121999cdc0a?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Nov 29 |
+| **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/692b59b94c474121999cdb19?utm_campaign=1065&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 29 |
+| ↳ | **[Social Media Manager](https://jobright.ai/jobs/info/692b533166796e3028f9078f?utm_campaign=1065&utm_source=git)** | Woonsocket, RI | On Site | Nov 29 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/692b44dbfa28370be2698826?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 29 |
 | **[McShane’s Exchange](http://mcshanes-exchange.shop)** | **[Fashion Intern -- Spring 2026](https://jobright.ai/jobs/info/692b41cbfa28370be26987d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/691706f0bcdbf3560c9c4379?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692b38fe4c474121999cd780?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/68bb80416105227d118a6706?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/692b29a44c474121999cd601?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[dataing](https://www.dataing.io/)** | **[Social Media Manager](https://jobright.ai/jobs/info/692b26c866796e3028f902f8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Communication Specialist)](https://jobright.ai/jobs/info/691d527e7481340785ed68bc?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/690e6715221b890c2780d930?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690ddf81221b890c2780a202?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Nov 28 |
 | **[Southwire Company](http://southwire.com)** | **[Sales and Marketing Intern (High Voltage Systems)](https://jobright.ai/jobs/info/68f11efae6870116b1f53c5a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 28 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
-| **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68f0022a78ba1621431e19ff?utm_campaign=1065&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 28 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Intern(2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68f061fc9e09d311e0431373?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Nov 28 |
-| **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
