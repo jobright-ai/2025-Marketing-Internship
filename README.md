@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
+| **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[2026 Design Marketing Internship](https://jobright.ai/jobs/info/692a4ee64c474121999cbe3b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a23744c474121999cb888?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Nov 28 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692a0edf4c474121999cb511?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 28 |
-| **[Prestage Farms](http://www.prestagefarms.com/prestage-foods-processing-plants/)** | **[2026 College Internship Marketing](https://jobright.ai/jobs/info/692a04d166796e3028f8e051?utm_campaign=1065&utm_source=git)** | Eagle Grove, IA | On Site | Nov 28 |
-| **[Loblaw Companies Limited](http://www.loblaw.ca/en.html)** | **[Analyst, Merchandising & Mapping – Co-op Student](https://jobright.ai/jobs/info/6929fd9466796e3028f8ddf7?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Nov 28 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/6929fd78fa28370be2695fb6?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 28 |
 | **[Conexant](http://www.conexant.com/)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/6929f6d94c474121999caea3?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/6929f2cefa28370be2695cc4?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
@@ -83,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dc93b221b890c278099d5?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd4c9821486c423c7c9c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Automotive)- EN](https://jobright.ai/jobs/info/6929e71b4c474121999cab0c?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Nov 28 |
+| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692a476cfa28370be2696c3c?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[eCommerce Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68f12c87f462172a5a7d3b63?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
@@ -120,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Nov 28 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Marketing & Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/68fda9430ab3b222462a3e19?utm_campaign=1065&utm_source=git)** | Middlesex County, NJ | Hybrid | Nov 28 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Digital Marketing & AI Intern](https://jobright.ai/jobs/info/68b8438aea901c0d269f4fd9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 28 |
-| **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[Content Branding and Marketing Intern Position](https://jobright.ai/jobs/info/692973464c474121999c98f1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[LTV.ai](https://ltv.ai/)** | **[Growth Intern](https://jobright.ai/jobs/info/692966744c474121999c961e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 | ↳ | **[Growth Intern](https://jobright.ai/jobs/info/692965f14c474121999c95e2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/692958da4c474121999c9279?utm_campaign=1065&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
@@ -132,7 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292645d47de4798ece45ee?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69291f3bd47de4798ece4574?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 27 |
-| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d80e66796e3028f8d520?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
+| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d4fd4c474121999ca688?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f21d91ceeb2e8a5469d9?utm_campaign=1065&utm_source=git)** | Regina, SK, CA | Hybrid | Nov 27 |
