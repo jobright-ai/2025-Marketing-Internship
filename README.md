@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Consumer (Spring 2026)](https://jobright.ai/jobs/info/69053f3d122e8474c78d7d95?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 28 |
 | **[WilkinGuttenplan](http://wgcpas.com)** | **[Marketing Internship - Hybrid (December-March)](https://jobright.ai/jobs/info/692a7b664c474121999cc34f?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | Hybrid | Nov 28 |
 | **[BioCore Education](https://www.biocoreeducation.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/692a78864c474121999cc32c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
@@ -108,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 | **[Inn at Bay Harbor](http://www.innatbayharbor.com)** | **[Events Management Internship- Level 2](https://jobright.ai/jobs/info/690d26614a1b456627b1e751?utm_campaign=1065&utm_source=git)** | Petoskey, MI | On Site | Nov 28 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/68d6074d63d77d6f6f3f3dcc?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Nov 28 |
-| **[Dyson Benelux](http://www.dyson.com)** | **[Global B2B Marketing Intern](https://jobright.ai/jobs/info/6929a3fc66796e3028f8ccba?utm_campaign=1065&utm_source=git)** | St James, NY | On Site | Nov 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Marketing](https://jobright.ai/jobs/info/690d36244a1b456627b1f4dc?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Nov 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com/)** | **[Marketing Intern (RevenueOps - Sales Enablement) (Summer 2026) - Manchester, NH](https://jobright.ai/jobs/info/68efcd65de50091dbfa504c1?utm_campaign=1065&utm_source=git)** | Manchester, NH | On Site | Nov 28 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Marketing Intern - Baltimore](https://jobright.ai/jobs/info/69115aff988c2b7b4ec54306?utm_campaign=1065&utm_source=git)** | Halethorpe, MD | On Site | Nov 28 |
@@ -128,6 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Oatey Company](https://www.oatey.com//)** | **[Digital Marketing & AI Intern](https://jobright.ai/jobs/info/68b8438aea901c0d269f4fd9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Nov 28 |
 | **[LTV.ai](https://ltv.ai/)** | **[Growth Intern](https://jobright.ai/jobs/info/692966744c474121999c961e?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
 | ↳ | **[Growth Intern](https://jobright.ai/jobs/info/692965f14c474121999c95e2?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Nov 28 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Social Media Intern
+Job ID : 267580](https://jobright.ai/jobs/info/692ab6e9fa28370be269798a?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Nov 28 |
 | **[City of Arvada](https://arvada.org)** | **[Strategic Communication Intern](https://jobright.ai/jobs/info/692958da4c474121999c9279?utm_campaign=1065&utm_source=git)** | Arvada City Hall | On Site | Nov 28 |
 | **[Vinaire Inc.](https://www.linkedin.com/company/103014821)** | **[Marketing & Community Strategy Intern (Minneapolis — Part-Time / Flexible)](https://jobright.ai/jobs/info/6929352f91ceeb2e8a5471b6?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/69292896f0beb07232631fad?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | On Site | Nov 27 |
@@ -137,7 +139,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292645d47de4798ece45ee?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69291f3bd47de4798ece4574?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 27 |
-| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d4fd4c474121999ca688?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
+| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d80e66796e3028f8d520?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f21d91ceeb2e8a5469d9?utm_campaign=1065&utm_source=git)** | Regina, SK, CA | Hybrid | Nov 27 |
@@ -156,5 +158,4 @@ For a complete list, click the following sortable link below:
 | **[The Princess Margaret Cancer Foundation](https://www.thepmcf.ca)** | **[Junior Fundraising Event Coordinator (Intern), Corporate and Community Partnerships](https://jobright.ai/jobs/info/69289d36f0beb07232630df2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[Virtual Starlight](https://virtualstarlight.com/)** | **[Digital Marketing Intern (Fall 2025) – College Credit](https://jobright.ai/jobs/info/6929f8b2fa28370be2695eaf?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[Coinbase](https://www.coinbase.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69212ed3a49a885af9a43ba4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
-| **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/690ccf6f221b890c278002f1?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
