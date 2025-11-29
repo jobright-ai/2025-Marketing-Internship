@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a23744c474121999cb888?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Nov 28 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Aldenaire](https://www.linkedin.com/company/101392937)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692a0edf4c474121999cb511?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Nov 28 |
 | **[Prestage Farms](http://www.prestagefarms.com/prestage-foods-processing-plants/)** | **[2026 College Internship Marketing](https://jobright.ai/jobs/info/692a04d166796e3028f8e051?utm_campaign=1065&utm_source=git)** | Eagle Grove, IA | On Site | Nov 28 |
@@ -87,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
 | **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 28 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1109de6870116b1f534aa?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Marketing Operations](https://jobright.ai/jobs/info/6929e26e4c474121999caa1e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 28 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Nov 28 |
@@ -132,7 +132,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/69292645d47de4798ece45ee?utm_campaign=1065&utm_source=git)** | Edmonton, Alberta, Canada | On Site | Nov 27 |
 | **[TE Connectivity](http://www.te.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/69291f3bd47de4798ece4574?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Nov 27 |
 | **[iCapital](https://icapital.com)** | **[iCapital Marketplace - Summer 2026 Intern](https://jobright.ai/jobs/info/691b76ccbcdbf3560c9df156?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 27 |
-| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d4fd4c474121999ca688?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
+| **[Astro](http://www.astro.com.my)** | **[Intern, Client Solutions](https://jobright.ai/jobs/info/6929d80e66796e3028f8d520?utm_campaign=1065&utm_source=git)** | All Asia Broadcast Centre | On Site | Nov 27 |
 | **[Finning](http://www.finning.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6928f413f0beb072326318bc?utm_campaign=1065&utm_source=git)** | Surrey, BC, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f342d47de4798ece3f29?utm_campaign=1065&utm_source=git)** | Edmonton, AB, CA | Hybrid | Nov 27 |
 | ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6928f21d91ceeb2e8a5469d9?utm_campaign=1065&utm_source=git)** | Regina, SK, CA | Hybrid | Nov 27 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efde41de50091dbfa50c4b?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 27 |
 | **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (R](https://jobright.ai/jobs/info/69288a7191ceeb2e8a545cc4?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 27 |
 | **[Federal Home Loan Bank of Dallas](https://www.fhlb.com/)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690c2198221b890c277fbc86?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 27 |
-| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media and NIL Outreach Internship](https://jobright.ai/jobs/info/69287f19f0beb0723263091d?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 27 |
+| **[FIRST](https://firstagency.com/)** | **[Internal Communications Intern - Spring 2026](https://jobright.ai/jobs/info/69287f05f0beb07232630916?utm_campaign=1065&utm_source=git)** | FIRST - New York | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
