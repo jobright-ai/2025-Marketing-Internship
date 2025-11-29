@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Consumer (Spring 2026)](https://jobright.ai/jobs/info/69053f3d122e8474c78d7d95?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 28 |
 | **[WilkinGuttenplan](http://wgcpas.com)** | **[Marketing Internship - Hybrid (December-March)](https://jobright.ai/jobs/info/692a7b664c474121999cc34f?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ | Hybrid | Nov 28 |
 | **[BioCore Education](https://www.biocoreeducation.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/692a78864c474121999cc32c?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Virtual Starlight](https://virtualstarlight.com/)** | **[Digital Marketing Intern (Fall 2025) – College Credit](https://jobright.ai/jobs/info/6929f8b2fa28370be2695eaf?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 27 |
 | **[Coinbase](https://www.coinbase.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69212ed3a49a885af9a43ba4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 27 |
 | **[CSS Farms, LLC](https://cssfarms.com/)** | **[Intern - Marketing/Communications](https://jobright.ai/jobs/info/690ccf6f221b890c278002f1?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Nov 27 |
-| **[Bloom Energy](http://www.bloomenergy.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/690bb7f2221b890c277f73d5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
