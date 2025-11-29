@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/692b44dbfa28370be2698826?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 29 |
+| **[McShane’s Exchange](http://mcshanes-exchange.shop)** | **[Fashion Intern -- Spring 2026](https://jobright.ai/jobs/info/692b41cbfa28370be26987d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
+| **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/691706f0bcdbf3560c9c4379?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692b38fe4c474121999cd780?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/68bb80416105227d118a6706?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
 | **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/692b29a44c474121999cd601?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[dataing](https://www.dataing.io/)** | **[Social Media Manager](https://jobright.ai/jobs/info/692b26c866796e3028f902f8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 29 |
@@ -66,14 +70,12 @@ For a complete list, click the following sortable link below:
 | **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Analyst, Marketing & Internal Communications](https://jobright.ai/jobs/info/690f499d44146d3b6ec5b0cc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690e33a744146d3b6ec51dfd?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[eCommerce Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68f130bde6870116b1f54715?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 29 |
-| **[DemaDose](https://www.linkedin.com/company/107191997)** | **[Content Strategist](https://jobright.ai/jobs/info/692b104e4c474121999cd38e?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Global Brand Media Undergraduate Internship](https://jobright.ai/jobs/info/692b101b4c474121999cd383?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68b9f5e66105227d11899b71?utm_campaign=1065&utm_source=git)** | Fond du Lac, WI | On Site | Nov 29 |
 | **[RaceTrac](http://www.racetrac.com/)** | **[Pricing and Revenue Intern (Summer 2026)](https://jobright.ai/jobs/info/690e49af44146d3b6ec529e6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 29 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern (Master's) Marketing - Process Technology](https://jobright.ai/jobs/info/690e67ed221b890c2780da0f?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Nov 29 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Marketing, Retail & Athletic Operations](https://jobright.ai/jobs/info/690e6bce44146d3b6ec540f8?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Nov 29 |
 | **[Enovis](https://enovis.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cf0859fb49c96ca6ea5448?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
-| **[GenPark](https://genpark.ai)** | **[Project Growth Intern](https://jobright.ai/jobs/info/692b04b34c474121999cd195?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[PC Construction Company](https://www.tcbremodelingandconstruction.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/68ca4d6e5f9f0336447db7e7?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Nov 29 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Philanthropy Intern - Summer 2026](https://jobright.ai/jobs/info/690e99e3221b890c2780fb5b?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Analytics Intern - Summer 2026](https://jobright.ai/jobs/info/690e83cf221b890c2780ee22?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
@@ -120,6 +122,7 @@ For a complete list, click the following sortable link below:
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Conexant](http://www.conexant.com/)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/6929f6d94c474121999caea3?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 | ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/6929f2cefa28370be2695cc4?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
+| **[Emerson](http://www.emerson.com)** | **[Marketing Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/692b44a0fa28370be269881a?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Nov 28 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6929ed3c4c474121999cac1d?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Nov 28 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6929e8864c474121999cab6c?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Nov 28 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Nov 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westfield Insurance](https://www.westfieldinsurance.com)** | **[Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68f0022a78ba1621431e19ff?utm_campaign=1065&utm_source=git)** | Westfield Center, OH | Hybrid | Nov 28 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[eCommerce Client Relations Intern(2026 Semester 1) - Generation H](https://jobright.ai/jobs/info/68f061fc9e09d311e0431373?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Nov 28 |
 | **[Electric Power Engineers](https://www.epeconsulting.com)** | **[Multimedia Marketing Intern - Summer](https://jobright.ai/jobs/info/690d0277221b890c27801e1c?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 28 |
-| **[Inn at Bay Harbor](http://www.innatbayharbor.com)** | **[Events Management Internship- Level 2](https://jobright.ai/jobs/info/690d26614a1b456627b1e751?utm_campaign=1065&utm_source=git)** | Petoskey, MI | On Site | Nov 28 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/68d6074d63d77d6f6f3f3dcc?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Nov 28 |
-| **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Marketing](https://jobright.ai/jobs/info/690d36244a1b456627b1f4dc?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
