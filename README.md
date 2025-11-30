@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Cross Blue Shield of Michigan](http://www.bcbsm.com/)** | **[2026 Summer Intern - Communications](https://jobright.ai/jobs/info/68bb47946105227d118a4d40?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Nov 30 |
+| **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern - Santa Clara](https://jobright.ai/jobs/info/68b9e02d8043103d4f21b20b?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Nov 30 |
+| ↳ | **[Web Marketing Intern - Web Technology and Platforms](https://jobright.ai/jobs/info/68c8cc1f95f5211cd2ce9752?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 30 |
+| **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Technology to Market Intern Summer 2026](https://jobright.ai/jobs/info/68ce935bfb49c96ca6ea1acb?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Nov 30 |
+| **[Amway](http://www.amway.com)** | **[Digital Marketing Intern, Summer 2026 (42270)](https://jobright.ai/jobs/info/68ba235d8043103d4f21dc26?utm_campaign=1065&utm_source=git)** | Ada, MI | Hybrid | Nov 30 |
+| **[John Deere](https://www.deere.com)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/68ba416a5f38327491865902?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
+| ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/68cd0835e23def7af55b3982?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
+| **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/691d71e90b7dff734150370f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social Media](https://jobright.ai/jobs/info/692c11d64c474121999cf9fa?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 30 |
 | **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692c04df4c474121999cf8e6?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Digital Marketing Intern - Unpaid](https://jobright.ai/jobs/info/692bd35f66796e3028f91b8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/68f1bdeaef766b3f0fd119e0?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1c78ba1621431e0dd9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Marketing Operations Intern,  2026](https://jobright.ai/jobs/info/6929cd46fa28370be26953c9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Nov 28 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dc93b221b890c278099d5?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd4c9821486c423c7c9c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
-| **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Automotive)- EN](https://jobright.ai/jobs/info/6929e71b4c474121999cab0c?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Nov 28 |
-| **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692a476cfa28370be2696c3c?utm_campaign=1065&utm_source=git)** | Farmington, CT | On Site | Nov 28 |
-| **[Uline](http://www.uline.com)** | **[eCommerce Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68f12c87f462172a5a7d3b63?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 28 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
-| **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
