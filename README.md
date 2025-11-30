@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692b6ff7fa28370be2698c2b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
+| **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6d3dfa28370be2698bd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
+| **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6cae4c474121999cdc3d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[FINNA](drinkfinna.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b670b4c474121999cdc0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692b66eb4c474121999cdc0a?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Nov 29 |
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/692b59b94c474121999cdb19?utm_campaign=1065&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 29 |
@@ -66,7 +69,7 @@ For a complete list, click the following sortable link below:
 | **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/691706f0bcdbf3560c9c4379?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692b38fe4c474121999cd780?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/68bb80416105227d118a6706?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
-| **[dataing](https://www.dataing.io/)** | **[Social Media Manager](https://jobright.ai/jobs/info/692b26c866796e3028f902f8?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 29 |
+| **[Nike](http://www.nike.com)** | **[NIKE, Inc. Digital Growth Graduate Internship](https://jobright.ai/jobs/info/68f1c38df462172a5a7dc4e7?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Communication Specialist)](https://jobright.ai/jobs/info/691d527e7481340785ed68bc?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Marketing Project Management Intern - Summer 2026](https://jobright.ai/jobs/info/690e6715221b890c2780d930?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Nov 29 |
 | **[Uline](http://www.uline.com)** | **[eCommerce Analyst Internship - Summer 2026](https://jobright.ai/jobs/info/68f131daef766b3f0fd098e8?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Nov 28 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690ddf81221b890c2780a202?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Nov 28 |
-| **[Southwire Company](http://southwire.com)** | **[Sales and Marketing Intern (High Voltage Systems)](https://jobright.ai/jobs/info/68f11efae6870116b1f53c5a?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Nov 28 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
