@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Manager](https://jobright.ai/jobs/info/692b533166796e3028f9078f?utm_campaign=1065&utm_source=git)** | Woonsocket, RI | On Site | Nov 29 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/692b44dbfa28370be2698826?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 29 |
 | **[McShane’s Exchange](http://mcshanes-exchange.shop)** | **[Fashion Intern -- Spring 2026](https://jobright.ai/jobs/info/692b41cbfa28370be26987d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
-| **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/691706f0bcdbf3560c9c4379?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Marketing Data Science Intern](https://jobright.ai/jobs/info/68bb80416105227d118a6706?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 29 |
 | **[Nike](http://www.nike.com)** | **[NIKE, Inc. Digital Growth Graduate Internship](https://jobright.ai/jobs/info/68f1c38df462172a5a7dc4e7?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 29 |
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Marketing Communication Specialist)](https://jobright.ai/jobs/info/691d527e7481340785ed68bc?utm_campaign=1065&utm_source=git)** | Vienna, VA | Hybrid | Nov 29 |
@@ -147,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Nike](http://www.nike.com)** | **[Marketing Vanguard Program (MVP) Graduate Internship](https://jobright.ai/jobs/info/68f1bdeaef766b3f0fd119e0?utm_campaign=1065&utm_source=git)** | Beaverton, OR | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd1c78ba1621431e0dd9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Nov 28 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Marketing Operations Intern,  2026](https://jobright.ai/jobs/info/6929cd46fa28370be26953c9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Nov 28 |
-| **[Paul Postema | Performance Coaching](www.paulpostema.com)** | **[Brand Manager & D1 Athlete (Internship)](https://jobright.ai/jobs/info/692af4abfa28370be2697f10?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Nov 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dc93b221b890c278099d5?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Nov 28 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd4c9821486c423c7c9c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Nov 28 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Automotive)- EN](https://jobright.ai/jobs/info/6929e71b4c474121999cab0c?utm_campaign=1065&utm_source=git)** | Troy, MI | On Site | Nov 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
 | **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 28 |
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1109de6870116b1f534aa?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
+| **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
+| **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
