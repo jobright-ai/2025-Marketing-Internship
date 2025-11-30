@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/692bb8abfa28370be269920e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/692ba1a166796e3028f90caf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692b6ff7fa28370be2698c2b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
+| **[Chair Massage ToGo](www.chairmassagetogo.com)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/692bb8a9fa28370be269920c?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | On Site | Nov 29 |
 | **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6d3dfa28370be2698bd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6cae4c474121999cdc3d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[FINNA](drinkfinna.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b670b4c474121999cdc0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
 | **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 28 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1109de6870116b1f534aa?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
-| **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
