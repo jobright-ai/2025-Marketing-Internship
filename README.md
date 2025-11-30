@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social Media](https://jobright.ai/jobs/info/692c11d64c474121999cf9fa?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 30 |
+| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692c04df4c474121999cf8e6?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Digital Marketing Intern - Unpaid](https://jobright.ai/jobs/info/692bd35f66796e3028f91b8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Press & Outreach Intern](https://jobright.ai/jobs/info/692bd32666796e3028f91b66?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[ENDevo, Inc](https://www.endevo.life)** | **[AI - Digital Marketing Intern](https://jobright.ai/jobs/info/692bd0a9fa28370be2699c73?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
@@ -122,7 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital - Marketing -Professional - Intern](https://jobright.ai/jobs/info/692afa5e66796e3028f8fdfb?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 29 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Consumer (Spring 2026)](https://jobright.ai/jobs/info/69053f3d122e8474c78d7d95?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 28 |
-| ↳ | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
+| **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/6927cf0cf0beb0723262e3b3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 28 |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Marketing](https://jobright.ai/jobs/info/692a5b624c474121999cc00c?utm_campaign=1065&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 28 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Nov 28 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/690dced8d046ab6061cf947c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Nov 28 |
 | **[Get Engaged](https://getengagedmedia.com/)** | **[Internship](https://jobright.ai/jobs/info/689c8b4afaa4e875e8268c63?utm_campaign=1065&utm_source=git)** | Syracuse-Auburn Area | On Site | Nov 28 |
-| **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1109de6870116b1f534aa?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
-| **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
-| **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
