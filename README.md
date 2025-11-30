@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692ca0eafa28370be269b527?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Nov 30 |
+| **[MoneyChoice Capital](http://www.tinoiq.com)** | **[Intern](https://jobright.ai/jobs/info/692c93effa28370be269b3ef?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
+| **[Hamptons Wellness on Wheels](http://www.hamptonswellnessonwheels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c93a2fa28370be269b3de?utm_campaign=1065&utm_source=git)** | Port Jefferson, NY | Hybrid | Nov 30 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/692c90bcfa28370be269b390?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Nov 30 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692c77f866796e3028f92f61?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 30 |
 | **[Stratify Edge](stratifyedge.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692c704dfa28370be269b0fb?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | **[Fazer](https://fazer.agency)** | **[Brand Strategy Intern](https://jobright.ai/jobs/info/692c675c4c474121999d00c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
@@ -64,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Shure Incorporated](http://www.shure.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68ce5ca0846f0b04af679246?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | ↳ | **[Global Marketing Intern](https://jobright.ai/jobs/info/68bb7a2d8043103d4f228e38?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
 | ↳ | **[Global E-Commerce Marketing Intern](https://jobright.ai/jobs/info/68e213e51852e62f007f5860?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
-| **[OceanFive Records](oceanfive.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c5bf5fa28370be269afd5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Paid Media Internship](https://jobright.ai/jobs/info/6916e7f2286ccf0a1513a550?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 30 |
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/68d7152b45853d0e39cccc95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Nov 30 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Growth Intern](https://jobright.ai/jobs/info/692c4ab94c474121999cfea5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 30 |
@@ -91,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/692ba1a166796e3028f90caf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Jamestown Jackals](http://jamestownjackals.com)** | **[Sponsorship and Fundraising Intern](https://jobright.ai/jobs/info/692c3e5166796e3028f92b10?utm_campaign=1065&utm_source=git)** | Erie, PA | Remote | Nov 29 |
 | **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692b6ff7fa28370be2698c2b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
-| **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6cae4c474121999cdc3d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 29 |
 | **[FINNA](drinkfinna.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b670b4c474121999cdc0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692b66eb4c474121999cdc0a?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Nov 29 |
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/692b59b94c474121999cdb19?utm_campaign=1065&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[2026 Design Marketing Internship](https://jobright.ai/jobs/info/692a4ee64c474121999cbe3b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
 | **[Conexant](http://www.conexant.com/)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/6929f6d94c474121999caea3?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
-| ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/6929f2cefa28370be2695cc4?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
-| **[Emerson](http://www.emerson.com)** | **[Marketing Intern – MBA Leadership Program – Class of 2027](https://jobright.ai/jobs/info/692b44a0fa28370be269881a?utm_campaign=1065&utm_source=git)** | St Louis, MO | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
