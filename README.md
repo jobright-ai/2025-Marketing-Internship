@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/692ba1a166796e3028f90caf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692b6ff7fa28370be2698c2b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6d3dfa28370be2698bd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Premed Cheatsheet](premedcheatsheet.com)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692b6cae4c474121999cdc3d?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Nov 29 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692b66eb4c474121999cdc0a?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Nov 29 |
 | **[Jobs In Cyprus - Job Portal in Cyprus](https://jobsincyprus.cy/)** | **[Internet Merchandiser](https://jobright.ai/jobs/info/692b59b94c474121999cdb19?utm_campaign=1065&utm_source=git)** | Albany, New York Metropolitan Area | On Site | Nov 29 |
 | ↳ | **[Social Media Manager](https://jobright.ai/jobs/info/692b533166796e3028f9078f?utm_campaign=1065&utm_source=git)** | Woonsocket, RI | On Site | Nov 29 |
+| **[TREALT](https://trealt.ca/)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b958366796e3028f90be1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Nov 29 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Social Media Strategist Intern](https://jobright.ai/jobs/info/692b44dbfa28370be2698826?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Nov 29 |
 | **[McShane’s Exchange](http://mcshanes-exchange.shop)** | **[Fashion Intern -- Spring 2026](https://jobright.ai/jobs/info/692b41cbfa28370be26987d9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Nov 29 |
 | **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/691706f0bcdbf3560c9c4379?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Nov 29 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[David C Cook](https://davidccook.org)** | **[Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/68f18f2cef766b3f0fd0f5b6?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
 | **[OpusClip](https://www.opusclip.io)** | **[Social Media Intern, AI Agent (Vancouver)](https://jobright.ai/jobs/info/692ae58f4c474121999ccd78?utm_campaign=1065&utm_source=git)** | Burnaby, British Columbia, Canada | On Site | Nov 29 |
 | **[McCormick & Company](http://www.mccormickcorporation.com)** | **[Trade Marketing Sales Intern](https://jobright.ai/jobs/info/691a915b45fb6f5ead8abda6?utm_campaign=1065&utm_source=git)** | Hunt Valley, MD | On Site | Nov 29 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Events Internships](https://jobright.ai/jobs/info/692adbda4c474121999ccca6?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Nov 29 |
 | **[Signify](https://www.signify.com)** | **[Technical Marketing Intern, Intelligent Lighting Controls/Cooper Lighting Solutions - Spring 2026](https://jobright.ai/jobs/info/690e77b8d046ab6061cfde9b?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Nov 29 |
 | **[The Chemours Company](https://www.chemours.com)** | **[Corporate Communications Spring Intern](https://jobright.ai/jobs/info/68cd4282e23def7af55b76d3?utm_campaign=1065&utm_source=git)** | New Castle County, DE | Hybrid | Nov 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68c8c012983e6768bc5511fe?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Valmont Industries, Inc.](http://www.valmont.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68f1109de6870116b1f534aa?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Nov 28 |
 | **[Haleon](http://www.haleon.com/)** | **[2026 MBA Internship: US Marketing](https://jobright.ai/jobs/info/6920d2c200c9ee50eaec8657?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Hybrid | Nov 28 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Influencer BD Intern (Chinese Speaker) — AI-Powered Global Marketing](https://jobright.ai/jobs/info/6929d5b94c474121999ca6e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
-| **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
