@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692c77f866796e3028f92f61?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 30 |
+| **[Stratify Edge](stratifyedge.us)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692c704dfa28370be269b0fb?utm_campaign=1065&utm_source=git)** | Ada, MI | Remote | Nov 30 |
 | **[Fazer](https://fazer.agency)** | **[Brand Strategy Intern](https://jobright.ai/jobs/info/692c675c4c474121999d00c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Nov 30 |
 | **[Shure Incorporated](http://www.shure.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/68ce5ca0846f0b04af679246?utm_campaign=1065&utm_source=git)** | Niles, IL | Hybrid | Nov 30 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com/)** | **[2026 Summer Marketing Intern](https://jobright.ai/jobs/info/68d7152b45853d0e39cccc95?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Hybrid | Nov 30 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Growth Intern](https://jobright.ai/jobs/info/692c4ab94c474121999cfea5?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 30 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/6915af316f36db06ef050536?utm_campaign=1065&utm_source=git)** | Syracuse, NY | On Site | Nov 30 |
-| **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/692c43694c474121999cfe1a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Harris](https://www.harriscompany.com/)** | **[Marketing + Communications Intern](https://jobright.ai/jobs/info/68d7016445853d0e39ccbfca?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Nov 30 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/691d51d40b7dff73415026cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Motion](http://www.dragosupply.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/68ec6677bb72c377a5513359?utm_campaign=1065&utm_source=git)** | Birmingham, AL | On Site | Nov 30 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/68cd0835e23def7af55b3982?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/691d71e90b7dff734150370f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social Media](https://jobright.ai/jobs/info/692c11d64c474121999cf9fa?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 30 |
-| **[Skillmorph](https://www.linkedin.com/company/104656019)** | **[Digital Content Intern](https://jobright.ai/jobs/info/692c04df4c474121999cf8e6?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Digital Marketing Intern - Unpaid](https://jobright.ai/jobs/info/692bd35f66796e3028f91b8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Press & Outreach Intern](https://jobright.ai/jobs/info/692bd32666796e3028f91b66?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[Pechaan](pechaan.co)** | **[Social Media & Creative Content Intern (Unpaid)](https://jobright.ai/jobs/info/692c3eed4c474121999cfda2?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
