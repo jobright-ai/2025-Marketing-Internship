@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Startup CPG](https://startupcpg.com)** | **[Intern](https://jobright.ai/jobs/info/692cb50e66796e3028f934ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692cb4bd4c474121999d0727?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[dataing](https://www.dataing.io/)** | **[Social Media Manager ❤️](https://jobright.ai/jobs/info/692cad1cfa28370be269b64a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 30 |
+| **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Online Marketing Intern](https://jobright.ai/jobs/info/692cad0bfa28370be269b645?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692ca0eafa28370be269b527?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Nov 30 |
 | **[MoneyChoice Capital](http://www.tinoiq.com)** | **[Intern](https://jobright.ai/jobs/info/692c93effa28370be269b3ef?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Hamptons Wellness on Wheels](http://www.hamptonswellnessonwheels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c93a2fa28370be269b3de?utm_campaign=1065&utm_source=git)** | Port Jefferson, NY | Hybrid | Nov 30 |
@@ -88,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social Media](https://jobright.ai/jobs/info/692c11d64c474121999cf9fa?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 30 |
 | **[Find Me](https://fyndme.co)** | **[Digital Marketing Intern - Unpaid](https://jobright.ai/jobs/info/692bd35f66796e3028f91b8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Press & Outreach Intern](https://jobright.ai/jobs/info/692bd32666796e3028f91b66?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
-| **[Pechaan](pechaan.co)** | **[Social Media & Creative Content Intern (Unpaid)](https://jobright.ai/jobs/info/692c3eed4c474121999cfda2?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/692bb8abfa28370be269920e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/692ba1a166796e3028f90caf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
 | **[RONA](http://www.rona.ca/en)** | **[Internship, Marketing](https://jobright.ai/jobs/info/692a5b624c474121999cc00c?utm_campaign=1065&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 28 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
-| **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[2026 Design Marketing Internship](https://jobright.ai/jobs/info/692a4ee64c474121999cbe3b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
-| **[VAN ETTEN PR](https://www.vanettenpr.com/)** | **[Spring PR + Showroom Intern](https://jobright.ai/jobs/info/692a194b66796e3028f8e530?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 28 |
-| **[Conexant](http://www.conexant.com/)** | **[Marketing/Customer Product Support Summer Intern 2026a](https://jobright.ai/jobs/info/6929f6d94c474121999caea3?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
