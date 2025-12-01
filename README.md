@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/692d2c8166796e3028f93ee1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Regional Marketing Intern](https://jobright.ai/jobs/info/692d2b154c474121999d114d?utm_campaign=1065&utm_source=git)** | Washington, DC, USA | On Site | Nov 30 |
+| **[Discoursefy](https://www.linkedin.com/company/103492527)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/692d2531fa28370be269c10e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Nov 30 |
+| **[Meridian Finance Solutions](https://www.linkedin.com/company/107869532)** | **[Outreach Intern](https://jobright.ai/jobs/info/692d23aa66796e3028f93e41?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Nov 30 |
+| **[King of the Curve (KOTC)](https://kingofthecurve.org/)** | **[Influencer Marketing Content Creator Intern (Winter 2026)](https://jobright.ai/jobs/info/692d22df4c474121999d10c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[OnlyWorks](https://www.only-works.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/692d20b266796e3028f93df6?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Rutee](https://rutee.id)** | **[Content Writer Internship (UNPAID)](https://jobright.ai/jobs/info/692d19c34c474121999d1002?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[A.N. Publishing](https://www.anpublishing.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/692d0aec4c474121999d0ea2?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Nov 30 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692d0a7d4c474121999d0e63?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb5eb9821486c423c6d84?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Nov 30 |
@@ -68,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network & Licensing Internship](https://jobright.ai/jobs/info/692cc0884c474121999d07f5?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 30 |
 | **[Startup CPG](https://startupcpg.com)** | **[Intern](https://jobright.ai/jobs/info/692cb50e66796e3028f934ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692cb4bd4c474121999d0727?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
-| **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692ca0eafa28370be269b527?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Nov 30 |
 | **[Hamptons Wellness on Wheels](http://www.hamptonswellnessonwheels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c93a2fa28370be269b3de?utm_campaign=1065&utm_source=git)** | Port Jefferson, NY | Hybrid | Nov 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/692c90bcfa28370be269b390?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Nov 30 |
 | **[Fazer](https://fazer.agency)** | **[Brand Strategy Intern](https://jobright.ai/jobs/info/692c675c4c474121999d00c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westinghouse Electric Company](http://www.westinghousenuclear.com)** | **[Strategic Growth and Marketing Intern Summer 2026](https://jobright.ai/jobs/info/68d611da1f7fb2169ab15d60?utm_campaign=1065&utm_source=git)** | New Stanton, PA | Hybrid | Nov 29 |
 | **[Texas Instruments](http://www.ti.com)** | **[Product Marketing Engineering Intern](https://jobright.ai/jobs/info/68b9e26e6105227d118989c6?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Nov 29 |
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Marketing Intern (Spring / Summer 2026)](https://jobright.ai/jobs/info/68f1a69df462172a5a7dae61?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Nov 29 |
-| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/690e45c644146d3b6ec5270b?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Nov 29 |
-| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Nov 29 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Consumer (Spring 2026)](https://jobright.ai/jobs/info/69053f3d122e8474c78d7d95?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 28 |
-| **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/6927cf0cf0beb0723262e3b3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 28 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
-| **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
