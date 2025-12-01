@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Musical Memories](www.musicalmemoriesusa.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/692ce90ffa28370be269bb09?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692cdcd6fa28370be269b9e0?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 30 |
 | **[Deliverance Charities](https://www.delivercharity.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692cc4dbfa28370be269b82a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network & Licensing Internship](https://jobright.ai/jobs/info/692cc0884c474121999d07f5?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 30 |
 | **[Startup CPG](https://startupcpg.com)** | **[Intern](https://jobright.ai/jobs/info/692cb50e66796e3028f934ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[dataing](https://www.dataing.io/)** | **[Social Media Manager ❤️](https://jobright.ai/jobs/info/692cad1cfa28370be269b64a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 30 |
 | **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Online Marketing Intern](https://jobright.ai/jobs/info/692cad0bfa28370be269b645?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692ca0eafa28370be269b527?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Nov 30 |
-| **[MoneyChoice Capital](http://www.tinoiq.com)** | **[Intern](https://jobright.ai/jobs/info/692c93effa28370be269b3ef?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Nov 30 |
 | **[Hamptons Wellness on Wheels](http://www.hamptonswellnessonwheels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c93a2fa28370be269b3de?utm_campaign=1065&utm_source=git)** | Port Jefferson, NY | Hybrid | Nov 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/692c90bcfa28370be269b390?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Nov 30 |
 | **[Fazer](https://fazer.agency)** | **[Brand Strategy Intern](https://jobright.ai/jobs/info/692c675c4c474121999d00c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Construction & Forestry Marketing Summer Intern 2026a](https://jobright.ai/jobs/info/68cd0835e23def7af55b3982?utm_campaign=1065&utm_source=git)** | Moline, IL | Hybrid | Nov 30 |
 | **[HellermannTyton North America](https://www.hellermanntyton.us/)** | **[Intern - Product Marketing](https://jobright.ai/jobs/info/691d71e90b7dff734150370f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Nov 30 |
 | **[Yami](http://www.yamibuy.com/en/)** | **[Marketing Intern, Social Media](https://jobright.ai/jobs/info/692c11d64c474121999cf9fa?utm_campaign=1065&utm_source=git)** | Brea, CA | Hybrid | Nov 30 |
-| **[Find Me](https://fyndme.co)** | **[Digital Marketing Intern - Unpaid](https://jobright.ai/jobs/info/692bd35f66796e3028f91b8a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[Radical Catalyst Art & Literary Journal](https://www.linkedin.com/company/104917984)** | **[Press & Outreach Intern](https://jobright.ai/jobs/info/692bd32666796e3028f91b66?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Nov 29 |
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/692bb8abfa28370be269920e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
