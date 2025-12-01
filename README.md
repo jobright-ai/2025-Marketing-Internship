@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Senior Care Therapy](https://seniorcaretherapy.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/692d6013fa28370be269c9fe?utm_campaign=1065&utm_source=git)** | Linden, NJ | Hybrid | Dec 01 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Publicity Intern, Summer 2026](https://jobright.ai/jobs/info/692d5c58fa28370be269c938?utm_campaign=1065&utm_source=git)** | Burbank, CA, USA | Hybrid | Dec 01 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Tour Marketing Intern](https://jobright.ai/jobs/info/692d564d4c474121999d17e1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, USA | Hybrid | Dec 01 |
 | **[ShareSkippy](https://www.shareskippy.com/)** | **[Volunteer Marketing/Partnerships Intern](https://jobright.ai/jobs/info/692d46504c474121999d13e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/692d4569fa28370be269c3ee?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Atlanta Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d42b666796e3028f940b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Nov 30 |
@@ -64,6 +67,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/692d3e64fa28370be269c30c?utm_campaign=1065&utm_source=git)** | University City, MO, USA | On Site | Nov 30 |
 | ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/692d3dd666796e3028f9403a?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA | On Site | Nov 30 |
 | ↳ | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/692d3ab766796e3028f93fdd?utm_campaign=1065&utm_source=git)** | Austin, TX, USA | Hybrid | Nov 30 |
+| **[JE Dunn Construction](http://www.jedunn.com)** | **[Charlotte Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/692d5779fa28370be269c880?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 30 |
 | **[N.C. Department of Information Technology](https://it.nc.gov)** | **[N.C. State Fair Public Relations Intern](https://jobright.ai/jobs/info/692d347afa28370be269c20c?utm_campaign=1065&utm_source=git)** | Wake County, NC | Hybrid | Nov 30 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Brand Partnerships Intern](https://jobright.ai/jobs/info/692d2e954c474121999d11b0?utm_campaign=1065&utm_source=git)** | New York, NY, USA | On Site | Nov 30 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/692d2c8166796e3028f93ee1?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CNH](http://www.cnhindustrial.com)** | **[Financial Services Marketing Communications Intern](https://jobright.ai/jobs/info/692af3ec4c474121999ccf3a?utm_campaign=1065&utm_source=git)** | Waterford, WI | On Site | Nov 29 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Spring Music Group Marketing Intern](https://jobright.ai/jobs/info/68f377b376a51a4307bce4ba?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Nov 29 |
 | **[Equitable](https://equitable.com/)** | **[2026 Summer Intern - Marketing Commercial Product Line](https://jobright.ai/jobs/info/6900ec23f8ce7a040fdba5a0?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Nov 29 |
-| **[PIM Brands](https://pimbrands.com)** | **[Welchs Fruit Snacks Seasonal Intern](https://jobright.ai/jobs/info/68f15d2be6870116b1f57b41?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Nov 29 |
-| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Nov 29 |
-| **[MEMX](http://www.memx.com/)** | **[Market Technology and Member Experience Intern, Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/690e6322d046ab6061cfcfac?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
-| **[David C Cook](https://davidccook.org)** | **[Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/68f18f2cef766b3f0fd0f5b6?utm_campaign=1065&utm_source=git)** | Franklin, TN | On Site | Nov 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
