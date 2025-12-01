@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A.N. Publishing](https://www.anpublishing.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/692d0aec4c474121999d0ea2?utm_campaign=1065&utm_source=git)** | New York County, NY | On Site | Nov 30 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692d0a7d4c474121999d0e63?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb5eb9821486c423c6d84?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Nov 30 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/692cfe4c66796e3028f93a83?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital -Marketing - Professional - Intern](https://jobright.ai/jobs/info/692d1081fa28370be269bf3b?utm_campaign=1065&utm_source=git)** | Canada | Remote | Nov 30 |
 | **[Musical Memories](www.musicalmemoriesusa.org)** | **[High School Social Media Internship](https://jobright.ai/jobs/info/692ce90ffa28370be269bb09?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/692cdcd6fa28370be269b9e0?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 30 |
 | **[Deliverance Charities](https://www.delivercharity.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692cc4dbfa28370be269b82a?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Media Network & Licensing Internship](https://jobright.ai/jobs/info/692cc0884c474121999d07f5?utm_campaign=1065&utm_source=git)** | Irving, TX | On Site | Nov 30 |
 | **[Startup CPG](https://startupcpg.com)** | **[Intern](https://jobright.ai/jobs/info/692cb50e66796e3028f934ab?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
 | **[Robn AI](https://apps.apple.com/us/app/robn-ai/id6754390144)** | **[User Generated Content - Social Media Marketing Intern](https://jobright.ai/jobs/info/692cb4bd4c474121999d0727?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 30 |
-| **[dataing](https://www.dataing.io/)** | **[Social Media Manager ❤️](https://jobright.ai/jobs/info/692cad1cfa28370be269b64a?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Nov 30 |
-| **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Online Marketing Intern](https://jobright.ai/jobs/info/692cad0bfa28370be269b645?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 30 |
 | **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692ca0eafa28370be269b527?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Nov 30 |
 | **[Hamptons Wellness on Wheels](http://www.hamptonswellnessonwheels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692c93a2fa28370be269b3de?utm_campaign=1065&utm_source=git)** | Port Jefferson, NY | Hybrid | Nov 30 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/692c90bcfa28370be269b390?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Nov 30 |
@@ -96,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Crisis Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/68dd588e44d32141e0bf5e0d?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Nov 29 |
 | **[House of Good Deeds](http://www.HouseOfGoodDeeds.org)** | **[2026 January-June Internship - House of Good Deeds](https://jobright.ai/jobs/info/692ba1a166796e3028f90caf?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Nov 29 |
 | **[Jamestown Jackals](http://jamestownjackals.com)** | **[Sponsorship and Fundraising Intern](https://jobright.ai/jobs/info/692c3e5166796e3028f92b10?utm_campaign=1065&utm_source=git)** | Erie, PA | Remote | Nov 29 |
+| **[Central Garden & Pet](http://www.central.com)** | **[2026 Summer Internship](https://jobright.ai/jobs/info/690e51ce44146d3b6ec52e1f?utm_campaign=1065&utm_source=git)** | Chilton, WI | Hybrid | Nov 29 |
 | **[AFM Agency](https://afmagency.net/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/692b6ff7fa28370be2698c2b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Nov 29 |
 | **[FINNA](drinkfinna.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692b670b4c474121999cdc0f?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Nov 29 |
 | **[Ottawa County](http://www.miottawa.org)** | **[Communications Intern](https://jobright.ai/jobs/info/692b66eb4c474121999cdc0a?utm_campaign=1065&utm_source=git)** | West Olive, MI | On Site | Nov 29 |
@@ -127,7 +131,6 @@ For a complete list, click the following sortable link below:
 | **[International Justice Mission](http://www.ijm.org)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/690e972244146d3b6ec55ae5?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/68ca2515d4187c55157a67ae?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Nov 29 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Product Marketing Intern](https://jobright.ai/jobs/info/692af97566796e3028f8fdc8?utm_campaign=1065&utm_source=git)** | Racine County, WI | On Site | Nov 29 |
-| **[LUCA.ai](https://luca.ai)** | **[Viral Growth Internship](https://jobright.ai/jobs/info/692af91ffa28370be2697f82?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 29 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/690eba8b44146d3b6ec573cb?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Nov 29 |
 | **[Reynolds American Inc.](http://www.reynoldsamerican.com)** | **[2026 Summer Marketing Intern - Undergraduate](https://jobright.ai/jobs/info/68cc196d128dc347fd91f02f?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Nov 29 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Marketing](https://jobright.ai/jobs/info/690e264444146d3b6ec517ee?utm_campaign=1065&utm_source=git)** | Spring Grove, PA | On Site | Nov 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/6927cf0cf0beb0723262e3b3?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Nov 28 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Nov 28 |
 | **[Coborn's, Inc.](http://www.cobornsinc.com)** | **[Intern-Marketing](https://jobright.ai/jobs/info/692a678a4c474121999cc1b5?utm_campaign=1065&utm_source=git)** | St Cloud, MN | On Site | Nov 28 |
-| **[RONA](http://www.rona.ca/en)** | **[Internship, Marketing](https://jobright.ai/jobs/info/692a5b624c474121999cc00c?utm_campaign=1065&utm_source=git)** | Boucherville, Quebec, Canada | On Site | Nov 28 |
-| **[FutureSelf™](https://www.future-self.ai/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692a52db66796e3028f8ed1f?utm_campaign=1065&utm_source=git)** | United States | Remote | Nov 28 |
-| **[Lazard Asset Management](https://www.lazardassetmanagement.com)** | **[2026 Design Marketing Internship](https://jobright.ai/jobs/info/692a4ee64c474121999cbe3b?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Nov 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
