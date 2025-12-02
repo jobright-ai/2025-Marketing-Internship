@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barclays](https://home.barclays)** | **[Markets Quantitative Analyst Summer Internship 2027 New York](https://jobright.ai/jobs/info/692eb227ef4b48533d140e89?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 02 |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/692eb0984c474121999da812?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 02 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[GSD Communications Paid Intern](https://jobright.ai/jobs/info/692eaa7f4c474121999da6df?utm_campaign=1065&utm_source=git)** | Riverton, UT, United States | Hybrid | Dec 02 |
 | **[Eva Eco System, Inc](https://vapewitheva.com)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/692e96774c474121999da29f?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Dec 01 |
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/692e8fba4c474121999da0f2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 01 |
 | **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/692e8e82fa28370be26a5286?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 01 |
@@ -117,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/692e49994c474121999d80ee?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Dec 01 |
 | **[Jarrett](https://www.gojarrett.com)** | **[Summer 2026 Marketing Internship](https://jobright.ai/jobs/info/692e5eb1ef4b48533d13f326?utm_campaign=1065&utm_source=git)** | Orrville, OH, United States | On Site | Dec 01 |
 | **[francesca’s®](http://www.francescas.com)** | **[Marketing Intern (Houston, TX)](https://jobright.ai/jobs/info/692e58e74c474121999d8a68?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 01 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Marketing & Brand Operations](https://jobright.ai/jobs/info/692e464f4c474121999d7e4a?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Dec 01 |
 | **[Beta Hat](http://betahatMR.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/692e2611fa28370be26a1c56?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | Hybrid | Dec 01 |
 | **[Church & Dwight Co., Inc.](https://www.churchdwight.ca/)** | **[Summer 2026 Brand Management Internship (1Y MBA)](https://jobright.ai/jobs/info/692e4de0fa28370be26a35b2?utm_campaign=1065&utm_source=git)** | Ewing, NJ | Hybrid | Dec 01 |
 | **[Leigh Taylor PR+](https://www.leightaylorpr.com/)** | **[Public Relations and Communications Intern](https://jobright.ai/jobs/info/692e22fefa28370be26a19c5?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Dec 01 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[American International Industries](http://www.aiibeauty.com/)** | **[PR & Influencer Intern](https://jobright.ai/jobs/info/692dfbc3ef4b48533d13b5c3?utm_campaign=1065&utm_source=git)** | Commerce, CA | On Site | Dec 01 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Marketing Summer Student Intern](https://jobright.ai/jobs/info/692dfac2ef4b48533d13b4f2?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Dec 01 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Dallas OneSight Communications Summer 2026 Intern](https://jobright.ai/jobs/info/69261974d47de4798ecd4846?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 01 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/692e188c4c474121999d6241?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 01 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/692e17474c474121999d6149?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Marketing & Brand Operations​](https://jobright.ai/jobs/info/692e1f63ef4b48533d13cc72?utm_campaign=1065&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 01 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[NA Partnerships & Events Intern Summer 2026](https://jobright.ai/jobs/info/692e25a0fa28370be26a1c02?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
 | **[California Environmental Voters](http://www.envirovoters.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/691ff1c709cc522e87746df5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 01 |
 | **[Celt Salt by Nature’s Pantry](Www.CeltSalts.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692e1a85ef4b48533d13c8f8?utm_campaign=1065&utm_source=git)** | Paramount, CA | Hybrid | Dec 01 |
-| **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Community Involvement](https://jobright.ai/jobs/info/692e16fffa28370be26a11e1?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Dec 01 |
-| **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/692df7d3ef4b48533d13b2b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
