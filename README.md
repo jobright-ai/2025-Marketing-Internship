@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eva Eco System, Inc](https://vapewitheva.com)** | **[SEO (Wordpress Specialist) - Internship (USA ONLY)](https://jobright.ai/jobs/info/692e96774c474121999da29f?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Dec 01 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Summer Intern, Internal Communications](https://jobright.ai/jobs/info/692e8fba4c474121999da0f2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 01 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/692e8e82fa28370be26a5286?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 01 |
+| **[Centric Brands](https://centricbrands.com)** | **[Marketing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e6d3d4c474121999d9713?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[nexova.ai (HOA)](nexovaai.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/692e7ae14c474121999d9c53?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Thomas Botea](thomasbotea.com)** | **[YouTube Ambassador Associate](https://jobright.ai/jobs/info/692e73adfa28370be26a4b13?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 01 |
 | **[D1 TRAINING](https://www.d1training.com/)** | **[D1 Training Internship: Digital & Social Media Marketing Assistant](https://jobright.ai/jobs/info/692e7253fa28370be26a4a95?utm_campaign=1065&utm_source=git)** | Auburn, AL | Hybrid | Dec 01 |
-| **[Centric Brands](https://centricbrands.com)** | **[Marketing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e6d3d4c474121999d9713?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 01 |
 | **[Gleam Media Studios](https://gleamstudios.framer.website/studio)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/692e6bd8fa28370be26a4828?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 01 |
 | **[Melotech](https://www.melotech.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/692e6aa8fa28370be26a473b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 01 |
 | ↳ | **[YouTube Platform Intern](https://jobright.ai/jobs/info/692e692bfa28370be26a45e9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 01 |
@@ -147,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[American International Industries](http://www.aiibeauty.com/)** | **[PR & Influencer Intern](https://jobright.ai/jobs/info/692dfbc3ef4b48533d13b5c3?utm_campaign=1065&utm_source=git)** | Commerce, CA | On Site | Dec 01 |
 | **[BlueCross BlueShield of South Carolina](https://www.southcarolinablues.com)** | **[Marketing Summer Student Intern](https://jobright.ai/jobs/info/692dfac2ef4b48533d13b4f2?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Dec 01 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[Dallas OneSight Communications Summer 2026 Intern](https://jobright.ai/jobs/info/69261974d47de4798ecd4846?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 01 |
-| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692e2329ef4b48533d13cf25?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 01 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/692e188c4c474121999d6241?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 01 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Marketing & Brand Operations​](https://jobright.ai/jobs/info/692e1f63ef4b48533d13cc72?utm_campaign=1065&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 01 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[NA Partnerships & Events Intern Summer 2026](https://jobright.ai/jobs/info/692e25a0fa28370be26a1c02?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Celt Salt by Nature’s Pantry](Www.CeltSalts.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/692e1a85ef4b48533d13c8f8?utm_campaign=1065&utm_source=git)** | Paramount, CA | Hybrid | Dec 01 |
 | **[EMC Insurance Companies](http://www.emcins.com/)** | **[Intern- Community Involvement](https://jobright.ai/jobs/info/692e16fffa28370be26a11e1?utm_campaign=1065&utm_source=git)** | Des Moines, IA | On Site | Dec 01 |
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/692df7d3ef4b48533d13b2b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 01 |
-| **[Dometic](https://www.dometic.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692e14a2fa28370be26a0f8e?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 01 |
-| **[CASE Agency](https://www.caseagency.com/)** | **[Strategy / Account Management Intern](https://jobright.ai/jobs/info/689085274c7e851b90ac6d7e?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
