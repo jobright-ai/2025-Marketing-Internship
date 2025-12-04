@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69313312ef4b48533d152e67?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Health Wellbeing Marketing and Communications Intern](https://jobright.ai/jobs/info/69313c4dfa28370be26b7adc?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Conference and Events Intern](https://jobright.ai/jobs/info/693137d9ef4b48533d153043?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/69313312ef4b48533d152e67?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
+| **[Eruption Boxing & MMA Mgmt](https://eruptionboxing.com)** | **[Project Intern](https://jobright.ai/jobs/info/69314f9bfa28370be26b80f2?utm_campaign=1065&utm_source=git)** | Orange, CA | Remote | Dec 03 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/69311fbffa28370be26b70f8?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Dec 03 |
 | **[Business of Home](https://businessofhome.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69311dfcfa28370be26b6fea?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 03 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/69310dc8ef4b48533d151f78?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 03 |
@@ -106,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6930dc85fa28370be26b4a44?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 03 |
 | **[Veolia | Water Tech](https://www.veoliawatertechnologies.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6930c5c44c474121999e8a8a?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | Hybrid | Dec 03 |
 | **[Sodexo](http://www.sodexo.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/6930d989fa28370be26b47d0?utm_campaign=1065&utm_source=git)** | Murray, KY | On Site | Dec 03 |
-| **[Trove Brands](https://trovebrands.com)** | **[Owala SEO Intern Summer 2026](https://jobright.ai/jobs/info/6930fb3cef4b48533d1514cf?utm_campaign=1065&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Dec 03 |
-| ↳ | **[Owala Paid Media Intern Summer 2026](https://jobright.ai/jobs/info/693113504c474121999ebd31?utm_campaign=1065&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Dec 03 |
+| **[Trove Brands](https://trovebrands.com)** | **[Owala Paid Media Intern Summer 2026](https://jobright.ai/jobs/info/693113504c474121999ebd31?utm_campaign=1065&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Dec 03 |
+| ↳ | **[Owala SEO Intern Summer 2026](https://jobright.ai/jobs/info/6930fb3cef4b48533d1514cf?utm_campaign=1065&utm_source=git)** | 250 S 850 E, Lehi, UT 84043, USA | On Site | Dec 03 |
 | **[Predictive Sales AI a Spectrum Communications & Consulting LLC Brand](http://spectruminc.com)** | **[Marketing Apprenticeship Program-EST and CST](https://jobright.ai/jobs/info/6931219afa28370be26b7218?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 03 |
 | **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Marketing (Pre-Owned) Intern](https://jobright.ai/jobs/info/6930fc78fa28370be26b5dda?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Dec 03 |
 | ↳ | **[2026 Summer Intern - Brand Marketing Intern](https://jobright.ai/jobs/info/69311dce4c474121999ec1ac?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Dec 03 |
@@ -131,7 +132,7 @@ For a complete list, click the following sortable link below:
 | **[Benevolent Cares LLC](http://www.benevolentcares.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6930b4cf4c474121999e7be2?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Dec 03 |
 | **[RUKUS AVENUE Music Group](https://www.rukusavenue.com)** | **[Media Intern](https://jobright.ai/jobs/info/6930cfa4fa28370be26b419b?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 03 |
 | **[TIFEC](https://osv-tifec.wd5.myworkdayjobs.com/TIFEC)** | **[Marketing Internship](https://jobright.ai/jobs/info/6930b1f04c474121999e7886?utm_campaign=1065&utm_source=git)** | FanThreeSixty Leawood, KS 66211 | On Site | Dec 03 |
-| **[Project Brains](https://www.projectbrains.io)** | **[Growth Internship](https://jobright.ai/jobs/info/6930d2434c474121999e952d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 03 |
+| **[The Brooklyn Home Company](https://thebrooklynhomecompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69314b6fef4b48533d1536b8?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Dec 03 |
 | **[Giatec](https://www.giatecscientific.com)** | **[Content & Social Media Marketing Assistant](https://jobright.ai/jobs/info/6930f432fa28370be26b5994?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Dec 03 |
 | **[MacArthur Justice Center](https://www.macarthurjustice.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6930a5fbef4b48533d14d663?utm_campaign=1065&utm_source=git)** | Washington, DC, US | Hybrid | Dec 03 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6930d0574c474121999e938b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 03 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 03 |
 | **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6930c8274c474121999e8c42?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Dec 03 |
 | **[West-Mont United Soccer Association](https://westmontunitedsoccer.org)** | **[Event Operations Intern - Spring 2026](https://jobright.ai/jobs/info/6930e4f44c474121999ea142?utm_campaign=1065&utm_source=git)** | Royersford, PA | On Site | Dec 03 |
+| **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6931468afa28370be26b7e1a?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Dec 03 |
 | **[LV Collective](https://lvcollective.com)** | **[Brand Ambassador Intern / Rambler Ann Arbor](https://jobright.ai/jobs/info/6930d120fa28370be26b4320?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Dec 03 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 03 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Summer 2026 Essential Music Publishing Internship, Franklin, TN - Onsite](https://jobright.ai/jobs/info/69308bc8fa28370be26b0e98?utm_campaign=1065&utm_source=git)** | Franklin, TN | Hybrid | Dec 03 |
-| **[Servco Pacific Inc.](http://www.servco.com)** | **[2026 Summer Intern - Content Marketing Intern](https://jobright.ai/jobs/info/6930c5d14c474121999e8a9f?utm_campaign=1065&utm_source=git)** | Honolulu | On Site | Dec 03 |
-| ↳ | **[2026 Summer Intern - Marketing (Pre-Owned) Intern](https://jobright.ai/jobs/info/6930a935ef4b48533d14d894?utm_campaign=1065&utm_source=git)** | Honolulu | On Site | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
