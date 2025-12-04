@@ -58,7 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cd2262e23def7af55b5ed1?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Dec 04 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/69317457fa28370be26bace3?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 04 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Marketing Intern (2026)](https://jobright.ai/jobs/info/69151ebf6f36db06ef04bec1?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Dec 04 |
+| **[Ellucian](http://www.ellucian.com)** | **[Events Intern (Microsoft Suite Exp required, Onsite - Reston, VA)](https://jobright.ai/jobs/info/691510946f36db06ef04b600?utm_campaign=1065&utm_source=git)** | Reston, VA | On Site | Dec 04 |
+| **[Melotech](https://www.melotech.ai)** | **[Social Media Intern](https://jobright.ai/jobs/info/692e6aa8fa28370be26a473b?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 04 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69313312ef4b48533d152e67?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 04 |
+| **[Shield AI](http://www.shield.ai)** | **[Communications Intern - 2026 Summer Intern (R4109)](https://jobright.ai/jobs/info/693184d44c474121999f1a2b?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 04 |
 | **[Maximus](http://www.maximus.com/)** | **[Health Wellbeing Marketing and Communications Intern](https://jobright.ai/jobs/info/69313c4dfa28370be26b7adc?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Dec 03 |
 | **[Snap-tite Hose](https://snaptitehose.com/)** | **[Summer 2026 Marketing Intern – Make an Impact While You Learn!  Part-Time](https://jobright.ai/jobs/info/69315c6bfa28370be26b8651?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Dec 03 |
 | **[The Potter's House, Inc.](http://thepottershouse.org)** | **[Conference and Events Intern](https://jobright.ai/jobs/info/693137d9ef4b48533d153043?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 03 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Scotts Miracle-Gro Company](http://scottsmiraclegro.com/)** | **[Email and SMS Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6930b1effa28370be26b26de?utm_campaign=1065&utm_source=git)** | Marysville, OH | Hybrid | Dec 03 |
 | **[WiseThings](https://wisethings.co/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6930b694ef4b48533d14e2b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 03 |
 | **[Montana State University - Office of Student Engagement](http://www.montana.edu/engagement)** | **[Assistant Director of Media & Digital Relations](https://jobright.ai/jobs/info/6930e146ef4b48533d150436?utm_campaign=1065&utm_source=git)** | Bozeman, MT | On Site | Dec 03 |
-| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 03 |
-| **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6930c8274c474121999e8c42?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Dec 03 |
-| **[West-Mont United Soccer Association](https://westmontunitedsoccer.org)** | **[Event Operations Intern - Spring 2026](https://jobright.ai/jobs/info/6930e4f44c474121999ea142?utm_campaign=1065&utm_source=git)** | Royersford, PA | On Site | Dec 03 |
-| **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6931468afa28370be26b7e1a?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Dec 03 |
-| **[LV Collective](https://lvcollective.com)** | **[Brand Ambassador Intern / Rambler Ann Arbor](https://jobright.ai/jobs/info/6930d120fa28370be26b4320?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | Hybrid | Dec 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
