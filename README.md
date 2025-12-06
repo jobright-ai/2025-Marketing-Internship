@@ -57,15 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAIA - Asia America Innovation Alliance](https://www.aaiatech.org)** | **[营销助理实习生](https://jobright.ai/jobs/info/6933fa15764507023d1bb347?utm_campaign=1065&utm_source=git)** | British Columbia, Canada | Remote | Dec 06 |
+| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Social Media Manager/Content Creator Internship](https://jobright.ai/jobs/info/6933f800f131d96e48468a61?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
+| **[Post Mania Co.](Postmania.co)** | **[Marketing Intern, unpaid](https://jobright.ai/jobs/info/6933e6a8a0dde7020e2f2ee3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Pulchritude® Fashion Studio](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6933de82f131d96e48467ea4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 05 |
 | **[Insomnia Visuals](www.insomniavisuals.com)** | **[PR Marketing Intern](https://jobright.ai/jobs/info/6933d700f131d96e4846795a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 05 |
 | **[UPMC](https://www.upmc.com/)** | **[Marketing Intelligence Intern](https://jobright.ai/jobs/info/6933a7b8764507023d1b7b5b?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 05 |
+| **[University of South Florida Libraries](https://www.lib.usf.edu/)** | **[IAE Market Research Internship - Spring 2026](https://jobright.ai/jobs/info/6933f86cf131d96e48468a84?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 05 |
 | **[M+C Saatchi Group](https://mcsaatchi.com/)** | **[Search and Social, Paid Media Intern](https://jobright.ai/jobs/info/6933ae8bf131d96e48465da8?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 05 |
 | **[Y Montessori](https://ymontessori.com/)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6933add2764507023d1b837b?utm_campaign=1065&utm_source=git)** | San Diego County, CA | On Site | Dec 05 |
 | **[Metropolitan Transportation Authority](https://new.mta.info/)** | **[Communications, Emerging Talent Intern (Summer 2026)](https://jobright.ai/jobs/info/692f8b4afa28370be26ab5a9?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 05 |
 | **[Farm Credit Council](https://farmcredit.com/)** | **[Paid Communications Internship - Summer 2026](https://jobright.ai/jobs/info/6933a610a0dde7020e2f01d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 05 |
 | **[Auburn University](https://www.auburn.edu/)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/692f7af1fa28370be26aaa76?utm_campaign=1065&utm_source=git)** | Auburn, AL | Hybrid | Dec 05 |
-| **[Renesas Electronics](https://www.renesas.com)** | **[Product Marketing Engineer Intern](https://jobright.ai/jobs/info/6933bc8ef131d96e48466a78?utm_campaign=1065&utm_source=git)** | Morrisville, NC | Hybrid | Dec 05 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Customer Service Intern (Spring 2026)](https://jobright.ai/jobs/info/69339f51f131d96e48464f0a?utm_campaign=1065&utm_source=git)** | Avon, CO | On Site | Dec 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Channels Coordination Intern](https://jobright.ai/jobs/info/6933c1e1a0dde7020e2f1838?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Dec 05 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6933c524764507023d1b94e2?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Dec 05 |
@@ -98,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6933adc0f131d96e48465d0c?utm_campaign=1065&utm_source=git)** | Yorktown, VA | On Site | Dec 05 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/693358f6f131d96e484624c4?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 05 |
 | **[Animal Equality](https://animalequality.org)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/69339182f131d96e48464720?utm_campaign=1065&utm_source=git)** | REMOTE (US MAINLAND), NY | Remote | Dec 05 |
-| **[Daymon](https://www.daymon.com/)** | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933988ba0dde7020e2ef824?utm_campaign=1065&utm_source=git)** | US-MO-Saint Louis | On Site | Dec 05 |
-| ↳ | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/693394d1764507023d1b70ad?utm_campaign=1065&utm_source=git)** | Saint Louis | On Site | Dec 05 |
-| ↳ | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933928da0dde7020e2ef44f?utm_campaign=1065&utm_source=git)** | MO | On Site | Dec 05 |
+| **[Daymon](https://www.daymon.com/)** | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933928da0dde7020e2ef44f?utm_campaign=1065&utm_source=git)** | MO | On Site | Dec 05 |
+| ↳ | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933988ba0dde7020e2ef824?utm_campaign=1065&utm_source=git)** | US-MO-Saint Louis | On Site | Dec 05 |
 | ↳ | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/693392f7764507023d1b6e7c?utm_campaign=1065&utm_source=git)** | US | On Site | Dec 05 |
+| ↳ | **[Daymon Category Insights Intern-Advantage Solutions](https://jobright.ai/jobs/info/693394d1764507023d1b70ad?utm_campaign=1065&utm_source=git)** | Saint Louis | On Site | Dec 05 |
 | ↳ | **[Daymon Private Brand Development Intern-Advantage Solutions](https://jobright.ai/jobs/info/693397f8a0dde7020e2ef7c6?utm_campaign=1065&utm_source=git)** | 14225 | On Site | Dec 05 |
 | ↳ | **[Daymon Private Brand Development Intern-Advantage Solutions](https://jobright.ai/jobs/info/6933948ff131d96e48464930?utm_campaign=1065&utm_source=git)** | US | On Site | Dec 05 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/69339541a0dde7020e2ef612?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Dec 05 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Marketing Intern (Summer Internship 6/1/2026-8/7/2026)](https://jobright.ai/jobs/info/69335ff0f131d96e48462aa8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 05 |
 | **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Social Media](https://jobright.ai/jobs/info/6913b18b1465e02904e96ba1?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 05 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[NBC Telemundo Connecticut Sales Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/693356a9a0dde7020e2eccd1?utm_campaign=1065&utm_source=git)** | 1422 New Britain Ave., Hartford, Connecticut | On Site | Dec 05 |
-| **[ClinDCast](https://www.clindcast.com/)** | **[Sales & Marketing Operations Specialist/Intern](https://jobright.ai/jobs/info/69334cada0dde7020e2ec563?utm_campaign=1065&utm_source=git)** | Tampa/Orlando, FL 33601 | On Site | Dec 05 |
-| **[Tencent](https://www.tencent.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69334ff2f131d96e48461c6b?utm_campaign=1065&utm_source=git)** | US-California-Los Angeles | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
