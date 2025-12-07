@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TopBin90](Topbin90.com)** | **[Social Media Marketing Intern (Winter Internship)](https://jobright.ai/jobs/info/6935eb0aa0dde7020e2f9a04?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 07 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6935ea94a0dde7020e2f99dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 07 |
+| **[Matriosh](Matriosh.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/6935e629f131d96e4846f471?utm_campaign=1065&utm_source=git)** | Menlo Park, CA | On Site | Dec 07 |
+| **[quip.](http://www.getquip.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6935e43d764507023d1c1447?utm_campaign=1065&utm_source=git)** | quip NYC | Hybrid | Dec 07 |
 | **[BR Public Relations](http://www.brpublicrelations.com/)** | **[NOW HIRING: Spring 2026 Public Relations Intern](https://jobright.ai/jobs/info/6935cac4764507023d1c10d5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 07 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6935c055a0dde7020e2f9503?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6933abcb764507023d1b7eed?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 07 |
-| **[LexTrack AI](https://www.lextrackai.com)** | **[AI Digital Marketing Intern](https://jobright.ai/jobs/info/6935b196f131d96e4846eda1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Dec 07 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[2025 Social Media and NIL Outreach Intern](https://jobright.ai/jobs/info/6935af9e764507023d1c0e60?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935af9c764507023d1c0e5e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 07 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935adb4f131d96e4846ecef?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 07 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa3ed67272b29af73214a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
 | **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c98bffa0c52d598ea3860a?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Dec 06 |
-| **[HDR](http://www.hdrinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6901b3f14539ea1f21422698?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Dec 06 |
-| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
-| **[Pixar Animation Studios](https://www.pixar.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69343ecbf131d96e4846a157?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
