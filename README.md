@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital -Marketing- Professional - Intern](https://jobright.ai/jobs/info/69354e94f131d96e4846de65?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 07 |
+| **[Rocket Companies](https://rocket.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69353665f131d96e4846d55f?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69353155764507023d1bf794?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 06 |
 | **[Tombras](http://tombras.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/69350499f131d96e4846c859?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/6935045af131d96e4846c83c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[CN Guidance and Counseling Services, Inc](https://centralnassau.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6934984fa0dde7020e2f5e3d?utm_campaign=1065&utm_source=git)** | Hicksville, NY | On Site | Dec 06 |
 | **[maplediv](https://www.maplediv.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69347c9a764507023d1bd388?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Academic Year 2026-27 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c13ebcdbf3560c9cb13f?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
-| **[Henkel](http://www.henkel.com)** | **[Brand Activation & Campaign Intern, Pravana – Summer 2026](https://jobright.ai/jobs/info/69313c0eef4b48533d153166?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Dec 06 |
 | **[HP Marketing](https://www.hpros.com/)** | **[Marketing and Sales 2026 Summer Intern](https://jobright.ai/jobs/info/6934680a764507023d1bcfb8?utm_campaign=1065&utm_source=git)** | Melbourne, FL | Hybrid | Dec 06 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern Summer 2026](https://jobright.ai/jobs/info/6917997f15b41563671796da?utm_campaign=1065&utm_source=git)** | Woodridge, IL | On Site | Dec 06 |
 | **[Guaranty Bank](https://www.gbankmo.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/691ff77fa49a885af9a35bed?utm_campaign=1065&utm_source=git)** | Springfield, MO | On Site | Dec 06 |
@@ -108,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6934276fa0dde7020e2f486f?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa83867272b29af73252a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/68fb4a4993c49825ab102593?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Dec 06 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691a9f4a15b415636718967f?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 06 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa3ed67272b29af73214a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
 | **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c98bffa0c52d598ea3860a?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Dec 06 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
 | **[Gilead Sciences](http://www.gilead.com)** | **[Intern - US Marketing - Oncology](https://jobright.ai/jobs/info/6933f041f131d96e48468878?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 06 |
-| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Marketing - Summer 2026](https://jobright.ai/jobs/info/69352faa764507023d1bf614?utm_campaign=1065&utm_source=git)** | Muscatine, IA | Hybrid | Dec 06 |
 | **[TikTok](https://www.tiktok.com)** | **[Strategic Operations Intern (TikTok-Search Growth) - 2025 Summer (BS/MS)](https://jobright.ai/jobs/info/69316e1bfa28370be26b9d66?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
 | **[Rocket Companies](https://rocket.com/)** | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/693401aaf131d96e4846904c?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 06 |
 | **[Tulare County Office of Education](http://www.tcoe.org)** | **[Writing & Communications INTERN](https://jobright.ai/jobs/info/6934005ff131d96e48468ff5?utm_campaign=1065&utm_source=git)** | Visalia, CA | On Site | Dec 06 |
