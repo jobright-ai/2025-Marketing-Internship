@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918afb915b415636718365f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Dec 07 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Creator Campaign Project Intern (TikTok Shop - US Operation) - 2025 Start (BS/MS)](https://jobright.ai/jobs/info/68cb9a199e3a822f5d248c9f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 07 |
+| ↳ | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6920038109cc522e87747449?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 07 |
+| **[TSI Incorporated](http://www.tsi.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6919aa4215b41563671870aa?utm_campaign=1065&utm_source=git)** | St Paul, MN | On Site | Dec 07 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68d00191dbd9fb154edecabf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 07 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc36b893c49825ab10adc3?utm_campaign=1065&utm_source=git)** | Temple, TX | On Site | Dec 07 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital -Marketing- Professional - Intern](https://jobright.ai/jobs/info/69354e94f131d96e4846de65?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 07 |
 | **[Rocket Companies](https://rocket.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69353665f131d96e4846d55f?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Dec 07 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69353155764507023d1bf794?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 06 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Channels Coordination Intern](https://jobright.ai/jobs/info/6933c1e1a0dde7020e2f1838?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Dec 05 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6933c524764507023d1b94e2?utm_campaign=1065&utm_source=git)** | Lehi, UT | On Site | Dec 05 |
 | **[UPMC](https://www.upmc.com/)** | **[UPMC Public Relations Intern- Central PA](https://jobright.ai/jobs/info/69339bc9764507023d1b745c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 05 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Direct Marketing/Customer Experience Internship - (January-July 2026)](https://jobright.ai/jobs/info/69339bb3a0dde7020e2ef982?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Dec 05 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6933c115f131d96e48466c3a?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | Hybrid | Dec 05 |
-| ↳ | **[Channels Coordination Intern](https://jobright.ai/jobs/info/6933c5aa764507023d1b9522?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Dec 05 |
-| **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Dec 05 |
-| **[VisitorsCoverage Inc.](http://www.visitorscoverage.com)** | **[Content Specialist (Intern to Full-Time)](https://jobright.ai/jobs/info/6933c984764507023d1b9613?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 05 |
-| **[Privia Health](http://www.priviahealth.com)** | **[Growth Development Intern](https://jobright.ai/jobs/info/69339670764507023d1b71f8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 05 |
-| **[Aflac](http://www.aflac.com)** | **[2026 Summer Brand Intern](https://jobright.ai/jobs/info/693394e4764507023d1b70b3?utm_campaign=1065&utm_source=git)** | Columbus, GA | On Site | Dec 05 |
-| **[Kansas City Board of Public Utilities (BPU)](https://www.bpu.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/693392fcf131d96e4846482f?utm_campaign=1065&utm_source=git)** | Kansas City, KS | On Site | Dec 05 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing/Customer Service Internship (Spring Season) - Hilton Head Island](https://jobright.ai/jobs/info/69339259a0dde7020e2ef426?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
