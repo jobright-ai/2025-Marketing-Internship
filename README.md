@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Direct Supply](http://www.directsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6933abcb764507023d1b7eed?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 07 |
+| **[LexTrack AI](https://www.lextrackai.com)** | **[AI Digital Marketing Intern](https://jobright.ai/jobs/info/6935b196f131d96e4846eda1?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Dec 07 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[2025 Social Media and NIL Outreach Intern](https://jobright.ai/jobs/info/6935af9e764507023d1c0e60?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935af9c764507023d1c0e5e?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 07 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935adb4f131d96e4846ecef?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 07 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935ada4f131d96e4846ecea?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 07 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6935ad82f131d96e4846ece2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 07 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6935ad46f131d96e4846ecd6?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 07 |
 | **[Carve Communications, Inc.](http://carvecomms.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69359e13a0dde7020e2f91b3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 07 |
 | **[QuietOffer](quietoffer.io)** | **[Growth & Marketing Intern](https://jobright.ai/jobs/info/69359de5f131d96e4846eb4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 07 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69359d4df131d96e4846eb0b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 07 |
@@ -140,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Baird](http://www.rwbaird.com)** | **[Internship – Public Relations (Year-Round)](https://jobright.ai/jobs/info/68ce558cfb49c96ca6e9f2c0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6934276fa0dde7020e2f486f?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa83867272b29af73252a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 06 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 06 |
 | **[Sanofi](https://www.sanofi.com)** | **[Summer 2026 Intern - Management Associate Program - Vaccine](https://jobright.ai/jobs/info/68fb4a4993c49825ab102593?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Dec 06 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691a9f4a15b415636718967f?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 06 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa3ed67272b29af73214a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
 | **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c98bffa0c52d598ea3860a?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Dec 06 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 06 |
 | **[Pixar Animation Studios](https://www.pixar.com)** | **[Public Relations Intern - Summer 2026](https://jobright.ai/jobs/info/69343ecbf131d96e4846a157?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 06 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Video Content Intern](https://jobright.ai/jobs/info/6917bb1ebcdbf3560c9caba7?utm_campaign=1065&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | Hybrid | Dec 06 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Personal Care & Life) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917b98f47efe2113955ad5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 06 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 06 |
-| ↳ | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 06 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - US Marketing - Oncology](https://jobright.ai/jobs/info/6917c11d15b415636717b39e?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 06 |
-| **[Tidbid](www.tidbid.com)** | **[TikTok Growth Intern (Gen-Z Only)](https://jobright.ai/jobs/info/69341021764507023d1bbd08?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 06 |
-| **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 06 |
-| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 06 |
-| **[Gilead Sciences](http://www.gilead.com)** | **[Intern - US Marketing - Oncology](https://jobright.ai/jobs/info/6933f041f131d96e48468878?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
