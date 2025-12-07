@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OTTO Engineering, Inc.](http://www.ottoexcellence.com)** | **[Marketing and Design Internship](https://jobright.ai/jobs/info/6934de20f131d96e4846bdc8?utm_campaign=1065&utm_source=git)** | Carpentersville, IL | On Site | Dec 06 |
+| **[WriteMed.AI](https://writemed.ai)** | **[Marketing Intern - Volunteer - HealthAI](https://jobright.ai/jobs/info/6934d69ca0dde7020e2f6650?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Readfeed](http://www.readfeed.com)** | **[Social Media Manager Internship- 3 months](https://jobright.ai/jobs/info/6934c0a0f131d96e4846b96a?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
 | **[AFM Agency](https://afmagency.net/)** | **[Mandarin Influencer Marketing Intern](https://jobright.ai/jobs/info/6934ac2ff131d96e4846b6bd?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 06 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[TikTok Content Intern](https://jobright.ai/jobs/info/6934a15f764507023d1bd9e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
@@ -87,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Chicago Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6917a4dabcdbf3560c9c9c20?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 06 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern (Dynapower) - Summer 2026](https://jobright.ai/jobs/info/68dee192a125e75c422b7b79?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Dec 06 |
-| **[KCMCONNECT](https://kcmconnect.co/)** | **[PR / Event Internship](https://jobright.ai/jobs/info/69343ed5764507023d1bc6d0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
 | **[Uncharted Coffee](https://www.drinkuncharted.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6932c7bbf131d96e4845e113?utm_campaign=1065&utm_source=git)** | Palm Beach, FL | Hybrid | Dec 06 |
 | **[ATI](https://www.forging.com)** | **[Communications Intern - Spring 2026](https://jobright.ai/jobs/info/6917b6ebbcdbf3560c9ca9e7?utm_campaign=1065&utm_source=git)** | Cudahy, WI | On Site | Dec 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyatt Vacation Ownership](https://www.hyattresidenceclub.com/)** | **[Hybrid Marketing Administrative Intern (Jan 2026 - May 2026 Full Time)](https://jobright.ai/jobs/info/6933b148f131d96e48465feb?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 05 |
 | **[Paramount](https://www.paramount.com)** | **[Advertising, Distribution & Strategy Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6924c296ec574f4265bb6adf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 05 |
 | **[Daymon](https://www.daymon.com/)** | **[Daymon Private Brand Development Intern-Advantage Solutions](https://jobright.ai/jobs/info/69338476764507023d1b661e?utm_campaign=1065&utm_source=git)** | NY | On Site | Dec 05 |
-| **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/69337bf8a0dde7020e2ee753?utm_campaign=1065&utm_source=git)** | Wilmington, DE | Hybrid | Dec 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
