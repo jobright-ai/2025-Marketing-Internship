@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 08 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/692043a900c9ee50eaec0ad2?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 08 |
+| **[Magus Entertainment](https://magusentertainment.com)** | **[Social Media Strategy Intern (Winter/Spring 2026)](https://jobright.ai/jobs/info/6936aaa444eb324fb785ce14?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 08 |
+| **[Growvix](https://www.linkedin.com/company/104166605)** | **[Event Internships](https://jobright.ai/jobs/info/6936a6afa0dde7020e2fcb2a?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Dec 08 |
 | **[Employee Navigator](http://www.employeenavigator.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69369eec1c1c2161c13ee035?utm_campaign=1065&utm_source=git)** | Chevy Chase, MD | On Site | Dec 08 |
 | **[Mall of America](https://www.mallofamerica.com)** | **[PR + Social Intern - Spring 2026](https://jobright.ai/jobs/info/69369a5e1c1c2161c13edf52?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 08 |
 | **[Stellar Socials By Limitless](https://www.stellarsocialsbylimitless.com/)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6936981244eb324fb785ca90?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 08 |
@@ -118,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Henkel](http://www.henkel.com)** | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/69369171a0dde7020e2fc59b?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Dec 06 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69353155764507023d1bf794?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 06 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Development Intern, MBA – Summer 2026](https://jobright.ai/jobs/info/69367b2d764507023d1c38b3?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 06 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern -Brand Management](https://jobright.ai/jobs/info/69366e04764507023d1c34ee?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | Hybrid | Dec 06 |
 | **[Tombras](http://tombras.com)** | **[Influencer Intern](https://jobright.ai/jobs/info/69350499f131d96e4846c859?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[SEO Intern](https://jobright.ai/jobs/info/6935045af131d96e4846c83c?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
 | ↳ | **[Organic Social Media Analyst Intern](https://jobright.ai/jobs/info/6935003ca0dde7020e2f7078?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 06 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Graybar](http://www.graybar.com)** | **[Summer 2026 Intern - Marketing/Event Management](https://jobright.ai/jobs/info/6917b44945fb6f5ead89dc8a?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Dec 06 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/69313c27ef4b48533d153172?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Dec 06 |
 | **[Art Bridges Foundation](https://artbridgesfoundation.org)** | **[Art Bridges Summer 2026 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c3e315b415636717b567?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 06 |
-| **[UPS](http://www.ups.com)** | **[MBA Marketing Summer 2026 Internship](https://jobright.ai/jobs/info/68c3a1c9b8c22d3828473e02?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 06 |
 | **[Enterprise](https://www.enterprise.com)** | **[Summer 2026 Management Internship - Worcester area](https://jobright.ai/jobs/info/68d824a0295f8e37655e5acd?utm_campaign=1065&utm_source=git)** | Worcester, MA | On Site | Dec 06 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/68fa75e867272b29af72f789?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Dec 06 |
 | **[Cornerstone Building Brands](https://www.cornerstonebuildingbrands.com/)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69176e85bcdbf3560c9c7a79?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 06 |
 | **[Susan G. Komen](http://www.komen.org)** | **[Chicago Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6917a4dabcdbf3560c9c9c20?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 06 |
 | **[Sensata Technologies](http://www.sensata.com)** | **[Product Marketing Intern (Dynapower) - Summer 2026](https://jobright.ai/jobs/info/68dee192a125e75c422b7b79?utm_campaign=1065&utm_source=git)** | South Burlington, VT | On Site | Dec 06 |
 | **[Amazon](https://amazon.com)** | **[2026 Amazon Communications Assistant Summer Internship](https://jobright.ai/jobs/info/691841d815b4156367180a00?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 06 |
-| **[Ding-go](https://www.ding-go.com/)** | **[Ding-go Ecommerce, Marketing, Operations Internship](https://jobright.ai/jobs/info/69357e60a0dde7020e2f8da2?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Dec 06 |
-| **[Uncharted Coffee](https://www.drinkuncharted.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6932c7bbf131d96e4845e113?utm_campaign=1065&utm_source=git)** | Palm Beach, FL | Hybrid | Dec 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
