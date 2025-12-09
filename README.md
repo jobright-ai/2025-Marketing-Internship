@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Winnipeg, MB](https://jobright.ai/jobs/info/691b9812bcdbf3560c9e0855?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Dec 09 |
+| **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Dec 09 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - St. Catharines, ON](https://jobright.ai/jobs/info/691bcd6622a2cb4b9bd163b6?utm_campaign=1065&utm_source=git)** | St. Catharines, Ontario, Canada | On Site | Dec 09 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Customer Marketing Intern](https://jobright.ai/jobs/info/68ff8a1de0c73b3a1119c24b?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 09 |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Marketing Consumer Insights Internship - Summer 2026](https://jobright.ai/jobs/info/68cd282eb2a74e1837ed3469?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 09 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Halifax, NS](https://jobright.ai/jobs/info/6938246da0dde7020e30c539?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Dec 09 |
+| **[Vertiv](https://www.Vertiv.com)** | **[Product Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/68f45d879a63986de7574e70?utm_campaign=1065&utm_source=git)** | Delaware, OH | On Site | Dec 09 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Peterborough, ON](https://jobright.ai/jobs/info/69316b664c474121999ee4e8?utm_campaign=1065&utm_source=git)** | Peterborough, Ontario, Canada | On Site | Dec 09 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/692003db09cc522e877474dd?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Dec 09 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lucasfilm Global Franchise Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69381a5ca0dde7020e30ac5b?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 09 |
+| **[TRC Companies, Inc.](https://www.trccompanies.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68d611181f7fb2169ab15b7d?utm_campaign=1065&utm_source=git)** | New Brunswick, NJ | On Site | Dec 09 |
+| **[Kite Pharma](http://www.kitepharma.com)** | **[Intern - Kite Marketing - Global Commercial Strategy](https://jobright.ai/jobs/info/691bd056bcdbf3560c9e2e69?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 09 |
+| **[Rehlko](https://www.rehlko.com/)** | **[Digital Marketing Intern- Summer 2026 (Rehlko)](https://jobright.ai/jobs/info/6938122eaabec14a727cfe14?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 09 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | Hybrid | Dec 09 |
 | **[American Water](http://amwater.com)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/691ba37115b415636719131c?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Dec 09 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, St. Louis](https://jobright.ai/jobs/info/691bcc48bcdbf3560c9e2bb3?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 09 |
@@ -88,7 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/691c372bff70244984166cf3?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | Hybrid | Dec 09 |
 | ↳ | **[Community Intern, Columbus](https://jobright.ai/jobs/info/691c24f8bcdbf3560c9e5f03?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Dec 09 |
 | ↳ | **[Community Intern, Tucson](https://jobright.ai/jobs/info/691bc1f515b41563671926cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | Hybrid | Dec 09 |
-| ↳ | **[Community Intern, Washington DC](https://jobright.ai/jobs/info/691bbd6515b415636719232f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
+| **[Signify](https://www.signify.com)** | **[Direct to Consumer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/691be25d22a2cb4b9bd17192?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Dec 09 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Washington DC](https://jobright.ai/jobs/info/691bbd6515b415636719232f?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 09 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[RLC Product Marketing Intern - The Toro Company](https://jobright.ai/jobs/info/68cf2e06fb49c96ca6ea6387?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Dec 09 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, Chicago Burbs](https://jobright.ai/jobs/info/691be68615b4156367193eb0?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 09 |
 | ↳ | **[Community Intern, Cleveland](https://jobright.ai/jobs/info/6937ff80b95c305f206d484a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | Hybrid | Dec 09 |
@@ -143,18 +157,4 @@ For a complete list, click the following sortable link below:
 | **[goodr](https://goodr.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69374beaaabec14a727c61d2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 08 |
 | **[KeyBank](https://www.key.com)** | **[2026 Summer Marketing Analytics Internship - Cleveland](https://jobright.ai/jobs/info/6931386cef4b48533d1530aa?utm_campaign=1065&utm_source=git)** | Brooklyn, OH | Remote | Dec 08 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Segment & Field Marketing](https://jobright.ai/jobs/info/693765d8a0dde7020e3025b2?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 08 |
-| **[Trimble Inc.](http://www.trimble.com)** | **[Demand Marketing Intern](https://jobright.ai/jobs/info/693746aeaabec14a727c5dea?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Dec 08 |
-| **[goodr](https://goodr.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/693744dcaabec14a727c5c86?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 08 |
-| **[Citizen Relations](http://ca.citizenrelations.com)** | **[Intern (Public Relations)](https://jobright.ai/jobs/info/69374397aabec14a727c5b8b?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Dec 08 |
-| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Texas Woman's University](https://jobright.ai/jobs/info/693742c81c1c2161c13f21d5?utm_campaign=1065&utm_source=git)** | Denton, TX | On Site | Dec 08 |
-| **[Sleepyhead](https://Sleepyheadusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69376170aabec14a727c741c?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 08 |
-| **[goodr](https://goodr.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693740aca0dde7020e300813?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Dec 08 |
-| ↳ | **[Sports Marketing Intern](https://jobright.ai/jobs/info/69373f73a0dde7020e300703?utm_campaign=1065&utm_source=git)** | Los Angeles | On Site | Dec 08 |
-| **[Beckway](https://www.beckway.com)** | **[Marketing Intern & Recruiting Intern](https://jobright.ai/jobs/info/69373f28aabec14a727c57a9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 08 |
-| **[Robinhood](https://www.robinhood.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/69373d42aabec14a727c5635?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 08 |
-| **[Nelson Labs](http://www.nelsonlabs.com)** | **[Marketing Specialist - Internship](https://jobright.ai/jobs/info/69376395a0dde7020e3023f4?utm_campaign=1065&utm_source=git)** | SLC Metro Area | On Site | Dec 08 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Segment & Field Marketing](https://jobright.ai/jobs/info/6937620c1c1c2161c13f3aa6?utm_campaign=1065&utm_source=git)** | San Jose | On Site | Dec 08 |
-| ↳ | **[2026 Intern - Segment & Field Marketing](https://jobright.ai/jobs/info/69375f91aabec14a727c7298?utm_campaign=1065&utm_source=git)** | Lehi | On Site | Dec 08 |
-| **[Violetta Group](https://violettagroup.com)** | **[Public Relations Intern - Fashion, Beauty & Lifestyle](https://jobright.ai/jobs/info/69376ac6a0dde7020e302a80?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 08 |
-| **[Roanoke-Blacksburg Airport](https://www.flyroa.com)** | **[Public Relations and Marketing Intern](https://jobright.ai/jobs/info/693776e2a0dde7020e303361?utm_campaign=1065&utm_source=git)** | Roanoke, VA | On Site | Dec 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
