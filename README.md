@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e75143e8daec61499b4542?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 11 |
+| **[HDR](http://www.hdrinc.com)** | **[Water Marketing Intern](https://jobright.ai/jobs/info/68e5700c1852e62f0080ff9f?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Dec 11 |
+| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69014379f8ce7a040fdbe4d5?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Dec 11 |
 | **[City of Ann Arbor](https://www.a2gov.org)** | **[Sustainability Intern – Social Media](https://jobright.ai/jobs/info/693a905f383bf9631983aaa5?utm_campaign=1065&utm_source=git)** | Ann Arbor, MI | On Site | Dec 11 |
 | **[BoF Careers](https://www.businessoffashion.com/careers/)** | **[Ralph Lauren Global Media & Gaming Intern](https://jobright.ai/jobs/info/693a8f6fe50e320634e2e566?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 11 |
+| **[The Carroll Center for the Blind](http://carroll.org)** | **[EVENTS INTERN](https://jobright.ai/jobs/info/693aa035d4054a2bc024ab61?utm_campaign=1065&utm_source=git)** | Newton, MA | On Site | Dec 11 |
 | **[BCS](https://www.bitcoincredit.services/)** | **[Marketing Intern (Unpaid Internship)](https://jobright.ai/jobs/info/693a6fd8ac80bb5492bcf6c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 10 |
 | **[Nelson Labs](http://www.nelsonlabs.com)** | **[Marketing Specialist - Internship](https://jobright.ai/jobs/info/693a8f86ed39e94c6659148f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 10 |
 | **[Local](https://www.localmedia.co/)** | **[Digital Media Internship](https://jobright.ai/jobs/info/693a5ea748a8ce22990e69d5?utm_campaign=1065&utm_source=git)** | Twin Cities Area | Remote | Dec 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GuidePoint Security](https://www.guidepointsecurity.com/)** | **[Event Marketing Intern (Southwest)](https://jobright.ai/jobs/info/6939bd45ac80bb5492bc4071?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Dec 10 |
 | **[CSL](https://www.csl.com)** | **[Holly Springs Communications Intern](https://jobright.ai/jobs/info/6939d7cd48a8ce22990dd5b2?utm_campaign=1065&utm_source=git)** | Holly Springs, NC | On Site | Dec 10 |
 | ↳ | **[Holly Springs Summer Communications Intern (Fixed Intern)](https://jobright.ai/jobs/info/6939dc20ac80bb5492bc5999?utm_campaign=1065&utm_source=git)** | Holly Springs, NC | On Site | Dec 10 |
-| **[Handi Products](http://www.handiramp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6939dd2e56b68f3dc4e733e4?utm_campaign=1065&utm_source=git)** | Glendale,AZ,US | Hybrid | Dec 10 |
-| **[Boys Town](https://www.boystown.org/Pages/default.aspx)** | **[Development & Marketing Intern-1](https://jobright.ai/jobs/info/6939daf5ac80bb5492bc5884?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 10 |
-| **[Atlantic Health](http://www.atlantichealth.org)** | **[Strategy and Physician Marketing Intern](https://jobright.ai/jobs/info/6939d7d2ac80bb5492bc5584?utm_campaign=1065&utm_source=git)** | 475 South Street, Morristown, NJ, 07960, US | On Site | Dec 10 |
-| **[CSL](https://www.csl.com)** | **[Holly Springs Summer Communications Intern (Fixed Intern)](https://jobright.ai/jobs/info/6939b65656b68f3dc4e70d3f?utm_campaign=1065&utm_source=git)** | Seqirus USA - NC - Holly Springs | On Site | Dec 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
