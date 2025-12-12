@@ -57,7 +57,31 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outlier AI](http://outlier.ai/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bddf14911ef04095f1741?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bddb150bbaf76504f4bbd?utm_campaign=1065&utm_source=git)** | San Antonio, TX | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdd4f49a7695fbd02c880?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdc9249a7695fbd02c491?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdc8b4911ef04095f16f4?utm_campaign=1065&utm_source=git)** | Mesa, AZ | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdc8b4911ef04095f16f5?utm_campaign=1065&utm_source=git)** | Detroit, MI | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdc794911ef04095f16eb?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdc5649a7695fbd02c33d?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdb6149a7695fbd02bdd8?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | Remote | Dec 12 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdab649a7695fbd02badf?utm_campaign=1065&utm_source=git)** | Tucson, AZ | Remote | Dec 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693bc9f949a7695fbd02b3e7?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
 | **[WEARSHIKA](www.wearshika.com)** | **[Merchandising Intern](https://jobright.ai/jobs/info/693bc8a74911ef04095ef631?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/693be19049a7695fbd02d53c?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Dec 11 |
+| **[Outlier AI](http://outlier.ai/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be34150bbaf76504f4d72?utm_campaign=1065&utm_source=git)** | Memphis, TN | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be0b850bbaf76504f4cd1?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdfbb4911ef04095f17d6?utm_campaign=1065&utm_source=git)** | Columbus, OH | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be08f49a7695fbd02d509?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdf2f49a7695fbd02d403?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be25a49a7695fbd02d56a?utm_campaign=1065&utm_source=git)** | El Paso, TX | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693bdf1350bbaf76504f4c33?utm_campaign=1065&utm_source=git)** | Portland, OR | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be39d49a7695fbd02d5ce?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be31049a7695fbd02d5a7?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be21350bbaf76504f4d2a?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | Remote | Dec 11 |
+| ↳ | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/693be0b850bbaf76504f4cd2?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | Remote | Dec 11 |
+| **[AMETEK](http://www.ametek.com)** | **[Trade Show & Event Planning Intern](https://jobright.ai/jobs/info/693bca7a49a7695fbd02b40f?utm_campaign=1065&utm_source=git)** | Depew, NY | On Site | Dec 11 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/693b93f95f2c001987ed87ee?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 11 |
 | **[Saya Agency](https://www.saya-agency.com)** | **[Analytics Intern (Performance Marketing + E-Commerce Attribution)](https://jobright.ai/jobs/info/693b8e20d4054a2bc0256b89?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[mobriseHealth Inc](https://www.mobrisehealth.com/)** | **[Sales And Marketing Intern (HealthTech)](https://jobright.ai/jobs/info/693baf0750bbaf76504f176b?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
@@ -82,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[ODK Media](https://www.odkmedia.net/)** | **[Bilingual Digital Marketing Unpaid Intern (Korean & English)](https://jobright.ai/jobs/info/693bb83e50bbaf76504f1d97?utm_campaign=1065&utm_source=git)** | Fullerton, CA | On Site | Dec 11 |
 | ↳ | **[Bilingual Social Media & Design Unpaid Intern (Korean & English)](https://jobright.ai/jobs/info/693bb9c34911ef04095ee99a?utm_campaign=1065&utm_source=git)** | Fullerton, CA | On Site | Dec 11 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Spring 2026 Publicity Intern, Little, Brown](https://jobright.ai/jobs/info/693b8a55b309e378008735c4?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Dec 11 |
-| **[J. Jill](http://www.jjill.com/)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/693b8c29b309e378008736e0?utm_campaign=1065&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
-| ↳ | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/693b89c6b309e37800873553?utm_campaign=1065&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
+| **[J. Jill](http://www.jjill.com/)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/693b89c6b309e37800873553?utm_campaign=1065&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
+| ↳ | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/693b8c29b309e378008736e0?utm_campaign=1065&utm_source=git)** | US-MA-Quincy | On Site | Dec 11 |
 | **[Exabeam](http://www.exabeam.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/693b43bfd4054a2bc0252e7c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Saya Agency](https://www.saya-agency.com)** | **[Youtube Content Intern](https://jobright.ai/jobs/info/693b8c6cd4054a2bc0256a12?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | ↳ | **[Amazon Affiliate Intern](https://jobright.ai/jobs/info/693b84825f2c001987ed753c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
@@ -93,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/693b7dc1d4054a2bc025608f?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Dec 11 |
 | **[Saya Agency](https://www.saya-agency.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693b82c1d4054a2bc0256377?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Digital Marketing Intern (Summer)- Diablo Tools](https://jobright.ai/jobs/info/693b77dab309e37800872b51?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| **[CommScope](http://www.commscope.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693b4ce95f2c001987ed4d2e?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Dec 11 |
 | **[Perceptek](https://www.linkedin.com/company/146360)** | **[Health Media Intern](https://jobright.ai/jobs/info/693b84ca5f2c001987ed7572?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 11 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Communication Engagement Intern](https://jobright.ai/jobs/info/693b4947d4054a2bc02534a0?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
 | **[Norsk Hydro](http://www.hydro.com)** | **[Business & Marketing Intern](https://jobright.ai/jobs/info/693b4836d4054a2bc025324f?utm_campaign=1065&utm_source=git)** | St Augustine, FL | On Site | Dec 11 |
@@ -134,27 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LogRhythm](https://www.logrhythm.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/693b1f30d4054a2bc0251039?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[U.S. Engineering](http://usengineering.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/693b3cfad4054a2bc02528dd?utm_campaign=1065&utm_source=git)** | Kansas City, KS | On Site | Dec 11 |
 | **[World Vision](http://www.worldvision.org/)** | **[Digital Channels- Social Media Intern](https://jobright.ai/jobs/info/693b4a6ad4054a2bc0253788?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Omni Cares Internship / Summer 2026 / Marketing](https://jobright.ai/jobs/info/693b439bd4054a2bc0252e68?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 11 |
-| **[HDR](http://www.hdrinc.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693b400cb309e3780086f671?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
-| **[National Automotive Finance Association](https://www.nafassociation.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/693b47835f2c001987ed41e0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Winter Internship](https://jobright.ai/jobs/info/693b48655f2c001987ed42e7?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 11 |
-| **[Hurricane Junior Golf Tour](https://www.hjgt.org)** | **[Summer 2026 Internship - Onsite Digital Marketing Intern](https://jobright.ai/jobs/info/693b43045f2c001987ed3eac?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Dec 11 |
-| ↳ | **[Summer 2026 Internship - Communications Specialist Intern](https://jobright.ai/jobs/info/693b3e3ad4054a2bc02529ad?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
-| ↳ | **[Summer 2026 Internship- Remote Influencer Assistant](https://jobright.ai/jobs/info/693b42d0b309e3780086f894?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
-| ↳ | **[Summer 2026 Internship - Web & SEO Specialist Intern](https://jobright.ai/jobs/info/693b4858b309e3780086fc57?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
-| ↳ | **[Summer 2026 Internship - Remote Digital Marketing/Social Media (5/9)](https://jobright.ai/jobs/info/693b425ed4054a2bc0252d36?utm_campaign=1065&utm_source=git)** | Orlando, FL | Remote | Dec 11 |
-| **[EdTrust-West](http://edtrustwest.org/)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/693b4be55f2c001987ed4a97?utm_campaign=1065&utm_source=git)** | Oakland, CA | Hybrid | Dec 11 |
-| **[AstraZeneca](https://www.astrazeneca.com)** | **[MBA Intern Program - Oncology Business Unit](https://jobright.ai/jobs/info/693b3ad1b309e3780086f29c?utm_campaign=1065&utm_source=git)** | Gaithersburg, MD | On Site | Dec 11 |
-| **[Dewey Square Group](http://deweysquare.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693b43445f2c001987ed3edf?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 11 |
-| **[Atlanta Hawks](https://www.nba.com/hawks)** | **[Brand Communications, HBCU Pathways Internship](https://jobright.ai/jobs/info/693b3f61b309e3780086f5f9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 11 |
-| ↳ | **[Retail, HBCU Pathways Internship](https://jobright.ai/jobs/info/693b3ef8d4054a2bc0252a33?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| ↳ | **[Digital Marketing, HBCU Pathways Internship](https://jobright.ai/jobs/info/693b4d4f5f2c001987ed4e39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 11 |
-| **[Edelman](http://www.edelman.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/693b362eb309e3780086ef61?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 11 |
-| **[Dauphin County Bar Association](http://www.dcba-pa.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693b4960d4054a2bc02534d9?utm_campaign=1065&utm_source=git)** | Camp Hill, PA | On Site | Dec 11 |
-| **[Gulf Coast Blood](https://www.giveblood.org/)** | **[Marketing Intern- Videographer Intern (Paid Internship)](https://jobright.ai/jobs/info/693b32cdd4054a2bc02520c2?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 11 |
-| **[Prologis](http://www.prologis.com)** | **[Intern, Global Marketing](https://jobright.ai/jobs/info/69017272d5259a1b3cff508f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 11 |
-| **[Mojave Technologies](https://www.mojave.co)** | **[Marketing AI Intern](https://jobright.ai/jobs/info/693b31575f2c001987ed31d6?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Dec 11 |
-| **[Stanpro (Standard Products Inc.)](https://www.standardpro.com)** | **[Stagiaire marketing / Marketing Intern (Session d'hiver)](https://jobright.ai/jobs/info/693b2b70d4054a2bc0251a16?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 11 |
-| **[Cook County State’s Attorney’s Office](https://www.cookcountystatesattorney.org/)** | **[Volunteer Intern, Communications & Digital Media - Cook County State's Attorney's Office](https://jobright.ai/jobs/info/693b2bd9d4054a2bc0251aa7?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 11 |
-| **[Omni Fort Worth Hotel](https://www.omnihotels.com/)** | **[Omni Cares Internship / Summer 2026 / Marketing](https://jobright.ai/jobs/info/693b3b0d5f2c001987ed38be?utm_campaign=1065&utm_source=git)** | US-KY-Louisville | On Site | Dec 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
