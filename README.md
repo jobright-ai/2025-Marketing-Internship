@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Exabeam](http://www.exabeam.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/693b43bfd4054a2bc0252e7c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/693b543ad4054a2bc0254d3c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 11 |
 | **[CommScope](http://www.commscope.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693b4ce95f2c001987ed4d2e?utm_campaign=1065&utm_source=git)** | Shakopee, MN | On Site | Dec 11 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Communication Engagement Intern](https://jobright.ai/jobs/info/693b4947d4054a2bc02534a0?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
 | **[Norsk Hydro](http://www.hydro.com)** | **[Business & Marketing Intern](https://jobright.ai/jobs/info/693b4836d4054a2bc025324f?utm_campaign=1065&utm_source=git)** | St Augustine, FL | On Site | Dec 11 |
 | **[Reaching & Rooted](https://www.reachingandrooted.org/home-page)** | **[Copywriter Intern](https://jobright.ai/jobs/info/693b46245f2c001987ed4132?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
-| **[Exabeam](http://www.exabeam.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/693b43bfd4054a2bc0252e7c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693b4157d4054a2bc0252c6b?utm_campaign=1065&utm_source=git)** | United States-Nebraska-Omaha | On Site | Dec 11 |
 | **[KEEN](http://www.keenfootwear.com)** | **[US Merchandising Intern](https://jobright.ai/jobs/info/693b4156b309e3780086f779?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Dec 11 |
 | **[University of Nebraska Foundation](https://nufoundation.org/)** | **[Marketing and Communications Intern for Women Investing in Nebraska (WIN)](https://jobright.ai/jobs/info/693b41095f2c001987ed3d27?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 11 |
@@ -73,7 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[Commercial Effectiveness & Analytics Intern - Rare Disease (Summer 2026)](https://jobright.ai/jobs/info/693b3988b309e3780086f1b1?utm_campaign=1065&utm_source=git)** | Madison, WI | On Site | Dec 11 |
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
 | **[Microsoft](https://www.microsoft.com)** | **[Field Integrated Marketing: Spring Co-Op Internship Opportunities](https://jobright.ai/jobs/info/693b37ffd4054a2bc0252511?utm_campaign=1065&utm_source=git)** | Canada, Ontario, Toronto | Hybrid | Dec 11 |
-| **[Saya Agency](https://www.saya-agency.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693b5676b309e37800871b6b?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
+| **[Catholic Charities of the Diocese of Albany](http://www.ccrcda.org)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/693b5b6cd4054a2bc025532f?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Dec 11 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (LA & Dallas) Winter 2026](https://jobright.ai/jobs/info/693b5abed4054a2bc02552b0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 11 |
 | **[goodr](https://goodr.com)** | **[Digital Strategy & Experience Intern](https://jobright.ai/jobs/info/69374f80aabec14a727c645d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 11 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693b29f3d4054a2bc02518ae?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 11 |
 | **[Nestlé Nespresso SA](http://www.nespresso.com)** | **[Nespresso B2C Product Marketing Internship](https://jobright.ai/jobs/info/691b9737bcdbf3560c9e079b?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 11 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/693b027ad4054a2bc024e509?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 11 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/693b0185d4054a2bc024e4c1?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Hybrid | Dec 11 |
 | **[Converted Closet](https://www.convertedcloset.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693b31875f2c001987ed31f6?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 11 |
-| **[Zora Digital](https://zora.digital/)** | **[Digital Marketing Winter Intern or Recent College Graduate](https://jobright.ai/jobs/info/693b4975b309e3780086fe79?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Warren Transport Inc.](http://warrentransport.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693af6c15f2c001987ecf086?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 11 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Marketing](https://jobright.ai/jobs/info/690124d54539ea1f2141d0a7?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Dec 11 |
 | **[Amtrak](https://www.amtrak.com/)** | **[Spring 2026 - Market Research Intern - 90353296 - Washington](https://jobright.ai/jobs/info/691e418209cc522e877381b1?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 11 |
