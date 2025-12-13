@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/693d35b949a7695fbd03e880?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Dec 13 |
+| **[Outlier AI](http://outlier.ai/)** | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2d21aa598a08c3edf6bc?utm_campaign=1065&utm_source=git)** | Columbus, OH | Remote | Dec 13 |
+| ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2bdfaa598a08c3ede8fd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 13 |
+| **[SmartCard](https://www.linkedin.com/company/96940397)** | **[Public Relations Internship](https://jobright.ai/jobs/info/693d20d450bbaf7650503e9f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Dec 13 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693cee20aa598a08c3edaf7d?utm_campaign=1065&utm_source=git)** | Sonoma, CA, US | On Site | Dec 12 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Intern, Brand](https://jobright.ai/jobs/info/693cfbd150bbaf7650502f97?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Kissed by BO](www.hausofbo.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/693cf855aa598a08c3edccba?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Dec 12 |
@@ -111,18 +115,18 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern](https://jobright.ai/jobs/info/693c9d4350bbaf76504fe5bd?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693c9c1050bbaf76504fe4ad?utm_campaign=1065&utm_source=git)** | Novi | On Site | Dec 12 |
 | **[Thatcher+Co.](https://www.thatcherandco.com)** | **[Paid PR Data Internship](https://jobright.ai/jobs/info/693c9ab550bbaf76504fe399?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 12 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693c982b49a7695fbd036962?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Dec 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Go-To-Market Strategy Summer Intern](https://jobright.ai/jobs/info/693c97f0aa598a08c3ed7fe6?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[Fancy](https://fancy.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/693cb4d0aa598a08c3ed909e?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/693c975c50bbaf76504fdd19?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[Communications Intern](https://jobright.ai/jobs/info/693c973c50bbaf76504fdc5f?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[B2B Marketing Summer Intern](https://jobright.ai/jobs/info/693c96ab50bbaf76504fd975?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[Southern Glazer's Wine & Spirits](https://www.southernglazers.com/careers)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693c964baa598a08c3ed7709?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c9635aa598a08c3ed76a0?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Social Media Summer Intern](https://jobright.ai/jobs/info/693c963d49a7695fbd035f0b?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Social Media](https://jobright.ai/jobs/info/693c94f4aa598a08c3ed7053?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 12 |
 | **[Merck](http://www.merck.com)** | **[2026 Future Talent Program - Human Health - US Commercial Excellence & Innovation Intern](https://jobright.ai/jobs/info/693c94edaa598a08c3ed704b?utm_campaign=1065&utm_source=git)** | North Wales, PA | Hybrid | Dec 12 |
 | **[E11EVEN VODKA](https://11vodka.com)** | **[Marketing Intern (Experiential & Social) - Spring 2026](https://jobright.ai/jobs/info/693c94a249a7695fbd035613?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | Hybrid | Dec 12 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[B2B Marketing Summer Intern](https://jobright.ai/jobs/info/693c9406aa598a08c3ed6cb2?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c941649a7695fbd035344?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 12 |
 | ↳ | **[Communications Summer Intern](https://jobright.ai/jobs/info/693c934949a7695fbd034fed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 12 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693c92c050bbaf76504fc740?utm_campaign=1065&utm_source=git)** | Parsippany, New Jersey, United States | Hybrid | Dec 12 |
 | **[Jasper Ventures, Inc.](https://jasperventuresinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693c923f49a7695fbd034d2c?utm_campaign=1065&utm_source=git)** | Whitehouse, TX | On Site | Dec 12 |
 | **[Roche](http://www.roche.com)** | **[2026 Summer Intern - Personalized Healthcare Solutions (PHCS) International Business Team](https://jobright.ai/jobs/info/693c923750bbaf76504fc60c?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Dec 12 |
 | **[QuantFi](https://www.sm-bee.com)** | **[MBA Financial Marketing Intern](https://jobright.ai/jobs/info/693c914250bbaf76504fc583?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern - Marketing and Events Management (Arizona)](https://jobright.ai/jobs/info/693c736baa598a08c3ed50a3?utm_campaign=1065&utm_source=git)** | Arizona, United States | On Site | Dec 12 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Pipeline & Portfolio Market Planning Intern](https://jobright.ai/jobs/info/693c731249a7695fbd033930?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Dec 12 |
 | **[Pattern](https://www.patternlife.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693c72deaa598a08c3ed503e?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 12 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c728f49a7695fbd0338e2?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
-| **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Pop Culture Video Expert – Audience Insights Analyst](https://jobright.ai/jobs/info/693c71edaa598a08c3ed4fcc?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 12 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 12 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693c6e65aa598a08c3ed4e48?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
