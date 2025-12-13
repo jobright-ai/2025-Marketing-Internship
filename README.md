@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Spring 2026 Customer Service/Admin Internship (Marketing Department) - NYC](https://jobright.ai/jobs/info/693caa56aa598a08c3ed8c22?utm_campaign=1065&utm_source=git)** | New York City M&S | On Site | Dec 12 |
+| ↳ | **[Full Time or Part Time Marketing Support Internship (Spring 2026)](https://jobright.ai/jobs/info/693ca8fbaa598a08c3ed8b78?utm_campaign=1065&utm_source=git)** | Marriott's OceanWatch at Grande Dunes | On Site | Dec 12 |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693ca74849a7695fbd0372ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
+| **[TE Connectivity](http://www.te.com)** | **[CO-OP/INTERN](https://jobright.ai/jobs/info/693ca65049a7695fbd037223?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Dec 12 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Events Intern](https://jobright.ai/jobs/info/693ca473aa598a08c3ed884b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca317aa598a08c3ed8785?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693ca08949a7695fbd036ec1?utm_campaign=1065&utm_source=git)** | Novi | On Site | Dec 12 |
@@ -87,10 +92,12 @@ For a complete list, click the following sortable link below:
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Downstream Marketing](https://jobright.ai/jobs/info/693c8d0faa598a08c3ed6074?utm_campaign=1065&utm_source=git)** | Irvine, California | On Site | Dec 12 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/693c8911aa598a08c3ed5d99?utm_campaign=1065&utm_source=git)** | Marlborough, MA, United States | On Site | Dec 12 |
 | **[People's Voice](www.PeoplesVoice.media)** | **[News & Social Media Marketing Intern](https://jobright.ai/jobs/info/693c875449a7695fbd0345bc?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | Hybrid | Dec 12 |
-| **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/693c84ba50bbaf76504fbd28?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Dec 12 |
+| **[Cencora](http://www.cencora.com)** | **[Global Indirect Category Management Intern](https://jobright.ai/jobs/info/693ca687aa598a08c3ed899f?utm_campaign=1065&utm_source=git)** | Conshohocken, PA | On Site | Dec 12 |
 | **[NP Agency](https://npagency.com/)** | **[Public Relations Communications Intern](https://jobright.ai/jobs/info/693c840b50bbaf76504fbca7?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | On Site | Dec 12 |
 | **[Staples](http://www.staples.com)** | **[Merchandising Services Intern - June 2026](https://jobright.ai/jobs/info/693c814950bbaf76504fba0b?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Dec 12 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[Go-To-Market Strategy Summer Intern](https://jobright.ai/jobs/info/693c813350bbaf76504fb9f4?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 12 |
+| **[Creative Spirit US](http://www.creativespirit-us.org)** | **[Publicis Sports 2026 Summer Internship- Chicago](https://jobright.ai/jobs/info/693caaf750bbaf76504fedfd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 12 |
+| ↳ | **[Publicis Sports 2026 Summer Internship- New York City](https://jobright.ai/jobs/info/693ca70549a7695fbd0372a2?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 12 |
 | **[Cabine Creative](http://www.cabinecreative.com)** | **[Fashion Public Relations Intern](https://jobright.ai/jobs/info/693c80d1aa598a08c3ed5870?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 12 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/693c809c50bbaf76504fb97c?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 12 |
 | **[happiness ai](https://happinessai.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/693c7f7750bbaf76504fb894?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Dec 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Babes & Bellies](www.babesandbellies.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693c23a0aa598a08c3ed1724?utm_campaign=1065&utm_source=git)** | Long Beach, CA | Hybrid | Dec 12 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 12 |
-| **[Industrial Test Systems, Inc. (ITS)](https://sensafe.com/)** | **[Marketing & Social Media Intern (Paid)](https://jobright.ai/jobs/info/693c3d5750bbaf76504f81a6?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 12 |
-| **[Arthrex](https://www.arthrex.com/)** | **[Marketing Technology Intern](https://jobright.ai/jobs/info/691f7a2ca49a885af9a30844?utm_campaign=1065&utm_source=git)** | Naples, FL | On Site | Dec 12 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/691fe063a49a885af9a34f5e?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 12 |
-| **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/692076a200c9ee50eaec3fb9?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Dec 12 |
-| **[Phillips 66](http://www.phillips66.com/)** | **[2026 University Intern-US Marketing (Fuel Sales & Supply)](https://jobright.ai/jobs/info/691abb8bbcdbf3560c9da155?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 12 |
-| **[Keeper Security, Inc.](https://www.keepersecurity.com)** | **[SEO Intern](https://jobright.ai/jobs/info/690281fd98707b2b0fe704a6?utm_campaign=1065&utm_source=git)** | United States | Hybrid | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
