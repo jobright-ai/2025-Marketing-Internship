@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693ddfdc49a7695fbd044d11?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
+| **[Ascendria Consulting](ascendriaconsulting.us)** | **[Events Internships](https://jobright.ai/jobs/info/693ddf2a50bbaf765050c5bc?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Dec 13 |
+| **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 13 |
+| **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
 | **[Sentient Creative Studio](scstudio.io)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/693db6de49a7695fbd042ef6?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[Backlinkgen](https://backlinkgen.com)** | **[Digital Marketing Intern - Remote](https://jobright.ai/jobs/info/693db3d8aa598a08c3ee45c5?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Dec 13 |
@@ -96,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/692130c7a49a885af9a43d0a?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | Dec 13 |
 | **[EF](http://www.ef.com)** | **[Field Marketing and Recruitment Internship (Fall)](https://jobright.ai/jobs/info/68cb09ebd905e25191d9ec7e?utm_campaign=1065&utm_source=git)** | Brighton, PA | Hybrid | Dec 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/68910330f5ee707a15dbb3eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 13 |
-| **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/693d4f5a50bbaf76505066ee?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Dec 13 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Internal Communications (Spring 2026)](https://jobright.ai/jobs/info/6939a4fb48a8ce22990da2b7?utm_campaign=1065&utm_source=git)** | Byhalia, MS | On Site | Dec 13 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
 | **[American Dental Laboratory](www.adldp.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693d3afe49a7695fbd03e97a?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Dec 13 |
@@ -148,13 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/693ccc7faa598a08c3ed9b52?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693ca74849a7695fbd0372ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[TE Connectivity](http://www.te.com)** | **[CO-OP/INTERN](https://jobright.ai/jobs/info/693ca65049a7695fbd037223?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Dec 12 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[Salt Lake Bees](https://www.milb.com/salt-lake)** | **[Communications Coordinator Intern (Part-Time, Seasonal, Two Openings)](https://jobright.ai/jobs/info/693cbb5d49a7695fbd037b4a?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Events Intern](https://jobright.ai/jobs/info/693ca473aa598a08c3ed884b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca317aa598a08c3ed8785?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[Rolls-Royce](http://www.rolls-royce.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693ca08949a7695fbd036ec1?utm_campaign=1065&utm_source=git)** | Novi | On Site | Dec 12 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/693ca04a49a7695fbd036e89?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Dec 12 |
 | **[End of an Era AI](https://endofanera.ai)** | **[Marketing Intern (College Credit Only)](https://jobright.ai/jobs/info/693c9e8aaa598a08c3ed8422?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 12 |
-| **[Edelman](http://www.edelman.com)** | **[Intern](https://jobright.ai/jobs/info/693c9d4350bbaf76504fe5bd?utm_campaign=1065&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693c9c1050bbaf76504fe4ad?utm_campaign=1065&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[Thatcher+Co.](https://www.thatcherandco.com)** | **[Paid PR Data Internship](https://jobright.ai/jobs/info/693c9ab550bbaf76504fe399?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
