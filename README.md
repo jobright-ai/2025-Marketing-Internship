@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The GIANT Company](https://giantfoodstores.com)** | **[Merchandising Intern - Fresh](https://jobright.ai/jobs/info/691ea13aa49a885af9a29f9f?utm_campaign=1065&utm_source=git)** | Carlisle, PA | On Site | Dec 14 |
+| **[MathWorks](http://www.mathworks.com)** | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 14 |
+| ↳ | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 14 |
+| ↳ | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 14 |
+| **[Group 1001](https://group1001.com/)** | **[Market Research Internship](https://jobright.ai/jobs/info/691009ba183be660d2676f84?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Dec 14 |
+| **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e82f049a7695fbd04bae9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Dec 14 |
 | ↳ | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e7ddcaa598a08c3eed17d?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | Remote | Dec 14 |
 | **[BitGo](http://www.bitgo.com)** | **[Campaign Intern](https://jobright.ai/jobs/info/693e77d750bbaf7650511dc1?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
@@ -75,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BearClaw Gaming](https://bearclawesports.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/693daebf49a7695fbd042dbc?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Dec 13 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693da89450bbaf765050a57b?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Remote Digital Marketing Intern](https://jobright.ai/jobs/info/693d9cf4aa598a08c3ee31be?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diablo/Freud Tools](https://diablotools.com/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693cb2cfaa598a08c3ed8fbf?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing](https://jobright.ai/jobs/info/693cb2c050bbaf76504ff10c?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Dec 12 |
 | **[ATX TV](http://atxtv.com/)** | **[ATX TV Spring Festival & Social Media Internships](https://jobright.ai/jobs/info/693cb27d49a7695fbd037828?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 12 |
-| **[Spread Group](https://www.spreadgroup.com/)** | **[Part Time Social Media Content Intern](https://jobright.ai/jobs/info/693cb26749a7695fbd037819?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 12 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2026 Merchandising Buying Intern (Jan-May)](https://jobright.ai/jobs/info/68eec62746e5b153e5a5fab6?utm_campaign=1065&utm_source=git)** | Knoxville, TN | On Site | Dec 12 |
-| **[Rise8](https://rise8.us/)** | **[SkillBridge Intern - Marketing](https://jobright.ai/jobs/info/693cb1be49a7695fbd0377bd?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 12 |
-| **[Edelman](http://www.edelman.com)** | **[Intern](https://jobright.ai/jobs/info/693cb1a449a7695fbd0377ae?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
-| **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Dec 12 |
-| **[Entrata](https://www.entrata.com/)** | **[Marketing Intern, Brand Impact](https://jobright.ai/jobs/info/693caf0349a7695fbd03766d?utm_campaign=1065&utm_source=git)** | Lehi, Utah | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
