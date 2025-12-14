@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/693e6380aa598a08c3eeb002?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[SPORTTHON](https://www.sportthon.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693e2c7350bbaf765050e9ca?utm_campaign=1065&utm_source=git)** | Champaign, IL | Remote | Dec 13 |
 | **[Care Collective](www.carecollective.help.com)** | **[Remote Marketing Intern](https://jobright.ai/jobs/info/693e184faa598a08c3ee82a5?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Remote | Dec 13 |
 | **[The Shelf Miami](www.theshelfmiami.com)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/693dfbe1aa598a08c3ee66e2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 13 |
@@ -79,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Long Term Internship - Marketing & Events](https://jobright.ai/jobs/info/6920ef0000c9ee50eaec97cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 13 |
 | **[Henkel](http://www.henkel.com)** | **[MBA Associate Brand Manager Intern – Summer 2026](https://jobright.ai/jobs/info/693d8204aa598a08c3ee251a?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 13 |
 | **[Cedar Rapids Bank & Trust](https://crbt.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6920f9c1a49a885af9a41aab?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA | On Site | Dec 13 |
-| **[A1Base (YC W25)](https://www.a1base.com/)** | **[Digital Marketing Intern (US-based)](https://jobright.ai/jobs/info/693d7bb650bbaf7650508546?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68fcca43e04ac838fb5acb44?utm_campaign=1065&utm_source=git)** | Wayne, PA | On Site | Dec 13 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26016 WWF Livestream Fundraising Intern](https://jobright.ai/jobs/info/6920d8e600c9ee50eaec8aee?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Dec 13 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Summer 2026 - Aerospace Group Communications Intern](https://jobright.ai/jobs/info/69219c71d1ec2c3565c454a0?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Dec 13 |
@@ -104,13 +104,15 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/68910330f5ee707a15dbb3eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 13 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Internal Communications (Spring 2026)](https://jobright.ai/jobs/info/6939a4fb48a8ce22990da2b7?utm_campaign=1065&utm_source=git)** | Byhalia, MS | On Site | Dec 13 |
 | **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/693e2b8950bbaf765050e98c?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Dec 13 |
+| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/69040ae8ff462851feff2151?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Dec 13 |
+| ↳ | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 13 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
 | **[American Dental Laboratory](www.adldp.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693d3afe49a7695fbd03e97a?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Dec 13 |
 | **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Dec 13 |
 | **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/693d35b949a7695fbd03e880?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Dec 13 |
 | **[Outlier AI](http://outlier.ai/)** | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2d21aa598a08c3edf6bc?utm_campaign=1065&utm_source=git)** | Columbus, OH | Remote | Dec 13 |
 | ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2bdfaa598a08c3ede8fd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 13 |
-| **[SmartCard](https://www.linkedin.com/company/96940397)** | **[Public Relations Intern](https://jobright.ai/jobs/info/693d20d450bbaf7650503e9f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
+| **[SmartCard](https://www.linkedin.com/company/96940397)** | **[Public Relations Internship](https://jobright.ai/jobs/info/693d20d450bbaf7650503e9f?utm_campaign=1065&utm_source=git)** | Dallas, TX | Hybrid | Dec 12 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693cee20aa598a08c3edaf7d?utm_campaign=1065&utm_source=git)** | Sonoma, CA, US | On Site | Dec 12 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Intern, Brand](https://jobright.ai/jobs/info/693cfbd150bbaf7650502f97?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Kissed by BO](www.hausofbo.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/693cf855aa598a08c3edccba?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Dec 12 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Capital Blue Cross](https://capbluecross.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/693ccc7faa598a08c3ed9b52?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693ca74849a7695fbd0372ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
 | **[TE Connectivity](http://www.te.com)** | **[CO-OP/INTERN](https://jobright.ai/jobs/info/693ca65049a7695fbd037223?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Dec 12 |
-| **[Salt Lake Bees](https://www.milb.com/salt-lake)** | **[Communications Coordinator Intern (Part-Time, Seasonal, Two Openings)](https://jobright.ai/jobs/info/693cbb5d49a7695fbd037b4a?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Dec 12 |
-| **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Events Intern](https://jobright.ai/jobs/info/693ca473aa598a08c3ed884b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca317aa598a08c3ed8785?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
