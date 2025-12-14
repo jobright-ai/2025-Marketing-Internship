@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Webuild](webuildagency.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693ef82e50bbaf76505174e5?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 14 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693ef77849a7695fbd04f720?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Tech -Digital -Marketing- Intern](https://jobright.ai/jobs/info/693ee4ae49a7695fbd04dd4d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693ee46649a7695fbd04dd4a?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb6650bbaf76505159f6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb0c49a7695fbd04dc6a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edad749a7695fbd04dc61?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 14 |
@@ -110,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
-| **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Remote Digital Marketing Intern](https://jobright.ai/jobs/info/693d9cf4aa598a08c3ee31be?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 13 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Global Brand Equity and Marketing Intern](https://jobright.ai/jobs/info/6920f50ba49a885af9a4139c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 13 |
@@ -142,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[EF](http://www.ef.com)** | **[Field Marketing and Recruitment Internship (Fall)](https://jobright.ai/jobs/info/68cb09ebd905e25191d9ec7e?utm_campaign=1065&utm_source=git)** | Brighton, PA | Hybrid | Dec 13 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/68910330f5ee707a15dbb3eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 13 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Internal Communications (Spring 2026)](https://jobright.ai/jobs/info/6939a4fb48a8ce22990da2b7?utm_campaign=1065&utm_source=git)** | Byhalia, MS | On Site | Dec 13 |
-| **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/693e2b8950bbaf765050e98c?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Dec 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/69040ae8ff462851feff2151?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Dec 13 |
 | ↳ | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 13 |
 | **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693cee20aa598a08c3edaf7d?utm_campaign=1065&utm_source=git)** | Sonoma, CA, US | On Site | Dec 12 |
 | **[ILIA Beauty](https://iliabeauty.com/)** | **[Intern, Brand](https://jobright.ai/jobs/info/693cfbd150bbaf7650502f97?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 | **[Kissed by BO](www.hausofbo.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/693cf855aa598a08c3edccba?utm_campaign=1065&utm_source=git)** | Akron, OH | Hybrid | Dec 12 |
-| **[skipit](https://www.skipit.tech/)** | **[Unpaid Content & Community Intern (TikTok + Reels)](https://jobright.ai/jobs/info/693cf7dd49a7695fbd03b5a2?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 12 |
-| **[Virtual, Inc.](http://virtualmgmt.com)** | **[Spring 2026 Marketing Communications Internship](https://jobright.ai/jobs/info/693cdb8faa598a08c3eda325?utm_campaign=1065&utm_source=git)** | Wakefield, MA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
