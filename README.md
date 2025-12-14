@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Outlier AI](http://outlier.ai/)** | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e82f049a7695fbd04bae9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Dec 14 |
+| ↳ | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e7ddcaa598a08c3eed17d?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | Remote | Dec 14 |
+| **[BitGo](http://www.bitgo.com)** | **[Campaign Intern](https://jobright.ai/jobs/info/693e77d750bbaf7650511dc1?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Outlier AI](http://outlier.ai/)** | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693e772750bbaf7650511aa2?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Dec 14 |
+| ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693e76ecaa598a08c3eeb7c2?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Remote | Dec 14 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/693e723049a7695fbd049d17?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Dec 14 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/693e6380aa598a08c3eeb002?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[SPORTTHON](https://www.sportthon.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693e2c7350bbaf765050e9ca?utm_campaign=1065&utm_source=git)** | Champaign, IL | Remote | Dec 13 |
 | **[Care Collective](www.carecollective.help.com)** | **[Remote Marketing Intern](https://jobright.ai/jobs/info/693e184faa598a08c3ee82a5?utm_campaign=1065&utm_source=git)** | Rahway, NJ | Remote | Dec 13 |
@@ -69,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BearClaw Gaming](https://bearclawesports.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/693daebf49a7695fbd042dbc?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Dec 13 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693da89450bbaf765050a57b?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[SAMA INTERNATIONAL USA LLC](https://siusa.us)** | **[Remote Digital Marketing Intern](https://jobright.ai/jobs/info/693d9cf4aa598a08c3ee31be?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 13 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[Intern](https://jobright.ai/jobs/info/693cb1a449a7695fbd0377ae?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 12 |
 | **[D.R. Horton](http://drhorton.com)** | **[Summer 2026 Marketing Intern - Panama City West](https://jobright.ai/jobs/info/693caf4baa598a08c3ed8e00?utm_campaign=1065&utm_source=git)** | Panama City, FL | On Site | Dec 12 |
 | **[Entrata](https://www.entrata.com/)** | **[Marketing Intern, Brand Impact](https://jobright.ai/jobs/info/693caf0349a7695fbd03766d?utm_campaign=1065&utm_source=git)** | Lehi, Utah | On Site | Dec 12 |
-| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Spring 2026 Customer Service/Admin Internship (Marketing Department) - NYC](https://jobright.ai/jobs/info/693caa56aa598a08c3ed8c22?utm_campaign=1065&utm_source=git)** | New York City M&S | On Site | Dec 12 |
-| ↳ | **[Full Time or Part Time Marketing Support Internship (Spring 2026)](https://jobright.ai/jobs/info/693ca8fbaa598a08c3ed8b78?utm_campaign=1065&utm_source=git)** | Marriott's OceanWatch at Grande Dunes | On Site | Dec 12 |
-| **[Capital Blue Cross](https://capbluecross.com)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/693ccc7faa598a08c3ed9b52?utm_campaign=1065&utm_source=git)** | Harrisburg, PA | Hybrid | Dec 12 |
-| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Communications Intern (Summer) - Diablo Tools](https://jobright.ai/jobs/info/693ca74849a7695fbd0372ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 12 |
-| **[TE Connectivity](http://www.te.com)** | **[CO-OP/INTERN](https://jobright.ai/jobs/info/693ca65049a7695fbd037223?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | On Site | Dec 12 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
