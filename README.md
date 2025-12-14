@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Shelf Miami](www.theshelfmiami.com)** | **[Social Media Content Creator](https://jobright.ai/jobs/info/693dfbe1aa598a08c3ee66e2?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 13 |
+| **[Nidec Motor Corporation](https://acim.nidec.com/motors)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/693df03949a7695fbd044e17?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Dec 13 |
+| **[Post Mania Co.](Postmania.co)** | **[Social Media Coordinator , unpaid](https://jobright.ai/jobs/info/693ded0949a7695fbd044db8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693ddfdc49a7695fbd044d11?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Ascendria Consulting](ascendriaconsulting.us)** | **[Events Internships](https://jobright.ai/jobs/info/693ddf2a50bbaf765050c5bc?utm_campaign=1065&utm_source=git)** | Redlands, CA | Remote | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 13 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
+| **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
 | **[Sentient Creative Studio](scstudio.io)** | **[Influencer Partnerships Intern](https://jobright.ai/jobs/info/693db6de49a7695fbd042ef6?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital Marketing Intern - Remote](https://jobright.ai/jobs/info/693db3d8aa598a08c3ee45c5?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[BearClaw Gaming](https://bearclawesports.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/693daebf49a7695fbd042dbc?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Dec 13 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693da89450bbaf765050a57b?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Dec 12 |
 | **[Salt Lake Bees](https://www.milb.com/salt-lake)** | **[Communications Coordinator Intern (Part-Time, Seasonal, Two Openings)](https://jobright.ai/jobs/info/693cbb5d49a7695fbd037b4a?utm_campaign=1065&utm_source=git)** | South Jordan, UT | On Site | Dec 12 |
 | **[Empire State Realty Trust](https://www.esrtreit.com/)** | **[Events Intern](https://jobright.ai/jobs/info/693ca473aa598a08c3ed884b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 12 |
-| **[Rolls-Royce](http://www.rolls-royce.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693ca08949a7695fbd036ec1?utm_campaign=1065&utm_source=git)** | Novi | On Site | Dec 12 |
-| **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/693ca04a49a7695fbd036e89?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Dec 12 |
-| **[End of an Era AI](https://endofanera.ai)** | **[Marketing Intern (College Credit Only)](https://jobright.ai/jobs/info/693c9e8aaa598a08c3ed8422?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
