@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693f456449a7695fbd051714?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Dec 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6917af54bcdbf3560c9ca3bb?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | Dec 14 |
 | **[HimRahi](www.himrahi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f2c7f49a7695fbd05156b?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Event Project & Fundraising Intern for Mental Health nonprofit](https://jobright.ai/jobs/info/693f2c4949a7695fbd051563?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Global Brand Equity and Marketing Intern](https://jobright.ai/jobs/info/6920f50ba49a885af9a4139c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Outlier AI](http://outlier.ai/)** | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2d21aa598a08c3edf6bc?utm_campaign=1065&utm_source=git)** | Columbus, OH | Remote | Dec 13 |
 | ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693d2bdfaa598a08c3ede8fd?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 13 |
 | **[Nashville Superspeedway](http://www.nashvillesuperspeedway.com)** | **[Communications Intern](https://jobright.ai/jobs/info/693cee20aa598a08c3edaf7d?utm_campaign=1065&utm_source=git)** | Sonoma, CA, US | On Site | Dec 12 |
-| **[ILIA Beauty](https://iliabeauty.com/)** | **[Intern, Brand](https://jobright.ai/jobs/info/693cfbd150bbaf7650502f97?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
