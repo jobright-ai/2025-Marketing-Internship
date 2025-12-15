@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f8594aa598a08c3ef5721?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Dec 14 |
+| **[Fusion100](http://Fusion100co.com)** | **[Greek Clothing Sales and Marketing Intern](https://jobright.ai/jobs/info/693f7d4249a7695fbd053829?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 14 |
+| **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693f7833aa598a08c3ef50ea?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 14 |
 | **[Frameshifts with Benjamin Arya](https://frameshifts.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693f67d449a7695fbd05323b?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 14 |
 | **[maplediv](https://www.maplediv.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693f541b49a7695fbd05183d?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Dec 14 |
 | **[MyDataProduct](https://www.linkedin.com/company/42755701)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f53efaa598a08c3ef32bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[HimRahi](www.himrahi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f2c7f49a7695fbd05156b?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Event Project & Fundraising Intern for Mental Health nonprofit](https://jobright.ai/jobs/info/693f2c4949a7695fbd051563?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Marketing & Media Internship](https://jobright.ai/jobs/info/693f1f8949a7695fbd04fab5?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Dec 14 |
-| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/693f1a9a50bbaf76505178cc?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 14 |
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/693f130349a7695fbd04f996?utm_campaign=1065&utm_source=git)** | St Charles, MO | Hybrid | Dec 14 |
 | **[Webuild](webuildagency.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693ef82e50bbaf76505174e5?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 14 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693ef77849a7695fbd04f720?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
@@ -89,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/6921dca23f782d2f1afd40e4?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Dec 14 |
 | **[New York Life Insurance Company](https://www.newyorklife.com/)** | **[2026 Group Benefit Solutions (GBS) SS&M - Marketing Summer Intern - TN](https://jobright.ai/jobs/info/68f16db9ef766b3f0fd0df78?utm_campaign=1065&utm_source=git)** | Chattanooga, TN | On Site | Dec 14 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Integrated Communications Intern - The Sims](https://jobright.ai/jobs/info/68e9c2c954fbf903f6a7e9e5?utm_campaign=1065&utm_source=git)** | Redwood City, CA | Hybrid | Dec 14 |
-| **[BitGo](http://www.bitgo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693eb5f3aa598a08c3eef1db?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Social Media](https://jobright.ai/jobs/info/68cc63b716d00d2beeb1ec92?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 14 |
 | **[Waystar](http://www.waystar.com)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/68ccfcf2d11b445e0bee5831?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 14 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2026: Ecommerce & CRM Intern, D2C (February to May)](https://jobright.ai/jobs/info/68ce42d524dd5209002f0fe0?utm_campaign=1065&utm_source=git)** | Needham, MA | On Site | Dec 14 |
@@ -108,12 +109,11 @@ For a complete list, click the following sortable link below:
 | **[Tria Federal (Tria)](https://triafed.com)** | **[Summer Internship Program - Marketing & Communications](https://jobright.ai/jobs/info/6904ebc1ff462851feff8a29?utm_campaign=1065&utm_source=git)** | Arlington, VA | On Site | Dec 14 |
 | **[Outlier AI](http://outlier.ai/)** | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e82f049a7695fbd04bae9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Remote | Dec 14 |
 | ↳ | **[Marketing Writing Intern (Remote)](https://jobright.ai/jobs/info/693e7ddcaa598a08c3eed17d?utm_campaign=1065&utm_source=git)** | Albuquerque, NM | Remote | Dec 14 |
-| **[BitGo](http://www.bitgo.com)** | **[Campaign Intern](https://jobright.ai/jobs/info/693e77d750bbaf7650511dc1?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
-| **[Outlier AI](http://outlier.ai/)** | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693e772750bbaf7650511aa2?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Dec 14 |
+| ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693e772750bbaf7650511aa2?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Dec 14 |
 | ↳ | **[Public Relations Intern (Remote)](https://jobright.ai/jobs/info/693e76ecaa598a08c3eeb7c2?utm_campaign=1065&utm_source=git)** | Baltimore, MD | Remote | Dec 14 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/693e723049a7695fbd049d17?utm_campaign=1065&utm_source=git)** | Fairport, NY | On Site | Dec 14 |
+| **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[B Braun PA Intern - Marketing](https://jobright.ai/jobs/info/693f950350bbaf765051cc6f?utm_campaign=1065&utm_source=git)** | Center Valley, PA | Hybrid | Dec 13 |
 | **[Nidec Motor Corporation](https://acim.nidec.com/motors)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/693df03949a7695fbd044e17?utm_campaign=1065&utm_source=git)** | Greater St. Louis | On Site | Dec 13 |
-| **[Post Mania Co.](Postmania.co)** | **[Social Media Coordinator , unpaid](https://jobright.ai/jobs/info/693ded0949a7695fbd044db8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 13 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693ddfdc49a7695fbd044d11?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 13 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Public Relations](https://jobright.ai/jobs/info/693ddb2950bbaf765050c531?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | On Site | Dec 13 |
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
