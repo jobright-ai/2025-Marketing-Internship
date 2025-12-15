@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb5eb9821486c423c6d84?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 15 |
+| **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Community Engagement Strategy (Advanced Degree Preferred)](https://jobright.ai/jobs/info/693ff00caa598a08c3efa8ca?utm_campaign=1065&utm_source=git)** | Tempe, AZ | Hybrid | Dec 15 |
+| **[Aquatech](http://www.aquatech.com)** | **[Intern - Marketing Communications](https://jobright.ai/jobs/info/693fe36450bbaf7650520a3f?utm_campaign=1065&utm_source=git)** | Canonsburg, PA | On Site | Dec 15 |
+| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/693fe00c49a7695fbd058ab6?utm_campaign=1065&utm_source=git)** | Sonoma, CA | On Site | Dec 15 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Full Time or Part Time Marketing Support Internship (Spring 2026)](https://jobright.ai/jobs/info/693cdb6550bbaf7650500443?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 15 |
 | **[Stratasys](http://www.stratasys.com)** | **[Intern - Social Marketing and Video Specialist](https://jobright.ai/jobs/info/693fd0ef50bbaf765052068b?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | On Site | Dec 15 |
 | **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Dec 15 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/693fbb5b49a7695fbd0569c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
@@ -120,7 +125,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Global Brand Equity and Marketing Intern](https://jobright.ai/jobs/info/6920f50ba49a885af9a4139c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/68910330f5ee707a15dbb3eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 13 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Internal Communications (Spring 2026)](https://jobright.ai/jobs/info/6939a4fb48a8ce22990da2b7?utm_campaign=1065&utm_source=git)** | Byhalia, MS | On Site | Dec 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/69040ae8ff462851feff2151?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Dec 13 |
-| ↳ | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 13 |
-| **[Concordia Plans](https://www.concordiaplans.org/)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/69213f51a49a885af9a444c9?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 13 |
-| **[American Dental Laboratory](www.adldp.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693d3afe49a7695fbd03e97a?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Dec 13 |
-| **[Hisense USA](http://hisense-usa.com)** | **[Retail Merchandising Intern](https://jobright.ai/jobs/info/691bb17a22a2cb4b9bd1508c?utm_campaign=1065&utm_source=git)** | Suwanee, GA | On Site | Dec 13 |
-| **[Busey](https://www.busey.com/home/home)** | **[Event and Sponsorship Intern](https://jobright.ai/jobs/info/693d35b949a7695fbd03e880?utm_campaign=1065&utm_source=git)** | Champaign, IL | On Site | Dec 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
