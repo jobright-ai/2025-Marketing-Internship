@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stratasys](http://www.stratasys.com)** | **[Intern - Social Marketing and Video Specialist](https://jobright.ai/jobs/info/693fd0ef50bbaf765052068b?utm_campaign=1065&utm_source=git)** | Minnetonka, MN | On Site | Dec 15 |
+| **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691244fad1047e3565cfac83?utm_campaign=1065&utm_source=git)** | Remote - US | Remote | Dec 15 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/693fbb5b49a7695fbd0569c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Lawn Doctor](https://www.lawndoctor.com)** | **[Lawn Doctor Marketing & Community Engagement Intern](https://jobright.ai/jobs/info/693fba6150bbaf765051e6d9?utm_campaign=1065&utm_source=git)** | Buckley, WA 98321 | Hybrid | Dec 14 |
 | **[Vibranium Labs](https://vibranium.dev)** | **[Viral Content Intern](https://jobright.ai/jobs/info/693fb9bc49a7695fbd056953?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
@@ -68,12 +70,10 @@ For a complete list, click the following sortable link below:
 | **[MyDataProduct](https://www.linkedin.com/company/42755701)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f53efaa598a08c3ef32bb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693f456449a7695fbd051714?utm_campaign=1065&utm_source=git)** | Greater Boston | On Site | Dec 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6917af54bcdbf3560c9ca3bb?utm_campaign=1065&utm_source=git)** | Morrisville, NC | On Site | Dec 14 |
-| **[HimRahi](www.himrahi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f2c7f49a7695fbd05156b?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Event Project & Fundraising Intern for Mental Health nonprofit](https://jobright.ai/jobs/info/693f2c4949a7695fbd051563?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[Kalamazoo Growlers](http://northwoodsleague.com/kalamazoo-growlers/)** | **[Marketing & Media Internship](https://jobright.ai/jobs/info/693f1f8949a7695fbd04fab5?utm_campaign=1065&utm_source=git)** | Kalamazoo, MI | On Site | Dec 14 |
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/693f130349a7695fbd04f996?utm_campaign=1065&utm_source=git)** | St Charles, MO | Hybrid | Dec 14 |
 | **[Webuild](webuildagency.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693ef82e50bbaf76505174e5?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 14 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693ef77849a7695fbd04f720?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb6650bbaf76505159f6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb0c49a7695fbd04dc6a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edad749a7695fbd04dc61?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 14 |
@@ -120,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Global Brand Equity and Marketing Intern](https://jobright.ai/jobs/info/6920f50ba49a885af9a4139c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 13 |
