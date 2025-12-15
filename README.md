@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/693fbb5b49a7695fbd0569c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
+| **[Lawn Doctor](https://www.lawndoctor.com)** | **[Lawn Doctor Marketing & Community Engagement Intern](https://jobright.ai/jobs/info/693fba6150bbaf765051e6d9?utm_campaign=1065&utm_source=git)** | Buckley, WA 98321 | Hybrid | Dec 14 |
+| **[Vibranium Labs](https://vibranium.dev)** | **[Viral Content Intern](https://jobright.ai/jobs/info/693fb9bc49a7695fbd056953?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 14 |
 | **[FINA Consulting Inc](www.finaconsultinginc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693f8594aa598a08c3ef5721?utm_campaign=1065&utm_source=git)** | Tallahassee, FL | Remote | Dec 14 |
 | **[Fusion100](http://Fusion100co.com)** | **[Greek Clothing Sales and Marketing Intern](https://jobright.ai/jobs/info/693f7d4249a7695fbd053829?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 14 |
 | **[Align Technology](http://www.aligntech.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/693f7833aa598a08c3ef50ea?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 14 |
@@ -71,8 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Millstone Weber, LLC](https://www.millstoneweber.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/693f130349a7695fbd04f996?utm_campaign=1065&utm_source=git)** | St Charles, MO | Hybrid | Dec 14 |
 | **[Webuild](webuildagency.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/693ef82e50bbaf76505174e5?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | Hybrid | Dec 14 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/693ef77849a7695fbd04f720?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 14 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[Tech -Digital -Marketing- Intern](https://jobright.ai/jobs/info/693ee4ae49a7695fbd04dd4d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
-| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/693ee46649a7695fbd04dd4a?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 14 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb6650bbaf76505159f6?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edb0c49a7695fbd04dc6a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 14 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/693edad749a7695fbd04dc61?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 14 |
@@ -119,7 +120,7 @@ For a complete list, click the following sortable link below:
 | **[Bridge Specialty Group](https://bridgespecialtygroup.com/)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/693dc366aa598a08c3ee47a7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[NCR Voyix](https://www.ncrvoyix.com)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/693de33049a7695fbd044d39?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[Women of the Vine & Spirits](http://www.womenofthevine.com)** | **[2026 Summer Internship / Trade Development - Syosset, NY](https://jobright.ai/jobs/info/693db7b049a7695fbd042f31?utm_campaign=1065&utm_source=git)** | Syosset, NY | On Site | Dec 13 |
-| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db371aa598a08c3ee4551?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
+| **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693db3aeaa598a08c3ee4594?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | Hybrid | Dec 13 |
 | **[Valvoline Global Operations](https://www.valvolineglobal.com/en/)** | **[Global Brand Equity and Marketing Intern](https://jobright.ai/jobs/info/6920f50ba49a885af9a4139c?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Dec 13 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 13 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 13 |
@@ -144,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Growth Marketing Intern, E&HT](https://jobright.ai/jobs/info/69042298ff462851feff32ed?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[The Marzetti Company](http://www.marzetticompany.com)** | **[Retail Marketing Internship (MBA Candidates)- Summer 2026](https://jobright.ai/jobs/info/69367c24a0dde7020e2fbe71?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 13 |
 | **[Boll & Branch](https://www.bollandbranch.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/692113af3f782d2f1afcefa1?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 13 |
-| **[Entrata](https://www.entrata.com/)** | **[Marketing Intern, Brand Impact](https://jobright.ai/jobs/info/693c992949a7695fbd036adc?utm_campaign=1065&utm_source=git)** | Lehi, UT | Hybrid | Dec 13 |
 | **[Pronghorn](https://www.pronghorn.co/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69324fd8a0dde7020e2e587c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 13 |
 | **[PTC](http://ptc.co/VLED30oHtEh)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6903d728d64a22104aa93cf6?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 13 |
 | **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/692130c7a49a885af9a43d0a?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | Dec 13 |
