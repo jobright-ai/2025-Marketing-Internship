@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Hillman Group](http://www.hillmangroup.com)** | **[Channel Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69410c7050bbaf7650531164?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, USA | On Site | Dec 15 |
+| **[ABM](https://www.abmtechnologies.us/)** | **[AI in Education Internship – Sales & Marketing for Higher EdTech (Academic Credit)](https://jobright.ai/jobs/info/69410ae150bbaf7650531119?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
+| **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[2026 Barkin McKeithan Internship & Scholarship](https://jobright.ai/jobs/info/6940f5a0aa598a08c3f0a4d7?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 15 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Communications and PR Intern](https://jobright.ai/jobs/info/690a758dbcccf20de59e293e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 15 |
 | **[LexTrack AI](https://www.lextrackai.com)** | **[Digital Marketing Intern (AI Dating & Growth)](https://jobright.ai/jobs/info/6940e7f649a7695fbd06719d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6940df9caa598a08c3f081a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
@@ -90,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Public Knowledge](http://publicknowledge.org)** | **[Spring 2026 Communications Internship](https://jobright.ai/jobs/info/6940be7d50bbaf765052bce9?utm_campaign=1065&utm_source=git)** | Washington, DC | Remote | Dec 15 |
 | **[City Museum](https://www.citymuseum.org)** | **[Marketing Internship – Private Events & Content Creation](https://jobright.ai/jobs/info/6940c47faa598a08c3f05c22?utm_campaign=1065&utm_source=git)** | St. Louis, MO | On Site | Dec 15 |
 | **[Sasaki](https://www.sasaki.com/)** | **[2026 Summer Internship - Marketing and Communications (Boston)](https://jobright.ai/jobs/info/694087cdaa598a08c3f03372?utm_campaign=1065&utm_source=git)** | Boston, MA, US | On Site | Dec 15 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Events Intern](https://jobright.ai/jobs/info/6940e31d49a7695fbd066500?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[Dolls Kill](http://dollskill.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/694098c249a7695fbd0627bb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 15 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Strategy / Account Management Intern](https://jobright.ai/jobs/info/689085274c7e851b90ac6d7e?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6940c197aa598a08c3f05a76?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Dec 15 |
@@ -101,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Global Brand Marketing- Creative Builders Internship                *Please submit your portfolio along with your application.](https://jobright.ai/jobs/info/6932a656f131d96e4845d552?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | Hybrid | Dec 15 |
 | **[Pure Path Pharmacy](pruepathpharmacy.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6940a99c50bbaf765052b18e?utm_campaign=1065&utm_source=git)** | Boise Metropolitan Area | On Site | Dec 15 |
 | **[3STEP Sports](https://threestep.com)** | **[Sales & Event Operations Internship](https://jobright.ai/jobs/info/69408a3349a7695fbd061ba1?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Dec 15 |
-| **[PHI Air Medical](https://www.phiairmedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694087a449a7695fbd0615df?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Dec 15 |
+| **[Khrab Marketing & Design](https://www.khrab.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6940f2bc49a7695fbd0685f7?utm_campaign=1065&utm_source=git)** | Warwick, RI | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Webstore Merchandising Intern](https://jobright.ai/jobs/info/6940866150bbaf765052923f?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
 | ↳ | **[Tradeshow & Global Events Intern](https://jobright.ai/jobs/info/694085f9aa598a08c3f02fab?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Social Media and Content Marketing Internship (Spring Season) - Hilton Head Island](https://jobright.ai/jobs/info/6940855949a7695fbd0611b3?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Dec 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Koa Sports League](http://www.koasports.org/)** | **[Summer 2026- Marketing and Social Media Intern](https://jobright.ai/jobs/info/6940ace0aa598a08c3f04e8b?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Dec 15 |
 | ↳ | **[Summer 2026- Camp Operations & Marketing Internship](https://jobright.ai/jobs/info/69408d42aa598a08c3f03be7?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 15 |
 | **[Perflection AI](https://www.linkedin.com/company/105863969)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69407c7d50bbaf7650527ead?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
-| **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social Media Marketing Intern Spring 2026](https://jobright.ai/jobs/info/6940620350bbaf7650526719?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
-| **[Kroll](http://www.kroll.com/)** | **[Intern, Go To Market](https://jobright.ai/jobs/info/6940a02150bbaf765052ac31?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
