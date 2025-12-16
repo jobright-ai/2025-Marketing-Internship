@@ -57,16 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692f239ffa28370be26a7ab9?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Dec 16 |
+| **[Jhpiego](http://www.jhpiego.org)** | **[Digital Communications and Audience Engagement Intern - JHU Students Only](https://jobright.ai/jobs/info/6941b21450bbaf7650538865?utm_campaign=1065&utm_source=git)** | US-MD-Baltimore | Remote | Dec 16 |
+| **[Oklahoma State University Foundation](http://OSUgiving.com)** | **[Donor Experiences Intern](https://jobright.ai/jobs/info/6941b160bdcf884a5add717f?utm_campaign=1065&utm_source=git)** | Stillwater, OK | On Site | Dec 16 |
+| **[Connection is Magic with Samson Shulman](http://connectionismagic.org)** | **[Social Media Content Creation - Internship](https://jobright.ai/jobs/info/6941ab5c14ee092a69ffd060?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 16 |
 | **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/69419a6950bbaf7650536962?utm_campaign=1065&utm_source=git)** | Bloomington, IL | Hybrid | Dec 16 |
 | **[Post Mania Co.](Postmania.co)** | **[Social Media Coordinator](https://jobright.ai/jobs/info/694198f9bdcf884a5add4e44?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 16 |
+| **[KLA](https://www.kla.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/69419614bdcf884a5add4c97?utm_campaign=1065&utm_source=git)** | Totowa, NJ | On Site | Dec 16 |
 | **[Fortune Financial](https://www.fortunefinancialplanning.com/)** | **[Marketing & Operations Intern](https://jobright.ai/jobs/info/694193d114ee092a69ffad36?utm_campaign=1065&utm_source=git)** | Greater Philadelphia | On Site | Dec 16 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Customer Marketing Associate](https://jobright.ai/jobs/info/69419238bdcf884a5add4a7f?utm_campaign=1065&utm_source=git)** | San Francisco | On Site | Dec 16 |
 | **[Commonwealth of Pennsylvania](http://www.arts.pa.gov)** | **[State Park Intern - Presque Isle State Park Complex](https://jobright.ai/jobs/info/69419164bdcf884a5add4a1b?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Dec 16 |
-| **[KLA](https://www.kla.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6941912cbdcf884a5add49fc?utm_campaign=1065&utm_source=git)** | Totowa, NJ | On Site | Dec 16 |
+| **[StreamScoop](https://streamscoop.substack.com/)** | **[Reporting Intern](https://jobright.ai/jobs/info/6941b28350bbaf76505388a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 16 |
+| **[Van Metre Companies](http://vanmetrecompanies.com)** | **[Property Management Internship - Summer 2026](https://jobright.ai/jobs/info/6941b4c5bdcf884a5add738c?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Dec 16 |
 | **[Atlassian](https://www.atlassian.com)** | **[MBA Product Marketing Intern - Platform, 2026 Summer U.S](https://jobright.ai/jobs/info/69418d7d14ee092a69ffaac1?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | ↳ | **[MBA Product Marketing Intern - Regulated Industries, 2026 Summer U.S](https://jobright.ai/jobs/info/69418acfbdcf884a5add47fe?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 16 |
 | **[Biome](Joinbiome.com)** | **[Summer 2026 Brand Marketing Internship (Student Athletes Encouraged)](https://jobright.ai/jobs/info/69418aa314ee092a69ffa995?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 16 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/6908aae5bcccf20de59d29fa?utm_campaign=1065&utm_source=git)** | St Paul, MN | Hybrid | Dec 16 |
+| **[AV Social Media](https://www.linkedin.com/company/108340437)** | **[Social Media Student Intern (Co-op)](https://jobright.ai/jobs/info/6941acdcbdcf884a5add6f6c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 16 |
 | **[Stormont Vail Health](http://www.stormontvail.org)** | **[Administrative Intern Marketing - Talent Acquisition - FT - Day](https://jobright.ai/jobs/info/694186cbbdcf884a5add4662?utm_campaign=1065&utm_source=git)** | Topeka, KS | On Site | Dec 16 |
 | **[Kentucky Farm Bureau Insurance](http://kyfb.com)** | **[Agency Support & Marketing Intern](https://jobright.ai/jobs/info/69389c60a0dde7020e313398?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 16 |
 | **[Kimco Realty Corporation](http://kimcorealty.com)** | **[Leasing Intern](https://jobright.ai/jobs/info/69417d1bbdcf884a5add4241?utm_campaign=1065&utm_source=git)** | Daly City, CA | On Site | Dec 16 |
@@ -100,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Tapestry](http://www.tapestry.com/)** | **[Summer Marketing Internships](https://jobright.ai/jobs/info/6924c19bec574f4265bb6a47?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | ↳ | **[Summer eCommerce Internships](https://jobright.ai/jobs/info/6924d7acec574f4265bb7b49?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 16 |
 | **[Ecolab](http://www.ecolab.com)** | **[MBA Marketing Internship 2026](https://jobright.ai/jobs/info/690859ef63502c0aded8c707?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 16 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Business Associate Growth and Operations Intern](https://jobright.ai/jobs/info/69414cbc50bbaf7650533432?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 16 |
 | **[VF Corporation](http://www.vfc.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/6924a3dbec574f4265bb548e?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Dec 16 |
 | **[Sundt Construction](https://www.sundt.com/foundation)** | **[Support Group Intern - Marketing](https://jobright.ai/jobs/info/6924ebf4c0cefa13343e4235?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Dec 16 |
 | **[Groq](http://groq.com)** | **[Brand & Integrated Marketing Intern](https://jobright.ai/jobs/info/692500eb38cd5478a8d61404?utm_campaign=1065&utm_source=git)** | Palo Alto, CA | Hybrid | Dec 16 |
@@ -134,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6940cc54aa598a08c3f066d1?utm_campaign=1065&utm_source=git)** | Cottage Grove, MN | On Site | Dec 15 |
 | **[Ground Up International](https://www.groundupintl.com)** | **[Amazon Marketing Intern](https://jobright.ai/jobs/info/6940ca4caa598a08c3f0623b?utm_campaign=1065&utm_source=git)** | New York, New York, United States | On Site | Dec 15 |
 | **[Ruoff Mortgage](http://ruoff.com)** | **[Copywriter Intern](https://jobright.ai/jobs/info/6940b5f650bbaf765052b7dd?utm_campaign=1065&utm_source=git)** | Fort Wayne,IN,US | On Site | Dec 15 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Intern: Market Research Summer 2026](https://jobright.ai/jobs/info/6940bf7a49a7695fbd063c67?utm_campaign=1065&utm_source=git)** | Avon, OH | On Site | Dec 15 |
 | **[Susan G. Komen](http://www.komen.org)** | **[California Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6940dd01aa598a08c3f080b1?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | Dec 15 |
 | ↳ | **[Marketing and Fundraising Intern (Remote)](https://jobright.ai/jobs/info/6940de61aa598a08c3f0810c?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Dec 15 |
 | **[RESPEC](http://www.respec.com)** | **[Student Communications Intern](https://jobright.ai/jobs/info/6940be8a49a7695fbd063beb?utm_campaign=1065&utm_source=git)** | Rapid City, SD, USA | On Site | Dec 15 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Dolls Kill](http://dollskill.com)** | **[Social Content Intern](https://jobright.ai/jobs/info/6940cd6849a7695fbd064e8f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 15 |
 | **[Nikki Beach Hospitality Group](https://nikkibeach.com)** | **[Public Relations & Communications Intern](https://jobright.ai/jobs/info/6940ad6650bbaf765052b359?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 15 |
 | **[University of Missouri-Kansas City](http://www.umkc.edu/)** | **[KCUR / Classical KC Marketing and Events Intern - KCUR, 53259](https://jobright.ai/jobs/info/6940acc8aa598a08c3f04e81?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Dec 15 |
-| **[Waste Connections](http://www.wasteconnections.com/)** | **[Intern](https://jobright.ai/jobs/info/6940aa1f49a7695fbd0630cf?utm_campaign=1065&utm_source=git)** | Folsom, CA | On Site | Dec 15 |
 | **[Magna Legal Services](http://magnals.com)** | **[Internal Communications Intern](https://jobright.ai/jobs/info/6940a9d049a7695fbd06309d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Kobalt Music](http://www.kobaltmusic.com)** | **[Intern, Writer & Publisher Relations](https://jobright.ai/jobs/info/6940a7a6aa598a08c3f04bfc?utm_campaign=1065&utm_source=git)** | New York | On Site | Dec 15 |
 | **[SmartCard](https://www.linkedin.com/company/96940397)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6940a3c750bbaf765052adc4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/6941719550bbaf7650535484?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 15 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/694169e2bdcf884a5add2c73?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Dec 15 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/69416f82bdcf884a5add3a6f?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 15 |
-| ↳ | **[Customer Service/  Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/694166d6bdcf884a5add24f3?utm_campaign=1065&utm_source=git)** | Hebron, KY | On Site | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
