@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694120cebdcf884a5adcfebd?utm_campaign=1065&utm_source=git)** | Hershey, PA | On Site | Dec 16 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Channel Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69410c7050bbaf7650531164?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, USA | On Site | Dec 15 |
 | **[ABM](https://www.abmtechnologies.us/)** | **[AI in Education Internship – Sales & Marketing for Higher EdTech (Academic Credit)](https://jobright.ai/jobs/info/69410ae150bbaf7650531119?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[2026 Barkin McKeithan Internship & Scholarship](https://jobright.ai/jobs/info/6940f5a0aa598a08c3f0a4d7?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 15 |
 | **[Economic Mobility Pathways - EMPath](https://www.empathways.org/)** | **[Communications and PR Intern](https://jobright.ai/jobs/info/690a758dbcccf20de59e293e?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 15 |
-| **[LexTrack AI](https://www.lextrackai.com)** | **[Digital Marketing Intern (AI Dating & Growth)](https://jobright.ai/jobs/info/6940e7f649a7695fbd06719d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 15 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6940df9caa598a08c3f081a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 15 |
 | **[LV Collective](https://lvcollective.com)** | **[Brand Ambassador Intern / 313 College Ave](https://jobright.ai/jobs/info/6940da9d50bbaf765052e34d?utm_campaign=1065&utm_source=git)** | College Station, TX | Hybrid | Dec 15 |
 | **[RBC](https://www.rbc.com)** | **[2026 GAM, Summer Corporate Communications Intern (4 months)](https://jobright.ai/jobs/info/6940da0950bbaf765052e31a?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 15 |
@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing and Fundraising Intern (Remote)](https://jobright.ai/jobs/info/6940de61aa598a08c3f0810c?utm_campaign=1065&utm_source=git)** | Dallas, TX | Remote | Dec 15 |
 | **[RESPEC](http://www.respec.com)** | **[Student Communications Intern](https://jobright.ai/jobs/info/6940be8a49a7695fbd063beb?utm_campaign=1065&utm_source=git)** | Rapid City, SD, USA | On Site | Dec 15 |
 | **[Drive IT](https://drivenash.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6940be2449a7695fbd063bb1?utm_campaign=1065&utm_source=git)** | Nashville, TN 37217 | On Site | Dec 15 |
+| **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694110bb49a7695fbd069235?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 15 |
 | **[UPMC](https://www.upmc.com/)** | **[Digital Marketing Intern- Summer 2026](https://jobright.ai/jobs/info/6940dcb3aa598a08c3f08092?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 15 |
 | **[Vita Coco](https://www.thevitacococompany.com)** | **[Social Media Intern (Part-Time)](https://jobright.ai/jobs/info/6940bc0e50bbaf765052bb53?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 15 |
 | **[City Museum](https://www.citymuseum.org)** | **[Marketing Internship – Private Events & Content Creation](https://jobright.ai/jobs/info/6940bba050bbaf765052bb11?utm_campaign=1065&utm_source=git)** | St. Louis,  MO | On Site | Dec 15 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Pure Path Pharmacy](pruepathpharmacy.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6940a99c50bbaf765052b18e?utm_campaign=1065&utm_source=git)** | Boise Metropolitan Area | On Site | Dec 15 |
 | **[3STEP Sports](https://threestep.com)** | **[Sales & Event Operations Internship](https://jobright.ai/jobs/info/69408a3349a7695fbd061ba1?utm_campaign=1065&utm_source=git)** | Plano, TX | Hybrid | Dec 15 |
 | **[Khrab Marketing & Design](https://www.khrab.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6940f2bc49a7695fbd0685f7?utm_campaign=1065&utm_source=git)** | Warwick, RI | On Site | Dec 15 |
+| **[PHI Air Medical](https://www.phiairmedical.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694087a449a7695fbd0615df?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Webstore Merchandising Intern](https://jobright.ai/jobs/info/6940866150bbaf765052923f?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
 | ↳ | **[Tradeshow & Global Events Intern](https://jobright.ai/jobs/info/694085f9aa598a08c3f02fab?utm_campaign=1065&utm_source=git)** | 115 North McCarthy Blvd., Milpitas, CA, 95035, US | On Site | Dec 15 |
 | **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Social Media and Content Marketing Internship (Spring Season) - Hilton Head Island](https://jobright.ai/jobs/info/6940855949a7695fbd0611b3?utm_campaign=1065&utm_source=git)** | Hilton Head Island, SC | On Site | Dec 15 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver Golf Marketing Intern](https://jobright.ai/jobs/info/69407b7550bbaf7650527c39?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Dec 15 |
 | **[Value Aligners](Valuealigners.com)** | **[CyberSecurity Digital Marketing Intern](https://jobright.ai/jobs/info/69409aa350bbaf765052a8b5?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Dec 15 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69409d0caa598a08c3f04639?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 15 |
-| **[iHeartMedia](http://iheartmedia.com)** | **[National Programming Group Summer Internship](https://jobright.ai/jobs/info/694078ffaa598a08c3f01476?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Webstore Merchandising Intern](https://jobright.ai/jobs/info/694078be49a7695fbd05f88a?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6940e31e49a7695fbd066506?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia | On Site | Dec 15 |
 | **[Make-A-Wish Metro New York and Western New York](http://metrony.wish.org)** | **[Development Intern](https://jobright.ai/jobs/info/6940a067aa598a08c3f047f0?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Dec 15 |
@@ -146,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Marketing](https://jobright.ai/jobs/info/69335e65764507023d1b4dbe?utm_campaign=1065&utm_source=git)** | Yuma, AZ | On Site | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Technical Marketing Content intern](https://jobright.ai/jobs/info/69406afaaa598a08c3f00a2b?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Sales and Marketing Intern](https://jobright.ai/jobs/info/694089bf50bbaf7650529987?utm_campaign=1065&utm_source=git)** | FL - West Palm Beach, 1401 NORTHPOINT PKWY | On Site | Dec 15 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[National Programming Group Summer Internship](https://jobright.ai/jobs/info/6940882049a7695fbd061702?utm_campaign=1065&utm_source=git)** | New York, NY (55th St) | On Site | Dec 15 |
 | **[True Media](https://www.truemediaservices.com/)** | **[Media Intern](https://jobright.ai/jobs/info/694056f349a7695fbd05e0b8?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 15 |
 | **[Corsair](http://www.corsair.com)** | **[Elgato Social Media Intern](https://jobright.ai/jobs/info/694068fdaa598a08c3f00899?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 15 |
 | **[Retrofête](https://retrofete.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6940966649a7695fbd0625ca?utm_campaign=1065&utm_source=git)** | NYC Metro Area | On Site | Dec 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Digital & Social Media Intern (Marketing)](https://jobright.ai/jobs/info/6940873c50bbaf7650529400?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 | ↳ | **[Consumer Engagement & Special Projects Intern](https://jobright.ai/jobs/info/69408c7849a7695fbd061e14?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 15 |
 | **[Koa Sports League](http://www.koasports.org/)** | **[Summer 2026- Marketing and Social Media Intern](https://jobright.ai/jobs/info/6940ace0aa598a08c3f04e8b?utm_campaign=1065&utm_source=git)** | Rockville, MD | Hybrid | Dec 15 |
-| ↳ | **[Summer 2026- Camp Operations & Marketing Internship](https://jobright.ai/jobs/info/69408d42aa598a08c3f03be7?utm_campaign=1065&utm_source=git)** | Rockville, MD | On Site | Dec 15 |
-| **[Perflection AI](https://www.linkedin.com/company/105863969)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69407c7d50bbaf7650527ead?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
