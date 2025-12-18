@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ulta Beauty](https://www.ulta.com)** | **[Intern Merchandising](https://jobright.ai/jobs/info/69439feedd382f5f5669bcb1?utm_campaign=1065&utm_source=git)** | Bolingbrook, IL | On Site | Dec 17 |
 | **[Los Angeles Times](http://www.latimes.com)** | **[Content Intern Part-time (LA Times Studios)](https://jobright.ai/jobs/info/691e514509cc522e87738dfe?utm_campaign=1065&utm_source=git)** | El Segundo, CA | Hybrid | Dec 17 |
 | **[Ability Beyond](https://abilitybeyond.org/)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/69438b22dd382f5f5669af6b?utm_campaign=1065&utm_source=git)** | Bethel, CT | Remote | Dec 17 |
 | **[Intermedium USA](https://intermediumcorp.com)** | **[Internship-Social Media Assistant - Internship-Internship](https://jobright.ai/jobs/info/69437f8650bbaf765055733d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 17 |
@@ -134,12 +135,12 @@ For a complete list, click the following sortable link below:
 | **[Lumulus Technologies, Inc.](www.lumulus.com)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/6943434edd382f5f5669427b?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Dec 17 |
 | **[MINT Brand Marketing](https://mintbrandmarketing.com)** | **[Social Media + Marketing Intern](https://jobright.ai/jobs/info/69431a4a50bbaf765054f1f8?utm_campaign=1065&utm_source=git)** | Fargo, ND | On Site | Dec 17 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Public Relations Internship](https://jobright.ai/jobs/info/69433774dd382f5f56692c35?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 17 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Wrangler Integrated Marketing](https://jobright.ai/jobs/info/6942fcad94730b7398760490?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Racklify](https://racklify.com)** | **[Social Media Marketing Intern (Short Form Content)](https://jobright.ai/jobs/info/6943160850bbaf765054edaf?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | Hybrid | Dec 17 |
 | **[TransUnion](http://www.transunion.com)** | **[Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6943315ddd382f5f56692263?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 17 |
 | **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/694334f7dd382f5f56692858?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 17 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Marketing Intern / Compass One Healthcare, Corporate (IMMEDIATE OPPORTUNITY)](https://jobright.ai/jobs/info/69433037dd382f5f566920b4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 17 |
 | **[Brown & Brown](http://www.bbrown.com)** | **[Intern - Risk Management & Insurance (Wholesale)](https://jobright.ai/jobs/info/6943355add382f5f566928dc?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 17 |
+| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern - Wrangler Integrated Marketing](https://jobright.ai/jobs/info/6943101294730b739876144d?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[Marketing Oncology Intern, Solid Tumors](https://jobright.ai/jobs/info/69430f9750bbaf765054e77a?utm_campaign=1065&utm_source=git)** | Saint-Laurent, Canada | Hybrid | Dec 17 |
 | **[Cell Signaling Technology (CST)](https://www.cellsignal.com)** | **[Commercial Internship](https://jobright.ai/jobs/info/694331f894730b739876346a?utm_campaign=1065&utm_source=git)** | DANVERS, MA | On Site | Dec 17 |
 | **[Trimble Inc.](http://www.trimble.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69430c8c94730b73987610e3?utm_campaign=1065&utm_source=git)** | Canada - Richmond Hill, Ontario (Applanix) | On Site | Dec 17 |
@@ -149,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Neolytix](https://neolytix.com)** | **[HR and Marketing Intern](https://jobright.ai/jobs/info/6943098750bbaf765054e390?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 17 |
 | **[KLA](https://www.kla.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6943096fdd382f5f56690030?utm_campaign=1065&utm_source=git)** | Milpitas, CA | On Site | Dec 17 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Spring 2026 Entrepreneurial Marketing and Talent Brand Internship](https://jobright.ai/jobs/info/69432bd394730b7398762d20?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 17 |
-| **[Kontoor Brands, Inc.](https://www.kontoorbrands.com/)** | **[Summer Intern, Digital Marketing - Social Media (Lee)](https://jobright.ai/jobs/info/6943088094730b7398760e17?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 17 |
 | **[Olive Baptist Church](https://olivebaptist.org/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6943009650bbaf765054d879?utm_campaign=1065&utm_source=git)** | Pensacola, FL | On Site | Dec 17 |
 | **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - ECommerce Intern](https://jobright.ai/jobs/info/6942ffcf50bbaf765054d71d?utm_campaign=1065&utm_source=git)** | Phoenix, AZ | On Site | Dec 17 |
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Public Relations and Media Intern](https://jobright.ai/jobs/info/6943417b94730b7398764f28?utm_campaign=1065&utm_source=git)** | Milwaukee-Wisconsin-United States of America | On Site | Dec 17 |
