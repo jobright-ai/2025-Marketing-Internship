@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern - Book Launch Campaign (Remote)](https://jobright.ai/jobs/info/69451e29951654073537351a?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Dec 19 |
+| **[Rice Companies](https://ricecompanies.com/)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69451397d1953b5d11be086e?utm_campaign=1065&utm_source=git)** | Sauk Rapids, MN | On Site | Dec 19 |
+| **[NVIDIA](https://www.nvidia.com)** | **[Robotics Product Marketing MBA Intern - Summer 2026](https://jobright.ai/jobs/info/69450eba50bbaf7650571b26?utm_campaign=1065&utm_source=git)** | Santa Clara, CA | On Site | Dec 19 |
+| **[Place Showroom](http://placeshowroom.com)** | **[LA Internship Spring 2026](https://jobright.ai/jobs/info/6945080150bbaf76505715e3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 19 |
 | **[Barracuda](http://www.barracuda.com/netcontinuum)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6944fe5a94730b7398783c14?utm_campaign=1065&utm_source=git)** | Campbell, California | Hybrid | Dec 18 |
 | **[OOIN Media](https://www.ooinmedia.com/)** | **[Social Media Operations Intern (AI Content & Branding) — Chinese Speaker](https://jobright.ai/jobs/info/6944eb5150bbaf7650570550?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 18 |
+| **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern - Book Launch Campaign (Remote)](https://jobright.ai/jobs/info/694512d59516540735372385?utm_campaign=1065&utm_source=git)** | Remote - Richmond, VA | Remote | Dec 18 |
 | **[Caddell Construction](http://caddell.com)** | **[Marketing & Proposals Intern](https://jobright.ai/jobs/info/691662b0286ccf0a151352b3?utm_campaign=1065&utm_source=git)** | Montgomery, AL | On Site | Dec 18 |
 | **[ZZ Med Spa](https://www.zzmedspa.com/)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6944e44050bbaf765056eb54?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[KMBC 9](https://www.kmbc.com/#)** | **[KMBC Marketing & Promotions Intern](https://jobright.ai/jobs/info/6944d4b9a7227b3ece6679b8?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Dec 18 |
@@ -105,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Verve, a Credit Union](https://www.verveacu.com/)** | **[Marketing Intern (51874)](https://jobright.ai/jobs/info/694474f9dd382f5f566a9f18?utm_campaign=1065&utm_source=git)** | Oshkosh, WI | On Site | Dec 18 |
 | **[United Nations Foundation](http://www.unfoundation.org)** | **[Intern, Communications, U.S. Climate Alliance](https://jobright.ai/jobs/info/694473a2dd382f5f566a9bc1?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 18 |
 | **[Troon](http://www.troon.com/)** | **[Intern](https://jobright.ai/jobs/info/6944901294730b739877c87a?utm_campaign=1065&utm_source=git)** | Brewster, WA | On Site | Dec 18 |
-| **[LEARFIELD](http://learfield.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/69447251dd382f5f566a98b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 18 |
 | **[Bader](https://www.badercompanies.com)** | **[Marketing Internship - Bader](https://jobright.ai/jobs/info/694471f550bbaf76505674e3?utm_campaign=1065&utm_source=git)** | St Louis Park, MN | On Site | Dec 18 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Marketing Intern 2026](https://jobright.ai/jobs/info/69448f7694730b739877c7f4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 18 |
 | **[LEARFIELD](http://learfield.com)** | **[Marketing Data Intern](https://jobright.ai/jobs/info/694471ac50bbaf7650567427?utm_campaign=1065&utm_source=git)** | Irvine, CA | Hybrid | Dec 18 |
@@ -132,12 +136,12 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Philanthropy Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6944ab4f94730b739877ef4a?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | ↳ | **[Post-Production Intern - Summer 2026](https://jobright.ai/jobs/info/6944b11c94730b739877f520?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
 | ↳ | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6944aeba94730b739877f2ec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 18 |
-| **[True Media](https://www.truemediaservices.com/)** | **[Media Intern](https://jobright.ai/jobs/info/69444a9650bbaf765056426c?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 18 |
 | **[CRH](http://crh.com)** | **[Channel Marketing Intern](https://jobright.ai/jobs/info/69444a5094730b73987769bb?utm_campaign=1065&utm_source=git)** | Galloway, NJ | On Site | Dec 18 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[Marketing Energy Crew  - Internship](https://jobright.ai/jobs/info/69446682dd382f5f566a8393?utm_campaign=1065&utm_source=git)** | 96 Columbus Crew Way, Columbus, OH, USA | On Site | Dec 18 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Internship – ICAO Global Ambassadors Programme](https://jobright.ai/jobs/info/69446580dd382f5f566a81fe?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | Dec 18 |
 | **[openigloo](https://openigloo.com/)** | **[Social Media Marketing Intern — Spring 2026](https://jobright.ai/jobs/info/6944448650bbaf7650562fec?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 18 |
 | **[International Civil Aviation Organization](http://icao.int)** | **[Internship – ICAO Global Ambassadors Programme](https://jobright.ai/jobs/info/69446885dd382f5f566a8627?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | Dec 18 |
+| **[LEARFIELD](http://learfield.com)** | **[External Communications Intern](https://jobright.ai/jobs/info/694460e850bbaf7650565de3?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 18 |
 | **[SuperProcure](https://superprocure.com/)** | **[Digital Marketing - Intern (Remote)](https://jobright.ai/jobs/info/6944674edd382f5f566a8490?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 18 |
 | **[WHEELHOUSE Center for Health and Wellbeing](http://wheelhouse.health)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6944413ddd382f5f566a48d5?utm_campaign=1065&utm_source=git)** | Fairfield, CT | Remote | Dec 18 |
 | **[Bluebird Data](www.bluebirddata.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6944410950bbaf7650562dcf?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Socially Inspired](https://www.sociallyinspired.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6944440294730b7398775ade?utm_campaign=1065&utm_source=git)** | St Louis, MO | Hybrid | Dec 18 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6944252350bbaf7650561e04?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Dec 18 |
 | **[American Friends of the Alexander von Humboldt Foundation](https://www.americanfriendsofavh.org/)** | **[Programs and Promotions Intern](https://jobright.ai/jobs/info/6944a0d8a7227b3ece66390c?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 18 |
-| **[GrantCue](https://www.grantcue.com)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/6944407594730b73987758b1?utm_campaign=1065&utm_source=git)** | Lock Haven, PA | Remote | Dec 18 |
-| **[Electronic Arts (EA)](https://www.ea.com)** | **[Live Service Marketing Creative Producer Intern](https://jobright.ai/jobs/info/69276bb591ceeb2e8a53f104?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 18 |
-| **[OnlyWorks](https://www.only-works.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/69441d4e50bbaf7650561979?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 18 |
-| **[Surface Labs](https://www.withsurface.com/)** | **[Content Marketing Intern (Winter 2025)](https://jobright.ai/jobs/info/6944182ddd382f5f566a30de?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
