@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[AI SW Marketing Intern](https://jobright.ai/jobs/info/6946db837d506e3808f23da7?utm_campaign=1065&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
+| **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Digital Operations Internship – Spring 2026](https://jobright.ai/jobs/info/6946d1547d506e3808f223b4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Marketing Intern - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6946cd8c63141d1884567ff8?utm_campaign=1065&utm_source=git)** | Gloucester, MA | On Site | Dec 20 |
 | **[Estes Energetics](https://estesenergetics.com)** | **[Social Media and Digital Marketing Intern](https://jobright.ai/jobs/info/6946c2457d506e3808f21e65?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 20 |
 | **[Tribal App](https://thetribalapp.com)** | **[Influencer Social Media Intern](https://jobright.ai/jobs/info/6946c21163141d188456790c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6946c1d263141d18845678b6?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
@@ -64,7 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Inspire](https://inspirebrands.com)** | **[Investor Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6946b9c963141d18845676e9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
 | **[CoPatible](https://copatible.com)** | **[Growth Intern (Community & Early Growth)](https://jobright.ai/jobs/info/6946b33863141d18845670fb?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Dec 20 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/68efd2fade50091dbfa507a0?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 20 |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/6946cd2cd1953b5d11bfedac?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 20 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd4c9821486c423c7c9c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 20 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Marketing Operations Intern,  2026](https://jobright.ai/jobs/info/6929cd46fa28370be26953c9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Internal Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6945d54563141d188455772f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945d174951654073537fe7e?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6945cfb7d1953b5d11bed585?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6945cd38d1953b5d11becb0b?utm_campaign=1065&utm_source=git)** | Albany, NY | On Site | Dec 19 |
-| **[Authsnap Inc.](https://authsnap.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6945cca563141d18845556c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
-| **[FFH](https://endearing.ai)** | **[UGC Marketing Intern](https://jobright.ai/jobs/info/6945cc9c63141d18845556b8?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
