@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Events Paid Internship](https://jobright.ai/jobs/info/6946fa807d506e3808f24e96?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
+| **[Unstuck Engine](https://primeclass.ai)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6946f6be7d506e3808f24c1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (LA & Dallas) Winter 2026](https://jobright.ai/jobs/info/6946e7207d506e3808f245c0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[AI SW Marketing Intern](https://jobright.ai/jobs/info/6946db837d506e3808f23da7?utm_campaign=1065&utm_source=git)** | Rancho Cordova, CA | On Site | Dec 20 |
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Digital Operations Internship – Spring 2026](https://jobright.ai/jobs/info/6946d1547d506e3808f223b4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Marketing Intern - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6946cd8c63141d1884567ff8?utm_campaign=1065&utm_source=git)** | Gloucester, MA | On Site | Dec 20 |
@@ -102,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[IPG](http://www.itape.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69466e0dd1953b5d11bfa621?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Dec 20 |
 | **[Agital](https://agital.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69466d6163141d1884563685?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69465cda7d506e3808f1b84b?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Dec 20 |
-| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/69464f9f7d506e3808f1ad3e?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
 | **[CoPatible](https://copatible.com)** | **[Brand Ambassador Intern (Community & Growth)](https://jobright.ai/jobs/info/69463d157d506e3808f1a028?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[SEO and App Store Optimization Intern](https://jobright.ai/jobs/info/694638de63141d188455f6f8?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 19 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/6946300163141d188455f1fa?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Dec 19 |
@@ -118,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[UBRI Intern, Ripple Impact (Summer 2026)](https://jobright.ai/jobs/info/694612bb63141d188455c182?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[AI Marketing Internship](https://jobright.ai/jobs/info/694604737d506e3808f1558d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/694603d963141d188455ad88?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| **[SYC](www.syccase.co.uk)** | **[Internship - Paid Search & Social](https://jobright.ai/jobs/info/694602f17d506e3808f15222?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/694602d863141d188455ab62?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | Hybrid | Dec 19 |
 | ↳ | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/694600ea7d506e3808f14ccc?utm_campaign=1065&utm_source=git)** | 1381 Old Mill Circle Suite 200 | Hybrid | Dec 19 |
 | ↳ | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6945d7b263141d1884557862?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Shan Potts Law Offices](https://shanpottslaw.com)** | **[Marketing Internship Program – Shan Potts Law Offices (Spring Cohort)](https://jobright.ai/jobs/info/6945d56b63141d188455773d?utm_campaign=1065&utm_source=git)** | Glendale, CA | Hybrid | Dec 19 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Internal Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6945d54563141d188455772f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[Rocket Mortgage](https://www.rocketmortgage.com)** | **[Knowledge Management Intern - Summer 2026](https://jobright.ai/jobs/info/6945d174951654073537fe7e?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[Rock Events](https://rockevents.com/)** | **[Event Venues Intern - Summer 2026](https://jobright.ai/jobs/info/6945cfb7d1953b5d11bed585?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
