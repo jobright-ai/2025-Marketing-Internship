@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FiPet](https://www.linkedin.com/company/107127420)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6947197fd1953b5d11c0414e?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
+| **[Atlanta Hustle](https://www.watchufa.com/hustle)** | **[Marketing Intern](https://jobright.ai/jobs/info/69470f07d1953b5d11c03ce7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
+| **[BlackBerry](https://www.blackberry.com)** | **[Marketing Student - 4 Month Summer Term](https://jobright.ai/jobs/info/694701497d506e3808f253ea?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 20 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Events Paid Internship](https://jobright.ai/jobs/info/6946fa807d506e3808f24e96?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[AI Marketing Intern](https://jobright.ai/jobs/info/6946f6be7d506e3808f24c1c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Atria Wealth Solutions](https://www.atriawealth.com/)** | **[2026 Summer Internship- Advisor Marketing](https://jobright.ai/jobs/info/69466bfbd1953b5d11bfa53c?utm_campaign=1065&utm_source=git)** | Fort Mill, SC | Hybrid | Dec 20 |
 | **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68b9f5a38043103d4f21c51c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Product Marketing Intern- Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694668287d506e3808f1ce7d?utm_campaign=1065&utm_source=git)** | Georgia, United States | On Site | Dec 20 |
 | **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Marketing & Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/68fda9430ab3b222462a3e19?utm_campaign=1065&utm_source=git)** | Middlesex County, NJ | Hybrid | Dec 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Marketing Manager Intern (TikTok Shop Product Marketing) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68c7b544c008cf3402c8f06f?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 20 |
 | **[Agital](https://agital.com)** | **[SEO Intern](https://jobright.ai/jobs/info/69466e42d1953b5d11bfa62d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Jenner & Block](http://jenner.com/)** | **[Client Development & Strategic Growth Intern](https://jobright.ai/jobs/info/6945e33763141d18845581b6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[2026 BMCC, Summer Brand Marketing Intern (4 Months)](https://jobright.ai/jobs/info/6945d8fb95165407353809da?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 19 |
 | **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6945d7b263141d1884557862?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| **[Shan Potts Law Offices](https://shanpottslaw.com)** | **[Marketing Internship Program – Shan Potts Law Offices (Spring Cohort)](https://jobright.ai/jobs/info/6945d56b63141d188455773d?utm_campaign=1065&utm_source=git)** | Glendale, CA | Hybrid | Dec 19 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Internal Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6945d54563141d188455772f?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
