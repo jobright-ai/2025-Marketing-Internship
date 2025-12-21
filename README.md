@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Buyer/Merchandising Internship – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/694751997d506e3808f2a36e?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6947197fd1953b5d11c0414e?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Atlanta Hustle](https://www.watchufa.com/hustle)** | **[Marketing Intern](https://jobright.ai/jobs/info/69470f07d1953b5d11c03ce7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
 | **[BlackBerry](https://www.blackberry.com)** | **[Marketing Student - 4 Month Summer Term](https://jobright.ai/jobs/info/694701497d506e3808f253ea?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 20 |
@@ -68,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Reach Records](https://www.reachrecords.com)** | **[Reach Records Digital Operations Internship – Spring 2026](https://jobright.ai/jobs/info/6946d1547d506e3808f223b4?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer Product Marketing Intern - BS or MS (Gloucester, MA)](https://jobright.ai/jobs/info/6946cd8c63141d1884567ff8?utm_campaign=1065&utm_source=git)** | Gloucester, MA | On Site | Dec 20 |
 | **[Estes Energetics](https://estesenergetics.com)** | **[Social Media and Digital Marketing Intern](https://jobright.ai/jobs/info/6946c2457d506e3808f21e65?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 20 |
-| **[Tribal App](https://thetribalapp.com)** | **[Influencer Social Media Intern](https://jobright.ai/jobs/info/6946c21163141d188456790c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Social Media & Marketing Intern](https://jobright.ai/jobs/info/6946c1d263141d18845678b6?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Dec 20 |
 | **[QUASAR](https://quasarrealestate.com)** | **[Investor Relations Intern (Marketing)](https://jobright.ai/jobs/info/6946c1cd63141d18845678b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Inspire](https://inspirebrands.com)** | **[Investor Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6946b9c963141d18845676e9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Ripple](http://ripple.com)** | **[UBRI Intern, Ripple Impact (Summer 2026)](https://jobright.ai/jobs/info/69461434d1953b5d11bf342c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Dec 19 |
 | **[UPMC](https://www.upmc.com/)** | **[UPMC Public Relations Summer Intern](https://jobright.ai/jobs/info/6946139463141d188455c1c0?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | Hybrid | Dec 19 |
 | **[Ripple](http://ripple.com)** | **[UBRI Intern, Ripple Impact (Summer 2026)](https://jobright.ai/jobs/info/694612bb63141d188455c182?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
-| **[Unstuck Engine](https://primeclass.ai)** | **[AI Marketing Internship](https://jobright.ai/jobs/info/694604737d506e3808f1558d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 19 |
 | **[Dalio Family Office](https://www.linkedin.com/company/76168755)** | **[Communications Summer Intern](https://jobright.ai/jobs/info/694603d963141d188455ad88?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 | **[Lowes Foods](http://www.lowesfoods.com/)** | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/694602d863141d188455ab62?utm_campaign=1065&utm_source=git)** | US-NC-Winston Salem | Hybrid | Dec 19 |
 | ↳ | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/694600ea7d506e3808f14ccc?utm_campaign=1065&utm_source=git)** | 1381 Old Mill Circle Suite 200 | Hybrid | Dec 19 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[Jenner & Block](http://jenner.com/)** | **[Client Development & Strategic Growth Intern](https://jobright.ai/jobs/info/6945e33763141d18845581b6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
 | **[RBC](https://www.rbc.com)** | **[2026 BMCC, Summer Brand Marketing Intern (4 Months)](https://jobright.ai/jobs/info/6945d8fb95165407353809da?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 19 |
+| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6945d7b263141d1884557862?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
