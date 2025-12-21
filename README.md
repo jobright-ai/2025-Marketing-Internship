@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694780d0d1953b5d11c090f3?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 20 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f3d63141d188457172b?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[QUASAR](https://quasarrealestate.com)** | **[Investor Relations Intern (Marketing)](https://jobright.ai/jobs/info/6946c1cd63141d18845678b5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Inspire](https://inspirebrands.com)** | **[Investor Relations Intern - Summer 2026](https://jobright.ai/jobs/info/6946b9c963141d18845676e9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 20 |
 | **[M/I Homes, Inc.](http://www.mihomes.com/)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6881d6e141fbda106ee6da2f?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Dec 20 |
-| **[CoPatible](https://copatible.com)** | **[Growth Intern (Community & Early Growth)](https://jobright.ai/jobs/info/6946b33863141d18845670fb?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Dec 20 |
 | **[Oakland University](http://www.oakland.edu)** | **[Summer Student Communication Internship for Baby PEACE (Fixed-term)](https://jobright.ai/jobs/info/6848d90f6a6fdb0f9e5a7c08?utm_campaign=1065&utm_source=git)** | Rochester, MI | On Site | Dec 20 |
 | **[Uline](http://www.uline.com)** | **[Product Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/68efdd4c9821486c423c7c9c?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 20 |
 | **[Brightly Software](https://www.brightlysoftware.com)** | **[Marketing Operations Intern,  2026](https://jobright.ai/jobs/info/6929cd46fa28370be26953c9?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
@@ -113,9 +115,7 @@ For a complete list, click the following sortable link below:
 | **[IPG](http://www.itape.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69466e0dd1953b5d11bfa621?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Dec 20 |
 | **[Agital](https://agital.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69466d6163141d1884563685?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69465cda7d506e3808f1b84b?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Dec 20 |
-| **[CoPatible](https://copatible.com)** | **[Brand Ambassador Intern (Community & Growth)](https://jobright.ai/jobs/info/69463d157d506e3808f1a028?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/6946300163141d188455f1fa?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Dec 19 |
-| **[CoPatible](https://copatible.com)** | **[Event Coordinator Intern (San Francisco)](https://jobright.ai/jobs/info/69462f677d506e3808f19806?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 19 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6946239363141d188455cf90?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Dec 19 |
 | **[Illumio](http://www.illumio.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69461f68d1953b5d11bf3c3d?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Dec 19 |
 | **[Wagner Spray Tech](https://www.wagnerspraytech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69461f44d1953b5d11bf3c25?utm_campaign=1065&utm_source=git)** | Plymouth, MN | On Site | Dec 19 |
