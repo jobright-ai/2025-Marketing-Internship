@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Media Strategy & Analytics Intern](https://jobright.ai/jobs/info/6947bf907d506e3808f322ed?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
+| **[REMAX](http://remax.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6947bc5263141d1884578075?utm_campaign=1065&utm_source=git)** | Spring Lake, MI | On Site | Dec 21 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947bb477d506e3808f31552?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947ba30d1953b5d11c0e2c1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69478aaa63141d1884572e8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694780d0d1953b5d11c090f3?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 20 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f3d63141d188457172b?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Campaign Revenue Intern / Spring 2026](https://jobright.ai/jobs/info/6945e1007d506e3808f12645?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 19 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Workplace Support Ambassador Intern - Summer 2026](https://jobright.ai/jobs/info/6945de8563141d1884557dec?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Multimedia Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/6945de7e63141d1884557de2?utm_campaign=1065&utm_source=git)** | Clearwater, Florida | Hybrid | Dec 19 |
-| **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Ashro Lifestyle Brand Marketing Internship](https://jobright.ai/jobs/info/6947300963141d188456ddda?utm_campaign=1065&utm_source=git)** | Monroe, WI | On Site | Dec 19 |
-| **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 19 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[RBC](https://www.rbc.com)** | **[2026 BMCC, Summer Brand Marketing Intern (4 Months)](https://jobright.ai/jobs/info/6945d8fb95165407353809da?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
