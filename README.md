@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/694843d663141d188457f2a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694823b1d1953b5d11c13596?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69482304d1953b5d11c13581?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6948229f63141d188457cdef?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 21 |
-| **[everydate](https://www.shopeverydate.com/)** | **[Social Media & Content Creator Intern](https://jobright.ai/jobs/info/69481c0a63141d188457c92f?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 21 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69481a597d506e3808f35fad?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 21 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69481a597d506e3808f35fad?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 21 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6948186fd1953b5d11c13088?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 21 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690e33a744146d3b6ec51dfd?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 21 |
 | **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/6937c87ba0dde7020e307f18?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 21 |
@@ -82,13 +82,12 @@ For a complete list, click the following sortable link below:
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Marketing Intern (Spring / Summer 2026)](https://jobright.ai/jobs/info/68f1a69df462172a5a7dae61?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 21 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Product Marketing Intern](https://jobright.ai/jobs/info/6933a213a0dde7020e2efdbb?utm_campaign=1065&utm_source=git)** | Racine County, WI | On Site | Dec 21 |
 | **[REMAX](http://remax.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6947bc5263141d1884578075?utm_campaign=1065&utm_source=git)** | Spring Lake, MI | On Site | Dec 21 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947bb477d506e3808f31552?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947ba30d1953b5d11c0e2c1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69478aaa63141d1884572e8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947b92c7d506e3808f30e24?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
-| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f507d506e3808f2b522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f607d506e3808f2b528?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Events Paid Internship](https://jobright.ai/jobs/info/694755d763141d1884570923?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship - eCommerce Merchandising](https://jobright.ai/jobs/info/6945ffec7d506e3808f14a43?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC | On Site | Dec 19 |
 | **[BJU Press](https://www.bjupress.com/page/Home)** | **[Marketing Project Intern](https://jobright.ai/jobs/info/69461a9ed1953b5d11bf3736?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Dec 19 |
 | **[CSL](https://www.csl.com)** | **[Marketing Summer Internship – 10 Weeks HAE](https://jobright.ai/jobs/info/6945fb45d1953b5d11bf0a18?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Dec 19 |
+| **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Multimedia Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/6945fabad1953b5d11bf089d?utm_campaign=1065&utm_source=git)** | Clearwater, FL | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
