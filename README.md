@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f3d63141d188457172b?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
+| **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Events Paid Internship](https://jobright.ai/jobs/info/694755d763141d1884570923?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
 | **[Ace Hardware Corporation](http://www.acehardware.com/)** | **[Buyer/Merchandising Internship – Summer 2026, Full Time/Paid/12 Weeks](https://jobright.ai/jobs/info/694751997d506e3808f2a36e?utm_campaign=1065&utm_source=git)** | Oak Brook, IL | On Site | Dec 20 |
 | **[FiPet](https://www.linkedin.com/company/107127420)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6947197fd1953b5d11c0414e?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[Atlanta Hustle](https://www.watchufa.com/hustle)** | **[Marketing Intern](https://jobright.ai/jobs/info/69470f07d1953b5d11c03ce7?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 20 |
@@ -109,7 +114,6 @@ For a complete list, click the following sortable link below:
 | **[Agital](https://agital.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69466d6163141d1884563685?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69465cda7d506e3808f1b84b?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Dec 20 |
 | **[CoPatible](https://copatible.com)** | **[Brand Ambassador Intern (Community & Growth)](https://jobright.ai/jobs/info/69463d157d506e3808f1a028?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 19 |
-| **[Escape™ App AI](https://www.escapeapp.ai)** | **[SEO and App Store Optimization Intern](https://jobright.ai/jobs/info/694638de63141d188455f6f8?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 19 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/6946300163141d188455f1fa?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Dec 19 |
 | **[CoPatible](https://copatible.com)** | **[Event Coordinator Intern (San Francisco)](https://jobright.ai/jobs/info/69462f677d506e3808f19806?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | On Site | Dec 19 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6946239363141d188455cf90?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Dec 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Social Media Multimedia Specialist Intern (Hybrid)](https://jobright.ai/jobs/info/6945de7e63141d1884557de2?utm_campaign=1065&utm_source=git)** | Clearwater, Florida | Hybrid | Dec 19 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Ashro Lifestyle Brand Marketing Internship](https://jobright.ai/jobs/info/6947300963141d188456ddda?utm_campaign=1065&utm_source=git)** | Monroe, WI | On Site | Dec 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6945dc3f63141d1884557b60?utm_campaign=1065&utm_source=git)** | Chelmsford, MA | Hybrid | Dec 19 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Copywriting Intern - Summer 2026](https://jobright.ai/jobs/info/6945dc1563141d1884557b34?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 19 |
-| **[Jenner & Block](http://jenner.com/)** | **[Client Development & Strategic Growth Intern](https://jobright.ai/jobs/info/6945e33763141d18845581b6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 19 |
-| **[RBC](https://www.rbc.com)** | **[2026 BMCC, Summer Brand Marketing Intern (4 Months)](https://jobright.ai/jobs/info/6945d8fb95165407353809da?utm_campaign=1065&utm_source=git)** | TORONTO, Ontario, Canada | On Site | Dec 19 |
-| **[New York State Insurance Fund (NYSIF)](https://ww3.nysif.com/)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6945d7b263141d1884557862?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
