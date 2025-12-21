@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690e33a744146d3b6ec51dfd?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 21 |
+| **[CN](http://www.cn.ca)** | **[Intern, Corporate Communications- EN](https://jobright.ai/jobs/info/6937c87ba0dde7020e307f18?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 21 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern - Myrtle Beach North](https://jobright.ai/jobs/info/68b8f3c2ea901c0d269faff9?utm_campaign=1065&utm_source=git)** | Myrtle Beach, SC | On Site | Dec 21 |
 | **[Honeywell](http://www.honeywell.com)** | **[Intern (Master's) Marketing - Process Technology](https://jobright.ai/jobs/info/690e67ed221b890c2780da0f?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Dec 21 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital -Marketing  Intern](https://jobright.ai/jobs/info/6947f2dd7d506e3808f34e0d?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 21 |
@@ -80,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69478aaa63141d1884572e8d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 20 |
 | **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f9463141d1884571746?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f3d63141d188457172b?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
@@ -115,6 +117,8 @@ For a complete list, click the following sortable link below:
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68cd191ae23def7af55b5338?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 20 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Marketing Intern: Spring](https://jobright.ai/jobs/info/694734667d506e3808f27dcb?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 20 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Intern Marketing](https://jobright.ai/jobs/info/68d6074d63d77d6f6f3f3dcc?utm_campaign=1065&utm_source=git)** | Woburn, MA | On Site | Dec 20 |
+| **[Jenner & Block](http://jenner.com/)** | **[Client Development & Strategic Growth Intern](https://jobright.ai/jobs/info/6945e33763141d18845581b6?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 20 |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Social Media Intern - TikTok Content Production](https://jobright.ai/jobs/info/694572cbd1953b5d11be669c?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 20 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Marketing Intern - Baltimore](https://jobright.ai/jobs/info/69317c4dfa28370be26bc0e8?utm_campaign=1065&utm_source=git)** | Halethorpe, MD | On Site | Dec 20 |
 | **[PIM Brands](https://pimbrands.com)** | **[Omni Marketing Intern](https://jobright.ai/jobs/info/693a481048a8ce22990e42d2?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Dec 20 |
 | **[Oatey Company](https://www.oatey.com//)** | **[Digital Marketing & AI Intern](https://jobright.ai/jobs/info/68b8438aea901c0d269f4fd9?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CSL](https://www.csl.com)** | **[Marketing Summer Internship – 10 Weeks Direct-to-Consumer](https://jobright.ai/jobs/info/6945f89f7d506e3808f13992?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Dec 19 |
 | **[Quest Diagnostics](https://www.questdiagnostics.com/)** | **[Intern, Public Health Operations](https://jobright.ai/jobs/info/694647a1d1953b5d11bf6edc?utm_campaign=1065&utm_source=git)** | Secaucus, NJ | On Site | Dec 19 |
 | **[CSL](https://www.csl.com)** | **[Marketing Summer Internship – 10 Weeks Hizentra](https://jobright.ai/jobs/info/6945f7b07d506e3808f13758?utm_campaign=1065&utm_source=git)** | King of Prussia, PA | On Site | Dec 19 |
-| **[Valley Bank](https://www.valley.com/)** | **[Intern - Marketing & Digital Analytics](https://jobright.ai/jobs/info/6945f442d1953b5d11befd49?utm_campaign=1065&utm_source=git)** | Morristown, NJ | On Site | Dec 19 |
-| **[Clayton](http://www.claytonhomes.com/)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6945f0057d506e3808f1319b?utm_campaign=1065&utm_source=git)** | Maryville, TN | On Site | Dec 19 |
-| **[Zynga](http://www.zynga.com)** | **[Ad Sales Research Intern](https://jobright.ai/jobs/info/6945efe2d1953b5d11befb61?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 19 |
-| **[Petmate](http://www.petmate.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69460d4863141d188455bbfe?utm_campaign=1065&utm_source=git)** | Arlington, TX, US | On Site | Dec 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
