@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SilkCut Underwear](https://silkcutunderwear.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6948811963141d1884582754?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Dec 21 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 21 |
 | **[Futridge](https://www.linkedin.com/company/101638417)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/694843d663141d188457f2a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 21 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694823b1d1953b5d11c13596?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 21 |
@@ -83,12 +84,12 @@ For a complete list, click the following sortable link below:
 | **[Dyno Nobel](http://www.dynonobel.com)** | **[Marketing Intern (Spring / Summer 2026)](https://jobright.ai/jobs/info/68f1a69df462172a5a7dae61?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Dec 21 |
 | **[CNH](http://www.cnhindustrial.com)** | **[Digital Product Marketing Intern](https://jobright.ai/jobs/info/6933a213a0dde7020e2efdbb?utm_campaign=1065&utm_source=git)** | Racine County, WI | On Site | Dec 21 |
 | **[REMAX](http://remax.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6947bc5263141d1884578075?utm_campaign=1065&utm_source=git)** | Spring Lake, MI | On Site | Dec 21 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947bb477d506e3808f31552?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947ba30d1953b5d11c0e2c1?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 21 |
-| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
-| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f9463141d1884571746?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
-| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f3d63141d188457172b?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6947b92c7d506e3808f30e24?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 21 |
+| **[WME | William Morris Endeavor](https://www.wmeagency.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947797363141d1884571fe4?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69477973d1953b5d11c08b72?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476ff3d1953b5d11c08378?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Dec 20 |
+| ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/69476f507d506e3808f2b522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Dec 20 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/6947618e63141d1884570ccd?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Dec 20 |
 | ↳ | **[Intern, Brand Partnerships](https://jobright.ai/jobs/info/694761617d506e3808f2abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 20 |
 | **[Pittsburgh CLO](https://www.pittsburghclo.org)** | **[Events Paid Internship](https://jobright.ai/jobs/info/694755d763141d1884570923?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 20 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Email Marketing Intern](https://jobright.ai/jobs/info/69466e3bd1953b5d11bfa62c?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
 | **[IPG](http://www.itape.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/69466e0dd1953b5d11bfa621?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Dec 20 |
 | **[Agital](https://agital.com)** | **[Copywriting Intern](https://jobright.ai/jobs/info/69466d6163141d1884563685?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Dec 20 |
-| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69465cda7d506e3808f1b84b?utm_campaign=1065&utm_source=git)** | Guilford, CT | On Site | Dec 20 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Growth Intern](https://jobright.ai/jobs/info/6946300163141d188455f1fa?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Dec 19 |
 | **[Hikaflow (FU-W25)](hikaflow.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6946239363141d188455cf90?utm_campaign=1065&utm_source=git)** | Lexington, MA | On Site | Dec 19 |
 | **[Illumio](http://www.illumio.com)** | **[Community Marketing Intern](https://jobright.ai/jobs/info/69461f68d1953b5d11bf3c3d?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA | On Site | Dec 19 |
