@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Merchandising](https://jobright.ai/jobs/info/694b44fd1224705e90026ee3?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital - Marketing- Intern](https://jobright.ai/jobs/info/694b3b334b53a1551f94f9f1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 23 |
+| **[Balance Now](https://www.balance.ca)** | **[Insight Marketing Coordinator](https://jobright.ai/jobs/info/694b39151224705e90025094?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
+| **[American Greetings](http://americangreetings.com)** | **[Creative Marketing Intern (Hybrid) - Summer 2026](https://jobright.ai/jobs/info/694b352a1224705e90024ec8?utm_campaign=1065&utm_source=git)** | Westlake, OH | Hybrid | Dec 23 |
+| **[Vent Now](https://www.ventnow.ai/)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/694b32a94b53a1551f94ece0?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
+| **[Chubb](https://www.chubb.com/us-en)** | **[Intern-Marketing & Communications, Healthy Paws](https://jobright.ai/jobs/info/694b32a03019f50a4fe63f1c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Dec 23 |
+| **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/694b329e4b53a1551f94ecdb?utm_campaign=1065&utm_source=git)** | Springfield, OH | On Site | Dec 23 |
+| **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Marketing MBA](https://jobright.ai/jobs/info/694b2e093019f50a4fe63db1?utm_campaign=1065&utm_source=git)** | Newton, MA | On Site | Dec 23 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Public Relations Specialist](https://jobright.ai/jobs/info/694b26ea3019f50a4fe63a0d?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Dec 23 |
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b24bf4b53a1551f94e6a5?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
 | **[United Therapeutics Corporation](http://www.unither.com)** | **[Intern/Advanced Intern - Market Access](https://jobright.ai/jobs/info/694b22464b53a1551f94e55a?utm_campaign=1065&utm_source=git)** | Triangle Area | On Site | Dec 23 |
@@ -70,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[National Heritage Academies](https://www.nhaschools.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b10d61224705e900227a5?utm_campaign=1065&utm_source=git)** | 3850 Broadmoor Ave SE, Grand Rapids, MI, 49512, US | On Site | Dec 23 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/694af61a3019f50a4fe6002d?utm_campaign=1065&utm_source=git)** | Greenville,SC,US | On Site | Dec 23 |
 | **[Unstuck Engine](https://primeclass.ai)** | **[Growth Marketing Internship](https://jobright.ai/jobs/info/694b0a3567a69734cac61a43?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
-| **[Delinea](https://delinea.com)** | **[Content Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/694b09933019f50a4fe60fa2?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Undergraduate Intern Summer 2026 - Merchandising](https://jobright.ai/jobs/info/694b093a3019f50a4fe60f7b?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
+| **[SynergenX Health](https://synergenxhealth.com)** | **[Communication & Copywriting Intern (Paid Internship)](https://jobright.ai/jobs/info/694b08e51224705e90021cc0?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[Agemark Senior Living](https://www.agemark.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/694b2a094b53a1551f94e9ba?utm_campaign=1065&utm_source=git)** | Omaha, NE | Hybrid | Dec 23 |
 | **[Brown County Convention and Visitors Bureau](http://browncounty.com)** | **[Content Assistant](https://jobright.ai/jobs/info/694b24614b53a1551f94e665?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[IEEE](http://www.ieee.org)** | **[Summer Intern – Digital Marketing, Educational Activities](https://jobright.ai/jobs/info/694b04fa3019f50a4fe60c0f?utm_campaign=1065&utm_source=git)** | Piscataway, NJ | On Site | Dec 23 |
@@ -86,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Hy-Vee, Inc.](https://www.hy-vee.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/694af7463019f50a4fe6011a?utm_campaign=1065&utm_source=git)** | Grimes, IA | Hybrid | Dec 23 |
 | **[Taylor Corporation](https://www.taylor.com/)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/694b186c3019f50a4fe62d47?utm_campaign=1065&utm_source=git)** | North Mankato, MN - Navitor, Inc. | On Site | Dec 23 |
 | **[Lima One Capital](https://www.limaone.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/694b18954b53a1551f94d428?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Dec 23 |
-| **[SynergenX Health](https://synergenxhealth.com)** | **[Communication & Copywriting Intern (Paid Internship)](https://jobright.ai/jobs/info/694af56f3019f50a4fe5ffa5?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 23 |
 | **[Oil-Dri Corporation of America](http://oildri.com)** | **[Division III Marketing Intern (Summer)](https://jobright.ai/jobs/info/694af5413019f50a4fe5ff7f?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 23 |
 | **[Neurocrine Biosciences](http://www.neurocrine.com)** | **[Omnichannel Marketing Intern](https://jobright.ai/jobs/info/694b17aa1224705e90023591?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
 | ↳ | **[Brand & Field Medical Marketing Intern – Patient Initiatives](https://jobright.ai/jobs/info/694b12f94b53a1551f94c809?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 23 |
@@ -117,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[People's Voice](www.PeoplesVoice.media)** | **[News & Social Media Marketing Intern](https://jobright.ai/jobs/info/694ac9e967a69734cac5e46e?utm_campaign=1065&utm_source=git)** | North Miami Beach, FL | Hybrid | Dec 23 |
 | **[Families4Families](https://families4families.org/)** | **[Spring Social Media Internship](https://jobright.ai/jobs/info/694ac75667a69734cac5dc8b?utm_campaign=1065&utm_source=git)** | Bethesda, MD | Hybrid | Dec 23 |
 | **[Zebra Technologies](https://www.zebra.com)** | **[2026 Summer Internship (US) - Social Media Communications / PR](https://jobright.ai/jobs/info/694ac3183019f50a4fe5d069?utm_campaign=1065&utm_source=git)** | Lincolnshire, IL | Hybrid | Dec 23 |
-| **[The Cochran Firm New York](www.cochranfirmny.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694ae1e31224705e900203be?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 23 |
 | **[City of Lubbock](https://ci.lubbock.tx.us)** | **[Communications & Public Engagement Intern](https://jobright.ai/jobs/info/694ac05b67a69734cac5d9fd?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Dec 23 |
 | **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/694ab90d1224705e9001d9bd?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Primrose Schools](https://www.primroseschools.com/)** | **[Primrose Partnership for Children Summer Intern](https://jobright.ai/jobs/info/694aaffd3019f50a4fe5c772?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/692e387def4b48533d13dbc9?utm_campaign=1065&utm_source=git)** | Greater Tucson Area | Hybrid | Dec 23 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e40c1ef4b48533d13dfe1?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | Dec 23 |
 | ↳ | **[Comcast Sales & Marketing Intern](https://jobright.ai/jobs/info/692e4c44fa28370be26a3447?utm_campaign=1065&utm_source=git)** | Trevose, PA | On Site | Dec 23 |
-| ↳ | **[Comcast Marketing Operations Intern](https://jobright.ai/jobs/info/692e59bc4c474121999d8ad4?utm_campaign=1065&utm_source=git)** | Tigard, OR | On Site | Dec 23 |
-| **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/692e16cffa28370be26a11bc?utm_campaign=1065&utm_source=git)** | Suffolk, VA | On Site | Dec 23 |
-| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Marketing Intern](https://jobright.ai/jobs/info/692e5ac94c474121999d8bb9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 23 |
-| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/692e188c4c474121999d6241?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 23 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Concerts, Marketing Intern](https://jobright.ai/jobs/info/692e370cfa28370be26a25cc?utm_campaign=1065&utm_source=git)** | Home, PA | Remote | Dec 23 |
-| **[Centric Brands](https://centricbrands.com)** | **[Marketing Intern – Summer 2026 Internship Program](https://jobright.ai/jobs/info/692e6d3d4c474121999d9713?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
