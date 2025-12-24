@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Communications](https://jobright.ai/jobs/info/692f9441ef4b48533d147011?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
+| **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69126a7fd1047e3565cfc632?utm_campaign=1065&utm_source=git)** | Hamel, MN | Hybrid | Dec 24 |
+| **[HP](http://www.hp.com)** | **[Imaging & Printing Product Marketing Internship](https://jobright.ai/jobs/info/693f794f49a7695fbd05354b?utm_campaign=1065&utm_source=git)** | Vancouver, WA | On Site | Dec 24 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Integrated Marketing Communications, Keys Soulcare](https://jobright.ai/jobs/info/68f6fb479a65fd3458598d2a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Project Management](https://jobright.ai/jobs/info/6937cb961c1c2161c13f99f6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
 | **[Amazon](https://amazon.com)** | **[Marketing Intern (Undergraduate Level), Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694bb65c1a572a617dde03a7?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 24 |
 | **[Royal Caribbean Group](https://www.royalcaribbeangroup.com)** | **[Intern FT](https://jobright.ai/jobs/info/694bb404d64ebf28d821640f?utm_campaign=1065&utm_source=git)** | Shanghai, VA | On Site | Dec 24 |
 | **[Precision Drilling](http://www.precisiondrilling.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb2b11a572a617dde01e8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 24 |
@@ -66,7 +71,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/694ba2fdd64ebf28d8215de8?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Dec 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/694ba0fdd64ebf28d8215d3d?utm_campaign=1065&utm_source=git)** | Landover, MD | On Site | Dec 24 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/694b9f8bd64ebf28d8215cc4?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 24 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Matchday Communications Internship](https://jobright.ai/jobs/info/694b9ea3d64ebf28d8215c72?utm_campaign=1065&utm_source=git)** | 1 Black and Gold Boulevard, Columbus, OH, USA | On Site | Dec 24 |
 | **[Design Ready Controls](http://designreadycontrols.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb41c1a572a617dde0221?utm_campaign=1065&utm_source=git)** | Champlin, MN | On Site | Dec 23 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb6a95d73121134703863?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb5705d731211347037b0?utm_campaign=1065&utm_source=git)** | Fort Washington, MD | On Site | Dec 23 |
@@ -77,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[Amazon](https://amazon.com)** | **[Marketing Intern (Undergraduate Level), Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694b7bdb1a572a617ddddd71?utm_campaign=1065&utm_source=git)** | Culver City, California, USA | On Site | Dec 23 |
 | **[uInterview, Inc.](http://uinterview.com)** | **[Writing & Social Media Intern](https://jobright.ai/jobs/info/694b6aa6d64ebf28d8212233?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[GenPark](https://genpark.ai)** | **[Marketing Project Intern](https://jobright.ai/jobs/info/694b80dcd64ebf28d8214b5e?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 23 |
-| **[Ever Lasting Fabric](https://everlastingfabric.com/)** | **[Content & SEO Intern](https://jobright.ai/jobs/info/694b8310d64ebf28d8214bd5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[Tactile Medical](https://tactilemedical.com)** | **[Patient Experience Marketing Intern](https://jobright.ai/jobs/info/694b8117d64ebf28d8214b6e?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | Hybrid | Dec 23 |
 | **[Andersen Corporation](https://www.andersenwindows.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6940cc54aa598a08c3f066d1?utm_campaign=1065&utm_source=git)** | Cottage Grove, MN | On Site | Dec 23 |
 | **[Silver Sentinel](https://www.linkedin.com/company/108054754)** | **[Marketing & Public Relations Intern Position](https://jobright.ai/jobs/info/694b5c201a572a617dddaf11?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/694b476a3019f50a4fe66232?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b46f44b53a1551f950f5d?utm_campaign=1065&utm_source=git)** | Remote (Greater Landover, Maryland, US) | Remote | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Merchandising](https://jobright.ai/jobs/info/694b44fd1224705e90026ee3?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Fall 2026](https://jobright.ai/jobs/info/694b5e345d731211346fe4d9?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Doll Distributing](https://www.dolldistributing.com)** | **[Marketing Intern - DSM](https://jobright.ai/jobs/info/694b6b0c1a572a617dddb9b8?utm_campaign=1065&utm_source=git)** | IA Des Moines - Des Moines, IA 50316 | On Site | Dec 23 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital - Marketing- Intern](https://jobright.ai/jobs/info/694b3b334b53a1551f94f9f1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 23 |
 | **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Intern Social Media & Communications](https://jobright.ai/jobs/info/694b5c2d5d731211346fe3a0?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Dec 23 |
@@ -103,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Chubb](https://www.chubb.com/us-en)** | **[Intern-Marketing & Communications, Healthy Paws](https://jobright.ai/jobs/info/694b32a03019f50a4fe63f1c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA | On Site | Dec 23 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/694b329e4b53a1551f94ecdb?utm_campaign=1065&utm_source=git)** | Springfield, OH | On Site | Dec 23 |
 | **[Community Health Center of Southeast Kansas](https://chcsek.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/694b68f75d731211346ff45b?utm_campaign=1065&utm_source=git)** | Pittsburg,KS,US | On Site | Dec 23 |
+| **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Fall 2026](https://jobright.ai/jobs/info/694b4bfb1224705e9002733d?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Marketing MBA](https://jobright.ai/jobs/info/694b2e093019f50a4fe63db1?utm_campaign=1065&utm_source=git)** | Newton, MA | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b6931d64ebf28d8212143?utm_campaign=1065&utm_source=git)** | Remote (Fort Washington, Maryland, US) | Remote | Dec 23 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/694b5f2e5d731211346fe57e?utm_campaign=1065&utm_source=git)** | Remote (Washington, District of Columbia, US) | Remote | Dec 23 |
@@ -144,6 +147,7 @@ For a complete list, click the following sortable link below:
 | **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Communications Strategy](https://jobright.ai/jobs/info/694b14e51224705e90022f83?utm_campaign=1065&utm_source=git)** | Lincoln, NE | Remote | Dec 23 |
 | **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/694b1aad4b53a1551f94d922?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 23 |
 | **[Allied Sports](https://alliedsports.com)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/691f2b65a49a885af9a2cb6f?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 23 |
+| **[Delinea](https://delinea.com)** | **[Customer Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/694b13ea1224705e90022d9e?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 23 |
 | **[Wireside Communications®](http://www.wireside.com)** | **[PR & Marketing Intern](https://jobright.ai/jobs/info/694af1b83019f50a4fe5fcee?utm_campaign=1065&utm_source=git)** | Richmond, Virginia, United States | Hybrid | Dec 23 |
 | **[Tencent](https://www.tencent.com/)** | **[Tencent America, Communications Intern](https://jobright.ai/jobs/info/692681b927bf2f41a2c46a06?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 23 |
 | **[Seaman Corporation](http://www.seamancorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694aeedb3019f50a4fe5fab6?utm_campaign=1065&utm_source=git)** | Wooster, OH 44691, USA | On Site | Dec 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KnowBe4](http://www.KnowBe4.com)** | **[Corporate Communications Intern (Remote)](https://jobright.ai/jobs/info/694ae96167a69734cac60276?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[DiaMedical USA](https://www.diamedicalusa.com)** | **[Paid eCommerce Marketing Intern](https://jobright.ai/jobs/info/694b116a4b53a1551f94c4d0?utm_campaign=1065&utm_source=git)** | Farmington Hills, MI 48334 | On Site | Dec 23 |
 | **[Chubb](https://www.chubb.com/us-en)** | **[Intern-Marketing & Communications, Healthy Paws](https://jobright.ai/jobs/info/694b08f51224705e90021ccc?utm_campaign=1065&utm_source=git)** | 436 Walnut Street, Philadelphia, PA, 19106, US | On Site | Dec 23 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/694ae1f73019f50a4fe5f522?utm_campaign=1065&utm_source=git)** | Commerce City, CO | On Site | Dec 23 |
-| **[RRS (Resource Recycling Systems)](https://recycle.com/)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/694add351224705e900201ad?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | Remote | Dec 23 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern - Marketing Communications Strategy](https://jobright.ai/jobs/info/694b05c867a69734cac61606?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Dec 23 |
-| **[USA for UNHCR](https://www.unrefugees.org)** | **[Intern, Communications](https://jobright.ai/jobs/info/694af9181224705e90021013?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
