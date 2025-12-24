@@ -57,9 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Communications](https://jobright.ai/jobs/info/694c26b5d64ebf28d821cfa0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[Santander Bank, N.A.](https://www.santanderbank.com)** | **[Analyst, Marketing & Internal Communications](https://jobright.ai/jobs/info/694c40171a572a617dde7711?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[AMC Networks](https://www.amcnetworks.com/)** | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/694c28f05d7312113470a5c4?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
+| ↳ | **[Summer Intern - Communications](https://jobright.ai/jobs/info/694c26b5d64ebf28d821cfa0?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | ↳ | **[Summer Intern - Communications](https://jobright.ai/jobs/info/694c25851a572a617dde6e9b?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/694c25631a572a617dde6e8e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/694c3d5f5d7312113470abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[Baker Group](http://thebakergroup.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/694c2d6bd64ebf28d821d13f?utm_campaign=1065&utm_source=git)** | Des Moines Metro | On Site | Dec 24 |
+| **[SHIP AI LABS](www.shipailabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694c2ca55d7312113470a688?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
+| **[Habits 365 Greek](https://habits365greek.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/694c2c41d64ebf28d821d0eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c198c5d7312113470894b?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Digital Marketing Intern (Influencer) - Spring Internship](https://jobright.ai/jobs/info/694c100d1a572a617dde5053?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | ↳ | **[Marketing internship](https://jobright.ai/jobs/info/694c0c5b5d73121134708581?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
@@ -98,10 +104,9 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Integrated Marketing Communications, Keys Soulcare](https://jobright.ai/jobs/info/68f6fb479a65fd3458598d2a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | **[Ekimetrics](http://www.ekimetrics.com/)** | **[6 months Internship in Strategy & Data Science / New York](https://jobright.ai/jobs/info/692f32c64c474121999dcf8b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 24 |
 | **[Precision Castparts](http://precast.com)** | **[Sales and Marketing Co-Op (Intern)](https://jobright.ai/jobs/info/68dacc256df7b8311bb12569?utm_campaign=1065&utm_source=git)** | Tukwila, WA | On Site | Dec 24 |
-| **[Arcesium](http://www.arcesium.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69127eb6c98948514c47c383?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Project Management](https://jobright.ai/jobs/info/6937cb961c1c2161c13f99f6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
-| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Social Media Influencer](https://jobright.ai/jobs/info/6912f3c2d1047e3565d00855?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
-| ↳ | **[2026 SAMI Intern - Communications, Digital Media](https://jobright.ai/jobs/info/6913174ad1047e3565d0159c?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Dec 24 |
+| **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Communications, Digital Media](https://jobright.ai/jobs/info/6913174ad1047e3565d0159c?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Dec 24 |
+| ↳ | **[2026 SAMI Intern - Social Media Influencer](https://jobright.ai/jobs/info/6912f3c2d1047e3565d00855?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | ↳ | **[2026 SAMI Intern - Mobile Growth & App Store Optimization (ASO)](https://jobright.ai/jobs/info/6912f5deea9ab01b82bf69cb?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 24 |
 | **[EDUopinions](https://www.eduopinions.com)** | **[Social Media Intern (Remote, Paid)](https://jobright.ai/jobs/info/694bdcdb5d73121134705b12?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 24 |
 | **[The Toro Company](https://www.thetorocompany.com)** | **[Market Research Analyst Intern - Ditch Witch](https://jobright.ai/jobs/info/68bd8d45e57feb02eb0abf76?utm_campaign=1065&utm_source=git)** | Noble County, OK | On Site | Dec 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Karyopharm Therapeutics Inc.](http://www.karyopharm.com)** | **[Summer Intern – Marketing MBA](https://jobright.ai/jobs/info/694b2e093019f50a4fe63db1?utm_campaign=1065&utm_source=git)** | Newton, MA | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b5f2e5d731211346fe57e?utm_campaign=1065&utm_source=git)** | Remote (Washington, District of Columbia, US) | Remote | Dec 23 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/694b6931d64ebf28d8212143?utm_campaign=1065&utm_source=git)** | Remote (Fort Washington, Maryland, US) | Remote | Dec 23 |
-| **[Leons](https://www.leonsdigital.com)** | **[Digital Marketing Co-op - Fall Intern](https://jobright.ai/jobs/info/694b5df01a572a617dddb04c?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | On Site | Dec 23 |
-| ↳ | **[Social Media Co-op - Fall Intern](https://jobright.ai/jobs/info/694b5fe85d731211346fe601?utm_campaign=1065&utm_source=git)** | CA-ON-Toronto | On Site | Dec 23 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Public Relations Specialist](https://jobright.ai/jobs/info/694b26ea3019f50a4fe63a0d?utm_campaign=1065&utm_source=git)** | Athens, GA | On Site | Dec 23 |
-| **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digital-Marketing Intern](https://jobright.ai/jobs/info/694b4a4b3019f50a4fe663f4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 23 |
-| **[National Heritage Academies](https://www.nhaschools.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b24bf4b53a1551f94e6a5?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
