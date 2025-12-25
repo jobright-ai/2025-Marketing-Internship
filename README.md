@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Susan G. Komen](http://www.komen.org)** | **[California Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6940dd01aa598a08c3f080b1?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | Dec 25 |
+| **[Swapila](https://www.swapila.com/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/694cf4fed4a7df7a06722992?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 25 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694cded729655e4dd656fea5?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 24 |
+| **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694d03d629655e4dd65712fb?utm_campaign=1065&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
 | **[Decarb Summits](https://www.decarbsummits.com/)** | **[Paid Internship](https://jobright.ai/jobs/info/694cd2bcf5bef51c96ea9f05?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Dec 24 |
 | **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/694ca77ef5bef51c96ea6570?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 24 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Dec 24 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Design Ready Controls](http://designreadycontrols.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb41c1a572a617dde0221?utm_campaign=1065&utm_source=git)** | Champlin, MN | On Site | Dec 23 |
 | **[City of Peoria, Arizona](https://www.peoriaaz.gov/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb6a95d73121134703863?utm_campaign=1065&utm_source=git)** | Peoria, AZ | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694bb5705d731211347037b0?utm_campaign=1065&utm_source=git)** | Fort Washington, MD | On Site | Dec 23 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[2026 Communications Internship](https://jobright.ai/jobs/info/694c4763d64ebf28d821dc2d?utm_campaign=1065&utm_source=git)** | 1 Black and Gold Boulevard, Columbus, OH, USA | On Site | Dec 23 |
 | **[TikTok](https://www.tiktok.com)** | **[Growth Marketing Project Intern (SMB Product - Growth) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/694b821b1a572a617dddeac5?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | ↳ | **[Growth Marketing Intern (SMB Product Growth) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/694b7f13d64ebf28d82145eb?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 23 |
 | **[RHF (Retirement Housing Foundation)](http://www.rhf.org)** | **[Communications Intern](https://jobright.ai/jobs/info/694b67d65d731211346ff384?utm_campaign=1065&utm_source=git)** | Long Beach, CA | On Site | Dec 23 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Natural Resources Defense Council (NRDC)](http://www.nrdc.org/)** | **[Summer 2026 E2 Diversity in Clean Energy Communications Intern](https://jobright.ai/jobs/info/694b6fd2d64ebf28d8212451?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 23 |
 | **[Seaman Corporation](http://www.seamancorp.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b4b613019f50a4fe664b9?utm_campaign=1065&utm_source=git)** | Wooster, OH | On Site | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - National & Global Events](https://jobright.ai/jobs/info/694b4a6a4b53a1551f951120?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 23 |
-| **[Successful Black Parenting Magazine](https://SuccessfulBlackParenting.com)** | **[Marketing and Content Intern](https://jobright.ai/jobs/info/694b49bb3019f50a4fe66390?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 23 |
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/694b476a3019f50a4fe66232?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b46f44b53a1551f950f5d?utm_campaign=1065&utm_source=git)** | Remote (Greater Landover, Maryland, US) | Remote | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Merchandising](https://jobright.ai/jobs/info/694b44fd1224705e90026ee3?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
 | **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Fall 2026](https://jobright.ai/jobs/info/694b5e345d731211346fe4d9?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
 | **[Doll Distributing](https://www.dolldistributing.com)** | **[Marketing Intern - DSM](https://jobright.ai/jobs/info/694b6b0c1a572a617dddb9b8?utm_campaign=1065&utm_source=git)** | IA Des Moines - Des Moines, IA 50316 | On Site | Dec 23 |
-| **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Intern Social Media & Communications](https://jobright.ai/jobs/info/694b5c2d5d731211346fe3a0?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
