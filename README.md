@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chapter One](https://www.startchapterone.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694c75121a572a617ddea548?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
+| **[DolFinContent](https://www.dolfincontent.com)** | **[Social Media Intern (Influencer) - Spring Internship 2026](https://jobright.ai/jobs/info/694c6ff95d7312113470da4a?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 24 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/691bac2715b4156367191791?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 24 |
+| **[Biostate AI](https://www.biostate.ai/)** | **[Digital Media & PR Intern](https://jobright.ai/jobs/info/694c67495d7312113470d859?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[AriaReply](https://ariareply.com/)** | **[GTM Intern](https://jobright.ai/jobs/info/694c5d221a572a617dde9e5e?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 24 |
 | **[Alamos Gold Inc.](http://www.alamosgold.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69375d76aabec14a727c70bb?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 24 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Intern - Consumer Insights & Analytics](https://jobright.ai/jobs/info/69246ee338cd5478a8d5a827?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 24 |
@@ -76,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[SHIP AI LABS](www.shipailabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694c2ca55d7312113470a688?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Habits 365 Greek](https://habits365greek.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/694c2c41d64ebf28d821d0eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c198c5d7312113470894b?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[Digital Marketing Intern (Influencer) - Spring Internship](https://jobright.ai/jobs/info/694c100d1a572a617dde5053?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Suria Plastic Surgery P.L.](https://suriaplasticsurgery.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694c47481a572a617dde7b41?utm_campaign=1065&utm_source=git)** | Weston, FL | Hybrid | Dec 24 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/694c0c29d64ebf28d821b05f?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Remote | Dec 24 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690e36cf221b890c2780bc28?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Dec 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Hillman Group](http://www.hillmangroup.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/694b476a3019f50a4fe66232?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Dec 23 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694b46f44b53a1551f950f5d?utm_campaign=1065&utm_source=git)** | Remote (Greater Landover, Maryland, US) | Remote | Dec 23 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Undergraduate Intern Summer 2026 - Merchandising](https://jobright.ai/jobs/info/694b44fd1224705e90026ee3?utm_campaign=1065&utm_source=git)** | Purchase, NY | Hybrid | Dec 23 |
-| **[BluWave, LP](https://www.bluwave.net/)** | **[BluWave Marketing Internship – Fall 2026](https://jobright.ai/jobs/info/694b5e345d731211346fe4d9?utm_campaign=1065&utm_source=git)** | Brentwood, TN | On Site | Dec 23 |
-| **[Doll Distributing](https://www.dolldistributing.com)** | **[Marketing Intern - DSM](https://jobright.ai/jobs/info/694b6b0c1a572a617dddb9b8?utm_campaign=1065&utm_source=git)** | IA Des Moines - Des Moines, IA 50316 | On Site | Dec 23 |
-| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Digital - Marketing- Intern](https://jobright.ai/jobs/info/694b3b334b53a1551f94f9f1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 23 |
-| **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Intern Social Media & Communications](https://jobright.ai/jobs/info/694b5c2d5d731211346fe3a0?utm_campaign=1065&utm_source=git)** | Detroit, MI | Hybrid | Dec 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
