@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DolFinContent](https://www.dolfincontent.com)** | **[Design and Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/694dac58d4a7df7a0672aeee?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
+| **[AIRE](https://growwithaire.com/)** | **[Ops & Growth Intern](https://jobright.ai/jobs/info/694d9d3fd4a7df7a06729e62?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 25 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Media Strategy & Planning Intern](https://jobright.ai/jobs/info/694d9ce0d4a7df7a06729e24?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 25 |
+| **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/694d9858f5bef51c96eb1e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
+| **[Greenwood Capital](https://greenwoodcapital.com/)** | **[Financial Marketing Intern](https://jobright.ai/jobs/info/694db17af5bef51c96eb3aa2?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
-| **[MYNDIFY](myndifyapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694d86d2f5bef51c96eb1287?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Remerge](https://remergeapp.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/694d8648d4a7df7a06728c8d?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social-Media Marketing Intern](https://jobright.ai/jobs/info/694d8fcb29655e4dd65770c4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 25 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694d616cd4a7df7a06728017?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 25 |
-| **[Number 6](https://www.linkedin.com/company/108269947)** | **[Advertising Media Planning Intern](https://jobright.ai/jobs/info/694d8f1a29655e4dd6577003?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/694d789729655e4dd6576479?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 25 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/692f97d04c474121999e0c9f?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Dec 24 |
 | **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Social Media Intern - TikTok Content Production](https://jobright.ai/jobs/info/694b163b1224705e9002324c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/692f90cf4c474121999e06ff?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 24 |
-| **[Epic Games](https://epicgames.com)** | **[Business and Marketing Strategy Intern](https://jobright.ai/jobs/info/69143b6f6f36db06ef04649f?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 24 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Marketing Intern (Golf/Sports Fields & Grounds) - The Toro Company](https://jobright.ai/jobs/info/68cf4f45dbd9fb154ede62bf?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Dec 24 |
-| **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[B Braun PA Intern](https://jobright.ai/jobs/info/693a7fe2f4e44c4d629d2b3f?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
