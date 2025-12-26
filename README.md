@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
+| **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social & Design Marketing Internship(Korean Speaking Winter-Spring))](https://jobright.ai/jobs/info/694db5e629655e4dd657976c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Dec 25 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Design and Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/694dac58d4a7df7a0672aeee?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[AIRE](https://growwithaire.com/)** | **[Ops & Growth Intern](https://jobright.ai/jobs/info/694d9d3fd4a7df7a06729e62?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 25 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Media Strategy & Planning Intern](https://jobright.ai/jobs/info/694d9ce0d4a7df7a06729e24?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 25 |
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/694d9858f5bef51c96eb1e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
-| **[Greenwood Capital](https://greenwoodcapital.com/)** | **[Financial Marketing Intern](https://jobright.ai/jobs/info/694db17af5bef51c96eb3aa2?utm_campaign=1065&utm_source=git)** | Greenville, SC | Hybrid | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
 | **[Remerge](https://remergeapp.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/694d8648d4a7df7a06728c8d?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social-Media Marketing Intern](https://jobright.ai/jobs/info/694d8fcb29655e4dd65770c4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/694647f263141d188455ff4d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Cisco](http://www.cisco.com)** | **[Amplify Marketing Specialist I (Intern) United States](https://jobright.ai/jobs/info/69302297fa28370be26af163?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/692f97d04c474121999e0c9f?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Dec 24 |
-| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Social Media Intern - TikTok Content Production](https://jobright.ai/jobs/info/694b163b1224705e9002324c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
-| **[The Sporting News](http://www.sportingnews.com)** | **[Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/692f90cf4c474121999e06ff?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
