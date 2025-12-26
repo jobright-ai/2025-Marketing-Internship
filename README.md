@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[On-Site Search Intern - Spring 2026](https://jobright.ai/jobs/info/691ae21e45fb6f5ead8ae9c4?utm_campaign=1065&utm_source=git)** | Green Bay, WI | On Site | Dec 26 |
+| **[MathWorks](http://www.mathworks.com)** | **[Dalhousie University MATLAB Student Ambassador](https://jobright.ai/jobs/info/69440266dd382f5f566a222e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
+| **[Atlassian](https://www.atlassian.com)** | **[Performance Messaging Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/6931ff4f4c474121999f56af?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Growth Marketing Project Intern (SMB Product - Growth) 2026 Start (BS/ MS)](https://jobright.ai/jobs/info/69327713a0dde7020e2e7216?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Dec 26 |
+| **[Staples](http://www.staples.com)** | **[Merchandising Intern - June 2026](https://jobright.ai/jobs/info/6914c3d66f36db06ef048bb1?utm_campaign=1065&utm_source=git)** | Framingham, MA | On Site | Dec 26 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Marketing Intern (2026)](https://jobright.ai/jobs/info/69151ebf6f36db06ef04bec1?utm_campaign=1065&utm_source=git)** | Downers Grove, IL | On Site | Dec 26 |
+| **[Mary Kay Global](https://www.marykay.com)** | **[2026 Summer Internships - Brand Marketing & Social Media](https://jobright.ai/jobs/info/6931eaa4d0010831497bce0a?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 26 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68fa0a307ab77a56387e921b?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Dec 26 |
+| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/69365999f131d96e48470e68?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 26 |
+| **[Atlassian](https://www.atlassian.com)** | **[Analyst Relations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/693260f6a0dde7020e2e6506?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
+| **[GenPark](https://genpark.ai)** | **[Project marketing intern](https://jobright.ai/jobs/info/694e5efb29655e4dd6581bf5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[Amlan International](https://us-en.amlan.com/)** | **[Division III Marketing Intern (Summer)](https://jobright.ai/jobs/info/694e577ed4a7df7a067322d8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/694e4edef5bef51c96eba123?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 26 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Brand Marketing Internship](https://jobright.ai/jobs/info/694e4b5229655e4dd657f9cd?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 26 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Public Relations Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/69450e7f50bbaf76505719dd?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 24 |
 | **[Cisco](http://www.cisco.com)** | **[Amplify Marketing Specialist I (Intern) United States](https://jobright.ai/jobs/info/692ffc07ef4b48533d149e53?utm_campaign=1065&utm_source=git)** | Triangle, NC | Remote | Dec 24 |
 | ↳ | **[Amplify Marketing Specialist I (Intern) United States](https://jobright.ai/jobs/info/692ff892ef4b48533d149d77?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Dec 24 |
-| **[Minnesota Department of Transportation](https://www.dot.state.mn.us)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/694bfd385d73121134707fb7?utm_campaign=1065&utm_source=git)** | Rochester, MN | On Site | Dec 24 |
-| **[Thornton Construction Company, Inc.](http://thornton-inc.com/)** | **[Internship (Marketing)](https://jobright.ai/jobs/info/692f56a9ef4b48533d1444cd?utm_campaign=1065&utm_source=git)** | Opa-Locka, FL | On Site | Dec 24 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026, Growth Marketing Intern - NYC](https://jobright.ai/jobs/info/692fa19c4c474121999e1390?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[AARP](http://www.aarp.org)** | **[Brand Social Media Intern](https://jobright.ai/jobs/info/692f8dc94c474121999e0563?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 24 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[Events, Field Marketing & ABM Intern - Summer 2026](https://jobright.ai/jobs/info/69125d81ea9ab01b82bf1da4?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 24 |
-| **[Endress+Hauser Group](https://ro.endress.com)** | **[2026 Summer Business/Marketing Internship](https://jobright.ai/jobs/info/691acca945fb6f5ead8addf0?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 24 |
-| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/694647f263141d188455ff4d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
-| **[Cisco](http://www.cisco.com)** | **[Amplify Marketing Specialist I (Intern) United States](https://jobright.ai/jobs/info/69302297fa28370be26af163?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 24 |
-| **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/692f97d04c474121999e0c9f?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Dec 24 |
-| **[The Sporting News](http://www.sportingnews.com)** | **[Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/692f90cf4c474121999e06ff?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 24 |
-| **[Epic Games](https://epicgames.com)** | **[Business and Marketing Strategy Intern](https://jobright.ai/jobs/info/69143b6f6f36db06ef04649f?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
