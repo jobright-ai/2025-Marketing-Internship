@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dd67bd4a7df7a0672bf65?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 25 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social & Design Marketing Internship(Korean Speaking Winter-Spring))](https://jobright.ai/jobs/info/694db5e629655e4dd657976c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Dec 25 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Design and Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/694dac58d4a7df7a0672aeee?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
@@ -66,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Her Campus BU](http://www.hercampus.com/school/bu)** | **[Campus & Influencer Marketing Intern - Spring 2026](https://jobright.ai/jobs/info/694d9858f5bef51c96eb1e48?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
 | **[Remerge](https://remergeapp.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/694d8648d4a7df7a06728c8d?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
-| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social-Media Marketing Intern](https://jobright.ai/jobs/info/694d8fcb29655e4dd65770c4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 25 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694d616cd4a7df7a06728017?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 25 |
 | **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/694d789729655e4dd6576479?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 25 |
@@ -127,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Communications](https://jobright.ai/jobs/info/694c25851a572a617dde6e9b?utm_campaign=1065&utm_source=git)** | Santa Monica, CA | On Site | Dec 24 |
 | ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/694c25631a572a617dde6e8e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
 | ↳ | **[Summer Intern - Marketing](https://jobright.ai/jobs/info/694c3d5f5d7312113470abbc?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 24 |
-| **[SHIP AI LABS](www.shipailabs.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694c2ca55d7312113470a688?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Habits 365 Greek](https://habits365greek.com)** | **[Campus Marketing Intern](https://jobright.ai/jobs/info/694c2c41d64ebf28d821d0eb?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 24 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Product Marketing Intern- Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/694d82cc29655e4dd6576ab7?utm_campaign=1065&utm_source=git)** | Georgia, United States | On Site | Dec 24 |
 | **[BMO](http://www.bmo.com)** | **[Marketing Coordinator, Summer 2026 (Co-op/Internship) - 10 Weeks](https://jobright.ai/jobs/info/694c198c5d7312113470894b?utm_campaign=1065&utm_source=git)** | Chicago, IL, USA | On Site | Dec 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/694647f263141d188455ff4d?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 24 |
 | **[Cisco](http://www.cisco.com)** | **[Amplify Marketing Specialist I (Intern) United States](https://jobright.ai/jobs/info/69302297fa28370be26af163?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 24 |
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/692f97d04c474121999e0c9f?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Dec 24 |
+| **[United Nations Population Fund (UNFPA)](http://www.unfpa.org/)** | **[Social Media Intern - TikTok Content Production](https://jobright.ai/jobs/info/694b163b1224705e9002324c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
