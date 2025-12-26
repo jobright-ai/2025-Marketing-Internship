@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/694ecc62ce13cd1056571776?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
+| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/694ec269ce13cd10565715ce?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Dec 26 |
+| **[Sauk County](https://www.co.sauk.wi.us/)** | **[Brand Marketing and Social Media Intern](https://jobright.ai/jobs/info/694ebd76ce13cd1056570c55?utm_campaign=1065&utm_source=git)** | Baraboo, WI | On Site | Dec 26 |
+| **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing and Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/694ebd54ce13cd1056570a7f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
+| **[HighKey Agency](https://highkeyagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694eb83e29655e4dd65848d2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 26 |
+| **[Ice Realm](https://icerealm.com/)** | **[Sports Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/694eb72cce13cd105656f84b?utm_campaign=1065&utm_source=git)** | Westminster, CA | On Site | Dec 26 |
 | **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/694e99cc29655e4dd6584437?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/6932e95c764507023d1b10c2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Corporate Communication Analyst](https://jobright.ai/jobs/info/69320813d0010831497be793?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | Hybrid | Dec 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbe7ef4b48533d14f466?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Dec 25 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6930d1f5ef4b48533d14fa75?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | **[Texas Instruments](http://www.ti.com)** | **[Communications Intern-Giving and Volunteering](https://jobright.ai/jobs/info/6913f5f4e344172248f756e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
-| **[Susan G. Komen](http://www.komen.org)** | **[California Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6940dd01aa598a08c3f080b1?utm_campaign=1065&utm_source=git)** | Irvine, CA | Remote | Dec 25 |
-| ↳ | **[Chicago Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6917a4dabcdbf3560c9c9c20?utm_campaign=1065&utm_source=git)** | Chicago, IL | Remote | Dec 25 |
-| **[Prime Group US](https://primegroupus.com/)** | **[2026 Summer Internship - Marketing & Social Media](https://jobright.ai/jobs/info/694d1ad7f5bef51c96ead37f?utm_campaign=1065&utm_source=git)** | Hollywood, FL 33021 | On Site | Dec 24 |
-| **[Jacob's Pillow Dance Festival](https://www.jacobspillow.org)** | **[Audience Development/Marketing Intern](https://jobright.ai/jobs/info/694d0bb1d4a7df7a06723ac2?utm_campaign=1065&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
-| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/694d03d629655e4dd65712fb?utm_campaign=1065&utm_source=git)** | Becket, MA 01223 | On Site | Dec 24 |
-| **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Project Management](https://jobright.ai/jobs/info/694e310129655e4dd657ee86?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
