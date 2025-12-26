@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amlan International](https://us-en.amlan.com/)** | **[Division III Marketing Intern (Summer)](https://jobright.ai/jobs/info/694e577ed4a7df7a067322d8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
+| **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/694e4edef5bef51c96eba123?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 26 |
+| **[Swapila](https://www.swapila.com/)** | **[Social Media Brand Marketing Internship](https://jobright.ai/jobs/info/694e4b5229655e4dd657f9cd?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 26 |
 | **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/694e313229655e4dd657eefa?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 25 |
 | **[AIRE](https://growwithaire.com/)** | **[Growth & Ops Intern](https://jobright.ai/jobs/info/694e2d5fd4a7df7a06730de0?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Dec 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dd67bd4a7df7a0672bf65?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social & Design Marketing Internship(Korean Speaking Winter-Spring))](https://jobright.ai/jobs/info/694db5e629655e4dd657976c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Dec 25 |
-| **[AIRE](https://growwithaire.com/)** | **[Ops & Growth Intern](https://jobright.ai/jobs/info/694d9d3fd4a7df7a06729e62?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
 | **[Remerge](https://remergeapp.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/694d8648d4a7df7a06728c8d?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694d616cd4a7df7a06728017?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Microsoft](https://www.microsoft.com)** | **[Research Intern - Precision Health Innovation Market Analyst](https://jobright.ai/jobs/info/692f97d04c474121999e0c9f?utm_campaign=1065&utm_source=git)** | Redmond, WA | Hybrid | Dec 24 |
 | **[The Sporting News](http://www.sportingnews.com)** | **[Social Media Intern - Spring 2026](https://jobright.ai/jobs/info/692f90cf4c474121999e06ff?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 24 |
 | **[Epic Games](https://epicgames.com)** | **[Business and Marketing Strategy Intern](https://jobright.ai/jobs/info/69143b6f6f36db06ef04649f?utm_campaign=1065&utm_source=git)** | Cary, NC | On Site | Dec 24 |
-| **[The Toro Company](https://www.thetorocompany.com)** | **[Commercial Marketing Intern (Golf/Sports Fields & Grounds) - The Toro Company](https://jobright.ai/jobs/info/68cf4f45dbd9fb154ede62bf?utm_campaign=1065&utm_source=git)** | Hennepin County, MN | On Site | Dec 24 |
-| **[Loram Maintenance of Way, Inc.](http://jobs.loram.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69126a7fd1047e3565cfc632?utm_campaign=1065&utm_source=git)** | Hamel, MN | Hybrid | Dec 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
