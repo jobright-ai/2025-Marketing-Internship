@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
+| **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
+| **[Tribal App](https://thetribalapp.com)** | **[College influencer community internship (social media)](https://jobright.ai/jobs/info/694ed07529655e4dd65867a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/694ecc62ce13cd1056571776?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/694ec269ce13cd10565715ce?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Dec 26 |
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Brand Marketing and Social Media Intern](https://jobright.ai/jobs/info/694ebd76ce13cd1056570c55?utm_campaign=1065&utm_source=git)** | Baraboo, WI | On Site | Dec 26 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/694e99cc29655e4dd6584437?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/6932e95c764507023d1b10c2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Corporate Communication Analyst](https://jobright.ai/jobs/info/69320813d0010831497be793?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | Hybrid | Dec 26 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[marketing internship](https://jobright.ai/jobs/info/694e95cba2668b7f5451f84f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f9348ecadb2e5a06a6262e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933e8bd764507023d1ba8c9?utm_campaign=1065&utm_source=git)** | Summerville, SC | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social & Design Marketing Internship(Korean Speaking Winter-Spring))](https://jobright.ai/jobs/info/694db5e629655e4dd657976c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
-| **[Remerge](https://remergeapp.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/694d8648d4a7df7a06728c8d?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 25 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694d616cd4a7df7a06728017?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 25 |
 | **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/694d789729655e4dd6576479?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tinder](http://www.tinder.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6921027a3f782d2f1afce3fa?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 25 |
 | **[Perrigo France](https://www.perrigo.fr)** | **[Perrigo Aspire Commercial Internship Program - Digital Marketing Summer 2026](https://jobright.ai/jobs/info/694d3a29f5bef51c96eae28a?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI | On Site | Dec 25 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/6930cbe7ef4b48533d14f466?utm_campaign=1065&utm_source=git)** | Strongsville, OH | On Site | Dec 25 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6930d1f5ef4b48533d14fa75?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
-| **[Texas Instruments](http://www.ti.com)** | **[Communications Intern-Giving and Volunteering](https://jobright.ai/jobs/info/6913f5f4e344172248f756e1?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
