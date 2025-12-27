@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[Project Growth Manager](https://jobright.ai/jobs/info/694f6b5ace13cd105657a436?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/694f60b929655e4dd658d3bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/691bac2715b4156367191791?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 26 |
 | **[AriaReply](https://ariareply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f4c16a2668b7f54527d1f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 26 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Intern - Consumer Insights & Analytics](https://jobright.ai/jobs/info/69246ee338cd5478a8d5a827?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zendesk](http://zendesk.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693b0a065f2c001987ecfa53?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 25 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6948f0a57d506e3808f428e0?utm_campaign=1065&utm_source=git)** | Westchester, IL | Hybrid | Dec 25 |
 | **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69156fbc6f36db06ef04e90f?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Dec 25 |
-| **[EQT Corporation](https://www.eqt.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/693085274c474121999e5c4b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
-| **[Shield AI](http://www.shield.ai)** | **[Marketing Video Editor Intern - 2026 Summer Intern (R4110)](https://jobright.ai/jobs/info/6931a0f44c474121999f1efe?utm_campaign=1065&utm_source=git)** | San Diego, TX | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
