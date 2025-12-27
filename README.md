@@ -57,25 +57,29 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cambria](http://www.cambriausa.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/694f3818a2668b7f545270d4?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/694f37dfce13cd1056576aa6?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| ↳ | **[Channel Marketing Strategy Intern](https://jobright.ai/jobs/info/694f370cce13cd10565769d8?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| ↳ | **[Philanthropy & Community Impact Intern](https://jobright.ai/jobs/info/694f368a29655e4dd658b76b?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| **[PROJXON](www.projxon.com)** | **[Social Media Marketing Specialist (Intern)](https://jobright.ai/jobs/info/694f2b73a2668b7f54525136?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Remote | Dec 26 |
 | **[QUASAR](https://quasarrealestate.com)** | **[MBA Private Equity Intern for Alternative Investments](https://jobright.ai/jobs/info/694f1cecce13cd1056574913?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Dec 26 |
 | **[Shezza](http://shezzasocks.com)** | **[Marketing Intern at Viral Sock Brand](https://jobright.ai/jobs/info/694f1500ce13cd105657470d?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Channel Marketing Strategy Intern](https://jobright.ai/jobs/info/694f0fd9a2668b7f54524c74?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/694f0f36a2668b7f54524c46?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Philanthropy & Community Impact Intern](https://jobright.ai/jobs/info/694f0ea0ce13cd105657464c?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/694f0d0129655e4dd658951f?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
+| **[Applixy™](https://myapplixy.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/694f2b4fce13cd1056574b76?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Social Media Marketing Manager](https://jobright.ai/jobs/info/694f0011a2668b7f54524985?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efef3ce13cd1056574302?utm_campaign=1065&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Virtual Force Inc.](http://www.virtualforce.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694efe8529655e4dd6589261?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efe5529655e4dd6589252?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efcffa2668b7f545248ed?utm_campaign=1065&utm_source=git)** | Montgomery, AL | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/694efce2a2668b7f545248e5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
+| ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
-| **[Futridge](https://www.linkedin.com/company/101638417)** | **[Marketing And Advertising Intern](https://jobright.ai/jobs/info/694eedb129655e4dd6587534?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 26 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/694ee99ea2668b7f54522975?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee5a9ce13cd10565721fa?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
 | **[Tribal App](https://thetribalapp.com)** | **[College influencer community internship (social media)](https://jobright.ai/jobs/info/694ed07529655e4dd65867a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
@@ -139,7 +143,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Social & Design Marketing Internship(Korean Speaking Winter-Spring))](https://jobright.ai/jobs/info/694db5e629655e4dd657976c?utm_campaign=1065&utm_source=git)** | Costa Mesa, CA | On Site | Dec 25 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 25 |
-| **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/694d789729655e4dd6576479?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 25 |
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 25 |
 | **[SRS Real Estate Partners](http://srsre.com/)** | **[Intern](https://jobright.ai/jobs/info/6827c56351356c318e418475?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Boston Scientific](http://www.bostonscientific.com)** | **[MBA Marketing Intern](https://jobright.ai/jobs/info/694d3faf29655e4dd657542f?utm_campaign=1065&utm_source=git)** | Valencia, CA | Hybrid | Dec 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6887bcc073e3e13cbd93fa65?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
 | **[Kikoff](https://kikoff.com/)** | **[AI Growth Marketing Intern](https://jobright.ai/jobs/info/6930fcb1fa28370be26b5e10?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 25 |
 | **[Mars](https://www.mars.com)** | **[Summer 2026 Mars Petcare MBA Marketing Internship](https://jobright.ai/jobs/info/68c113cd5c5d5f14f46e3c5d?utm_campaign=1065&utm_source=git)** | Franklin, TN | Hybrid | Dec 25 |
-| **[Shield AI](http://www.shield.ai)** | **[Communications Intern - 2026 Summer Intern (R4109)](https://jobright.ai/jobs/info/69319d144c474121999f1e60?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 25 |
-| **[Daikin Comfort](http://www.daikincomfort.com)** | **[Marketing Intern, Summer 2026](https://jobright.ai/jobs/info/69131df4d1047e3565d01762?utm_campaign=1065&utm_source=git)** | Waller, TX | On Site | Dec 25 |
-| **[Boardwalk Pipelines](http://www.bwpmlp.com/)** | **[Summer 2026 Intern- Communications](https://jobright.ai/jobs/info/6930e8f9fa28370be26b5273?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
