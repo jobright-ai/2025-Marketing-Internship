@@ -83,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef540ce13cd1056573dec?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/694ee99ea2668b7f54522975?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
@@ -143,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Amlan International](https://us-en.amlan.com/)** | **[Division III Marketing Intern (Summer)](https://jobright.ai/jobs/info/694e577ed4a7df7a067322d8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/694e4edef5bef51c96eba123?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 26 |
 | **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/694e313229655e4dd657eefa?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 25 |
+| **[Halal Mappers](HalalMappers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f738da2668b7f5452afc8?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dd67bd4a7df7a0672bf65?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6c6d4a7df7a0672be17?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burson](https://www.bursonglobal.com)** | **[Health Communications Intern](https://jobright.ai/jobs/info/6930ba6c4c474121999e81ea?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
 | **[Zendesk](http://zendesk.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693b0a065f2c001987ecfa53?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 25 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6948f0a57d506e3808f428e0?utm_campaign=1065&utm_source=git)** | Westchester, IL | Hybrid | Dec 25 |
-| **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69156fbc6f36db06ef04e90f?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
