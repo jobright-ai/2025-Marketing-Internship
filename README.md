@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digita- Marketing Intern](https://jobright.ai/jobs/info/695022e329655e4dd6596ed4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 27 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social -Media Marketing-Intern](https://jobright.ai/jobs/info/6950218ece13cd1056581fcc?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 27 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media Brand Marketing Intern](https://jobright.ai/jobs/info/69501b1dce13cd1056581f54?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 27 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Marketing Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68defbdf44d32141e0c04955?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs & Media Relations- EN](https://jobright.ai/jobs/info/6937a2a41c1c2161c13f6956?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 27 |
@@ -113,7 +115,6 @@ For a complete list, click the following sortable link below:
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[Commercial Insights & Analytics Intern](https://jobright.ai/jobs/info/69334d57f131d96e484619cb?utm_campaign=1065&utm_source=git)** | Wilmington, DE | On Site | Dec 27 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f949ba2668b7f5452bccd?utm_campaign=1065&utm_source=git)** | Legal Address 0TW50 - New York, NY 10003 | On Site | Dec 27 |
 | **[Villa Duchesne](http://www.vdoh.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/694f909da2668b7f5452bb23?utm_campaign=1065&utm_source=git)** | Villa Duchesne  - St Louis, MO 63131 | On Site | Dec 26 |
-| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/694f60b929655e4dd658d3bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/691bac2715b4156367191791?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 26 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Intern - Consumer Insights & Analytics](https://jobright.ai/jobs/info/69246ee338cd5478a8d5a827?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 26 |
@@ -140,6 +141,7 @@ For a complete list, click the following sortable link below:
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee5a9ce13cd10565721fa?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
+| **[Momentum Entrepreneurship Hub](https://momentumsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69502ddace13cd1056582284?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Dec 26 |
 | **[Tribal App](https://thetribalapp.com)** | **[College influencer community internship (social media)](https://jobright.ai/jobs/info/694ed07529655e4dd65867a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/694ecc62ce13cd1056571776?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/694ec269ce13cd10565715ce?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Dec 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[Distribution Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/691507b2286ccf0a1512a808?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Dec 26 |
 | **[Arevon](https://arevonenergy.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693206044c474121999f5e67?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Marketing Operations Intern Summer 2026 – Intelligent Devices Group (IDG) Marketing](https://jobright.ai/jobs/info/6932126afa28370be26c171b?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
-| **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[MBA Brand Marketing Intern](https://jobright.ai/jobs/info/68dd8b6e44d32141e0bf7dd5?utm_campaign=1065&utm_source=git)** | Lakeville, MA | Hybrid | Dec 26 |
-| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Global Communications Employer Brand - 2026 Summer Internship](https://jobright.ai/jobs/info/6931f981fa28370be26c0090?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
