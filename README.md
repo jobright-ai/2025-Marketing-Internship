@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/691bac2715b4156367191791?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 26 |
+| **[AriaReply](https://ariareply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f4c16a2668b7f54527d1f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 26 |
+| **[Philip Morris International](https://www.pmi.com)** | **[Intern - Consumer Insights & Analytics](https://jobright.ai/jobs/info/69246ee338cd5478a8d5a827?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 26 |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/694f3818a2668b7f545270d4?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/694f37dfce13cd1056576aa6?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Channel Marketing Strategy Intern](https://jobright.ai/jobs/info/694f370cce13cd10565769d8?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
@@ -79,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/694ee99ea2668b7f54522975?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee5a9ce13cd10565721fa?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
 | **[Tribal App](https://thetribalapp.com)** | **[College influencer community internship (social media)](https://jobright.ai/jobs/info/694ed07529655e4dd65867a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
@@ -136,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Atlassian](https://www.atlassian.com)** | **[Analyst Relations Intern, 2026 Summer U.S.](https://jobright.ai/jobs/info/693260f6a0dde7020e2e6506?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 26 |
 | **[Amlan International](https://us-en.amlan.com/)** | **[Division III Marketing Intern (Summer)](https://jobright.ai/jobs/info/694e577ed4a7df7a067322d8?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 26 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/694e4edef5bef51c96eba123?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 26 |
-| **[Swapila](https://www.swapila.com/)** | **[Social Media Brand Marketing Internship](https://jobright.ai/jobs/info/694e4b5229655e4dd657f9cd?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Dec 26 |
 | **[Outdoor Storage Hub, LLC](www.outdoorstoragehub.com)** | **[Paid University Intern — Real Estate & Market Research (Florida Focus)](https://jobright.ai/jobs/info/694e313229655e4dd657eefa?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 25 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dd67bd4a7df7a0672bf65?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 25 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/694dc6ef29655e4dd6579eba?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69156fbc6f36db06ef04e90f?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Dec 25 |
 | **[EQT Corporation](https://www.eqt.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/693085274c474121999e5c4b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 25 |
 | **[Shield AI](http://www.shield.ai)** | **[Marketing Video Editor Intern - 2026 Summer Intern (R4110)](https://jobright.ai/jobs/info/6931a0f44c474121999f1efe?utm_campaign=1065&utm_source=git)** | San Diego, TX | On Site | Dec 25 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2026 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6887bcc073e3e13cbd93fa65?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 25 |
-| **[Kikoff](https://kikoff.com/)** | **[AI Growth Marketing Intern](https://jobright.ai/jobs/info/6930fcb1fa28370be26b5e10?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 25 |
-| **[Mars](https://www.mars.com)** | **[Summer 2026 Mars Petcare MBA Marketing Internship](https://jobright.ai/jobs/info/68c113cd5c5d5f14f46e3c5d?utm_campaign=1065&utm_source=git)** | Franklin, TN | Hybrid | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
