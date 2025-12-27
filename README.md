@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kids in the Game](http://kidsinthegame.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f949ba2668b7f5452bccd?utm_campaign=1065&utm_source=git)** | Legal Address 0TW50 - New York, NY 10003 | On Site | Dec 27 |
+| **[Villa Duchesne](http://www.vdoh.org/)** | **[Advancement Intern](https://jobright.ai/jobs/info/694f909da2668b7f5452bb23?utm_campaign=1065&utm_source=git)** | Villa Duchesne  - St Louis, MO 63131 | On Site | Dec 26 |
 | **[GenPark](https://genpark.ai)** | **[Project Growth Manager](https://jobright.ai/jobs/info/694f6b5ace13cd105657a436?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/694f60b929655e4dd658d3bc?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Burlington, ON](https://jobright.ai/jobs/info/691bac2715b4156367191791?utm_campaign=1065&utm_source=git)** | Burlington, Ontario, Canada | On Site | Dec 26 |
-| **[AriaReply](https://ariareply.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/694f4c16a2668b7f54527d1f?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 26 |
 | **[Philip Morris International](https://www.pmi.com)** | **[Intern - Consumer Insights & Analytics](https://jobright.ai/jobs/info/69246ee338cd5478a8d5a827?utm_campaign=1065&utm_source=git)** | Stamford, CT | Hybrid | Dec 26 |
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Dec 26 |
 | **[Cambria](http://www.cambriausa.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/694f3818a2668b7f545270d4?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
@@ -74,8 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/694f0f36a2668b7f54524c46?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Philanthropy & Community Impact Intern](https://jobright.ai/jobs/info/694f0ea0ce13cd105657464c?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/694f0d0129655e4dd658951f?utm_campaign=1065&utm_source=git)** | Eden Prairie, MN | On Site | Dec 26 |
-| **[Applixy™](https://myapplixy.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/694f2b4fce13cd1056574b76?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
-| **[Oigetit AI Fact-Checker](https://oigetit.ai/)** | **[Social Media Marketing Manager](https://jobright.ai/jobs/info/694f0011a2668b7f54524985?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efef3ce13cd1056574302?utm_campaign=1065&utm_source=git)** | Jackson, MS | Hybrid | Dec 26 |
 | **[Virtual Force Inc.](http://www.virtualforce.io)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694efe8529655e4dd6589261?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 26 |
 | **[Southern Poverty Law Center](http://www.splcenter.org)** | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efe5529655e4dd6589252?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Burson](https://www.bursonglobal.com)** | **[Health Communications Intern](https://jobright.ai/jobs/info/6930ba6c4c474121999e81ea?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 25 |
 | **[Zendesk](http://zendesk.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/693b0a065f2c001987ecfa53?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Hybrid | Dec 25 |
 | **[Ingredion Incorporated](http://ingredion.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6948f0a57d506e3808f428e0?utm_campaign=1065&utm_source=git)** | Westchester, IL | Hybrid | Dec 25 |
+| **[Analog Devices](http://www.analog.com)** | **[Technical Product Marketing Intern](https://jobright.ai/jobs/info/69156fbc6f36db06ef04e90f?utm_campaign=1065&utm_source=git)** | Wilmington, MA | On Site | Dec 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
