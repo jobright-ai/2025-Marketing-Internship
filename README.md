@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69506f12a2668b7f545356ce?utm_campaign=1065&utm_source=git)** | USA, Louisville, KY | On Site | Dec 27 |
+| **[TechMore](https://www.linkedin.com/company/79056088)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/695063ba29655e4dd65998c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
+| **[Slipnix Safety Solution Inc.](www.slipnix.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69505b1d29655e4dd6599393?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Dec 27 |
 | **[Adcelerium](Adcelerium.com)** | **[Promotions Internship](https://jobright.ai/jobs/info/6950497a29655e4dd6599286?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digita- Marketing Intern](https://jobright.ai/jobs/info/695022e329655e4dd6596ed4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 27 |
 | **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social -Media Marketing-Intern](https://jobright.ai/jobs/info/6950218ece13cd1056581fcc?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 27 |
@@ -64,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Marketing Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68defbdf44d32141e0c04955?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs & Media Relations- EN](https://jobright.ai/jobs/info/6937a2a41c1c2161c13f6956?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 27 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69168240286ccf0a15136ca8?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 27 |
-| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/694fea7ba2668b7f54530738?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Deployment and Itinerary Planning](https://jobright.ai/jobs/info/693364b4a0dde7020e2ed62c?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f92dee6de2db04dc3e6588?utm_campaign=1065&utm_source=git)** | Pleasant Prairie, WI | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Social Media Video Internship (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941baf4bdcf884a5add762e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -73,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd91ac44d32141e0bf8365?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Sales Internship, CBS News Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/6945b934d1953b5d11beb9e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
-| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing (MBA/MHA')](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/69165d129c388539cbdfa540?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Communications & Marketing Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941be6414ee092a69ffd96d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -141,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
 | **[Momentum Entrepreneurship Hub](https://momentumsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69502ddace13cd1056582284?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Dec 26 |
-| **[Tribal App](https://thetribalapp.com)** | **[College influencer community internship (social media)](https://jobright.ai/jobs/info/694ed07529655e4dd65867a4?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
 | **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/694ecc62ce13cd1056571776?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
 | **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/694ec269ce13cd10565715ce?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Dec 26 |
 | **[Sauk County](https://www.co.sauk.wi.us/)** | **[Brand Marketing and Social Media Intern](https://jobright.ai/jobs/info/694ebd76ce13cd1056570c55?utm_campaign=1065&utm_source=git)** | Baraboo, WI | On Site | Dec 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Life Group](https://www.nationallife.com)** | **[Distribution Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/691507b2286ccf0a1512a808?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Dec 26 |
 | **[Arevon](https://arevonenergy.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693206044c474121999f5e67?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Marketing Operations Intern Summer 2026 – Intelligent Devices Group (IDG) Marketing](https://jobright.ai/jobs/info/6932126afa28370be26c171b?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
-| **[Ocean Spray Cranberries](http://www.oceanspray.com/)** | **[MBA Brand Marketing Intern](https://jobright.ai/jobs/info/68dd8b6e44d32141e0bf7dd5?utm_campaign=1065&utm_source=git)** | Lakeville, MA | Hybrid | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
