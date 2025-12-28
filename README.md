@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Laureata](https://laureata.com)** | **[Social Media Content Creator (University of Oregon)](https://jobright.ai/jobs/info/6951a6eda2668b7f54544da2?utm_campaign=1065&utm_source=git)** | Eugene, OR | Hybrid | Dec 28 |
+| **[Upstate Door, Inc.](http://upstatedoor.com/)** | **[Internship Programs](https://jobright.ai/jobs/info/6951a25ace13cd105659445d?utm_campaign=1065&utm_source=git)** | Warsaw, NY | On Site | Dec 28 |
+| **[Advize](https://advizehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951949829655e4dd65a755f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/69517a2d29655e4dd65a6d8c?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69516d90a2668b7f54542899?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Illinois Conservatory for the Arts](https://ilconservatory.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6951680a29655e4dd65a6c98?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 28 |
@@ -110,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Marketing](https://jobright.ai/jobs/info/690e264444146d3b6ec517ee?utm_campaign=1065&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/695099ca29655e4dd659cc64?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 27 |
-| **[Travel Radar](https://travelradar.aero)** | **[Marketing Internship](https://jobright.ai/jobs/info/695095d4ce13cd1056587c93?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 27 |
 | **[Solenis](http://solenis.com/)** | **[Marketing Intern for Residential Pools Business](https://jobright.ai/jobs/info/6945ba3e951654073537d770?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 27 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69508c76ce13cd105658743c?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 27 |
 | **[maplediv](https://www.maplediv.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69507f4fa2668b7f54536187?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Remote | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing & eCommerce](https://jobright.ai/jobs/info/691699d8286ccf0a15137ce5?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 27 |
-| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/691669a8286ccf0a15135961?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 27 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
