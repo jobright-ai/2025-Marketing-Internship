@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6951535629655e4dd65a512c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 28 |
+| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69516d90a2668b7f54542899?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
+| **[Illinois Conservatory for the Arts](https://ilconservatory.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6951680a29655e4dd65a6c98?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Dec 28 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69515cfbce13cd1056590f62?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 28 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69515704ce13cd10565903f3?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 28 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6951535629655e4dd65a512c?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Dec 28 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69514e1ace13cd1056590367?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Dec 28 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69514c5329655e4dd65a50ab?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 28 |
 | **[Hatch Grid](https://www.linkedin.com/company/69908532)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951484c29655e4dd65a5047?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 28 |
-| **[Advize](https://advizehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951454b29655e4dd65a501e?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 28 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69513e2d29655e4dd65a4fc9?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | ↳ | **[Brand Management Intern](https://jobright.ai/jobs/info/69513e1c29655e4dd65a4fc5?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
@@ -77,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Digital Marketing Strategy Intern](https://jobright.ai/jobs/info/69512bcbce13cd105658f954?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/693e4d2049a7695fbd049249?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | ↳ | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/693e289949a7695fbd046f01?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
-| ↳ | **[Marketing Intern – Fall 2026](https://jobright.ai/jobs/info/693e40e149a7695fbd0488b2?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Dec 28 |
 | ↳ | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/693e40dd49a7695fbd048863?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
+| ↳ | **[Marketing Intern – Fall 2026](https://jobright.ai/jobs/info/693e40e149a7695fbd0488b2?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Dec 28 |
 | ↳ | **[Brand Activation & Campaign Intern, Pravana – Summer 2026](https://jobright.ai/jobs/info/693e2da949a7695fbd04704c?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Dec 28 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/68fa75e867272b29af72f789?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Dec 28 |
@@ -129,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd91ac44d32141e0bf8365?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Sales Internship, CBS News Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/6945b934d1953b5d11beb9e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
-| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing (MBA/MHA')](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/69165d129c388539cbdfa540?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Communications & Marketing Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941be6414ee092a69ffd96d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing & eCommerce](https://jobright.ai/jobs/info/691699d8286ccf0a15137ce5?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 27 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/691669a8286ccf0a15135961?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 27 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Dec 27 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 27 |
-| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing](https://jobright.ai/jobs/info/69167da8286ccf0a15136926?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
