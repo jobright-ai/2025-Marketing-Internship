@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 28 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Personal Care & Life) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917b98f47efe2113955ad5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 28 |
+| **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc36b893c49825ab10adc3?utm_campaign=1065&utm_source=git)** | Temple, TX | On Site | Dec 28 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa83867272b29af73252a?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 28 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Digital Marketing Specialist Internship - Summer 2026](https://jobright.ai/jobs/info/68cdd062b2a74e1837edca77?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 28 |
+| **[Halma plc](http://www.halma.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/68c98bffa0c52d598ea3860a?utm_campaign=1065&utm_source=git)** | Valparaiso, IN | On Site | Dec 28 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Operations Internship - Summer 2026](https://jobright.ai/jobs/info/68eb57d18369791ef7826320?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 28 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Content Strategist](https://jobright.ai/jobs/info/6917fd1fbcdbf3560c9cd678?utm_campaign=1065&utm_source=git)** | San Jose, CA | Hybrid | Dec 28 |
+| ↳ | **[2026 MBA Intern - Community Manager](https://jobright.ai/jobs/info/68dfa71d6be63b6ec997238e?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Dec 28 |
+| ↳ | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Marketing](https://jobright.ai/jobs/info/690e264444146d3b6ec517ee?utm_campaign=1065&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[dezRon](https://www.linkedin.com/company/105543369)** | **[Growth Marketing Intern - Early-Stage Startup](https://jobright.ai/jobs/info/6950aa26ce13cd10565886e5?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 27 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/695099ca29655e4dd659cc64?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 27 |
@@ -81,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd91ac44d32141e0bf8365?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Sales Internship, CBS News Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/6945b934d1953b5d11beb9e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
-| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing (MBA/MHA')](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/69165d129c388539cbdfa540?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Communications & Marketing Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941be6414ee092a69ffd96d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -144,17 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef540ce13cd1056573dec?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/694ee99ea2668b7f54522975?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee5a9ce13cd10565721fa?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
-| **[Momentum Entrepreneurship Hub](https://momentumsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69502ddace13cd1056582284?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Dec 26 |
-| **[ImpactLife](https://www.bloodcenter.org/)** | **[ISU Donor Relations - Intern On Campus](https://jobright.ai/jobs/info/694ecc62ce13cd1056571776?utm_campaign=1065&utm_source=git)** | Peoria, IL | On Site | Dec 26 |
-| **[Hilton Grand Vacations](https://www.hiltongrandvacations.com/)** | **[Sports & Events Marketing - Undergraduate Intern](https://jobright.ai/jobs/info/694ec269ce13cd10565715ce?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Dec 26 |
-| **[Sauk County](https://www.co.sauk.wi.us/)** | **[Brand Marketing and Social Media Intern](https://jobright.ai/jobs/info/694ebd76ce13cd1056570c55?utm_campaign=1065&utm_source=git)** | Baraboo, WI | On Site | Dec 26 |
-| **[HighKey Agency](https://highkeyagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/694eb83e29655e4dd65848d2?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 26 |
-| **[Ice Realm](https://icerealm.com/)** | **[Sports Marketing Internship (Unpaid)](https://jobright.ai/jobs/info/694eb72cce13cd105656f84b?utm_campaign=1065&utm_source=git)** | Westminster, CA | On Site | Dec 26 |
-| **[Roger (YC S24)](https://hireroger.com)** | **[Growth Intern (Remote, Part-Time)](https://jobright.ai/jobs/info/694e99cc29655e4dd6584437?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 26 |
-| **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/6932e95c764507023d1b10c2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
-| **[FIS](http://www.fisglobal.com)** | **[Intern, Corporate Communication Analyst](https://jobright.ai/jobs/info/69320813d0010831497be793?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | Hybrid | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f9348ecadb2e5a06a6262e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
