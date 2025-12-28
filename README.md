@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69508c76ce13cd105658743c?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 27 |
+| **[maplediv](https://www.maplediv.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69507f4fa2668b7f54536187?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Remote | Dec 27 |
+| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692f239ffa28370be26a7ab9?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Dec 27 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69506f12a2668b7f545356ce?utm_campaign=1065&utm_source=git)** | USA, Louisville, KY | On Site | Dec 27 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/695063ba29655e4dd65998c1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Slipnix Safety Solution Inc.](www.slipnix.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69505b1d29655e4dd6599393?utm_campaign=1065&utm_source=git)** | Ontario, Canada | On Site | Dec 27 |
@@ -75,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd91ac44d32141e0bf8365?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Sales Internship, CBS News Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/6945b934d1953b5d11beb9e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
-| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing (MBA/MHA')](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/69165d129c388539cbdfa540?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Communications & Marketing Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941be6414ee092a69ffd96d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f9348ecadb2e5a06a6262e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933e8bd764507023d1ba8c9?utm_campaign=1065&utm_source=git)** | Summerville, SC | On Site | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
-| **[National Life Group](https://www.nationallife.com)** | **[Distribution Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/691507b2286ccf0a1512a808?utm_campaign=1065&utm_source=git)** | Montpelier, VT | On Site | Dec 26 |
-| **[Arevon](https://arevonenergy.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693206044c474121999f5e67?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 26 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Marketing Operations Intern Summer 2026 – Intelligent Devices Group (IDG) Marketing](https://jobright.ai/jobs/info/6932126afa28370be26c171b?utm_campaign=1065&utm_source=git)** | North Carolina, United States | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
