@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Marketing](https://jobright.ai/jobs/info/690e264444146d3b6ec517ee?utm_campaign=1065&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
 | **[dezRon](https://www.linkedin.com/company/105543369)** | **[Growth Marketing Intern - Early-Stage Startup](https://jobright.ai/jobs/info/6950aa26ce13cd10565886e5?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 27 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/695099ca29655e4dd659cc64?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 27 |
 | **[Travel Radar](https://travelradar.aero)** | **[Marketing Internship](https://jobright.ai/jobs/info/695095d4ce13cd1056587c93?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 27 |
@@ -103,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing & eCommerce](https://jobright.ai/jobs/info/691699d8286ccf0a15137ce5?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
+| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 27 |
 | **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/691669a8286ccf0a15135961?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 27 |
 | **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Dec 27 |
 | **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (12 month contract) (Toronto Hybrid)](https://jobright.ai/jobs/info/6932e95c764507023d1b10c2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 26 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Corporate Communication Analyst](https://jobright.ai/jobs/info/69320813d0010831497be793?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | Hybrid | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f9348ecadb2e5a06a6262e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
-| **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933e8bd764507023d1ba8c9?utm_campaign=1065&utm_source=git)** | Summerville, SC | On Site | Dec 26 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
