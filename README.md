@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[dezRon](https://www.linkedin.com/company/105543369)** | **[Growth Marketing Intern - Early-Stage Startup](https://jobright.ai/jobs/info/6950aa26ce13cd10565886e5?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 27 |
-| **[Omnicure](https://www.omnicuremd.com/)** | **[Marketing & Research Intern](https://jobright.ai/jobs/info/6950a616a2668b7f54538ce9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 27 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/695099ca29655e4dd659cc64?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 27 |
 | **[Travel Radar](https://travelradar.aero)** | **[Marketing Internship](https://jobright.ai/jobs/info/695095d4ce13cd1056587c93?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Dec 27 |
 | **[Solenis](http://solenis.com/)** | **[Marketing Intern for Residential Pools Business](https://jobright.ai/jobs/info/6945ba3e951654073537d770?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 27 |
@@ -141,9 +140,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efceaa2668b7f545248e8?utm_campaign=1065&utm_source=git)** | New Orleans, LA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694efbcfa2668b7f54524890?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Dec 26 |
 | ↳ | **[Intern, Development - Direct Marketing (Summer 2026)](https://jobright.ai/jobs/info/694ef85f29655e4dd65890d9?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef33729655e4dd65876db?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ef540ce13cd1056573dec?utm_campaign=1065&utm_source=git)** | Livonia, MI | On Site | Dec 26 |
 | **[PrimeLending, A PlainsCapital Company](https://www.primelending.com/)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/694ee99ea2668b7f54522975?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee445a2668b7f5452272f?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
+| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Direct Marketing Internship](https://jobright.ai/jobs/info/694ee5a9ce13cd10565721fa?utm_campaign=1065&utm_source=git)** | US-MI-Livonia | Hybrid | Dec 26 |
 | **[Quotable Media Co](http://quotablemediaco.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/694ee02529655e4dd6586db9?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 26 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 26 |
 | **[Momentum Entrepreneurship Hub](https://momentumsb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69502ddace13cd1056582284?utm_campaign=1065&utm_source=git)** | South Bend, IN | On Site | Dec 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Corporate Communication Analyst](https://jobright.ai/jobs/info/69320813d0010831497be793?utm_campaign=1065&utm_source=git)** | North York, Ontario, Canada | Hybrid | Dec 26 |
 | **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f9348ecadb2e5a06a6262e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 26 |
 | **[Enterprise](https://www.enterprise.com)** | **[Spring 2026 Management Trainee Internship](https://jobright.ai/jobs/info/6933e8bd764507023d1ba8c9?utm_campaign=1065&utm_source=git)** | Summerville, SC | On Site | Dec 26 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91983a628d10664e893b8?utm_campaign=1065&utm_source=git)** | Waukegan, IL | On Site | Dec 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
