@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Lubbock](https://ci.lubbock.tx.us)** | **[Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6951f97629655e4dd65ac64d?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Dec 28 |
+| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951ea82a2668b7f54547729?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 28 |
 | **[Primrose Schools](https://www.primroseschools.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6951ddab29655e4dd65ab718?utm_campaign=1065&utm_source=git)** | Atlanta, GA 30339 | On Site | Dec 28 |
 | **[MANE](https://www.mane.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/692deffffa28370be269f8cc?utm_campaign=1065&utm_source=git)** | Lebanon, OH | On Site | Dec 28 |
 | **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6951d114ce13cd1056596364?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Digital Marketing Strategy Intern](https://jobright.ai/jobs/info/69512bcbce13cd105658f954?utm_campaign=1065&utm_source=git)** | Orlando, FL | Hybrid | Dec 28 |
 | **[Henkel](http://www.henkel.com)** | **[Brand Management Intern, Kenra – Summer 2026](https://jobright.ai/jobs/info/693e4d2049a7695fbd049249?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | ↳ | **[Market & Customer Activation Intern - Fall 2026](https://jobright.ai/jobs/info/693e289949a7695fbd046f01?utm_campaign=1065&utm_source=git)** | Bridgewater, NJ | On Site | Dec 28 |
-| ↳ | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/693e40dd49a7695fbd048863?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | ↳ | **[Marketing Intern – Fall 2026](https://jobright.ai/jobs/info/693e40e149a7695fbd0488b2?utm_campaign=1065&utm_source=git)** | Westlake, OH | On Site | Dec 28 |
+| ↳ | **[Marketing Strategy Intern, MBA - Alterna Haircare – Summer 2026](https://jobright.ai/jobs/info/693e40dd49a7695fbd048863?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | ↳ | **[Brand Activation & Campaign Intern, Pravana – Summer 2026](https://jobright.ai/jobs/info/693e2da949a7695fbd04704c?utm_campaign=1065&utm_source=git)** | Culver City, CA | On Site | Dec 28 |
 | **[D.R. Horton](https://drhortoninsurance.com)** | **[Summer 2026 Marketing Intern](https://jobright.ai/jobs/info/68c4880be396b25cb5c69017?utm_campaign=1065&utm_source=git)** | Sarasota, FL | On Site | Dec 28 |
 | **[TRUMPF North America](https://www.us.trumpf.com)** | **[Marketing and Communication Intern](https://jobright.ai/jobs/info/68fa75e867272b29af72f789?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Dec 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Research Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69316bedfa28370be26b97e6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 | **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
-| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing & eCommerce](https://jobright.ai/jobs/info/691699d8286ccf0a15137ce5?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
-| **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
