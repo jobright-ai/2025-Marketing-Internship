@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TD](https://www.td.com)** | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521605a2668b7f5454acad?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
+| **[A1Base (YC W25)](https://www.a1base.com/)** | **[Digital Marketing Intern (US-based)](https://jobright.ai/jobs/info/6951fdd4ce13cd1056597aae?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[City of Lubbock](https://ci.lubbock.tx.us)** | **[Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6951f97629655e4dd65ac64d?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Dec 28 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951ea82a2668b7f54547729?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 28 |
 | **[Primrose Schools](https://www.primroseschools.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6951ddab29655e4dd65ab718?utm_campaign=1065&utm_source=git)** | Atlanta, GA 30339 | On Site | Dec 28 |
 | **[MANE](https://www.mane.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/692deffffa28370be269f8cc?utm_campaign=1065&utm_source=git)** | Lebanon, OH | On Site | Dec 28 |
 | **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6951d114ce13cd1056596364?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
@@ -116,13 +118,13 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Influencer Partnerships](https://jobright.ai/jobs/info/68faa3ed67272b29af73214a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Dec 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Intern - Community Engagement](https://jobright.ai/jobs/info/6917feba45fb6f5ead8a0b79?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 28 |
 | **[Pixelle Specialty Solutions](https://www.pixelle.com/)** | **[Internship- Marketing](https://jobright.ai/jobs/info/690e264444146d3b6ec517ee?utm_campaign=1065&utm_source=git)** | Spring Grove, PA | On Site | Dec 28 |
+| **[High Lantern Group](http://highlanterngroup.com)** | **[HLG Intern, Strategy & Communications](https://jobright.ai/jobs/info/695211bcce13cd105659a0bd?utm_campaign=1065&utm_source=git)** | Asheville, NC | On Site | Dec 27 |
 | **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/695099ca29655e4dd659cc64?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 27 |
 | **[Solenis](http://solenis.com/)** | **[Marketing Intern for Residential Pools Business](https://jobright.ai/jobs/info/6945ba3e951654073537d770?utm_campaign=1065&utm_source=git)** | Charlotte, NC | Hybrid | Dec 27 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69508c76ce13cd105658743c?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 27 |
 | **[ARTECHOUSE](https://www.artechouse.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6951417129655e4dd65a4ff8?utm_campaign=1065&utm_source=git)** | Houston, TX | Hybrid | Dec 27 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/692f239ffa28370be26a7ab9?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Dec 27 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69506f12a2668b7f545356ce?utm_campaign=1065&utm_source=git)** | USA, Louisville, KY | On Site | Dec 27 |
-| **[Adcelerium](Adcelerium.com)** | **[Promotions Internship](https://jobright.ai/jobs/info/6950497a29655e4dd6599286?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 27 |
 | **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digita- Marketing Intern](https://jobright.ai/jobs/info/695022e329655e4dd6596ed4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 27 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Marketing Intern - Green Bay, WI - Year Round](https://jobright.ai/jobs/info/68defbdf44d32141e0c04955?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 27 |
 | **[CN](http://www.cn.ca)** | **[Intern, Public Affairs & Media Relations- EN](https://jobright.ai/jobs/info/6937a2a41c1c2161c13f6956?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | On Site | Dec 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6933ef7cf131d96e48468670?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Research Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69316e5afa28370be26b9def?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | ↳ | **[Research Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69316bedfa28370be26b97e6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Hexion Inc.](https://www.hexion.com/)** | **[Strategic Marketing Intern (MBA Level)](https://jobright.ai/jobs/info/691a95d945fb6f5ead8ac227?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 27 |
-| **[apexanalytix](https://www.apexanalytix.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
