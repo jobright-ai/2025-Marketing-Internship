@@ -57,14 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brown & Brown](http://www.bbrown.com)** | **[Intern - Risk Management & Insurance (Wholesale & Retail)](https://jobright.ai/jobs/info/694aeb533019f50a4fe5f801?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 29 |
+| **[Baird](http://www.rwbaird.com)** | **[Internship – Communications (Year-Round)](https://jobright.ai/jobs/info/68cfa3fffb49c96ca6eaa07e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 29 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social - Media Marketing -Intern](https://jobright.ai/jobs/info/695266bb935649778e202f5e?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 29 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Digital Merchandising Intern](https://jobright.ai/jobs/info/695265f9935649778e202f46?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
+| ↳ | **[Merchandising Analyst Intern](https://jobright.ai/jobs/info/695264e05bb7de448ef58008?utm_campaign=1065&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Dec 29 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Tech Digital - Marketing-Intern](https://jobright.ai/jobs/info/6952646bf1f8465b79e9b849?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 29 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68c513c57d0db411427322e6?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
+| **[Marsh McLennan Agency](https://www.marshmma.com)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/693273b7764507023d1aec92?utm_campaign=1065&utm_source=git)** | Richmond, VA | Hybrid | Dec 29 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Social / Media Intern](https://jobright.ai/jobs/info/68ca4cda5f9f0336447db703?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 29 |
+| **[Xsolla](http://www.xsolla.com)** | **[Experiential Marketing Internship - Americas](https://jobright.ai/jobs/info/6918afb915b415636718365f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 29 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68d00191dbd9fb154edecabf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 29 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/68c5903f7d0db411427347da?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 29 |
+| ↳ | **[Digital Marketing Internship - Summer 2026](https://jobright.ai/jobs/info/6920038109cc522e87747449?utm_campaign=1065&utm_source=git)** | Middleton, WI | Remote | Dec 29 |
 | **[Feline Apparel](www.felineapparel.com)** | **[Brand Operations Intern](https://jobright.ai/jobs/info/69521d2029655e4dd65af293?utm_campaign=1065&utm_source=git)** | Nashville, TN | On Site | Dec 28 |
 | **[TD](https://www.td.com)** | **[Risk Management - Communications and Colleague Engagement Intern/Co-op (Summer 2026)](https://jobright.ai/jobs/info/69521605a2668b7f5454acad?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | On Site | Dec 28 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e3e49ef4b48533d13dea9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 28 |
-| **[A1Base (YC W25)](https://www.a1base.com/)** | **[Digital Marketing Intern (US-based)](https://jobright.ai/jobs/info/6951fdd4ce13cd1056597aae?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Primrose Schools](https://www.primroseschools.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6951ddab29655e4dd65ab718?utm_campaign=1065&utm_source=git)** | Atlanta, GA 30339 | On Site | Dec 28 |
 | **[MANE](https://www.mane.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/692deffffa28370be269f8cc?utm_campaign=1065&utm_source=git)** | Lebanon, OH | On Site | Dec 28 |
 | **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6951d114ce13cd1056596364?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
-| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6951c846a2668b7f54545142?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Laureata](https://laureata.com)** | **[Social Media Content Creator (University of Oregon)](https://jobright.ai/jobs/info/6951a6eda2668b7f54544da2?utm_campaign=1065&utm_source=git)** | Eugene, OR | Hybrid | Dec 28 |
 | **[Upstate Door, Inc.](http://upstatedoor.com/)** | **[Internship Programs](https://jobright.ai/jobs/info/6951a25ace13cd105659445d?utm_campaign=1065&utm_source=git)** | Warsaw, NY | On Site | Dec 28 |
 | **[Advize](https://advizehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951949829655e4dd65a755f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
@@ -107,7 +118,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Bridges Summer 2026 Marketing and Communications Internship](https://jobright.ai/jobs/info/6917c3e315b415636717b567?utm_campaign=1065&utm_source=git)** | Bentonville, AR | On Site | Dec 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2026 Internship - Outlet Merchandising](https://jobright.ai/jobs/info/69176f8e370fde633d07ff92?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Dec 28 |
 | **[ATI](https://www.forging.com)** | **[Communications Intern - Spring 2026](https://jobright.ai/jobs/info/6917b6ebbcdbf3560c9ca9e7?utm_campaign=1065&utm_source=git)** | Cudahy, WI | On Site | Dec 28 |
-| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691ae87245fb6f5ead8aed49?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 28 |
+| **[Imperial Supplies](https://www.imperialsupplies.com)** | **[eCommerce Merchandising Intern-Spring 2026](https://jobright.ai/jobs/info/691a9f4a15b415636718967f?utm_campaign=1065&utm_source=git)** | Green Bay, WI | Hybrid | Dec 28 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695249395bb7de448ef574f2?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 28 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Personal Care & Life) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/68917b98f47efe2113955ad5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 28 |
 | **[McLane Company, Inc.](http://www.mclaneco.com)** | **[Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/68fc36b893c49825ab10adc3?utm_campaign=1065&utm_source=git)** | Temple, TX | On Site | Dec 28 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology Marketing (Undergraduate-level)](https://jobright.ai/jobs/info/691678d2286ccf0a1513670e?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[CareSource](https://www.caresource.com/)** | **[REMOTE - 2026 Summer Internship - Member Engagement - R10717](https://jobright.ai/jobs/info/68fa4de367272b29af72d807?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 27 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, eCommerce Merchandising](https://jobright.ai/jobs/info/69336f64f131d96e484634ca?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL | Hybrid | Dec 27 |
-| ↳ | **[Intern, Market Planning](https://jobright.ai/jobs/info/693371e7764507023d1b5bc1?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 27 |
-| **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/692517efc0cefa13343e67ce?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| ↳ | **[Marketing Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69250f2138cd5478a8d61e2f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| ↳ | **[Advertising, Distribution & Strategy Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69255a79d47de4798eccf68b?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| ↳ | **[Advertising, Distribution & Strategy Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/6924c296ec574f4265bb6adf?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| ↳ | **[Marketing Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/6925135c38cd5478a8d620e7?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| **[BTAS, Inc.](http://www.btas.com/)** | **[DoD SkillBridge Internship – Senior Growth Strategist](https://jobright.ai/jobs/info/68df28c76be63b6ec996cb0c?utm_campaign=1065&utm_source=git)** | El Segundo, CA | On Site | Dec 27 |
-| **[BioCryst Pharmaceuticals, Inc.](http://www.biocryst.com)** | **[Intern, Corporate Communications (Durham, NC)](https://jobright.ai/jobs/info/68fa8f8fedd190144238e3c5?utm_campaign=1065&utm_source=git)** | Triangle Area | Hybrid | Dec 27 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Community Involvement Intern](https://jobright.ai/jobs/info/6933ef7cf131d96e48468670?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 27 |
-| **[Paramount](https://www.paramount.com)** | **[Research Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69316e5afa28370be26b9def?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
-| ↳ | **[Research Internships (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69316bedfa28370be26b97e6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
