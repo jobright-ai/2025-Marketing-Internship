@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Primrose Schools](https://www.primroseschools.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6951ddab29655e4dd65ab718?utm_campaign=1065&utm_source=git)** | Atlanta, GA 30339 | On Site | Dec 28 |
+| **[MANE](https://www.mane.com/)** | **[Communications Intern - Summer 2026](https://jobright.ai/jobs/info/692deffffa28370be269f8cc?utm_campaign=1065&utm_source=git)** | Lebanon, OH | On Site | Dec 28 |
+| **[19 Media Group](https://19mediagroup.com/)** | **[Social Media Intern (non-paid)](https://jobright.ai/jobs/info/6951d114ce13cd1056596364?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
+| **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6951c846a2668b7f54545142?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
 | **[Laureata](https://laureata.com)** | **[Social Media Content Creator (University of Oregon)](https://jobright.ai/jobs/info/6951a6eda2668b7f54544da2?utm_campaign=1065&utm_source=git)** | Eugene, OR | Hybrid | Dec 28 |
 | **[Upstate Door, Inc.](http://upstatedoor.com/)** | **[Internship Programs](https://jobright.ai/jobs/info/6951a25ace13cd105659445d?utm_campaign=1065&utm_source=git)** | Warsaw, NY | On Site | Dec 28 |
 | **[Advize](https://advizehealth.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6951949829655e4dd65a755f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 28 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68dd91ac44d32141e0bf8365?utm_campaign=1065&utm_source=git)** | Canton, OH | On Site | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[Communications/PR Internships (Summer 2026, In Person- NYC)](https://jobright.ai/jobs/info/69251263c0cefa13343e62d8?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
 | **[CBS News and Stations](http://www.cbs.com)** | **[Sales Internship, CBS News Los Angeles/Studio City (Summer 2026)](https://jobright.ai/jobs/info/6945b934d1953b5d11beb9e4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 27 |
-| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
-| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| **[Uline](http://www.uline.com)** | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f91ef4cadb2e5a06a61608?utm_campaign=1065&utm_source=git)** | Glenview, IL | On Site | Dec 27 |
+| ↳ | **[Copywriter Internship - Summer 2026](https://jobright.ai/jobs/info/68f929b4cadb2e5a06a61b54?utm_campaign=1065&utm_source=git)** | Kenosha, WI | On Site | Dec 27 |
 | **[Dexcom](http://www.dexcom.com)** | **[Intern II - Marketing (MBA/MHA')](https://jobright.ai/jobs/info/693398c7f131d96e48464bd3?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 27 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern – Uro-Oncology, PR & Communications](https://jobright.ai/jobs/info/69165d129c388539cbdfa540?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Dec 27 |
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Communications & Marketing Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6941be6414ee092a69ffd96d?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[apexanalytix](https://www.apexanalytix.com)** | **[Content Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/68c02860702aa35207aaafb5?utm_campaign=1065&utm_source=git)** | Greensboro, NC | On Site | Dec 27 |
 | **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing & eCommerce](https://jobright.ai/jobs/info/691699d8286ccf0a15137ce5?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 | **[Itron, Inc.](http://www.itron.com)** | **[Intern - Product Marketing & Sales Enablement (Summer 2026)](https://jobright.ai/jobs/info/6950f13c29655e4dd65a09e8?utm_campaign=1065&utm_source=git)** | Liberty Lake, WA | Hybrid | Dec 27 |
-| **[Nissha Medical Technologies](https://hs.nisshamedical.com/)** | **[Product Marketing Internship](https://jobright.ai/jobs/info/691669a8286ccf0a15135961?utm_campaign=1065&utm_source=git)** | Buffalo, NY | On Site | Dec 27 |
-| **[Firefly Aerospace](https://fireflyspace.com)** | **[Internship - Marketing - Summer 2026](https://jobright.ai/jobs/info/68fa84a6edd190144238d898?utm_campaign=1065&utm_source=git)** | Cedar Park, TX | On Site | Dec 27 |
-| **[Verkada](https://www.verkada.com)** | **[MBA Intern - Product Marketing](https://jobright.ai/jobs/info/693365bcf131d96e48462d94?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 27 |
-| **[Grocery Outlet](https://groceryoutlet.com/)** | **[Summer Intern - Digital Marketing](https://jobright.ai/jobs/info/69167da8286ccf0a15136926?utm_campaign=1065&utm_source=git)** | Emeryville, CA | On Site | Dec 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
