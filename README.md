@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Limitless Jewellery](https://limitlessjewellery.com/)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695422815bb7de448ef7103b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695420fcf1f8465b79eb46ad?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
+| **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Social Media](https://jobright.ai/jobs/info/69541494f1f8465b79eb4316?utm_campaign=1065&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 30 |
+| **[What's The Move](https://www.linkedin.com/company/106198063)** | **[Marketing Intern - Brand Ambassador](https://jobright.ai/jobs/info/69540f89f1f8465b79eb40d9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/69540ca95bb7de448ef70993?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Dec 30 |
 | **[Vent Now](https://www.ventnow.ai/)** | **[Content Creation Internship](https://jobright.ai/jobs/info/69540b145bb7de448ef7092d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
-| **[JobBridge](https://www.linkedin.com/company/101236761)** | **[Marketing Intern](https://jobright.ai/jobs/info/6954062e5bb7de448ef70794?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 30 |
 | **[HIP Video Promo](http://www.hipvideopromo.com/)** | **[Marketing Intern / Video Production Intern](https://jobright.ai/jobs/info/695405885bb7de448ef70761?utm_campaign=1065&utm_source=git)** | South River, NJ | On Site | Dec 30 |
 | **[Mopec](https://www.mopec.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6954056eaa05c26e7aae8d98?utm_campaign=1065&utm_source=git)** | Madison Heights, MI, US | On Site | Dec 30 |
 | **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/695404dc5bb7de448ef704d0?utm_campaign=1065&utm_source=git)** | Lexington, KY | Remote | Dec 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ZZ Med Spa](https://www.zzmedspa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695343bb5bb7de448ef65921?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Karl Strauss Brewing Company](https://www.karlstrauss.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695340135bb7de448ef6548c?utm_campaign=1065&utm_source=git)** | Home Office/Distribution Center - Poway, CA 92064 | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Marketing Planning - Credit Cards Loyalty Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69533e8c935649778e210312?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Chartwells School Dining Services K12](http://www.chartwellsschools.com/)** | **[Marketing Intern, Chartwells K12 / Lafeyette School Corporation](https://jobright.ai/jobs/info/69533dde935649778e2102a3?utm_campaign=1065&utm_source=git)** | Lafayette, IN | On Site | Dec 29 |
-| **[City of Ankeny](https://www.ankenyiowa.gov/)** | **[Digital Marketing Internship - 2026 Summer](https://jobright.ai/jobs/info/6953395d935649778e20feb2?utm_campaign=1065&utm_source=git)** | Ankeny, IA | On Site | Dec 29 |
-| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/694ae1f73019f50a4fe5f522?utm_campaign=1065&utm_source=git)** | Commerce City, CO | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
