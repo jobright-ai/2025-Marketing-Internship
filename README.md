@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6954365d5bb7de448ef71f45?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | Dec 30 |
+| **[Gordon Food Service Store](https://gfsstore.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/6954339faa05c26e7aaea39d?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Dec 30 |
 | **[Limitless Jewellery](https://limitlessjewellery.com/)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695422815bb7de448ef7103b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695420fcf1f8465b79eb46ad?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Social Media](https://jobright.ai/jobs/info/69541494f1f8465b79eb4316?utm_campaign=1065&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 30 |
@@ -149,12 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Social Media Internship](https://jobright.ai/jobs/info/69534a9c5bb7de448ef65db3?utm_campaign=1065&utm_source=git)** | Temecula, CA | Hybrid | Dec 29 |
 | **[Backroads](https://www.backroads.com)** | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/69534a7f5bb7de448ef65da5?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 | ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69534a525bb7de448ef65d8d?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
-| **[City of Lubbock](https://ci.lubbock.tx.us)** | **[Communications & Public Engagement Intern](https://jobright.ai/jobs/info/69534a47935649778e210a21?utm_campaign=1065&utm_source=git)** | Lubbock, TX | On Site | Dec 29 |
-| **[Backroads](https://www.backroads.com)** | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/6953487f935649778e210963?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
+| ↳ | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/6953487f935649778e210963?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 | ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/6953487b935649778e210961?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (LA & Dallas) Winter 2026](https://jobright.ai/jobs/info/695345e15bb7de448ef659e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 29 |
 | **[TD](https://www.td.com)** | **[Digital Transformation and Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695343e65bb7de448ef65931?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[ZZ Med Spa](https://www.zzmedspa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695343bb5bb7de448ef65921?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
 | **[Karl Strauss Brewing Company](https://www.karlstrauss.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695340135bb7de448ef6548c?utm_campaign=1065&utm_source=git)** | Home Office/Distribution Center - Poway, CA 92064 | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Marketing Planning - Credit Cards Loyalty Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69533e8c935649778e210312?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
