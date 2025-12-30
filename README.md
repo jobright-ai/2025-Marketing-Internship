@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Backroads](https://www.backroads.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/695382395bb7de448ef69323?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69539db15bb7de448ef6b6e8?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - London, ON](https://jobright.ai/jobs/info/693bf10aaa598a08c3ecf252?utm_campaign=1065&utm_source=git)** | London, Ontario, Canada | On Site | Dec 30 |
+| **[Oleria](https://www.oleria.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6953910ef1f8465b79eacf49?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Dec 30 |
+| **[Thermo Fisher Scientific](https://www.thermofisher.com/de/de/home/industrial/spectroscopy-elemental-isotope-analysis/oes-xrd-xrf-analysis/optical-emission-spectrometry-oes.html)** | **[Marketing Intern](https://jobright.ai/jobs/info/69538c52f1f8465b79eacd87?utm_campaign=1065&utm_source=git)** | Frederick, MD | On Site | Dec 30 |
+| **[Backroads](https://www.backroads.com)** | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/69538422f1f8465b79eaca6d?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
+| ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/695382395bb7de448ef69323?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Marketing Planning – Wealth and Investing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695378f9f1f8465b79eac4f6?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Brand Marketing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695377aaf1f8465b79eac3c5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Marketing Planning – TD Insurance Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69537786935649778e2137f2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -118,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Brand Marketing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952f8bf5bb7de448ef6195b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Digital Transformation and Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952f8a0f1f8465b79ea5003?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Social View Agency](https://www.linkedin.com/company/81888485)** | **[Social Media Intern](https://jobright.ai/jobs/info/6952f8035bb7de448ef618fd?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
-| **[PACSUN](http://www.pacsun.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6952f6ebf1f8465b79ea4f24?utm_campaign=1065&utm_source=git)** | Anaheim, CA | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Marketing Operations & Governance Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952f647935649778e20c4b2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Barrie, ON](https://jobright.ai/jobs/info/691b993615b4156367190b2f?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Dec 29 |
 | **[TD](https://www.td.com)** | **[Marketing Planning – Wealth and Investing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952f615f1f8465b79ea4ec5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Marketing Technology & Ops](https://jobright.ai/jobs/info/6952db58f1f8465b79ea24d7?utm_campaign=1065&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Dec 29 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Digital Performance Marketing Wealth Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952db47f1f8465b79ea24c9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | **[Marion County Commission on Youth (MCCOY)](https://mccoyouth.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6953064f935649778e20cb4f?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Horizontal Marketing Strategies Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952da5d935649778e209875?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[The Larry H. Miller Company](https://www.lhm.com/)** | **[Social Media Intern URFC](https://jobright.ai/jobs/info/6952d8685bb7de448ef5e9ef?utm_campaign=1065&utm_source=git)** | Herriman, UT | On Site | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Digital Marketing Audience Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952d63a5bb7de448ef5e780?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Grange Insurance](https://www.grangeinsurance.com/)** | **[SEO and Brand Visibility Intern](https://jobright.ai/jobs/info/6952d46df1f8465b79ea1d14?utm_campaign=1065&utm_source=git)** | Columbus, OH | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
