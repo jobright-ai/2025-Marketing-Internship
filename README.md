@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Robinhood](https://www.robinhood.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/693750471c1c2161c13f2b8f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| ↳ | **[Internal Communications Intern](https://jobright.ai/jobs/info/69373d42aabec14a727c5635?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 30 |
+| **[Shakopee Mdewakanton Sioux Community (SMSC)](https://www.shakopeedakota.org/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68c5140b7d0db41142732369?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
+| **[Flint Group](https://www.flintg.com/)** | **[Intern - Marketing](https://jobright.ai/jobs/info/693794ee1c1c2161c13f5fd0?utm_campaign=1065&utm_source=git)** | Kansas City, MO | On Site | Dec 30 |
+| **[Mystic Lake Casino Hotel](https://mysticlake.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/68cef5bedbd9fb154ede3d78?utm_campaign=1065&utm_source=git)** | Prior Lake, MN | On Site | Dec 30 |
+| **[Trimble Inc.](https://www.trimble.com/)** | **[Demand Marketing Intern](https://jobright.ai/jobs/info/693746aeaabec14a727c5dea?utm_campaign=1065&utm_source=git)** | Princeton, NJ | On Site | Dec 30 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/692043a900c9ee50eaec0ad2?utm_campaign=1065&utm_source=git)** | Middleton, WI | On Site | Dec 30 |
+| **[Adobe](http://www.adobe.com)** | **[2026 Intern - Segment & Field Marketing](https://jobright.ai/jobs/info/693765d8a0dde7020e3025b2?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 30 |
+| **[Delinea](https://delinea.com)** | **[Customer Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/6953a19ef1f8465b79eaef16?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
+| **[Haemonetics](http://www.haemonetics.com)** | **[AI’s Role in Elevating In-Person Events and Performance Strategy, Internship](https://jobright.ai/jobs/info/69539e32f1f8465b79eaee92?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Dec 30 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - St. Catharines, ON](https://jobright.ai/jobs/info/691bcd6622a2cb4b9bd163b6?utm_campaign=1065&utm_source=git)** | St. Catharines, Ontario, Canada | On Site | Dec 30 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/69539db15bb7de448ef6b6e8?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 30 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - London, ON](https://jobright.ai/jobs/info/693bf10aaa598a08c3ecf252?utm_campaign=1065&utm_source=git)** | London, Ontario, Canada | On Site | Dec 30 |
 | **[Oleria](https://www.oleria.com)** | **[Summer Marketing Intern](https://jobright.ai/jobs/info/6953910ef1f8465b79eacf49?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Dec 30 |
@@ -107,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[HawkRobo Systems](www.hawkrobo.com)** | **[Sales & Marketing — Student / Recent Graduate (Intern)](https://jobright.ai/jobs/info/695318aef1f8465b79ea5bee?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Dec 29 |
 | **[Haemonetics](http://www.haemonetics.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6953154bf1f8465b79ea5ac0?utm_campaign=1065&utm_source=git)** | Boston, MA, US | Hybrid | Dec 29 |
 | **[Cartersville-Bartow County Chamber of Commerce](http://www.cartersvillechamber.com)** | **[FWS - Assistant - Student - Social Media Influencer](https://jobright.ai/jobs/info/695310abf1f8465b79ea5933?utm_campaign=1065&utm_source=git)** | Cartersville, GA | On Site | Dec 29 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing Internship 2026](https://jobright.ai/jobs/info/69531059935649778e20cea7?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 29 |
 | **[JETSET Pilates®](https://jetsetpilates.com)** | **[Marketing Intern/Community Lead - Gate Parkway](https://jobright.ai/jobs/info/695309daf1f8465b79ea570c?utm_campaign=1065&utm_source=git)** | Jacksonville, FL | On Site | Dec 29 |
 | **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 29 |
 | **[Build You Marketing](https://www.thebuildyou.com/linkedin-strategy-playbook)** | **[Marketing Intern](https://jobright.ai/jobs/info/69530739f1f8465b79ea561d?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Dec 29 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD](https://www.td.com)** | **[Marketing Planning – TD Insurance Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952ec78935649778e20b6e0?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
 | **[Q-mation](https://wonderwarenorth.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6952ec6ff1f8465b79ea40fe?utm_campaign=1065&utm_source=git)** | Horsham, PA | On Site | Dec 29 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[SEO Blog Post and Reddit Intern - Spring 2026](https://jobright.ai/jobs/info/6952ebce5bb7de448ef60787?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 29 |
-| **[APD Engineering & Architecture, PLLC](http://apd.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6952ea19f1f8465b79ea3dd3?utm_campaign=1065&utm_source=git)** | Victor, NY | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Marketing Learning & Colleague Experience Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952e9875bb7de448ef60268?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Marketing Technology & Ops](https://jobright.ai/jobs/info/6952e932f1f8465b79ea3ba5?utm_campaign=1065&utm_source=git)** | Bellevue, WA | On Site | Dec 29 |
-| **[TD](https://www.td.com)** | **[Marketing Planning – Wealth and Investing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952e7c8935649778e20aa6b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| ↳ | **[Marketing Planning – Everyday Banking Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952e54ff1f8465b79ea30f3?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | Hybrid | Dec 29 |
-| **[Guidon](https://www.guidondesign.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6952de25f1f8465b79ea26bf?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Dec 29 |
-| **[Vision Technologies](https://www.visiontechnologies.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6952dc2df1f8465b79ea2557?utm_campaign=1065&utm_source=git)** | US-MD-Glen Burnie | Hybrid | Dec 29 |
-| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Marketing Technology & Ops](https://jobright.ai/jobs/info/6952db58f1f8465b79ea24d7?utm_campaign=1065&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Dec 29 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Digital Performance Marketing Wealth Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6952db47f1f8465b79ea24c9?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[Marion County Commission on Youth (MCCOY)](https://mccoyouth.org)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6953064f935649778e20cb4f?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
