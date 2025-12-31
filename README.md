@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Decider Social](https://jobright.ai/jobs/info/69557b70aa05c26e7aafceea?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Miami & Orlando, FL) Winter 2026](https://jobright.ai/jobs/info/69557af9f1f8465b79ec8294?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Adler](https://www.linkedin.com/company/106780698)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6955792df1f8465b79ec8131?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
+| **[GOVX](https://www.govx.com)** | **[Social Media and Content Operations Intern](https://jobright.ai/jobs/info/695576cb9f1b381eb26ec721?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Audience Development](https://jobright.ai/jobs/info/695575799f1b381eb26ec62d?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Page Six Social Media](https://jobright.ai/jobs/info/69557177aa05c26e7aafc953?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| ↳ | **[Intern, Advertising Operations](https://jobright.ai/jobs/info/6955713caa05c26e7aafc931?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/695568d2f1f8465b79ec7ab5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| **[Implicit](http://www.agolo.com)** | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/695565feaa05c26e7aafc66b?utm_campaign=1065&utm_source=git)** | United, LA | Remote | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[103000-063:Summer Intern, Communications](https://jobright.ai/jobs/info/69555adef1f8465b79ec6334?utm_campaign=1065&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing internship 2026](https://jobright.ai/jobs/info/69555ab6aa05c26e7aafb103?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/695559aaaa05c26e7aafadd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 31 |
@@ -70,8 +79,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/6955394bf1f8465b79ec5394?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Community Communications & Outreach Intern](https://jobright.ai/jobs/info/6955389bf1f8465b79ec5342?utm_campaign=1065&utm_source=git)** | Headquater 754 Rt 18  - East Brunswick, NJ 08816 | On Site | Dec 31 |
 | **[Weber Shandwick](http://www.webershandwick.com/)** | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912bd27ea9ab01b82bf4a05?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Dec 31 |
-| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Brand Marketing Intern](https://jobright.ai/jobs/info/69555e7faa05c26e7aafbf59?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6955633ef1f8465b79ec7965?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
+| ↳ | **[Spring 2026 DC Brand Marketing Intern](https://jobright.ai/jobs/info/69555e7faa05c26e7aafbf59?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
 | **[Comcast](https://corporate.comcast.com)** | **[Comcast Sales and Marketing Intern](https://jobright.ai/jobs/info/6942068514ee092a69002326?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Dec 31 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Brand Marketing Intern](https://jobright.ai/jobs/info/695565529f1b381eb26ec09f?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 31 |
+| ↳ | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/695565a0aa05c26e7aafc63e?utm_campaign=1065&utm_source=git)** | District of Columbia, United States | Hybrid | Dec 31 |
 | **[Lyft](https://www.lyft.com/)** | **[Marketing MBA Intern (Summer 2026)](https://jobright.ai/jobs/info/6939279656b68f3dc4e69ff5?utm_campaign=1065&utm_source=git)** | San Francisco County, CA | Hybrid | Dec 31 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Management Intern - MBA](https://jobright.ai/jobs/info/68ffdf88e04ac838fb5bc957?utm_campaign=1065&utm_source=git)** | Kirkland, WA | Hybrid | Dec 31 |
 | ↳ | **[Brand Management Intern - MBA](https://jobright.ai/jobs/info/68ffe395e04ac838fb5bce00?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Dec 31 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Cleveland](https://jobright.ai/jobs/info/6937ff80b95c305f206d484a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 31 |
 | ↳ | **[Community Intern, Chicago Burbs](https://jobright.ai/jobs/info/6954f907aa05c26e7aaf7761?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 | **[VerifyDial](https://verifydial.com/)** | **[GTM and PR Interns](https://jobright.ai/jobs/info/6954ef6b9f1b381eb26e5387?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Toshiba Business](http://business.toshiba.com)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69448dd450bbaf7650569a92?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Dec 31 |
-| **[Weber Shandwick](http://www.webershandwick.com/)** | **[Analytics Intern (Spring 2026)](https://jobright.ai/jobs/info/690e33a744146d3b6ec51dfd?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Dec 31 |
-| ↳ | **[Public Relations Intern, Public Affairs (Spring 2026)](https://jobright.ai/jobs/info/6912da10d1047e3565cff9d6?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Dec 31 |
-| **[Precision Medicine Group](https://www.precisionmedicinegrp.com/pfm/)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb5eb9821486c423c6d84?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Dec 31 |
-| **[Sealing Technologies, a Parsons Company](https://www.sealingtech.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6954cbe0f1f8465b79ebffa2?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Dec 30 |
-| **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/6954b862aa05c26e7aaf4573?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Sealing Technologies, a Parsons Company](https://www.sealingtech.com)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6954b4485bb7de448ef7bf1d?utm_campaign=1065&utm_source=git)** | Columbia, MD | On Site | Dec 30 |
-| **[HP Marketing](https://www.hpros.com/)** | **[Marketing & Sales Summer Intern 2026](https://jobright.ai/jobs/info/6954b3a55bb7de448ef7bef2?utm_campaign=1065&utm_source=git)** | Melbourne, FL | Hybrid | Dec 30 |
-| **[TikTok](https://www.tiktok.com)** | **[Growth Marketing Project Intern - SMB Advertising - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6954aff1f1f8465b79ebf064?utm_campaign=1065&utm_source=git)** | San Jose, CA | Remote | Dec 30 |
-| **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 30 |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69548485aa05c26e7aaf015d?utm_campaign=1065&utm_source=git)** | Feasterville-Trevose, PA, US | On Site | Dec 30 |
-| **[Exclusive Sports Group](https://exclusivesg.com/)** | **[Football Marketing Intern (Spring, 2026)](https://jobright.ai/jobs/info/695481f3f1f8465b79ebb5fb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
