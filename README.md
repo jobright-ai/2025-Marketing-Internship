@@ -57,6 +57,32 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saputo Inc.](http://www.saputo.com/)** | **[Marketing Consumer Insights Internship - Summer 2026](https://jobright.ai/jobs/info/68e488be1852e62f00806f7b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
+| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Communications Internship - Summer 2026](https://jobright.ai/jobs/info/69382ea0a0dde7020e30c8c4?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Dec 31 |
+| **[Group 1001](https://group1001.com/)** | **[Sponsorships Intern](https://jobright.ai/jobs/info/6938c0b3a0dde7020e31586c?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | Dec 31 |
+| **[Brunswick Group](http://www.brunswickgroup.com)** | **[New York Summer Internship 2026](https://jobright.ai/jobs/info/69388b9bb95c305f206dbb75?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 31 |
+| ↳ | **[Chicago Summer Internship 2026](https://jobright.ai/jobs/info/6938844db95c305f206db631?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Francisco](https://jobright.ai/jobs/info/691bd3e8bcdbf3560c9e3192?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| ↳ | **[Community Intern, Twin Cities](https://jobright.ai/jobs/info/691bd2bb22a2cb4b9bd167d9?utm_campaign=1065&utm_source=git)** | Twin Lakes, MN | On Site | Dec 31 |
+| ↳ | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/691c172022a2cb4b9bd19250?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Dec 31 |
+| ↳ | **[Community Intern, Charlotte](https://jobright.ai/jobs/info/691bd2f6bcdbf3560c9e3090?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
+| ↳ | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/691c372bff70244984166cf3?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Dec 31 |
+| ↳ | **[Community Intern, Detroit](https://jobright.ai/jobs/info/691be2acbcdbf3560c9e39ce?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 31 |
+| ↳ | **[Community Intern, Tucson](https://jobright.ai/jobs/info/691bc1f515b41563671926cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
+| ↳ | **[Community Intern, West Los Angeles](https://jobright.ai/jobs/info/691c25e122a2cb4b9bd19722?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 31 |
+| ↳ | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/691c1721bcdbf3560c9e5a6e?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Dec 31 |
+| ↳ | **[Community Intern, North Bay](https://jobright.ai/jobs/info/691bc63515b4156367192a74?utm_campaign=1065&utm_source=git)** | North Bay Terraces, CA | On Site | Dec 31 |
+| ↳ | **[Community Intern, Charleston](https://jobright.ai/jobs/info/691c1970bcdbf3560c9e5afa?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Dec 31 |
+| ↳ | **[Community Intern, Peninsula](https://jobright.ai/jobs/info/691c3171bcdbf3560c9e620e?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 31 |
+| **[American Water](http://amwater.com)** | **[Communications & Engagement Intern](https://jobright.ai/jobs/info/691ba37115b415636719131c?utm_campaign=1065&utm_source=git)** | Camden, NJ | Hybrid | Dec 31 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Columbus](https://jobright.ai/jobs/info/691c24f8bcdbf3560c9e5f03?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Dec 31 |
+| ↳ | **[Community Intern, Reno](https://jobright.ai/jobs/info/691bccc7bcdbf3560c9e2bf0?utm_campaign=1065&utm_source=git)** | Reno, NV | On Site | Dec 31 |
+| ↳ | **[Community Intern, Central Jersey](https://jobright.ai/jobs/info/691bc6d415b4156367192ae6?utm_campaign=1065&utm_source=git)** | Somerville, NJ | On Site | Dec 31 |
+| ↳ | **[Community Intern, Omaha](https://jobright.ai/jobs/info/691bd29515b41563671931e4?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 31 |
+| ↳ | **[Community Intern, South Bay](https://jobright.ai/jobs/info/691be39d15b4156367193cca?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
+| ↳ | **[Community Intern, East Los Angeles](https://jobright.ai/jobs/info/691c1cd215b4156367195e0e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
+| ↳ | **[Community Intern, Cleveland](https://jobright.ai/jobs/info/6937ff80b95c305f206d484a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 31 |
+| ↳ | **[Community Intern, Chicago Burbs](https://jobright.ai/jobs/info/6954f907aa05c26e7aaf7761?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 | **[VerifyDial](https://verifydial.com/)** | **[GTM and PR Interns](https://jobright.ai/jobs/info/6954ef6b9f1b381eb26e5387?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/6954ee05aa05c26e7aaf5b1d?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Dec 31 |
 | **[Toshiba Business](http://business.toshiba.com)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69448dd450bbaf7650569a92?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Dec 31 |
@@ -75,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c6ead49a7695fbd033725?utm_campaign=1065&utm_source=git)** | Redwood City, California, United States | On Site | Dec 30 |
 | **[Rutee](https://rutee.id)** | **[Content Writer Internship (UNPAID)](https://jobright.ai/jobs/info/6954ac19aa05c26e7aaf22c5?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Visibly](https://www.linkedin.com/company/103293627)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6954a39a5bb7de448ef799d7?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Dec 30 |
-| **[Solvyr](https://www.linkedin.com/company/103627296)** | **[Media Strategy and Analytics Intern](https://jobright.ai/jobs/info/695497b15bb7de448ef7901b?utm_campaign=1065&utm_source=git)** | United States | On Site | Dec 30 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69548485aa05c26e7aaf015d?utm_campaign=1065&utm_source=git)** | Feasterville-Trevose, PA, US | On Site | Dec 30 |
 | **[Exclusive Sports Group](https://exclusivesg.com/)** | **[Football Marketing Intern (Spring, 2026)](https://jobright.ai/jobs/info/695481f3f1f8465b79ebb5fb?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | Hybrid | Dec 30 |
 | **[Sciframe IO](https://www.gardian.ai)** | **[Spring Social Media Marketing Intern, Medical Platform](https://jobright.ai/jobs/info/695480d55bb7de448ef779b9?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Dec 30 |
@@ -132,29 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Citizen Relations](http://ca.citizenrelations.com)** | **[Intern (Public Relations)](https://jobright.ai/jobs/info/69374397aabec14a727c5b8b?utm_campaign=1065&utm_source=git)** | Irvine, CA | On Site | Dec 30 |
 | **[KEEN](http://www.keenfootwear.com)** | **[Social Media Community Intern, KEEN Utility](https://jobright.ai/jobs/info/69375bc91c1c2161c13f34ad?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Dec 30 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c11f758fe1f97e5e8ed?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ | On Site | Dec 30 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37c73f758fe1f97e5e936?utm_campaign=1065&utm_source=git)** | Riverview, FL | On Site | Dec 30 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e37ff21852e62f007fc44a?utm_campaign=1065&utm_source=git)** | Schaumburg, IL | On Site | Dec 30 |
-| **[Henkel](http://www.henkel.com)** | **[Digital Marketing Intern, Schwarzkopf Professional – Summer 2026](https://jobright.ai/jobs/info/68cc84f17342c7623ae660ff?utm_campaign=1065&utm_source=git)** | Culver City, CA | Hybrid | Dec 30 |
-| **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68e384621852e62f007fc55a?utm_campaign=1065&utm_source=git)** | Savannah, GA | On Site | Dec 30 |
-| **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2026](https://jobright.ai/jobs/info/6919edafbcdbf3560c9d785a?utm_campaign=1065&utm_source=git)** | Brentwood, TN | Hybrid | Dec 30 |
-| **[St. Jude Children's Research Hospital - ALSAC](https://www.stjude.org)** | **[Summer 2026 Intern - Next Generation Intern (Tri Delta) - Memphis TN](https://jobright.ai/jobs/info/691ad6b615b415636718b1bf?utm_campaign=1065&utm_source=git)** | Memphis, TN | On Site | Dec 30 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Marketing Activation Intern](https://jobright.ai/jobs/info/693751d4aabec14a727c6645?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Dec 30 |
-| **[Citizen Relations](http://ca.citizenrelations.com)** | **[Intern (Public Relations)](https://jobright.ai/jobs/info/69376801a0dde7020e3027b9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
-| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/690b7f0fd046ab6061ce4af6?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Dec 30 |
-| **[Citizen Relations](http://ca.citizenrelations.com)** | **[Intern (Public Relations)](https://jobright.ai/jobs/info/6937646da0dde7020e3024b4?utm_campaign=1065&utm_source=git)** | Manhattan, NY | On Site | Dec 30 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Integrated Marketing Intern](https://jobright.ai/jobs/info/68bf0cd78e65e77df55b6716?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | On Site | Dec 30 |
-| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/690b85214a1b456627b10090?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Remote | Dec 30 |
-| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Marketing & Sales Development Representative Full-time Intern (Multilingual)](https://jobright.ai/jobs/info/6919df7815b41563671878ff?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 30 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[D1 Training Internship: Digital & Social Media Marketing Assistant](https://jobright.ai/jobs/info/6953c60d5bb7de448ef6c63c?utm_campaign=1065&utm_source=git)** | Auburn, AL | On Site | Dec 30 |
-| **[goodr](https://goodr.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69374beaaabec14a727c61d2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 30 |
-| **[Baird](http://www.rwbaird.com)** | **[Internship – Conference Services (Year-Round)](https://jobright.ai/jobs/info/68c4e0e8c96a22563ece3366?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | Hybrid | Dec 30 |
-| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/690b9698d046ab6061ce5862?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 30 |
-| **[KEEN](http://www.keenfootwear.com)** | **[Global Social Media Content Creator Intern](https://jobright.ai/jobs/info/69375aa3a0dde7020e301b85?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Dec 30 |
-| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Marketing & Sales Development Representative Full-time Intern (Multilingual)](https://jobright.ai/jobs/info/6919de4f15b4156367187895?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 30 |
-| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Influencer Marketing & Partnerships Intern](https://jobright.ai/jobs/info/690bca2b4a1b456627b12def?utm_campaign=1065&utm_source=git)** | Jersey City, NJ | Remote | Dec 30 |
-| **[Crimson Education](https://www.crimsoneducation.org/)** | **[Marketing & Sales Development Representative Full-time Intern (Multilingual)](https://jobright.ai/jobs/info/6919df6c45fb6f5ead8aaa18?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/69373b06a0dde7020e3003e7?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
-| **[Helpurr - AI Cat Pain Detector](https://helpurr.app/download)** | **[Feline Wellness & Grassroot Community Strategy Intern](https://jobright.ai/jobs/info/6953da82f1f8465b79eb17c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
-| **[Methuen Construction Company, Inc.](http://methuenconstruction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6936f4c8a0dde7020e2fdfee?utm_campaign=1065&utm_source=git)** | Plaistow, NH | On Site | Dec 30 |
-| **[Futu Holdings Limited](https://hk.futuhk.com)** | **[Unpaid - Integrated Marketing & Business Development Intern](https://jobright.ai/jobs/info/690b82b1d046ab6061ce4d2f?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Dec 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
