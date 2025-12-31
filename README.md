@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Buckle, Inc.](http://www.buckle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695459c0f1f8465b79eb8832?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Dec 30 |
+| **[Stryten Energy](https://www.stryten.com)** | **[2026 Summer Intern – Marketing Communications](https://jobright.ai/jobs/info/69545507f1f8465b79eb84e5?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Dec 30 |
+| **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Deep Eddy Vodka Internship](https://jobright.ai/jobs/info/69544e775bb7de448ef748fd?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 30 |
+| **[LITIX](https://www.linkedin.com/company/100156739)** | **[Market Research Intern](https://jobright.ai/jobs/info/69544b5aaa05c26e7aaecc29?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Hybrid | Dec 30 |
+| **[MacAllister Machinery Co., Inc.](http://www.macallister.com)** | **[Summer College Internship 2026 - Marketing](https://jobright.ai/jobs/info/695449a5aa05c26e7aaeca92?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Dec 30 |
 | **[CW](http://www.cwcapital.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6954365d5bb7de448ef71f45?utm_campaign=1065&utm_source=git)** | Washington,DC,US | On Site | Dec 30 |
 | **[Gordon Food Service Store](https://gfsstore.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/6954339faa05c26e7aaea39d?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Dec 30 |
 | **[Limitless Jewellery](https://limitlessjewellery.com/)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695422815bb7de448ef7103b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
@@ -76,8 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6953fdbbaa05c26e7aae7105?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[ELAN](https://elan-usa.com)** | **[Fashion Marketing Intern](https://jobright.ai/jobs/info/6953f97af1f8465b79eb2043?utm_campaign=1065&utm_source=git)** | Miami-FTL Area | On Site | Dec 30 |
 | **[TD](https://www.td.com)** | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6953f6edaa05c26e7aae6f73?utm_campaign=1065&utm_source=git)** | Toronto, Ontario | On Site | Dec 30 |
-| **[Keystone Equities, LLC](http://www.keystoneequitiesllc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6953f65aaa05c26e7aae6f1e?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Dec 30 |
-| **[TD](https://www.td.com)** | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6953f64e5bb7de448ef6e823?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario | On Site | Dec 30 |
+| ↳ | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6953f64e5bb7de448ef6e823?utm_campaign=1065&utm_source=git)** | Ottawa, Ontario | On Site | Dec 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/6953f393f1f8465b79eb1ed6?utm_campaign=1065&utm_source=git)** | Wyoming, Michigan | On Site | Dec 30 |
 | **[The Reuben Rink Company](https://www.reubenrink.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6953f26cf1f8465b79eb1e53?utm_campaign=1065&utm_source=git)** | Triad Area | Hybrid | Dec 30 |
 | **[Rise and Fame](https://risenfame.com)** | **[Social Media Marketing Strategist — Fashion, Web3](https://jobright.ai/jobs/info/6953e0ef5bb7de448ef6e2c9?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Dec 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69534a525bb7de448ef65d8d?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 | ↳ | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/6953487f935649778e210963?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 | ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/6953487b935649778e210961?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (LA & Dallas) Winter 2026](https://jobright.ai/jobs/info/695345e15bb7de448ef659e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 29 |
-| **[TD](https://www.td.com)** | **[Digital Transformation and Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695343e65bb7de448ef65931?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[ZZ Med Spa](https://www.zzmedspa.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695343bb5bb7de448ef65921?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 29 |
-| **[Karl Strauss Brewing Company](https://www.karlstrauss.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695340135bb7de448ef6548c?utm_campaign=1065&utm_source=git)** | Home Office/Distribution Center - Poway, CA 92064 | On Site | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
