@@ -57,6 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sciframe IO](https://www.gardian.ai)** | **[Spring Social Media Marketing Intern, Medical Platform](https://jobright.ai/jobs/info/695480d55bb7de448ef779b9?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Dec 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Operations Intern](https://jobright.ai/jobs/info/692e3c2efa28370be26a2961?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Dec 30 |
+| ↳ | **[Comcast Sales & Marketing Intern](https://jobright.ai/jobs/info/692e4c44fa28370be26a3447?utm_campaign=1065&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
+| ↳ | **[Comcast Marketing Operations Specialist Intern](https://jobright.ai/jobs/info/693a233a48a8ce22990e1e10?utm_campaign=1065&utm_source=git)** | Danvers, MA | On Site | Dec 30 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/69547bf75bb7de448ef76ef7?utm_campaign=1065&utm_source=git)** | Feasterville-Trevose, PA | On Site | Dec 30 |
+| **[ZoeRVA](https://zoetherapyservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/69547bd95bb7de448ef76ec2?utm_campaign=1065&utm_source=git)** | Innsbrook,VA,US | On Site | Dec 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Intern](https://jobright.ai/jobs/info/692e40c1ef4b48533d13dfe1?utm_campaign=1065&utm_source=git)** | Livermore, CA | On Site | Dec 30 |
+| **[Slidescope Digital Marketing and Data Analytics](https://slidescope.com/)** | **[Social- Media Marketing-Intern](https://jobright.ai/jobs/info/69547a3bf1f8465b79ebb033?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 30 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[Tech Digital- Marketing -Intern](https://jobright.ai/jobs/info/69547a105bb7de448ef76aac?utm_campaign=1065&utm_source=git)** | Canada | Remote | Dec 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Marketing Intern](https://jobright.ai/jobs/info/692e434bef4b48533d13e1ac?utm_campaign=1065&utm_source=git)** | Trevose, PA | On Site | Dec 30 |
+| ↳ | **[Comcast Business Field Marketing Intern](https://jobright.ai/jobs/info/692e3782fa28370be26a2633?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Dec 30 |
+| ↳ | **[Comcast Marketing Operations Specialist Intern](https://jobright.ai/jobs/info/692e391afa28370be26a2792?utm_campaign=1065&utm_source=git)** | Berlin, CT | On Site | Dec 30 |
+| ↳ | **[Comcast Business Marketing Intern](https://jobright.ai/jobs/info/692e5ac94c474121999d8bb9?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 30 |
+| **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Social Media Intern](https://jobright.ai/jobs/info/695475df5bb7de448ef76257?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Dec 30 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Operations Intern](https://jobright.ai/jobs/info/692e59bc4c474121999d8ad4?utm_campaign=1065&utm_source=git)** | Tigard, OR | On Site | Dec 30 |
+| ↳ | **[Comcast Marketing Events Specialist Intern](https://jobright.ai/jobs/info/692e78564c474121999d9bef?utm_campaign=1065&utm_source=git)** | Berlin, CT | On Site | Dec 30 |
+| **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Social Media & Marketing Internship](https://jobright.ai/jobs/info/695472edaa05c26e7aaee0c8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Dec 30 |
+| **[World's Best Wedding Photos](https://www.worldsbestweddingphotos.com)** | **[Copywriting and Social Media Intern](https://jobright.ai/jobs/info/695468d3f1f8465b79eb8f12?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Dec 30 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695459c0f1f8465b79eb8832?utm_campaign=1065&utm_source=git)** | Kearney, NE | On Site | Dec 30 |
 | **[Stryten Energy](https://www.stryten.com)** | **[2026 Summer Intern – Marketing Communications](https://jobright.ai/jobs/info/69545507f1f8465b79eb84e5?utm_campaign=1065&utm_source=git)** | Alpharetta, GA | On Site | Dec 30 |
 | **[Heaven Hill Brands](http://www.heavenhill.com/)** | **[Deep Eddy Vodka Internship](https://jobright.ai/jobs/info/69544e775bb7de448ef748fd?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Dec 30 |
@@ -66,10 +84,9 @@ For a complete list, click the following sortable link below:
 | **[Gordon Food Service Store](https://gfsstore.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/6954339faa05c26e7aaea39d?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Dec 30 |
 | **[Limitless Jewellery](https://limitlessjewellery.com/)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695422815bb7de448ef7103b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Dec 30 |
 | **[TD Securities](https://www.tdsecurities.com)** | **[Targeted Marketing 1:1 COE Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695420fcf1f8465b79eb46ad?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 30 |
+| **[What's The Move](https://www.linkedin.com/company/106198063)** | **[Marketing / Brand Ambassador Intern - Florida (Spring 2026)](https://jobright.ai/jobs/info/69540f89f1f8465b79eb40d9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[New York Mets](https://www.mlb.com/mets)** | **[2026 Summer Intern, Social Media](https://jobright.ai/jobs/info/69541494f1f8465b79eb4316?utm_campaign=1065&utm_source=git)** | Citi Field – Queens, New York | On Site | Dec 30 |
-| **[What's The Move](https://www.linkedin.com/company/106198063)** | **[Marketing Intern - Brand Ambassador](https://jobright.ai/jobs/info/69540f89f1f8465b79eb40d9?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[Gordon Food Service](https://www.gfs.com)** | **[Marketing Strategy and Analytics Intern](https://jobright.ai/jobs/info/69540ca95bb7de448ef70993?utm_campaign=1065&utm_source=git)** | Wyoming, MI | On Site | Dec 30 |
-| **[Vent Now](https://www.ventnow.ai/)** | **[Content Creation Internship](https://jobright.ai/jobs/info/69540b145bb7de448ef7092d?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 30 |
 | **[HIP Video Promo](http://www.hipvideopromo.com/)** | **[Marketing Intern / Video Production Intern](https://jobright.ai/jobs/info/695405885bb7de448ef70761?utm_campaign=1065&utm_source=git)** | South River, NJ | On Site | Dec 30 |
 | **[Mopec](https://www.mopec.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6954056eaa05c26e7aae8d98?utm_campaign=1065&utm_source=git)** | Madison Heights, MI, US | On Site | Dec 30 |
 | **[BEClub](https://bereaentrepreneurshipclub.my.canva.site/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/695404dc5bb7de448ef704d0?utm_campaign=1065&utm_source=git)** | Lexington, KY | Remote | Dec 30 |
@@ -140,21 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TD Securities](https://www.tdsecurities.com)** | **[Marketing Planning – Wealth and Investing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695378f9f1f8465b79eac4f6?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Brand Marketing Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695377aaf1f8465b79eac3c5?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
 | ↳ | **[Marketing Planning – TD Insurance Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69537786935649778e2137f2?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Digital Transformation and Strategy Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69537749f1f8465b79eac38b?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Marketing Planning – Everyday Banking Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/6953773cf1f8465b79eac382?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Corporate Sponsorships Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/69537716935649778e213795?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Marketing Operations & Governance Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695376cf935649778e213755?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Marketing Learning & Colleague Experience Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695372985bb7de448ef68af6?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| ↳ | **[Marketing Planning - Credit Cards Loyalty Intern/Co-op (SUMMER 2026)](https://jobright.ai/jobs/info/695371bc5bb7de448ef68ac1?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 29 |
-| **[LexSims](https://join.bili.dev/)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/695367d1935649778e213483?utm_campaign=1065&utm_source=git)** | Bellevue, WA | Hybrid | Dec 29 |
-| **[Twenty20 Systems](https://www.twenty20sys.com)** | **[Sales & Marketing Intern – USA](https://jobright.ai/jobs/info/695382c95bb7de448ef69344?utm_campaign=1065&utm_source=git)** | Monroe, NJ | Hybrid | Dec 29 |
-| **[HYPEBEAST](http://hypebeast.com)** | **[Marketing Designer Intern](https://jobright.ai/jobs/info/695360db5bb7de448ef685ae?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 29 |
-| **[CentiMark Corporation](http://www.CentiMark.com)** | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/69534fa7935649778e210db3?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 29 |
-| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/69534f8a935649778e210da6?utm_campaign=1065&utm_source=git)** | Hebron, KY | On Site | Dec 29 |
-| ↳ | **[Customer Service/ Marketing Representative / Intern (Construction)](https://jobright.ai/jobs/info/69534ec6935649778e210d58?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 29 |
-| **[Temecula City Lifestyle](www.citylifestyle.com/temecula)** | **[Social Media Internship](https://jobright.ai/jobs/info/69534a9c5bb7de448ef65db3?utm_campaign=1065&utm_source=git)** | Temecula, CA | Hybrid | Dec 29 |
-| **[Backroads](https://www.backroads.com)** | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/69534a7f5bb7de448ef65da5?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
-| ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/69534a525bb7de448ef65d8d?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
-| ↳ | **[Web Content & AI Search Optimization Intern](https://jobright.ai/jobs/info/6953487f935649778e210963?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
-| ↳ | **[Social Media & PR Intern](https://jobright.ai/jobs/info/6953487b935649778e210961?utm_campaign=1065&utm_source=git)** | Berkeley, California | Hybrid | Dec 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
