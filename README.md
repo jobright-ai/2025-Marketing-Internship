@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mad Talent Management Agency](www.madtalentmanagement.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6956e22aaa05c26e7ab11a85?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/6956e0f59f1b381eb27018c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
+| **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6956d727f1f8465b79edb3cf?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/6956d3449f1b381eb26ffbe8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 01 |
+| **[Best Job Tool](https://www.bestjobtool.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6956d2829f1b381eb26ffb68?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Rosie & Company Global](https://www.rosiecoglobal.com/)** | **[Busienss Development Intern](https://jobright.ai/jobs/info/6956bfac9f1b381eb26ff2fa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
 | **[Fusion100](http://Fusion100co.com)** | **[Greek Life Intern](https://jobright.ai/jobs/info/6956bc1af1f8465b79eda9f0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 01 |
 | **[Sciframe IO](https://www.gardian.ai)** | **[Spring Social Media Marketing Intern, Medical Platform](https://jobright.ai/jobs/info/6956bb4e9f1b381eb26ff2b2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jan 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Event Operations Intern (2026 NFL Draft)](https://jobright.ai/jobs/info/6955d0ecf1f8465b79ecb357?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Audience Development](https://jobright.ai/jobs/info/695575799f1b381eb26ec62d?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | ↳ | **[Intern, Decider Social](https://jobright.ai/jobs/info/69557b70aa05c26e7aafceea?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| **[CBRE](https://www.cbre.com)** | **[Intern](https://jobright.ai/jobs/info/6955c3a49f1b381eb26ef44c?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| **[Technical Standards & Safety Authority (TSSA)](https://www.tssa.org)** | **[Communication Intern](https://jobright.ai/jobs/info/6955cfdcf1f8465b79ecb19d?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Dec 31 |
-| **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/695585caf1f8465b79ec8657?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955c45e9f1b381eb26ef49e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Dec 31 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[CSLP Student Worker - Community & Church Outreach Intern (FWS-CSLP)](https://jobright.ai/jobs/info/6955a68ff1f8465b79ec9d1a?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
