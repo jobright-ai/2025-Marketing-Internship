@@ -57,8 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Atlanta / Wealth Management, Marketing / Summer Analyst](https://jobright.ai/jobs/info/695621db9f1b381eb26f5e28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
+| **[adidas](https://www.adidas-group.com)** | **[2026 US Undergraduate Internship - Digital Planning](https://jobright.ai/jobs/info/695642e1aa05c26e7ab073d8?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
+| ↳ | **[2026 US Undergraduate Internship - Product Marketing, Basketball](https://jobright.ai/jobs/info/6956429df1f8465b79ed288b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
+| ↳ | **[2026 US Undergraduate Internship - Digital Visual Merchandising](https://jobright.ai/jobs/info/6956426d9f1b381eb26f7012?utm_campaign=1065&utm_source=git)** | Portland, OR | Hybrid | Jan 01 |
+| ↳ | **[2026 US Undergraduate Internship - Culture Marketing](https://jobright.ai/jobs/info/695641b69f1b381eb26f6fac?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
+| ↳ | **[2026 US Undergraduate Internship - Product Marketing, Originals (Footwear & Apparel)](https://jobright.ai/jobs/info/695641b5f1f8465b79ed27fd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 01 |
+| **[VSP Vision](https://vspglobal.com/)** | **[Internship, Content Specialist](https://jobright.ai/jobs/info/69563ffaf1f8465b79ed254e?utm_campaign=1065&utm_source=git)** | Remote US | Remote | Jan 01 |
+| **[PCL Construction](http://www.pcl.com)** | **[Marketing Student](https://jobright.ai/jobs/info/69563aefaa05c26e7ab06e0d?utm_campaign=1065&utm_source=git)** | Oakville, Ontario, Canada | On Site | Jan 01 |
+| **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69563ad89f1b381eb26f6a8d?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 01 |
+| **[Precision AQ](http://www.precisionaq.com)** | **[Medical Writing Intern, Medical Communications](https://jobright.ai/jobs/info/68efb672de50091dbfa4fd0b?utm_campaign=1065&utm_source=git)** | Remote, United States | Remote | Jan 01 |
+| **[Mall of America](https://www.mallofamerica.com)** | **[PR + Social Intern - Spring 2026](https://jobright.ai/jobs/info/695632e69f1b381eb26f677a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 01 |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 01 |
+| **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jan 01 |
+| **[WPM Real Estate Management](http://wpmllc.com)** | **[MRE Internship](https://jobright.ai/jobs/info/69562a80f1f8465b79ed1c15?utm_campaign=1065&utm_source=git)** | Owings Mills, MD | Hybrid | Jan 01 |
 | **[TOYS FOR TRUCKS INC](https://toysfortrucks.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/69561a349f1b381eb26f553e?utm_campaign=1065&utm_source=git)** | 3005 North Marshall Road, Appleton, WI 54911, USA | On Site | Dec 31 |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Atlanta / Wealth Management, Marketing / Summer Analyst](https://jobright.ai/jobs/info/695621db9f1b381eb26f5e28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
 | **[Pearl West](https://www.pearlwestgroup.com)** | **[Tiktok Shop Coordinator Intern](https://jobright.ai/jobs/info/69560c7aaa05c26e7ab053a1?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 31 |
 | **[Forwards Fund](https://forwardsfund.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695601d79f1b381eb26f3dc4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 31 |
 | **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955dfcaf1f8465b79ecc8f2?utm_campaign=1065&utm_source=git)** | Riverbank, CA | On Site | Dec 31 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Saputo Inc.](http://www.saputo.com/)** | **[Marketing Consumer Insights Internship - Summer 2026](https://jobright.ai/jobs/info/68cd282eb2a74e1837ed3469?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Dec 31 |
 | **[TowneBank](https://www.townebank.com/)** | **[Summer Intern - Digital Marketing](https://jobright.ai/jobs/info/6938e5a3b95c305f206e28c5?utm_campaign=1065&utm_source=git)** | Suffolk, VA | On Site | Dec 31 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Beauty) - 2026 Start (MBA)](https://jobright.ai/jobs/info/69391782ac80bb5492bbb79b?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Dec 31 |
-| **[Yamaha Corporation](https://www.yamaha.com)** | **[Winds & Strings Marketing Intern](https://jobright.ai/jobs/info/6920039a09cc522e87747466?utm_campaign=1065&utm_source=git)** | Buena Park, CA | Hybrid | Dec 31 |
-| **[MJH Life Sciences®](https://www.mjhlifesciences.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/693886c9aabec14a727d6a43?utm_campaign=1065&utm_source=git)** | Cranbury, NJ | On Site | Dec 31 |
-| **[Brunswick Group](http://www.brunswickgroup.com)** | **[San Francisco Summer Internship 2026](https://jobright.ai/jobs/info/69388e01aabec14a727d6f23?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Dallas Summer Internship 2026](https://jobright.ai/jobs/info/693883bcaabec14a727d683e?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
-| **[Saputo Inc.](http://www.saputo.com/)** | **[Marketing Consumer Insights Internship - Summer 2026](https://jobright.ai/jobs/info/68e488be1852e62f00806f7b?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Dec 31 |
-| **[FloSports](http://www.flosports.tv/)** | **[Spring Internship - Social Media](https://jobright.ai/jobs/info/6913b18b1465e02904e96ba1?utm_campaign=1065&utm_source=git)** | Austin, TX | On Site | Dec 31 |
-| **[IDEMIA Public Security](https://na.idemia.com/)** | **[Communications Internship - Summer 2026](https://jobright.ai/jobs/info/69382ea0a0dde7020e30c8c4?utm_campaign=1065&utm_source=git)** | Reston, VA | Hybrid | Dec 31 |
-| **[Group 1001](https://group1001.com/)** | **[Sponsorships Intern](https://jobright.ai/jobs/info/6938c0b3a0dde7020e31586c?utm_campaign=1065&utm_source=git)** | Zionsville, IN | On Site | Dec 31 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Brantford, ON](https://jobright.ai/jobs/info/691b9ddd22a2cb4b9bd14459?utm_campaign=1065&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Dec 31 |
-| **[Brunswick Group](http://www.brunswickgroup.com)** | **[New York Summer Internship 2026](https://jobright.ai/jobs/info/69388b9bb95c305f206dbb75?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 31 |
-| ↳ | **[Chicago Summer Internship 2026](https://jobright.ai/jobs/info/6938844db95c305f206db631?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, San Francisco](https://jobright.ai/jobs/info/691bd3e8bcdbf3560c9e3192?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
-| ↳ | **[Community Intern, Twin Cities](https://jobright.ai/jobs/info/691bd2bb22a2cb4b9bd167d9?utm_campaign=1065&utm_source=git)** | Twin Lakes, MN | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
