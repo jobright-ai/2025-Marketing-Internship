@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rosie & Company Global](https://www.rosiecoglobal.com/)** | **[Busienss Development Intern](https://jobright.ai/jobs/info/6956bfac9f1b381eb26ff2fa?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
+| **[Fusion100](http://Fusion100co.com)** | **[Greek Life Intern](https://jobright.ai/jobs/info/6956bc1af1f8465b79eda9f0?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 01 |
+| **[Sciframe IO](https://www.gardian.ai)** | **[Spring Social Media Marketing Intern, Medical Platform](https://jobright.ai/jobs/info/6956bb4e9f1b381eb26ff2b2?utm_campaign=1065&utm_source=git)** | Austin, TX | Remote | Jan 01 |
+| **[Shamrock Foods Company](http://www.shamrockfoods.com)** | **[Summer 2026 - Marketing Intern](https://jobright.ai/jobs/info/694ae1f73019f50a4fe5f522?utm_campaign=1065&utm_source=git)** | Commerce City, CO | On Site | Jan 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Marketing & Communications Intern - MYMI 2026](https://jobright.ai/jobs/info/6956af0a9f1b381eb26fee45?utm_campaign=1065&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
 | ↳ | **[Digital Platforms Intern – MYMI 2026](https://jobright.ai/jobs/info/6956ad63f1f8465b79eda1ea?utm_campaign=1065&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
 | ↳ | **[Digital Platforms Intern – MYMI 2026](https://jobright.ai/jobs/info/6956ad5e9f1b381eb26fe355?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Intern](https://jobright.ai/jobs/info/6956ac609f1b381eb26fdd6e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 01 |
 | **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Marketing & Communications Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ac0baa05c26e7ab0dcbd?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
 | ↳ | **[Marketing Campaign Intern - MYMI 2026](https://jobright.ai/jobs/info/6956abaef1f8465b79ed97a4?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
-| **[Deneeze Agency](https://www.deneeze.com)** | **[Social Media Intern (Instagram & LinkedIn)](https://jobright.ai/jobs/info/6956a90eaa05c26e7ab0d83a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 01 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6956a0f6f1f8465b79ed8a7c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69569f9b9f1b381eb26fd257?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69569c429f1b381eb26fd0e7?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/695585caf1f8465b79ec8657?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955c45e9f1b381eb26ef49e?utm_campaign=1065&utm_source=git)** | Orlando, FL | On Site | Dec 31 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[CSLP Student Worker - Community & Church Outreach Intern (FWS-CSLP)](https://jobright.ai/jobs/info/6955a68ff1f8465b79ec9d1a?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Dec 31 |
-| **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955ca15aa05c26e7aaffb0c?utm_campaign=1065&utm_source=git)** | Southern California | On Site | Dec 31 |
-| **[Etico Management](https://eticomanagement.com/)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6955a16df1f8465b79ec9812?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 31 |
-| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Miami & Orlando, FL) Winter 2026](https://jobright.ai/jobs/info/69557af9f1f8465b79ec8294?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
