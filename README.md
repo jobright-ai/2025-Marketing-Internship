@@ -58,8 +58,12 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Audience Development](https://jobright.ai/jobs/info/695575799f1b381eb26ec62d?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Decider Social](https://jobright.ai/jobs/info/69557b70aa05c26e7aafceea?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| **[STUDIO REIGN](https://www.linkedin.com/company/77677441)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6955b6309f1b381eb26ef110?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
+| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Decider Social](https://jobright.ai/jobs/info/69557b70aa05c26e7aafceea?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
+| **[Motorola Solutions](http://www.motorolasolutions.com)** | **[Marketing Intern (2026 Summer Internship)](https://jobright.ai/jobs/info/6955b1ebf1f8465b79eca7c9?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 | **[Wavess](https://wavess.io/)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/695585caf1f8465b79ec8657?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
+| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[CSLP Student Worker - Community & Church Outreach Intern (FWS-CSLP)](https://jobright.ai/jobs/info/6955a68ff1f8465b79ec9d1a?utm_campaign=1065&utm_source=git)** | AZ Phoenix | On Site | Dec 31 |
+| **[Etico Management](https://eticomanagement.com/)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6955a16df1f8465b79ec9812?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 31 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Miami & Orlando, FL) Winter 2026](https://jobright.ai/jobs/info/69557af9f1f8465b79ec8294?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Adler](https://www.linkedin.com/company/106780698)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6955792df1f8465b79ec8131?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
 | **[GOVX](https://www.govx.com)** | **[Social Media and Content Operations Intern](https://jobright.ai/jobs/info/695576cb9f1b381eb26ec721?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
@@ -67,10 +71,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Advertising Operations](https://jobright.ai/jobs/info/6955713caa05c26e7aafc931?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/695568d2f1f8465b79ec7ab5?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Dec 31 |
 | **[Implicit](http://www.agolo.com)** | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/695565feaa05c26e7aafc66b?utm_campaign=1065&utm_source=git)** | United, LA | Remote | Dec 31 |
+| **[Answerr](https://answerr.ai)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6955ac3af1f8465b79eca30f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[DC Water](https://dcwater.com/)** | **[103000-063:Summer Intern, Communications](https://jobright.ai/jobs/info/69555adef1f8465b79ec6334?utm_campaign=1065&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer Marketing internship 2026](https://jobright.ai/jobs/info/69555ab6aa05c26e7aafb103?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/695556b39f1b381eb26ea22a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 31 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[SEO Blog/ Reddit Intern - Spring 2026](https://jobright.ai/jobs/info/695554d3f1f8465b79ec5a87?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Product Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/69554fd3f1f8465b79ec595b?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Dec 31 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Data Analyst Intern](https://jobright.ai/jobs/info/69554c149f1b381eb26e9f38?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69554763aa05c26e7aafa439?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Omaha](https://jobright.ai/jobs/info/691bd29515b41563671931e4?utm_campaign=1065&utm_source=git)** | Omaha, NE | On Site | Dec 31 |
 | ↳ | **[Community Intern, South Bay](https://jobright.ai/jobs/info/691be39d15b4156367193cca?utm_campaign=1065&utm_source=git)** | San Jose, CA | On Site | Dec 31 |
 | ↳ | **[Community Intern, East Los Angeles](https://jobright.ai/jobs/info/691c1cd215b4156367195e0e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Dec 31 |
-| ↳ | **[Community Intern, Cleveland](https://jobright.ai/jobs/info/6937ff80b95c305f206d484a?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Dec 31 |
-| ↳ | **[Community Intern, Chicago Burbs](https://jobright.ai/jobs/info/6954f907aa05c26e7aaf7761?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
-| **[VerifyDial](https://verifydial.com/)** | **[GTM and PR Interns](https://jobright.ai/jobs/info/6954ef6b9f1b381eb26e5387?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Toshiba Business](http://business.toshiba.com)** | **[Marketing Coordinator Internship](https://jobright.ai/jobs/info/69448dd450bbaf7650569a92?utm_campaign=1065&utm_source=git)** | Rochester, NY | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
