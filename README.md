@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Atlanta / Wealth Management, Marketing / Summer Analyst](https://jobright.ai/jobs/info/695621db9f1b381eb26f5e28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
+| **[TOYS FOR TRUCKS INC](https://toysfortrucks.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/69561a349f1b381eb26f553e?utm_campaign=1065&utm_source=git)** | 3005 North Marshall Road, Appleton, WI 54911, USA | On Site | Dec 31 |
+| **[Pearl West](https://www.pearlwestgroup.com)** | **[Tiktok Shop Coordinator Intern](https://jobright.ai/jobs/info/69560c7aaa05c26e7ab053a1?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 31 |
 | **[Forwards Fund](https://forwardsfund.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695601d79f1b381eb26f3dc4?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Dec 31 |
 | **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955dfcaf1f8465b79ecc8f2?utm_campaign=1065&utm_source=git)** | Riverbank, CA | On Site | Dec 31 |
 | **[Voltair](https://voltairlabs.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955db9baa05c26e7ab01020?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Data Analyst Intern](https://jobright.ai/jobs/info/69554c149f1b381eb26e9f38?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 31 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69554763aa05c26e7aafa439?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 31 |
 | **[Biome](Joinbiome.com)** | **[Campus Brand Intern](https://jobright.ai/jobs/info/695540289f1b381eb26e9ba8?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Lincoln Private Jets](https://www.lincolnprivatejets.com)** | **[Media Intern](https://jobright.ai/jobs/info/69555661f1f8465b79ec5b18?utm_campaign=1065&utm_source=git)** | Boca Raton, FL | On Site | Dec 31 |
 | **[Implicit](http://www.agolo.com)** | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/69553b48aa05c26e7aafa0d3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | ↳ | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/6955394bf1f8465b79ec5394?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Community Communications & Outreach Intern](https://jobright.ai/jobs/info/6955389bf1f8465b79ec5342?utm_campaign=1065&utm_source=git)** | Headquater 754 Rt 18  - East Brunswick, NJ 08816 | On Site | Dec 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Chicago Summer Internship 2026](https://jobright.ai/jobs/info/6938844db95c305f206db631?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Dec 31 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, San Francisco](https://jobright.ai/jobs/info/691bd3e8bcdbf3560c9e3192?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | ↳ | **[Community Intern, Twin Cities](https://jobright.ai/jobs/info/691bd2bb22a2cb4b9bd167d9?utm_campaign=1065&utm_source=git)** | Twin Lakes, MN | On Site | Dec 31 |
-| ↳ | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/691c172022a2cb4b9bd19250?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Dec 31 |
-| ↳ | **[Community Intern, Charlotte](https://jobright.ai/jobs/info/691bd2f6bcdbf3560c9e3090?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
