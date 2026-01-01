@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955dfcaf1f8465b79ecc8f2?utm_campaign=1065&utm_source=git)** | Riverbank, CA | On Site | Dec 31 |
+| **[Voltair](https://voltairlabs.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955db9baa05c26e7ab01020?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
+| **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d2bbf1f8465b79ecb665?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
+| **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship  - January 2026!](https://jobright.ai/jobs/info/6955e332aa05c26e7ab01b7e?utm_campaign=1065&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
 | **[DolFinContent](https://www.dolfincontent.com)** | **[SEO Articles and Reddit Intern - Spring 2026](https://jobright.ai/jobs/info/6955b839f1f8465b79eca9e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
+| **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d779f1f8465b79ecbd39?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
+| **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship - January 2026!](https://jobright.ai/jobs/info/6955d4f3f1f8465b79ecb9eb?utm_campaign=1065&utm_source=git)** | Altamonte Springs, FL | On Site | Dec 31 |
+| **[Grant Park Holdings](https://grantparkholdings.com)** | **[Research & Marketing Intern](https://jobright.ai/jobs/info/6955d35cf1f8465b79ecb767?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Dec 31 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6955c8cbf1f8465b79ecae90?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Dec 31 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Event Operations Intern (2026 NFL Draft)](https://jobright.ai/jobs/info/6955d0ecf1f8465b79ecb357?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Audience Development](https://jobright.ai/jobs/info/695575799f1b381eb26ec62d?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Community Intern, Honolulu](https://jobright.ai/jobs/info/691c172022a2cb4b9bd19250?utm_campaign=1065&utm_source=git)** | Honolulu, HI | On Site | Dec 31 |
 | ↳ | **[Community Intern, Charlotte](https://jobright.ai/jobs/info/691bd2f6bcdbf3560c9e3090?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Dec 31 |
 | ↳ | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/691c372bff70244984166cf3?utm_campaign=1065&utm_source=git)** | Carlsbad, CA | On Site | Dec 31 |
-| ↳ | **[Community Intern, Detroit](https://jobright.ai/jobs/info/691be2acbcdbf3560c9e39ce?utm_campaign=1065&utm_source=git)** | Detroit, MI | On Site | Dec 31 |
-| ↳ | **[Community Intern, Tucson](https://jobright.ai/jobs/info/691bc1f515b41563671926cb?utm_campaign=1065&utm_source=git)** | Tucson, AZ | On Site | Dec 31 |
-| ↳ | **[Community Intern, West Los Angeles](https://jobright.ai/jobs/info/691c25e122a2cb4b9bd19722?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Dec 31 |
-| ↳ | **[Community Intern, Rhode Island](https://jobright.ai/jobs/info/691c1721bcdbf3560c9e5a6e?utm_campaign=1065&utm_source=git)** | Providence, RI | On Site | Dec 31 |
-| ↳ | **[Community Intern, North Bay](https://jobright.ai/jobs/info/691bc63515b4156367192a74?utm_campaign=1065&utm_source=git)** | North Bay Terraces, CA | On Site | Dec 31 |
-| ↳ | **[Community Intern, Charleston](https://jobright.ai/jobs/info/691c1970bcdbf3560c9e5afa?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Dec 31 |
-| ↳ | **[Community Intern, Peninsula](https://jobright.ai/jobs/info/691c3171bcdbf3560c9e620e?utm_campaign=1065&utm_source=git)** | San Mateo, CA | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
