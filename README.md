@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Marketing & Communications Intern - MYMI 2026](https://jobright.ai/jobs/info/6956af0a9f1b381eb26fee45?utm_campaign=1065&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
+| ↳ | **[Digital Platforms Intern – MYMI 2026](https://jobright.ai/jobs/info/6956ad63f1f8465b79eda1ea?utm_campaign=1065&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
+| ↳ | **[Digital Platforms Intern – MYMI 2026](https://jobright.ai/jobs/info/6956ad5e9f1b381eb26fe355?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6956acf1f1f8465b79ed9fe3?utm_campaign=1065&utm_source=git)** | Fort Worth, TX | On Site | Jan 01 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Marketing Campaign Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ac8aaa05c26e7ab0df7e?utm_campaign=1065&utm_source=git)** | 2680 Matheson Blvd East, Suite 5002680 Matheson Blvd East, Suite 500 | Hybrid | Jan 01 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Intern](https://jobright.ai/jobs/info/6956ac609f1b381eb26fdd6e?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 01 |
+| **[Mercedes-Benz in the UK](https://www.mercedes-benz.co.uk)** | **[Brand Marketing & Communications Intern - MYMI 2026](https://jobright.ai/jobs/info/6956ac0baa05c26e7ab0dcbd?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
+| ↳ | **[Marketing Campaign Intern - MYMI 2026](https://jobright.ai/jobs/info/6956abaef1f8465b79ed97a4?utm_campaign=1065&utm_source=git)** | Canada-Ontario-MississaugaWork Locations | Hybrid | Jan 01 |
+| **[Deneeze Agency](https://www.deneeze.com)** | **[Social Media Intern (Instagram & LinkedIn)](https://jobright.ai/jobs/info/6956a90eaa05c26e7ab0d83a?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 01 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6956a0f6f1f8465b79ed8a7c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69569f9b9f1b381eb26fd257?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69569c429f1b381eb26fd0e7?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 01 |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content](https://jobright.ai/jobs/info/69569c34f1f8465b79ed8882?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 01 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6956954ef1f8465b79ed847d?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 01 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/695693f1f1f8465b79ed8422?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 01 |
 | **[Hormel Foods](http://www.hormelfoods.com/)** | **[Hormel Foods - CPG Brand Management Intern - Summer 2026 (Austin, MN, Chicago, IL, Bedminster, NJ)](https://jobright.ai/jobs/info/695693d99f1b381eb26fcc73?utm_campaign=1065&utm_source=git)** | Austin, MN, United States | On Site | Jan 01 |
@@ -131,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Voltair](https://www.voltairlabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955db9baa05c26e7ab01020?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d2bbf1f8465b79ecb665?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship  - January 2026!](https://jobright.ai/jobs/info/6955e332aa05c26e7ab01b7e?utm_campaign=1065&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[SEO Articles and Reddit Intern - Spring 2026](https://jobright.ai/jobs/info/6955b839f1f8465b79eca9e3?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
 | **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d779f1f8465b79ecbd39?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship - January 2026!](https://jobright.ai/jobs/info/6955d4f3f1f8465b79ecb9eb?utm_campaign=1065&utm_source=git)** | Altamonte Springs, FL | On Site | Dec 31 |
 | **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Event Operations Intern (2026 NFL Draft)](https://jobright.ai/jobs/info/6955d0ecf1f8465b79ecb357?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
@@ -145,16 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955ca15aa05c26e7aaffb0c?utm_campaign=1065&utm_source=git)** | Southern California | On Site | Dec 31 |
 | **[Etico Management](https://eticomanagement.com/)** | **[Real Estate Marketing Intern](https://jobright.ai/jobs/info/6955a16df1f8465b79ec9812?utm_campaign=1065&utm_source=git)** | Miami, FL | Hybrid | Dec 31 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Social Media Marketing Intern (Miami & Orlando, FL) Winter 2026](https://jobright.ai/jobs/info/69557af9f1f8465b79ec8294?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[Adler](https://adler-app.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6955792df1f8465b79ec8131?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Dec 31 |
-| **[The HALO Foundation](https://haloworldwide.org)** | **[INTERN: Kansas City Event Planning](https://jobright.ai/jobs/info/6955bf7baa05c26e7aaff720?utm_campaign=1065&utm_source=git)** | Kansas City - Kansas City, MO 64129 | On Site | Dec 31 |
-| **[GOVX](https://www.govx.com)** | **[Social Media and Content Operations Intern](https://jobright.ai/jobs/info/695576cb9f1b381eb26ec721?utm_campaign=1065&utm_source=git)** | San Diego, CA | On Site | Dec 31 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Page Six Social Media](https://jobright.ai/jobs/info/69557177aa05c26e7aafc953?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Advertising Operations](https://jobright.ai/jobs/info/6955713caa05c26e7aafc931?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| **[Implicit](http://www.agolo.com)** | **[Marketing Analyst / Intern (Part-Time)](https://jobright.ai/jobs/info/695565feaa05c26e7aafc66b?utm_campaign=1065&utm_source=git)** | United, LA | Remote | Dec 31 |
-| **[Answerr](https://answerr.ai)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6955ac3af1f8465b79eca30f?utm_campaign=1065&utm_source=git)** | United States | Remote | Dec 31 |
-| **[DC Water](https://dcwater.com/)** | **[103000-063:Summer Intern, Communications](https://jobright.ai/jobs/info/69555adef1f8465b79ec6334?utm_campaign=1065&utm_source=git)** | 1385 Canal St, SE, Washington, DC, 20003, US | On Site | Dec 31 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/695556b39f1b381eb26ea22a?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Dec 31 |
-| **[Shurtape Technologies, LLC](https://shurtapetech.com)** | **[Product Marketing Internship- Summer 2026](https://jobright.ai/jobs/info/69554fd3f1f8465b79ec595b?utm_campaign=1065&utm_source=git)** | Avon, OH | Hybrid | Dec 31 |
-| **[Bloom Nutrition](https://bloomnu.com)** | **[Influencer Marketing Data Analyst Intern](https://jobright.ai/jobs/info/69554c149f1b381eb26e9f38?utm_campaign=1065&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Dec 31 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/69554763aa05c26e7aafa439?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
