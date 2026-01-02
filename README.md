@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6957546f9f1b381eb2706cb1?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 01 |
+| **[Hathaway Robotics](http://www.hathaway.ai)** | **[Sales & Marketing Intern - Spring 2026 (On-Site / In Person Required)](https://jobright.ai/jobs/info/69574cf3f1f8465b79ee1d22?utm_campaign=1065&utm_source=git)** | Fall River, MA | On Site | Jan 01 |
 | **[RSVP Social](rsvpsocial.io)** | **[Startup Marketing Intern – Undergraduate](https://jobright.ai/jobs/info/6957381b9f1b381eb27048f3?utm_campaign=1065&utm_source=git)** | Boston, MA | Remote | Jan 01 |
 | **[Humarq Business Partners](http://www.humarq.com)** | **[Marketing Intern, Book Launch - Spring Semester (100% Remote)](https://jobright.ai/jobs/info/69572dbd9f1b381eb2704404?utm_campaign=1065&utm_source=git)** | Richmond, VA | Remote | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Commercial and Digital Excellence Department](https://jobright.ai/jobs/info/695729d8aa05c26e7ab1437f?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
@@ -64,8 +66,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Sales and Marketing Intern](https://jobright.ai/jobs/info/695728ff9f1b381eb27042f6?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL | On Site | Jan 01 |
 | **[Gal Media Group](https://www.galmediagroup.com/)** | **[Social Media Community Engagement Intern (UNPAID)](https://jobright.ai/jobs/info/695728479f1b381eb270429d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
 | **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Market Research & Competitive Intelligence Development](https://jobright.ai/jobs/info/695715d09f1b381eb2702045?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
-| **[Arcwize](https://www.arcwize.com)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/695715969f1b381eb2701fb9?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
 | **[NRRINC Media LLC](http://nrrinc.net/)** | **[Sales And Marketing Intern (PAID)](https://jobright.ai/jobs/info/695715229f1b381eb2701f82?utm_campaign=1065&utm_source=git)** | Brea, CA | On Site | Jan 01 |
+| **[Axsome Therapeutics, Inc.](http://axsome.com)** | **[2026 Summer Intern: Commercial and Digital Excellence Department](https://jobright.ai/jobs/info/6957147daa05c26e7ab120ed?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Wild Rivers Conservancy of the St. Croix and Namekagon](https://wildriversconservancy.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6957037eaa05c26e7ab11ec2?utm_campaign=1065&utm_source=git)** | Osceola, WI | On Site | Jan 01 |
 | **[Neuraci Labs](www.neuraci.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695701e09f1b381eb2701d2e?utm_campaign=1065&utm_source=git)** | United States | On Site | Jan 01 |
 | **[Mad Talent Management Agency](www.madtalentmanagement.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6956e22aaa05c26e7ab11a85?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JPI](http://jpi.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6955dfcaf1f8465b79ecc8f2?utm_campaign=1065&utm_source=git)** | Riverbank, CA | On Site | Dec 31 |
 | **[Voltair](https://www.voltairlabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955db9baa05c26e7ab01020?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d2bbf1f8465b79ecb665?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
-| **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship  - January 2026!](https://jobright.ai/jobs/info/6955e332aa05c26e7ab01b7e?utm_campaign=1065&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
-| **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d779f1f8465b79ecbd39?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
