@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tiffany & Co.](http://www.tiffany.com)** | **[Internship - Client Relations & Events, Landmark](https://jobright.ai/jobs/info/695802d19f1b381eb270f5c9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jan 02 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Online -Marketing Internship-Work Job](https://jobright.ai/jobs/info/695801a6f1f8465b79eeab3c?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Jan 02 |
+| **[Cavender's](https://www.cavenders.com/)** | **[Ecommerce Intern](https://jobright.ai/jobs/info/6958016d9f1b381eb270f545?utm_campaign=1065&utm_source=git)** | Tyler, TX | On Site | Jan 02 |
+| **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/6957fc339f1b381eb270f3e6?utm_campaign=1065&utm_source=git)** | Redlands, CA | On Site | Jan 02 |
+| **[Bethesda Foundation](https://29829.thankyou4caring.org)** | **[Intern](https://jobright.ai/jobs/info/6957f5e7f1f8465b79ee8d7c?utm_campaign=1065&utm_source=git)** | Cincinnati, OH | On Site | Jan 02 |
+| **[K9WEAR](https://www.k9wear.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6957f28ef1f8465b79ee8c98?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Biome](Joinbiome.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6957f22af1f8465b79ee8c82?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6957ed26f1f8465b79ee8b98?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Jan 02 |
+| **[No Barriers Education Inc.](https://www.nobarrierseducation.org/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6957e98cf1f8465b79ee8a83?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | Remote | Jan 02 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Halifax, NS](https://jobright.ai/jobs/info/693be7c949a7695fbd02d773?utm_campaign=1065&utm_source=git)** | Halifax, Nova Scotia, Canada | On Site | Jan 02 |
 | **[Pacira BioSciences, Inc.](http://www.pacira.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6957e7a5aa05c26e7ab1d2cc?utm_campaign=1065&utm_source=git)** | Brisbane, CA | On Site | Jan 02 |
 | **[Kenworth Truck Co.](http://www.kenworth.com/)** | **[Summer 2026 Intern / Product Marketing](https://jobright.ai/jobs/info/690124d54539ea1f2141d0a7?utm_campaign=1065&utm_source=git)** | Kirkland, WA | On Site | Jan 02 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68ffce93e0c73b3a1119ea84?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[B2B Content & Events Summer Intern](https://jobright.ai/jobs/info/693a019f48a8ce22990dfc0e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
 | **[Cargill](https://www.cargill.com/home)** | **[Digital Marketing Intern (CBI) - Summer 2026](https://jobright.ai/jobs/info/691cec4222a2cb4b9bd1ec94?utm_campaign=1065&utm_source=git)** | Wayzata, MN | Hybrid | Jan 01 |
-| **[McGraw Hill](http://www.mheducation.com)** | **[Corp Communication Intern](https://jobright.ai/jobs/info/6956736ff1f8465b79ed705b?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Jan 01 |
-| **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Marketing](https://jobright.ai/jobs/info/693a7696ac80bb5492bcf87d?utm_campaign=1065&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 01 |
-| **[DRB](https://drb.com)** | **[Internal Communications Intern - Winter 2026](https://jobright.ai/jobs/info/693a353fac80bb5492bcbc56?utm_campaign=1065&utm_source=git)** | Akron, OH | On Site | Jan 01 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/691cb1e8ff7024498416975e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
-| **[Cretex Companies, Inc.](http://cretexcompanies.com)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/6939fce848a8ce22990df2a3?utm_campaign=1065&utm_source=git)** | Brooklyn Park, MN | On Site | Jan 01 |
-| **[Tenaska](http://www.tenaska.com/)** | **[Natural Gas Marketing - Summer Internship](https://jobright.ai/jobs/info/691d150922a2cb4b9bd20862?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 01 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/691c9b08ff70244984168d36?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 01 |
-| **[QuinStreet](http://www.quinstreet.com)** | **[Performance Marketing & Analytics Internship Program (Undergraduate - Spring 2026 Graduates)](https://jobright.ai/jobs/info/693a228c56b68f3dc4e77780?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Summer Intern 2026 - Marketing](https://jobright.ai/jobs/info/6939f8b148a8ce22990debdc?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Jan 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
