@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of New Braunfels, TX](http://newbraunfels.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/695793f89f1b381eb2709844?utm_campaign=1065&utm_source=git)** | New Braunfels, TX | On Site | Jan 02 |
+| **[MacAllister® Surface Prep](http://www.macallistersurfaceprep.com)** | **[Summer College Internship 2026 - Marketing](https://jobright.ai/jobs/info/6957902eaa05c26e7ab18aa9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN | On Site | Jan 02 |
+| **[LexSims](https://join.bili.dev/)** | **[GTM Analyst](https://jobright.ai/jobs/info/695786df9f1b381eb2708270?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 02 |
+| **[RecruitiX](https://www.linkedin.com/company/103673034)** | **[Advertising Internship](https://jobright.ai/jobs/info/695783efaa05c26e7ab18133?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jan 02 |
 | **[FleishmanHillard](http://fleishmanhillard.com)** | **[Spring 2026 DC Digital Paid Media Intern](https://jobright.ai/jobs/info/6941c78f14ee092a69ffdeb4?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jan 01 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/69576638aa05c26e7ab17111?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jan 01 |
 | **[La Marquesilla](www.lamarquesilla.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69576428f1f8465b79ee2723?utm_campaign=1065&utm_source=git)** | SD Metro Area | Hybrid | Jan 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 01 |
 | **[Power Digital Marketing](http://www.powerdigitalmarketing.com)** | **[Retail Marketplace (Ecommerce) Internship, Spring 2026](https://jobright.ai/jobs/info/69011158f8ce7a040fdbbb19?utm_campaign=1065&utm_source=git)** | Remote - United States | Remote | Jan 01 |
 | **[WPM Real Estate Management](http://wpmllc.com)** | **[MRE Internship](https://jobright.ai/jobs/info/69562a80f1f8465b79ed1c15?utm_campaign=1065&utm_source=git)** | Owings Mills, MD | Hybrid | Jan 01 |
-| **[B. Braun Medical Inc. (US)](http://www.bbraunusa.com)** | **[B Braun PA Intern - Product Marketing](https://jobright.ai/jobs/info/6957760caa05c26e7ab1787f?utm_campaign=1065&utm_source=git)** | Bethlehem, PA | On Site | Dec 31 |
-| **[TOYS FOR TRUCKS INC](https://toysfortrucks.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/69561a349f1b381eb26f553e?utm_campaign=1065&utm_source=git)** | 3005 North Marshall Road, Appleton, WI 54911, USA | On Site | Dec 31 |
-| **[Goldman Sachs](https://www.goldmansachs.com)** | **[2027 / Americas / Atlanta / Wealth Management, Marketing / Summer Analyst](https://jobright.ai/jobs/info/695621db9f1b381eb26f5e28?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Dec 31 |
-| **[Pearl West](https://www.pearlwestgroup.com)** | **[Tiktok Shop Coordinator Intern](https://jobright.ai/jobs/info/69560c7aaa05c26e7ab053a1?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
