@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wild Rivers Conservancy of the St. Croix and Namekagon](https://wildriversconservancy.org)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6957037eaa05c26e7ab11ec2?utm_campaign=1065&utm_source=git)** | Osceola, WI | On Site | Jan 01 |
+| **[Neuraci Labs](www.neuraci.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695701e09f1b381eb2701d2e?utm_campaign=1065&utm_source=git)** | United States | On Site | Jan 01 |
 | **[Mad Talent Management Agency](www.madtalentmanagement.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6956e22aaa05c26e7ab11a85?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 01 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Social Media Internship / Spring 2026](https://jobright.ai/jobs/info/6956e0f59f1b381eb27018c7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
 | **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6956d727f1f8465b79edb3cf?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 01 |
@@ -87,8 +89,11 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Comcast Marketing Operations Specialist Intern](https://jobright.ai/jobs/info/6956851ef1f8465b79ed7d56?utm_campaign=1065&utm_source=git)** | Danvers, MA | On Site | Jan 01 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Category Management Intern](https://jobright.ai/jobs/info/68ffce93e0c73b3a1119ea84?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 01 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[B2B Content & Events Summer Intern](https://jobright.ai/jobs/info/693a019f48a8ce22990dfc0e?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Business Field Marketing Intern](https://jobright.ai/jobs/info/6956f3a49f1b381eb2701b55?utm_campaign=1065&utm_source=git)** | Baltimore, MD | On Site | Jan 01 |
 | **[Cargill](https://www.cargill.com/home)** | **[Digital Marketing Intern (CBI) - Summer 2026](https://jobright.ai/jobs/info/691cec4222a2cb4b9bd1ec94?utm_campaign=1065&utm_source=git)** | Wayzata, MN | Hybrid | Jan 01 |
 | **[McGraw Hill](http://www.mheducation.com)** | **[Corp Communication Intern](https://jobright.ai/jobs/info/6956736ff1f8465b79ed705b?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Jan 01 |
+| **[Comcast](https://corporate.comcast.com)** | **[Comcast Marketing Events Specialist Intern](https://jobright.ai/jobs/info/6956fc02aa05c26e7ab11dcd?utm_campaign=1065&utm_source=git)** | Berlin, CT | On Site | Jan 01 |
+| ↳ | **[Comcast Business Marketing Intern](https://jobright.ai/jobs/info/6956fd6c9f1b381eb2701c5a?utm_campaign=1065&utm_source=git)** | Trevose, PA | On Site | Jan 01 |
 | **[IG Wealth Management](https://ig.ca)** | **[Summer Intern 2026 - Marketing](https://jobright.ai/jobs/info/693a7696ac80bb5492bcf87d?utm_campaign=1065&utm_source=git)** | Manitoba, Canada | Hybrid | Jan 01 |
 | **[DRB](https://drb.com)** | **[Internal Communications Intern - Winter 2026](https://jobright.ai/jobs/info/693a353fac80bb5492bcbc56?utm_campaign=1065&utm_source=git)** | Akron, OH | On Site | Jan 01 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[Market Research Intern - Summer 2026 Application](https://jobright.ai/jobs/info/691cb1e8ff7024498416975e?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Voltair](https://www.voltairlabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6955db9baa05c26e7ab01020?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Dec 31 |
 | **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d2bbf1f8465b79ecb665?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
 | **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship  - January 2026!](https://jobright.ai/jobs/info/6955e332aa05c26e7ab01b7e?utm_campaign=1065&utm_source=git)** | Altamonte Springs,FL,US | On Site | Dec 31 |
-| **[HydraPak, LLC](https://hydrapak.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6955d779f1f8465b79ecbd39?utm_campaign=1065&utm_source=git)** | Longmont, CO | On Site | Dec 31 |
-| **[Everstory Partners](http://www.everstorypartners.com)** | **[Marketing Internship - January 2026!](https://jobright.ai/jobs/info/6955d4f3f1f8465b79ecb9eb?utm_campaign=1065&utm_source=git)** | Altamonte Springs, FL | On Site | Dec 31 |
-| **[Pittsburgh Steelers](http://www.steelers.com/)** | **[Event Operations Intern (2026 NFL Draft)](https://jobright.ai/jobs/info/6955d0ecf1f8465b79ecb357?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Dec 31 |
-| **[The Wall Street Journal](https://www.wjs.com/)** | **[Intern, Audience Development](https://jobright.ai/jobs/info/695575799f1b381eb26ec62d?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
-| ↳ | **[Intern, Decider Social](https://jobright.ai/jobs/info/69557b70aa05c26e7aafceea?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Dec 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
