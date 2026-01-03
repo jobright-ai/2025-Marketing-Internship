@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brwnhouse Agency](www.brwnhouse.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6958c7109f1b381eb271ad19?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
+| **[@Gowheeapp](https://gowhee.com/)** | **[Writer / Journalist Intern](https://jobright.ai/jobs/info/6958bab49f1b381eb2719d7a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
+| **[Mission Wealth](https://missionwealth.com)** | **[Marketing & Business Development Intern](https://jobright.ai/jobs/info/6958b68bf1f8465b79ef4c06?utm_campaign=1065&utm_source=git)** | Houston, TX, US | On Site | Jan 02 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6958adf8aa05c26e7ab277ac?utm_campaign=1065&utm_source=git)** | Houston, TX, US | On Site | Jan 02 |
 | **[Life Time Inc.](https://www.lifetime.life/)** | **[Field Marketing Intern-Life Time Health](https://jobright.ai/jobs/info/695886349f1b381eb2716bd2?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/694a453231c12007d3b906af?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
+| **[The Ambony](http://www.manofthehourmag.com/)** | **[Copywriting / Public Relations/Social Media (Intern)](https://jobright.ai/jobs/info/6958ade59f1b381eb2717c76?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 02 |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Social Media Intern](https://jobright.ai/jobs/info/694a453231c12007d3b906af?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
 | **[Belen Agency](https://www.linkedin.com/company/106050703)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69587b91f1f8465b79ef1b60?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Iron & Alder Supply Co.](https://ironalder.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695877939f1b381eb27162af?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 02 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/695870799f1b381eb2715e55?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 02 |
-| **[Acadion](http://acadion.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69586d7ef1f8465b79ef1228?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jan 02 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69586b4faa05c26e7ab250b1?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69586aa49f1b381eb27153ae?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Bark](https://www.bark.us/)** | **[Growth Intern](https://jobright.ai/jobs/info/69589da49f1b381eb271793b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6894a0f273b3a600fe880c12?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/695857579f1b381eb2713b80?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Founder’s office intern](https://jobright.ai/jobs/info/69585609aa05c26e7ab23a17?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 02 |
-| **[DirectCare AI](www.directcareai.com)** | **[Marketing & Social Media Intern (Unpaid Internship)](https://jobright.ai/jobs/info/695852e89f1b381eb27139e6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6931bdc64c474121999f2ba4?utm_campaign=1065&utm_source=git)** | Southbury, CT | Hybrid | Jan 02 |
 | **[GSA - Global Student Accommodation](https://www.gsagroup.com)** | **[Student Ambassador](https://jobright.ai/jobs/info/6958774cf1f8465b79ef1839?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Jan 02 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern (Temporary)](https://jobright.ai/jobs/info/695864119f1b381eb2714062?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 02 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/695824239f1b381eb27104a7?utm_campaign=1065&utm_source=git)** | Winnebago, NE | On Site | Jan 02 |
 | **[KRAFZEN](krafzeninc.com)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695824219f1b381eb27104a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[ZoeRVA Health](https://zoetherapyservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695824109f1b381eb271049a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Jan 02 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content ❤️](https://jobright.ai/jobs/info/69582400f1f8465b79eeba76?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 02 |
 | **[Porsche Financial Services, Inc.](http://www.porsche.com/usa/pfs)** | **[Remarketing Intern](https://jobright.ai/jobs/info/695823649f1b381eb271040d?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 02 |
 | **[Franke Group](https://www.franke.com/in/en/home.html)** | **[Marketing & Product Management Intern - Franke FoodService](https://jobright.ai/jobs/info/69388b56aabec14a727d6d41?utm_campaign=1065&utm_source=git)** | Smyrna, TN | On Site | Jan 02 |
 | **[Parc Center for Disabilities](https://www.parc-fl.org)** | **[Development Intern - Spring 2026](https://jobright.ai/jobs/info/69582159f1f8465b79eeb863?utm_campaign=1065&utm_source=git)** | Saint Petersburg,FL,US | On Site | Jan 02 |
@@ -110,13 +112,12 @@ For a complete list, click the following sortable link below:
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Community Impact and Engagement Intern](https://jobright.ai/jobs/info/69581941aa05c26e7ab1fc95?utm_campaign=1065&utm_source=git)** | US-NE-Winnebago | On Site | Jan 02 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Spring 2026 Entrepreneurial and Talent Brand Marketing Internship](https://jobright.ai/jobs/info/695818789f1b381eb270fccb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Diffusion PR](http://diffusionpr.com)** | **[Public Relations Intern – Immediate Start - NYC](https://jobright.ai/jobs/info/69581793aa05c26e7ab1fb81?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
-| ↳ | **[Public Relations Intern – Immediate Start -LA](https://jobright.ai/jobs/info/69581c5df1f8465b79eeb564?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[Influencer marketing internship 2026](https://jobright.ai/jobs/info/6958168ef1f8465b79eeb174?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategic Growth Analytics Intern](https://jobright.ai/jobs/info/6958164ef1f8465b79eeb151?utm_campaign=1065&utm_source=git)** | US-Remote | Remote | Jan 02 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Digital Campaigns Internship - Winter/Spring '26](https://jobright.ai/jobs/info/69581648aa05c26e7ab1faab?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[Intern, Communications 2026](https://jobright.ai/jobs/info/69583e53aa05c26e7ab22dce?utm_campaign=1065&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
 | ↳ | **[USGA P.J. Boatwright Internship Membership Growth Marketing: Women and Public Golf](https://jobright.ai/jobs/info/69583cdcaa05c26e7ab22948?utm_campaign=1065&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
 | ↳ | **[USGA P.J. Boatwright Internship 2026 - Communications](https://jobright.ai/jobs/info/6958396cf1f8465b79eedb58?utm_campaign=1065&utm_source=git)** | ELMSFORD, New York, United States | Hybrid | Jan 02 |
+| **[Diffusion PR](http://diffusionpr.com)** | **[Public Relations Intern – Immediate Start](https://jobright.ai/jobs/info/69581c5df1f8465b79eeb564?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 02 |
 | **[Atwell, LLC](https://atwell.com)** | **[Digital Communications Intern](https://jobright.ai/jobs/info/695809e1f1f8465b79eeae1a?utm_campaign=1065&utm_source=git)** | Southfield, MI | Hybrid | Jan 02 |
 | **[Swapila](https://www.swapila.com/)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/695809a0f1f8465b79eeae05?utm_campaign=1065&utm_source=git)** | Greater Boston | Remote | Jan 02 |
 | **[Twin Disc](http://www.twindisc.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695827a8aa05c26e7ab206c2?utm_campaign=1065&utm_source=git)** | Milwaukee (Third Ward), WI | On Site | Jan 02 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Walker Sands](https://www.walkersands.com/)** | **[SEO + GEO Intern](https://jobright.ai/jobs/info/693b4956b309e3780086fe41?utm_campaign=1065&utm_source=git)** | Boston, MA | Hybrid | Jan 02 |
 | **[AriensCo](https://www.ariensco.com/)** | **[Intern, Digital Marketing Communications](https://jobright.ai/jobs/info/68e57870ae2b894b1d70f811?utm_campaign=1065&utm_source=git)** | Brillion, WI | Hybrid | Jan 02 |
 | **[SWBC](https://www.swbc.com)** | **[Community Relations Intern](https://jobright.ai/jobs/info/693fb52f50bbaf765051e424?utm_campaign=1065&utm_source=git)** | San Antonio, TX | On Site | Jan 02 |
-| **[Susan G. Komen](http://www.komen.org)** | **[California Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6957bd3bf1f8465b79ee6b28?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Jan 02 |
-| **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Marketing Summer Internship - Milwaukee](https://jobright.ai/jobs/info/6958aff6aa05c26e7ab2812f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
