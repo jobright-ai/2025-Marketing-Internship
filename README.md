@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Life Time Inc.](https://www.lifetime.life/)** | **[Field Marketing Intern-Life Time Health](https://jobright.ai/jobs/info/695886349f1b381eb2716bd2?utm_campaign=1065&utm_source=git)** | Chanhassen, MN | On Site | Jan 02 |
+| **[Belen Agency](https://www.linkedin.com/company/106050703)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69587b91f1f8465b79ef1b60?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
+| **[Iron & Alder Supply Co.](https://ironalder.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695877939f1b381eb27162af?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 02 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/695870799f1b381eb2715e55?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 02 |
 | **[Acadion](http://acadion.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/69586d7ef1f8465b79ef1228?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jan 02 |
@@ -70,11 +73,13 @@ For a complete list, click the following sortable link below:
 | **[Soul Detox](GetSoulDetox.com)** | **[Founder’s office intern](https://jobright.ai/jobs/info/69585609aa05c26e7ab23a17?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 02 |
 | **[DirectCare AI](www.directcareai.com)** | **[Marketing & Social Media Intern (Unpaid Internship)](https://jobright.ai/jobs/info/695852e89f1b381eb27139e6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6931bdc64c474121999f2ba4?utm_campaign=1065&utm_source=git)** | Southbury, CT | Hybrid | Jan 02 |
+| **[GSA - Global Student Accommodation](https://www.gsagroup.com)** | **[Student Ambassador](https://jobright.ai/jobs/info/6958774cf1f8465b79ef1839?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Jan 02 |
 | **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern (Temporary)](https://jobright.ai/jobs/info/695864119f1b381eb2714062?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 02 |
 | **[Oakley](https://www.heartlandchc.org)** | **[Oakley Product Strategy Summer 2026 Intern](https://jobright.ai/jobs/info/6952af8d935649778e2078bc?utm_campaign=1065&utm_source=git)** | Foothill Ranch, CA | On Site | Jan 02 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Communications](https://jobright.ai/jobs/info/695842f09f1b381eb27131cb?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | **[Southwestern Medical Foundation](https://swmedical.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69583eecaa05c26e7ab22e57?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 02 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/695857bb9f1b381eb2713ba8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 02 |
+| **[Forwards Fund](https://forwardsfund.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695875caaa05c26e7ab25fca?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Remote | Jan 02 |
 | **[Clear Ridge Defense](https://clridge.com/)** | **[Graphic Media/Social Media Intern](https://jobright.ai/jobs/info/6958395b9f1b381eb2711e5a?utm_campaign=1065&utm_source=git)** | Columbia, MD/Remote | Remote | Jan 02 |
 | **[Giorgio Armani](http://www.armani.com)** | **[Intern, Merchandising, A/X Armani Exchange](https://jobright.ai/jobs/info/695836d9aa05c26e7ab219de?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Allegiant](https://www.allegiantair.com/)** | **[Loyalty Intern (Summer 2026)](https://jobright.ai/jobs/info/6958349e9f1b381eb27110f5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 02 |
@@ -84,13 +89,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[USGA P.J. Boatwright Internship Membership Growth Marketing: Women and Public Golf](https://jobright.ai/jobs/info/69584f67f1f8465b79eeee1b?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 02 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69426f6abdcf884a5ade4a4b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
+| **[disruptivePM](https://www.disruptivepm.com/)** | **[Product & Growth internship (unpaid)](https://jobright.ai/jobs/info/695882c69f1b381eb2716aae?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Jan 02 |
 | **[Acushnet Company](http://employment.acushnetgolf.com/)** | **[2026 Pinnacle Golf Ball Marketing Internship](https://jobright.ai/jobs/info/69582c849f1b381eb2710b23?utm_campaign=1065&utm_source=git)** | Fairhaven, MA | On Site | Jan 02 |
 | **[City of San Luis Obispo](https://www.slocity.org/)** | **[Tourism Intern](https://jobright.ai/jobs/info/69584805f1f8465b79eeeac9?utm_campaign=1065&utm_source=git)** | San Luis Obispo, CA | On Site | Jan 02 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Strategic Growth Analytics Intern](https://jobright.ai/jobs/info/695829129f1b381eb271087b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[TLG Communications](https://tlgcommunications.com)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6958290cf1f8465b79eebe56?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 02 |
 | **[Entegris](http://www.entegris.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695827269f1b381eb27106ed?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO | On Site | Jan 02 |
 | **[TLG Communications](https://tlgcommunications.com)** | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6958253baa05c26e7ab204eb?utm_campaign=1065&utm_source=git)** | Washington, DC | On Site | Jan 02 |
-| **[SYC](www.syccase.co.uk)** | **[Internship - Paid Search](https://jobright.ai/jobs/info/6958251ef1f8465b79eebb4f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Ho-Chunk, Inc.](http://hochunkinc.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/695824239f1b381eb27104a7?utm_campaign=1065&utm_source=git)** | Winnebago, NE | On Site | Jan 02 |
 | **[KRAFZEN](krafzeninc.com)** | **[Digital Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/695824219f1b381eb27104a6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[ZoeRVA Health](https://zoetherapyservices.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695824109f1b381eb271049a?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Jan 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Susan G. Komen](http://www.komen.org)** | **[California Fundraising Event Intern (Remote)](https://jobright.ai/jobs/info/6957bd3bf1f8465b79ee6b28?utm_campaign=1065&utm_source=git)** | Sacramento, CA | Remote | Jan 02 |
 | **[Tinder](http://www.tinder.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/693b396fb309e3780086f1a3?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 02 |
 | **[Prologis](http://www.prologis.com)** | **[Intern, Capital Deployment](https://jobright.ai/jobs/info/691dbe3961dc50590a649b0a?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 02 |
-| **[KEEN](http://www.keenfootwear.com)** | **[US Merchandising Intern](https://jobright.ai/jobs/info/693b4156b309e3780086f779?utm_campaign=1065&utm_source=git)** | Portland, OR | On Site | Jan 02 |
-| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/693b543ad4054a2bc0254d3c?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
-| **[PIM Brands](https://pimbrands.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/68ec901c1eecd439f43f9fcc?utm_campaign=1065&utm_source=git)** | Park Ridge, NJ | Hybrid | Jan 02 |
-| **[Harbinger](https://harbingermotors.com)** | **[Intern, Product Marketing](https://jobright.ai/jobs/info/68e5ab82e8daec61499a37b1?utm_campaign=1065&utm_source=git)** | Garden Grove, CA | On Site | Jan 02 |
-| **[Public Consulting Group](http://www.publicconsultinggroup.com/)** | **[PCG Internship Summer 2026 (Remote)](https://jobright.ai/jobs/info/693b7d835f2c001987ed714f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
