@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Until There's A Cure Foundation](https://www.until.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69595e529f1b381eb2723137?utm_campaign=1065&utm_source=git)** | Woodside, CA | Hybrid | Jan 03 |
 | **[GEBHARDT Sourcing Solutions AG](https://www.gebhardt-ag.de)** | **[Werkstudent / Studentische Aushilfe oder geringfügige Beschäftigung – Marketing & Sales Support (m/w/d)](https://jobright.ai/jobs/info/69595624aa05c26e7ab32bd7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
 | **[Brwnhouse Agency](www.brwnhouse.com)** | **[Campaign Manager Intern](https://jobright.ai/jobs/info/695952969f1b381eb2722fd6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
-| **[Graphnile](https://www.graphnile.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/69594ed69f1b381eb2722f72?utm_campaign=1065&utm_source=git)** | New York, United States | Remote | Jan 03 |
 | **[GenPark](https://genpark.ai)** | **[Project growth intern](https://jobright.ai/jobs/info/69594b5a9f1b381eb2722efb?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 03 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content ❤️❤️](https://jobright.ai/jobs/info/69594902aa05c26e7ab32a8f?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 03 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Barrie, ON](https://jobright.ai/jobs/info/691b993615b4156367190b2f?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 03 |
@@ -78,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691f8b0709cc522e87742b8c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/693cd22c49a7695fbd03881c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
 | **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca317aa598a08c3ed8785?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
+| ↳ | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/693cb58b49a7695fbd0379a0?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Performance Marketing Intern, Digital Content (May to August)](https://jobright.ai/jobs/info/68cd6031e23def7af55b934c?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 03 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 03 |
@@ -100,11 +101,11 @@ For a complete list, click the following sortable link below:
 | **[Corcept Therapeutics](http://www.corcept.com)** | **[Oncology Market Intelligence & Decision Sciences Intern](https://jobright.ai/jobs/info/693c74f149a7695fbd033a51?utm_campaign=1065&utm_source=git)** | Redwood City, CA | On Site | Jan 03 |
 | **[American Century Investments](https://www.americancentury.com)** | **[Avantis Intern](https://jobright.ai/jobs/info/692d1f2ffa28370be269c07c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Klein Tools](https://www.kleintools.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/68cbfc937342c7623ae5cf0c?utm_campaign=1065&utm_source=git)** | Mansfield, TX | On Site | Jan 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7579ce8daec61499b4964?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/691f7e0209cc522e877420a5?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | Jan 03 |
 | **[J. Jill](http://www.jjill.com/)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/693cbdd0aa598a08c3ed937d?utm_campaign=1065&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 03 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern - Marketing and Events Management (Arizona)](https://jobright.ai/jobs/info/693c736baa598a08c3ed50a3?utm_campaign=1065&utm_source=git)** | Arizona, United States | Hybrid | Jan 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e76d5515da181e7e4ecdf9?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
 | **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[International Student Ambassador - Competition ID: 4419](https://jobright.ai/jobs/info/69591f7bf1f8465b79efb15f?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Jan 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/690418bdff462851feff2b49?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Fashion) - 2026 Start (MBA)](https://jobright.ai/jobs/info/691fba0809cc522e87744cd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Communications 2026](https://jobright.ai/jobs/info/69585845f1f8465b79eef217?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | **[Culligan International](http://www.culligan.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6958308daa05c26e7ab20c59?utm_campaign=1065&utm_source=git)** | Rosemont, IL | On Site | Jan 02 |
 | **[Planned Parenthood of Metropolitan Washington, DC, Inc.](http://www.ppmw.org)** | **[Communications Intern](https://jobright.ai/jobs/info/69426f6abdcf884a5ade4a4b?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 02 |
-| **[disruptivePM](https://www.disruptivepm.com/)** | **[Product & Growth internship (unpaid)](https://jobright.ai/jobs/info/695882c69f1b381eb2716aae?utm_campaign=1065&utm_source=git)** | Atlanta Metro | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
