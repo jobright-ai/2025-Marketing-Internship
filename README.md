@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6959f9f5f1f8465b79f05ee8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
+| **[Fractional Labs](https://tryfractional.app/)** | **[Social Media Assistant (Intern / Entry-Level)](https://jobright.ai/jobs/info/6959f61daa05c26e7ab3a5d7?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 03 |
 | **[Brwnhouse Agency](www.brwnhouse.com)** | **[Brand Community Manager intern](https://jobright.ai/jobs/info/6959deba9f1b381eb2728744?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
 | **[KanduPay](https://kandupay.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6959ce40f1f8465b79f03365?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 03 |
@@ -87,7 +89,7 @@ For a complete list, click the following sortable link below:
 | **[Nebraska Department of Health and Human Services](https://dhhs.ne.gov)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/693cc57caa598a08c3ed97e4?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 03 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/691f8b0709cc522e87742b8c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA | On Site | Jan 03 |
 | **[Amazon](https://amazon.com)** | **[2026 MBA Marketing Manager (MM) Internship](https://jobright.ai/jobs/info/693cd22c49a7695fbd03881c?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
-| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca317aa598a08c3ed8785?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
+| **[Ferring Pharmaceuticals](https://www.ferring.com)** | **[2026 Summer Intern - Reproductive Medicine Marketing](https://jobright.ai/jobs/info/693ca63649a7695fbd037211?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | Hybrid | Jan 03 |
 | **[Hologic, Inc.](http://www.hologic.com)** | **[Intern, Upstream Marketing - Skeletal Health](https://jobright.ai/jobs/info/693cb58b49a7695fbd0379a0?utm_campaign=1065&utm_source=git)** | Marlborough, MA | On Site | Jan 03 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Performance Marketing Intern, Digital Content (May to August)](https://jobright.ai/jobs/info/68cd6031e23def7af55b934c?utm_campaign=1065&utm_source=git)** | Needham, MA | Hybrid | Jan 03 |
 | **[D.R. Horton](https://www.drhorton.com/affiliates---pacific-ridge)** | **[Summer 2026 Marketing Intern - Raleigh North](https://jobright.ai/jobs/info/68cc632016d00d2beeb1eb7d?utm_campaign=1065&utm_source=git)** | Raleigh, NC | On Site | Jan 03 |
@@ -127,6 +129,7 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/691f7753a49a885af9a304fa?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | Hybrid | Jan 03 |
 | **[Adobe](http://www.adobe.com)** | **[2026 MBA Intern - GTM Strategy & Ops](https://jobright.ai/jobs/info/68e746c81852e62f00823f01?utm_campaign=1065&utm_source=git)** | San Francisco, CA | Remote | Jan 03 |
 | **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/68cbc26defdec76df36c1eef?utm_campaign=1065&utm_source=git)** | Minneapolis, MN | On Site | Jan 03 |
+| **[MedPro Group](https://www.medpro.com/)** | **[Intern-Marketing-Social Media](https://jobright.ai/jobs/info/6959e53ef1f8465b79f03bef?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (BS/ MS)](https://jobright.ai/jobs/info/68e650f1e8daec61499aa987?utm_campaign=1065&utm_source=git)** | Seattle, WA | On Site | Jan 03 |
 | **[Catholic Sports](http://www.CatholicSports.net)** | **[Internships in Adult Intramural Sports, Marketing-Events-Development](https://jobright.ai/jobs/info/6958e54c9f1b381eb271cc36?utm_campaign=1065&utm_source=git)** | Denver, CO | On Site | Jan 03 |
 | **[New York Post](http://nypost.com/)** | **[Intern, Advertising Operations](https://jobright.ai/jobs/info/6958fab0aa05c26e7ab2df10?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 03 |
@@ -140,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Iron & Alder Supply Co.](https://ironalder.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695877939f1b381eb27162af?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[State of Missouri](http://mo.gov)** | **[Summer Communications Intern - St. Louis District](https://jobright.ai/jobs/info/695870e29f1b381eb2715ea9?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 02 |
 | **[The Jackson Clinics, LP](http://thejacksonclinics.com)** | **[Social Media Intern (unpaid)](https://jobright.ai/jobs/info/695870799f1b381eb2715e55?utm_campaign=1065&utm_source=git)** | Fairfax, VA | On Site | Jan 02 |
-| **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Celebrity PR Spring Internship](https://jobright.ai/jobs/info/69586b4faa05c26e7ab250b1?utm_campaign=1065&utm_source=git)** | LA Metro Area | On Site | Jan 02 |
 | **[Zeta Global](http://www.zetaglobal.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/69586aa49f1b381eb27153ae?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
 | **[Bark](https://www.bark.us/)** | **[Growth Intern](https://jobright.ai/jobs/info/69589da49f1b381eb271793b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 02 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/695864e39f1b381eb2714093?utm_campaign=1065&utm_source=git)** | Erie, PA | On Site | Jan 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Oakley](https://www.heartlandchc.org)** | **[Oakley Product Strategy Summer 2026 Intern](https://jobright.ai/jobs/info/6952af8d935649778e2078bc?utm_campaign=1065&utm_source=git)** | Foothill Ranch, CA | On Site | Jan 02 |
 | **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Communications](https://jobright.ai/jobs/info/695842f09f1b381eb27131cb?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
 | **[Southwestern Medical Foundation](https://swmedical.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69583eecaa05c26e7ab22e57?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 02 |
-| **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/695857bb9f1b381eb2713ba8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 02 |
-| **[Clear Ridge Defense](https://clridge.com/)** | **[Graphic Media/Social Media Intern](https://jobright.ai/jobs/info/6958395b9f1b381eb2711e5a?utm_campaign=1065&utm_source=git)** | Columbia, MD/Remote | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
