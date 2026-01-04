@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brwnhouse Agency](www.brwnhouse.com)** | **[Brand Community Manager intern](https://jobright.ai/jobs/info/6959deba9f1b381eb2728744?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
+| **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
+| **[KanduPay](https://kandupay.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6959ce40f1f8465b79f03365?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Jan 03 |
 | **[Colorstech Solar](http://www.colorstech.net)** | **[Technical Digital - Marketing -Intern](https://jobright.ai/jobs/info/6959b79caa05c26e7ab36bf5?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 03 |
 | **[Creative Energy Candles](https://www.creativeenergycandles.com)** | **[Creative Social Media Intern](https://jobright.ai/jobs/info/695995069f1b381eb2725bde?utm_campaign=1065&utm_source=git)** | Columbia, SC | On Site | Jan 03 |
 | **[Land O'Lakes Venture37](http://www.landolakesventure37.org)** | **[Marketing Brand Management MBA Intern, Summer 2026](https://jobright.ai/jobs/info/69598d9daa05c26e7ab35664?utm_campaign=1065&utm_source=git)** | Arden Hills, MN (USA) | Hybrid | Jan 03 |
@@ -110,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Hexagon Manufacturing Intelligence](http://www.hexagonmi.com)** | **[Marketing Events Intern](https://jobright.ai/jobs/info/691f7e0209cc522e877420a5?utm_campaign=1065&utm_source=git)** | North Kingstown, RI | On Site | Jan 03 |
 | **[J. Jill](http://www.jjill.com/)** | **[Social Media Internship - Summer 2026](https://jobright.ai/jobs/info/693cbdd0aa598a08c3ed937d?utm_campaign=1065&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
 | **[Aesculap (US)](https://www.aesculapimplantsystems.com)** | **[Commercial Strategy and Marketing Intern](https://jobright.ai/jobs/info/69597eb2f1f8465b79eff10c?utm_campaign=1065&utm_source=git)** | Center Valley, PA | On Site | Jan 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e7504be8daec61499b43bd?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 03 |
 | **[Amplify](http://www.amplify.com)** | **[2026 Summer Intern - Marketing and Events Management (Arizona)](https://jobright.ai/jobs/info/693c736baa598a08c3ed50a3?utm_campaign=1065&utm_source=git)** | Arizona, United States | Hybrid | Jan 03 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e751751852e62f00824498?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 03 |
 | **[Kwantlen Polytechnic University](http://www.kpu.ca/)** | **[International Student Ambassador - Competition ID: 4419](https://jobright.ai/jobs/info/69591f7bf1f8465b79efb15f?utm_campaign=1065&utm_source=git)** | Surrey, British Columbia, Canada | Hybrid | Jan 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/690418bdff462851feff2b49?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Fashion) - 2026 Start (MBA)](https://jobright.ai/jobs/info/691fba0809cc522e87744cd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwestern Medical Foundation](https://swmedical.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69583eecaa05c26e7ab22e57?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 02 |
 | **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/695857bb9f1b381eb2713ba8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 02 |
 | **[Clear Ridge Defense](https://clridge.com/)** | **[Graphic Media/Social Media Intern](https://jobright.ai/jobs/info/6958395b9f1b381eb2711e5a?utm_campaign=1065&utm_source=git)** | Columbia, MD/Remote | Remote | Jan 02 |
-| **[Giorgio Armani](http://www.armani.com)** | **[Intern, Merchandising, A/X Armani Exchange](https://jobright.ai/jobs/info/695836d9aa05c26e7ab219de?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 02 |
-| **[Allegiant](https://www.allegiantair.com/)** | **[Loyalty Intern (Summer 2026)](https://jobright.ai/jobs/info/6958349e9f1b381eb27110f5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 02 |
-| **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Content Marketing & Camera Operator Internship (Free Housing)](https://jobright.ai/jobs/info/6958343df1f8465b79eecbfa?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
