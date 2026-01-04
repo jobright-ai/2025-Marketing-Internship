@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Avantis Investors](https://www.avantisinvestors.com/)** | **[Avantis Intern](https://jobright.ai/jobs/info/69071d83122e8474c78e2ba1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 04 |
+| **[The Marzetti Company](http://www.marzetticompany.com)** | **[MBA Retail Brand Management Internship - Summer 2026](https://jobright.ai/jobs/info/6920f1e800c9ee50eaec9bc8?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Jan 04 |
+| **[PTC](http://ptc.co/VLED30oHtEh)** | **[Growth Marketing Intern, E&HT](https://jobright.ai/jobs/info/69042298ff462851feff32ed?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 04 |
+| **[Pronghorn](https://www.pronghorn.co/)** | **[Marketing Assistant Intern](https://jobright.ai/jobs/info/69324fd8a0dde7020e2e587c?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 04 |
+| **[MathWorks](http://www.mathworks.com)** | **[McGill University MATLAB Student Ambassador](https://jobright.ai/jobs/info/691dfc01a49a885af9a2337e?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 04 |
+| ↳ | **[Université de Sherbrooke MATLAB Student Ambassador](https://jobright.ai/jobs/info/691df68c3f782d2f1afaf167?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/68cdc0f31ad6b16f0289e80f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT | On Site | Jan 04 |
+| **[Kiss Products, Inc.](https://www.kissusa.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/692130c7a49a885af9a43d0a?utm_campaign=1065&utm_source=git)** | Port Washington, NY | On Site | Jan 04 |
+| **[MathWorks](http://www.mathworks.com)** | **[University of British Columbia MATLAB Student Ambassador](https://jobright.ai/jobs/info/691e00a6a49a885af9a23846?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 04 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Intern, Community Management](https://jobright.ai/jobs/info/68910330f5ee707a15dbb3eb?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Hybrid | Jan 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/69040ae8ff462851feff2151?utm_campaign=1065&utm_source=git)** | Virginia Beach, VA | On Site | Jan 04 |
 | **[La Marquesilla](www.lamarquesilla.com)** | **[Social Media Management Intern](https://jobright.ai/jobs/info/695a03c5f1f8465b79f06226?utm_campaign=1065&utm_source=git)** | San Diego, CA | Hybrid | Jan 03 |
 | **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6959f9f5f1f8465b79f05ee8?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 03 |
 | **[IMA Financial Group, Inc.](http://www.imacorp.com)** | **[Underwriting Intern - Summer 2026](https://jobright.ai/jobs/info/69309064ef4b48533d14c73b?utm_campaign=1065&utm_source=git)** | Cleveland, OH | On Site | Jan 03 |
@@ -71,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Bismarck Larks Baseball Club](https://linktr.ee/bismarcklarks)** | **[2026 Sponsorship Activation and Entertainment Internship (Free Housing)](https://jobright.ai/jobs/info/695979e39f1b381eb2723bc8?utm_campaign=1065&utm_source=git)** | Bismarck, ND | On Site | Jan 03 |
 | **[Until There's A Cure Foundation](https://www.until.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/69595e529f1b381eb2723137?utm_campaign=1065&utm_source=git)** | Woodside, CA | Hybrid | Jan 03 |
 | **[VLCM](https://www.vlcm.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/69597ab59f1b381eb2723c49?utm_campaign=1065&utm_source=git)** | Murray,UT,US | Hybrid | Jan 03 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Intern - Content ❤️❤️](https://jobright.ai/jobs/info/69594902aa05c26e7ab32a8f?utm_campaign=1065&utm_source=git)** | LA Metro Area | Hybrid | Jan 03 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Field Marketing Coordinator Intern - Barrie, ON](https://jobright.ai/jobs/info/691b993615b4156367190b2f?utm_campaign=1065&utm_source=git)** | Barrie, Ontario, Canada | On Site | Jan 03 |
 | **[MUSE Media House](https://www.instagram.com/musemediahouse/)** | **[Assistant (unpaid internship)](https://jobright.ai/jobs/info/69593af5aa05c26e7ab30db2?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 03 |
 | **[Precision Quantomics](https://precisionquantomics.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6959bc169f1b381eb2727943?utm_campaign=1065&utm_source=git)** | Spokane, WA | Hybrid | Jan 03 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Intern](https://jobright.ai/jobs/info/69337550764507023d1b5e71?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 02 |
 | **[UMC Health System](https://www.umchealthsystem.com)** | **[Intern - Marketing](https://jobright.ai/jobs/info/69585c9aaa05c26e7ab23c92?utm_campaign=1065&utm_source=git)** | Business and Technology Center | On Site | Jan 02 |
 | **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6894a0f273b3a600fe880c12?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
-| **[Zeta Global](http://www.zetaglobal.com)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/695857579f1b381eb2713b80?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 02 |
-| **[Soul Detox](GetSoulDetox.com)** | **[Founder’s office intern](https://jobright.ai/jobs/info/69585609aa05c26e7ab23a17?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 02 |
-| **[Britannica Capital](http://britannicacapital.com)** | **[Investor Relations Internship](https://jobright.ai/jobs/info/6931bdc64c474121999f2ba4?utm_campaign=1065&utm_source=git)** | Southbury, CT | Hybrid | Jan 02 |
-| **[GSA - Global Student Accommodation](https://www.gsagroup.com)** | **[Student Ambassador](https://jobright.ai/jobs/info/6958774cf1f8465b79ef1839?utm_campaign=1065&utm_source=git)** | Charleston, SC | On Site | Jan 02 |
-| **[Purpose Financial](https://havepurpose.com/)** | **[Performance Marketing Intern (Temporary)](https://jobright.ai/jobs/info/695864119f1b381eb2714062?utm_campaign=1065&utm_source=git)** | Greenville, SC | On Site | Jan 02 |
-| **[Oakley](https://www.heartlandchc.org)** | **[Oakley Product Strategy Summer 2026 Intern](https://jobright.ai/jobs/info/6952af8d935649778e2078bc?utm_campaign=1065&utm_source=git)** | Foothill Ranch, CA | On Site | Jan 02 |
-| **[Metropolitan Golf Association (MGA)](https://www.mgagolf.org)** | **[USGA P.J. Boatwright Internship 2026 - Communications](https://jobright.ai/jobs/info/695842f09f1b381eb27131cb?utm_campaign=1065&utm_source=git)** | Elmsford, NY | On Site | Jan 02 |
-| **[Southwestern Medical Foundation](https://swmedical.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/69583eecaa05c26e7ab22e57?utm_campaign=1065&utm_source=git)** | Dallas, TX | On Site | Jan 02 |
-| **[Seedling Inc.](https://www.seedlinghydroponics.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/695857bb9f1b381eb2713ba8?utm_campaign=1065&utm_source=git)** | DC-Baltimore Area | Remote | Jan 02 |
-| **[Clear Ridge Defense](https://clridge.com/)** | **[Graphic Media/Social Media Intern](https://jobright.ai/jobs/info/6958395b9f1b381eb2711e5a?utm_campaign=1065&utm_source=git)** | Columbia, MD/Remote | Remote | Jan 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
