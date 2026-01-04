@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nautical Boat Club of Lake Murray, SC](https://nauticalboatclub.com/irmo-lake-murray/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695a99e79f1b381eb2732340?utm_campaign=1065&utm_source=git)** | Irmo, SC | Hybrid | Jan 04 |
+| **[Soul Detox](GetSoulDetox.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/695a9470f1f8465b79f0d046?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 04 |
+| **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/695a93d0aa05c26e7ab41993?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 04 |
+| **[NellaDerm Therapeutics](www.nelladerm.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/695a8e819f1b381eb2731f99?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jan 04 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Denver Golf Marketing Intern](https://jobright.ai/jobs/info/695a81c5aa05c26e7ab4174a?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 04 |
 | **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/695a80139f1b381eb2731dab?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 04 |
-| **[Backlinkgen](https://backlinkgen.com)** | **[Digital Marketing Intern - Remote](https://jobright.ai/jobs/info/695a7e6df1f8465b79f0cd93?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Jan 04 |
 | **[NEUROZYN LLC](https://neurozyn.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/695a7e0ff1f8465b79f0cd75?utm_campaign=1065&utm_source=git)** | Miami Beach, FL | Hybrid | Jan 04 |
 | **[Zylo](https://myzylo.app)** | **[Content Creation Intern](https://jobright.ai/jobs/info/695a7d55aa05c26e7ab416c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 04 |
 | **[AARP](http://www.aarp.org)** | **[Media Strategy Intern](https://jobright.ai/jobs/info/6920c75c3f782d2f1afcb62e?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
@@ -69,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Home Loan Bank of Chicago](http://www.fhlbc.com)** | **[Long Term Internship - Marketing & Events](https://jobright.ai/jobs/info/6920ef0000c9ee50eaec97cd?utm_campaign=1065&utm_source=git)** | Chicago, IL | On Site | Jan 04 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[IN-26016 WWF Livestream Fundraising Intern](https://jobright.ai/jobs/info/6920d8e600c9ee50eaec8aee?utm_campaign=1065&utm_source=git)** | Washington, DC | Hybrid | Jan 04 |
 | **[Domo](http://www.domo.com)** | **[Intern - Digital Marketing](https://jobright.ai/jobs/info/692134b93f782d2f1afd04b2?utm_campaign=1065&utm_source=git)** | American Fork, UT | On Site | Jan 04 |
-| **[DolFinContent](https://www.dolfincontent.com)** | **[SEO Blog Post Inter - Spring 2026](https://jobright.ai/jobs/info/695a685ff1f8465b79f0af86?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 04 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Brand Product and Partnerships](https://jobright.ai/jobs/info/68cce7f7d11b445e0bee423f?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 04 |
 | **[Henkel](http://www.henkel.com)** | **[MBA Associate Brand Manager Intern – Summer 2026](https://jobright.ai/jobs/info/695a16979f1b381eb272b8b0?utm_campaign=1065&utm_source=git)** | Stamford, CT | On Site | Jan 04 |
 | **[RBC](https://www.rbc.com)** | **[2026 Summer - CLAO, Communications and Content Intern (8 Months)](https://jobright.ai/jobs/info/693ddfdc49a7695fbd044d11?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jan 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Strategic Communications Intern (Spring 2026)](https://jobright.ai/jobs/info/690418bdff462851feff2b49?utm_campaign=1065&utm_source=git)** | Glen Allen, VA | On Site | Jan 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Graduate (TikTok Shop - Fashion) - 2026 Start (MBA)](https://jobright.ai/jobs/info/691fba0809cc522e87744cd6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | On Site | Jan 03 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Email Marketing Intern](https://jobright.ai/jobs/info/6903e34cff462851feff03db?utm_campaign=1065&utm_source=git)** | Everett, WA | On Site | Jan 03 |
-| **[J. Jill](http://www.jjill.com/)** | **[Merchandising Internship - Summer 2026](https://jobright.ai/jobs/info/693cbd0baa598a08c3ed930a?utm_campaign=1065&utm_source=git)** | Quincy, MA | On Site | Jan 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/68e74996ae2b894b1d723271?utm_campaign=1065&utm_source=git)** | Seattle, WA | Remote | Jan 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
