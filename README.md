@@ -103,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[HNTB](http://www.hntb.com/)** | **[Marketing & Copyediting Intern - Summer 2026](https://jobright.ai/jobs/info/695ed2f608ab990f282a1d1c?utm_campaign=1065&utm_source=git)** | Parsippany, NJ | On Site | Jan 07 |
 | ↳ | **[Marketing & Copyediting Intern - Summer 2026](https://jobright.ai/jobs/info/695ed3d9a112b402660d8963?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT | On Site | Jan 07 |
 | **[Oregon Natural Desert Association](https://onda.org)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/695ed75a0badca5763af4e50?utm_campaign=1065&utm_source=git)** | Bend, OR | On Site | Jan 07 |
+| **[Monigle](https://www.monigle.com)** | **[Intern, Insights](https://jobright.ai/jobs/info/695eb33708ab990f2829fd5c?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 07 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Spring 2026 Publicity Intern, Grand Central Publishing](https://jobright.ai/jobs/info/695eb2dda112b402660d6805?utm_campaign=1065&utm_source=git)** | New York, New York | Hybrid | Jan 07 |
 | **[Clayton Homes of Opelousas](http://claytonhomesopelousas.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/695ed3dd0badca5763af4979?utm_campaign=1065&utm_source=git)** | Maryville, TN | On Site | Jan 07 |
 | **[HNTB](http://www.hntb.com/)** | **[Marketing & Copyediting Intern - Summer 2026](https://jobright.ai/jobs/info/695ee471a112b402660da054?utm_campaign=1065&utm_source=git)** | Rocky Hill, CT (Hartford) | On Site | Jan 07 |
@@ -126,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/695ec41f0badca5763af3a70?utm_campaign=1065&utm_source=git)** | La Crosse, WI | On Site | Jan 07 |
 | **[Creative Clicks](http://creativeclicks.com)** | **[Marketing Intern (Part-Time or Full-Time)](https://jobright.ai/jobs/info/695ec2d5a112b402660d7868?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 07 |
 | **[Writer's Block Coffee Shop](https://www.writersblockcoffeeshop.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/695ec866a112b402660d7eca?utm_campaign=1065&utm_source=git)** | Greater Phoenix Area | Hybrid | Jan 07 |
-| **[Monigle](https://www.monigle.com)** | **[Intern, Insights](https://jobright.ai/jobs/info/695ec67fa112b402660d7c95?utm_campaign=1065&utm_source=git)** | Denver, CO | Hybrid | Jan 07 |
 | **[Uponor](https://www.uponor.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6932041d4c474121999f5c1c?utm_campaign=1065&utm_source=git)** | Apple Valley, MN | Hybrid | Jan 07 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Product Marketing Intern - Advanced Concepts - Cuisinart](https://jobright.ai/jobs/info/695ecdb20badca5763af4535?utm_campaign=1065&utm_source=git)** | Stamford, Connecticut | Hybrid | Jan 07 |
 | ↳ | **[2026 Product Marketing Intern - Advanced Concepts - Cuisinart](https://jobright.ai/jobs/info/695ec8ee08ab990f282a1413?utm_campaign=1065&utm_source=git)** | Newton, MA | Hybrid | Jan 07 |
