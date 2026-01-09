@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Diversified Energy Company](https://www.div.energy/)** | **[2026 Summer Intern- Marketing/ Trading](https://jobright.ai/jobs/info/69433cf394730b739876462f?utm_campaign=1065&utm_source=git)** | Lexington, KY | On Site | Jan 08 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/69340bafa0dde7020e2f3db6?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 08 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed80ed078b81ad160fff9?utm_campaign=1065&utm_source=git)** | Atlanta, GA | On Site | Jan 08 |
-| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 08 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed4a2d078b81ad160fe93?utm_campaign=1065&utm_source=git)** | Bonita Springs, FL | On Site | Jan 08 |
+| ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed562e0db92422580bfa8?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Jan 08 |
 | ↳ | **[Marketing Intern (Multiple Locations)](https://jobright.ai/jobs/info/68eed54fd078b81ad160ffdb?utm_campaign=1065&utm_source=git)** | Tempe, AZ | On Site | Jan 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
