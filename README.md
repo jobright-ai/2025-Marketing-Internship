@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstraZeneca](https://www.astrazeneca.com)** | **[HCP Physician Marketing Intern, Undergraduate Students](https://jobright.ai/jobs/info/6962ac7ea112b4026610fdbe?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 10 |
+| **[CHOCBOX](http://chocboxla.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6962a372a112b4026610f6a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 10 |
+| **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Social Media & Content Intern (Remote)](https://jobright.ai/jobs/info/69629b9e2cbf4e44756c8549?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 10 |
+| **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6962937d2cbf4e44756c8425?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Pikkah](www.pikkah.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962900025e18715077f690f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Community & Partnerships Intern (Education + Outreach)](https://jobright.ai/jobs/info/69628f9225e18715077f68e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/69628afda112b4026610f044?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
@@ -138,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e34ae7ed9a5731baa74a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d9e0e7ed9a5731baa39d?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Influencer Internship](https://jobright.ai/jobs/info/6961d99cf3f4cd132506d5c6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 09 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d86df3f4cd132506d53d?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
-| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853f3f4cd132506d522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d886a112b40266105fd5?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
+| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/6961d6eef3f4cd132506d475?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Jan 09 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6961d663f3f4cd132506d438?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 09 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/6961ce14f3f4cd132506ce94?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NY Green Bank](https://greenbank.ny.gov/)** | **[Communications Intern - Strategy, Impact & Communications](https://jobright.ai/jobs/info/6961c4d6a112b40266105438?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 | **[Auctane](https://auctane.com/)** | **[ECommerce Intern](https://jobright.ai/jobs/info/6961c417a112b402661053aa?utm_campaign=1065&utm_source=git)** | Austin, TX | Hybrid | Jan 09 |
 | **[Gurnee Park District](http://www.gurneeparkdistrict.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6961c323e7ed9a5731ba960d?utm_campaign=1065&utm_source=git)** | Gurnee Park District - Gurnee, IL 60031 | On Site | Jan 09 |
-| **[Guidehouse](https://guidehouse.com)** | **[Intern - Marketing, Corporate Services- Campus 2026](https://jobright.ai/jobs/info/6961c260a112b4026610523f?utm_campaign=1065&utm_source=git)** | McLean, VA | On Site | Jan 09 |
-| **[Jordan's Furniture](http://www.jordans.com/)** | **[ECommerce Summer Internship](https://jobright.ai/jobs/info/6961c255f3f4cd132506c7b3?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
-| **[Merz Aesthetics](http://www.merzusa.com)** | **[Marketing Loyalty & Strategy Summer Internship](https://jobright.ai/jobs/info/6961bbbfe7ed9a5731ba8fc6?utm_campaign=1065&utm_source=git)** | Raleigh, NC | Hybrid | Jan 09 |
-| **[G/FORE](https://www.gfore.com)** | **[G/FORE Digital Marketing Internship](https://jobright.ai/jobs/info/6961d8e9f3f4cd132506d572?utm_campaign=1065&utm_source=git)** | Triangle, NC | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
