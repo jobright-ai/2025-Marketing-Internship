@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MEMX](http://www.memx.com/)** | **[Market Operations Intern, Summer 2026 (Hybrid)](https://jobright.ai/jobs/info/690d129e221b890c27802cb7?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
+| **[Bell Partners Inc](https://linktr.ee/BellPartnersInc)** | **[Marketing Internship](https://jobright.ai/jobs/info/690cef7cd046ab6061cf0ac9?utm_campaign=1065&utm_source=git)** | Charlotte, NC | On Site | Jan 10 |
+| **[Lennox](http://www.lennox.com)** | **[Summer 2026 Marketing Communications Intern](https://jobright.ai/jobs/info/690d2c62221b890c27804401?utm_campaign=1065&utm_source=git)** | Richardson, TX | On Site | Jan 10 |
+| **[Crum & Forster](https://www.cfins.com/)** | **[Director, Internal Communications (Eatontown, NJ/Hybrid)](https://jobright.ai/jobs/info/6959e1ed9f1b381eb272888d?utm_campaign=1065&utm_source=git)** | Middlesex County, NJ | Hybrid | Jan 10 |
 | **[TalentRise Solutions](https://www.linkedin.com/company/79467745)** | **[Events Internships](https://jobright.ai/jobs/info/69621e92a112b4026610875b?utm_campaign=1065&utm_source=git)** | Redlands, CA | On Site | Jan 10 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/69621d872cbf4e44756c16d5?utm_campaign=1065&utm_source=git)** | Arizona, United States | On Site | Jan 10 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/69621d0c25e18715077efd01?utm_campaign=1065&utm_source=git)** | California, United States | On Site | Jan 10 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Summer '26)](https://jobright.ai/jobs/info/6961db5ee7ed9a5731baa45e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 09 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d9e0e7ed9a5731baa39d?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Influencer Internship](https://jobright.ai/jobs/info/6961d99cf3f4cd132506d5c6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 09 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d886a112b40266105fd5?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
-| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d741e7ed9a5731baa256?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
+| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853f3f4cd132506d522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/6961d6eef3f4cd132506d475?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Jan 09 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6961d663f3f4cd132506d438?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 09 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/6961ce14f3f4cd132506ce94?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
@@ -138,14 +142,12 @@ For a complete list, click the following sortable link below:
 | **[The Medical Affairs Company (TMAC)](http://www.themedicalaffairscompany.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6961bd0ae7ed9a5731ba912e?utm_campaign=1065&utm_source=git)** | Kennesaw, GA, United States | Remote | Jan 09 |
 | **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – Communications & Design](https://jobright.ai/jobs/info/69619672f3f4cd132506a459?utm_campaign=1065&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jan 09 |
 | **[Allison Smith Company LLC](http://allisonsmith.com)** | **[Marketing Assistant (Intern)](https://jobright.ai/jobs/info/69619607f3f4cd132506a3e4?utm_campaign=1065&utm_source=git)** | Smyrna, GA | On Site | Jan 09 |
-| **[Manulife](http://www.manulife.com/)** | **[Summer Intern/Co-op 2026 – GWAM Marketing](https://jobright.ai/jobs/info/6961953af3f4cd132506a324?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jan 09 |
 | **[Penn State University](http://psu.edu)** | **[Part-time Research Communications Intern](https://jobright.ai/jobs/info/696194dba112b40266102c56?utm_campaign=1065&utm_source=git)** | University Park, PA | Hybrid | Jan 09 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Bulk) - Indigenous- EN](https://jobright.ai/jobs/info/696194c4f3f4cd132506a2a7?utm_campaign=1065&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | Jan 09 |
 | **[Wicked Creative](http://wickedcreative.com/)** | **[Social Media Intern - Spring Semester 2026](https://jobright.ai/jobs/info/6961948ba112b40266102c03?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 09 |
 | **[Swire Coca-Cola, USA](https://www.swirecc.com)** | **[Intern, Commercial Marketing](https://jobright.ai/jobs/info/69619479f3f4cd132506a26e?utm_campaign=1065&utm_source=git)** | Draper, VA | On Site | Jan 09 |
 | **[maurices](https://www.maurices.com)** | **[Marketing Operations Internship](https://jobright.ai/jobs/info/6961939ba112b40266102afe?utm_campaign=1065&utm_source=git)** | Corporate Office-maurices-Duluth, MN 55802 | Hybrid | Jan 09 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Petroleum & Chemicals) - Indigenous- EN](https://jobright.ai/jobs/info/6961930ee7ed9a5731ba6d72?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 09 |
-| **[maurices](https://www.maurices.com)** | **[Marketing Internship - Sample Operations](https://jobright.ai/jobs/info/69619306f3f4cd132506a0ee?utm_campaign=1065&utm_source=git)** | Duluth, MN | Hybrid | Jan 09 |
 | **[City of South Fulton](https://www.cityofsouthfultonga.gov)** | **[DIGITAL CONTENT INTERN](https://jobright.ai/jobs/info/695e96e608ab990f2829d67e?utm_campaign=1065&utm_source=git)** | South Fulton, GA | On Site | Jan 09 |
 | **[CN](http://www.cn.ca)** | **[Intern, Market Analyst (Bulk) - Indigenous- EN](https://jobright.ai/jobs/info/6961911da112b4026610286f?utm_campaign=1065&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jan 09 |
 | **[GoodTalk](https://cinematicworldwide.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6961970be7ed9a5731ba71f3?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | Hybrid | Jan 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WS Development](http://wsdevelopment.com)** | **[Intern - Hyde Park Village](https://jobright.ai/jobs/info/69618d8ef3f4cd1325069d11?utm_campaign=1065&utm_source=git)** | Tampa, FL | On Site | Jan 09 |
 | **[GoTo Foods](http://www.focusbrands.com/)** | **[Organic Social Media Intern- Summer 2026](https://jobright.ai/jobs/info/696189e4a112b40266102172?utm_campaign=1065&utm_source=git)** | Atlanta, GA | Hybrid | Jan 09 |
 | **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Intern](https://jobright.ai/jobs/info/69618737f3f4cd132506903a?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 09 |
-| **[Peter Millar](http://www.petermillar.com/)** | **[G/FORE Digital Marketing Internship](https://jobright.ai/jobs/info/696186cce7ed9a5731ba5c32?utm_campaign=1065&utm_source=git)** | Research Triangle Park, NC | On Site | Jan 09 |
-| **[Wicked Creative](http://wickedcreative.com/)** | **[PR Intern Spring Semester 2026 - Las Vegas or San Diego](https://jobright.ai/jobs/info/696186a9a112b402661017f4?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
