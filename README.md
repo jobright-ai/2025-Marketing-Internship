@@ -57,26 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MLM Creative](https://www.mlmcreativestudio.com/)** | **[Pre-Launch Brand Intern (Content, Social, Creative)](https://jobright.ai/jobs/info/6962fe9a2cbf4e44756cd440?utm_campaign=1065&utm_source=git)** | Charlotte Metro | Remote | Jan 10 |
+| **[BYROE](https://byroe.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6962f77ea112b40266113b53?utm_campaign=1065&utm_source=git)** | Manhattan, NY | Hybrid | Jan 10 |
+| **[AEG](http://www.aegworldwide.com)** | **[Spring Intern, Marketing – AEG Presents Las Vegas](https://jobright.ai/jobs/info/69306578ef4b48533d14b79c?utm_campaign=1065&utm_source=git)** | Las Vegas, NV | On Site | Jan 10 |
 | **[Precision Quantomics](https://precisionquantomics.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6962df3d2cbf4e44756cb297?utm_campaign=1065&utm_source=git)** | Spokane, WA | Hybrid | Jan 10 |
 | **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962dc5e2cbf4e44756cb263?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
 | **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962d4be25e18715077f966d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Digital Marketing Intern for Spring](https://jobright.ai/jobs/info/6962d25b2cbf4e44756cb189?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 10 |
 | **[Perfect Pair](http://www.perfectpair.org)** | **[Perfect Pair Social Media and Marketing Intern](https://jobright.ai/jobs/info/6962cbb12cbf4e44756caff0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Apex Property Maintenance LLC](www.google.com)** | **[Interim Communications Intern](https://jobright.ai/jobs/info/6962c9eda112b40266111bd5?utm_campaign=1065&utm_source=git)** | Weatherly, PA | On Site | Jan 10 |
+| **[Electro](https://www.linkedin.com/company/107151260)** | **[Social Media & NIL Outreach Intern](https://jobright.ai/jobs/info/6962f779a112b40266113b4d?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[LML AI Marketing](https://www.linkedin.com/company/110967108)** | **[AI Marketing & Social Media Intern](https://jobright.ai/jobs/info/6962c91ea112b40266111b99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6962c29a25e18715077f9345?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
-| **[Scholarship Auditions](https://scholarshipauditions.com/)** | **[Social Media Manager & Content Provider Intern](https://jobright.ai/jobs/info/6962b6dba112b40266110e58?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[AstraZeneca](https://www.astrazeneca.com)** | **[HCP Physician Marketing Intern, Undergraduate Students](https://jobright.ai/jobs/info/6962ac7ea112b4026610fdbe?utm_campaign=1065&utm_source=git)** | Boston, MA | On Site | Jan 10 |
 | **[State of Nebraska](https://www.nebraska.gov/)** | **[Marketing Internship (Summer 2026)](https://jobright.ai/jobs/info/6962c9fea112b40266111bdb?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jan 10 |
 | **[CHOCBOX](http://chocboxla.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6962a372a112b4026610f6a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA | Remote | Jan 10 |
 | **[Dream Education Consulting](www.dreameducationconsulting.com)** | **[Social Media & Content Intern (Remote)](https://jobright.ai/jobs/info/69629b9e2cbf4e44756c8549?utm_campaign=1065&utm_source=git)** | Miami, FL | Remote | Jan 10 |
 | **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6962937d2cbf4e44756c8425?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Pikkah](www.pikkah.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962900025e18715077f690f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Community & Partnerships Intern (Education + Outreach)](https://jobright.ai/jobs/info/69628f9225e18715077f68e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696289a8a112b4026610efc8?utm_campaign=1065&utm_source=git)** | Schiller Park, IL | On Site | Jan 10 |
 | **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Social Media Marketing Sports Internship](https://jobright.ai/jobs/info/6962861d2cbf4e44756c8201?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, US Value and Access](https://jobright.ai/jobs/info/69627a0b25e18715077f4b87?utm_campaign=1065&utm_source=git)** | Home, KS | Hybrid | Jan 10 |
-| **[Western Star Entertainment Group](https://www.westernstarentertainmentgroup.com/)** | **[Film Development Social Media Intern](https://jobright.ai/jobs/info/69626ff525e18715077f49c2?utm_campaign=1065&utm_source=git)** | New York, NY | Remote | Jan 10 |
 | **[intlx Solutions](https://www.intlxsolutions.com)** | **[Part-Time Marketing & Sales Intern](https://jobright.ai/jobs/info/69626f5c25e18715077f49a0?utm_campaign=1065&utm_source=git)** | Hingham, MA | On Site | Jan 10 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/696268df2cbf4e44756c61fa?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA | On Site | Jan 10 |
 | ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/69626854a112b4026610d021?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 10 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d9e0e7ed9a5731baa39d?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Influencer Internship](https://jobright.ai/jobs/info/6961d99cf3f4cd132506d5c6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 09 |
 | **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
-| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853f3f4cd132506d522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
+| ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853a112b40266105fb7?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/6961d6eef3f4cd132506d475?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Jan 09 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6961d663f3f4cd132506d438?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 09 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/6961ce14f3f4cd132506ce94?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
-| **[CHAO.S PR](chaosprny.com)** | **[Influencer marketing Intern](https://jobright.ai/jobs/info/6961cc4ae7ed9a5731ba9b91?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
