@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Precision Quantomics](https://precisionquantomics.com/)** | **[Marketing And Business Development Intern](https://jobright.ai/jobs/info/6962df3d2cbf4e44756cb297?utm_campaign=1065&utm_source=git)** | Spokane, WA | Hybrid | Jan 10 |
+| **[Robometrics® Machines](https://www.robometricsagi.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962dc5e2cbf4e44756cb263?utm_campaign=1065&utm_source=git)** | San Francisco, CA | On Site | Jan 10 |
+| **[Premier Early Childhood Education Partners](https://premierearlychildhood.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962d4be25e18715077f966d?utm_campaign=1065&utm_source=git)** | Chicago, IL | Hybrid | Jan 10 |
+| **[IH Concepts](https://ihconceptsonline.com)** | **[Digital Marketing Intern for Spring](https://jobright.ai/jobs/info/6962d25b2cbf4e44756cb189?utm_campaign=1065&utm_source=git)** | Madison, WI | Hybrid | Jan 10 |
+| **[Perfect Pair](http://www.perfectpair.org)** | **[Perfect Pair Social Media and Marketing Intern](https://jobright.ai/jobs/info/6962cbb12cbf4e44756caff0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Apex Property Maintenance LLC](www.google.com)** | **[Interim Communications Intern](https://jobright.ai/jobs/info/6962c9eda112b40266111bd5?utm_campaign=1065&utm_source=git)** | Weatherly, PA | On Site | Jan 10 |
 | **[LML AI Marketing](https://www.linkedin.com/company/110967108)** | **[AI Marketing & Social Media Intern](https://jobright.ai/jobs/info/6962c91ea112b40266111b99?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Masters' Supply, Inc.](https://www.masterssupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6962c29a25e18715077f9345?utm_campaign=1065&utm_source=git)** | Louisville, KY | On Site | Jan 10 |
@@ -68,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Vevolution](http://www.vevolution.com)** | **[Social media intern](https://jobright.ai/jobs/info/6962937d2cbf4e44756c8425?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Pikkah](www.pikkah.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6962900025e18715077f690f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Community & Partnerships Intern (Education + Outreach)](https://jobright.ai/jobs/info/69628f9225e18715077f68e4?utm_campaign=1065&utm_source=git)** | United States | Remote | Jan 10 |
-| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Copywriting Internship](https://jobright.ai/jobs/info/69628afda112b4026610f044?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 10 |
 | **[Encore](https://www.encoreglobal.com/)** | **[Marketing Communications Intern - Summer 2026](https://jobright.ai/jobs/info/696289a8a112b4026610efc8?utm_campaign=1065&utm_source=git)** | Schiller Park, IL | On Site | Jan 10 |
 | **[NXTPRO SPORTS](http://www.nxtprohoops.com)** | **[Social Media Marketing Sports Internship](https://jobright.ai/jobs/info/6962861d2cbf4e44756c8201?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK | On Site | Jan 10 |
 | **[BioSpace](http://www.biospace.com/)** | **[Intern, US Value and Access](https://jobright.ai/jobs/info/69627a0b25e18715077f4b87?utm_campaign=1065&utm_source=git)** | Home, KS | Hybrid | Jan 10 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961e34ae7ed9a5731baa74a?utm_campaign=1065&utm_source=git)** | New York, NY | On Site | Jan 09 |
 | **[Panasonic North America](https://homes.panasonic.com/)** | **[Digital Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961d9e0e7ed9a5731baa39d?utm_campaign=1065&utm_source=git)** | Newark, NJ | Hybrid | Jan 09 |
 | **[Soul Detox](GetSoulDetox.com)** | **[Influencer Internship](https://jobright.ai/jobs/info/6961d99cf3f4cd132506d5c6?utm_campaign=1065&utm_source=git)** | Brooklyn, NY | On Site | Jan 09 |
-| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d86df3f4cd132506d53d?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
+| **[IMG ARENA](https://www.imgarena.com/about/)** | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d882a112b40266105fd2?utm_campaign=1065&utm_source=git)** | NY-New York - 11 Madison | On Site | Jan 09 |
 | ↳ | **[Intern, Corporate Communications](https://jobright.ai/jobs/info/6961d853f3f4cd132506d522?utm_campaign=1065&utm_source=git)** | CA-Beverly Hills - 9601 Wilshire | On Site | Jan 09 |
 | **[Ericsson](https://www.ericsson.com)** | **[Marketing Campaign and Activation Intern](https://jobright.ai/jobs/info/6961d6eef3f4cd132506d475?utm_campaign=1065&utm_source=git)** | Plano, TX | On Site | Jan 09 |
 | **[ATB Technologies](https://atb-tech.com/)** | **[Marketing/Social Media Intern](https://jobright.ai/jobs/info/6961d663f3f4cd132506d438?utm_campaign=1065&utm_source=git)** | Chesterfield, MO | On Site | Jan 09 |
 | **[Jordan's Furniture](http://www.jordans.com/)** | **[Marketing Summer Internship](https://jobright.ai/jobs/info/6961ce14f3f4cd132506ce94?utm_campaign=1065&utm_source=git)** | Dedham, MA | On Site | Jan 09 |
 | **[CHAO.S PR](chaosprny.com)** | **[Influencer marketing Intern](https://jobright.ai/jobs/info/6961cc4ae7ed9a5731ba9b91?utm_campaign=1065&utm_source=git)** | New York, NY | Hybrid | Jan 09 |
-| **[Amazon](https://amazon.com)** | **[2026 Marketing Intern](https://jobright.ai/jobs/info/6961cb8ae7ed9a5731ba9b28?utm_campaign=1065&utm_source=git)** | Seattle, WA | Hybrid | Jan 09 |
-| **[Shorr Packaging Corp.](http://www.shorr.com/)** | **[Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/6961cb86f3f4cd132506cd46?utm_campaign=1065&utm_source=git)** | Greater Chicago Area | On Site | Jan 09 |
-| **[Creators Corner](www.creatorscorner.co)** | **[Marketing Specialist intern](https://jobright.ai/jobs/info/6961c933e7ed9a5731ba99d3?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area | Remote | Jan 09 |
-| **[QuadReal Property Group](https://www.quadreal.com/)** | **[Marketing, Oakridge, Summer 2026 - Vancouver (Co-op/Internship) - 4 Months](https://jobright.ai/jobs/info/6961c772e7ed9a5731ba98d0?utm_campaign=1065&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jan 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
