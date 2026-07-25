@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Relief International](https://www.ri.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a51b5d302522b5b722e9fe0?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Crowdfunding Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a546c128576ec69c01531db?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51bee88d7d3e6cf1cc2314?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 24 |
 | **[Waresport](https://www.waresport.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6424da979290281c70586e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[C² Technologies, Inc.](http://www.c2ti.com/)** | **[Junior Intern – Web, Marketing & Communications](https://jobright.ai/jobs/info/6a59ec123ac7627fe900132a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | Remote | Jul 24 |
@@ -70,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a58ad6c4da96a42cfd8be49?utm_campaign=1065&utm_source=git)** | Clayton, MO, United States | On Site | Jul 24 |
 | **[Platte River Power Authority](https://www.prpa.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63ed07979290281c704e68?utm_campaign=1065&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b786faf756060966837?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 24 |
-| ↳ | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Fall River, MA, United States | Remote | Jul 24 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Fall River, MA, United States | Remote | Jul 24 |
+| ↳ | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 24 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/6a44f31e497c084dcfb5a08d?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 24 |
 | **[Cos Bar](http://www.cosbar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51b86302522b5b722ea309?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Campus Ambassador](https://jobright.ai/jobs/info/6a54dd103cd1632418bebf00?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Internship - Merchandising Ops](https://jobright.ai/jobs/info/6a638ea50c8e2b4f36dce687?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
 | **[International Institute of New England](https://iine.org/)** | **[Marketing and Communications Internship](https://jobright.ai/jobs/info/6a638f635c7e2d715ebac89d?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 24 |
 | ↳ | **[Language Services Internship](https://jobright.ai/jobs/info/6a638f5a0c8e2b4f36dce6ca?utm_campaign=1065&utm_source=git)** | Manchester, NH, United States | Hybrid | Jul 24 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Marketing Intern, University of Notre Dame](https://jobright.ai/jobs/info/6a553a30f2c46727285f0b31?utm_campaign=1065&utm_source=git)** | Notre Dame, IN, United States | Hybrid | Jul 24 |
-| **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6389198d53603449602c37?utm_campaign=1065&utm_source=git)** | Montréal, Quebec, Canada | On Site | Jul 24 |
-| **[Isabella's Clearly](https://www.isabellasclearly.com)** | **[Marketing & Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6a638757e8d8d22e329292a1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
