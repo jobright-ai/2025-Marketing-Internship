@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benco Dental](https://www.benco.com/)** | **[Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a63e3d55c7e2d715ebae791?utm_campaign=1065&utm_source=git)** | Pittston, PA, United States | Hybrid | Jul 24 |
+| **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a5330629fbdab22fe13e8e7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
+| **[Walden Community Improvement Association](https://waldenonlakeconroe.com/)** | **[Marketing Assistant/Intern](https://jobright.ai/jobs/info/6a63e239979290281c7049bf?utm_campaign=1065&utm_source=git)** | Montgomery, TX, United States | On Site | Jul 24 |
+| **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 24 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Public Relations Internship](https://jobright.ai/jobs/info/6a59ce8d3ac7627fe9000bfd?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
+| ↳ | **[Building Campaign Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd173cd1632418bebf0f?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 24 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a63da625c7e2d715ebae5ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 24 |
 | **[Jon Hart Design](https://jonhartdesign.com)** | **[Content & Social Media Paid Internship](https://jobright.ai/jobs/info/6a63d95e979290281c704807?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 24 |
@@ -66,13 +72,11 @@ For a complete list, click the following sortable link below:
 | **[Akola](https://akola.co)** | **[Fall Internship: Marketing](https://jobright.ai/jobs/info/6a51bd7d57513b72e0c67025?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 24 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a513ec302522b5b722e8cc7?utm_campaign=1065&utm_source=git)** | Union, NJ, United States | On Site | Jul 24 |
 | **[California State University Dominguez Hills, Toro Auxiliary Partners](https://www.csudhauxiliarypartners.org/)** | **[Digital Communications & Visibility Intern](https://jobright.ai/jobs/info/6a63d0580c8e2b4f36dd0081?utm_campaign=1065&utm_source=git)** | Carson, CA, United States | Hybrid | Jul 24 |
-| **[Benco Dental](https://www.benco.com/)** | **[Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a63d03f87cef057612cacbe?utm_campaign=1065&utm_source=git)** | Pittston, PA, United States | Hybrid | Jul 24 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Hendersonville (59931)](https://jobright.ai/jobs/info/6a55dcd04ca3b003c20ff942?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 24 |
 | **[TenBerke](https://tenberke.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63cd0e8d53603449604609?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[Vendetta by Infinitize](withvendetta.com)** | **[Communications Intern – Gaming](https://jobright.ai/jobs/info/6a63ccbd0c8e2b4f36dcfe5e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[KRAFZEN](https://krafzeninc.com)** | **[Marketing Intern ( Unpaid )](https://jobright.ai/jobs/info/6a63cc2e5c7e2d715ebae05b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Disability Law Group](https://disabilitylawgroup.com/)** | **[Social Media & Events Intern](https://jobright.ai/jobs/info/6a3ee190882f121f56a3bc74?utm_campaign=1065&utm_source=git)** | Troy, MI, United States | Hybrid | Jul 24 |
-| **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 24 |
 | **[Imperial Textile](http://www.imperialtextile.com/)** | **[e-Mail Marketing Internship](https://jobright.ai/jobs/info/6a523bd39fbdab22fe13aad2?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Shiraz Creative](https://www.shirazcreative.global)** | **[Marketing/PR Internship](https://jobright.ai/jobs/info/6a5767c1e9b77f668bd67d70?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 24 |
 | **[Gesture](https://gesture.vip)** | **[Social Media & Content Creator Intern (CEO Brand)](https://jobright.ai/jobs/info/6a63c70be8d8d22e3292aa29?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -151,10 +155,6 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Social Media Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367e18d536034496022d9?utm_campaign=1065&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
 | ↳ | **[Social Media Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d75c7e2d715ebabdc8?utm_campaign=1065&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
 | **[Y.N. Marketing Solutions Inc](https://ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a5e5af4270e3033b045d5b6?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
-| **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a299d13d3ec8317fe13f414?utm_campaign=1065&utm_source=git)** | New York, US | Hybrid | Jul 24 |
-| ↳ | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
-| ↳ | **[Field Marketing Intern, Americas](https://jobright.ai/jobs/info/6a5268519fbdab22fe13b60b?utm_campaign=1065&utm_source=git)** | Boston, United States of America | Hybrid | Jul 24 |
-| **[Matrox Video](http://www.matrox.com/)** | **[Intern, Digital Marketing (S-10-01) Fall 2026](https://jobright.ai/jobs/info/6a635c89e8d8d22e32928611?utm_campaign=1065&utm_source=git)** | Dorval, QC, Canada | On Site | Jul 24 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Cincinnati](https://jobright.ai/jobs/info/6a58a7b79838a11e5d839872?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Remote | Jul 24 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a51cfd302522b5b722ebe96?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Jul 24 |
+| **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
+| ↳ | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a299d13d3ec8317fe13f414?utm_campaign=1065&utm_source=git)** | New York, US | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
