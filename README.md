@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IndeVets](https://indevets.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51c4dfbf63b66c7997c5a6?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 25 |
+| **[PlainStripes](https://www.plainstripes.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6471025c7e2d715ebb01cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a55d01214f1040fa611c5cb?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[HiWave](https://shop.hiwave.co)** | **[Brand Ambassador Intern](https://jobright.ai/jobs/info/6a51e47c57513b72e0c698c4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 25 |
 | **[Cenergistic](https://cenergistic.com)** | **[Internship - Lexington, KY](https://jobright.ai/jobs/info/6a39beb7649fdf1629302b95?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 24 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://clinton.nm.com)** | **[Social Media and Marketing Intern](https://jobright.ai/jobs/info/6a58ad6c4da96a42cfd8be49?utm_campaign=1065&utm_source=git)** | Clayton, MO, United States | On Site | Jul 24 |
 | **[Platte River Power Authority](https://www.prpa.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63ed07979290281c704e68?utm_campaign=1065&utm_source=git)** | Fort Collins, CO, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a424b786faf756060966837?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 24 |
-| ↳ | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Fall River, MA, United States | Remote | Jul 24 |
+| **[Committee for Public Counsel Services](https://www.publiccounsel.net/)** | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63755887cef057612c8b55?utm_campaign=1065&utm_source=git)** | Fall River, MA, United States | Remote | Jul 24 |
+| ↳ | **[Internship Fall 2026 - Marketing, Communication & Digital Content Creation For Social Justice Internship](https://jobright.ai/jobs/info/6a63ad0b5c7e2d715ebad45b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 24 |
 | **[Peak Retirement Planning, Inc.](https://peakretirementplanning.com/)** | **[Event Coordinator Intern](https://jobright.ai/jobs/info/6a44f31e497c084dcfb5a08d?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 24 |
 | **[Cos Bar](http://www.cosbar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51b86302522b5b722ea309?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Volunteer/Intern: Campus Ambassador](https://jobright.ai/jobs/info/6a54dd103cd1632418bebf00?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HiWave](https://shop.hiwave.co)** | **[Leadership & Growth Intern](https://jobright.ai/jobs/info/6a572a80efb06a45240d967b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 24 |
 | **[97th Floor](https://www.97thfloor.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63a41687cef057612c9c71?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Jul 24 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Marketing  (Performance Marketing)](https://jobright.ai/jobs/info/6a34342cce501060b5ceff09?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
-| **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern, Corporate Events](https://jobright.ai/jobs/info/6a4eae78397d8d353c289ecb?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 24 |
-| **[Leigh Taylor PR+](https://www.leightaylorpr.com/)** | **[Public Relations & Communications Intern](https://jobright.ai/jobs/info/6a639ccfe8d8d22e32929c3c?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
