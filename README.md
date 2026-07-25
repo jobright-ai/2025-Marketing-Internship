@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMAROK Security](https://www.amarok.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51bee88d7d3e6cf1cc2314?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Jul 24 |
+| **[Waresport](https://www.waresport.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6424da979290281c70586e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 | **[C² Technologies, Inc.](http://www.c2ti.com/)** | **[Junior Intern – Web, Marketing & Communications](https://jobright.ai/jobs/info/6a59ec123ac7627fe900132a?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | Remote | Jul 24 |
 | **[BMW Group](https://www.bmwgroup-werke.com)** | **[Intern, MINI Marketing - Fall 2026](https://jobright.ai/jobs/info/6a642104979290281c705747?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Jul 24 |
 | **[Detroit Regional Chamber](http://www.detroitchamber.com)** | **[Paid Integrated Communications Intern](https://jobright.ai/jobs/info/6a641f200c8e2b4f36dd1205?utm_campaign=1065&utm_source=git)** | Detroit, MI, United States | On Site | Jul 24 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a63da625c7e2d715ebae5ce?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Jul 24 |
 | **[Jon Hart Design](https://jonhartdesign.com)** | **[Content & Social Media Paid Internship](https://jobright.ai/jobs/info/6a63d95e979290281c704807?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 24 |
 | **[Vendetta by Infinitize](withvendetta.com)** | **[Social Marketing Intern - Gaming](https://jobright.ai/jobs/info/6a641caa8d536034496059b0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Brand Marketing](https://jobright.ai/jobs/info/6a60d248193c4d692385f96c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO Specialist Volunteer/Intern](https://jobright.ai/jobs/info/6a51b6df57513b72e0c66763?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Akola](https://akola.co)** | **[Fall Internship: Marketing](https://jobright.ai/jobs/info/6a51bd7d57513b72e0c67025?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 24 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a513ec302522b5b722e8cc7?utm_campaign=1065&utm_source=git)** | Union, NJ, United States | On Site | Jul 24 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a63c1190c8e2b4f36dcfaa0?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 24 |
 | **[Universal Attractions Agency](https://universalattractions.com)** | **[Music Agency Internship](https://jobright.ai/jobs/info/6a63c0c187cef057612ca706?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a63c0b75c7e2d715ebadca0?utm_campaign=1065&utm_source=git)** | Centennial, CO, United States | On Site | Jul 24 |
-| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a63be78979290281c703e96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 24 |
-| ↳ | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a63be78979290281c703e97?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 24 |
+| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a63be78979290281c703e97?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 24 |
+| ↳ | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a63be78979290281c703e96?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 24 |
 | **[Ryman Hospitality Properties](http://rymanhp.com)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a63bdd75c7e2d715ebadbab?utm_campaign=1065&utm_source=git)** | Nashville, Tennessee, United States | On Site | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[eCommerce Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a513d4302522b5b722e8b7f?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | ↳ | **[Crowdfunding Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a333e7cf6b55d12c7918565?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
@@ -131,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Chadron Hospital](https://www.chadronhospital.com/onhospital.com)** | **[Marketing Assistant - Intern](https://jobright.ai/jobs/info/6a63b13c87cef057612ca05d?utm_campaign=1065&utm_source=git)** | Chadron, NE, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO SPECIALIST/ON-LINE MARKETING SPECIALIST INTERNSHIP](https://jobright.ai/jobs/info/6a52fea28576ec69c014e41c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern (City Manager’s Office)](https://jobright.ai/jobs/info/6a63af525c7e2d715ebad50a?utm_campaign=1065&utm_source=git)** | Eau Claire, WI, United States | On Site | Jul 24 |
-| **[Allen County Public Library](https://acpl.lib.in.us)** | **[Marketing & Communications Intern - Fall Semester](https://jobright.ai/jobs/info/6a63ae780c8e2b4f36dcf292?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 24 |
 | **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Marketing Intern](https://jobright.ai/jobs/info/6a5a7c7d856af468ab008da6?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 24 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a59f76f686b4755d1e12bdb?utm_campaign=1065&utm_source=git)** | Binghamton, NY, United States | On Site | Jul 24 |
 | **[KATRINA WAN PR](https://katrinawanpr.com)** | **[Fall Film Publicity Intern](https://jobright.ai/jobs/info/6a63c1358d5360344960420f?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Marketing Intern, University of Notre Dame](https://jobright.ai/jobs/info/6a553a30f2c46727285f0b31?utm_campaign=1065&utm_source=git)** | Notre Dame, IN, United States | Hybrid | Jul 24 |
 | **[SYSTRA](https://www.systra.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6389198d53603449602c37?utm_campaign=1065&utm_source=git)** | Montréal, Quebec, Canada | On Site | Jul 24 |
 | **[Isabella's Clearly](https://www.isabellasclearly.com)** | **[Marketing & Social Media Intern (unpaid)](https://jobright.ai/jobs/info/6a638757e8d8d22e329292a1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
-| **[SnugFit Solutions - Leader in Mobile 3D Imaging](https://www.xyken.com/)** | **[Marketing Intern (immediate and local)](https://jobright.ai/jobs/info/6a63cd0d979290281c70435f?utm_campaign=1065&utm_source=git)** | McLean, VA, United States | On Site | Jul 24 |
-| **[FACTEUR PR](https://www.facteurpr.com)** | **[Fall 2026 Social Media & Content Intern](https://jobright.ai/jobs/info/6a63862487cef057612c90e7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
