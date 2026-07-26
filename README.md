@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Good People Only](https://www.goodpeopleonly.com/)** | **[Digital Marketing Internship (Fall 2026)](https://jobright.ai/jobs/info/6a6680da0c8e2b4f36dd55da?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 26 |
+| ↳ | **[Fat Beats - Digital Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6680b58d53603449609d33?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 26 |
+| ↳ | **[Social Content & Commerce Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6680b3e8d8d22e3293030c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
+| **[Groot PR](https://grootpr.com)** | **[Public Relations & Social Media Intern - IMMEDIATE START](https://jobright.ai/jobs/info/6a667cf48d53603449609ce8?utm_campaign=1065&utm_source=git)** | West Palm Beach, FL, United States | Hybrid | Jul 26 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a55ce8105c65f7c8f4c7e1b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Wayd](http://wayd.social)** | **[Growth Intern, Marketing Launch](https://jobright.ai/jobs/info/6a6671418d53603449609b87?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 26 |
 | **[Good People Only](https://www.goodpeopleonly.com/)** | **[Record Label Internship (Fall 26')](https://jobright.ai/jobs/info/6a666f3a979290281c709848?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
@@ -150,11 +154,7 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Fundraising Director](https://jobright.ai/jobs/info/6a59e99e686b4755d1e123db?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a629b4d1e089c0cc884d977?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5faaa46e0c3c7c7d3d845a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd33cd1632418bec020?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
-| ↳ | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a521f1d8a74e077472f3346?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a521f1d8a74e077472f3346?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
+| ↳ | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd33cd1632418bec020?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[PRAETORIAN TRAJAN](http://www.praetoriandigital.com)** | **[Digital Media Marketing Intern](https://jobright.ai/jobs/info/6a59cdf5c8e3a473cb8a8670?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
-| **[Hometown Grocers, Inc.](https://www.hgistores.com)** | **[Marketing / Digital Content Intern](https://jobright.ai/jobs/info/6a5a837063a8f619507c76aa?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Jul 25 |
-| **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Marketing Intern](https://jobright.ai/jobs/info/6a50089d1544d7246c0d7808?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 25 |
-| **[New York Post](http://nypost.com/)** | **[Advertising Operations Intern](https://jobright.ai/jobs/info/6a5fc7e28c7fd835513bb0f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
