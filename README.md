@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vinci Games](https://www.blacktophoopsvr.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a53a94b8a74e077472f9303?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | Remote | Jul 26 |
+| **[Furniture Assembly Experts - ikea furniture assemblers DC MD VA - Junk furniture removal](https://www.furnitureassemblyexperts.com)** | **[Marketing Internship - Washington DC - Maryland](https://jobright.ai/jobs/info/6a54e0373cd1632418bec065?utm_campaign=1065&utm_source=git)** | Lanham, MD, United States | On Site | Jul 26 |
 | **[SeenU](www.seenu.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a661bae5c7e2d715ebb2ebe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a66169c8d53603449609230?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 26 |
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/6a34342c7f3fdd180d4c942d?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a55ba58ef22935f2e3f6406?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Jul 25 |
 | **[Furniture Assembly Experts - ikea furniture assemblers DC MD VA - Junk furniture removal](https://www.furnitureassemblyexperts.com)** | **[Winter Marketing Internship - Washington DC - Maryland](https://jobright.ai/jobs/info/6a54a61f8ef95364ead963ec?utm_campaign=1065&utm_source=git)** | Lanham, MD, United States | On Site | Jul 25 |
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3966baf6b55d12c7927cc9?utm_campaign=1065&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 25 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Marketing BBA Internship - Summer 2027](https://jobright.ai/jobs/info/6a62f5647c70964cbb054e78?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
+| **[SC Johnson](http://www.scjohnson.com)** | **[Marketing BBA Internship - Summer 2027](https://jobright.ai/jobs/info/6a62f5601ed5b0056a939695?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
 | **[Dietch PR](https://www.dietchpr.net)** | **[Lifestyle, Wellness and Fashion PR Internship](https://jobright.ai/jobs/info/6a580c8268d16a30e2411748?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Jul 25 |
 | ↳ | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a64d5bf0c8e2b4f36dd2a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cenergistic](https://cenergistic.com)** | **[Internship - Lexington, KY](https://jobright.ai/jobs/info/6a39beb7649fdf1629302b95?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Operation Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a6458cc8d53603449606339?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Jul 24 |
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Media Relations](https://jobright.ai/jobs/info/6a513bca02522b5b722e8a51?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
-| **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ff69c43732c05812dfe0e?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 24 |
-| **[Clean Bottle](https://www.cleanbottle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55f7e6f7517b519ad52587?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
