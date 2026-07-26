@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Disability Partnerships](https://www.disabilitypartnerships.org)** | **[Marketing  Intern](https://jobright.ai/jobs/info/6a56f29de9b77f668bd665b6?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | On Site | Jul 25 |
 | **[Shiraz Creative](https://www.shirazcreative.global)** | **[Marketing/PR Internship](https://jobright.ai/jobs/info/6a54e03b31f2d15a8d813c6e?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 25 |
 | **[Margie Korshak, Inc.](https://korshak.com)** | **[Margie Korshak, Inc. Fashion, Hospitality & Lifestyle Winter/Spring 2017 Public Relations and Social Media Internship Program](https://jobright.ai/jobs/info/6a65736687cef057612ce84b?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Heights Wellness Retreat](http://www.massageheights.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a656eaee8d8d22e3292e8ad?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Hybrid | Jul 25 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Dietch PR](https://www.dietchpr.net)** | **[Social Media and Research Intern](https://jobright.ai/jobs/info/6a528e5fe726ec56126a3977?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Content Repurposing Marketing + Social Media Intern (remote, flexible, 2-3hrs/week)](https://jobright.ai/jobs/info/6a650a8de8d8d22e3292dd7e?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Remote | Jul 25 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Marketing Intern - Spring 2016](https://jobright.ai/jobs/info/6a543422d007ee02d95fe071?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Nannette Brown](https://www.nannettebrown.com)** | **[Go-to-Market Intern](https://jobright.ai/jobs/info/6a6509bf87cef057612cdcdf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fb00db0f20036bc6326c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 25 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a52db5ae726ec56126a4c55?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 25 |
@@ -113,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas–Fort Worth, Texas, United States | Hybrid | Jul 25 |
-| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
+| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a5fa1536e0c3c7c7d3d7ebb?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569ba153b3962b910b14ed?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 25 |
 | **[Intransigense](http://intransigense.com)** | **[Marketing Intern — Fall 2026](https://jobright.ai/jobs/info/6a64b0a587cef057612cd33f?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 25 |
