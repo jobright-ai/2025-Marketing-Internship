@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SeenU](www.seenu.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a661bae5c7e2d715ebb2ebe?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 26 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a66169c8d53603449609230?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 26 |
+| **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/6a34342c7f3fdd180d4c942d?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
 | **[Velvet Hammer Music and Management Group](http://velvethammer.net)** | **[Velvet Hammer Spring 2017 Internship](https://jobright.ai/jobs/info/6a432fd6e09ecb4959642bf7?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 26 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Lean Mean Business Growth Internship](https://jobright.ai/jobs/info/6a560d27efb06a45240d3742?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Zipline](https://www.zipline.com/)** | **[Communications Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ac1bae4052672fe98d49?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 26 |
@@ -141,13 +144,12 @@ For a complete list, click the following sortable link below:
 | **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas–Fort Worth, Texas, United States | Hybrid | Jul 25 |
-| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
+| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569ba153b3962b910b14ed?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 25 |
 | **[Intransigense](http://intransigense.com)** | **[Marketing Intern — Fall 2026](https://jobright.ai/jobs/info/6a64b0a587cef057612cd33f?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 25 |
 | **[IndeVets](https://indevets.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a51c4dfbf63b66c7997c5a6?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Jul 25 |
-| **[PlainStripes](https://www.plainstripes.com/)** | **[Social Media intern(unpaid intern)](https://jobright.ai/jobs/info/6a64af3e979290281c706b23?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a55d01214f1040fa611c5cb?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[HiWave](https://shop.hiwave.co)** | **[Brand Ambassador Intern](https://jobright.ai/jobs/info/6a51e47c57513b72e0c698c4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 25 |
 | **[Cenergistic](https://cenergistic.com)** | **[Internship - Lexington, KY](https://jobright.ai/jobs/info/6a39beb7649fdf1629302b95?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Media Relations](https://jobright.ai/jobs/info/6a513bca02522b5b722e8a51?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 24 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Operations Project Intern (TikTok LIVE-AMS) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2ff69c43732c05812dfe0e?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 24 |
 | **[Clean Bottle](https://www.cleanbottle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55f7e6f7517b519ad52587?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 24 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a570ffce9b77f668bd6694c?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Market Research and Data Analysis Intern/Volunteer](https://jobright.ai/jobs/info/6a59e99e4da96a42cfd92f25?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
