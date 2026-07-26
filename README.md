@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jean Martin](https://www.jeanmartin.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a55ce8105c65f7c8f4c7e1b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
+| **[Wayd](http://wayd.social)** | **[Growth Intern, Marketing Launch](https://jobright.ai/jobs/info/6a6671418d53603449609b87?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 26 |
+| **[Good People Only](https://www.goodpeopleonly.com/)** | **[Record Label Internship (Fall 26')](https://jobright.ai/jobs/info/6a666f3a979290281c709848?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
+| **[The Aspen Institute](https://www.aspeninstitute.org/programs/digital-equity-accelerator)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a53d9b38a74e077472f9ce4?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 26 |
+| **[Hawaii Coffee Company](https://www.hawaiicoffeecompany.com/)** | **[INTERN, Marketing](https://jobright.ai/jobs/info/6a66670a0c8e2b4f36dd530b?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 26 |
 | **[Romanark, Inc.](www.romanark.co.jp)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6665c95c7e2d715ebb3650?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | On Site | Jul 26 |
 | **[Space Capital](http://spacecapital.com)** | **[Fall Intern, Content Marketing & Partnerships - Part-Time](https://jobright.ai/jobs/info/6a6662008d53603449609a4c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Hawaii Coffee Company](https://www.hawaiicoffeecompany.com/)** | **[INTERN, Marketing](https://jobright.ai/jobs/info/6a665caa979290281c709702?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Marketing Intern](https://jobright.ai/jobs/info/6a50089d1544d7246c0d7808?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 25 |
 | **[New York Post](http://nypost.com/)** | **[Advertising Operations Intern](https://jobright.ai/jobs/info/6a5fc7e28c7fd835513bb0f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
-| **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas–Fort Worth, Texas, United States | Hybrid | Jul 25 |
-| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569ba153b3962b910b14ed?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
