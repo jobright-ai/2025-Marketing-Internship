@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hillpointe](http://www.hillpointe.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3ebf89882f121f56a3b28f?utm_campaign=1065&utm_source=git)** | Winter Park, FL, United States | On Site | Jul 26 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a558007ae07d60a8d011b13?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 26 |
 | **[Electro](electrogum.com)** | **[Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a65e8430c8e2b4f36dd46d3?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jul 26 |
 | ↳ | **[Athlete Partnerships & Marketing Intern](https://jobright.ai/jobs/info/6a65e8410c8e2b4f36dd46d2?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Jul 26 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Board Fundraising Director](https://jobright.ai/jobs/info/6a59e99e686b4755d1e123db?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a629b4d1e089c0cc884d977?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
 | **[New York Post](http://nypost.com/)** | **[Decider Social Intern, Fall 2026 (10 weeks, 24 hours per week)](https://jobright.ai/jobs/info/6a5faaa46e0c3c7c7d3d845a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd33cd1632418bec020?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
-| ↳ | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a521f1d8a74e077472f3346?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Associate Publicist Intern/Volunteer](https://jobright.ai/jobs/info/6a521f1d8a74e077472f3346?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
+| ↳ | **[SEO & On-line Marketing Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dfd33cd1632418bec020?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[PRAETORIAN TRAJAN](http://www.praetoriandigital.com)** | **[Digital Media Marketing Intern](https://jobright.ai/jobs/info/6a59cdf5c8e3a473cb8a8670?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 25 |
 | **[Hometown Grocers, Inc.](https://www.hgistores.com)** | **[Marketing / Digital Content Intern](https://jobright.ai/jobs/info/6a5a837063a8f619507c76aa?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Jul 25 |
 | **[Griffin Media](http://griffincommunications.net/)** | **[News 9 Fall Marketing Intern](https://jobright.ai/jobs/info/6a50089d1544d7246c0d7808?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 25 |
@@ -137,7 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Liberated People](http://www.weareliberated.com)** | **[Marketing & Sales Intern](https://jobright.ai/jobs/info/6a52c6bce726ec56126a47bd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Social Media Writer Internship](https://jobright.ai/jobs/info/6a433012cbf92c7bcd36e861?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Zipline](https://www.zipline.com/)** | **[Field Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a578b30a791c6211befebae?utm_campaign=1065&utm_source=git)** | Dallas–Fort Worth, Texas, United States | Hybrid | Jul 25 |
-| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
+| **[HDR](https://taplow.fi)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Jul 25 |
 | ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Jul 25 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Digital Marketing Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a569ba153b3962b910b14ed?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a6f2084cd792b476a32?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Marketing Intern, Paid Social](https://jobright.ai/jobs/info/6a63f245e8d8d22e3292b86b?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 24 |
 | **[Harborside Inc.](https://www.shopharborside.com)** | **[Marketing Paid Internship (Part-Time) 3-6 months Months ($18.45 per hour)](https://jobright.ai/jobs/info/6a5533aef2c46727285f0964?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Hybrid | Jul 24 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Fall 2026 Signature Events Intern](https://jobright.ai/jobs/info/6a5a8f5dc8e3a473cb8ac5b7?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Hybrid | Jul 24 |
-| **[FerskTech](https://fersktech.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a55704da96a42cfd95430?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
