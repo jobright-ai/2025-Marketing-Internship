@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clickx](https://www.clickx.io)** | **[Online Marketing Intern  SEM  SEO  Chicago  ClickXPosure](https://jobright.ai/jobs/info/6a66ba9d979290281c709f40?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
+| ↳ | **[Social Media Coordinator  Internship  ClickXPosure - Chicago](https://jobright.ai/jobs/info/6a66ba9c87cef057612d066e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Akola](https://akola.co)** | **[Fall Internship: Social & Digital Media](https://jobright.ai/jobs/info/6a5434088a74e077472fb035?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 26 |
-| **[Stellar Growth Capital](https://www.stellargcp.com)** | **[Investor Relations & Content Associate Intern](https://jobright.ai/jobs/info/6a66a2f187cef057612d0419?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 26 |
 | **[Corient](https://corient.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a669e2c979290281c709c86?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | Hybrid | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Fashion and Marketing Copywriter Intern/Volunteer](https://jobright.ai/jobs/info/6a55cc14fdf4fa71202b53b2?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
 | **[PoppingFUN, Inc.](https://www.poppingfun.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6694e587cef057612d0366?utm_campaign=1065&utm_source=git)** | Appleton, WI, United States | On Site | Jul 26 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a650c72e8d8d22e3292dd99?utm_campaign=1065&utm_source=git)** | Ephrata, PA, United States | On Site | Jul 25 |
 | **[Dietch PR](https://www.dietchpr.net)** | **[Social Media and Research Intern](https://jobright.ai/jobs/info/6a528e5fe726ec56126a3977?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Marketing Intern - Spring 2016](https://jobright.ai/jobs/info/6a543422d007ee02d95fe071?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 25 |
-| ↳ | **[Marketing Events and Campaigns Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fb00db0f20036bc6326c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fb00db0f20036bc6326c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
+| ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a52db5ae726ec56126a4c55?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 25 |
 | **[Red Ventures](http://www.redventures.com)** | **[We're Planning Ahead - Join the Talent Pipeline for our 2027 Business Analyst Internship](https://jobright.ai/jobs/info/6a50e6d80524e919f4a9aaf1?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[eCommerce Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a584cda8f51964c0404784f?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | ↳ | **[Email Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a513d77bf63b66c7997a1e7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO SPECIALIST/ON-LINE MARKETING SPECIALIST INTERNSHIP](https://jobright.ai/jobs/info/6a528e5b9fbdab22fe13c198?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Akola](https://akola.co)** | **[Fall Internship: Marketing](https://jobright.ai/jobs/info/6a523a1f9fbdab22fe13a9fe?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
