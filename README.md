@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maxis](http://www.maxis.com.my)** | **[Content Management Intern](https://jobright.ai/jobs/info/6a67177b2bf1fb2b7192414f?utm_campaign=1065&utm_source=git)** | Pinnacle, NC, United States | On Site | Jul 27 |
 | **[Nvelup Consulting](https://www.nvelupconsulting.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a53a74f8576ec69c015079f?utm_campaign=1065&utm_source=git)** | Bothell, WA, United States | Remote | Jul 27 |
 | **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a44a01f57ffc22029407b33?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 27 |
 | **[Flatiron NoMad Partnership](https://flatironnomad.nyc/)** | **[MARKETING & DIGITAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a66fea55c7e2d715ebb468d?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 26 |
@@ -147,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Pencor Services, Inc.](http://pencor.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a650c72e8d8d22e3292dd99?utm_campaign=1065&utm_source=git)** | Ephrata, PA, United States | On Site | Jul 25 |
 | **[Dietch PR](https://www.dietchpr.net)** | **[Social Media and Research Intern](https://jobright.ai/jobs/info/6a528e5fe726ec56126a3977?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Marketing Intern - Spring 2016](https://jobright.ai/jobs/info/6a543422d007ee02d95fe071?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 25 |
-| ↳ | **[Marketing Events and Campaigns Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fb00db0f20036bc6326c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Events and Campaigns Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fb00db0f20036bc6326c2?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 25 |
+| ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 25 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Bilingual Spanish Marketing Intern](https://jobright.ai/jobs/info/68673bc3afc79b6161e5b8c6?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 25 |
 | **[J/PR](http://jpublicrelations.com)** | **[Fall 2026 PR and Social Media Internship](https://jobright.ai/jobs/info/6a52db5ae726ec56126a4c55?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 25 |
 | **[Red Ventures](http://www.redventures.com)** | **[We're Planning Ahead - Join the Talent Pipeline for our 2027 Business Analyst Internship](https://jobright.ai/jobs/info/6a50e6d80524e919f4a9aaf1?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a55ba58ef22935f2e3f6406?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Jul 25 |
 | **[Furniture Assembly Experts - ikea furniture assemblers DC MD VA - Junk furniture removal](https://www.furnitureassemblyexperts.com)** | **[Winter Marketing Internship - Washington DC - Maryland](https://jobright.ai/jobs/info/6a54a61f8ef95364ead963ec?utm_campaign=1065&utm_source=git)** | Lanham, MD, United States | On Site | Jul 25 |
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3966baf6b55d12c7927cc9?utm_campaign=1065&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 25 |
-| **[SC Johnson](http://www.scjohnson.com)** | **[Marketing BBA Internship - Summer 2027](https://jobright.ai/jobs/info/6a62f5647c70964cbb054e78?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
