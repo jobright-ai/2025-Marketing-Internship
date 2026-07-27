@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a533cca9fbdab22fe13ec36?utm_campaign=1065&utm_source=git)** | Sewanee, TN, United States | On Site | Jul 26 |
+| **[Enlightened ATL](https://enlightened-atl.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a66edf6979290281c70a50b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 26 |
+| **[iFLIP4](http://www.iflip4.com)** | **[Write to Change the World Internship at Revolutionary Startup Social Enterprise](https://jobright.ai/jobs/info/6a55cc6105c65f7c8f4c7b58?utm_campaign=1065&utm_source=git)** | East Hanover, NJ, United States | On Site | Jul 26 |
 | **[Corient](https://corient.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a669e2c979290281c709c86?utm_campaign=1065&utm_source=git)** | Morristown, NJ, United States | Hybrid | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern: Crowdfunding Specialist](https://jobright.ai/jobs/info/6a59e9b2c8e3a473cb8a8c7b?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Cultural Community Services](https://jobright.ai/jobs/info/6a66def287cef057612d0a33?utm_campaign=1065&utm_source=git)** | Sunny Isles Beach, FL, United States | On Site | Jul 26 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dietch PR](https://www.dietchpr.net)** | **[Lifestyle, Wellness and Fashion PR Internship](https://jobright.ai/jobs/info/6a580c8268d16a30e2411748?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 | **[Yelp](https://www.yelp.com)** | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Jul 25 |
 | ↳ | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a64d5bf0c8e2b4f36dd2a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 25 |
-| ↳ | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a64d5ba979290281c706f42?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Jul 25 |
-| **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a53e88b8a74e077472fa062?utm_campaign=1065&utm_source=git)** | Davie, FL, United States | On Site | Jul 25 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Communications Internship](https://jobright.ai/jobs/info/6a3c554c4d047136e0930838?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
