@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Digital Marketing & Client Development Intern](https://jobright.ai/jobs/info/6a67808a872eb74f9ead94df?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
+| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Marketing & Communications Student Intern](https://jobright.ai/jobs/info/6a677ebf2bda4d28428541c6?utm_campaign=1065&utm_source=git)** | Laramie, WY, United States | On Site | Jul 27 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 27 |
+| **[Hiebing](http://hiebing.com)** | **[PR, Social & Content Intern](https://jobright.ai/jobs/info/6a6778c92bf1fb2b71925436?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Jul 27 |
 | **[Kratos Defense and Security Solutions](https://www.kratosdefense.com)** | **[Marketing Video Intern](https://jobright.ai/jobs/info/6a677769d0fb4c3df393cf59?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Jul 27 |
 | **[McWane](http://www.mcwanepoles.com/)** | **[M&H Valve - Marketing Intern](https://jobright.ai/jobs/info/6a67766e2bda4d2842854003?utm_campaign=1065&utm_source=git)** | Anniston, Alabama, United States | On Site | Jul 27 |
 | **[University of St. Thomas](http://www.stthomas.edu)** | **[Marketing & Communications Intern at the Free Book Buggie](https://jobright.ai/jobs/info/6a6773b22bda4d2842853f58?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
@@ -87,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[RegDesk](http://www.regdesk.co)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a54dd02b361d54aceab7807?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 27 |
 | **[Speeko AI Speech Coach](https://www.speeko.co/)** | **[Growth Marketing Intern (Summer 2022)](https://jobright.ai/jobs/info/6a54dcfa31f2d15a8d813aca?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 27 |
 | **[MFA](https://www.managedfunds.org/)** | **[Communications Intern (Spring Session)](https://jobright.ai/jobs/info/6a551a4fae07d60a8d00eeb4?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
+| **[Launch 513](https://www.welcometolaunch.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a677e613b5e6b116a54ef05?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 | **[Communications Strategy Group (CSG®)](https://wearecsg.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57b939e9b77f668bd6a511?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 27 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Marketing & Press Intern](https://jobright.ai/jobs/info/6a59232b856af468ab001fa1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Event Management Internship](https://jobright.ai/jobs/info/6a58bace856af468abfff430?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a66169c8d53603449609230?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 26 |
 | **[Kensington](https://www.kensingtontours.com/ie-upgrade)** | **[Intern - Partnership Marketing](https://jobright.ai/jobs/info/6a34342c7f3fdd180d4c942d?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 26 |
 | **[Velvet Hammer Music and Management Group](http://velvethammer.net)** | **[Velvet Hammer Spring 2017 Internship](https://jobright.ai/jobs/info/6a432fd6e09ecb4959642bf7?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 26 |
-| **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Lean Mean Business Growth Internship](https://jobright.ai/jobs/info/6a560d27efb06a45240d3742?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
-| **[Zipline](https://www.zipline.com/)** | **[Communications Intern (Fall 2026)](https://jobright.ai/jobs/info/6a51ac1bae4052672fe98d49?utm_campaign=1065&utm_source=git)** | South San Francisco, California, USA | On Site | Jul 26 |
-| **[National MS Society](http://www.nationalmssociety.org)** | **[Special Events Internship](https://jobright.ai/jobs/info/6a5f157af3674a0545d2bc0a?utm_campaign=1065&utm_source=git)** | Woodbridge Township, NJ, United States | On Site | Jul 26 |
-| **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Copywriting Internship](https://jobright.ai/jobs/info/6a5bac614da96a42cfd9ae1e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
-| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a558007ae07d60a8d011b13?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
