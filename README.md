@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nvelup Consulting](https://www.nvelupconsulting.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a53a74f8576ec69c015079f?utm_campaign=1065&utm_source=git)** | Bothell, WA, United States | Remote | Jul 27 |
+| **[Exactech](http://www.exac.com)** | **[Intern - Marketing Communications (Fall Semester)](https://jobright.ai/jobs/info/6a44a01f57ffc22029407b33?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Jul 27 |
+| **[Flatiron NoMad Partnership](https://flatironnomad.nyc/)** | **[MARKETING & DIGITAL MEDIA INTERNSHIP](https://jobright.ai/jobs/info/6a66fea55c7e2d715ebb468d?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 26 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Social Media Writer Internship (Unpaid)](https://jobright.ai/jobs/info/6a59e9bb4da96a42cfd92f3a?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a533cca9fbdab22fe13ec36?utm_campaign=1065&utm_source=git)** | Sewanee, TN, United States | On Site | Jul 26 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a66edf6979290281c70a50b?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 26 |
 | **[iFLIP4](http://www.iflip4.com)** | **[Write to Change the World Internship at Revolutionary Startup Social Enterprise](https://jobright.ai/jobs/info/6a55cc6105c65f7c8f4c7b58?utm_campaign=1065&utm_source=git)** | East Hanover, NJ, United States | On Site | Jul 26 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Y.N. Marketing Solutions Inc](https://ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a5e5af4270e3033b045d5b6?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 26 |
 | **[Space Capital](http://spacecapital.com)** | **[Fall Intern, Content Marketing & Partnerships - Part-Time](https://jobright.ai/jobs/info/6a6662008d53603449609a4c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Hawaii Coffee Company](https://www.hawaiicoffeecompany.com/)** | **[INTERN, Marketing](https://jobright.ai/jobs/info/6a665caa979290281c709702?utm_campaign=1065&utm_source=git)** | Honolulu, HI, United States | On Site | Jul 26 |
-| **[Electro](electrogum.com)** | **[NIL Brand Partnerships Intern](https://jobright.ai/jobs/info/6a665687e8d8d22e3292ff5f?utm_campaign=1065&utm_source=git)** | Florida, United States | Remote | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Director Intern/Volunteer](https://jobright.ai/jobs/info/6a5f23a043310d6259cec97e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Volunteer/Intern Fundraising Director](https://jobright.ai/jobs/info/6a53dfc6d007ee02d95fce5b?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[TGR](https://thegarnettereport.com)** | **[Fall Internship](https://jobright.ai/jobs/info/6a6646268d53603449609765?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Jul 26 |
@@ -113,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Brand Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd133cd1632418bebf07?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Marketing Intern, University of Notre Dame](https://jobright.ai/jobs/info/6a553be6ae07d60a8d00fdf5?utm_campaign=1065&utm_source=git)** | Notre Dame, IN, United States | Hybrid | Jul 26 |
 | **[MedPro Group](https://www.medpro.com/)** | **[Intern - Marketing - Data Analyst](https://jobright.ai/jobs/info/6a2f618f89f8f147d3731ad6?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | Hybrid | Jul 26 |
-| **[Applecart](http://applecart.co/)** | **[Political Campaigns Intern (Fall)](https://jobright.ai/jobs/info/6a53532c9fbdab22fe13f0a0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO SPECIALIST/ON-LINE MARKETING SPECIALIST INTERNSHIP](https://jobright.ai/jobs/info/6a5352dee726ec56126a675f?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 26 |
 | **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 26 |
 | **[GiftRocket](http://www.giftrocket.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a533192d007ee02d95fa933?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 26 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Isuzu North America](http://www.isuzu.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a3966baf6b55d12c7927cc9?utm_campaign=1065&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 25 |
 | **[SC Johnson](http://www.scjohnson.com)** | **[Marketing BBA Internship - Summer 2027](https://jobright.ai/jobs/info/6a62f5601ed5b0056a939695?utm_campaign=1065&utm_source=git)** | Racine, WI, United States | On Site | Jul 25 |
 | **[Dietch PR](https://www.dietchpr.net)** | **[Lifestyle, Wellness and Fashion PR Internship](https://jobright.ai/jobs/info/6a580c8268d16a30e2411748?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
-| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Jul 25 |
-| ↳ | **[Social Media Intern - Los Angeles, CA](https://jobright.ai/jobs/info/6a64d5bf0c8e2b4f36dd2a6b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
