@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Market Research and Data Analysis Intern/Volunteer](https://jobright.ai/jobs/info/6a594259856af468ab002cc9?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
+| **[Acadium](http://www.acadium.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a6888445f2a9115e18d8600?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Tech Collaborative](tech-collaborative.org)** | **[WordPress Internship](https://jobright.ai/jobs/info/6a6887e4c1787161d1444cc5?utm_campaign=1065&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Jul 28 |
 | **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5e5efb050c423c792eec63?utm_campaign=1065&utm_source=git)** | Conway, SC, United States | On Site | Jul 28 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing Intern - FMU](https://jobright.ai/jobs/info/6a55ec9defb06a45240d1f6c?utm_campaign=1065&utm_source=git)** | Florence, SC, United States | On Site | Jul 28 |
 | **[Logitech](https://www.logitech.com)** | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a31b61b35e80310003a8e1a?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, United States of America | On Site | Jul 28 |
@@ -87,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[FIRST](https://firstagency.com/)** | **[Venue Sourcing Intern](https://jobright.ai/jobs/info/6a67e5f32bda4d284285660c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 | **[We Are Artistic](www.weareartistic.net)** | **[Communications & Creative Media Intern Lead](https://jobright.ai/jobs/info/6a682567457b634238121049?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | **[SPREEAI](https://www.spreeai.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5b71b73ac7627fe900854a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 27 |
-| **[AVCON, INC.](https://avconinc.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6813752bf1fb2b71928534?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 27 |
+| **[AVCON, INC.](http://avconinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6813752bf1fb2b71928534?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 27 |
 | **[NAFSA: Association of International Educators](https://www.nafsa.org)** | **[Socia Media Marketing Intern](https://jobright.ai/jobs/info/6a6812b55d2a117fb9cee8e2?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 27 |
 | **[Laradon](https://www.laradon.org/)** | **[Communications & Volunteerism Internship](https://jobright.ai/jobs/info/6a4e7c0b15b4965afd5836f5?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 27 |
 | **[Curate](https://www.getcurate.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a68288051eb742d7275647a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications & Marketing Intern](https://jobright.ai/jobs/info/6a67a3d02bda4d2842854de1?utm_campaign=1065&utm_source=git)** | Lake Forest, CA, United States | On Site | Jul 27 |
 | **[LOMA Agency](https://www.lomaagency.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6a67a3083b5e6b116a54fb7a?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 27 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Marketing Intern](https://jobright.ai/jobs/info/6a67a1d9d0fb4c3df393dce2?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Remote | Jul 27 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern, International](https://jobright.ai/jobs/info/6a67a0ab872eb74f9eada04c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 27 |
-| **[The McRae Agency](http://www.mcraeagency.com)** | **[Public Relations and Digital Marketing Intern](https://jobright.ai/jobs/info/6a5a08893ac7627fe9001f2e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 27 |
-| **[SeenU](www.seenu.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a67b9e6872eb74f9eada9dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
