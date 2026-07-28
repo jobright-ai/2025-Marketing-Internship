@@ -57,7 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Agent](https://jobright.ai/jobs/info/6a59111d856af468ab001a3b?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL, United States | On Site | Jul 27 |
+| **[BMO](http://www.bmo.com)** | **[BMO Rewards Program Internship, Fall 2026 (4 months)-Toronto, CA](https://jobright.ai/jobs/info/6a67f6822bda4d28428567da?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 27 |
+| **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Public Relations Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a67f53f5d2a117fb9cee0f6?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
+| ↳ | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a67f53c5d2a117fb9cee0f5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Jungle Communications, Inc.](https://www.junglecommunications.com/)** | **[Marketing & Events Coordinator (Fall 2026 Internship)](https://jobright.ai/jobs/info/6a5a5ccdc8e3a473cb8ab533?utm_campaign=1065&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 27 |
 | **[Twist Bioscience](http://www.twistbioscience.com)** | **[Marketing Intern - Sales Enablement](https://jobright.ai/jobs/info/6a67ef103b5e6b116a551514?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | Hybrid | Jul 27 |
+| **[Predictify Pro](https://www.predictify.pro/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a67f1802bf1fb2b71927c35?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 27 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a424b656faf756060966830?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
+| ↳ | **[Volunteer/Intern: Campus Ambassador](https://jobright.ai/jobs/info/6a5899e572fe7a7b98dcf84c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Audience Development](https://jobright.ai/jobs/info/6a67dc3a2bda4d28428560c1?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 27 |
 | **[FIRST](https://firstagency.com/)** | **[Venue Sourcing Intern](https://jobright.ai/jobs/info/6a67e5f32bda4d284285660c?utm_campaign=1065&utm_source=git)** | New York, United States | Hybrid | Jul 27 |
 | **[The Azure Agency](https://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/6a67df375d2a117fb9cedc24?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Jul 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UserIQ](http://www.useriq.com)** | **[Social Media Content Marketing Intern (part-time)](https://jobright.ai/jobs/info/6a54dd378b24713fc151b44f?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[eCommerce Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd083cd1632418bebef4?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | ↳ | **[SEO Specialist/On-line Marketing Specialist Internship](https://jobright.ai/jobs/info/6a54dd4281744f383a3137ef?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[RegDesk](http://www.regdesk.co)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a54dd02b361d54aceab7807?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 27 |
-| **[Speeko AI Speech Coach](https://www.speeko.co/)** | **[Growth Marketing Intern (Summer 2022)](https://jobright.ai/jobs/info/6a54dcfa31f2d15a8d813aca?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Jul 27 |
-| **[MFA](https://www.managedfunds.org/)** | **[Communications Intern (Spring Session)](https://jobright.ai/jobs/info/6a551a4fae07d60a8d00eeb4?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 27 |
-| **[Launch 513](https://www.welcometolaunch.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a677e613b5e6b116a54ef05?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
-| **[Communications Strategy Group (CSG®)](https://wearecsg.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57b939e9b77f668bd6a511?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Jul 27 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Marketing & Press Intern](https://jobright.ai/jobs/info/6a59232b856af468ab001fa1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| **[Edison Festival of Light](http://www.edisonfestival.org)** | **[Event Management Internship](https://jobright.ai/jobs/info/6a58bace856af468abfff430?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Jul 27 |
-| **[Pro Seniors, Inc](https://www.proseniors.org)** | **[Development and Communications Intern](https://jobright.ai/jobs/info/6a6740f52bda4d28428533f5?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
