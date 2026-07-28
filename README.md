@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barnes & Noble College](http://www.bncollege.com/)** | **[Student CMO (Campus Marketing Officer – Marketing Intern)](https://jobright.ai/jobs/info/6a5e5efb050c423c792eec63?utm_campaign=1065&utm_source=git)** | Conway, SC, United States | On Site | Jul 28 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing Intern - FMU](https://jobright.ai/jobs/info/6a55ec9defb06a45240d1f6c?utm_campaign=1065&utm_source=git)** | Florence, SC, United States | On Site | Jul 28 |
+| **[Logitech](https://www.logitech.com)** | **[Category Marketing Intern - Personal Work Solutions](https://jobright.ai/jobs/info/6a31b61b35e80310003a8e1a?utm_campaign=1065&utm_source=git)** | San Jose, California - USA, United States of America | On Site | Jul 28 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 28 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 28 |
+| **[Griffin Media](http://griffincommunications.net/)** | **[News On 6 Fall Marketing Intern](https://jobright.ai/jobs/info/6a686fafaa309c3828dedd77?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 28 |
+| **[Markkit](https://markkit.ai/)** | **[growth intern](https://jobright.ai/jobs/info/6a686f3899b26f0159ee47f7?utm_campaign=1065&utm_source=git)** | Los Angeles County, United States | Remote | Jul 28 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57478c21f64463ad358960?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Healthcare Marketer - Intern (Unpaid)](https://jobright.ai/jobs/info/6a55cff9ec54dd532d813e30?utm_campaign=1065&utm_source=git)** | Union, NJ, United States | On Site | Jul 28 |
 | **[PRAB, Inc.](https://www.prab.org/)** | **[Development & Fundraising Intern](https://jobright.ai/jobs/info/6a55cd98fdf4fa71202b556e?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 28 |
 | **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a55cfea2ce8bf79a13a1487?utm_campaign=1065&utm_source=git)** | Lenoir, NC, United States | On Site | Jul 28 |
@@ -105,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a6828a551eb742d7275647d?utm_campaign=1065&utm_source=git)** | Meadville, PA, United States | On Site | Jul 27 |
 | **[Austin Community College](http://www.austincc.edu/)** | **[Student Intern, Marketing Copywriter (Hourly)](https://jobright.ai/jobs/info/6a67936b2bda4d2842854983?utm_campaign=1065&utm_source=git)** | Highland Campus, United States of America | Hybrid | Jul 27 |
 | **[The Azure Agency](https://www.theazureagency.com)** | **[Social Media & PR Intern](https://jobright.ai/jobs/info/6a67df375d2a117fb9cedc24?utm_campaign=1065&utm_source=git)** | Jacksonville, FL, United States | Remote | Jul 27 |
-| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a39d04c06a4fd4b1fabc25c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
-| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a587b7272fe7a7b98dceaa3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
+| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a587b7272fe7a7b98dceaa3?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
+| ↳ | **[Communications Intern](https://jobright.ai/jobs/info/6a39d04c06a4fd4b1fabc25c?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 27 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Media Buying Intern](https://jobright.ai/jobs/info/6a67da0bd0fb4c3df393f007?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Remote | Jul 27 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for MOTA](https://jobright.ai/jobs/info/6a572b07efb06a45240d96b3?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 27 |
 | **[The Lede Company](https://ledecompany.com)** | **[Talent PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a67d870d0fb4c3df393ef9d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern, International](https://jobright.ai/jobs/info/6a67a0ab872eb74f9eada04c?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 27 |
 | **[The McRae Agency](http://www.mcraeagency.com)** | **[Public Relations and Digital Marketing Intern](https://jobright.ai/jobs/info/6a5a08893ac7627fe9001f2e?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 27 |
 | **[SeenU](www.seenu.io)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a67b9e6872eb74f9eada9dd?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
-| **[PredictEX](https://www.predictex.com/)** | **[Growth Intern](https://jobright.ai/jobs/info/6a679a44872eb74f9ead9e9d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 27 |
-| **[Raijin](https://raijinai.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a67975f2bda4d2842854a69?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 27 |
-| **[M&H Valve Company](https://www.mh-valve.com)** | **[M&H Valve - Marketing Intern](https://jobright.ai/jobs/info/6a68554157cfac3b21914101?utm_campaign=1065&utm_source=git)** | Anniston, AL, United States | On Site | Jul 27 |
-| **[American Heart Association](http://www.heart.org)** | **[Intern, Development & Community Events-Southwest Virginia](https://jobright.ai/jobs/info/6a67944f2bf1fb2b71925db3?utm_campaign=1065&utm_source=git)** | Roanoke, VA, United States | Hybrid | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a54dfe13cd1632418bec02c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Freixenet Mionetto USA](https://www.freixenetmionettousa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a679393872eb74f9ead9cf4?utm_campaign=1065&utm_source=git)** | White Plains, NY, United States | Hybrid | Jul 27 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a5be49f856af468ab00ddb4?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells K12 / Leavenworth School District / Leavenworth, KS](https://jobright.ai/jobs/info/6a54fdd84119652ff3862997?utm_campaign=1065&utm_source=git)** | Leavenworth, KS, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
