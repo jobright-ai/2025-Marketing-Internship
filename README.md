@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Barkera®](https://barkera.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5604a621f64463ad351ccf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Remote | Jul 28 |
+| **[Flowable](https://flowable.com/)** | **[TikTok Commerce B2B Marketing Internship](https://jobright.ai/jobs/info/6a55d259ef22935f2e3f7ca4?utm_campaign=1065&utm_source=git)** | Madrid, IA, United States | On Site | Jul 28 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2026 - Brand Management](https://jobright.ai/jobs/info/6a552bf7f2c46727285f053f?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 28 |
 | **[Candor Logistics Management](https://candorexp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a432ec6c8bca56ab2245c3e?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | On Site | Jul 28 |
 | **[Industrial Metal Supply Co.](http://www.industrialmetalsupply.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a55d49fef22935f2e3f800c?utm_campaign=1065&utm_source=git)** | Sun Valley, CA, United States | On Site | Jul 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Diverse Computing, Inc.](http://diversecomputing.com/)** | **[Junior Marketing Representative Internship (Tallahassee, FL)](https://jobright.ai/jobs/info/6a67891b2bda4d284285457c?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | Hybrid | Jul 27 |
 | ↳ | **[Junior Marketing Representative Internship (Tallahassee, FL)](https://jobright.ai/jobs/info/6a6788d82bda4d2842854559?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | Remote | Jul 27 |
 | **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Marketing & Communications Student Intern](https://jobright.ai/jobs/info/6a6788762bda4d2842854520?utm_campaign=1065&utm_source=git)** | Laramie, WY, United States | On Site | Jul 27 |
-| **[The deFIANT](https://www.thedefiant.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a6785a72bda4d2842854418?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 27 |
-| **[InSource Solutions Group](http://www.insourcess.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5efc6a270e3033b04605ec?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Remote | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
