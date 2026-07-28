@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Marketing Intern (July 2026 - December 2026 Full Time)](https://jobright.ai/jobs/info/6a68d4a4ceb2691dfb205745?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 28 |
+| **[Exclusive Sports Group](https://exclusivesg.com/)** | **[NFL/NIL Athlete Marketing Intern](https://jobright.ai/jobs/info/6a68d47cb22f1b56a6028dd0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Green Compass, LLC](https://greencompassglobal.uk)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/6a68cf90ceb2691dfb2054e6?utm_campaign=1065&utm_source=git)** | Wilmington, NC, United States | Hybrid | Jul 28 |
+| **[FACTEUR PR](https://www.facteurpr.com)** | **[Fall 2026 Media Research & Engagement Intern](https://jobright.ai/jobs/info/6a68cd8db22f1b56a6028a97?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
+| **[FleishmanHillard](http://fleishmanhillard.com)** | **[Intern-2](https://jobright.ai/jobs/info/6a56376253b3962b910aebb5?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 28 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Fashion and Marketing Copywriter Intern/Volunteer](https://jobright.ai/jobs/info/6a54ddcd31f2d15a8d813b35?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[Anti-Defamation League](http://adl.org/)** | **[Fall Seattle Regional Intern](https://jobright.ai/jobs/info/6a68c79405bae84301b584f9?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 28 |
 | **[Joliet Public Library](https://www.jolietlibrary.org/index.php/en/)** | **[Communications Internship](https://jobright.ai/jobs/info/6a68c74d36d36c1ff29960cc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for MOTA](https://jobright.ai/jobs/info/6a572b07efb06a45240d96b3?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 27 |
 | **[The Lede Company](https://ledecompany.com)** | **[Talent PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a67d870d0fb4c3df393ef9d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | ↳ | **[Brand PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a67d86b872eb74f9eadb3b6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| ↳ | **[Strategic Communications PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a67d867872eb74f9eadb3b5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
-| **[Clarvos](https://clarvos.com/)** | **[AI Product Marketing Intern](https://jobright.ai/jobs/info/6a67d8653b5e6b116a550d34?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a67dbbbd0fb4c3df393f079?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 27 |
-| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a67c2bc3b5e6b116a550754?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 27 |
-| **[FIRST](https://firstagency.com/)** | **[Event Administrative Coordinator Intern](https://jobright.ai/jobs/info/6a67a009d0fb4c3df393dc49?utm_campaign=1065&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
