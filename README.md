@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Healthcare Marketer - Intern (Unpaid)](https://jobright.ai/jobs/info/6a55cff9ec54dd532d813e30?utm_campaign=1065&utm_source=git)** | Union, NJ, United States | On Site | Jul 28 |
+| **[PRAB, Inc.](https://www.prab.org/)** | **[Development & Fundraising Intern](https://jobright.ai/jobs/info/6a55cd98fdf4fa71202b556e?utm_campaign=1065&utm_source=git)** | East Brunswick, NJ, United States | On Site | Jul 28 |
+| **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a55cfea2ce8bf79a13a1487?utm_campaign=1065&utm_source=git)** | Lenoir, NC, United States | On Site | Jul 28 |
+| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Strategic Communications](https://jobright.ai/jobs/info/6a6756f42bda4d284285379b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Simmons Foods](https://simmonsfoods.com/)** | **[Intern Summer (Pet Marketing)](https://jobright.ai/jobs/info/6a68646f3ce1ac3805d0e8bf?utm_campaign=1065&utm_source=git)** | Rogers, AR, United States | On Site | Jul 28 |
 | **[Barkera®](https://barkera.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5604a621f64463ad351ccf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Remote | Jul 28 |
 | **[Flowable](https://flowable.com/)** | **[TikTok Commerce B2B Marketing Internship](https://jobright.ai/jobs/info/6a55d259ef22935f2e3f7ca4?utm_campaign=1065&utm_source=git)** | Madrid, IA, United States | On Site | Jul 28 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship Fall 2026 - Brand Management](https://jobright.ai/jobs/info/6a552bf7f2c46727285f053f?utm_campaign=1065&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Freixenet Mionetto USA](https://www.freixenetmionettousa.com/)** | **[Intern](https://jobright.ai/jobs/info/6a679393872eb74f9ead9cf4?utm_campaign=1065&utm_source=git)** | White Plains, NY, United States | Hybrid | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Event planning volunteer/Intern](https://jobright.ai/jobs/info/6a5be49f856af468ab00ddb4?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells K12 / Leavenworth School District / Leavenworth, KS](https://jobright.ai/jobs/info/6a54fdd84119652ff3862997?utm_campaign=1065&utm_source=git)** | Leavenworth, KS, United States | On Site | Jul 27 |
-| **[McWane](http://www.mcwanepoles.com/)** | **[M&H Valve - Marketing Intern](https://jobright.ai/jobs/info/6a67766e2bda4d2842854003?utm_campaign=1065&utm_source=git)** | Anniston, Alabama, United States | On Site | Jul 27 |
-| **[Eastman Kodak Company](http://kodak.com)** | **[Marketing Analytics Intern](https://jobright.ai/jobs/info/6a678c673b5e6b116a54f4cb?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 27 |
-| **[Diverse Computing, Inc.](http://diversecomputing.com/)** | **[Junior Marketing Representative Internship (Tallahassee, FL)](https://jobright.ai/jobs/info/6a67891b2bda4d284285457c?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | Hybrid | Jul 27 |
-| ↳ | **[Junior Marketing Representative Internship (Tallahassee, FL)](https://jobright.ai/jobs/info/6a6788d82bda4d2842854559?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | Remote | Jul 27 |
-| **[University of Wyoming](https://www.uwyo.edu/)** | **[Hourly Pooled - Marketing & Communications Student Intern](https://jobright.ai/jobs/info/6a6788762bda4d2842854520?utm_campaign=1065&utm_source=git)** | Laramie, WY, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
