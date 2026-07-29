@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IPS-Integrated Project Services](https://www.ipsdb.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a4d8dfcc643fd23fed3d6b9?utm_campaign=1065&utm_source=git)** | Blue Bell, Pennsylvania, United States | Hybrid | Jul 29 |
+| **[Nexans](https://www.nexans.com/en/)** | **[Marketing Innovation Intern - 12 months](https://jobright.ai/jobs/info/6a6a08a1c63ba56308f50d0b?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | Hybrid | Jul 29 |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Strategy Intern](https://jobright.ai/jobs/info/6a6a03efc63ba56308f50c07?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[On-line Marketing - Intern Solar-Equipment](https://jobright.ai/jobs/info/6a6a01bd19d76667a2abd1a4?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 29 |
+| **[Landis+Gyr](https://www.landisgyr.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a509d87ddd293054ccaa5a0?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, United States | On Site | Jul 29 |
 | **[Simular](https://simular.ai)** | **[GTM Intern, Content & Distribution](https://jobright.ai/jobs/info/6a69fdebc63ba56308f50a64?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 29 |
 | **[Joliet Junior College](http://www.jjc.edu/)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a69fa9b48355b3f12bee5e8?utm_campaign=1065&utm_source=git)** | Joliet, IL, United States | On Site | Jul 29 |
 | **[LoBello Communications](http://lobellocommunications.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a69fa0848355b3f12bee593?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 29 |
@@ -105,7 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Redlist](https://www.getredlist.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6948ce5d01972698ee7552?utm_campaign=1065&utm_source=git)** | Pleasant Grove, UT, United States | On Site | Jul 28 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026 Dallas](https://jobright.ai/jobs/info/6a56b40453b3962b910b20a7?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 28 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b41fefb06a45240d7a4c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb7ceb2691dfb2062c1?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb83b549b0b531d2c0d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Amphenol PCD](http://amphenolpcd.com)** | **[Marketing Communication Intern](https://jobright.ai/jobs/info/6a6942baceb2691dfb2081f4?utm_campaign=1065&utm_source=git)** | Beverly, MA, United States | On Site | Jul 28 |
 | **[Park City Blind & Design](https://www.parkcityblind.com)** | **[Social Media & Creation Content Intern](https://jobright.ai/jobs/info/6a6941753b549b0b531d4a59?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 28 |
 | **[ProGuard Security Services](https://www.proguardsecurityservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a693e323b549b0b531d49f3?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 28 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Miami HEAT](https://www.nba.com/heat/)** | **[Intern, Event Services (Seasonal)](https://jobright.ai/jobs/info/6a69077a36d36c1ff2997af7?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 28 |
 | **[Kanto Living](https://www.kantoliving.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a6906f405bae84301b5a040?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Jul 28 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Social Media & Digital Marketing Internship](https://jobright.ai/jobs/info/6a69063fceb2691dfb206d6b?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | Hybrid | Jul 28 |
-| **[Joliet Public Library](https://www.jolietlibrary.org/index.php/en/)** | **[Communications Internship](https://jobright.ai/jobs/info/6a69058b05bae84301b59f9d?utm_campaign=1065&utm_source=git)** | Joliet, IL, United States | On Site | Jul 28 |
-| **[Legal Chain](https://legalcha.in/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a69057a5d01972698ee5ee7?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4eec2d397d8d353c28ab8d?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 28 |
-| **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a69028005bae84301b59eca?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 28 |
-| **[Curate](https://www.getcurate.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a69013c36d36c1ff29978c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
