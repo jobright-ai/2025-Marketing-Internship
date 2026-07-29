@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 29 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 29 |
+| **[D4C DENTAL BRANDS, INC.](https://d4cdentalbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a69db94c63ba56308f50341?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Jul 29 |
+| **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
+| **[Kaseya Center](https://www.kaseyacenter.com)** | **[Intern, Event Services (Seasonal)](https://jobright.ai/jobs/info/6a69c4e519d76667a2abc2d2?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 29 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 29 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a69bd24c63ba56308f4fbde?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 29 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, Tennessee, United States | Remote | Jul 29 |
@@ -95,7 +98,7 @@ For a complete list, click the following sortable link below:
 | **[Redlist](https://www.getredlist.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6948ce5d01972698ee7552?utm_campaign=1065&utm_source=git)** | Pleasant Grove, UT, United States | On Site | Jul 28 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026 Dallas](https://jobright.ai/jobs/info/6a56b40453b3962b910b20a7?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 28 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b41fefb06a45240d7a4c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb7ceb2691dfb2062c1?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb83b549b0b531d2c0d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Amphenol PCD](http://amphenolpcd.com)** | **[Marketing Communication Intern](https://jobright.ai/jobs/info/6a6942baceb2691dfb2081f4?utm_campaign=1065&utm_source=git)** | Beverly, MA, United States | On Site | Jul 28 |
 | **[Park City Blind & Design](https://www.parkcityblind.com)** | **[Social Media & Creation Content Intern](https://jobright.ai/jobs/info/6a6941753b549b0b531d4a59?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 28 |
 | **[ProGuard Security Services](https://www.proguardsecurityservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a693e323b549b0b531d49f3?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Qode Social](https://www.qodesocial.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a68f0c53b549b0b531d2dc5?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | On Site | Jul 28 |
 | **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/69fabc35d21cf86d1e3cc999?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Jul 28 |
 | **[FW PUBLISHING, LLC](https://www.fwpublishing.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a68e2ab5d01972698ee515d?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
-| **[Let There Be](https://lettherebe.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a68e1a63b549b0b531d28dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Minnesota Wild](http://wild.com)** | **[Intern, Community Relations and Hockey Partnerships (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a68df01ceb2691dfb205e02?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 28 |
-| **[Kids in the Game](http://kidsinthegame.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a68de2b05bae84301b59033?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
