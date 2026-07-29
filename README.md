@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 29 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
+| **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a69bd24c63ba56308f4fbde?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 29 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, Tennessee, United States | Remote | Jul 29 |
 | **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Internship - Market Research & Business Development](https://jobright.ai/jobs/info/6a692e4f5d01972698ee6e2b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 29 |
 | **[Urban Unity INC](https://urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a69acba47d8280e278501d0?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Let There Be](https://lettherebe.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a68e1a63b549b0b531d28dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Minnesota Wild](http://wild.com)** | **[Intern, Community Relations and Hockey Partnerships (Full-Time, Seasonal)](https://jobright.ai/jobs/info/6a68df01ceb2691dfb205e02?utm_campaign=1065&utm_source=git)** | Saint Paul, MN, United States | On Site | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a68de2b05bae84301b59033?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
-| **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a68d946ceb2691dfb2059bc?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Remote | Jul 28 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Fan Development Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a3e4eb370649b27bf86?utm_campaign=1065&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | On Site | Jul 28 |
-| **[Media Research Center](https://www.mrc.org)** | **[Fall 2026 Internship Program](https://jobright.ai/jobs/info/6a69036c36d36c1ff299797f?utm_campaign=1065&utm_source=git)** | Herndon, VA, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
