@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Digital Marketing & Branding](https://jobright.ai/jobs/info/6a57b104e9b77f668bd69f85?utm_campaign=1065&utm_source=git)** | Reston, VA, United States | Hybrid | Jul 29 |
+| **[Next Target](https://www.wearenexttarget.com)** | **[Direct Marketing Intern](https://jobright.ai/jobs/info/6a67cef65d2a117fb9ced616?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Jul 29 |
+| **[Fairfield County Medical Association](https://fcma.org/)** | **[College Intern - Fall 2026](https://jobright.ai/jobs/info/6a6a1c2f19d76667a2abdab9?utm_campaign=1065&utm_source=git)** | Fairfield, CT, United States | On Site | Jul 29 |
+| **[Planet Home](https://planethomelending.com/)** | **[Marketing Intern - Servicing](https://jobright.ai/jobs/info/6a6a1b7019d76667a2abda7e?utm_campaign=1065&utm_source=git)** | Irving, TX, United States | Hybrid | Jul 29 |
+| **[UNDP](http://www.undp.org)** | **[Communications and Partnerships Intern](https://jobright.ai/jobs/info/6a6a1b2e19d76667a2abda6c?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Printwand](https://www.printwand.com)** | **[Internet Marketing Internship – SEO, Social Media…](https://jobright.ai/jobs/info/6a6a19b48693c23e7fb78c00?utm_campaign=1065&utm_source=git)** | Media, PA, United States | On Site | Jul 29 |
 | **[Social Wise Communications](http://www.socialwisepr.com)** | **[Public Relations and Social Media Intern](https://jobright.ai/jobs/info/6a6a181a8693c23e7fb78b80?utm_campaign=1065&utm_source=git)** | Forked River, NJ, United States | Hybrid | Jul 29 |
 | **[Creative Clicks](http://creativeclicks.com)** | **[Operations & Media Buying Intern](https://jobright.ai/jobs/info/6a6a1629c63ba56308f512a3?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Global Product Marketing](https://jobright.ai/jobs/info/6a6914b2ceb2691dfb2073f9?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Jul 28 |
 | ↳ | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/6a68dd1305bae84301b58f47?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 28 |
 | **[Coffman Engineers](http://www.coffman.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a691a42ceb2691dfb207693?utm_campaign=1065&utm_source=git)** | Spokane, WA, United States | Hybrid | Jul 28 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a6919d03b549b0b531d3ef8?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Jul 28 |
-| **[Casa de Montecristo](https://www.casademontecristo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a5a497c856af468ab007b6d?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 28 |
-| **[TWL Powersports and Marine](http://www.teamwinnebagoland.com)** | **[Powersports & Marine Marketing Intern](https://jobright.ai/jobs/info/6a6917623b549b0b531d3dcd?utm_campaign=1065&utm_source=git)** | Oshkosh, WI, United States | On Site | Jul 28 |
-| **[Paul Smith](https://www.paulsmith.co.uk)** | **[Brand Marketing & Events, Intern - NYC](https://jobright.ai/jobs/info/6a69176136d36c1ff29981f4?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
-| **[Front Row](https://www.frontrowgroup.com)** | **[Fall Internship - Influencer + Creator](https://jobright.ai/jobs/info/6a615a4ceaa37f43e7588302?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
