@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a629b4d1e089c0cc884d977?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
+| **[The Tech Interactive](https://www.thetech.org)** | **[Science Communication & Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a5102feae4052672fe960a4?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Jul 28 |
+| **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern – Social Media Marketing/Parks and Recreation](https://jobright.ai/jobs/info/6a699d3847d8280e2784ff45?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 28 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a69907d41c5585a097cc7c4?utm_campaign=1065&utm_source=git)** | Marietta, GA, United States | On Site | Jul 28 |
 | **[LAXIR](https://www.laxir.us/)** | **[Digital marketing - Influencer and Tiktok Agency  - Internship - LOS ANGELES Only](https://jobright.ai/jobs/info/6a69865912e2925ae3f9a63d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | ↳ | **[Internship For Fintech Startup - Digital marketing & Social media](https://jobright.ai/jobs/info/6a69865612e2925ae3f9a631?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Senergy Petroleum](https://www.gosenergy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5e8a79050c423c792effd4?utm_campaign=1065&utm_source=git)** | Gilbert, AZ, United States | On Site | Jul 28 |
 | **[The EVO Group](http://theevogroup.net)** | **[Marketing Intern #GainExperience](https://jobright.ai/jobs/info/6a6985645f8d2a1f3a112712?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 28 |
 | **[Video Lab, Inc.](https://www.videolabinc.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a69854c436a9228dd005acd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
-| **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern – Social Media Marketing/Parks and Recreation](https://jobright.ai/jobs/info/6a698116d945cf23853bff2f?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 28 |
 | **[Markkit](https://markkit.ai/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a697f595f8d2a1f3a11240b?utm_campaign=1065&utm_source=git)** | Los Angeles County, United States | Remote | Jul 28 |
 | **[Sensis](http://sensisagency.com)** | **[Media Intern](https://jobright.ai/jobs/info/6a69327d05bae84301b5b136?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 28 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a69714312e2925ae3f99e94?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | Remote | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Communications (Fall 2026)](https://jobright.ai/jobs/info/6a5a0649c8e3a473cb8a97ef?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | On Site | Jul 28 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Public Relations Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a68d8f805bae84301b58c4e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Marketing & Community Intern](https://jobright.ai/jobs/info/6a68d85105bae84301b58be0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Sporting Kansas City](http://www.sportingkc.com)** | **[Digital Content Intern - Fall 2026](https://jobright.ai/jobs/info/6a4c0a354eb370649b27bf81?utm_campaign=1065&utm_source=git)** | 300 Wyandotte, Kansas City, MO 64105, United States of America | On Site | Jul 28 |
-| **[Green Compass, LLC](https://greencompassglobal.uk)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/6a68cf90ceb2691dfb2054e6?utm_campaign=1065&utm_source=git)** | Wilmington, NC, United States | Hybrid | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
