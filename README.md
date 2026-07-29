@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axis Communications](http://www.axis.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6a4dd76d35e45603c4bb4e93?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 29 |
+| **[Gaia, Inc.](https://www.gaia.com/)** | **[CRO Intern - Internship](https://jobright.ai/jobs/info/6a1812b03c1a380237ac0e07?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | Remote | Jul 29 |
+| **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a69e42bc63ba56308f50457?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 29 |
+| ↳ | **[Public Relations Intern](https://jobright.ai/jobs/info/6a69e37c48355b3f12bee06b?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[D4C DENTAL BRANDS, INC.](https://d4cdentalbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a69db94c63ba56308f50341?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Jul 29 |
 | **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Kaseya Center](https://www.kaseyacenter.com)** | **[Intern, Event Services (Seasonal)](https://jobright.ai/jobs/info/6a69c4e519d76667a2abc2d2?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 29 |
@@ -76,7 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship For Fintech Startup - Digital marketing & Social media](https://jobright.ai/jobs/info/6a69865612e2925ae3f9a631?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Senergy Petroleum](https://www.gosenergy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5e8a79050c423c792effd4?utm_campaign=1065&utm_source=git)** | Gilbert, AZ, United States | On Site | Jul 28 |
 | **[The EVO Group](http://theevogroup.net)** | **[Marketing Intern #GainExperience](https://jobright.ai/jobs/info/6a6985645f8d2a1f3a112712?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Jul 28 |
-| **[Video Lab, Inc.](https://www.videolabinc.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a69854c436a9228dd005acd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
+| **[Videolab](https://www.videolabinc.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a69854c436a9228dd005acd?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[Markkit](https://markkit.ai/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a697f595f8d2a1f3a11240b?utm_campaign=1065&utm_source=git)** | Los Angeles County, United States | Remote | Jul 28 |
 | **[Sensis](http://sensisagency.com)** | **[Media Intern](https://jobright.ai/jobs/info/6a69327d05bae84301b5b136?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 28 |
 | **[SHOPLINE](http://www.shoplineapp.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a69714312e2925ae3f99e94?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | Remote | Jul 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 28 |
 | **[CURA Strategies](https://curastrategies.com)** | **[PR Internship (Healthcare Communications)](https://jobright.ai/jobs/info/6a68fc1636d36c1ff2997736?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 28 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Greenville & Spartanburg (59929)](https://jobright.ai/jobs/info/6a56689453b3962b910b00a7?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 28 |
-| **[Greater Mankato Area United Way](https://www.mankatounitedway.org)** | **[General Campaign Intern](https://jobright.ai/jobs/info/6a68f32e05bae84301b5983d?utm_campaign=1065&utm_source=git)** | Mankato, MN, United States | On Site | Jul 28 |
-| **[Qode Social](https://www.qodesocial.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a68f0c53b549b0b531d2dc5?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | On Site | Jul 28 |
-| **[Hendrickson](http://www.hendrickson-intl.com/Home.aspx)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/69fabc35d21cf86d1e3cc999?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Jul 28 |
-| **[FW PUBLISHING, LLC](https://www.fwpublishing.com)** | **[Marketing and Events Intern](https://jobright.ai/jobs/info/6a68e2ab5d01972698ee515d?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
