@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Simular](https://simular.ai)** | **[GTM Intern, Content & Distribution](https://jobright.ai/jobs/info/6a69fdebc63ba56308f50a64?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 29 |
+| **[Joliet Junior College](http://www.jjc.edu/)** | **[Sports Information Intern](https://jobright.ai/jobs/info/6a69fa9b48355b3f12bee5e8?utm_campaign=1065&utm_source=git)** | Joliet, IL, United States | On Site | Jul 29 |
+| **[LoBello Communications](http://lobellocommunications.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a69fa0848355b3f12bee593?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 29 |
 | **[Axis Communications](http://www.axis.com/)** | **[Event Intern](https://jobright.ai/jobs/info/6a4dd76d35e45603c4bb4e93?utm_campaign=1065&utm_source=git)** | USA - MA - Chelmsford, United States of America | On Site | Jul 29 |
 | **[Gaia, Inc.](https://www.gaia.com/)** | **[CRO Intern - Internship](https://jobright.ai/jobs/info/6a1812b03c1a380237ac0e07?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | Remote | Jul 29 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a69e42bc63ba56308f50457?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 29 |
@@ -64,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[D4C DENTAL BRANDS, INC.](https://d4cdentalbrands.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a69db94c63ba56308f50341?utm_campaign=1065&utm_source=git)** | Franklin, TN, United States | On Site | Jul 29 |
 | **[Latent AI](http://latentai.com/)** | **[SkillBridge Intern (Marketing)](https://jobright.ai/jobs/info/6a5745b821f64463ad358892?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Kaseya Center](https://www.kaseyacenter.com)** | **[Intern, Event Services (Seasonal)](https://jobright.ai/jobs/info/6a69c4e519d76667a2abc2d2?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 29 |
-| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 29 |
-| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 29 |
+| **[Logitech](https://www.logitech.com)** | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a51acbe8d7d3e6cf1cc0eb1?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, United States of America | Remote | Jul 29 |
+| ↳ | **[Social Commerce Intern](https://jobright.ai/jobs/info/6a300fdeeace377055eb4339?utm_campaign=1065&utm_source=git)** | Offsite - USA - NY - Metro, US | Remote | Jul 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Kwik Trip, Inc.](https://www.kwiktrip.com/)** | **[Marketing Intern Job Details / Kwik Trip Inc](https://jobright.ai/jobs/info/6a69bd24c63ba56308f4fbde?utm_campaign=1065&utm_source=git)** | La Crosse, WI, United States | On Site | Jul 29 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Entertainment Marketing Intern](https://jobright.ai/jobs/info/6a5cc2683ac7627fe900b14a?utm_campaign=1065&utm_source=git)** | East Nashville, Tennessee, United States | Remote | Jul 29 |
@@ -102,7 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Redlist](https://www.getredlist.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6948ce5d01972698ee7552?utm_campaign=1065&utm_source=git)** | Pleasant Grove, UT, United States | On Site | Jul 28 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern 2026 Dallas](https://jobright.ai/jobs/info/6a56b40453b3962b910b20a7?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 28 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b41fefb06a45240d7a4c?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
-| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb83b549b0b531d2c0d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Social Media (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a68ebb7ceb2691dfb2062c1?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 28 |
 | **[Amphenol PCD](http://amphenolpcd.com)** | **[Marketing Communication Intern](https://jobright.ai/jobs/info/6a6942baceb2691dfb2081f4?utm_campaign=1065&utm_source=git)** | Beverly, MA, United States | On Site | Jul 28 |
 | **[Park City Blind & Design](https://www.parkcityblind.com)** | **[Social Media & Creation Content Intern](https://jobright.ai/jobs/info/6a6941753b549b0b531d4a59?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Jul 28 |
 | **[ProGuard Security Services](https://www.proguardsecurityservices.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a693e323b549b0b531d49f3?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Aspen](https://www.redaspenlove.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a4eec2d397d8d353c28ab8d?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Jul 28 |
 | **[GBH](http://www.wgbh.org/)** | **[Frontline Marketing and Communications Internship - Fall 2026](https://jobright.ai/jobs/info/6a69028005bae84301b59eca?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 28 |
 | **[Curate](https://www.getcurate.com/)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a69013c36d36c1ff29978c5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Swine Marketing Intern](https://jobright.ai/jobs/info/68c8fa44f9c6ff7aedf15829?utm_campaign=1065&utm_source=git)** | Lincoln, NE | On Site | Jul 28 |
-| **[CURA Strategies](https://curastrategies.com)** | **[PR Internship (Healthcare Communications)](https://jobright.ai/jobs/info/6a68fc1636d36c1ff2997736?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jul 28 |
-| **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Greenville & Spartanburg (59929)](https://jobright.ai/jobs/info/6a56689453b3962b910b00a7?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
