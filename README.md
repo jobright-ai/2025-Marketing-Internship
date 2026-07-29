@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Urban Unity INC](https://urbanunity.us)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a69acba47d8280e278501d0?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Jul 29 |
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Digital Acquisition Marketing Intern](https://jobright.ai/jobs/info/6a629b4d1e089c0cc884d977?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[Science Communication & Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a5102feae4052672fe960a4?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | On Site | Jul 28 |
 | **[City of Fort Wayne](https://www.cityoffortwayne.org/)** | **[Intern – Social Media Marketing/Parks and Recreation](https://jobright.ai/jobs/info/6a699d3847d8280e2784ff45?utm_campaign=1065&utm_source=git)** | Fort Wayne, IN, United States | On Site | Jul 28 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a69907d41c5585a097cc7c4?utm_campaign=1065&utm_source=git)** | Marietta, GA, United States | On Site | Jul 28 |
+| **[Finning](http://finning.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a69562105bae84301b5bbb8?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | Hybrid | Jul 28 |
 | **[LAXIR](https://www.laxir.us/)** | **[Digital marketing - Influencer and Tiktok Agency  - Internship - LOS ANGELES Only](https://jobright.ai/jobs/info/6a69865912e2925ae3f9a63d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | ↳ | **[Internship For Fintech Startup - Digital marketing & Social media](https://jobright.ai/jobs/info/6a69865612e2925ae3f9a631?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 28 |
 | **[Senergy Petroleum](https://www.gosenergy.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5e8a79050c423c792effd4?utm_campaign=1065&utm_source=git)** | Gilbert, AZ, United States | On Site | Jul 28 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56d00e53b3962b910b2bc6?utm_campaign=1065&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 28 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Crowdfunding Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9d1856af468ab005a26?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a695ee35d01972698ee7ba6?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Jul 28 |
-| **[Finning](http://finning.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a69562105bae84301b5bbb8?utm_campaign=1065&utm_source=git)** | Calgary, AB, Canada | Hybrid | Jul 28 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Gameday Promotions Internship](https://jobright.ai/jobs/info/6a6950f6b22f1b56a602be20?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Jul 28 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Digital Engagement](https://jobright.ai/jobs/info/6a694f6136d36c1ff29994c7?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 28 |
 | ↳ | **[Intern, Social Media](https://jobright.ai/jobs/info/6a694f5bb22f1b56a602bdbe?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Media Research Center](https://www.mrc.org)** | **[Fall 2026 Internship Program](https://jobright.ai/jobs/info/6a69036c36d36c1ff299797f?utm_campaign=1065&utm_source=git)** | Herndon, VA, United States | On Site | Jul 28 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Communications (Fall 2026)](https://jobright.ai/jobs/info/6a5a0649c8e3a473cb8a97ef?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | On Site | Jul 28 |
 | **[Brilliant Infotech Inc.](http://brilliantinfotech.com)** | **[Public Relations Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a68d8f805bae84301b58c4e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 28 |
-| **[ShareWell](https://www.sharewellnow.com)** | **[Marketing & Community Intern](https://jobright.ai/jobs/info/6a68d85105bae84301b58be0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
