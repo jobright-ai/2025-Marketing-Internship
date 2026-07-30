@@ -57,23 +57,25 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Marketing Program Management Project Intern (TikTok Shop- Operations) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a52701ae726ec56126a3086?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Jul 29 |
+| **[Visual Property Management](https://www.visualpm.com)** | **[Summer Leasing & Marketing Intern](https://jobright.ai/jobs/info/6a5825ca3330ca6f993c36f4?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 29 |
 | **[City of Seattle](http://www.seattle.gov/)** | **[Communications Intern (Undergraduate or Graduate)](https://jobright.ai/jobs/info/6a6aad47c63ba56308f542bf?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Jul 29 |
 | **[Continental](https://www.continental.com)** | **[Intern - Marketing - Bicycle Tire, Year-Round](https://jobright.ai/jobs/info/6a5fd0b28c7fd835513bb311?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
 | **[Dominican University](https://www.dom.edu)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a45816f4f64ba41dcb4d9e7?utm_campaign=1065&utm_source=git)** | River Forest, IL, United States | Hybrid | Jul 29 |
 | **[Job Hunting U](http://jobhuntingu.com/)** | **[AI Digital Marketing Intern](https://jobright.ai/jobs/info/6a6a9dd40b42f866b619988f?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Jul 29 |
 | **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6a9c9f0b42f866b619980d?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 29 |
 | **[Ethos Investment Management](https://ethosinvest.com)** | **[Retail Marketing and Advertising - RETAIL EVENT STAFF & EVENT PLANNING](https://jobright.ai/jobs/info/6a595f2b4da96a42cfd90eb1?utm_campaign=1065&utm_source=git)** | Gary, IN, United States | On Site | Jul 29 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 29 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Jul 29 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Jul 29 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Jul 29 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5a1f763ac7627fe9002495?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, United States | On Site | Jul 29 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 29 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 29 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Cataula, GA, United States | On Site | Jul 29 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5a1f763ac7627fe9002495?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, United States | On Site | Jul 29 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 29 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Jul 29 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Jul 29 |
+| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Jul 29 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 29 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 29 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a6a9aed16c69119640ff249?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 | **[Champion](https://www.championmgt.com)** | **[Media Relations Intern - Fall](https://jobright.ai/jobs/info/6a6a9acd19d76667a2ac0763?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Jul 29 |
 | **[lil sweet treat](lilsweettreat.com)** | **[Social Media Content Intern (Part Time, Los Angeles)](https://jobright.ai/jobs/info/6a6a9a498693c23e7fb7b7ad?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 29 |
@@ -94,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a5c4e4163a8f619507cd13f?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Jul 29 |
 | **[Town of Apex](https://apexnc.org)** | **[Special Events Marketing Intern](https://jobright.ai/jobs/info/6a6a78c548355b3f12bf1274?utm_campaign=1065&utm_source=git)** | Apex, NC, United States | On Site | Jul 29 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Search Engine Optimization Specialist Non Paid Intern](https://jobright.ai/jobs/info/6a6a76e60b42f866b6198df5?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 29 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 29 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 29 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 29 |
 | **[Electro](electrogum.com)** | **[Social Media & Creator Partnerships Intern](https://jobright.ai/jobs/info/6a6a71e4c63ba56308f53524?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Remote | Jul 29 |
 | **[New York Post](http://nypost.com/)** | **[Social Media Intern (Newsroom)](https://jobright.ai/jobs/info/6938b274aabec14a727da1c9?utm_campaign=1065&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Jul 29 |
 | ↳ | **[Advertising Operations Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a5fc7e28c7fd835513bb0f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
@@ -134,9 +136,9 @@ For a complete list, click the following sortable link below:
 | **[Evans Management Group](https://www.evansmanagementgroup.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a6a4b880b42f866b6197d97?utm_campaign=1065&utm_source=git)** | North Charleston, SC, United States | On Site | Jul 29 |
 | **[Palmetto Sitework Services](https://www.palmettositeworkservices.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a6a4b3a0b42f866b6197d8b?utm_campaign=1065&utm_source=git)** | North Charleston, SC, United States | On Site | Jul 29 |
 | **[University of Oklahoma](http://www.ou.edu)** | **[College of Fine Arts/University Theatre Marketing Intern (Fall)](https://jobright.ai/jobs/info/6a6a4669c63ba56308f52437?utm_campaign=1065&utm_source=git)** | Norman, OK, United States | On Site | Jul 29 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 29 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 29 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 29 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 29 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 29 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 29 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 29 |
 | **[PlainStripes](https://www.plainstripes.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6a428d16c69119640fd519?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing Intern](https://jobright.ai/jobs/info/6a6a2a710b42f866b6197161?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Jul 29 |
 | **[MSU Federal Credit Union](https://www.msufcu.org)** | **[Engagement Inclusion and Belonging Intern](https://jobright.ai/jobs/info/6a6a25c28693c23e7fb78fdd?utm_campaign=1065&utm_source=git)** | Greater Lansing | On Site | Jul 29 |
 | **[Planet Home](https://planethomelending.com/)** | **[Marketing Coordinator – Intern](https://jobright.ai/jobs/info/6a6a1b7019d76667a2abda7e?utm_campaign=1065&utm_source=git)** | Irving, TX, United States | Hybrid | Jul 29 |
-| **[UNDP](http://www.undp.org)** | **[Communications and Partnerships Intern](https://jobright.ai/jobs/info/6a6a22ca48355b3f12bef33e?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Special Olympics New York](https://www.specialolympics-ny.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a6a21de19d76667a2abdc91?utm_campaign=1065&utm_source=git)** | Farmingdale, NY, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
