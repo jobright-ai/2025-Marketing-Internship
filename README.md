@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Community Outreach and Stadium Events Intern](https://jobright.ai/jobs/info/6a5a929363a8f619507c7b6f?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a6b75a5acb0a61f9dbc0e77?utm_campaign=1065&utm_source=git)** | Brownwood, TX, United States | On Site | Jul 30 |
+| **[SoundMarket](http://www.soundmarket.io)** | **[Music Marketing Intern — SoundMarket](https://jobright.ai/jobs/info/6a6b75465c54bc4752ce9070?utm_campaign=1065&utm_source=git)** | Canada | Remote | Jul 30 |
+| **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a6b751dc00ae03109f8401b?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
+| **[The Shipyard](http://theshipyard.com)** | **[Integrated Communications Intern](https://jobright.ai/jobs/info/6a4eb9819469c0662034c81d?utm_campaign=1065&utm_source=git)** | Columbus, Ohio, United States | Hybrid | Jul 30 |
+| **[FloSports](http://www.flosports.tv/)** | **[Fall Internship - Social Media](https://jobright.ai/jobs/info/6a6b72e7ca1f9338465fa66a?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Jul 30 |
+| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6b7261c00ae03109f83f68?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 30 |
+| **[Electro](electrogum.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6b71f0c00ae03109f83f4a?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Jul 30 |
+| **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Public Relations Intern, Fall 2026](https://jobright.ai/jobs/info/6a6b719eacb0a61f9dbc0d51?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 30 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 30 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 30 |
@@ -97,8 +106,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a6b3df4acb0a61f9dbbfbfd?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a6b3de5acb0a61f9dbbfbfa?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 30 |
 | **[Franklin Energy](http://www.franklinenergy.com/)** | **[Corporate Marketing - Marketing and Sales Intern](https://jobright.ai/jobs/info/6a6b2f2d32f9300c3a3dda44?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
-| **[IFF](http://iff.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a529fabe726ec56126a3cd0?utm_campaign=1065&utm_source=git)** | Lakeland, FL, United States | On Site | Jul 30 |
-| ↳ | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a32cd7129c90c607e4d81f2?utm_campaign=1065&utm_source=git)** | Citrus Innovation Ctr FL USA, US | On Site | Jul 30 |
+| **[IFF](http://iff.com)** | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a32cd7129c90c607e4d81f2?utm_campaign=1065&utm_source=git)** | Citrus Innovation Ctr FL USA, US | On Site | Jul 30 |
+| ↳ | **[Intern - Marketing & Digital Experience](https://jobright.ai/jobs/info/6a529fabe726ec56126a3cd0?utm_campaign=1065&utm_source=git)** | Lakeland, FL, United States | On Site | Jul 30 |
 | **[The Communications Group, Inc.](https://www.comgroup.com)** | **[Internship](https://jobright.ai/jobs/info/6a6b2816acb0a61f9dbbf687?utm_campaign=1065&utm_source=git)** | Agency, MO, United States | On Site | Jul 30 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO Specialist/On-line Marketing Specialist Internship](https://jobright.ai/jobs/info/6a55ca67fdf4fa71202b520b?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 30 |
 | **[ACORE](https://www.acore.org)** | **[ACORE Marketing Intern](https://jobright.ai/jobs/info/6a6b270032f9300c3a3dd647?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Jul 30 |
@@ -131,7 +140,7 @@ For a complete list, click the following sortable link below:
 | **[JE Dunn Construction](http://www.jedunn.com)** | **[Campus Intern- Marketing Job Details / J.E. Dunn Construction Group Inc P](https://jobright.ai/jobs/info/6a6b0eba2674685f04ac214e?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Jul 30 |
 | **[Boulder Weekly](https://boulderweekly.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a59b1904da96a42cfd92409?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | On Site | Jul 30 |
 | **[Beltran Cleaning Service](https://www.beltrancleaningservice.com)** | **[Social Media (Unpaid Internship)](https://jobright.ai/jobs/info/6a587da972fe7a7b98dcecb8?utm_campaign=1065&utm_source=git)** | Rolling Meadows, IL, United States | On Site | Jul 30 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Media Intern, Game Shows, Fall 2026](https://jobright.ai/jobs/info/6a6a10008693c23e7fb787c6?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Media Intern, Game Shows, Fall 2026](https://jobright.ai/jobs/info/6a6a0fee0b42f866b61967b5?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Jul 30 |
 | **[PURPLE](https://purplepr.com)** | **[Events Intern - Fall](https://jobright.ai/jobs/info/6a4e828a397d8d353c289445?utm_campaign=1065&utm_source=git)** | New York, United States | On Site | Jul 30 |
 | **[Columbia College](http://www.ccis.edu/)** | **[Student Position: Acola Coffee Company Social Media Intern](https://jobright.ai/jobs/info/6a55d060ef22935f2e3f799e?utm_campaign=1065&utm_source=git)** | Columbia, MO, United States | On Site | Jul 29 |
 | **[Mount Hermon Camp and Conference Center](https://www.mounthermon.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a500825397d8d353c28da36?utm_campaign=1065&utm_source=git)** | Mount Hermon, California, United States | On Site | Jul 29 |
@@ -146,15 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6a9c9f0b42f866b619980d?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 29 |
 | **[Ethos Investment Management](https://ethosinvest.com)** | **[Retail Marketing and Advertising - RETAIL EVENT STAFF & EVENT PLANNING](https://jobright.ai/jobs/info/6a595f2b4da96a42cfd90eb1?utm_campaign=1065&utm_source=git)** | Gary, IN, United States | On Site | Jul 29 |
 | **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a551262377f983ce8a97987?utm_campaign=1065&utm_source=git)** | San Lorenzo, CA, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5a1f763ac7627fe9002495?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Cataula, GA, United States | On Site | Jul 29 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Jul 29 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Jul 29 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Jul 29 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a56d32f53b3962b910b2c90?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Jul 29 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Jul 29 |
-| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Field Marketing Intern](https://jobright.ai/jobs/info/6a6a9aed16c69119640ff249?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
