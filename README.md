@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Communications](https://jobright.ai/jobs/info/6a6c411c57120971bf3aad7c?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
+| **[Hills Bank and Trust Company](http://hillsbank.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6c4068acb0a61f9dbc4ba6?utm_campaign=1065&utm_source=git)** | Hills, IA, United States | On Site | Jul 30 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8ebacb0a61f9dbc36ff?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 30 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a598ee6856af468ab0045cf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[Nello June](https://www.nellojune.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6c1d1a57120971bf3aa6a4?utm_campaign=1065&utm_source=git)** | Carlsbad, CA, United States | Remote | Jul 30 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[KATRINA WAN PR](https://katrinawanpr.com)** | **[Fall Film Publicity Intern](https://jobright.ai/jobs/info/6a6c0d39acb0a61f9dbc414f?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Jul 30 |
 | **[Connected Health Plano](https://connectedhealthcenter.com/locations/plano-tx/)** | **[Internship Opportunity — Attorney Liaison & Marketing Intern](https://jobright.ai/jobs/info/6a6c07fa57120971bf3aa0e2?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Jul 30 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a6c07f457120971bf3aa0e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Valency Systems Inc.](https://valency.io)** | **[Social Media & Video Content Intern](https://jobright.ai/jobs/info/6a43240ac662c35651adb8e5?utm_campaign=1065&utm_source=git)** | Berkeley, CA | On Site | Jul 30 |
 | **[VEGDOG](https://www.vegdog.de/)** | **[Mandatory internship - Social Media Management - Native Italian speaker](https://jobright.ai/jobs/info/6a6c055eacb0a61f9dbc3f49?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Viggle](https://viggle.ai/home)** | **[Growth & Community Intern](https://jobright.ai/jobs/info/6a6ba61bacb0a61f9dbc2132?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Social Media/Community Management Intern (Reddit)](https://jobright.ai/jobs/info/6a629b4b846162391c936f07?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
@@ -124,11 +127,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a37c2f9649fdf16292fda08?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 30 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 30 |
 | **[The Familie](https://thefamilie.com)** | **[Music Business Intern](https://jobright.ai/jobs/info/6a6b9755acb0a61f9dbc1baa?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
 | **[Micro](https://trymicro.io/)** | **[Growth Intern (Unpaid)](https://jobright.ai/jobs/info/6a6b94af5c54bc4752ce9d11?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Nikki Beach Hospitality Group](https://nikkibeach.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6b947257120971bf3a7af9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 30 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a31b18035e80310003a8b72?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Jul 30 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lora](www.getlora.com)** | **[Content & GTM Intern](https://jobright.ai/jobs/info/6a6b787557120971bf3a6fc7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Merit Brass Company](http://www.meritbrass.com/)** | **[Marketing Intern - Fall 2026 Semester /](https://jobright.ai/jobs/info/6a6b77fc32f9300c3a3df01a?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 30 |
 | **[Mar y Sol Mental Health Experts](www.marysolmhe.com)** | **[Paid-Healthcare Community Outreach Intern](https://jobright.ai/jobs/info/6a6b77eeacb0a61f9dbc0f95?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Jul 30 |
-| **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6a6b778d32f9300c3a3defea?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
-| **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Community Outreach and Stadium Events Intern](https://jobright.ai/jobs/info/6a5a929363a8f619507c7b6f?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a6b75a5acb0a61f9dbc0e77?utm_campaign=1065&utm_source=git)** | Brownwood, TX, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
