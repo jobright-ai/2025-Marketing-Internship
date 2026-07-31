@@ -138,11 +138,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a37c2f9649fdf16292fda08?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 30 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 30 |
 | **[The Familie](https://thefamilie.com)** | **[Music Business Intern](https://jobright.ai/jobs/info/6a6b9755acb0a61f9dbc1baa?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
 | **[Micro](https://trymicro.io/)** | **[Growth Intern (Unpaid)](https://jobright.ai/jobs/info/6a6b94af5c54bc4752ce9d11?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Nikki Beach Hospitality Group](https://nikkibeach.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6b947257120971bf3a7af9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 30 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a31b18035e80310003a8b72?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Jul 30 |
