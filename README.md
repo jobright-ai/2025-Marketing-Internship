@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a598ee6856af468ab0045cf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
+| **[Nello June](https://www.nellojune.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6c1d1a57120971bf3aa6a4?utm_campaign=1065&utm_source=git)** | Carlsbad, CA, United States | Remote | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, MBA Marketing](https://jobright.ai/jobs/info/6a6c14f7ca1f9338465fdd46?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Intern {UGC}](https://jobright.ai/jobs/info/6a6c1495c00ae03109f8762f?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[The Social Fleur](https://thesocialfleur.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6c100fca1f9338465fdbc1?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 30 |
@@ -106,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Internship - Digital Marketing](https://jobright.ai/jobs/info/6a6bafcb5c54bc4752cea659?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a591eb23ac7627fe9ffd643?utm_campaign=1065&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 30 |
 | **[Northwestern Mutual](https://realestate.northwesternmutual.com/)** | **[Public Relations Intern, Fall 2026](https://jobright.ai/jobs/info/6a6b719eacb0a61f9dbc0d51?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 30 |
-| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Communication Management Intern](https://jobright.ai/jobs/info/6a6ba8445c54bc4752cea3fc?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Jul 30 |
 | **[LightGuide](http://lightguidesys.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6b7c915c54bc4752ce935b?utm_campaign=1065&utm_source=git)** | Wixom, MI, United States | Hybrid | Jul 30 |
 | **[Liberty Federal Credit Union](https://libertyfcu.org)** | **[Financial Advising Marketing Intern](https://jobright.ai/jobs/info/6a6ba5cc57120971bf3a8159?utm_campaign=1065&utm_source=git)** | Evansville, IN, United States | On Site | Jul 30 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 AS Home Merchandising and Marketing Internship](https://jobright.ai/jobs/info/6a461d3d971cd25b06f8b6c3?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States of America | On Site | Jul 30 |
@@ -124,13 +125,14 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Merchandising Strategy Manager Intern (TikTok Shop Affiliate Operations) - 2026 Summer (MBA)](https://jobright.ai/jobs/info/6a37c2f9649fdf16292fda08?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Jul 30 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 30 |
 | **[The Familie](https://thefamilie.com)** | **[Music Business Intern](https://jobright.ai/jobs/info/6a6b9755acb0a61f9dbc1baa?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
 | **[Micro](https://trymicro.io/)** | **[Growth Intern (Unpaid)](https://jobright.ai/jobs/info/6a6b94af5c54bc4752ce9d11?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Nikki Beach Hospitality Group](https://nikkibeach.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6b947257120971bf3a7af9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 30 |
+| **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a31b18035e80310003a8b72?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Jul 30 |
 | **[Arab Gulf States Institute](https://agsiw.org)** | **[Programs and Digital Content Intern](https://jobright.ai/jobs/info/6a6b91a4acb0a61f9dbc196b?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a6b909357120971bf3a7962?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a56e19310c4d945d864c664?utm_campaign=1065&utm_source=git)** | Vero Beach, FL, United States | On Site | Jul 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mar y Sol Mental Health Experts](www.marysolmhe.com)** | **[Paid-Healthcare Community Outreach Intern](https://jobright.ai/jobs/info/6a6b77eeacb0a61f9dbc0f95?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Jul 30 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6a6b778d32f9300c3a3defea?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Community Outreach and Stadium Events Intern](https://jobright.ai/jobs/info/6a5a929363a8f619507c7b6f?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
-| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a6b75a5acb0a61f9dbc0e77?utm_campaign=1065&utm_source=git)** | Brownwood, TX, United States | On Site | Jul 30 |
-| **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a6b751dc00ae03109f8401b?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
