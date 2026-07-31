@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Bull](https://redbull.com)** | **[2026 Internship, Fall - Communications and Community](https://jobright.ai/jobs/info/6a6cdc855c54bc4752cefc62?utm_campaign=1065&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 31 |
 | **[BR Public Relations](http://www.brpublicrelations.com/)** | **[Public Relations Intern for Fall Semester](https://jobright.ai/jobs/info/6a6cd9715c54bc4752cefb65?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Last Night's Game](http://www.lastnightsgame.com)** | **[Marketing + PR Internship (Public Relations, Communications, Marketing Students)](https://jobright.ai/jobs/info/6a6cd821ca1f9338466010a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ARK MGT](www.ark-mgt.com)** | **[PAID Sales & Marketing Internship / Brand Ambassador Program](https://jobright.ai/jobs/info/6a6a2dca16c69119640fcd88?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Jul 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Social Media](https://jobright.ai/jobs/info/6a6b8b99ca1f9338465fb0b2?utm_campaign=1065&utm_source=git)** | San Marcos, TX, United States | On Site | Jul 30 |
 | **[Jungle Communications, Inc.](https://www.junglecommunications.com/)** | **[Marketing & Events Coordinator (Fall 2026 Internship)](https://jobright.ai/jobs/info/6a5a5c8a686b4755d1e14ca3?utm_campaign=1065&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 30 |
-| **[ClearPath](https://clearpath.org)** | **[External Affairs Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6bd175ca1f9338465fc8b2?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
