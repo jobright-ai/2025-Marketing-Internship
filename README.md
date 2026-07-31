@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8ebacb0a61f9dbc36ff?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 30 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Communications, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/6a598ee6856af468ab0045cf?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[Nello June](https://www.nellojune.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6c1d1a57120971bf3aa6a4?utm_campaign=1065&utm_source=git)** | Carlsbad, CA, United States | Remote | Jul 30 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, MBA Marketing](https://jobright.ai/jobs/info/6a6c14f7ca1f9338465fdd46?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Jul 30 |
@@ -66,8 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Connected Health Plano](https://connectedhealthcenter.com/locations/plano-tx/)** | **[Internship Opportunity — Attorney Liaison & Marketing Intern](https://jobright.ai/jobs/info/6a6c07fa57120971bf3aa0e2?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | Hybrid | Jul 30 |
 | **[Vocalbeats](https://www.vocalbeats.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a6c07f457120971bf3aa0e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[VEGDOG](https://www.vegdog.de/)** | **[Mandatory internship - Social Media Management - Native Italian speaker](https://jobright.ai/jobs/info/6a6c055eacb0a61f9dbc3f49?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
-| **[Viggle](https://viggle.ai/home)** | **[Growth & Community Intern](https://jobright.ai/jobs/info/6a0e32ce80bf0430c762a86f?utm_campaign=1065&utm_source=git)** | Toronto | On Site | Jul 30 |
-| ↳ | **[Growth & Community Intern](https://jobright.ai/jobs/info/6a6ba61bacb0a61f9dbc2132?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
+| **[Viggle](https://viggle.ai/home)** | **[Growth & Community Intern](https://jobright.ai/jobs/info/6a6ba61bacb0a61f9dbc2132?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 30 |
 | **[Golden Pet Brands](https://goldenpetbrands.com)** | **[Social Media/Community Management Intern (Reddit)](https://jobright.ai/jobs/info/6a629b4b846162391c936f07?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[The Baddish Group](http://www.thebaddishgroup.com/)** | **[Summer Public Relations Intern](https://jobright.ai/jobs/info/6a58eef463a8f619507bf459?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[The Anthem Group](https://www.theanthemgroup.com/)** | **[Event & Marketing Intern](https://jobright.ai/jobs/info/6a6bf41057120971bf3a9ad4?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Jul 30 |
@@ -75,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8f8ca1f9338465fd063?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 30 |
 | **[Los Angeles Rams](https://www.therams.com/)** | **[Intern, Marketing Analytics & Consumer Insights](https://jobright.ai/jobs/info/6a6bf130c00ae03109f86b4c?utm_campaign=1065&utm_source=git)** | Woodland Hills, CA, United States | On Site | Jul 30 |
 | **[1Milk2Sugars Inc.](https://1milk2sugars.com/)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a6befd557120971bf3a99c5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 30 |
-| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Street Marketing Internship](https://jobright.ai/jobs/info/6a6be8ebacb0a61f9dbc36ff?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | On Site | Jul 30 |
 | **[Breakthrough](http://www.breakthroughfuel.com/)** | **[Marketing Intern – Breakthrough](https://jobright.ai/jobs/info/6a6be5e632f9300c3a3e1725?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Jul 30 |
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Viral Marketing Intern](https://jobright.ai/jobs/info/6a6bdf5d32f9300c3a3e151b?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Jul 30 |
 | **[Neighbor](https://www.neighbor.com)** | **[Marketing Operations Intern (Part time)](https://jobright.ai/jobs/info/6a6bda9bc00ae03109f8651a?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Jul 30 |
@@ -126,10 +125,10 @@ For a complete list, click the following sortable link below:
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing Intern (Fall Opportunities)](https://jobright.ai/jobs/info/6a4cf19dc643fd23fed3b21b?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Jul 30 |
 | **[The Familie](https://thefamilie.com)** | **[Music Business Intern](https://jobright.ai/jobs/info/6a6b9755acb0a61f9dbc1baa?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Jul 30 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a511bfd02522b5b722e7873?utm_campaign=1065&utm_source=git)** | Garden City, NY, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Jul 30 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a559b8f7ab5da6d2628f3c3?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 30 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Jul 30 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Jul 30 |
 | **[Micro](https://trymicro.io/)** | **[Growth Intern (Unpaid)](https://jobright.ai/jobs/info/6a6b94af5c54bc4752ce9d11?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Nikki Beach Hospitality Group](https://nikkibeach.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6b947257120971bf3a7af9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Jul 30 |
 | **[Major League Baseball (MLB)](https://www.mlb.com)** | **[Intern, Athletic Operations (Fall, 2026)](https://jobright.ai/jobs/info/6a31b18035e80310003a8b72?utm_campaign=1065&utm_source=git)** | Vero Beach, FL | On Site | Jul 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mar y Sol Mental Health Experts](www.marysolmhe.com)** | **[Paid-Healthcare Community Outreach Intern](https://jobright.ai/jobs/info/6a6b77eeacb0a61f9dbc0f95?utm_campaign=1065&utm_source=git)** | Danbury, CT, United States | On Site | Jul 30 |
 | **[Partnership for Public Service](https://ourpublicservice.org/)** | **[Fall 2026 Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6a6b778d32f9300c3a3defea?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 30 |
 | **[Attain Sports](https://attainsports.com)** | **[Frederick Keys Community Outreach and Stadium Events Intern](https://jobright.ai/jobs/info/6a5a929363a8f619507c7b6f?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Jul 30 |
+| **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a6b75a5acb0a61f9dbc0e77?utm_campaign=1065&utm_source=git)** | Brownwood, TX, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
