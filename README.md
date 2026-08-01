@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ae5134da96a42cfd9810a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 31 |
+| **[CW](http://www.cwcapital.com)** | **[B2B Event Marketing Intern](https://jobright.ai/jobs/info/6a6d3d975c54bc4752cf1c77?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[耐克森中国](http://www.nexans.com)** | **[Marketing Innovation Intern - 12 months](https://jobright.ai/jobs/info/6a6d343032f9300c3a3e7966?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | On Site | Jul 31 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[FALL 2026 PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d26d3ba7efe79c2f68d01?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[ABB](https://global.abb/group/en)** | **[Marketing & Sales Summer Internship - 2027](https://jobright.ai/jobs/info/6a6d24c5ba7efe79c2f68b82?utm_campaign=1065&utm_source=git)** | WV, United States | On Site | Jul 31 |
@@ -137,12 +139,12 @@ For a complete list, click the following sortable link below:
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6cbb7932f9300c3a3e4d0e?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | **[Bloomsbury USA](http://www.bloomsbury.com/us)** | **[Marketing & Publicity Intern - Special Interest](https://jobright.ai/jobs/info/6a6cba7532f9300c3a3e4c50?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
 | **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 31 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
-| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
+| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
 | **[Electro](electrogum.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6cb108ca1f933846600024?utm_campaign=1065&utm_source=git)** | Newark, NJ, United States | Remote | Jul 31 |
 | ↳ | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a6cb107ba7efe79c2f65f34?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jul 31 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 31 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 31 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 31 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 31 |
 | **[Electro](electrogum.com)** | **[Sports Marketing & NIL Intern](https://jobright.ai/jobs/info/6a6cad6557120971bf3ac6ac?utm_campaign=1065&utm_source=git)** | Ohio, United States | Remote | Jul 31 |
 | **[ADKF  |   with you all the way](https://www.adkf.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6cad3932f9300c3a3e46fb?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OCI Energy](https://www.ocienergy.com)** | **[Market Intelligence Intern](https://jobright.ai/jobs/info/6a42a1311cc9cc2b12fec3a9?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 31 |
 | **[EMI Industries](http://www.emiindustries.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a6c9fc35c54bc4752cee4fd?utm_campaign=1065&utm_source=git)** | Blue Ash, OH, United States | On Site | Jul 31 |
 | **[Veryfi](https://www.veryfi.com/)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a67dbbbd0fb4c3df393f079?utm_campaign=1065&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
-| **[KYOCERA Document Solutions America, Inc.](https://www.kyoceradocumentsolutions.us)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a32a72829c90c607e4d74fd?utm_campaign=1065&utm_source=git)** | Fairfield, NJ, United States | On Site | Jul 31 |
-| **[Creative Clicks](http://creativeclicks.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6c9cf232f9300c3a3e4245?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
