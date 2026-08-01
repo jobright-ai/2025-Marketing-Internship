@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SUPERBLOOM Digital Consulting](https://www.superbloomdigitalconsulting.com)** | **[Digital Marketing Events Intern (PAID)](https://jobright.ai/jobs/info/6a6cbd0fba7efe79c2f6643e?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 31 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6cbb7932f9300c3a3e4d0e?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 31 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
-| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
+| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
