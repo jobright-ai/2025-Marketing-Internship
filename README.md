@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Saratech](https://saratech.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a6e58a3f5953013637f4a78?utm_campaign=1065&utm_source=git)** | Mission Viejo, CA, United States | On Site | Aug 01 |
+| **[FMN Creative](http://www.FMNCreative.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5a905b4da96a42cfd969c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a6b9aa057120971bf3a7d17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[New Life Village](https://newlifevillage.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6e4271ad0fe2053db9da02?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Aug 01 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Marketing & Events Intern](https://jobright.ai/jobs/info/6a56d89ce9b77f668bd660b7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 01 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, United States of America | Remote | Aug 01 |
@@ -102,8 +105,7 @@ For a complete list, click the following sortable link below:
 | **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ef869270e3033b04604b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d1d8c57120971bf3af18c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[C • L • E Cotton Candy](http://www.clecottoncandy.com)** | **[Event Planning, Social Media and Public Relations Intern](https://jobright.ai/jobs/info/6a6da2aa57120971bf3b0edc?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Jul 31 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfe8fba7efe79c2f67cf9?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
-| **[Girl Dinner Social](www.instagram.com/girldinnersocial/)** | **[Marketing Intern-- NYC (Remote)](https://jobright.ai/jobs/info/6a6d43a4ca1f933846603344?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 31 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfbf95c54bc4752cf0775?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
 | **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ae5134da96a42cfd9810a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 31 |
 | **[耐克森中国](http://www.nexans.com)** | **[Marketing Innovation Intern - 12 months](https://jobright.ai/jobs/info/6a6d343032f9300c3a3e7966?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a39b75c6484fb75f2b335c1?utm_campaign=1065&utm_source=git)** | Montana, United States | Remote | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Last Night's Game](http://www.lastnightsgame.com)** | **[Marketing + PR Internship (Public Relations, Communications, Marketing Students)](https://jobright.ai/jobs/info/6a6cd821ca1f9338466010a0?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
 | **[Christina Greene LLC](https://www.christina-greene.com)** | **[Sales And Marketing Intern](https://jobright.ai/jobs/info/6a6cd79232f9300c3a3e5922?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Jul 31 |
 | **[OSG USA, INC.](https://www.osgtool.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6cd37aacb0a61f9dbc7544?utm_campaign=1065&utm_source=git)** | Saint Charles, IL, United States | On Site | Jul 31 |
-| **[Last Night's Game](http://www.lastnightsgame.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6cd27d57120971bf3ad55b?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
-| **[DoctorHere](https://www.doctorhere.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6ccd9bacb0a61f9dbc71f2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
