@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Baldwin School](https://www.baldwinschool.org)** | **[Marketing Intern Fall](https://jobright.ai/jobs/info/6a6daf9ff5953013637f37e3?utm_campaign=1065&utm_source=git)** | Bryn Mawr, PA, United States | On Site | Aug 01 |
+| **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6dade7160eda5948e89952?utm_campaign=1065&utm_source=git)** | Ballston Spa, NY, United States | On Site | Aug 01 |
 | **[ADKF  |   with you all the way](https://www.adkf.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6d94f15c54bc4752cf2aa1?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 31 |
-| **[Ballston Spa National Bank](https://www.bsnb.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6d91cd57120971bf3b0789?utm_campaign=1065&utm_source=git)** | Ballston Spa, NY, United States | On Site | Jul 31 |
 | **[Night](https://night.co/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5aff65856af468ab00b3de?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[Ward Home, Inc.](http://www.wardhome.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a53c37de726ec56126a7e51?utm_campaign=1065&utm_source=git)** | Scott Township, PA, United States | On Site | Jul 31 |
 | **[Venture Starters](https://venturestarters.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a6d7d03ca1f933846603c15?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -116,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Remote Marketing Intern (Mandarin Required)](https://jobright.ai/jobs/info/6a6cf1dd32f9300c3a3e62c0?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Jul 31 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cd19232f9300c3a3e5557?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 31 |
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Remote Marketing Intern](https://jobright.ai/jobs/info/6a6cecb132f9300c3a3e6052?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
-| **[The Baldwin School](https://www.baldwinschool.org)** | **[Marketing Intern Fall](https://jobright.ai/jobs/info/6a6ceae1acb0a61f9dbc7dfd?utm_campaign=1065&utm_source=git)** | Bryn Mawr, PA, United States | On Site | Jul 31 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6ce6995c54bc4752ceffda?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 31 |
 | **[The Lede Company](https://ledecompany.com)** | **[Brand PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6ce630ca1f93384660154c?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 31 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard University Campus Social Media Manager (Internship)](https://jobright.ai/jobs/info/6a6ce61032f9300c3a3e5dd3?utm_campaign=1065&utm_source=git)** | United States | Remote | Jul 31 |
@@ -151,10 +151,10 @@ For a complete list, click the following sortable link below:
 | **[SUPERBLOOM Digital Consulting](https://www.superbloomdigitalconsulting.com)** | **[Digital Marketing Events Intern (PAID)](https://jobright.ai/jobs/info/6a6cbd0fba7efe79c2f6643e?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Hybrid | Jul 31 |
 | **[Garment Valet](https://www.garmentvalet.com)** | **[Business Development & Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6cbb7932f9300c3a3e4d0e?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Jul 31 |
 | **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Jul 31 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
-| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a21da94338c0123051210bf?utm_campaign=1065&utm_source=git)** | Knoxville, TN, US | On Site | Jul 31 |
+| ↳ | **[Fall 2026 Vow'd Marketing Intern](https://jobright.ai/jobs/info/6a57e6f372fe7a7b98dcb92b?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 31 |
 | **[Electro](electrogum.com)** | **[Creator Partnerships Intern](https://jobright.ai/jobs/info/6a6cb107ba7efe79c2f65f34?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Jul 31 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 31 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 31 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Jul 31 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 31 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
