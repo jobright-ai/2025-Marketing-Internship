@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Performance Footfall](https://performancefootfall.com/en/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6e2c9df5953013637f45da?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Cruze](https://cruzemaps.com/)** | **[[UNPAID] Social Media / UGC Intern](https://jobright.ai/jobs/info/6a6e2c0f41b41d325296b0a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
+| **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6e2b70cd3bac13d3706c53?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
+| **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Agent](https://jobright.ai/jobs/info/6a59111d856af468ab001a3b?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL, United States | On Site | Aug 01 |
+| **[Fair Grounds Race Course & Slots](http://www.fgno.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a51d93e78e364789ca5dbf8?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 01 |
 | **[Ellie Mental Health](https://www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/6a554b0a2084cd792b4777fe?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 01 |
 | **[Catholic Charities](https://catholiccharitiesflint.org)** | **[Internship Outreach Communications](https://jobright.ai/jobs/info/6a6e21d7ad0fe2053db9d61a?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 01 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Internship- Communications](https://jobright.ai/jobs/info/6a6c411c57120971bf3aad7c?utm_campaign=1065&utm_source=git)** | Frederick, MD, United States | On Site | Aug 01 |
@@ -76,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
 | **[CW](http://www.cwcapital.com)** | **[B2B Event Marketing Intern](https://jobright.ai/jobs/info/6a6dca25f5953013637f3a5c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 01 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Aug 01 |
 | **[The Baldwin School](https://www.baldwinschool.org)** | **[Marketing Intern Fall](https://jobright.ai/jobs/info/6a6daf9ff5953013637f37e3?utm_campaign=1065&utm_source=git)** | Bryn Mawr, PA, United States | On Site | Aug 01 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[American Enterprise Institute](http://www.aei.org)** | **[Fall Intern: Development](https://jobright.ai/jobs/info/6a58c79d3ac7627fe9ffb407?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Jul 31 |
 | **[Hathaway Robotics](http://www.hathaway.ai)** | **[Sales & Marketing Intern - Fall 2026 (On-Site / In Person Required)](https://jobright.ai/jobs/info/6a6ccc5e57120971bf3ad27c?utm_campaign=1065&utm_source=git)** | Fall River, MA, United States | On Site | Jul 31 |
 | **[PHLY](https://allphly.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a6ccb7f32f9300c3a3e5286?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 31 |
-| **[TABACALERA USA Inc.](https://www.tabacalerausa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4fe21cfc327f422fef6dcf?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Jul 31 |
-| **[PMI Entertainment Group](https://pmientertainmentgroup.com/)** | **[Gamblers Marketing & Promotion Intern](https://jobright.ai/jobs/info/6a6cca91acb0a61f9dbc70c7?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Jul 31 |
-| **[Cosmo International Fragrances](https://cosmo-fragrances.com/)** | **[Marketing & Sales Intern - NY](https://jobright.ai/jobs/info/6a6cca10acb0a61f9dbc7079?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| **[Spherix Global Insights](http://www.spherixglobalinsights.com/)** | **[Market Research Insights Internship](https://jobright.ai/jobs/info/6a5a3768856af468ab007452?utm_campaign=1065&utm_source=git)** | Exton, PA, United States | On Site | Jul 31 |
-| ↳ | **[Marketing Internship](https://jobright.ai/jobs/info/6a5a3778686b4755d1e13d8d?utm_campaign=1065&utm_source=git)** | Exton, PA, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
