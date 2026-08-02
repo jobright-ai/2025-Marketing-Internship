@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gemini](https://gemini.com)** | **[Prediction Markets Operations Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5f7d38b0f20036bc631230?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
 | **[STRUT Learning](https://www.learn2strut.com/)** | **[Marketing and Brand Manager](https://jobright.ai/jobs/info/6a538eb09fbdab22fe13fd11?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Remote | Aug 01 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[Marketing and Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a5935dd63a8f619507c0e7f?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator & Partner Marketing Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5c373f856af468ab00e884?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Think Academy U.S](https://www.thethinkacademy.com)** | **[Remote Marketing Intern (Mandarin Required)](https://jobright.ai/jobs/info/6a6cf1dd32f9300c3a3e62c0?utm_campaign=1065&utm_source=git)** | San Jose, CA, United States | Remote | Jul 31 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Customer Advocacy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6cd19232f9300c3a3e5557?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Jul 31 |
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a6ce6995c54bc4752ceffda?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 31 |
-| **[The Lede Company](https://ledecompany.com)** | **[Brand PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6ce630ca1f93384660154c?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
