@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[dataing](https://www.dataing.io/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a6fb8a4c56c0956e8adcf1a?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Aug 02 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Public Relations Internship - Podcast and Record Company](https://jobright.ai/jobs/info/6a6f9251f5953013637f64d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Children's Rehabilitation Institute TeletonUSA](https://www.critusa.org)** | **[UNPAID Marketing and Communications INTERN](https://jobright.ai/jobs/info/6a6f90fe160eda5948e8c695?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 02 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for International Manufacturing Firm - IMMEDIATE OPENING](https://jobright.ai/jobs/info/6a58ed5f686b4755d1e0d46f?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 02 |
-| **[dataing](https://www.dataing.io/)** | **[Marketing Intern ❤️❤️❤️](https://jobright.ai/jobs/info/6a6f6fc4ad0fe2053db9f3ba?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Aug 02 |
 | **[City of Fishers](https://www.fishers.in.us/)** | **[Intern - Communication & Community Engagement (Fall)](https://jobright.ai/jobs/info/6a5466658ef95364ead956df?utm_campaign=1065&utm_source=git)** | Fishers, IN, United States | Hybrid | Aug 02 |
 | **[Starbeam](www.starbeam.org)** | **[Marketing and Sales Intern](https://jobright.ai/jobs/info/6a6f4e32f5953013637f5f4c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Fairmont Hotels & Resorts](http://www.fairmont.com/)** | **[Stagiaire marketing de la restauration – 6 mois à partir de janvier 2027 (H/F/D)](https://jobright.ai/jobs/info/6a3653e4649fdf16292fb2fd?utm_campaign=1065&utm_source=git)** | La Malbaie, Quebec, Canada | On Site | Aug 02 |
@@ -69,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a37a34d29c90c607e4e6a1d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | ↳ | **[Email Marketing Manager Intern/Volunteer](https://jobright.ai/jobs/info/6a51b87d78e364789ca5b8e5?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 02 |
 | **[Mind You](https://www.mindyou.com.ph)** | **[Marketing Intern (Remote)](https://jobright.ai/jobs/info/6a5c90e84da96a42cfd9cd24?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
-| **[Ori-Lane](www.ori-lane.com)** | **[Community and Growth Intern](https://jobright.ai/jobs/info/6a6f018c41b41d325296c4c3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 02 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[SEO Intern](https://jobright.ai/jobs/info/6a509ee22e2ceb72963b3c85?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 02 |
 | **[PURPLE](https://purplepr.com)** | **[Lifestyle Intern - Fall](https://jobright.ai/jobs/info/6a6eeb14f5953013637f5891?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Aug 02 |
 | **[TenBerke](https://www.tenberke.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63cd0e8d53603449604609?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | On Site | Aug 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Communications and Community](https://jobright.ai/jobs/info/6a6cff60ba7efe79c2f67d47?utm_campaign=1065&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 31 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[CC Intern](https://jobright.ai/jobs/info/6a6cc88eca1f93384660084d?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 31 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcaster](https://jobright.ai/jobs/info/6a6cfe2fba7efe79c2f67cda?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 31 |
+| **[Chimes](https://chimes.org/)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfdbeba7efe79c2f67cbb?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
