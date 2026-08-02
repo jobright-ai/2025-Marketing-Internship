@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PURPLE](https://purplepr.com)** | **[Lifestyle Intern - Fall](https://jobright.ai/jobs/info/6a6eeb14f5953013637f5891?utm_campaign=1065&utm_source=git)** | Miami, Florida, United States | On Site | Aug 02 |
 | **[TenBerke](https://www.tenberke.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a63cd0e8d53603449604609?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | On Site | Aug 01 |
 | **[Wayco (YC W26)](https://wayco.ai)** | **[Growth Intern (Spanish required)](https://jobright.ai/jobs/info/6a6edf96c56c0956e8adbf51?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[Holcomb Behavioral Health Systems - A Chimes Company](http://www.holcombbhs.org)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfd9d5c54bc4752cf07d8?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 01 |
@@ -85,7 +86,6 @@ For a complete list, click the following sortable link below:
 | **[New Life Village](https://newlifevillage.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6e4271ad0fe2053db9da02?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Aug 01 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Marketing & Events Intern](https://jobright.ai/jobs/info/6a56d89ce9b77f668bd660b7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 01 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, United States of America | Remote | Aug 01 |
-| **[Cruze](https://cruzemaps.com/)** | **[[UNPAID] Social Media / UGC Intern](https://jobright.ai/jobs/info/6a6e2c0f41b41d325296b0a2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6e2b70cd3bac13d3706c53?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Agent](https://jobright.ai/jobs/info/6a59111d856af468ab001a3b?utm_campaign=1065&utm_source=git)** | Panama City Beach, FL, United States | On Site | Aug 01 |
 | **[Fair Grounds Race Course & Slots](http://www.fgno.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a51d93e78e364789ca5dbf8?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | On Site | Aug 01 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57478c21f64463ad358960?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35e0c5f6b55d12c79218ba?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3a606c649fdf1629304170?utm_campaign=1065&utm_source=git)** | Houston, Texas, 77042 | On Site | Aug 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Analyst, Market Insights, Student Intern](https://jobright.ai/jobs/info/6a6d745aca1f933846603a07?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
