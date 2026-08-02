@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Cadence Institute for Policy & Society](https://www.cadenceinstitute.org)** | **[Grants and Fundraising Intern](https://jobright.ai/jobs/info/6a6fc72acd3bac13d3708ecb?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
+| **[Chimes](https://chimes.org/)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfdbeba7efe79c2f67cbb?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 02 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a6fb8a4c56c0956e8adcf1a?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Aug 02 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Public Relations Internship - Podcast and Record Company](https://jobright.ai/jobs/info/6a6f9251f5953013637f64d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Children's Rehabilitation Institute TeletonUSA](https://www.critusa.org)** | **[UNPAID Marketing and Communications INTERN](https://jobright.ai/jobs/info/6a6f90fe160eda5948e8c695?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 02 |
@@ -111,8 +113,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57478c21f64463ad358960?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35e0c5f6b55d12c79218ba?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3a606c649fdf1629304170?utm_campaign=1065&utm_source=git)** | Houston, Texas, 77042 | On Site | Aug 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Analyst, Market Insights, Student Intern](https://jobright.ai/jobs/info/6a6d745aca1f933846603a07?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
@@ -138,6 +140,7 @@ For a complete list, click the following sortable link below:
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[FALL 2026 PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d26d3ba7efe79c2f68d01?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[ABB](https://global.abb/group/en)** | **[Marketing & Sales Summer Internship - 2027](https://jobright.ai/jobs/info/6a6d24c5ba7efe79c2f68b82?utm_campaign=1065&utm_source=git)** | WV, United States | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a5eb47367b2850e77df2ba8?utm_campaign=1065&utm_source=git)** | Wilmington, DE, United States | Hybrid | Jul 31 |
+| **[The Baldwin School](https://www.baldwinschool.org)** | **[Marketing Intern Fall](https://jobright.ai/jobs/info/6a6fc600f5953013637f6861?utm_campaign=1065&utm_source=git)** | Bryn Mawr, PA, United States | On Site | Jul 31 |
 | **[Aday](http://www.thisisaday.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5a8d7e686b4755d1e15cdc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 31 |
 | **[THE·TEAM](https://the.team/)** | **[Fall 2026 Internship - Athlete Exchange Organic Content](https://jobright.ai/jobs/info/6a6d1bd0ba7efe79c2f68812?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
 | **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US Internship Program- Marketing](https://jobright.ai/jobs/info/6a6cebccba7efe79c2f67639?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parsec Education](https://www.parseceducation.com)** | **[Media Production - Marketing Intern](https://jobright.ai/jobs/info/6a6ccd1bacb0a61f9dbc71c0?utm_campaign=1065&utm_source=git)** | Fresno, CA, United States | On Site | Jul 31 |
 | **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcaster](https://jobright.ai/jobs/info/6a6d006dba7efe79c2f67dad?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 31 |
 | **[Red Bull New York](http://www.newyorkredbulls.com)** | **[2026 Internship, Fall - Communications and Community](https://jobright.ai/jobs/info/6a6cff60ba7efe79c2f67d47?utm_campaign=1065&utm_source=git)** | Harrison, NJ, United States | On Site | Jul 31 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[CC Intern](https://jobright.ai/jobs/info/6a6cc88eca1f93384660084d?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Jul 31 |
-| **[Townsquare Media](http://townsquaremedia.com)** | **[Part-Time Radio & Digital Media Internship – NYS Broadcaster](https://jobright.ai/jobs/info/6a6cfe2fba7efe79c2f67cda?utm_campaign=1065&utm_source=git)** | Albany, NY, United States | On Site | Jul 31 |
-| **[Chimes](https://chimes.org/)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfdbeba7efe79c2f67cbb?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
