@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Public Relations Internship - Podcast and Record Company](https://jobright.ai/jobs/info/6a6f9251f5953013637f64d8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Children's Rehabilitation Institute TeletonUSA](https://www.critusa.org)** | **[UNPAID Marketing and Communications INTERN](https://jobright.ai/jobs/info/6a6f90fe160eda5948e8c695?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 02 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for International Manufacturing Firm - IMMEDIATE OPENING](https://jobright.ai/jobs/info/6a58ed5f686b4755d1e0d46f?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 02 |
 | **[dataing](https://www.dataing.io/)** | **[Marketing Intern ❤️❤️❤️](https://jobright.ai/jobs/info/6a6f6fc4ad0fe2053db9f3ba?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Hybrid | Aug 02 |
@@ -96,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[FMN Creative](http://www.FMNCreative.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a5a905b4da96a42cfd969c8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 01 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18eb44abc8f63abac7d3f8?utm_campaign=1065&utm_source=git)** | Greater Madison Area | On Site | Aug 01 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a6b9aa057120971bf3a7d17?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 01 |
-| **[New Life Village](https://newlifevillage.org/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a6e4271ad0fe2053db9da02?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Aug 01 |
 | **[Mount St. Joseph University](http://www.msj.edu)** | **[FWS / Karen Wellington Foundation Marketing & Events Intern](https://jobright.ai/jobs/info/6a56d89ce9b77f668bd660b7?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 01 |
 | **[Medical College of Wisconsin](http://www.mcw.edu/)** | **[Intern - Corporate Communications](https://jobright.ai/jobs/info/6a18b0ab17492d3a389b8db8?utm_campaign=1065&utm_source=git)** | Remote-Wisconsin, United States of America | Remote | Aug 01 |
 | **[Alliance for American Leadership (A4AL)](https://a4al.org/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a6e2b70cd3bac13d3706c53?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[TMX Group](http://www.tmx.com)** | **[Analyst, Market Insights, Student Intern](https://jobright.ai/jobs/info/6a6d745aca1f933846603a07?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a513f4602522b5b722e8d14?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 01 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Aug 01 |
@@ -134,7 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[MEDIA INTERN](https://jobright.ai/jobs/info/6a6d1d89ca1f93384660296e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ef869270e3033b04604b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d1d8c57120971bf3af18c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfbf95c54bc4752cf0775?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfe8fba7efe79c2f67cf9?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
 | **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ae5134da96a42cfd9810a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 31 |
 | **[耐克森中国](http://www.nexans.com)** | **[Marketing Innovation Intern - 12 months](https://jobright.ai/jobs/info/6a6d343032f9300c3a3e7966?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | On Site | Jul 31 |
 | **[AARP](http://www.aarp.org)** | **[Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a39b75c6484fb75f2b335c1?utm_campaign=1065&utm_source=git)** | Montana, United States | Remote | Jul 31 |
