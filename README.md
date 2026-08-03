@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Marketing Intern](https://jobright.ai/jobs/info/6a55dcdbef22935f2e3f840d?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 03 |
+| **[New York Post](http://nypost.com/)** | **[Sports Social Media Intern, Fall 2026 (10 weeks, 24 hours a week)](https://jobright.ai/jobs/info/6a70a1d51003bd7b70d6b7dc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
+| **[Publicis Sapient](https://www.publicissapient.com)** | **[2026 Publicis Media Fall Internship - New York City (Part-Time)](https://jobright.ai/jobs/info/6a5e459d27bf767ea68f59cb?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 03 |
+| **[Ori-Lane](www.ori-lane.com)** | **[Content and Brand Intern](https://jobright.ai/jobs/info/6a709e1d1003bd7b70d6b67f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 03 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a489c393dbab558e29ad158?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 03 |
 | **[SprintRay Inc.](http://sprintray.com/)** | **[Marketing Automation & Events Intern (HubSpot)](https://jobright.ai/jobs/info/6a554531377f983ce8a98e85?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 03 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a7086ed1003bd7b70d6b0e0?utm_campaign=1065&utm_source=git)** | Atlanta metropolitan area, United States | Remote | Aug 03 |
 | ↳ | **[Fashion Media Intern-Digital Marketing](https://jobright.ai/jobs/info/6a7086dee2b7476e7b2095c2?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Aug 03 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/6a708168cb96192a36843f5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Cornell Fitness Centers](https://scl.cornell.edu/recreation/cornell-fitness-centers)** | **[Public Relations Intern Unpaid](https://jobright.ai/jobs/info/6a7077e6d28d363a33bde46b?utm_campaign=1065&utm_source=git)** | Federal Way, WA, United States | On Site | Aug 03 |
-| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/6a550e9d2084cd792b475c6a?utm_campaign=1065&utm_source=git)** | Bay Area, CA, United States | Remote | Aug 03 |
-| ↳ | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Zettabyte](https://www.zettabyte.space/)** | **[Growth Operations Intern](https://jobright.ai/jobs/info/69bb2a863b74eb1e2c899a19?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
+| ↳ | **[Growth Operations Intern](https://jobright.ai/jobs/info/6a550e9d2084cd792b475c6a?utm_campaign=1065&utm_source=git)** | Bay Area, CA, United States | Remote | Aug 03 |
 | **[TikTok](https://www.tiktok.com)** | **[TTS-US Merchandising Strategy Operation Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a701902f5953013637f7222?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 03 |
 | ↳ | **[Seller Live Analytics Project Intern (TikTok Shop - Operations) - 2026 Start](https://jobright.ai/jobs/info/6a7019e1cd3bac13d3709842?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 03 |
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a20f5953013637f7271?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 03 |
@@ -136,13 +140,11 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57478c21f64463ad358960?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35e0c5f6b55d12c79218ba?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3a606c649fdf1629304170?utm_campaign=1065&utm_source=git)** | Houston, Texas, 77042 | On Site | Aug 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3a606c649fdf1629304170?utm_campaign=1065&utm_source=git)** | Houston, Texas, 77042 | On Site | Aug 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Analyst, Market Insights, Student Intern](https://jobright.ai/jobs/info/6a6d745aca1f933846603a07?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a513f4602522b5b722e8d14?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 01 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[MEDIA INTERN](https://jobright.ai/jobs/info/6a6d1d89ca1f93384660296e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[The Shark Group](https://thesharkgroup.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5ef869270e3033b04604b2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d1d8c57120971bf3af18c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfe8fba7efe79c2f67cf9?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
-| **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ae5134da96a42cfd9810a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
