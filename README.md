@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a489c393dbab558e29ad158?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 03 |
+| **[SprintRay Inc.](http://sprintray.com/)** | **[Marketing Automation & Events Intern (HubSpot)](https://jobright.ai/jobs/info/6a554531377f983ce8a98e85?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 03 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Social Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a7086ed1003bd7b70d6b0e0?utm_campaign=1065&utm_source=git)** | Atlanta metropolitan area, United States | Remote | Aug 03 |
 | ↳ | **[Fashion Media Intern-Digital Marketing](https://jobright.ai/jobs/info/6a7086dee2b7476e7b2095c2?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Aug 03 |
 | **[Starbeam](www.starbeam.org)** | **[Sales & Marketing (Growth) Intern](https://jobright.ai/jobs/info/6a708168cb96192a36843f5d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nelson Schmidt Inc.](https://www.nelsonschmidt.com/)** | **[PUBLIC RELATIONS INTERN](https://jobright.ai/jobs/info/6a6d1d8c57120971bf3af18c?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 31 |
 | **[Yelp](https://www.yelp.com)** | **[Community Intern, North County San Diego](https://jobright.ai/jobs/info/6a6cfe8fba7efe79c2f67cf9?utm_campaign=1065&utm_source=git)** | North County San Diego, CA, United States | On Site | Jul 31 |
 | **[Tixr](https://www.tixr.com)** | **[General Internship (Marketing & Socials)](https://jobright.ai/jobs/info/6a5ae5134da96a42cfd9810a?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Jul 31 |
-| **[耐克森中国](http://www.nexans.com)** | **[Marketing Innovation Intern - 12 months](https://jobright.ai/jobs/info/6a6d343032f9300c3a3e7966?utm_campaign=1065&utm_source=git)** | Markham, ON, Canada | On Site | Jul 31 |
-| **[AARP](http://www.aarp.org)** | **[Social Media Intern (Fall)](https://jobright.ai/jobs/info/6a39b75c6484fb75f2b335c1?utm_campaign=1065&utm_source=git)** | Montana, United States | Remote | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
