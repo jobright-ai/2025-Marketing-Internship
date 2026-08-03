@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a70282b41b41d325296e09a?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 02 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Marketing Operations, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a701cfa41b41d325296de26?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
+| **[Gift](https://www.shine.gift)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a70225e160eda5948e8d6d5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 02 |
+| **[Altadis U.S.A.](https://www.altadisusa.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a4facd5fc327f422fef5fcd?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 02 |
 | ↳ | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a20f5953013637f7271?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 02 |
 | ↳ | **[Platform Campaign Intern (TikTok Shop - Operations Center) - 2027 Summer](https://jobright.ai/jobs/info/6a7019e7cd3bac13d3709844?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 02 |
@@ -73,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[Health Here](http://www.healthhere.com)** | **[Healthcare Communications Intern](https://jobright.ai/jobs/info/6a6fde93160eda5948e8cdc2?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 02 |
 | **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Sales/Communications Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a58faf74da96a42cfd8e542?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Ward Home, Inc.](http://www.wardhome.org)** | **[Marketing & Communications Internship](https://jobright.ai/jobs/info/6a53c37de726ec56126a7e51?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 02 |
-| **[The Cadence Institute for Policy & Society](https://www.cadenceinstitute.org)** | **[Grants and Fundraising Intern](https://jobright.ai/jobs/info/6a6fc72acd3bac13d3708ecb?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Chimes](https://chimes.org/)** | **[Fall Intern - Social Media and Marketing](https://jobright.ai/jobs/info/6a6cfdbeba7efe79c2f67cbb?utm_campaign=1065&utm_source=git)** | Baltimore, MD, United States | On Site | Aug 02 |
 | **[Children's Rehabilitation Institute TeletonUSA](https://www.critusa.org)** | **[UNPAID Marketing and Communications INTERN](https://jobright.ai/jobs/info/6a6f90fe160eda5948e8c695?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 02 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Marketing Intern for International Manufacturing Firm - IMMEDIATE OPENING](https://jobright.ai/jobs/info/6a58ed5f686b4755d1e0d46f?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | On Site | Aug 02 |
@@ -126,13 +128,13 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a57478c21f64463ad358960?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 01 |
 | **[National Education Association](http://www.nea.org)** | **[Center for Organizing and Affiliate Support Intern](https://jobright.ai/jobs/info/6a4e7c131544d7246c0d2f6d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 01 |
 | **[Vaughn Construction](https://www.vaughnconstruction.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a35e0c5f6b55d12c79218ba?utm_campaign=1065&utm_source=git)** | Houston, TX | On Site | Aug 01 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a3a606c649fdf1629304170?utm_campaign=1065&utm_source=git)** | Houston, Texas, 77042 | On Site | Aug 01 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a68cb28ceb2691dfb205321?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 01 |
 | **[TMX Group](http://www.tmx.com)** | **[Analyst, Market Insights, Student Intern](https://jobright.ai/jobs/info/6a6d745aca1f933846603a07?utm_campaign=1065&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Aug 01 |
 | **[Indiana Fever](https://fever.wnba.com/)** | **[Digital Marketing Intern, Events - Fall 2026](https://jobright.ai/jobs/info/6a5e9dce27bf767ea68f7dd9?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creator Growth Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a4497c5ef17a815538a4530?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 01 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
-| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
+| **[Advisors Excel](http://advisorsexcel.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a19c434c2a87d6cd3dfb56e?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 01 |
+| ↳ | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a56848defb06a45240d6622?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 01 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a513f4602522b5b722e8d14?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 01 |
 | ↳ | **[Brand Social Media Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5721b0e9b77f668bd66d20?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 01 |
 | **[Reyco Granning Suspensions](http://www.reycogranning.com/)** | **[Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5dc1e33ac7627fe900da4a?utm_campaign=1065&utm_source=git)** | Canton, OH, United States | On Site | Aug 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Baldwin School](https://www.baldwinschool.org)** | **[Marketing Intern Fall](https://jobright.ai/jobs/info/6a6fc600f5953013637f6861?utm_campaign=1065&utm_source=git)** | Bryn Mawr, PA, United States | On Site | Jul 31 |
 | **[Aday](http://www.thisisaday.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a5a8d7e686b4755d1e15cdc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Jul 31 |
 | **[THE·TEAM](https://the.team/)** | **[Fall 2026 Internship - Athlete Exchange Organic Content](https://jobright.ai/jobs/info/6a6d1bd0ba7efe79c2f68812?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 31 |
-| **[Kraft Heinz](http://www.kraftheinzcompany.com)** | **[2027 US Internship Program- Marketing](https://jobright.ai/jobs/info/6a6cebccba7efe79c2f67639?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Life Reporting Intern](https://jobright.ai/jobs/info/6a6cedd3ca1f933846601833?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Jul 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
