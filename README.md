@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Real Estate Intern](https://jobright.ai/jobs/info/6a738f326a034212ea0284e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | **[Christian Cowan](https://christiancowan.com)** | **[PR, Partnerships & Events Intern NYFW](https://jobright.ai/jobs/info/6a7422d037da8525e8cd81cd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Delaware Valley Regional Planning Commission](https://www.dvrpc.org/)** | **[Smart Growth Intern](https://jobright.ai/jobs/info/6a74141c972ac843c6994696?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 05 |
 | **[The Fowler Center for Outdoor Learning](https://www.thefowlercenter.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a74138837da8525e8cd7d2c?utm_campaign=1065&utm_source=git)** | Redford, MI, United States | On Site | Aug 05 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Social Media Marketing Internship](https://jobright.ai/jobs/info/6a739a628cd88e7ccbf596f5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 05 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Social Media Gameday Internship](https://jobright.ai/jobs/info/6a73e9bc6a034212ea029e8f?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Aug 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Programs and Analytics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7127abcb96192a36847e4e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 05 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b6e55c73319eb18902?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
-| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
+| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b6e55c73319eb18902?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7127ad71acd469eeda1e95?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 05 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall/Summer 2026 Influencer Marketing and Brand Partnerships Internship](https://jobright.ai/jobs/info/6a73d61c32ebbc14ffb5126d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 05 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6a73d5c3e55c73319eb19787?utm_campaign=1065&utm_source=git)** | Haslet, TX, United States | On Site | Aug 05 |
@@ -128,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[ShopBack](https://www.shopback.sg)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a73731d8dc3d52d8ed9f810?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Aug 05 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a73ac6c32ebbc14ffb507f6?utm_campaign=1065&utm_source=git)** | Englewood, NJ, United States | On Site | Aug 05 |
 | **[Phoenix Suns](https://suns.nba.com)** | **[Intern, Digital Engagement](https://jobright.ai/jobs/info/6a694d8f36d36c1ff299943c?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 05 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Real Estate Intern](https://jobright.ai/jobs/info/6a738f326a034212ea0284e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 05 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Merchandising Planning Intern](https://jobright.ai/jobs/info/6a59cd8d4da96a42cfd928ec?utm_campaign=1065&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 05 |
 | **[Master Plan Communications](https://masterplancommunications.com/)** | **[Marketing And Public Relations Intern](https://jobright.ai/jobs/info/6a738ae8e55c73319eb17f2c?utm_campaign=1065&utm_source=git)** | Dallas, Texas, United States | On Site | Aug 05 |
 | **[DiGeronimo Companies](https://digeronimocompanies.com)** | **[Marketing and Leasing Co-op/Intern(DiGeronimo Development)](https://jobright.ai/jobs/info/6a736b3ce55c73319eb17276?utm_campaign=1065&utm_source=git)** | Brecksville, OH, United States | On Site | Aug 05 |
