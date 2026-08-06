@@ -58,7 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of Utah](http://utah.edu)** | **[Research Quest Marketing Intern](https://jobright.ai/jobs/info/6a74548ab17cba5690355a96?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 06 |
-| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a63be78979290281c703e97?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 06 |
+| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a64d5ba979290281c706f42?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 06 |
 | ↳ | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Aug 06 |
 | ↳ | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a6130a2eaa37f43e75871c3?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Aug 06 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Real Estate Intern](https://jobright.ai/jobs/info/6a738f326a034212ea0284e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
