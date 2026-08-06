@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[University of Utah](http://utah.edu)** | **[Research Quest Marketing Intern](https://jobright.ai/jobs/info/6a74548ab17cba5690355a96?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 06 |
-| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a64d5ba979290281c706f42?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 06 |
-| ↳ | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Aug 06 |
+| **[Yelp](https://www.yelp.com)** | **[Social Media Intern - Miami, FL](https://jobright.ai/jobs/info/6a63be78979290281c703e97?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 06 |
 | ↳ | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a6130a2eaa37f43e75871c3?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Aug 06 |
+| ↳ | **[Social Media Intern - New York City](https://jobright.ai/jobs/info/6a64d5c20c8e2b4f36dd2a6c?utm_campaign=1065&utm_source=git)** | New York City, NY, United States | Remote | Aug 06 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Fall 2026 Real Estate Intern](https://jobright.ai/jobs/info/6a738f326a034212ea0284e2?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 06 |
 | **[Christian Cowan](https://christiancowan.com)** | **[PR, Partnerships & Events Intern NYFW](https://jobright.ai/jobs/info/6a7422d037da8525e8cd81cd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 05 |
 | **[Delaware Valley Regional Planning Commission](https://www.dvrpc.org/)** | **[Smart Growth Intern](https://jobright.ai/jobs/info/6a74141c972ac843c6994696?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Hybrid | Aug 05 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Social Media Marketing Internship](https://jobright.ai/jobs/info/6a739a628cd88e7ccbf596f5?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 05 |
 | **[United States Hockey League (USHL)](https://www.ushl.com/)** | **[Social Media Gameday Internship](https://jobright.ai/jobs/info/6a73e9bc6a034212ea029e8f?utm_campaign=1065&utm_source=git)** | Fargo, ND, United States | On Site | Aug 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Marketing Programs and Analytics Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7127abcb96192a36847e4e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 05 |
-| **[Yelp](https://www.yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
-| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b6e55c73319eb18902?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
+| **[Yelp](https://www.yelp.com)** | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b6e55c73319eb18902?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
+| ↳ | **[Community Intern, Long Island](https://jobright.ai/jobs/info/6a73a1b78dc3d52d8eda0af3?utm_campaign=1065&utm_source=git)** | Long Island, New York, United States | On Site | Aug 05 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical Marketing Intern (Fall 2026)](https://jobright.ai/jobs/info/6a7127ad71acd469eeda1e95?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 05 |
 | **[Aramark Student Nutrition](http://www.aramarkeducation.com)** | **[Marketing Intern - Western Kentucky Univ.](https://jobright.ai/jobs/info/6a745520972ac843c699541f?utm_campaign=1065&utm_source=git)** | Bowling Green, KY, United States | On Site | Aug 05 |
 | **[Sweety High Media](http://www.sweetyhigh.com)** | **[Fall/Summer 2026 Influencer Marketing and Brand Partnerships Internship](https://jobright.ai/jobs/info/6a73d61c32ebbc14ffb5126d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 05 |
