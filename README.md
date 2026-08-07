@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Cinematheque](https://www.americancinematheque.com/)** | **[PROOF Film Festival Social Media and Industry Relations Internship](https://jobright.ai/jobs/info/6a75af13b17cba569035ad92?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 07 |
+| **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Venues Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a5a79fa856af468ab008c75?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
 | **[ShopBack](https://www.shopback.sg)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a73731d8dc3d52d8ed9f810?utm_campaign=1065&utm_source=git)** | Texas, United States | On Site | Aug 07 |
+| **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Marketing & Press Intern](https://jobright.ai/jobs/info/6a59232b856af468ab001fa1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Public Relations/Social Media Intern](https://jobright.ai/jobs/info/6a75914437da8525e8cdda66?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | ↳ | **[Copywriting Intern](https://jobright.ai/jobs/info/6a75910b7b3417772ade4a95?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
-| ↳ | **[Strategic Communications Intern](https://jobright.ai/jobs/info/6a7590e37b3417772ade4a8e?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | On Site | Aug 07 |
 | ↳ | **[Media Intern](https://jobright.ai/jobs/info/6a7590e0bb6ca93ae560ef7d?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | On Site | Aug 07 |
 | **[Autowash](https://www.autowashco.com)** | **[Marketing & Growth Internship](https://jobright.ai/jobs/info/6a75143b972ac843c6998fd5?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | On Site | Aug 07 |
 | **[Middle East Institute](http://www.mei.edu)** | **[Development Intern - Corporate Relations (Fall 2026 - Unpaid)](https://jobright.ai/jobs/info/6a7579e0972ac843c699a093?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Four Hands](https://fourhands.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d1a7b3417772ade0854?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a432fba501d340b4a82df04?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Interactive Brokers](https://www.interactivebrokers.com/en/home.php)** | **[Marketing Internships 2027](https://jobright.ai/jobs/info/6a749e4a7b3417772ade08d1?utm_campaign=1065&utm_source=git)** | Greenwich, CT, United States | On Site | Aug 06 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a74aab97b3417772ade0db1?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 06 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d3a20b26a6e93f47c80?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
