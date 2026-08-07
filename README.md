@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knowledge Services](http://www.knowledgeservices.com)** | **[GovRAMP Marketing & Sales Intern - Fall 2026](https://jobright.ai/jobs/info/6a75e1754817aa43070457b4?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 07 |
+| **[Gulfshore Life Magazine](https://www.gulfshorelife.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a75dfe8a26ccc369f832686?utm_campaign=1065&utm_source=git)** | Fort Myers, FL, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations-Health & Elevated Home ) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a714fd502d93145bf88ef40?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Per Scholas](https://www.perscholas.org)** | **[B2B Marketing Intern](https://jobright.ai/jobs/info/6a3c54338bfad862bc99a0c4?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Smith Publicity, Inc.](https://www.smithpublicity.com)** | **[Publicity Intern](https://jobright.ai/jobs/info/6a75b6d66b9def3e9e1f8bff?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | Remote | Aug 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[YouTube PR Intern (Bilingual)](https://jobright.ai/jobs/info/6a59040463a8f619507bfad3?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 06 |
 | **[Brite](https://britebenefits.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a74b1ed7b3417772ade1001?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 06 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a74af287b3417772ade0f14?utm_campaign=1065&utm_source=git)** | Atlanta metropolitan area, United States | On Site | Aug 06 |
-| **[CCL Label](https://ccllabel.com)** | **[Marketing Intern (Temporary, Part-Time)](https://jobright.ai/jobs/info/6a74ae72972ac843c699681b?utm_campaign=1065&utm_source=git)** | Hightstown, NJ, United States | On Site | Aug 06 |
-| **[The Assembly DC](http://www.theassemblydc.com/)** | **[FALL INTERN: Social Media Content Intern (The Assembly Creators)](https://jobright.ai/jobs/info/6a74ab5120b26a6e93f481d6?utm_campaign=1065&utm_source=git)** | Washington, District of Columbia, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
