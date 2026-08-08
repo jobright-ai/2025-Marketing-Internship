@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CASETiFY](https://www.casetify.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a706fa524e15f2d5de44b4d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 08 |
 | **[eMarketing Foundation](emarektingassociation.org)** | **[Marketing Intern - OPT/CPT Eligible](https://jobright.ai/jobs/info/6a777ceb67a1ad0bc53cc862?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 08 |
 | **[KCMCONNECT](https://kcmconnect.co/)** | **[Internship: PR & Event  (New York Fashion Week Showroom)](https://jobright.ai/jobs/info/6a7779c37b3417772adea73b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Livestock Marketing Intern](https://jobright.ai/jobs/info/68cff1c6846f0b04af686481?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 08 |
@@ -70,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Ellie Mental Health-Capital Region NY](www.elliementalhealth.com)** | **[Social Media Content Manager Intern](https://jobright.ai/jobs/info/6a774d677b3417772adea273?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 08 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6a5ad9943ac7627fe90058b0?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 08 |
 | **[Coveted Co.](http://www.covetedco.ca)** | **[Public Relations, XM and Events Intern](https://jobright.ai/jobs/info/6a775ec84817aa430704a59e?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 08 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a767abb67a1ad0bc53ca870?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
+| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a764ae9b17cba569035d9ea?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
 | **[Legends Global](https://legendsglobal.com)** | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a3e57724d047136e0935f5f?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
 | **[Mattress Factory](http://www.mattress.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a762fa5bb6ca93ae561163c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 08 |
 | **[ASM Global](https://asmglobal.com/)** | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a56ba56e9b77f668bd65605?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Santos by Mónica](https://santosbymonica.com)** | **[Marketing & Content Intern, Fall 2026](https://jobright.ai/jobs/info/6a7609afa26ccc369f83354b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[Acadium](http://www.acadium.com)** | **[Podcast & Video Marketing Intern](https://jobright.ai/jobs/info/6a7608ca4817aa43070464d4?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Eurofins](http://eurofins.com)** | **[Intern, Marketing / EAG Laboratories](https://jobright.ai/jobs/info/6a75ea81bb6ca93ae560ffcd?utm_campaign=1065&utm_source=git)** | Sunnyvale, CA, United States | Hybrid | Aug 07 |
-| **[Acadium](http://www.acadium.com)** | **[Social Media Content Marketing Intern](https://jobright.ai/jobs/info/6a76dcd17b3417772ade965a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
