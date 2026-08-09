@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[American City Business Journals](http://www.acbj.com)** | **[Events and Marketing Coordinator Part Time Temp / Intern](https://jobright.ai/jobs/info/6a786d1d67a1ad0bc53cda06?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 09 |
+| **[ASM Global](https://asmglobal.com/)** | **[Events Intern - Raising Cane's River Center](https://jobright.ai/jobs/info/698e835ff64d441a1650cedf?utm_campaign=1065&utm_source=git)** | Baton Rouge, LA | On Site | Aug 09 |
+| **[Colonial Chemical, Inc.](http://colonialchem.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6cccd057120971bf3ad2a4?utm_campaign=1065&utm_source=git)** | South Pittsburg, TN, United States | On Site | Aug 09 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[2026 Publicis Media Fall Internship - New York City (Part-Time)](https://jobright.ai/jobs/info/6a5e409af3674a0545d27d18?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Publicis Groupe](https://www.publicisgroupe.com)** | **[2026 Publicis Media Fall Internship - Atlanta (Part-Time)](https://jobright.ai/jobs/info/6a5e40a727bf767ea68f58d1?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 08 |
 | **[TeleVoIPs - Reliable Business Communication](https://televoips.com/)** | **[Sales and Marketing Summer Internship](https://jobright.ai/jobs/info/6a77f70367a1ad0bc53cd2c2?utm_campaign=1065&utm_source=git)** | Brandon, FL, United States | On Site | Aug 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HydroGeoLogic, Inc.](https://www.hgl.com)** | **[Communications and Administrative Intern](https://jobright.ai/jobs/info/6a76141aa26ccc369f833a84?utm_campaign=1065&utm_source=git)** | Overland Park, KS, United States | On Site | Aug 07 |
 | **[The Dispatch](https://thedispatch.com/)** | **[Social Media Intern, Fall 2026](https://jobright.ai/jobs/info/6a75036b37da8525e8cdbe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Social Media Content Intern (Fall 2026)](https://jobright.ai/jobs/info/6a76224467a1ad0bc53c8e86?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Aug 07 |
-| **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Marketing Department](https://jobright.ai/jobs/info/6a76dcd87b3417772ade96c9?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Aug 07 |
-| **[Tulane University](https://tulane.edu/)** | **[NTC Marketing and Communications Student Intern](https://jobright.ai/jobs/info/6a585f3668d16a30e2412bd7?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
