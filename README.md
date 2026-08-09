@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Digital Marketing Internship Offered at Biasly](https://jobright.ai/jobs/info/6a763dfab17cba569035d476?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[TeleVoIPs - Reliable Business Communication](https://televoips.com/)** | **[Sales and Marketing Summer Internship](https://jobright.ai/jobs/info/6a77f70367a1ad0bc53cd2c2?utm_campaign=1065&utm_source=git)** | Brandon, FL, United States | On Site | Aug 08 |
 | **[Florida Panthers](http://floridapanthers.com)** | **[Seasonal Communications Intern](https://jobright.ai/jobs/info/6a4501f851d0d05163ccca20?utm_campaign=1065&utm_source=git)** | Sunrise, FL, United States | On Site | Aug 08 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a541939c8eb0843027aecfd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 08 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/6a60365a193c4d692385d78b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 08 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6a5ad9943ac7627fe90058b0?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 08 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a764ae9b17cba569035d9ea?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
+| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a767abb67a1ad0bc53ca870?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
 | **[Legends Global](https://legendsglobal.com)** | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a3e57724d047136e0935f5f?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
 | **[Mattress Factory](http://www.mattress.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a762fa5bb6ca93ae561163c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 08 |
 | **[EnCompass Iowa, L.L.C.](http://www.encompassiowa.com)** | **[Marketing Assistant Internship](https://jobright.ai/jobs/info/6a77f05567a1ad0bc53cd25d?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Aug 08 |
@@ -88,8 +89,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Administrative Internship](https://jobright.ai/jobs/info/6a04cf027c753c287f6f3887?utm_campaign=1065&utm_source=git)** | Pensacola, FL, US | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations-Personal Care and Lifestyle) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a743568972ac843c6994db8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6a71bd2de2b7476e7b20f2f7?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 08 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Marketing Internship - Summer 2027](https://jobright.ai/jobs/info/6a76baffb17cba569035f020?utm_campaign=1065&utm_source=git)** | Plymouth, MN, United States | On Site | Aug 08 |
-| **[Simon-Kucher](http://www.simon-kucher.com)** | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6a54fc9b268af95237be886e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
+| ↳ | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6a54fc9b268af95237be886e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | ↳ | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6a71ba3acb96192a36849f01?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 08 |
 | ↳ | **[Summer 2027 Intern - Americas Division [UG/Masters]](https://jobright.ai/jobs/info/6a71d367cb96192a3684a394?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 08 |
 | **[InSource Solutions Group](http://www.insourcess.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a76d4b067a1ad0bc53cb5e2?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | Remote | Aug 08 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Brooklyn Sports & Entertainment](https://www.bseglobal.net)** | **[Brooklyn Sports & Entertainment Seasonal Internship 2026-2027](https://jobright.ai/jobs/info/6a769eeebb6ca93ae5613090?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 07 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a7600abb17cba569035bfe8?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 07 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Fashion and Marketing Copywriter Internship](https://jobright.ai/jobs/info/6a5417b1e726ec56126a91ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
-| **[Pioneering Minds AI](https://pioneeringminds.ai/)** | **[GTM & Operations Intern](https://jobright.ai/jobs/info/6a77e5de7b3417772adeb035?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 07 |
 | **[Oribe Hair Care](http://oribe.com)** | **[PR and Communications Intern](https://jobright.ai/jobs/info/6a768a85a26ccc369f835a2b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 07 |
 | **[DiGeronimo Companies](https://digeronimocompanies.com)** | **[Marketing and Leasing Co-op/Intern(DiGeronimo Development)](https://jobright.ai/jobs/info/6a736b3ce55c73319eb17276?utm_campaign=1065&utm_source=git)** | Brecksville, OH, United States | On Site | Aug 07 |
 | **[Alzheimer's Association - Orange County Chapter](http://alz.org/oc)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6a769b8abb6ca93ae5613032?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[The Dispatch](https://thedispatch.com/)** | **[Social Media Intern, Fall 2026](https://jobright.ai/jobs/info/6a75036b37da8525e8cdbe60?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Social Media Content Intern (Fall 2026)](https://jobright.ai/jobs/info/6a76224467a1ad0bc53c8e86?utm_campaign=1065&utm_source=git)** | Somerville, MA, United States | On Site | Aug 07 |
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Marketing Department](https://jobright.ai/jobs/info/6a76dcd87b3417772ade96c9?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Hybrid | Aug 07 |
+| **[Tulane University](https://tulane.edu/)** | **[NTC Marketing and Communications Student Intern](https://jobright.ai/jobs/info/6a585f3668d16a30e2412bd7?utm_campaign=1065&utm_source=git)** | New Orleans, LA, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
