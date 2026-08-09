@@ -57,16 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dreamstate](https://www.trydreamstate.com/)** | **[Marketing Intern Fellowship](https://jobright.ai/jobs/info/6a78bf98b17cba5690361e0a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
+| ↳ | **[Growth Intern Fellowship](https://jobright.ai/jobs/info/6a78bf564817aa430704c04e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 09 |
+| **[dataing](https://www.dataing.io/)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a78bf0cb17cba5690361e03?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Vidovo](https://www.vidovo.com)** | **[Marketing Intern, Influencer & Creator Platform](https://jobright.ai/jobs/info/6a78b9ca4817aa430704bffa?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
-| **[The Athletic Academy](https://athdynasty.com/)** | **[Sports Management Intern](https://jobright.ai/jobs/info/6a78ad0a4817aa430704bf2b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Student Sports](https://www.codeelevenagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a78ab50bb6ca93ae56163fb?utm_campaign=1065&utm_source=git)** | Torrance, CA, United States | On Site | Aug 09 |
 | **[VAN ETTEN PR](https://www.vanettenpr.com)** | **[Fall PR Intern](https://jobright.ai/jobs/info/6a78a62b67a1ad0bc53cdf30?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 09 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Events Intern](https://jobright.ai/jobs/info/6a789ef1bb6ca93ae561631b?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a789eefb17cba5690361bcc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789eefb17cba5690361bcd?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 09 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a789eefb17cba5690361bcc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789eee67a1ad0bc53cdecb?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee9b17cba5690361bc9?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789ee967a1ad0bc53cdec5?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 09 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee9b17cba5690361bc9?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789ee8b17cba5690361bc7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee767a1ad0bc53cdec3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Atlantic Current](https://theatlanticcurrent.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a788dc5bb6ca93ae561620d?utm_campaign=1065&utm_source=git)** | Delray Beach, FL, United States | Hybrid | Aug 09 |
@@ -80,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Florida Panthers](http://floridapanthers.com)** | **[Seasonal Communications Intern](https://jobright.ai/jobs/info/6a4501f851d0d05163ccca20?utm_campaign=1065&utm_source=git)** | Sunrise, FL, United States | On Site | Aug 08 |
 | **[Jean Martin](https://www.jeanmartin.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a541939c8eb0843027aecfd?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[Forwards Fund](https://forwardsfund.com)** | **[Ambassador Program Intern](https://jobright.ai/jobs/info/6a77c96667a1ad0bc53cce84?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 08 |
-| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern - Mandarin Speaking（Paid）](https://jobright.ai/jobs/info/6a7166bccb96192a36848be9?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Aug 08 |
-| ↳ | **[Marketing Intern - Mandarin Speaking（Paid）](https://jobright.ai/jobs/info/6a7166bb02d93145bf88f48e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 08 |
+| **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern - Mandarin Speaking（Paid）](https://jobright.ai/jobs/info/6a7166bb02d93145bf88f48e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 08 |
+| ↳ | **[Marketing Intern - Mandarin Speaking（Paid）](https://jobright.ai/jobs/info/6a7166bccb96192a36848be9?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Aug 08 |
 | **[Biasly](https://www.biasly.com/verify-your-email/?email=)** | **[Digital Marketing Internship at Biasly](https://jobright.ai/jobs/info/6a781c1dbb6ca93ae5615a53?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Remote | Aug 08 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Marketing Content Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fe2cf33ef5c58b4000c9c?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 08 |
 | **[CASETiFY](https://www.casetify.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a706fa524e15f2d5de44b4d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 08 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Equine Marketing Intern](https://jobright.ai/jobs/info/68c7c26af42a830e1c7e7587?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 08 |
 | **[The Wonderful Company](http://www.wonderful.com/)** | **[Wonderful Scholar Summer Internship, Market Development](https://jobright.ai/jobs/info/6a60365a193c4d692385d78b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 08 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Social Media Marketing](https://jobright.ai/jobs/info/6a5ad9943ac7627fe90058b0?utm_campaign=1065&utm_source=git)** | Los Angeles, California, United States | On Site | Aug 08 |
-| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a767abb67a1ad0bc53ca870?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
+| **[D1 TRAINING](https://www.d1training.com/)** | **[Sports Marketing Internship](https://jobright.ai/jobs/info/6a764ae9b17cba569035d9ea?utm_campaign=1065&utm_source=git)** | Margate, FL, United States | On Site | Aug 08 |
 | **[Legends Global](https://legendsglobal.com)** | **[Ohio State Athletics- Social Media Internship](https://jobright.ai/jobs/info/6a3e57724d047136e0935f5f?utm_campaign=1065&utm_source=git)** | Columbus, OH | On Site | Aug 08 |
 | **[Mattress Factory](http://www.mattress.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a762fa5bb6ca93ae561163c?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Aug 08 |
 | **[EnCompass Iowa, L.L.C.](http://www.encompassiowa.com)** | **[Marketing Assistant Internship](https://jobright.ai/jobs/info/6a77f05567a1ad0bc53cd25d?utm_campaign=1065&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Aug 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Coastal Orthopedics](http://www.CoastalOrthopedics.com)** | **[MARKETING ASSISTANT - INTERNSHIP (part-time)](https://jobright.ai/jobs/info/6a73adf08cd88e7ccbf59fce?utm_campaign=1065&utm_source=git)** | Bradenton, FL, United States | On Site | Aug 07 |
 | ↳ | **[MARKETING ASSISTANT - INTERNSHIP (part-time)](https://jobright.ai/jobs/info/6a73a97ee55c73319eb18c00?utm_campaign=1065&utm_source=git)** | Bradenton, FL, United States | On Site | Aug 07 |
 | **[Utah Transit Authority](http://www.rideuta.com/)** | **[Community Engagement Events Intern (PT)](https://jobright.ai/jobs/info/6a76399cb17cba569035d30f?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 07 |
-| **[Boldyn Networks](https://www.boldyn.com)** | **[Market Intelligence & Sales Operations Intern (PAID INTERNSHIP)](https://jobright.ai/jobs/info/6a75fc31b17cba569035bf07?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 07 |
-| **[Toledo Walleye](https://www.toledowalleye.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7637c8bb6ca93ae561181f?utm_campaign=1065&utm_source=git)** | Toledo, OH, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
