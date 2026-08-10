@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[Search Engine Optimization Specialist Non Paid Intern](https://jobright.ai/jobs/info/6a796c9167a1ad0bc53cef75?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media & Copywriting Intern](https://jobright.ai/jobs/info/6a796503a26ccc369f839db9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Cast tours](https://cast.tours/)** | **[UNPAID MARKETING INTERN – MUSIC, ENTERTAINMENT & INTERNATIONAL TRAVEL](https://jobright.ai/jobs/info/6a7961847b3417772adecd53?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a5da71679547a520df5e85b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Candy Stripers®](http://www.candystripersny.org)** | **[Fall 2026 Marketing & Branding Internship / Candy Stripers®](https://jobright.ai/jobs/info/6a7957e6a26ccc369f839cc5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 09 |
@@ -81,8 +80,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789eefb17cba5690361bcd?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 09 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a789eefb17cba5690361bcc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789eee67a1ad0bc53cdecb?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee9b17cba5690361bc9?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789ee967a1ad0bc53cdec5?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 09 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee9b17cba5690361bc9?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 09 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a789ee8b17cba5690361bc7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a789ee767a1ad0bc53cdec3?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 09 |
 | **[Atlantic Current](https://theatlanticcurrent.com)** | **[Social Media & Content Intern](https://jobright.ai/jobs/info/6a788dc5bb6ca93ae561620d?utm_campaign=1065&utm_source=git)** | Delray Beach, FL, United States | Hybrid | Aug 09 |
@@ -154,7 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Mackenzie Investments](https://www.mackenzieinvestments.com/)** | **[Fall Intern 2026 – Marketing Department](https://jobright.ai/jobs/info/6a764aceb17cba569035d9e5?utm_campaign=1065&utm_source=git)** | Greater Toronto Area, Canada | Hybrid | Aug 07 |
 | **[Firmani + Associates Inc.](https://www.firmani.com/)** | **[F+A Professional Internship](https://jobright.ai/jobs/info/6a7647567b3417772ade7a13?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | Hybrid | Aug 07 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Internship - University Campus Social Media Manager](https://jobright.ai/jobs/info/6a7647317b3417772ade79fd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 07 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a365aa2649fdf16292fb345?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 07 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a3652a4ce501060b5cf68b7?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 07 |
 | ↳ | **[FamilySearch Internal Communications Intern](https://jobright.ai/jobs/info/6a76007dbb6ca93ae561052a?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 07 |
 | **[Alzheimer's Association®](http://www.alz.org/)** | **[Marketing and Communications Paid Internship](https://jobright.ai/jobs/info/6a763cc94817aa4307047627?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 07 |
+| **[Marriott Vacations Worldwide](https://www.marriottvacationsworldwide.com/)** | **[Fall Corporate Intern - Global Marketing](https://jobright.ai/jobs/info/6a7645c3bb6ca93ae5611cbb?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
