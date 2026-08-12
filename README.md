@@ -67,8 +67,8 @@ For a complete list, click the following sortable link below:
 | **[MorganMyers, a G&S Agency](http://morganmyers.com)** | **[Digital Marketing & AI Enablement Intern](https://jobright.ai/jobs/info/6a7ba656ecfd29770753a641?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | Hybrid | Aug 11 |
 | **[Blackrock Neurotech](https://blackrockneurotech.com)** | **[BCI Strategy Intern](https://jobright.ai/jobs/info/6a7ba628ecf5194164fbf717?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 11 |
 | **[EmployStats](https://employstats.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7ba575ecf5194164fbf6d0?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 11 |
-| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Digital Marketing Intern, Workman Running Press Group](https://jobright.ai/jobs/info/6a7b9d58ecf5194164fbf42c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
-| ↳ | **[Digital Marketing Intern, Workman Running Press Group](https://jobright.ai/jobs/info/6a7b9c7a77e6b569c61c1ca2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Digital Marketing Intern, Workman Running Press Group](https://jobright.ai/jobs/info/6a7b9c7a77e6b569c61c1ca2?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
+| ↳ | **[Digital Marketing Intern, Workman Running Press Group](https://jobright.ai/jobs/info/6a7b9d58ecf5194164fbf42c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[The Communications Group, Inc.](https://www.comgroup.com)** | **[Internship](https://jobright.ai/jobs/info/6a7ba2f877e6b569c61c1e7c?utm_campaign=1065&utm_source=git)** | Agency, MO, United States | On Site | Aug 11 |
 | **[99 Yards](https://99yards.app)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a7ba183ecfd29770753a496?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[TENNESSEE ENVIRONMENTAL COUNCIL](https://tectn.org)** | **[Recycling Roundup Internship](https://jobright.ai/jobs/info/6a7b9ed4ecfd29770753a3ed?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 11 |
@@ -124,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Gift](https://www.shine.gift)** | **[Community Engagement Intern](https://jobright.ai/jobs/info/6a7b7b79bc05d77f2bddf4d6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 11 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7b69c677e6b569c61c048a?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 11 |
 | **[HungryPanda Ltd 熊猫外卖](http://www.hungrypanda.co)** | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a7166c7ee751e0c793438da?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
-| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b40af7517b519ad5789c?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Aug 11 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a7166bccb96192a36848beb?utm_campaign=1065&utm_source=git)** | West Lafayette, IN, United States | On Site | Aug 11 |
+| ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a56b40af7517b519ad5789c?utm_campaign=1065&utm_source=git)** | Davis, CA, United States | On Site | Aug 11 |
 | ↳ | **[Marketing Intern (Paid) - Mandarin Speaking](https://jobright.ai/jobs/info/6a552a79377f983ce8a98463?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 11 |
 | **[State of Tennessee](https://www.tn.gov/)** | **[SOCIAL MEDIA STUDENT INTERN - 80059](https://jobright.ai/jobs/info/6a7b3a6fb933773d16be5f5d?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Remote | Aug 11 |
 | **[Spirit Music](http://www.spiritmusicgroup.com/)** | **[Intern, Digital Marketing](https://jobright.ai/jobs/info/6a7b39ccb933773d16be5f20?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 11 |
@@ -137,18 +137,18 @@ For a complete list, click the following sortable link below:
 | **[Westlake Securities](https://www.westlakesecurities.com/)** | **[Marketing Intern (Texas Based)](https://jobright.ai/jobs/info/6a7b2bcfecf5194164fbc4f6?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 11 |
 | **[Rubenstein Public Relations](https://www.rubensteinpr.com/)** | **[Fall PR Internship](https://jobright.ai/jobs/info/6a73842c6a034212ea02807b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | **[Rise Sports Management](http://www.risesportsm.com/)** | **[NIL Brand Outreach Intern](https://jobright.ai/jobs/info/6a7b2a31ecf5194164fbc47b?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Remote | Aug 11 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 11 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 11 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 11 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 11 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 11 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 11 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 11 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 11 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 11 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a7b7c3a77e6b569c61c0e95?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 11 |
 | **[AgFirst Farm Credit Bank](https://www.agfirst.com)** | **[Marketing Intern (Hybrid - Columbia, SC)](https://jobright.ai/jobs/info/6a7b27913b399d106e4d4a92?utm_campaign=1065&utm_source=git)** | Columbia, SC, United States | Hybrid | Aug 11 |
 | **[Electro](electrogum.com)** | **[Affiliate & Creator Program Intern](https://jobright.ai/jobs/info/6a7b1b713b399d106e4d4671?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | Remote | Aug 11 |
 | ↳ | **[Creator Relations & Partnerships Intern](https://jobright.ai/jobs/info/6a7b1b6ebc05d77f2bddcf88?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 11 |
 | ↳ | **[TikTok Marketing Intern](https://jobright.ai/jobs/info/6a7b1ad0ecf5194164fbbfa6?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 11 |
-| **[Jones](https://jones1910.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7b53cdb933773d16be69cf?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Aug 11 |
+| **[Jones](https://jones1910.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7b6ce6ecfd297707538cc9?utm_campaign=1065&utm_source=git)** | De Pere, WI, United States | On Site | Aug 11 |
 | **[Theobald Software](http://theobald-software.com/en/)** | **[Unbezahltes Praktikum (m/w/d)](https://jobright.ai/jobs/info/6a7b1647b933773d16be52ac?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 11 |
 | **[Strattec Security Corporation](http://www.strattec.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a429a9eff87fd527f984d3b?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, US | On Site | Aug 11 |
 | **[Earnscliffe](http://earnscliffe.ca)** | **[Intern, Digital](https://jobright.ai/jobs/info/6a7b386177e6b569c61bf21d?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 11 |
