@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Los Angeles](https://jobright.ai/jobs/info/6a7cfc5683621355407ad15e?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 12 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cfacddc3dff2d1c0ca43e?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cf8ffd77e8156a8e35671?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
+| **[German American Bank](https://germanamerican.com/)** | **[Marketing & Communications Internship (Start Date: November/December 2026)](https://jobright.ai/jobs/info/6a7cf63ea346cb6c8d5f120d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 12 |
+| **[Reflex](https://www.workreflex.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7cf60fd77e8156a8e354c0?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Aug 12 |
 | **[Grande Custom Ingredients Group](https://grandecig.com)** | **[Milk Marketing Intern](https://jobright.ai/jobs/info/6a7c8699a346cb6c8d5ee0ae?utm_campaign=1065&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 12 |
 | **[Peninsula Open Space Trust (POST)](https://openspacetrust.org)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a7cee597c52154b59f5d471?utm_campaign=1065&utm_source=git)** | Palo Alto, CA, United States | Hybrid | Aug 12 |
 | **[Ovo Talent](https://ovotalent.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a7cedd5a346cb6c8d5f0f3d?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Aug 12 |
@@ -119,12 +124,12 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Communications Intern](https://jobright.ai/jobs/info/6a604d5071c79e639619ae28?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[Relay](https://relayfi.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a7c921da346cb6c8d5ee6fa?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 12 |
 | **[Corporate Ink](http://www.corporateink.com/)** | **[PR and Marketing Intern](https://jobright.ai/jobs/info/6a7c970677d5f033c4b8f232?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 12 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 12 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 12 |
 | **[Wahed](https://www.wahed.com)** | **[Community and Partnerships Intern](https://jobright.ai/jobs/info/6a7c8fa8d77e8156a8e32855?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Skipit](https://skipit.tech)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7c8ec1d77e8156a8e327d6?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 12 |
 | **[University of South Florida](http://www.usf.edu)** | **[FWS Communications and Marketing Intern](https://jobright.ai/jobs/info/6a7c8e8f83621355407aa1d0?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | On Site | Aug 12 |
@@ -144,17 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Integreon](http://www.integreon.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7c6083d77e8156a8e31b2f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Best Buddies in Virginia & DC](https://www.bestbuddies.org/vadc)** | **[Intern](https://jobright.ai/jobs/info/6a7ca8da83621355407ab01e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | **[Best Buddies in Massachusetts & Rhode Island](https://www.bestbuddies.org/mari)** | **[Intern](https://jobright.ai/jobs/info/6a7cb42d7c52154b59f5be2e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
-| **[Southern Domestic Diva](https://www.southerndomesticdiva.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/698c845d78b4502f12a307ed?utm_campaign=1065&utm_source=git)** | NASHVILLE, TN 37211 | On Site | Aug 12 |
-| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a55bf13ef22935f2e3f6952?utm_campaign=1065&utm_source=git)** | NASHVILLE, TN, US | On Site | Aug 12 |
+| **[Southern Domestic Diva](https://www.southerndomesticdiva.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a55bf13ef22935f2e3f6952?utm_campaign=1065&utm_source=git)** | NASHVILLE, TN, US | On Site | Aug 12 |
+| ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/698c845d78b4502f12a307ed?utm_campaign=1065&utm_source=git)** | NASHVILLE, TN 37211 | On Site | Aug 12 |
 | **[WebFX](https://www.webfx.com)** | **[Digital Marketing - Account Management Internship](https://jobright.ai/jobs/info/6880cd7a29ad6b2744adc425?utm_campaign=1065&utm_source=git)** | Harrisburg, PA, United States | On Site | Aug 12 |
 | **[Lomography](http://www.lomography.com)** | **[Sales & Marketing Intern - College Credit](https://jobright.ai/jobs/info/6a7c57de77d5f033c4b8e08f?utm_campaign=1065&utm_source=git)** | Brooklyn, New York, United States | On Site | Aug 12 |
 | **[Fruit of the Loom, Inc.](https://www.fotlinc.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3bf229982bb239f812dba7?utm_campaign=1065&utm_source=git)** | Jefferson, IA, US | On Site | Aug 12 |
 | **[Mind Flex Games](https://www.linkedin.com/company/111115385)** | **[Fantasy Sports Analyst & Social Media Intern](https://jobright.ai/jobs/info/6a7c58f683621355407a94e8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[TikTok](https://www.tiktok.com)** | **[Brand Campaign Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a604827a4b66100689cab68?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
 | ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5c3680c8e3a473cb8b1af5?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 12 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5826569838a11e5d83711d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 12 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2f9f8beace377055eb3275?utm_campaign=1065&utm_source=git)** | Seattle | On Site | Aug 12 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Annuity Marketing Data Intern](https://jobright.ai/jobs/info/6a26ba304ec8d737d6dfb927?utm_campaign=1065&utm_source=git)** | 2950 SW McClure Rd, Topeka, KS | On Site | Aug 12 |
-| ↳ | **[Annuity Marketing Data Intern](https://jobright.ai/jobs/info/6a5604c9e9b77f668bd609e3?utm_campaign=1065&utm_source=git)** | Topeka, KS, United States | On Site | Aug 12 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7c367377d5f033c4b8dda9?utm_campaign=1065&utm_source=git)** | Las Vegas Metropolitan Area, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
