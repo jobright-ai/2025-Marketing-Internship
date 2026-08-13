@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Diverse Computing, Inc.](http://diversecomputing.com/)** | **[Junior Marketing Representative Internship (Tallahassee, FL)](https://jobright.ai/jobs/info/6a7dd66d19ce4e6e9d92fc72?utm_campaign=1065&utm_source=git)** | Tallahassee, FL, United States | Hybrid | Aug 13 |
+| **[National Medal of Honor Museum](https://mohmuseum.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7dd52319ce4e6e9d92fbea?utm_campaign=1065&utm_source=git)** | Arlington, TX, United States | On Site | Aug 13 |
+| **[Rosen Group](https://rosengrouppr.com/)** | **[Part Time PR Intern](https://jobright.ai/jobs/info/6a7dd3ecb56bea5779c01e5a?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 13 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern - Communications (Fall 2026)](https://jobright.ai/jobs/info/6a7dd31de2030208f276604c?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | On Site | Aug 13 |
 | **[MarkitAds](https://markitads.com/)** | **[Fall Marketing Intern - Campus Events / Brand Ambassador](https://jobright.ai/jobs/info/6a7dcd8ead9ff00c26ba8b4b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[The Sturge-Weber Foundation](https://sturge-weber.org/who-we-are)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7dc4830cd4a0703257bcf6?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Kouhl Collective](https://kouhlcollective.my.canva.site)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7dc02c0cd4a0703257bc4a?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 13 |
@@ -120,10 +124,10 @@ For a complete list, click the following sortable link below:
 | **[University of Arkansas](http://uark.edu)** | **[Intern - Corporate and Foundation Relations](https://jobright.ai/jobs/info/6a7c97b5d77e8156a8e32c20?utm_campaign=1065&utm_source=git)** | Fayetteville, AR, United States | On Site | Aug 12 |
 | **[AZIONE](https://azionepr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a7cd57483621355407ac1e9?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[American Quarter Horse Association](http://www.AQHA.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7cd36adc3dff2d1c0c947b?utm_campaign=1065&utm_source=git)** | Amarillo, TX, United States | On Site | Aug 12 |
-| **[Hypothesis](https://www.linkedin.com/company/110412791)** | **[Content & Growth 2026 Fall Intern (Remote)](https://jobright.ai/jobs/info/6a7cd36383621355407ac139?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[Grande Cheese Company](https://www.grande.com/)** | **[Milk Marketing Intern](https://jobright.ai/jobs/info/6a7c88a077d5f033c4b8eab4?utm_campaign=1065&utm_source=git)** | Fond du Lac, WI, United States | On Site | Aug 12 |
 | **[Brightpoint](www.brightpoint.org)** | **[Corporate Internship (Chicagoland Area) Development, Advocacy, Finance, Communications or HR](https://jobright.ai/jobs/info/6a7cd1cc77d5f033c4b90c03?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 12 |
 | **[Baylor University](http://www.baylor.edu)** | **[Student Worker - Baylor Eats PR Intern](https://jobright.ai/jobs/info/6a7ccf98dc3dff2d1c0c92e9?utm_campaign=1065&utm_source=git)** | Waco, TX, United States | On Site | Aug 12 |
+| **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Fall 2026 Internship - Media Relations](https://jobright.ai/jobs/info/6a580bd58f51964c040468f9?utm_campaign=1065&utm_source=git)** | NYC Metro Area | Hybrid | Aug 12 |
 | **[ShareWell](https://www.sharewellnow.com)** | **[Content Writing Intern](https://jobright.ai/jobs/info/6a7ccf46dc3dff2d1c0c92e1?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[99 Yards](https://99yards.app)** | **[COMMUNITY ENGAGEMENT INTERN](https://jobright.ai/jobs/info/6a7ccdaa83621355407abf36?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[Jennifer Bett Communications](https://www.jenniferbett.com)** | **[Fall 2026 Internship - Affiliate Marketing](https://jobright.ai/jobs/info/6a7cc7d9d77e8156a8e3440b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
@@ -140,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Strategic Engagements & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7bd8443b399d106e4d880d?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 12 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Trade Show Internship](https://jobright.ai/jobs/info/6a3966d3649fdf1629300ada?utm_campaign=1065&utm_source=git)** | Erie, PA 16507, USA | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7cabefa346cb6c8d5ef20b?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 12 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a627dac846162391c93632e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
-| ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a38faf0649fdf16292ff2f2?utm_campaign=1065&utm_source=git)** | Bloom Austin HQ, US | On Site | Aug 12 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a38faf0649fdf16292ff2f2?utm_campaign=1065&utm_source=git)** | Bloom Austin HQ, US | On Site | Aug 12 |
+| ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a52e3e68a74e077472f67f2?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca9c977d5f033c4b8fb8b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | ↳ | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca98083621355407ab078?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 12 |
 | **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a7ca91e7c52154b59f5b873?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Southwest Value Partners](https://swvp.com)** | **[Event Services Fall Intern](https://jobright.ai/jobs/info/6a7c9c2a77d5f033c4b8f459?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 12 |
 | **[SKDK](http://skdknick.com)** | **[Fall 2026 Equity + Inclusion-Marketing Internship](https://jobright.ai/jobs/info/6a60dc7eab9bd46763248b51?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 12 |
 | **[ProCogia](http://procogia.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a7c8bc477d5f033c4b8ec60?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 12 |
-| **[Westminster University](https://westminsteru.edu)** | **[S/L Club Sports Media Intern](https://jobright.ai/jobs/info/6a7ce81977d5f033c4b9169b?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | On Site | Aug 12 |
-| **[Gift](https://www.shine.gift)** | **[Music Community Growth Intern](https://jobright.ai/jobs/info/6a7cbd03dc3dff2d1c0c8cc6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 12 |
-| **[Allkind](https://joinallkind.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a7cba3877d5f033c4b903fb?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Aug 12 |
-| **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Technical Product Marketing Manager (SMM192)](https://jobright.ai/jobs/info/6a7c8948d77e8156a8e3247a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
