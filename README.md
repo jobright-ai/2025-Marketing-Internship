@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kouhl Collective](https://kouhlcollective.my.canva.site)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7dc02c0cd4a0703257bc4a?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 13 |
+| **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Video Content & Multimedia Intern](https://jobright.ai/jobs/info/6a73a2a032ebbc14ffb5046e?utm_campaign=1065&utm_source=git)** | Jonesville, FL, United States | On Site | Aug 13 |
+| **[IMH Fragrance](https://imhfragrance.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7dbc69b56bea5779c01908?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
+| **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Communications Intern](https://jobright.ai/jobs/info/6a7db914b56bea5779c0177a?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 13 |
+| **[City of New York](https://www.nyc.gov)** | **[Communications Intern](https://jobright.ai/jobs/info/6a7daf370a156a4f2c2273d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
+| **[Texas Children's Hospital](http://texaschildrenspeople.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a70c9fb1003bd7b70d6ca60?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 13 |
+| **[Black Women in Aviation](https://www.blackwomeninaviation.com/)** | **[Marketing & Brand Coordinator Intern](https://jobright.ai/jobs/info/6a7da9a4e2030208f27658a1?utm_campaign=1065&utm_source=git)** | Delaware, United States | On Site | Aug 13 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Los Angeles](https://jobright.ai/jobs/info/6a7da504c666ed388e54e426?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 13 |
 | ↳ | **[Marketing Intern, Chartwells Higher Ed / Lamar University](https://jobright.ai/jobs/info/6a7da4f4e2030208f27657f3?utm_campaign=1065&utm_source=git)** | Beaumont, TX, United States | On Site | Aug 13 |
 | **[EDZER](www.edzer.org)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a7da2c3e51a1e18a2409f57?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Aug 13 |
+| **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55f4a821f64463ad3510b1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 13 |
 | **[Dornier MedTech](https://www.dornier.com)** | **[Marketing & Events Intern](https://jobright.ai/jobs/info/6a60f51bab9bd4676324963e?utm_campaign=1065&utm_source=git)** | Kennesaw, GA, United States | On Site | Aug 13 |
 | **[Cambridge Caregivers](https://cambridgecaregivers.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7d7c0983621355407ae22d?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Aug 13 |
 | **[Techelix](https://techelix.co/)** | **[Social Media Marketing Internship](https://jobright.ai/jobs/info/6a7d7a9bdc3dff2d1c0cb505?utm_campaign=1065&utm_source=git)** | Palm Harbor, FL, United States | On Site | Aug 13 |
@@ -73,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Influencer & Creator Partnerships Intern](https://jobright.ai/jobs/info/6a7d3265a346cb6c8d5f1d53?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Aug 12 |
 | ↳ | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6a7d325483621355407ada8a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 12 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/6a7d129c7c52154b59f5ddf7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a3f97671afc66714d3c8e74?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
-| ↳ | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cfacddc3dff2d1c0ca43e?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cfacddc3dff2d1c0ca43e?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
+| ↳ | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a3f97671afc66714d3c8e74?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
 | **[Electro](electrogum.com)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/6a7d2b39dc3dff2d1c0cad1b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Remote | Aug 12 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7c8612a346cb6c8d5ee05a?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Aug 12 |
 | **[VERVON](vervon.co)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a7d27a6a346cb6c8d5f1bfd?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Aug 12 |
@@ -131,7 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Strategic Engagements & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7bd8443b399d106e4d880d?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 12 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Trade Show Internship](https://jobright.ai/jobs/info/6a3966d3649fdf1629300ada?utm_campaign=1065&utm_source=git)** | Erie, PA 16507, USA | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7cabefa346cb6c8d5ef20b?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 12 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a52e3e68a74e077472f67f2?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a720a7a45b6af1c30dbc23b?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a38faf0649fdf16292ff2f2?utm_campaign=1065&utm_source=git)** | Bloom Austin HQ, US | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca9c977d5f033c4b8fb8b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | ↳ | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca98083621355407ab078?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 12 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Allkind](https://joinallkind.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a7cba3877d5f033c4b903fb?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | Remote | Aug 12 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Technical Product Marketing Manager (SMM192)](https://jobright.ai/jobs/info/6a7c8948d77e8156a8e3247a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 12 |
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Communications Intern](https://jobright.ai/jobs/info/6a604d5071c79e639619ae28?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
-| **[Relay](https://relayfi.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a7c921da346cb6c8d5ee6fa?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 12 |
-| **[Corporate Ink](http://www.corporateink.com/)** | **[PR and Marketing Intern](https://jobright.ai/jobs/info/6a7c970677d5f033c4b8f232?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 12 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
