@@ -70,8 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[Influencer & Creator Partnerships Intern](https://jobright.ai/jobs/info/6a7d3265a346cb6c8d5f1d53?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Aug 12 |
 | ↳ | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6a7d325483621355407ada8a?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 12 |
 | **[Progyny, Inc.](https://www.progyny.com/)** | **[Corporate Events Intern](https://jobright.ai/jobs/info/6a7d129c7c52154b59f5ddf7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cfacddc3dff2d1c0ca43e?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
-| ↳ | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a3f97671afc66714d3c8e74?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a3f97671afc66714d3c8e74?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | On Site | Aug 12 |
+| ↳ | **[FamilySearch Marketing/Communications Intern](https://jobright.ai/jobs/info/6a7cfacddc3dff2d1c0ca43e?utm_campaign=1065&utm_source=git)** | Lehi, UT, United States | Hybrid | Aug 12 |
 | **[Electro](electrogum.com)** | **[Content & Social Media Intern](https://jobright.ai/jobs/info/6a7d2b39dc3dff2d1c0cad1b?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | Remote | Aug 12 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7c8612a346cb6c8d5ee05a?utm_campaign=1065&utm_source=git)** | Sewickley, PA, United States | On Site | Aug 12 |
 | **[VERVON](vervon.co)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a7d27a6a346cb6c8d5f1bfd?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Aug 12 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[Zipline](https://www.zipline.com/)** | **[Strategic Engagements & Events Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7bd8443b399d106e4d880d?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 12 |
 | **[Erie Events](https://www.erieevents.com/)** | **[Trade Show Internship](https://jobright.ai/jobs/info/6a3966d3649fdf1629300ada?utm_campaign=1065&utm_source=git)** | Erie, PA 16507, USA | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7cabefa346cb6c8d5ef20b?utm_campaign=1065&utm_source=git)** | Cleveland, OH, United States | Hybrid | Aug 12 |
-| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a627dac846162391c93632e?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
-| ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a38faf0649fdf16292ff2f2?utm_campaign=1065&utm_source=git)** | Bloom Austin HQ, US | On Site | Aug 12 |
+| **[Nutrabolt](http://www.nutrabolt.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a38faf0649fdf16292ff2f2?utm_campaign=1065&utm_source=git)** | Bloom Austin HQ, US | On Site | Aug 12 |
+| ↳ | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a720a7a45b6af1c30dbc23b?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | **[CRWD](https://www.joincrwd.com)** | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca9c977d5f033c4b8fb8b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | ↳ | **[College Brand Ambassador Intern (Paid)](https://jobright.ai/jobs/info/6a7ca98083621355407ab078?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 12 |
 | **[genni](http://genni.com)** | **[Outreach Intern](https://jobright.ai/jobs/info/6a7ca91e7c52154b59f5b873?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | Hybrid | Aug 12 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Communications Intern](https://jobright.ai/jobs/info/6a604d5071c79e639619ae28?utm_campaign=1065&utm_source=git)** | San Diego, CA, United States | On Site | Aug 12 |
 | **[Relay](https://relayfi.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a7c921da346cb6c8d5ee6fa?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 12 |
 | **[Corporate Ink](http://www.corporateink.com/)** | **[PR and Marketing Intern](https://jobright.ai/jobs/info/6a7c970677d5f033c4b8f232?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 12 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 12 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 12 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 12 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 12 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
