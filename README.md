@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Riley Children's Foundation](http://www.rileykids.org/)** | **[Event Management Intern](https://jobright.ai/jobs/info/6a7f06b7ad9ff00c26bac693?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Aug 14 |
+| **[Drive IT](https://drivenash.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/6a7e0f2d0cd4a0703257d853?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
+| ↳ | **[Fall Marketing Intern](https://jobright.ai/jobs/info/6a7e0f1a0cd4a0703257d840?utm_campaign=1065&utm_source=git)** | Wilmington, NC, United States | On Site | Aug 14 |
+| **[Paystand](http://paystand.com)** | **[Marketing Programs Intern](https://jobright.ai/jobs/info/6a453b23c2d11a6a466686c2?utm_campaign=1065&utm_source=git)** | Santa Cruz, California, United States | On Site | Aug 14 |
 | **[Kaizo Health](https://www.kaizo-health.com/)** | **[Marketing & Outreach Intern (Fall)](https://jobright.ai/jobs/info/6a7e2638e51a1e18a240c545?utm_campaign=1065&utm_source=git)** | Fort Washington, MD, United States | On Site | Aug 14 |
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creator Marketing Intern (Monstercat)](https://jobright.ai/jobs/info/6a7e2ad119ce4e6e9d931b3e?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 13 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Fall 2026 - Social Media Marketing Internship](https://jobright.ai/jobs/info/6a7ea191b56bea5779c0692a?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | On Site | Aug 13 |
@@ -84,12 +88,12 @@ For a complete list, click the following sortable link below:
 | **[Until There's A Cure Foundation](https://www.until.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7e43b6e51a1e18a240cfdf?utm_campaign=1065&utm_source=git)** | Woodside, California, United States | Remote | Aug 13 |
 | **[Van Tec Marketing](https://vantecmarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7e76710cd4a070325803d4?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
 | **[de Anda Capital](https://www.deanda.capital/)** | **[Content Marketing Intern (Part-Time, Remote) - Start ASAP](https://jobright.ai/jobs/info/6a7e762c19ce4e6e9d9336e0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 13 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 13 |
 | **[Interplanetary Help Desk](https://www.interplanetary.org/)** | **[Intern](https://jobright.ai/jobs/info/6a7e38b719ce4e6e9d932218?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/6a7e2c29b56bea5779c042a6?utm_campaign=1065&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Aug 13 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Media Relations - Paid Intern](https://jobright.ai/jobs/info/6a7deab7b56bea5779c02595?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 13 |
@@ -128,8 +132,6 @@ For a complete list, click the following sortable link below:
 | **[Winter Construction](https://winter-construction.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7e0fef19ce4e6e9d9310e8?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 13 |
 | **[MB and Associates Public Relations](https://mbandassociatespr.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a7e0f8419ce4e6e9d93108d?utm_campaign=1065&utm_source=git)** | Marlton, NJ, United States | On Site | Aug 13 |
 | **[The Swift Club](www.theswiftclub.com)** | **[Marketing & Brand Partnerships Associate (Intern)](https://jobright.ai/jobs/info/6a7e0f800cd4a0703257d892?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Remote | Aug 13 |
-| **[Drive IT](https://drivenash.com)** | **[Fall Marketing Intern](https://jobright.ai/jobs/info/6a7e0f2d0cd4a0703257d853?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 13 |
-| ↳ | **[Fall Marketing Intern](https://jobright.ai/jobs/info/6a7e0f1a0cd4a0703257d840?utm_campaign=1065&utm_source=git)** | Wilmington, NC, United States | On Site | Aug 13 |
 | **[LIFT Auto Repair Marketing](https://liftautorepairmarketing.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a7e0d90b56bea5779c034d2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Services for the UnderServed](https://www.sus.org)** | **[Social Media Assistant Intern](https://jobright.ai/jobs/info/6a7dd8ace51a1e18a240aa3e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
 | **[Better Tomorrow Ventures](http://btv.vc)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a7e09a90cd4a0703257d502?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a0c8be2538d03366dc8e53f?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Aug 13 |
 | ↳ | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a51b9ecbf63b66c7997b928?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 13 |
 | **[Hershey Entertainment & Resorts Company](http://www.HersheyEntertainmentandResorts.com)** | **[Sales Event Intern - Spring 2027](https://jobright.ai/jobs/info/6a7ded68e2030208f27667ca?utm_campaign=1065&utm_source=git)** | Hershey, PA, United States | On Site | Aug 13 |
-| **[Bread for the World](https://www.bread.org/)** | **[Events and Philanthropy Intern](https://jobright.ai/jobs/info/6a7e3986ad9ff00c26baa558?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 13 |
-| **[Gupta Media](http://guptamedia.com)** | **[Media Intern - Fall 2026](https://jobright.ai/jobs/info/69f8f87d582f810f9c8cf83f?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
