@@ -61,9 +61,9 @@ For a complete list, click the following sortable link below:
 | **[Create Music Group](https://www.createmusicgroup.com/)** | **[Creator Marketing Intern (Monstercat)](https://jobright.ai/jobs/info/6a7e2ad119ce4e6e9d931b3e?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 13 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Fall 2026 - Social Media Marketing Internship](https://jobright.ai/jobs/info/6a7ea191b56bea5779c0692a?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | On Site | Aug 13 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7e9e9cad9ff00c26bab773?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Aug 13 |
+| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Aug 13 |
 | ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Aug 13 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Aug 13 |
+| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Aug 13 |
 | **[Idea Rebel](http://www.idearebel.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7e9a30e2030208f276a0b5?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Aug 13 |
 | **[Janji](http://janji.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a5c4e4163a8f619507cd13f?utm_campaign=1065&utm_source=git)** | Massachusetts, United States | On Site | Aug 13 |
 | **[Stacy McLaughlin Communications](https://www.smcpr.nyc/)** | **[2026 Fall Intern](https://jobright.ai/jobs/info/6a7e8ab6e2030208f2769e20?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 13 |
@@ -84,11 +84,11 @@ For a complete list, click the following sortable link below:
 | **[Until There's A Cure Foundation](https://www.until.org)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7e43b6e51a1e18a240cfdf?utm_campaign=1065&utm_source=git)** | Woodside, California, United States | Remote | Aug 13 |
 | **[Van Tec Marketing](https://vantecmarketing.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7e76710cd4a070325803d4?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 13 |
 | **[de Anda Capital](https://www.deanda.capital/)** | **[Content Marketing Intern (Part-Time, Remote) - Start ASAP](https://jobright.ai/jobs/info/6a7e762c19ce4e6e9d9336e0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 13 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 13 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 13 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 13 |
 | **[Interplanetary Help Desk](https://www.interplanetary.org/)** | **[Intern](https://jobright.ai/jobs/info/6a7e38b719ce4e6e9d932218?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Americas LoB Field Marketing](https://jobright.ai/jobs/info/6a7e2c29b56bea5779c042a6?utm_campaign=1065&utm_source=git)** | Newtown Square, Pennsylvania, United States | Hybrid | Aug 13 |
@@ -149,7 +149,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media & Content Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a7df38be51a1e18a240b1cd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 13 |
 | **[Sparkloft Media](http://sparkloftmedia.com)** | **[Social Media Intern ***Miami, FL***](https://jobright.ai/jobs/info/6a7df373e2030208f27669f9?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 13 |
 | **[Autism Speaks](https://www.autismspeaks.org/)** | **[Fall Western PA Events Intern (Remote)](https://jobright.ai/jobs/info/6a6b78f132f9300c3a3df08e?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Remote | Aug 13 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a7e34cfad9ff00c26baa3dd?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a7e3e38e51a1e18a240ce8e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 13 |
 | **[Retensa Employee Retention](http://www.retensa.com)** | **[Digital Marketing Internship (Fall 2026) - Remote](https://jobright.ai/jobs/info/6a7e0d880cd4a0703257d76b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 13 |
 | **[Next Legacy Partners](https://www.nextlegacy.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a7e0cdfe2030208f2767405?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 13 |
 | **[National Education Association](http://www.nea.org)** | **[Campaigns and Elections Intern (Volunteer)](https://jobright.ai/jobs/info/6a0c8be2538d03366dc8e53f?utm_campaign=1065&utm_source=git)** | NEA Headquarters, US | On Site | Aug 13 |
