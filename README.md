@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a802fd2e51a1e18a241821e?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA, United States | On Site | Aug 15 |
+| **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Aug 15 |
 | **[CPZ®](https://www.cpz-lab.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a80241cb56bea5779c11722?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 15 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a801f6519ce4e6e9d93d274?utm_campaign=1065&utm_source=git)** | Louisiana, United States | Hybrid | Aug 15 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/6a801ab3b56bea5779c113a7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 15 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[University Partners](http://www.universitypartners.com)** | **[Social Media Intern - Student Housing](https://jobright.ai/jobs/info/6a7f9799ad9ff00c26baf341?utm_campaign=1065&utm_source=git)** | Charlottesville, VA, United States | On Site | Aug 14 |
 | **[Salam Consulting](www.salam-consulting.com)** | **[Marketing Intern (Dallas, TX)](https://jobright.ai/jobs/info/6a7f95c2e51a1e18a241418a?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 14 |
 | **[Chefman & CHEF iQ](https://chefman.com)** | **[Social Media & Video Production Intern](https://jobright.ai/jobs/info/6a7f472fe51a1e18a2411456?utm_campaign=1065&utm_source=git)** | Mahwah, NJ, United States | Hybrid | Aug 14 |
-| **[1AM Talent Group](https://www.1amtalentgroup.com)** | **[Social Media Internship](https://jobright.ai/jobs/info/6a7f9176e2030208f276f74d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Artisan Council](https://artisancouncil.com/)** | **[Community Intern](https://jobright.ai/jobs/info/6a7f8eb6e2030208f276f5ff?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 14 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | North Miami, FL, United States | On Site | Aug 14 |
 | **[197 The Agency](https://www.197theagency.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7f8a80e2030208f276f3c5?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Hybrid | Aug 14 |
@@ -128,8 +129,8 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Fullerton](https://jobright.ai/jobs/info/6a7f4af119ce4e6e9d936b9c?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Aug 14 |
 | ↳ | **[Marketing Intern, Chartwells Higher Ed / Illinois Institute of Technology](https://jobright.ai/jobs/info/6a7f4aece51a1e18a24116b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a7f4a40927c79391ad0799d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 14 |
-| ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a62ca7f99515267a6f0000f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a614adfeaa37f43e7587f85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
+| ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a62ca7f99515267a6f0000f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 14 |
 | **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3f3ee2030208f276cacc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
 | ↳ | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (CA)](https://jobright.ai/jobs/info/6a7f3f3619ce4e6e9d93679f?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 14 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6a7f14caad9ff00c26bac8bf?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Aug 14 |
 | **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a70cd3c357dfc6ff2b3b29b?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 14 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
