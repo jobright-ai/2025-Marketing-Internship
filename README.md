@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electro](electrogum.com)** | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6a80b76be51a1e18a241a438?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | Remote | Aug 15 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Internship : Digital : Marketing Task](https://jobright.ai/jobs/info/6a80b437b56bea5779c14180?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 15 |
+| **[TikTok](https://www.tiktok.com)** | **[Digital Marketing Project Intern (TikTok Shop - Seller Marketing) - 2026 Start](https://jobright.ai/jobs/info/6a69bafb09998f68b5a6d5d8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
+| **[The Lede Company](https://ledecompany.com)** | **[Content PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a80acc0e2030208f2775853?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 15 |
+| ↳ | **[Content PR Intern (Fall 2026)](https://jobright.ai/jobs/info/6a80acba927c79391ad11cbc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
 | **[Pulchritude® Studios](http://pulchritudefashion.com)** | **[Digital Media Intern-Fashion Marketing](https://jobright.ai/jobs/info/6a80a4c1e51a1e18a2419f56?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Aug 15 |
 | **[JobAiro](https://www.linkedin.com/company/116031926)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6a80a20719ce4e6e9d93f355?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 15 |
 | **[Electro](electrogum.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a809ec5927c79391ad118b0?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Remote | Aug 15 |
@@ -70,17 +75,17 @@ For a complete list, click the following sortable link below:
 | **[Stella McCartney](http://www.stellamccartney.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6344b007dbb63736870536?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Aug 15 |
 | **[Colorado State University Environmental Learning Center](https://www.csuelc.org)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a808db519ce4e6e9d93ecb5?utm_campaign=1065&utm_source=git)** | Media, PA, United States | Remote | Aug 15 |
 | ↳ | **[Grant Writing Intern](https://jobright.ai/jobs/info/6a808d98927c79391ad11117?utm_campaign=1065&utm_source=git)** | Grant, IL, United States | Remote | Aug 15 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 15 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 15 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 15 |
 | **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
 | ↳ | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a299d13d3ec8317fe13f414?utm_campaign=1065&utm_source=git)** | New York, US | Hybrid | Aug 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a5fa1536e0c3c7c7d3d7ebb?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 15 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Aug 15 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 15 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Aug 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Aug 15 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/6a801ab3b56bea5779c113a7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 15 |
 | **[Travel Hotline](https://travel-hotline.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7fe02eb56bea5779c0fe03?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
@@ -90,6 +95,7 @@ For a complete list, click the following sortable link below:
 | **[VersaDesk](https://versadesk.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6a7fb0db19ce4e6e9d93a6a4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 14 |
 | **[UC Health](http://uchealth.com/)** | **[Video Intern, Marketing & Communications, Part TIme](https://jobright.ai/jobs/info/6a7f70bc19ce4e6e9d937e23?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Aug 14 |
 | **[Parkhurst Dining](https://www.parkhurstdining.com)** | **[Field Marketing and Engagement Intern](https://jobright.ai/jobs/info/6a7fad3ce2030208f2770773?utm_campaign=1065&utm_source=git)** | Latrobe, PA, United States | On Site | Aug 14 |
+| **[ASM Global](https://asmglobal.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a80ae0be51a1e18a241a178?utm_campaign=1065&utm_source=git)** | Charlottesville, VA, United States | On Site | Aug 14 |
 | **[THE SHARPE ALLIANCE](https://www.sharpealliance.com/)** | **[Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a7fa96219ce4e6e9d93a2c2?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | Hybrid | Aug 14 |
 | **[CrossCountry Mortgage, LLC](http://CrossCountryMortgage.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7f69af19ce4e6e9d937a84?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 14 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a7fa1a3ad9ff00c26baf83f?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
@@ -145,16 +151,10 @@ For a complete list, click the following sortable link below:
 | **[JLL](http://www.jll.com/)** | **[Capital Markets Summer 2027 Internship - New York](https://jobright.ai/jobs/info/6a7f2df7e2030208f276c46c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[TikTok Shop & Live Streaming Internship](https://jobright.ai/jobs/info/6a7f5258e2030208f276d166?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 14 |
 | **[Brilliant Agency](https://brilliantbabyproducts.com)** | **[Influencer Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a6b268cc00ae03109f826ad?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Fullerton](https://jobright.ai/jobs/info/6a7f4af119ce4e6e9d936b9c?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Aug 14 |
-| ↳ | **[Marketing Intern, Chartwells Higher Ed / Illinois Institute of Technology](https://jobright.ai/jobs/info/6a7f4aece51a1e18a24116b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Illinois Institute of Technology](https://jobright.ai/jobs/info/6a7f4aece51a1e18a24116b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a7f4a40927c79391ad0799d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 14 |
 | ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a62ca7f99515267a6f0000f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a614adfeaa37f43e7587f85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 14 |
 | **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3f3ee2030208f276cacc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
-| ↳ | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (CA)](https://jobright.ai/jobs/info/6a7f3f3619ce4e6e9d93679f?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 14 |
-| **[UNIQLO](https://www.uniqlo.com/jp/ja/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a7f3cf319ce4e6e9d936685?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 14 |
-| **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (FL)](https://jobright.ai/jobs/info/6a7f3ce2b56bea5779c09908?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 14 |
-| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cba19ce4e6e9d93666c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
-| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cb6b56bea5779c098f1?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
