@@ -128,8 +128,8 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / California State University - Fullerton](https://jobright.ai/jobs/info/6a7f4af119ce4e6e9d936b9c?utm_campaign=1065&utm_source=git)** | Fullerton, CA, United States | On Site | Aug 14 |
 | ↳ | **[Marketing Intern, Chartwells Higher Ed / Illinois Institute of Technology](https://jobright.ai/jobs/info/6a7f4aece51a1e18a24116b3?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 14 |
 | **[Method Communications](http://methodcommunications.com/)** | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a7f4a40927c79391ad0799d?utm_campaign=1065&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 14 |
-| ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a62ca7f99515267a6f0000f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a614adfeaa37f43e7587f85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
+| ↳ | **[Public Relations Graduate Associate (Hybrid - Paid Internship)](https://jobright.ai/jobs/info/6a62ca7f99515267a6f0000f?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 14 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 14 |
 | **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3f3ee2030208f276cacc?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
 | ↳ | **[2027 L'Oréal USA Summer Internship - Digital - Undergraduate (CA)](https://jobright.ai/jobs/info/6a7f3f3619ce4e6e9d93679f?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 14 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
