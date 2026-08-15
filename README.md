@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a8054ede51a1e18a2418a93?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA, United States | On Site | Aug 15 |
+| **[Zimmermann](https://us.zimmermannwear.com/)** | **[PR Intern](https://jobright.ai/jobs/info/6a806c99e2030208f277485d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
+| **[Stella McCartney](http://www.stellamccartney.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6344b007dbb63736870536?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Aug 15 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 15 |
 | **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
 | ↳ | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a299d13d3ec8317fe13f414?utm_campaign=1065&utm_source=git)** | New York, US | Hybrid | Aug 15 |
-| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a80430719ce4e6e9d93db65?utm_campaign=1065&utm_source=git)** | Louisiana, United States | Hybrid | Aug 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 15 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a2c1e2dfc0644749054849a?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Aug 15 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a5fa1536e0c3c7c7d3d7ebb?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 15 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Aug 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Aug 15 |
 | **[Dedalus Labs](https://www.dedaluslabs.ai)** | **[Growth Intern](https://jobright.ai/jobs/info/6a801ab3b56bea5779c113a7?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Aug 15 |
 | **[Travel Hotline](https://travel-hotline.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7fe02eb56bea5779c0fe03?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6a7f14caad9ff00c26bac8bf?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Aug 14 |
 | **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a70cd3c357dfc6ff2b3b29b?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 14 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
