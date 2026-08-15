@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a80430719ce4e6e9d93db65?utm_campaign=1065&utm_source=git)** | Louisiana, United States | Hybrid | Aug 15 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a606bfb71c79e639619b4e5?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 15 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a59cc2f686b4755d1e11d83?utm_campaign=1065&utm_source=git)** | United States-California-Irvine | On Site | Aug 15 |
 | **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a802fd2e51a1e18a241821e?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA, United States | On Site | Aug 15 |
 | **[Susquehanna International Group](https://www.sig.com)** | **[Marketing + Content Creation Intern: Fall 2026](https://jobright.ai/jobs/info/6a47eb724f64ba41dcb57b5f?utm_campaign=1065&utm_source=git)** | Richmond, VA, US | On Site | Aug 15 |
 | **[CPZ®](https://www.cpz-lab.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a80241cb56bea5779c11722?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 15 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[TikTok Shop & Creator Marketing Intern](https://jobright.ai/jobs/info/6a7faee4ad9ff00c26bafcb6?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Aug 14 |
 | **[Wingman Planning](https://www.wingmanplanning.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a7f7c4d927c79391ad0993f?utm_campaign=1065&utm_source=git)** | Manasquan, NJ, United States | On Site | Aug 14 |
 | **[Whatcom Land Trust](https://www.whatcomlandtrust.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a7f7b49e51a1e18a241303e?utm_campaign=1065&utm_source=git)** | Bellingham, WA, United States | On Site | Aug 14 |
-| **[SHE MD Podcast](https://www.shemdpodcast.com/about)** | **[Event Intern](https://jobright.ai/jobs/info/6a7f7920e51a1e18a2412eb8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 14 |
 | **[Gupta Media](http://guptamedia.com)** | **[Media Intern - Fall 2026](https://jobright.ai/jobs/info/69f8f87d582f810f9c8cf83f?utm_campaign=1065&utm_source=git)** | Boston, Massachusetts, United States | On Site | Aug 14 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[MEDIA RELATIONS & HOCKEY OPERATIONS INTERN](https://jobright.ai/jobs/info/6a7f7633927c79391ad094a6?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 14 |
 | ↳ | **[SOCIAL MEDIA/COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6a7f760eb56bea5779c0b89f?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 14 |
@@ -113,10 +115,11 @@ For a complete list, click the following sortable link below:
 | **[Sports Backers](https://www.sportsbackers.org)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a7f7d5419ce4e6e9d9386db?utm_campaign=1065&utm_source=git)** | Richmond, VA, United States | On Site | Aug 14 |
 | **[Red Bull](https://redbull.com)** | **[2026 Internship, Fall - Youth Programs Marketing](https://jobright.ai/jobs/info/6a7f60b1b56bea5779c0aa16?utm_campaign=1065&utm_source=git)** | Harrison, NJ, United States | Hybrid | Aug 14 |
 | **[Social View Agency](https://www.socialviewagency.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a7f5f86b56bea5779c0a94b?utm_campaign=1065&utm_source=git)** | Boulder, CO, United States | On Site | Aug 14 |
-| **[Retrofête](https://retrofete.com/)** | **[Public Relations (PR) Internship](https://jobright.ai/jobs/info/6a609ce2a4b66100689cbd39?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Aug 14 |
-| ↳ | **[Public Relations (PR) Internship](https://jobright.ai/jobs/info/6a609c88129b652e9cd295f8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
+| **[Retrofête](https://retrofete.com/)** | **[Public Relations (PR) Internship](https://jobright.ai/jobs/info/6a609c88129b652e9cd295f8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
+| ↳ | **[Public Relations (PR) Internship](https://jobright.ai/jobs/info/6a609ce2a4b66100689cbd39?utm_campaign=1065&utm_source=git)** | West Hollywood, CA, United States | On Site | Aug 14 |
 | **[Douglas Electrical Components, Inc.](https://douglaselectrical.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7f5dc8e2030208f276d6e9?utm_campaign=1065&utm_source=git)** | Randolph, New Jersey, United States | On Site | Aug 14 |
 | **[Trust for Public Land](https://www.tpl.org)** | **[Research Communications Fellow](https://jobright.ai/jobs/info/6a7f5c5ce51a1e18a2411e34?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Speedway Motorsports](https://www.speedwaymotorsports.com/)** | **[Spring/Summer Communications Intern](https://jobright.ai/jobs/info/6a8043ce927c79391ad0fcdb?utm_campaign=1065&utm_source=git)** | Harrisburg, North Carolina, United States | On Site | Aug 14 |
 | **[CouponDonation](http://www.coupondonation.com)** | **[Marketing and Sales Intern (Unpaid)](https://jobright.ai/jobs/info/6a7f5a2a927c79391ad08198?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
 | **[Navo Lashes](https://navolashes.com)** | **[Social Content Creator Intern – Part-Time (Remote)](https://jobright.ai/jobs/info/6a7f577bb56bea5779c0a4b1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 14 |
 | **[Chestnut Health Systems](http://chestnut.org/)** | **[ZZ Marketing and Communications Intern (Unpaid)](https://jobright.ai/jobs/info/6a7f56ddad9ff00c26bad98d?utm_campaign=1065&utm_source=git)** | Bloomington, IL, United States | On Site | Aug 14 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6a7f14caad9ff00c26bac8bf?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Aug 14 |
 | **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a70cd3c357dfc6ff2b3b29b?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 14 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
