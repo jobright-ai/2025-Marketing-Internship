@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Northside Hospital](http://www.northside.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a7fb18fe51a1e18a2415248?utm_campaign=1065&utm_source=git)** | Lawrenceville, GA, United States | On Site | Aug 14 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a54a4668576ec69c0153d57?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 14 |
 | **[Sweet Bamboo](https://sweetbamboo.co)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7fb139ad9ff00c26bafd49?utm_campaign=1065&utm_source=git)** | Queens, NY, United States | Hybrid | Aug 14 |
 | **[VersaDesk](https://versadesk.com)** | **[Marketing Analyst Intern](https://jobright.ai/jobs/info/6a7fb0db19ce4e6e9d93a6a4?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 14 |
 | **[UC Health](http://uchealth.com/)** | **[Video Intern, Marketing & Communications, Part TIme](https://jobright.ai/jobs/info/6a7f70bc19ce4e6e9d937e23?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Aug 14 |
@@ -148,13 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Black Diamond Networks](http://blackdiamondnet.com)** | **[Marketing  Internship](https://jobright.ai/jobs/info/6a7f14caad9ff00c26bac8bf?utm_campaign=1065&utm_source=git)** | Andover, MA, United States | On Site | Aug 14 |
 | **[Intellect Design Arena Ltd](https://www.intellectdesign.com/)** | **[Marketing Intern - Bilingual](https://jobright.ai/jobs/info/6a70cd3c357dfc6ff2b3b29b?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | On Site | Aug 14 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 14 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 14 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 14 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 14 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Intern](https://jobright.ai/jobs/info/6a7f236ab56bea5779c08ce9?utm_campaign=1065&utm_source=git)** | Washington, D.C., United States | On Site | Aug 14 |
 | **[The Courageous Steps Project](https://www.thecourageousstepsproject.org)** | **[Marketing and Communications Intern](https://jobright.ai/jobs/info/6a7f2169ad9ff00c26bacb92?utm_campaign=1065&utm_source=git)** | Bangor, ME, United States | Hybrid | Aug 14 |
-| **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/6a50dfd8fd78601961763fa1?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 14 |
+| **[Everstream Analytics](https://www.everstream.ai)** | **[Sales/Marketing Summer Internship](https://jobright.ai/jobs/info/69d58676e63cea7a8b661fb0?utm_campaign=1065&utm_source=git)** | United States (Remote) | Remote | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
