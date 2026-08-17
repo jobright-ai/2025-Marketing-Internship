@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SchoolSpring](http://www.schoolspring.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a827457b5a0ac0e84a20f34?utm_campaign=1065&utm_source=git)** | Anderson, SC, United States | On Site | Aug 16 |
 | **[The Freezing Point Co](https://www.freezingpoint.co/)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a825f59b56bea5779c1e79f?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | Hybrid | Aug 16 |
 | **[Cos Bar](http://www.cosbar.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a4e9b7b9469c0662034c0b1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 16 |
-| **[Fusion100](http://Fusion100co.com)** | **[Campus Merchandising Intern](https://jobright.ai/jobs/info/6a824c0cb56bea5779c1deda?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 16 |
 | **[PROMOFLIX.AI](https://promoflix.ai/?fpr=roger87)** | **[Marketing and Growth Intern](https://jobright.ai/jobs/info/6a8240a0927c79391ad1ba84?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 16 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a823e78e51a1e18a242276f?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 16 |
 | **[PaintLab](www.paintlabbeauty.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a82369919ce4e6e9d947a66?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Aug 16 |
@@ -80,7 +80,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a81ed65e2030208f277c6cb?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 16 |
 | ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a81ed6119ce4e6e9d9465ba?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 16 |
 | **[Red Ventures](http://www.redventures.com)** | **[We're Planning Ahead - Join the Talent Pipeline for our 2027 Business Analyst Internship](https://jobright.ai/jobs/info/6a50e6d80524e919f4a9aaf1?utm_campaign=1065&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 16 |
-| **[Natural Lands](https://natlands.org/)** | **[Development Donor Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a81d044e2030208f277bf86?utm_campaign=1065&utm_source=git)** | Media, PA, United States | On Site | Aug 16 |
+| **[Natural Lands](https://natlands.org/)** | **[Development Donor Events Intern - Fall 2026](https://jobright.ai/jobs/info/6a81d03e19ce4e6e9d945e91?utm_campaign=1065&utm_source=git)** | Media, PA, United States | On Site | Aug 16 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a820f9e19ce4e6e9d946fdc?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 16 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a820f9d927c79391ad1a99c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 16 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a81e535ad9ff00c26bb7b34?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 16 |
@@ -107,11 +107,11 @@ For a complete list, click the following sortable link below:
 | **[Zimmermann](https://us.zimmermannwear.com/)** | **[PR Intern](https://jobright.ai/jobs/info/6a806c99e2030208f277485d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 15 |
 | **[Stella McCartney](http://www.stellamccartney.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6344b007dbb63736870536?utm_campaign=1065&utm_source=git)** | New York City, New York, United States | On Site | Aug 15 |
 | **[Colorado State University Environmental Learning Center](https://www.csuelc.org)** | **[Grant Writing Intern](https://jobright.ai/jobs/info/6a808d98927c79391ad11117?utm_campaign=1065&utm_source=git)** | Grant, IL, United States | Remote | Aug 15 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 15 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 15 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 15 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 15 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 15 |
 | **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Aug 15 |
 | **[Criteo](http://www.criteo.com)** | **[Experiential Marketing Intern](https://jobright.ai/jobs/info/6a51ed67ae4052672fe9cc95?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 15 |
