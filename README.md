@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BraidHouse](http://braidhouse.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a84edcb58ded76ad8fea116?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Aug 18 |
+| **[BAZZAAL](https://bazzaal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a84edafe12474455273d2a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
+| **[Quotr.ai](https://quotr.ai/)** | **[Growth Intern (2026)](https://jobright.ai/jobs/info/6a84ec88c1a3fd7120f73f49?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | Hybrid | Aug 18 |
+| **[Lactalis Group](http://www.lactalis.fr)** | **[Marketing Intern, Brand](https://jobright.ai/jobs/info/6a84e7bcc1a3fd7120f73e80?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Aug 18 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Barnard College](https://jobright.ai/jobs/info/6a84e4da58ded76ad8fe9e79?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
+| **[Nextiva](http://www.nextiva.com)** | **[Intern, Marketing (Data Science)](https://jobright.ai/jobs/info/6a84e48f58ded76ad8fe9e2b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 18 |
+| **[Annie Aesthetic](https://www.linkedin.com/company/81969335)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a84e464c1a3fd7120f73b62?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Remote | Aug 18 |
 | **[Defense Unicorns](https://www.defenseunicorns.com)** | **[SkillBridge Intern - Technical Product Marketing Manager (SMM192)](https://jobright.ai/jobs/info/6a7c8948d77e8156a8e3247a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Go-to-Market (GTM) Strategy Intern (Fall 2026)](https://jobright.ai/jobs/info/6a849af3e12474455273b53e?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 18 |
 | **[Annie Aesthetic](https://www.linkedin.com/company/81969335)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a84ce56e12474455273cd9d?utm_campaign=1065&utm_source=git)** | Denver, CO, United States | Remote | Aug 18 |
@@ -82,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Lactalis Canada](https://lactalis.ca/)** | **[Marketing Intern, Brand](https://jobright.ai/jobs/info/6a84bad02f4f0014cae22766?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Aug 18 |
 | **[Garaga inc.](https://www.garaga.com/)** | **[Stagiaire en marketing - AUTOMNE 2026](https://jobright.ai/jobs/info/6a84ba967b33d72276257d2a?utm_campaign=1065&utm_source=git)** | Saint-Georges, Quebec, Canada | Hybrid | Aug 18 |
 | **[The Aber Group](https://www.abergroup.com/)** | **[Digital Marketing Intern (Sault Ste. Marie)](https://jobright.ai/jobs/info/6a84b9dbe12474455273c1d8?utm_campaign=1065&utm_source=git)** | Sault Ste. Marie, ON, Canada | Hybrid | Aug 18 |
-| **[Violetta Group](https://violettagroup.com)** | **[Public Relations Intern - Fashion, Design & Lifestyle](https://jobright.ai/jobs/info/6a84b9b3d34f700f87fba728?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 18 |
 | **[Resurety](https://resurety.com/)** | **[2026 Fall Marketing Intern](https://jobright.ai/jobs/info/6a8474d87b33d722762560a2?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Aug 18 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Loro Piana - Digital & E-Commerce Intern (Digital Marketing Focus)](https://jobright.ai/jobs/info/6a84b5a12f4f0014cae224a1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[AmeriLife](http://www.amerilife.com)** | **[Corporate Communications Intern](https://jobright.ai/jobs/info/6a848eb2d34f700f87fb969c?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 18 |
@@ -144,17 +150,11 @@ For a complete list, click the following sortable link below:
 | **[SpartanNash](https://www.spartannash.com/)** | **[Retail Marketing Intern](https://jobright.ai/jobs/info/6a461e53c2d11a6a4666be03?utm_campaign=1065&utm_source=git)** | Madison, Wisconsin, United States of America | On Site | Aug 18 |
 | **[Yigal Azrouël, Inc.](http://yigal-azrouel.com)** | **[Fashion Week Event Intern](https://jobright.ai/jobs/info/6a846a72e12474455273a011?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[TWL Powersports and Marine](http://www.teamwinnebagoland.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a848361d34f700f87fb9125?utm_campaign=1065&utm_source=git)** | Oshkosh, WI, United States | On Site | Aug 18 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 18 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a71fdb345b6af1c30dbbda0?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a7aab79b17cba5690367ed1?utm_campaign=1065&utm_source=git)** | Colorado Springs, CO, United States | On Site | Aug 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 18 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 18 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a61cb7eab14335fc0f19b1e?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 18 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6a30c78693c23e7fb79556?utm_campaign=1065&utm_source=git)** | Canonsburg, PA, United States | On Site | Aug 18 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a6b66375c54bc4752ce8baa?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Aug 18 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a79ae53bb6ca93ae5617d6d?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 18 |
 | **[Her Campus Media](http://www.hercampusmedia.com)** | **[Social Media & Content Creation Intern - Fall 2026](https://jobright.ai/jobs/info/6a847e3be12474455273a9c6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 18 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Fall 2026 Marketing Internship](https://jobright.ai/jobs/info/6a845a587b33d72276255640?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
-| **[Electro](electrogum.com)** | **[Growth Marketing Intern](https://jobright.ai/jobs/info/6a8460a27b33d72276255876?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Aug 18 |
-| ↳ | **[Content & Social Media Intern](https://jobright.ai/jobs/info/6a845aea58ded76ad8fe69f7?utm_campaign=1065&utm_source=git)** | Illinois, United States | Remote | Aug 18 |
-| **[Creative Expansions, Inc](cei)** | **[Great Fall Internship-Get Mentoring from the CEO](https://jobright.ai/jobs/info/6a845a59e459fa3baa85dc7f?utm_campaign=1065&utm_source=git)** | Manhattan, NY, United States | Remote | Aug 18 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Maryville College](https://jobright.ai/jobs/info/6a84585be459fa3baa85dbeb?utm_campaign=1065&utm_source=git)** | Maryville, TN, United States | On Site | Aug 18 |
-| **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Technical Product Marketing](https://jobright.ai/jobs/info/6a8389c9379c304e892f8091?utm_campaign=1065&utm_source=git)** | Grand Prairie, TX, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
