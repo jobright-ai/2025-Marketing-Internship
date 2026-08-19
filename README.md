@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OSG USA, INC.](https://www.osgtool.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a6cd37aacb0a61f9dbc7544?utm_campaign=1065&utm_source=git)** | Bensenville, IL, United States | On Site | Aug 19 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Jr. Agent PR & Partnerships Executive Intern](https://jobright.ai/jobs/info/6a4ceac035e45603c4bb1f7d?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 19 |
 | **[Techelix](https://techelix.co/)** | **[SEO Specialist - Internship](https://jobright.ai/jobs/info/6a857a73e12474455273e775?utm_campaign=1065&utm_source=git)** | Palm Harbor, FL, United States | On Site | Aug 19 |
 | **[Maverick MKG](https://www.maverickmkg.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a85798e58ded76ad8feb5e4?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Remote | Aug 19 |
@@ -80,10 +81,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations, Beauty, Food & Beverage-Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6a851f5558ded76ad8fea92b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6a851ec7e459fa3baa861d27?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations, Health & Elevated Home) - 2027 Summer](https://jobright.ai/jobs/info/6a851ec6c1a3fd7120f747e1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74a2dbaf907b0764d1f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284c3cb96192a3684e63c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74a2dbaf907b0764d1f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | **[Nextiva](http://www.nextiva.com)** | **[Intern, Marketing (Data Science)](https://jobright.ai/jobs/info/6a84e48f58ded76ad8fe9e2b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 18 |
 | **[Boys Lie](https://boyslieofficial.com)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a84bff4e459fa3baa86076a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
@@ -97,19 +98,21 @@ For a complete list, click the following sortable link below:
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a84b0cee459fa3baa86007f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
 | **[Travel + Leisure Co.](https://www.travelandleisureco.com)** | **[Community Marketing Agent](https://jobright.ai/jobs/info/6a59111d856af468ab001a3b?utm_campaign=1065&utm_source=git)** | Panama City Beach, Florida, United States | On Site | Aug 18 |
 | **[Wella Company](https://www.wellacompany.com/)** | **[Intern, OPI](https://jobright.ai/jobs/info/6a84fc1ae12474455273d4fb?utm_campaign=1065&utm_source=git)** | Calabasas, CA, United States | Hybrid | Aug 18 |
+| **[&Barr](http://andbarr.co)** | **[Spring 2027-Public Relations Internship](https://jobright.ai/jobs/info/6a859660d34f700f87fbd5d5?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 18 |
+| ↳ | **[Spring 2027-Media Internship](https://jobright.ai/jobs/info/6a85954acc81eb647e9ee620?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 18 |
 | **[HarperCollins Publishers](https://www.harpercollins.com/)** | **[Intern, Marketing (Trade) (Toronto Hybrid) (12 month contract)](https://jobright.ai/jobs/info/6a84c241d34f700f87fbabd3?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 18 |
 | **[Anderson Group Public Relations](https://andersongrouppr.com/)** | **[Fall Public Relations Internship](https://jobright.ai/jobs/info/6a853564d34f700f87fbc4c8?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Aug 18 |
 | **[BraidHouse](http://braidhouse.co)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a84edcb58ded76ad8fea116?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Aug 18 |
-| **[State Farm Agent](https://www.statefarm.com/)** | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 18 |
+| **[State Farm Agent](https://www.statefarm.com/)** | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Aug 18 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5a1f763ac7627fe9002495?utm_campaign=1065&utm_source=git)** | Glen Allen, VA, United States | On Site | Aug 18 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Aug 18 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | On Site | Aug 18 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5ddcdbf3674a0545d256ff?utm_campaign=1065&utm_source=git)** | Raytown, MO, United States | On Site | Aug 18 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5c1953686b4755d1e1af17?utm_campaign=1065&utm_source=git)** | Clarkston, MI, United States | On Site | Aug 18 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7d1c8eb0843027ae506?utm_campaign=1065&utm_source=git)** | Tempe, AZ, United States | On Site | Aug 18 |
+| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Aug 18 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5646b953b3962b910af106?utm_campaign=1065&utm_source=git)** | NY-Vestal-13850 | On Site | Aug 18 |
 | ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53f7ce8ef95364ead93f51?utm_campaign=1065&utm_source=git)** | Roswell, GA, United States | On Site | Aug 18 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a53174f8576ec69c014e979?utm_campaign=1065&utm_source=git)** | Columbus, GA, United States | On Site | Aug 18 |
-| ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a59ca4e686b4755d1e11d45?utm_campaign=1065&utm_source=git)** | Riverside, CA, United States | On Site | Aug 18 |
 | ↳ | **[Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a51af718d7d3e6cf1cc1071?utm_campaign=1065&utm_source=git)** | Garner, NC, United States | On Site | Aug 18 |
-| ↳ | **[Future Opening:  Intern - State Farm Agent Team Member](https://jobright.ai/jobs/info/6a5d32eb856af468ab0106af?utm_campaign=1065&utm_source=git)** | Jackson, GA, United States | On Site | Aug 18 |
 | **[BAZZAAL](https://bazzaal.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a84edafe12474455273d2a6?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[Quotr.ai](https://quotr.ai/)** | **[Growth Intern (2026)](https://jobright.ai/jobs/info/6a84ec88c1a3fd7120f73f49?utm_campaign=1065&utm_source=git)** | Emeryville, CA, United States | Hybrid | Aug 18 |
 | **[Lactalis Group](http://www.lactalis.fr)** | **[Marketing Intern, Brand](https://jobright.ai/jobs/info/6a84e7bcc1a3fd7120f73e80?utm_campaign=1065&utm_source=git)** | Etobicoke, Ontario, Canada | Hybrid | Aug 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blockchain Council](https://www.blockchain-council.org/)** | **[Seo Internship](https://jobright.ai/jobs/info/6a84bbc658ded76ad8fe91fe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 | **[Jamie AI](https://www.thefansdao.io/)** | **[Creator Ad Sales Intern (College)](https://jobright.ai/jobs/info/6a848acd7b33d72276256a17?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 18 |
 | **[AeroCardia](https://www.aerocardia.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a84ba97d34f700f87fba7b5?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | Hybrid | Aug 18 |
-| **[Southern Air LLC](http://www.southernairnow.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a849de7e12474455273b5f9?utm_campaign=1065&utm_source=git)** | Fort Smith, AR, United States | On Site | Aug 18 |
-| **[Apex Service Partners](https://apexservicepartners.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a849c9d2f4f0014cae21a3f?utm_campaign=1065&utm_source=git)** | Fort Smith, AR, United States | On Site | Aug 18 |
-| **[Puff Media](https://www.puffmedia.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a84c3d5d34f700f87fbacec?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
