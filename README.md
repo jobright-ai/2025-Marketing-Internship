@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a84cba258ded76ad8fe9ad2?utm_campaign=1065&utm_source=git)** | Del Valle, TX, United States | On Site | Aug 19 |
+| **[MCoBeauty](https://mcobeauty.com)** | **[Influencer Marketing Intern](https://jobright.ai/jobs/info/6a855dffc1a3fd7120f74da1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
+| ↳ | **[Social Media & Community Intern](https://jobright.ai/jobs/info/6a855d3be459fa3baa862361?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 19 |
 | **[BD](https://www.bd.com)** | **[Biosurgery Marketing Intern](https://jobright.ai/jobs/info/6a846df27b33d72276255c86?utm_campaign=1065&utm_source=git)** | Warwick, Rhode Island, United States | On Site | Aug 18 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Healthcare Marketer - Intern (Unpaid)](https://jobright.ai/jobs/info/6a55cff9ec54dd532d813e30?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | Hybrid | Aug 18 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a3436da649fdf16292f4af7?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 18 |
@@ -65,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations, Beauty, Food & Beverage-Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6a851f5558ded76ad8fea92b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations，Beauty, Food & Beverage) - 2027 Summer](https://jobright.ai/jobs/info/6a851ec7e459fa3baa861d27?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations, Health & Elevated Home) - 2027 Summer](https://jobright.ai/jobs/info/6a851ec6c1a3fd7120f747e1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 18 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7363eeac101cfa9bfc7?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74a2dbaf907b0764d1f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284c3cb96192a3684e63c?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 18 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74a2dbaf907b0764d1f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 18 |
 | **[Nextiva](http://www.nextiva.com)** | **[Intern, Marketing (Data Science)](https://jobright.ai/jobs/info/6a84e48f58ded76ad8fe9e2b?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 18 |
 | **[iconic](https://iconicartistsgroup.com)** | **[Intern, A&R Research](https://jobright.ai/jobs/info/6a851017c1a3fd7120f74613?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 18 |
 | **[Mainsail Lodging & Development](http://mainsailhotels.com)** | **[Social Media Community & Paid Media Specialist](https://jobright.ai/jobs/info/6a84c010d34f700f87fbaab9?utm_campaign=1065&utm_source=git)** | Tampa, FL, United States | Hybrid | Aug 18 |
@@ -120,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Qode Social](https://www.qodesocial.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a84b1ccd34f700f87fba416?utm_campaign=1065&utm_source=git)** | North York, ON, Canada | On Site | Aug 18 |
 | **[UPS](http://www.ups.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8495f7e459fa3baa85f539?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 18 |
 | **[Block+Tackle](https://block-tackle.com)** | **[Marketing Operations Intern](https://jobright.ai/jobs/info/6a84b14b58ded76ad8fe8d10?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 18 |
-| **[Cache](https://trustcache.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a84b14858ded76ad8fe8d0e?utm_campaign=1065&utm_source=git)** | Utah, United States | Hybrid | Aug 18 |
 | **[Praytell](http://www.praytellagency.com/)** | **[Public Relations & Social Media Intern](https://jobright.ai/jobs/info/6a82b9ab2dbaf907b0764a7e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 18 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Marketing (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a84b0cee459fa3baa86007f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 18 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a84aa1a7b33d722762576d4?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Versaunt](https://www.versaunt.com)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/6a84bf952f4f0014cae229ec?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 18 |
 | **[Sayles & Winnikoff Communications](https://www.sayleswinnikoff.com/)** | **[Social Media & Public Relations -  2026 Intern](https://jobright.ai/jobs/info/6a84869f58ded76ad8fe7c1f?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 18 |
 | **[MCA](http://www.marcomcontentbyashley.com)** | **[Digital Marketing Internship](https://jobright.ai/jobs/info/6a8484e97b33d72276256741?utm_campaign=1065&utm_source=git)** | North Canton, OH, United States | Remote | Aug 18 |
-| **[FTI Consulting](http://www.fticonsulting.com)** | **[2027 Intern - Strategic Communications](https://jobright.ai/jobs/info/6a6756eb5d2a117fb9ceb018?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 18 |
-| **[TechSmith](http://www.techsmith.com)** | **[Digital Events Intern (Paid Internship)](https://jobright.ai/jobs/info/6a8482fb58ded76ad8fe7a3b?utm_campaign=1065&utm_source=git)** | East Lansing, MI, United States | Hybrid | Aug 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
