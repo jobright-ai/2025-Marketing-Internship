@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smile Doctors](https://smiledoctors.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8c6ace1d96e6541c8c0974?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Aug 24 |
+| **[D.S. & DURGA](https://dsanddurga.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8cb156cde3717f9e9bec4c?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 24 |
+| **[The Plug Drink](https://theplugdrink.com/)** | **[Copywriting Intern](https://jobright.ai/jobs/info/6a8cb0512f736c304f2a75a8?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 24 |
+| **[GenAIx](https://genaix.org)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8cafa025fc4e7ae3db9ecb?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
+| **[Backlinkgen](https://backlinkgen.com)** | **[Online -: Marketing - Internship](https://jobright.ai/jobs/info/6a8caf3a1d96e6541c8c26e0?utm_campaign=1065&utm_source=git)** | Lucknow, Ontario, Canada | Remote | Aug 24 |
+| **[National Indemnity Company](https://www.nationalindemnity.com/)** | **[Marketing Communications Intern](https://jobright.ai/jobs/info/6a8c77b725fc4e7ae3db8809?utm_campaign=1065&utm_source=git)** | Omaha, NE, United States | On Site | Aug 24 |
 | **[KU Memorial Unions](http://union.ku.edu)** | **[Student Social Media Intern](https://jobright.ai/jobs/info/6a8cae0a2f736c304f2a7432?utm_campaign=1065&utm_source=git)** | Lawrence, KS, United States | On Site | Aug 24 |
 | **[Havertys Furniture](https://www.havertys.com)** | **[Marketing Intern Job Details / Haverty Furniture Companies, Inc](https://jobright.ai/jobs/info/6a8cad12cde3717f9e9be995?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 24 |
 | **[Hilltop Securities Inc.](https://www.hilltopsecurities.com)** | **[Intern - Wealth Management (Plano, TX)](https://jobright.ai/jobs/info/6a8cab2625fc4e7ae3db9bfc?utm_campaign=1065&utm_source=git)** | Plano, TX, United States | On Site | Aug 24 |
@@ -125,6 +131,7 @@ For a complete list, click the following sortable link below:
 | **[NU Media Holdings](https://www.nu.marketing)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a8c6e8a1d96e6541c8c0b45?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
 | **[TAKSHILA Inc](https://takshila.co)** | **[Founder's Office Internship Program](https://jobright.ai/jobs/info/6a8c6d80581f2d7bfdfe37b1?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
 | **[IFAB Engineering Partners Ltd.](https://www.ifabpartners.com)** | **[Business Development/Marketing Intern](https://jobright.ai/jobs/info/6a8c6c7e25fc4e7ae3db8265?utm_campaign=1065&utm_source=git)** | Duluth, GA, United States | On Site | Aug 24 |
+| **[Balanced Body](https://www.pilates.com/)** | **[Part-Time Social Media Intern](https://jobright.ai/jobs/info/6a8cb301d34f700f87fd2399?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 24 |
 | **[Good Agriculture](https://goodagriculture.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8c6b40581f2d7bfdfe36b4?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Remote | Aug 24 |
 | **[ChicknLegs](https://www.chicknlegs.com)** | **[Field Marketing Internship](https://jobright.ai/jobs/info/6a8c6a3e1d96e6541c8c092c?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 24 |
 | **[AccessWave](https://theaccesswave.com)** | **[Intern, Programming and Events](https://jobright.ai/jobs/info/6a79e5f9a26ccc369f83b4cb?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 24 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Caplugs](http://www.caplugs.com)** | **[Product Management Marketing Intern](https://jobright.ai/jobs/info/6a8c4cd12f736c304f2a4d61?utm_campaign=1065&utm_source=git)** | Buffalo, NY, United States | On Site | Aug 24 |
 | **[Northwest Cancer Centers NWI](https://www.nccindiana.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8c4bead34f700f87fcf989?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Aug 24 |
 | **[Virginia Cancer Specialists, P.C.](https://virginiacancerspecialists.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8c4b741d96e6541c8bfe38?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Aug 24 |
-| **[Comprehensive Cancer Centers of Nevada](https://cccnevada.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8c4a4125fc4e7ae3db7662?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Remote | Aug 24 |
-| **[Michigan Republican Party](https://mi.gop)** | **[Campaign Intern](https://jobright.ai/jobs/info/6a8c44df1d96e6541c8bfd28?utm_campaign=1065&utm_source=git)** | Detroit metropolitan area, United States | On Site | Aug 24 |
-| **[Electro](electrogum.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a8c428ecde3717f9e9bc180?utm_campaign=1065&utm_source=git)** | Georgia, United States | Remote | Aug 24 |
-| **[BNY](https://www.bny.com)** | **[2027 BNY Summer Internship Program - Marketing (Pittsburgh, PA)](https://jobright.ai/jobs/info/6a8c3f5ccde3717f9e9bc038?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Aug 24 |
-| ↳ | **[2027 BNY Summer Internship Program - Marketing (New York, NY)](https://jobright.ai/jobs/info/6a8c3f592f736c304f2a49d0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 24 |
-| **[Acadium](http://www.acadium.com)** | **[WordPress and Web Design Intern](https://jobright.ai/jobs/info/6a8c38c625fc4e7ae3db71f8?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 24 |
-| **[Deutsche Börse Group](http://www.deutsche-boerse.com)** | **[Intern - Eurex Marketing (f/m/d)](https://jobright.ai/jobs/info/6a86f60b4afae74a08345dcf?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
