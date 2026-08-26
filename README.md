@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Part-Time Donor Growth Intern](https://jobright.ai/jobs/info/6a8ebfb7f841e649a718f111?utm_campaign=1065&utm_source=git)** | Greater Cincinnati | On Site | Aug 26 |
+| **[Tangle Teezer Ltd](http://www.tangleteezer.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ebb58309e5f2248708c3e?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 26 |
+| **[International Rescue Committee](http://www.rescue.org)** | **[Social Media Intern (Unpaid)](https://jobright.ai/jobs/info/6a71ffe945b6af1c30dbbea1?utm_campaign=1065&utm_source=git)** | New York, New York, United States | Hybrid | Aug 26 |
+| **[General Mills](http://www.generalmills.com)** | **[Internship - Associate Brand Manager](https://jobright.ai/jobs/info/6a73055932ebbc14ffb4cf7f?utm_campaign=1065&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 26 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
 | ↳ | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
 | **[Jem Social](https://jem.social)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ea7662808f771d528895c?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
@@ -112,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Communications and Outreach Intern](https://jobright.ai/jobs/info/6a8ddf52581f2d7bfdfe9a0d?utm_campaign=1065&utm_source=git)** | La Crescenta-Montrose, CA, United States | On Site | Aug 25 |
 | **[RiseWell](https://risewell.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8df371cc0cf2706852638b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
 | **[DGPerry CPAs + Advisors](https://dgperry.com)** | **[Fall 2026 Marketing Intern](https://jobright.ai/jobs/info/6a8de3a025fc4e7ae3dbe6be?utm_campaign=1065&utm_source=git)** | Canfield, OH, United States | On Site | Aug 25 |
-| **[HNTB](http://www.hntb.com/)** | **[Communications & Engagement Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd3adcc0cf2706852581e?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 25 |
+| **[HNTB](http://www.hntb.com/)** | **[Communications & Engagement Intern - Summer 2027](https://jobright.ai/jobs/info/6a8dd2ad25fc4e7ae3dbe092?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Aug 25 |
 | ↳ | **[Returning Communications & Graphics Intern - Summer 2027 (For Current/Former HNTB Interns Only)](https://jobright.ai/jobs/info/6a8dc217d34f700f87fd5b06?utm_campaign=1065&utm_source=git)** | Raleigh, NC, United States | On Site | Aug 25 |
 | **[Groundwork Collaborative](https://www.groundworkcollaborative.org/)** | **[Communications Intern](https://jobright.ai/jobs/info/6a6b25ba5c54bc4752ce756e?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Aug 25 |
 | **[UPS](http://www.ups.com)** | **[MBA Marketing Summer 2027 Intern](https://jobright.ai/jobs/info/6a8dbc6ad34f700f87fd57c3?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 25 |
@@ -131,7 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Milwaukee Bucks Foundation Intern](https://jobright.ai/jobs/info/6a8e1c5325fc4e7ae3dbfc7e?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 25 |
 | **[Zipline](https://www.zipline.com/)** | **[Marketing Intern (Spring 2027)](https://jobright.ai/jobs/info/6a8d104f581f2d7bfdfe699b?utm_campaign=1065&utm_source=git)** | South San Francisco, CA, United States | On Site | Aug 25 |
 | **[Louis Vuitton](https://www.louisvuitton.com)** | **[Men's Merchandising Intern - Fall 2026](https://jobright.ai/jobs/info/6a8dd71d581f2d7bfdfe9750?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 25 |
-| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6a8e18bfa5639a48103298b9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 25 |
+| **[Milwaukee Bucks Inc.](http://bucks.com)** | **[Integrated Marketing Intern](https://jobright.ai/jobs/info/6a8e1c42581f2d7bfdfeb1a0?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 25 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Marketing - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8db820581f2d7bfdfe889b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
 | **[Miller Electric Mfg. LLC](https://www.millerwelds.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8dd48725fc4e7ae3dbe11c?utm_campaign=1065&utm_source=git)** | Appleton, WI, United States | On Site | Aug 25 |
 | **[Lee's Summit Chamber of Commerce](https://lschamber.com)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a8dd3f7a5639a4810327ef2?utm_campaign=1065&utm_source=git)** | Lees Summit, MO, United States | On Site | Aug 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Swift Club](www.theswiftclub.com)** | **[Social Media and Digital Marketing Associate (Intern)](https://jobright.ai/jobs/info/6a8dc01b25fc4e7ae3dbd712?utm_campaign=1065&utm_source=git)** | Charleston, SC, United States | Remote | Aug 25 |
 | **[We Are MULTIPLY](https://wearemultip.ly/)** | **[Fall Intern (PR)](https://jobright.ai/jobs/info/6a8dbc66a5639a48103271e5?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Remote | Aug 25 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Marketing - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8dbbc9581f2d7bfdfe899f?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 25 |
-| **[Acutec Precision Aerospace, Inc.](http://acutecprecision.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a74c054bb6ca93ae560bbe0?utm_campaign=1065&utm_source=git)** | Meadville, PA, United States | On Site | Aug 25 |
-| **[Ohio Wesleyan University](http://www.owu.edu/)** | **[Social Media MC Intern-SW](https://jobright.ai/jobs/info/6a8df377cc0cf27068526392?utm_campaign=1065&utm_source=git)** | Delaware, OH, United States | On Site | Aug 25 |
-| **[Alliance for American Leadership](https://www.linkedin.com/company/106629819)** | **[Development & Fundraising Intern (Volunteer)](https://jobright.ai/jobs/info/6a8daffc47679c68bf5e3f04?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Aug 25 |
-| **[Boeing](https://www.boeing.com)** | **[Boeing Summer 2027 Internship Program (Paid) – Communications Intern](https://jobright.ai/jobs/info/6a70fa42e2b7476e7b20c2a7?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | On Site | Aug 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
