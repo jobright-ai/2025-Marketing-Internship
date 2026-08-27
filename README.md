@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a8ff6437c32860d14cf73d5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
+| ↳ | **[Creator Marketing Project intern (TikTok Shop - US Operations) - 2026 Start](https://jobright.ai/jobs/info/6a8ff63f7c32860d14cf73d4?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 27 |
+| **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a8ff2b80bd89e205d24826a?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 27 |
 | **[Women Speak Up](https://www.womenspeakupus.org)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a8fe336a19886486675ecbd?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
 | **[Palmetto Sitework Services](https://www.palmettositeworkservices.com)** | **[Content Creator / Marketing Intern](https://jobright.ai/jobs/info/6a6a4b3a0b42f866b6197d8b?utm_campaign=1065&utm_source=git)** | North Charleston, SC, United States | On Site | Aug 26 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a8fd994d96ad228f125ecb0?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 26 |
@@ -116,7 +119,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[NIL & Athlete Marketing Intern](https://jobright.ai/jobs/info/6a8f33103ac3a34f92d80106?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 26 |
 | **[K9s For Warriors](https://www.k9sforwarriors.org/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8fec010bd89e205d24817b?utm_campaign=1065&utm_source=git)** | Ponte Vedra, FL, United States | On Site | Aug 26 |
 | **[ProCogia](http://procogia.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a7c8bc477d5f033c4b8ec60?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 26 |
-| **[School Specialty](http://www.schoolspecialty.com)** | **[Merchandising Operations and Product Lifecycle Internship - Summer 2027 (Onsite- Greenville WI)](https://jobright.ai/jobs/info/6a8efe83382b237ac80c3a67?utm_campaign=1065&utm_source=git)** | Greenville, WI, United States | On Site | Aug 26 |
+| **[School Specialty](http://www.schoolspecialty.com)** | **[Merchandising Operations and Product Lifecycle Internship - Summer 2027 (Onsite- Greenville WI)](https://jobright.ai/jobs/info/6a8eff623ac3a34f92d7ef5d?utm_campaign=1065&utm_source=git)** | Greenville, WI, United States | On Site | Aug 26 |
 | **[Canadian Tire Corporation](https://corp.canadiantire.ca)** | **[Banking Analytics Student (4 months) - Winter 2027](https://jobright.ai/jobs/info/6a8f0915d7c91d0cf446d297?utm_campaign=1065&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 26 |
 | **[American Express](http://www.americanexpress.com)** | **[Campus Undergraduate Summer Internship Program - 2027 Marketing Operations, US Consumer Services - New York, NY](https://jobright.ai/jobs/info/6a7243ceee751e0c79347dd1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[Starbeam](www.starbeam.org)** | **[Sales and Marketing Intern](https://jobright.ai/jobs/info/6a8f24fa309e5f224870a9fd?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Hybrid | Aug 26 |
@@ -149,12 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2027 Co-op - Affiliate & Creator Marketplace](https://jobright.ai/jobs/info/6a8e1678cc0cf27068527101?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 26 |
 | **[MKS Inc.](https://www.mks.com)** | **[Fall 2026 Technical Product Marketing Undergraduate Intern](https://jobright.ai/jobs/info/6a85f7d1e459fa3baa8650ab?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 26 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a8eff20f841e649a71900a2?utm_campaign=1065&utm_source=git)** | Marietta, GA, United States | On Site | Aug 26 |
-| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
-| ↳ | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
+| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
+| ↳ | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
 | **[Ag Valley Co-op](https://agvalley.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ef9b9d7c91d0cf446cd03?utm_campaign=1065&utm_source=git)** | Arapahoe, Nebraska, United States | On Site | Aug 26 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Autumn Sales and Marketing Intern](https://jobright.ai/jobs/info/6a552bc4f2c46727285f04e0?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 26 |
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Video Content & Multimedia Intern](https://jobright.ai/jobs/info/6a73a2a032ebbc14ffb5046e?utm_campaign=1065&utm_source=git)** | Jonesville, FL, United States | On Site | Aug 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Marketing Internship](https://jobright.ai/jobs/info/6a1d7de7b524ae49285a6712?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Aug 26 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a8a31ced34f700f87fcc9b5?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a8986b3cde3717f9e9b84a6?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
