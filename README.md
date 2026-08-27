@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Idori](https://idori.com/)** | **[Marketing/Business Development Internship](https://jobright.ai/jobs/info/6a8faf018ffa38557e6c9f0b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 26 |
 | **[Kognitos](https://www.kognitos.com)** | **[Marketing Intern (AI-Native)](https://jobright.ai/jobs/info/6a8f66cbd96ad228f125d9fc?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Remote | Aug 26 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a6221321e089c0cc884a9c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Fizz](https://fizz.social/)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/6a8f929ad96ad228f125e23a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
@@ -91,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Novokind (Zestique Brands)](https://a.co/d/gvwGCNf)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a8f4a82f841e649a7191994?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern Fall 2026](https://jobright.ai/jobs/info/6a8f49cf3ac3a34f92d807e2?utm_campaign=1065&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Aug 26 |
 | **[RC Outfitters](rcoutfitters.com)** | **[Content and Marketing Intern](https://jobright.ai/jobs/info/6a8f458ed7c91d0cf446e6d9?utm_campaign=1065&utm_source=git)** | Peoria Metropolitan Area, United States | On Site | Aug 26 |
-| **[DORIAN WHO](http://WWW.DORIANWHO.COM)** | **[Remote Social Media Internship](https://jobright.ai/jobs/info/6a8f43d2f841e649a719179f?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 26 |
 | **[Electro](electrogum.com)** | **[Campus Ambassador Intern](https://jobright.ai/jobs/info/6a8f40e5382b237ac80c505c?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Aug 26 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8f085bd7c91d0cf446d282?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[underscore works](http://underscore.works)** | **[Intern - Fall 2026](https://jobright.ai/jobs/info/6a8f81850bd89e205d246ffa?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 26 |
@@ -137,20 +137,20 @@ For a complete list, click the following sortable link below:
 | **[MKS Inc.](https://www.mks.com)** | **[Fall 2026 Technical Product Marketing Undergraduate Intern](https://jobright.ai/jobs/info/6a85f7d1e459fa3baa8650ab?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 26 |
 | **[Enlightened ATL](https://enlightened-atl.com)** | **[Intern](https://jobright.ai/jobs/info/6a8eff20f841e649a71900a2?utm_campaign=1065&utm_source=git)** | Marietta, GA, United States | On Site | Aug 26 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8efdcbf841e649a719003b?utm_campaign=1065&utm_source=git)** | Newark, DE, United States | On Site | Aug 26 |
-| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
-| ↳ | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
+| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
+| ↳ | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
 | **[Ag Valley Co-op](https://agvalley.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ef9b9d7c91d0cf446cd03?utm_campaign=1065&utm_source=git)** | Arapahoe, Nebraska, United States | On Site | Aug 26 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Autumn Sales and Marketing Intern](https://jobright.ai/jobs/info/6a552bc4f2c46727285f04e0?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 26 |
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Video Content & Multimedia Intern](https://jobright.ai/jobs/info/6a73a2a032ebbc14ffb5046e?utm_campaign=1065&utm_source=git)** | Jonesville, FL, United States | On Site | Aug 26 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a8986b3cde3717f9e9b84a6?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a8a31ced34f700f87fcc9b5?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 26 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a8a31ced34f700f87fcc9b5?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a8986b3cde3717f9e9b84a6?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 26 |
 | **[Iowa Sports Foundation](https://www.iowasportsfoundation.org)** | **[Spring & Summer Event Management Internship](https://jobright.ai/jobs/info/6a8ef022382b237ac80c352b?utm_campaign=1065&utm_source=git)** | Ames, IA, United States | On Site | Aug 26 |
 | **[Acadium](http://www.acadium.com)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/6a8eecc6f841e649a718fa23?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Hesed House](https://hesedhouse.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a8f403f309e5f224870b146?utm_campaign=1065&utm_source=git)** | Aurora, IL, United States | On Site | Aug 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Marketing Internship](https://jobright.ai/jobs/info/6a1d313f6b135014dbc9557e?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 26 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Data Mining & Email Marketing Intern](https://jobright.ai/jobs/info/6a8ee64c3ac3a34f92d7e6b7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 26 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 26 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a1d6600b524ae49285a625a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Aug 26 |
 | ↳ | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a491dcd971cd25b06f94f6e?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | Hybrid | Aug 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern II (Economic Development/Marketing)](https://jobright.ai/jobs/info/6a8dc323cc0cf27068524f51?utm_campaign=1065&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 26 |
