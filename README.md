@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Spring 2027](https://jobright.ai/jobs/info/6a8ed44fa10ee661e24d5158?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a8c93cf2f736c304f2a6a11?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Aug 26 |
+| **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Community Relations Intern (Onsite)](https://jobright.ai/jobs/info/6a8f788c0bd89e205d246ebe?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 26 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Spring 2027](https://jobright.ai/jobs/info/6a8ed44fa10ee661e24d5158?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[Kognitos](https://www.kognitos.com)** | **[Marketing Intern (AI-Native)](https://jobright.ai/jobs/info/6a8f66cbd96ad228f125d9fc?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Remote | Aug 26 |
 | **[Pacers Sports & Entertainment](http://www.pacers.com)** | **[Digital Marketing Intern, Retail - Fall 2026](https://jobright.ai/jobs/info/6a8f664c0bd89e205d246af0?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 26 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a8f6553a19886486675d6d8?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 26 |
@@ -93,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Pomona Valley Hospital Medical Center](http://www.pvhmc.org)** | **[MARKETING & COMMUNICATIONS INTERN](https://jobright.ai/jobs/info/6a8f3821309e5f224870af06?utm_campaign=1065&utm_source=git)** | Pomona, CA, United States | On Site | Aug 26 |
 | **[Stride, Inc.](https://www.stridelearning.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a887c23680f314a29d3c29d?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[JLK Architects](http://www.jlkarch.com/)** | **[Graduate Marketing Intern](https://jobright.ai/jobs/info/6a8f368ba10ee661e24d717e?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 26 |
-| **[SoundMarket](http://www.soundmarket.io)** | **[Marketing Internship — SoundMarket](https://jobright.ai/jobs/info/6a8f3571309e5f224870ae54?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 26 |
 | **[The Familie](https://thefamilie.com)** | **[Athlete Brand & Social Marketing Intern](https://jobright.ai/jobs/info/6a8f337fd7c91d0cf446e1a1?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 26 |
 | ↳ | **[NIL & Athlete Marketing Intern](https://jobright.ai/jobs/info/6a8f33103ac3a34f92d80106?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Aug 26 |
 | **[ProCogia](http://procogia.com/)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a7c8bc477d5f033c4b8ec60?utm_campaign=1065&utm_source=git)** | Vancouver, BC, Canada | On Site | Aug 26 |
@@ -135,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8efdcbf841e649a719003b?utm_campaign=1065&utm_source=git)** | Newark, DE, United States | On Site | Aug 26 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Dallas](https://jobright.ai/jobs/info/6a8ea7d08f361f0a533d69e9?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | Hybrid | Aug 26 |
 | ↳ | **[Fall Intern - Atlanta](https://jobright.ai/jobs/info/6a8ea7d7b93d14258ab45bc7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 26 |
-| **[On Location Tours](https://onlocationtours.com)** | **[Tourism Social Media Engagement Intern — Fall 2026](https://jobright.ai/jobs/info/6a8efaca382b237ac80c3905?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 26 |
 | **[Ag Valley Co-op](https://agvalley.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ef9b9d7c91d0cf446cd03?utm_campaign=1065&utm_source=git)** | Arapahoe, Nebraska, United States | On Site | Aug 26 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Autumn Sales and Marketing Intern](https://jobright.ai/jobs/info/6a552bc4f2c46727285f04e0?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 26 |
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Video Content & Multimedia Intern](https://jobright.ai/jobs/info/6a73a2a032ebbc14ffb5046e?utm_campaign=1065&utm_source=git)** | Jonesville, FL, United States | On Site | Aug 26 |
@@ -146,8 +145,8 @@ For a complete list, click the following sortable link below:
 | **[Hesed House](https://hesedhouse.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a8f403f309e5f224870b146?utm_campaign=1065&utm_source=git)** | Aurora, IL, United States | On Site | Aug 26 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Marketing Internship](https://jobright.ai/jobs/info/6a1d313f6b135014dbc9557e?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA, US | On Site | Aug 26 |
 | **[GAOTek Inc.](https://www.gaotek.com)** | **[Data Mining & Email Marketing Intern](https://jobright.ai/jobs/info/6a8ee64c3ac3a34f92d7e6b7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 26 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 26 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 26 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 26 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 26 |
 | **[Insomniac Events](http://insomniac.com)** | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a1d6600b524ae49285a625a?utm_campaign=1065&utm_source=git)** | Calabasas, CA | On Site | Aug 26 |
 | ↳ | **[Insomniac - Paid Fall Community Engagement Intern](https://jobright.ai/jobs/info/6a491dcd971cd25b06f94f6e?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | Hybrid | Aug 26 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern II (Economic Development/Marketing)](https://jobright.ai/jobs/info/6a8dc323cc0cf27068524f51?utm_campaign=1065&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Insomniac - Paid Fall Music Group Marketing Intern](https://jobright.ai/jobs/info/6a51af0eae4052672fe98f36?utm_campaign=1065&utm_source=git)** | Calabasas, CA, USA | On Site | Aug 26 |
 | **[American Foundation for Suicide Prevention](https://afsp.org/)** | **[Chapter Intern](https://jobright.ai/jobs/info/6a8f0af03ac3a34f92d7f344?utm_campaign=1065&utm_source=git)** | Wisconsin, United States | Remote | Aug 26 |
 | **[Dynamic Catholic](https://dynamiccatholic.com/)** | **[Part-Time Donor Growth Intern](https://jobright.ai/jobs/info/6a8ebfb7f841e649a718f111?utm_campaign=1065&utm_source=git)** | Greater Cincinnati | On Site | Aug 26 |
+| **[NXP Semiconductors](https://www.nxp.com)** | **[2026 Intern - Product Marketing - DES](https://jobright.ai/jobs/info/6a7306736a034212ea025954?utm_campaign=1065&utm_source=git)** | Shanghai, VA, United States | Hybrid | Aug 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
