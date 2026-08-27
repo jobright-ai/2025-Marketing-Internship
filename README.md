@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kognitos](https://www.kognitos.com)** | **[Marketing Intern (AI-Native)](https://jobright.ai/jobs/info/6a8f66cbd96ad228f125d9fc?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Remote | Aug 26 |
+| **[FamFluence Talent Management](https://famfluence.com)** | **[Influencer Gifting/PR Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a6221321e089c0cc884a9c9?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Fizz](https://fizz.social/)** | **[Social Media Manager Intern](https://jobright.ai/jobs/info/6a8f929ad96ad228f125e23a?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[FamFluence Talent Management](https://famfluence.com)** | **[Social Media Marketing Internship (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a60cf7ac752926c22682386?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / George Washington University](https://jobright.ai/jobs/info/6a8f8cc67c32860d14cf623b?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Aug 26 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Social Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a8c93cf2f736c304f2a6a11?utm_campaign=1065&utm_source=git)** | Culver City, CA, United States | On Site | Aug 26 |
 | **[Schreiber Foods](https://www.schreiberfoods.com/en-us)** | **[Community Relations Intern (Onsite)](https://jobright.ai/jobs/info/6a8f788c0bd89e205d246ebe?utm_campaign=1065&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Spring 2027](https://jobright.ai/jobs/info/6a8ed44fa10ee661e24d5158?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
-| **[Kognitos](https://www.kognitos.com)** | **[Marketing Intern (AI-Native)](https://jobright.ai/jobs/info/6a8f66cbd96ad228f125d9fc?utm_campaign=1065&utm_source=git)** | San Jose, California, United States | Remote | Aug 26 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Shop Intern](https://jobright.ai/jobs/info/6a8f6553a19886486675d6d8?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 26 |
 | **[Innovative Ag Services](https://www.innovativeag.com)** | **[2027 Summer Internship -  Grain Origination](https://jobright.ai/jobs/info/6a8f34f03ac3a34f92d80190?utm_campaign=1065&utm_source=git)** | Hubbard, IA, United States | On Site | Aug 26 |
 | **[Procter & Gamble](https://us.pg.com)** | **[Digital Marketing Technology Internship](https://jobright.ai/jobs/info/6a8ca1dc2f736c304f2a6eca?utm_campaign=1065&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 26 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Currence](https://www.currence.ai/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8f4c5d382b237ac80c53a7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 26 |
 | **[Novokind (Zestique Brands)](https://a.co/d/gvwGCNf)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a8f4a82f841e649a7191994?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Intern Fall 2026](https://jobright.ai/jobs/info/6a8f49cf3ac3a34f92d807e2?utm_campaign=1065&utm_source=git)** | Thousand Oaks, CA, United States | On Site | Aug 26 |
-| **[The Patel Comics](https://thepatelcomics.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a8f47f7309e5f224870b391?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[RC Outfitters](rcoutfitters.com)** | **[Content and Marketing Intern](https://jobright.ai/jobs/info/6a8f458ed7c91d0cf446e6d9?utm_campaign=1065&utm_source=git)** | Peoria Metropolitan Area, United States | On Site | Aug 26 |
 | **[DORIAN WHO](http://WWW.DORIANWHO.COM)** | **[Remote Social Media Internship](https://jobright.ai/jobs/info/6a8f43d2f841e649a719179f?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Aug 26 |
 | **[Electro](electrogum.com)** | **[Campus Ambassador Intern](https://jobright.ai/jobs/info/6a8f40e5382b237ac80c505c?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Aug 26 |
@@ -142,8 +142,8 @@ For a complete list, click the following sortable link below:
 | **[Ag Valley Co-op](https://agvalley.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a8ef9b9d7c91d0cf446cd03?utm_campaign=1065&utm_source=git)** | Arapahoe, Nebraska, United States | On Site | Aug 26 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Autumn Sales and Marketing Intern](https://jobright.ai/jobs/info/6a552bc4f2c46727285f04e0?utm_campaign=1065&utm_source=git)** | San Antonio, TX, United States | On Site | Aug 26 |
 | **[CAMPUS USA Credit Union](http://campuscu.com)** | **[Video Content & Multimedia Intern](https://jobright.ai/jobs/info/6a73a2a032ebbc14ffb5046e?utm_campaign=1065&utm_source=git)** | Jonesville, FL, United States | On Site | Aug 26 |
-| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a8a31ced34f700f87fcc9b5?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 26 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a8986b3cde3717f9e9b84a6?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 26 |
+| **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a8986b3cde3717f9e9b84a6?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Aug 26 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a8a31ced34f700f87fcc9b5?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Aug 26 |
 | **[Iowa Sports Foundation](https://www.iowasportsfoundation.org)** | **[Spring & Summer Event Management Internship](https://jobright.ai/jobs/info/6a8ef022382b237ac80c352b?utm_campaign=1065&utm_source=git)** | Ames, IA, United States | On Site | Aug 26 |
 | **[Acadium](http://www.acadium.com)** | **[Community Engagement & Marketing Intern](https://jobright.ai/jobs/info/6a8eecc6f841e649a718fa23?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 26 |
 | **[Hesed House](https://hesedhouse.org)** | **[Development Intern](https://jobright.ai/jobs/info/6a8f403f309e5f224870b146?utm_campaign=1065&utm_source=git)** | Aurora, IL, United States | On Site | Aug 26 |
