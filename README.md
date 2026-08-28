@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Honeywell Aerospace](https://www.honeywellaerospace.com/)** | **[Marketing Intern - Summer 2027 (U.S. Person Required)](https://jobright.ai/jobs/info/6a91e2858e59685453378346?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
+| ↳ | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a91e260d18f75674827a990?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
+| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/6a91dea5c12c90443efc8997?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 28 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Idaho](https://jobright.ai/jobs/info/6a91dc093603630099194ee2?utm_campaign=1065&utm_source=git)** | Moscow, ID, United States | On Site | Aug 28 |
 | **[St. Louis CITY SC](https://www.stlcitysc.com)** | **[Fan Engagement and Grassroots Marketing Intern](https://jobright.ai/jobs/info/6a91d7c8d18f75674827a75d?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 28 |
 | **[JPG Designs](https://jpgdesigns.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a91d5ee8e59685453378070?utm_campaign=1065&utm_source=git)** | East Greenwich, RI, United States | Remote | Aug 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Digital Analytics](https://jobright.ai/jobs/info/6a91d475c12c90443efc86db?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 28 |
@@ -111,9 +115,9 @@ For a complete list, click the following sortable link below:
 | **[Electro](electrogum.com)** | **[NIL Athlete Marketing Intern](https://jobright.ai/jobs/info/6a919668d18f756748278bf5?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Aug 28 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Commercial Leader Program Intern - Therapeutics (MBA)](https://jobright.ai/jobs/info/6a919541a27a2d3c984889e7?utm_campaign=1065&utm_source=git)** | Mettawa, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Commercial Leader Program Intern - Therapeutics (MBA)](https://jobright.ai/jobs/info/6a919530a27a2d3c984889dc?utm_campaign=1065&utm_source=git)** | Mettawa, IL, United States | Hybrid | Aug 28 |
-| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629ff2846162391c937016?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
+| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629feb07e15f1ab0e47757?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
 | ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
 | **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a9163722e254e06fb9f4290?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 28 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Relations & Social Media Intern](https://jobright.ai/jobs/info/6a91930cd18f756748278a90?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | Remote | Aug 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Men's Merchandising](https://jobright.ai/jobs/info/6a6a629848355b3f12bf0a84?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Aug 28 |
@@ -138,7 +142,7 @@ For a complete list, click the following sortable link below:
 | **[Sacramento Kings](http://www.Kings.com)** | **[App & Fan Engagement Marketing Intern](https://jobright.ai/jobs/info/6a914a0d0bd89e205d24d562?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 28 |
 | ↳ | **[Social Impact & Inclusion Intern](https://jobright.ai/jobs/info/6a914a060bd89e205d24d55e?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 28 |
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a9149fb8ffa38557e6cfef5?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | On Site | Aug 28 |
-| **[iA](https://iarx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9181be9864261ccd29d3c0?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
+| **[iA](https://iarx.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a91965d360363009919329f?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 28 |
 | **[Acadium](http://www.acadium.com)** | **[Content Marketing Intern](https://jobright.ai/jobs/info/6a9142887c32860d14cfc5b2?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[GY Properties](https://www.gy-properties.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a8714c025fc4e7ae3dab2c9?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 27 |
 | **[Zipline](https://www.zipline.com/)** | **[Community Engagement Intern (Spring 2027)](https://jobright.ai/jobs/info/6a7e9e9cad9ff00c26bab773?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 27 |
@@ -147,14 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Trimble Inc.](https://www.trimble.com/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a905d1d0bd89e205d249d43?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Aug 27 |
 | ↳ | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a90bd867c32860d14cfb40b?utm_campaign=1065&utm_source=git)** | Westminster, CO, United States | Hybrid | Aug 27 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a9103a90bd89e205d24ccec?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Aug 27 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d729d96ad228f12636ba?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 27 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a860316e459fa3baa86559c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d902d93145bf895075?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a86674074e02153f145bc58?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
 | ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a8ff6437c32860d14cf73d5?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 27 |
-| **[Connoisseur Media](http://connoisseurmedia.com)** | **[Media and Sales Broadcasting Internship](https://jobright.ai/jobs/info/6a90f6ce8ffa38557e6cf58f?utm_campaign=1065&utm_source=git)** | Saginaw, MI, United States | On Site | Aug 27 |
-| **[RadarFirst](https://www.radarfirst.com)** | **[Digital Marketing & Events Intern](https://jobright.ai/jobs/info/6a90f4077c32860d14cfbd58?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 27 |
-| **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Marketing & Communications Intern](https://jobright.ai/jobs/info/6a90f3dc0bd89e205d24cbab?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 27 |
-| **[IFF](http://iff.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a90adb88ffa38557e6ce602?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Aug 27 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a90d729d96ad228f12636ba?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Aug 27 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a82c7449b859b227766afad?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
+| ↳ | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a7284dccb96192a3684e647?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
