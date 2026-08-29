@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Idaho](https://jobright.ai/jobs/info/6a924c843603630099196176?utm_campaign=1065&utm_source=git)** | Moscow, ID, United States | On Site | Aug 28 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Idaho](https://jobright.ai/jobs/info/6a9268b6360363009919637f?utm_campaign=1065&utm_source=git)** | Moscow, ID, United States | On Site | Aug 28 |
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Communication & Non-Profit Intern](https://jobright.ai/jobs/info/6a924897c12c90443efc9bd6?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | **[Hackley School](http://www.hackleyschool.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a92483f360363009919613c?utm_campaign=1065&utm_source=git)** | Tarrytown, NY, United States | On Site | Aug 28 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[PR Intern](https://jobright.ai/jobs/info/6a54a4668576ec69c0153d57?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
@@ -99,7 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a91c3c78e59685453377a34?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | On Site | Aug 28 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
 | **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 28 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88afb44afae74a0834d04d?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Aug 28 |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88af884afae74a0834d031?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Aug 28 |
 | **[Surf Gems](surfgems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a91be21a27a2d3c98489d3c?utm_campaign=1065&utm_source=git)** | Los Osos, CA, United States | Hybrid | Aug 28 |
 | **[Vegan Yzzy Media](http://www.veganyzzy.com)** | **[Creator Partnerships & Content Intern](https://jobright.ai/jobs/info/6a91bdd8c12c90443efc7ea5?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Aug 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a91983d3603630099193353?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 28 |
@@ -128,15 +128,14 @@ For a complete list, click the following sortable link below:
 | **[InnerCalm Wellness](https://innercalmwellness.co/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a919e4da27a2d3c98488e7e?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Relations & Partnerships Intern](https://jobright.ai/jobs/info/6a919d46c12c90443efc6fd8?utm_campaign=1065&utm_source=git)** | Fort Lauderdale, FL, United States | Remote | Aug 28 |
 | **[Matrix Design Group LLC](http://matrixteam.com)** | **[Marketing and Social Media Intern](https://jobright.ai/jobs/info/6a919b74d18f756748278e7f?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Aug 28 |
-| **[Specialityvalve](https://www.specialityvalve.com/)** | **[Marketing Intern( Full time)](https://jobright.ai/jobs/info/6a919b558e596854533767fe?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Aug 28 |
 | **[The Dorm](https://thedorm.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a919a98c12c90443efc6edb?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
 | **[Ayming](https://www.ayming.fr/)** | **[Marketing/Sales Intern (Fall Internship)](https://jobright.ai/jobs/info/6a919a9636036300991934c4?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Marketing Intern](https://jobright.ai/jobs/info/6a919668d18f756748278bf5?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | On Site | Aug 28 |
 | **[Allergan Aesthetics, an AbbVie Company](https://www.allerganaesthetics.com)** | **[2027 Commercial Leader Program Intern - Therapeutics (MBA)](https://jobright.ai/jobs/info/6a919541a27a2d3c984889e7?utm_campaign=1065&utm_source=git)** | Mettawa, IL, United States | Hybrid | Aug 28 |
 | ↳ | **[2027 Commercial Leader Program Intern - Therapeutics (MBA)](https://jobright.ai/jobs/info/6a919530a27a2d3c984889dc?utm_campaign=1065&utm_source=git)** | Mettawa, IL, United States | Hybrid | Aug 28 |
-| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
+| **[Trucordia](https://trucordia.com)** | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629feb07e15f1ab0e47757?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
 | ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269837da8525e8cdc8c6?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
-| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a629ff2846162391c937016?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
+| ↳ | **[Insurance Producer Internship](https://jobright.ai/jobs/info/6a75269bb17cba569035979b?utm_campaign=1065&utm_source=git)** | Lindon, UT, United States | On Site | Aug 28 |
 | **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a9163722e254e06fb9f4290?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 28 |
 | **[Electro](electrogum.com)** | **[NIL Athlete Relations & Social Media Intern](https://jobright.ai/jobs/info/6a91930cd18f756748278a90?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | Remote | Aug 28 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Men's Merchandising](https://jobright.ai/jobs/info/6a6a629848355b3f12bf0a84?utm_campaign=1065&utm_source=git)** | Stamford, CT, United States | Hybrid | Aug 28 |
@@ -150,11 +149,12 @@ For a complete list, click the following sortable link below:
 | **[The Council of State Governments](http://csg.org/)** | **[Communications Fellow](https://jobright.ai/jobs/info/6a87642b25fc4e7ae3dacf95?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Aug 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Marketing Analytics](https://jobright.ai/jobs/info/6a907c90d96ad228f12617d5?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Aug 28 |
 | **[University of Niagara Falls Canada](https://unfc.ca)** | **[Student Social Media Marketing Intern](https://jobright.ai/jobs/info/6a91bd5ba27a2d3c98489c45?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON, Canada | On Site | Aug 28 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 28 |
-| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 28 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6a721e6502d93145bf892b98?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Aug 28 |
+| ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 28 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Corporate Communications](https://jobright.ai/jobs/info/6a91ab0b9864261ccd29e1a8?utm_campaign=1065&utm_source=git)** | Frisco, TX, United States | Hybrid | Aug 28 |
-| ↳ | **[Fall 2027 Co-op - Email Marketing](https://jobright.ai/jobs/info/6a91ab2a3603630099193ab3?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
 | ↳ | **[Fall 2027 Co-op - Digital Marketing & CRM](https://jobright.ai/jobs/info/6a91ea363603630099195175?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
+| ↳ | **[Fall 2027 Co-op - Email Marketing](https://jobright.ai/jobs/info/6a91ab2a3603630099193ab3?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
 | **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Aug 28 |
 | **[University Book Store](https://www.ubookstore.com/)** | **[Intern](https://jobright.ai/jobs/info/6a919f7ea27a2d3c98488ee1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 28 |
+| **[Creative Artists Agency](http://www.caa.com)** | **[Motion Pictures Marketing - Apprentice](https://jobright.ai/jobs/info/6a750e61bb6ca93ae560d89d?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
