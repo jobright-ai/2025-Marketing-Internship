@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O'Hagan Meyer](https://ohaganmeyer.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a7611fc67a1ad0bc53c89b8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 29 |
+| **[AmeriCorps](https://www.nationalservice.gov)** | **[VISTA Marketing Coordinator](https://jobright.ai/jobs/info/6a92c19fd18f75674827c2ef?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 29 |
+| **[ASM Global](https://asmglobal.com/)** | **[Administrative Internship](https://jobright.ai/jobs/info/6a04cf027c753c287f6f3887?utm_campaign=1065&utm_source=git)** | Pensacola, FL, US | On Site | Aug 29 |
+| **[Boldyn Networks](https://www.boldyn.com)** | **[Market Intelligence & Sales Operations Intern (PAID INTERNSHIP)](https://jobright.ai/jobs/info/6a75fc31b17cba569035bf07?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 29 |
 | **[FINN Partners](http://www.finnpartners.com/)** | **[Internship -Education Public Relation](https://jobright.ai/jobs/info/6a76260967a1ad0bc53c8f72?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a920925a27a2d3c9848b0ef?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 29 |
 | ↳ | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a920914d18f75674827b283?utm_campaign=1065&utm_source=git)** | Salisbury, NC, United States | Hybrid | Aug 29 |
@@ -72,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Bluegrass Orthopaedics](https://www.bluegrassortho.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a920f973603630099195bc2?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 28 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Aug 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[INTERN - SPRING 2027 - Public Relations](https://jobright.ai/jobs/info/6a91fe339864261ccd29fedf?utm_campaign=1065&utm_source=git)** | Pinellas County, FL, United States | On Site | Aug 28 |
-| **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cb6b56bea5779c098f1?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (FL)](https://jobright.ai/jobs/info/6a7f3ce2b56bea5779c09908?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 28 |
+| **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (FL)](https://jobright.ai/jobs/info/6a7f3ce2b56bea5779c09908?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cb6b56bea5779c098f1?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Spring 2027](https://jobright.ai/jobs/info/6a8ed44fa10ee661e24d5158?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a91f394a27a2d3c9848ac63?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | ↳ | **[Communication & Non-Profit Intern](https://jobright.ai/jobs/info/6a91f36ed18f75674827adf5?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
@@ -144,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Ayming](https://www.ayming.fr/)** | **[Marketing/Sales Intern (Fall Internship)](https://jobright.ai/jobs/info/6a918e148e59685453376298?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
 | **[Electro](electrogum.com)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/6a918a8c3603630099192f17?utm_campaign=1065&utm_source=git)** | Michigan, United States | Remote | Aug 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern II (Economic Development/Marketing)](https://jobright.ai/jobs/info/6a8dc323cc0cf27068524f51?utm_campaign=1065&utm_source=git)** | Moreno Valley, CA, United States | On Site | Aug 28 |
-| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2027 Co-op - Digital Marketing & CRM](https://jobright.ai/jobs/info/6a91d4079864261ccd29f3ab?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
-| ↳ | **[Winter 2027 Co-op - Email Marketing](https://jobright.ai/jobs/info/6a91bf3136036300991945c1?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
+| **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2027 Co-op - Email Marketing](https://jobright.ai/jobs/info/6a91bf3136036300991945c1?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
+| ↳ | **[Winter 2027 Co-op - Digital Marketing & CRM](https://jobright.ai/jobs/info/6a91d4079864261ccd29f3ab?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
 | **[The Council of State Governments](http://csg.org/)** | **[Communications Fellow](https://jobright.ai/jobs/info/6a87642b25fc4e7ae3dacf95?utm_campaign=1065&utm_source=git)** | Lexington, KY, United States | On Site | Aug 28 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Marketing Analytics](https://jobright.ai/jobs/info/6a907c90d96ad228f12617d5?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Aug 28 |
 | **[University of Niagara Falls Canada](https://unfc.ca)** | **[Student Social Media Marketing Intern](https://jobright.ai/jobs/info/6a91bd5ba27a2d3c98489c45?utm_campaign=1065&utm_source=git)** | Niagara Falls, ON, Canada | On Site | Aug 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Intern](https://jobright.ai/jobs/info/6a522579e726ec56126a1cb4?utm_campaign=1065&utm_source=git)** | Etobicoke, ON, Canada | On Site | Aug 28 |
 | **[Calian in Space & Technology](https://www.calian.com/space)** | **[Social Media and Marketing Student](https://jobright.ai/jobs/info/6a92a793c12c90443efca1c3?utm_campaign=1065&utm_source=git)** | Saskatoon, SK, Canada | On Site | Aug 28 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2027 Intern – Corporate Communications](https://jobright.ai/jobs/info/6a91ab0b9864261ccd29e1a8?utm_campaign=1065&utm_source=git)** | Frisco, TX, United States | Hybrid | Aug 28 |
-| ↳ | **[Fall 2027 Co-op - Digital Marketing & CRM](https://jobright.ai/jobs/info/6a91ea363603630099195175?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
-| ↳ | **[Fall 2027 Co-op - Email Marketing](https://jobright.ai/jobs/info/6a91ab2a3603630099193ab3?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Aug 28 |
-| **[Neuropath Behavioral Healthcare](https://neuropathbhc.org)** | **[Digital Marketing Admin - Intern (Unpaid)](https://jobright.ai/jobs/info/6a4cf57bd27b2c4dda9b59ab?utm_campaign=1065&utm_source=git)** | Cherry Hill, NJ, United States | On Site | Aug 28 |
-| **[University Book Store](https://www.ubookstore.com/)** | **[Intern](https://jobright.ai/jobs/info/6a919f7ea27a2d3c98488ee1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
