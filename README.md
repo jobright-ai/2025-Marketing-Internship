@@ -57,12 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Slate Brands](https://www.slatebrands.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a93a19e9864261ccd2a2ef1?utm_campaign=1065&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Aug 29 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Marketing Analytics](https://jobright.ai/jobs/info/6a907c90d96ad228f12617d5?utm_campaign=1065&utm_source=git)** | Meridian, ID, United States | On Site | Aug 29 |
 | **[Lone Mountain Strategies](lonemountainstrategies.com)** | **[POLITICAL CAMPAIGN MANAGEMENT INTERN](https://jobright.ai/jobs/info/6a938e86c12c90443efcc2dc?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[City of Indianapolis](https://www.indy.gov/)** | **[Intern - Communications](https://jobright.ai/jobs/info/6a9386c0c12c90443efcc288?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | On Site | Aug 29 |
 | **[Gift](https://www.shine.gift)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a93783ec12c90443efcc16b?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 29 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / University of Idaho](https://jobright.ai/jobs/info/6a93498f3603630099198327?utm_campaign=1065&utm_source=git)** | Moscow, ID, United States | On Site | Aug 29 |
-| **[Netrolynx AI](https://www.bestjobtool.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a93315e8e5968545337b4c0?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 29 |
 | **[Todd](https://toddagriscience.com)** | **[Social Media Marketing Intern (Winter 26)](https://jobright.ai/jobs/info/6a932ba19864261ccd2a275a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | Remote | Aug 29 |
 | **[Electro](electrogum.com)** | **[Social Media & Brand Marketing Intern](https://jobright.ai/jobs/info/6a932b68360363009919814e?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | Remote | Aug 29 |
 | **[MicroVention-Terumo](http://microvention.com)** | **[Intern, MBA Marketing](https://jobright.ai/jobs/info/6a931e478e5968545337b370?utm_campaign=1065&utm_source=git)** | Aliso Viejo, CA, United States | On Site | Aug 29 |
@@ -128,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2027](https://jobright.ai/jobs/info/6a91c400d18f75674827a141?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
 | ↳ | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
 | **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 28 |
-| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88af884afae74a0834d031?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Aug 28 |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a88afb44afae74a0834d04d?utm_campaign=1065&utm_source=git)** | Warren, RI, United States | On Site | Aug 28 |
 | **[Surf Gems](surfgems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a91be21a27a2d3c98489d3c?utm_campaign=1065&utm_source=git)** | Los Osos, CA, United States | Hybrid | Aug 28 |
 | **[KeyBank](https://www.key.com/businesses-institutions/industry-expertise/commercial-real-estate/capital-community-development-banking.html)** | **[2027 Summer Real Estate Capital Internship - Boston ICG](https://jobright.ai/jobs/info/6a9195de8e59685453376517?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 28 |
 | **[John Hancock](http://www.johnhancock.com)** | **[Summer Intern 2027 - Marketing](https://jobright.ai/jobs/info/6a91b974a27a2d3c984897b5?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 28 |
