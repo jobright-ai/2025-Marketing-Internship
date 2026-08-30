@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Colorstech Solar](http://www.colorstech.net)** | **[On-line Marketing - Intern Solar -: Equipment](https://jobright.ai/jobs/info/6a9469c3a27a2d3c9848f3b6?utm_campaign=1065&utm_source=git)** | Canada | Remote | Aug 30 |
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a945afec12c90443efcd5f7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
+| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a945afd8e5968545337cde8?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | **[Valves Only](https://valvesonly.com/)** | **[Marketing Intern ( full time )](https://jobright.ai/jobs/info/6a9458b68e5968545337cd9d?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Aug 30 |
 | **[Specialityvalve](https://www.specialityvalve.com/)** | **[Marketing Intern( Full time )](https://jobright.ai/jobs/info/6a9455bca27a2d3c9848f243?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
@@ -69,13 +70,13 @@ For a complete list, click the following sortable link below:
 | **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a944477a27a2d3c9848f06d?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a944475360363009919989f?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a9444748e5968545337cb82?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a9444739864261ccd2a3eca?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a944473a27a2d3c9848f06a?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a9444739864261ccd2a3eca?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a9444738e5968545337cb81?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a94446f9864261ccd2a3ec8?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a94446e9864261ccd2a3ec6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a94446dc12c90443efcd391?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a94446d8e5968545337cb7c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a94446dc12c90443efcd391?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Social Media Communication & Design Intern](https://jobright.ai/jobs/info/6a9443b7a27a2d3c9848f057?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Aug 30 |
 | **[Cylus Music](https://www.cylusmusic.com/)** | **[Community Outreach Coordinator Intern](https://jobright.ai/jobs/info/6a94439ea27a2d3c9848f052?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[ZOVU](www.zovuhq.com)** | **[Social Media & Content Creator - Intern NYC (Remote)](https://jobright.ai/jobs/info/6a943c4fc12c90443efcd30a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 30 |
@@ -84,9 +85,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a943284a27a2d3c9848ef89?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a94328336036300991997c2?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a943282d18f75674827f0da?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
-| ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a943280a27a2d3c9848ef85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
-| ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a943280a27a2d3c9848ef86?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a943280d18f75674827f0d7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
+| ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a943280a27a2d3c9848ef86?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 30 |
+| ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a943280a27a2d3c9848ef85?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
 | **[Element Resources](https://elementrellc.com)** | **[2027 Summer Intern – Marketing Communications](https://jobright.ai/jobs/info/6a942ebf9864261ccd2a3d9d?utm_campaign=1065&utm_source=git)** | Alpharetta, GA, United States | On Site | Aug 30 |
 | **[Lobien Realty Group](https://www.lobiengroup.com)** | **[MARKETING AND RESEARCH INTERN](https://jobright.ai/jobs/info/6a94127c9864261ccd2a3c2d?utm_campaign=1065&utm_source=git)** | Raleigh–Durham–Chapel Hill Area, North Carolina, United States | On Site | Aug 30 |
 | **[SVR Global LLC](https://www.svrglobal.net)** | **[Marketing Intern( Full time)](https://jobright.ai/jobs/info/6a9412189864261ccd2a3c2c?utm_campaign=1065&utm_source=git)** | New Jersey, United States | Remote | Aug 30 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Bluegrass Orthopaedics](https://www.bluegrassortho.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a920f973603630099195bc2?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Aug 28 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[Social Media / Marketing / Administrative Paid Internship](https://jobright.ai/jobs/info/6a423dc41cc9cc2b12feb0e8?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Aug 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[INTERN - SPRING 2027 - Public Relations](https://jobright.ai/jobs/info/6a91fe339864261ccd29fedf?utm_campaign=1065&utm_source=git)** | Pinellas County, FL, United States | On Site | Aug 28 |
-| **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cb6b56bea5779c098f1?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 28 |
-| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (FL)](https://jobright.ai/jobs/info/6a7f3ce2b56bea5779c09908?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 28 |
+| **[L'Oréal](https://www.loreal.de)** | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (FL)](https://jobright.ai/jobs/info/6a7f3ce2b56bea5779c09908?utm_campaign=1065&utm_source=git)** | Clearwater, FL, United States | Hybrid | Aug 28 |
+| ↳ | **[2027 L'Oréal USA Summer Internship - Marketing - Undergraduate (NY)](https://jobright.ai/jobs/info/6a7f3cb6b56bea5779c098f1?utm_campaign=1065&utm_source=git)** | El Segundo, CA, United States | Hybrid | Aug 28 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Insights and Analytics Intern, Spring 2027](https://jobright.ai/jobs/info/6a8ed44fa10ee661e24d5158?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 28 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Marketing Specialist Intern](https://jobright.ai/jobs/info/6a91f394a27a2d3c9848ac63?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
 | ↳ | **[Communication & Non-Profit Intern](https://jobright.ai/jobs/info/6a91f36ed18f75674827adf5?utm_campaign=1065&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 28 |
@@ -137,8 +138,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a91e260d18f75674827a990?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 28 |
 | **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Marketing Content Intern](https://jobright.ai/jobs/info/6a91dea5c12c90443efc8997?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Aug 28 |
 | **[St. Louis CITY SC](https://www.stlcitysc.com)** | **[Fan Engagement and Grassroots Marketing Intern](https://jobright.ai/jobs/info/6a91d7c8d18f75674827a75d?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Aug 28 |
-| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a91d0ae8e59685453377f12?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 28 |
-| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a91983d3603630099193353?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a91983d3603630099193353?utm_campaign=1065&utm_source=git)** | Bellevue, WA, United States | On Site | Aug 28 |
+| ↳ | **[Transportation Marketing Intern](https://jobright.ai/jobs/info/6a91d0ae8e59685453377f12?utm_campaign=1065&utm_source=git)** | Irvine, CA, United States | On Site | Aug 28 |
 | **[JPG Designs](https://jpgdesigns.com/)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a91d5ee8e59685453378070?utm_campaign=1065&utm_source=git)** | East Greenwich, RI, United States | Remote | Aug 28 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Marketing - Digital Analytics](https://jobright.ai/jobs/info/6a91d475c12c90443efc86db?utm_campaign=1065&utm_source=git)** | Greenville, SC, United States | On Site | Aug 28 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[INTERN - Public Relations](https://jobright.ai/jobs/info/6a91d4498e59685453377fed?utm_campaign=1065&utm_source=git)** | Pinellas County, Florida, United States | On Site | Aug 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[URGOOD](urgood.com)** | **[Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a91c5f68e59685453377b96?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
 | **[Tractor Supply Company](http://www.tractorsupply.com/)** | **[Marketing Intern / Summer 2027](https://jobright.ai/jobs/info/6a91c400d18f75674827a141?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
 | ↳ | **[Merchandising Intern / Summer 2027](https://jobright.ai/jobs/info/6a91bedaa27a2d3c98489dac?utm_campaign=1065&utm_source=git)** | Brentwood, TN, United States | Hybrid | Aug 28 |
-| **[Synera](https://www.synera.io)** | **[Marketing & Events Intern (f/m/d) - Remote in the US (Boston, MA area; Part-time)](https://jobright.ai/jobs/info/6a6cb91157120971bf3acb7b?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Remote | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
