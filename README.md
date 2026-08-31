@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jamie AI](https://www.thefansdao.io/)** | **[Creator Ad Sales Intern](https://jobright.ai/jobs/info/6a94ada3c12c90443efcdabe?utm_campaign=1065&utm_source=git)** | Santa Monica, CA, United States | On Site | Aug 30 |
 | **[Honeywell Technologies](http://www.honeywell.com)** | **[Marketing - Summer 2027 Intern](https://jobright.ai/jobs/info/6a8db820581f2d7bfdfe889b?utm_campaign=1065&utm_source=git)** | United States | Remote | Aug 30 |
 | **[Ahold Delhaize USA](https://www.adusa.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a920925a27a2d3c9848b0ef?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 30 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Marketing Strategy Intern, Walt Disney World Resort, Spring 2027](https://jobright.ai/jobs/info/6a8c8934cde3717f9e9bdbd7?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | Hybrid | Aug 30 |
@@ -64,9 +65,9 @@ For a complete list, click the following sortable link below:
 | **[Greenlight Group](https://greenlightgroup.co/)** | **[Creator Management & Operations Intern](https://jobright.ai/jobs/info/6a948c4b8e5968545337d058?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
 | ↳ | **[Brand Partnerships & PR Intern](https://jobright.ai/jobs/info/6a948a82c12c90443efcd880?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 30 |
 | **[Candy Stripers®](http://www.candystripersny.org)** | **[Fall 2026 Marketing & Branding Internship / Candy Stripers®](https://jobright.ai/jobs/info/6a9470ffc12c90443efcd76a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 30 |
-| **[FF Inc](https://www.ffincorporated.com)** | **[Brand Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
+| **[FF Inc](https://www.ffincorporated.com)** | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
+| ↳ | **[Brand Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a945afec12c90443efcd5f7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
-| ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a945afea27a2d3c9848f2b6?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a945afd8e5968545337cde8?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 30 |
 | **[Specialityvalve](https://www.specialityvalve.com/)** | **[Marketing Intern( Full time )](https://jobright.ai/jobs/info/6a9455bca27a2d3c9848f243?utm_campaign=1065&utm_source=git)** | Pennsylvania, United States | Remote | Aug 30 |
 | **[ZOVU](www.zovuhq.com)** | **[Social Media & Content Creator - Intern LA (Remote)](https://jobright.ai/jobs/info/6a94455c8e5968545337cb90?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Remote | Aug 30 |
@@ -74,8 +75,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a944475360363009919989f?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a9444748e5968545337cb82?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a9444738e5968545337cb81?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | On Site | Aug 30 |
-| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a9444739864261ccd2a3eca?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a944473a27a2d3c9848f06a?utm_campaign=1065&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 30 |
+| ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a9444739864261ccd2a3eca?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a94446f9864261ccd2a3ec8?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Aug 30 |
 | ↳ | **[Events Intern](https://jobright.ai/jobs/info/6a94446e9864261ccd2a3ec6?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
 | ↳ | **[Marketing & Sales Internship](https://jobright.ai/jobs/info/6a94446d8e5968545337cb7c?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Aug 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dealmoon Group](http://www.dealmoon.com)** | **[Content & Growth Marketing Intern](https://jobright.ai/jobs/info/6a91cc2f3603630099194a75?utm_campaign=1065&utm_source=git)** | Richardson, TX, United States | Hybrid | Aug 28 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Winter Intern](https://jobright.ai/jobs/info/6a91cc2a3603630099194a74?utm_campaign=1065&utm_source=git)** | Yuba City, CA, United States | On Site | Aug 28 |
 | **[Y.N. Marketing Solutions Inc](https://ynmarketingsolutionsinc.com)** | **[Entry Level Marketing Intern](https://jobright.ai/jobs/info/6a886b65e8b6601d129069f8?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Aug 28 |
-| **[URGOOD](urgood.com)** | **[Marketing and Business Development Intern](https://jobright.ai/jobs/info/6a91c5f68e59685453377b96?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Aug 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
