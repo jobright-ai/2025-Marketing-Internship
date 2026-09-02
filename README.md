@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Merrick & Company](http://www.merrick.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6a9881aeaf954907d6573b46?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 02 |
+| **[Direct Agents](http://www.directagents.com)** | **[Influencer Marketing Campaign Intern](https://jobright.ai/jobs/info/6a98814d11f73b6462c8efab?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
+| **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Atlanta - Digital](https://jobright.ai/jobs/info/6a9880cd83fc633357631da7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Amazon Content Operations Intern](https://jobright.ai/jobs/info/6a713a439a0ca4480c7d38c1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sport Management Internship / Social Media / Content  (Fall Semester)](https://jobright.ai/jobs/info/6a987e88af954907d6573a67?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 02 |
 | **[Brookfield Properties](https://www.brookfieldproperties.com)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a985e7611f73b6462c8e43b?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Sep 02 |
@@ -112,8 +115,6 @@ For a complete list, click the following sortable link below:
 | **[Mundial Partners](https://www.themundialpartners.com/)** | **[Social Media / Content Intern](https://jobright.ai/jobs/info/6a98418c11f73b6462c8d78f?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 02 |
 | **[LV Collective](https://lvcollective.com)** | **[Marketing & Partnerships Intern / Rambler Gainesville](https://jobright.ai/jobs/info/6a983e9ddd171c7285790fde?utm_campaign=1065&utm_source=git)** | Gainesville, FL, United States | On Site | Sep 02 |
 | **[City of Jonesboro](https://www.jonesboro.org)** | **[Intern Communications](https://jobright.ai/jobs/info/6a987613af954907d65737fc?utm_campaign=1065&utm_source=git)** | Jonesboro, AR, United States | On Site | Sep 02 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a71a433e2b7476e7b20ed8f?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 02 |
-| ↳ | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start](https://jobright.ai/jobs/info/6a82c73a1081a745e970b6eb?utm_campaign=1065&utm_source=git)** | Los Angeles, United States | On Site | Sep 02 |
 | **[Norman Regional Health System](https://www.normanregional.com)** | **[Foundation Intern](https://jobright.ai/jobs/info/6a98346fdef18223c854df0c?utm_campaign=1065&utm_source=git)** | Norman, OK, United States | On Site | Sep 02 |
 | **[Greenspun Media Group](http://www.greenspunmedia.com)** | **[Marketing Events Intern (PT), Greenspun Media Group](https://jobright.ai/jobs/info/6a985e5cdd171c7285791dee?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 02 |
 | **[Winsupply](http://www.winsupply.com)** | **[Communications Intern](https://jobright.ai/jobs/info/6a983216def18223c854de58?utm_campaign=1065&utm_source=git)** | Moraine, OH, United States | On Site | Sep 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Winter 2027 Co-op - Affiliate & Creator Marketplace](https://jobright.ai/jobs/info/6a8e1678cc0cf27068527101?utm_campaign=1065&utm_source=git)** | Burlington, MA, United States | Hybrid | Sep 02 |
 | **[Legna Software](https://www.legnasoftware.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9754d6d13b4819f39e0a02?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 02 |
 | **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55f4a821f64463ad3510b1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 02 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[SEO Specialist/On-line Marketing Specialist Internship](https://jobright.ai/jobs/info/6a560c2253b3962b910adcbe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
