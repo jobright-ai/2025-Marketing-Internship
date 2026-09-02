@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chatham County](https://chathamnc.org)** | **[Communications Intern Closes 3/15/2023](https://jobright.ai/jobs/info/6a97e26caf954907d6570c86?utm_campaign=1065&utm_source=git)** | Lenoir, NC, United States | On Site | Sep 02 |
+| **[TikTok](https://www.tiktok.com)** | **[Short Video Strategy Project Intern(TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a55f4a821f64463ad3510b1?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 02 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[SEO Specialist/On-line Marketing Specialist Internship](https://jobright.ai/jobs/info/6a560c2253b3962b910adcbe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Scalable Commerce](https://www.scalablecommerce.com )** | **[Social Media Intern - California ONLY](https://jobright.ai/jobs/info/6a97cff0af954907d6570a1d?utm_campaign=1065&utm_source=git)** | Santa Barbara, CA, United States | On Site | Sep 02 |
 | **[UPS](http://www.ups.com)** | **[Americas Region Marketing Strategy Summer 2027 Intern (Evergreen)](https://jobright.ai/jobs/info/6a96f2b0246d697dcee02255?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
@@ -64,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Wyffels Hybrids](http://wyffels.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a97c79ac8ed473c5c7612bf?utm_campaign=1065&utm_source=git)** | Davenport, IA, United States | On Site | Sep 01 |
 | **[Cobec, Inc.](https://cobec.com)** | **[Workplace Operations & Marketing Internship](https://jobright.ai/jobs/info/6a97c59bc8ed473c5c761286?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Integrated Marketing & Promotion Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a73f2566a034212ea029fbc?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 01 |
-| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/6a9771df246d697dcee0555d?utm_campaign=1065&utm_source=git)** | Orange, CA, United States | On Site | Sep 01 |
+| **[Orange County Transportation Authority](https://www.octa.net/)** | **[Intern, Internal Communications](https://jobright.ai/jobs/info/6a9779ece4e60e4b8da5e278?utm_campaign=1065&utm_source=git)** | Orange, CA, United States | On Site | Sep 01 |
 | **[Stellantis](https://www.stellantis.com/)** | **[2027 Communications - Social Media Intern](https://jobright.ai/jobs/info/6a96ffa3b22f636c81415140?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
 | ↳ | **[2027 American Brands Summer Internship - Brands Operations/Marketing](https://jobright.ai/jobs/info/6a96ee37f5337b2cf731ebda?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
 | ↳ | **[2027 Communications - Media Relations Intern](https://jobright.ai/jobs/info/6a96ff91b22f636c81415130?utm_campaign=1065&utm_source=git)** | Auburn Hills, MI, United States | On Site | Sep 01 |
@@ -127,7 +129,6 @@ For a complete list, click the following sortable link below:
 | **[Boys Lie](https://boyslieofficial.com)** | **[Marketing Intern - Fall 2026](https://jobright.ai/jobs/info/6a84bff4e459fa3baa86076a?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a97408d455eaf6a08c1bc26?utm_campaign=1065&utm_source=git)** | Webster, TX, United States | On Site | Sep 01 |
 | **[Newcastle Real Estate LLC](http://www.newcastlerealtyfund.com)** | **[Marketing & Promotions Intern](https://jobright.ai/jobs/info/6a974045b22f636c81416f10?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 01 |
-| **[Evolve California](https://www.evolve-ca.org/)** | **[Campaign Intern](https://jobright.ai/jobs/info/6a978c0d246d697dcee0599d?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 01 |
 | **[LAGOM](https://www.lagomliving.co/)** | **[Product and Market Research Intern](https://jobright.ai/jobs/info/6a973f92455eaf6a08c1bb93?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 01 |
 | **[Textron GSE](https://textrongse.txtsv.com/)** | **[2027 Communications Intern](https://jobright.ai/jobs/info/6a978b0b455eaf6a08c1cd5b?utm_campaign=1065&utm_source=git)** | Augusta, GA, United States | On Site | Sep 01 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Spring Internship](https://jobright.ai/jobs/info/6a973e97455eaf6a08c1baba?utm_campaign=1065&utm_source=git)** | Houston, TX, United States | On Site | Sep 01 |
@@ -153,8 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Flexspring](https://www.flexspring.com)** | **[Digital Marketing Intern - SEO & AI Search](https://jobright.ai/jobs/info/6a74f68a7b3417772ade2af1?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 01 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Greek Life Partnerships & Campus Growth Intern (Fall 2026)](https://jobright.ai/jobs/info/6a849af3e12474455273b53e?utm_campaign=1065&utm_source=git)** | Texas, United States | Remote | Sep 01 |
 | **[Cyclic Materials](https://www.cyclicmaterials.earth)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a972e44e4e60e4b8da5c7d1?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | On Site | Sep 01 |
-| **[HNTB](http://www.hntb.com/)** | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6a97050bd13b4819f39de883?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 01 |
+| **[HNTB](http://www.hntb.com/)** | **[Communications Intern - Summer 2027](https://jobright.ai/jobs/info/6a970727455eaf6a08c1a398?utm_campaign=1065&utm_source=git)** | Nashville, TN, United States | On Site | Sep 01 |
 | **[Filmadi](https://filmadi.com/)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a972bfad13b4819f39df777?utm_campaign=1065&utm_source=git)** | Los Angeles metropolitan area, United States | Remote | Sep 01 |
 | **[NiSource](https://www.nisource.com/)** | **[Intern Communications](https://jobright.ai/jobs/info/6a95c192c8763a3a87ffbcf5?utm_campaign=1065&utm_source=git)** | Merrillville, IN, United States | On Site | Sep 01 |
-| **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Summer 2027 Management Trainee Intern](https://jobright.ai/jobs/info/6a84aa1a7b33d722762576d4?utm_campaign=1065&utm_source=git)** | Kansas City, MO, United States | On Site | Sep 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
