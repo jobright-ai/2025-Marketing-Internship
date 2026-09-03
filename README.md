@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Shure](http://www.shure.com)** | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Sep 02 |
+| **[EXPLERA VACATIONS PRIVATE LIMITED](https://www.explerainc.com)** | **[Digital Marketing & Social Media Intern](https://jobright.ai/jobs/info/6a98f4eb88f60a5ece658b7d?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 02 |
+| **[Shure](http://www.shure.com)** | **[Global Marketing Intern (Events & Content Small Scale)](https://jobright.ai/jobs/info/6a989de9c8ed473c5c765209?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 02 |
+| ↳ | **[Global Marketing Operations Intern](https://jobright.ai/jobs/info/6a989deac8ed473c5c76520b?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 02 |
+| ↳ | **[Global Media Relations Intern](https://jobright.ai/jobs/info/6a989df811f73b6462c8fae5?utm_campaign=1065&utm_source=git)** | Skokie, IL, United States | Remote | Sep 02 |
 | ↳ | **[Global Marketing Intern – ShureCloud & Customer Value Streams](https://jobright.ai/jobs/info/6a989deec8ed473c5c76520e?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 02 |
 | **[Jackson Spalding](http://jacksonspalding.com)** | **[Fall Intern - Atlanta - Digital](https://jobright.ai/jobs/info/6a9880cd83fc633357631da7?utm_campaign=1065&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 02 |
 | **[Roc Nation](http://rocnation.com)** | **[Fall 2026 Intern - Digital Marketing & Strategy (Paid)](https://jobright.ai/jobs/info/6a98a01faf954907d657477b?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
@@ -69,15 +72,13 @@ For a complete list, click the following sortable link below:
 | **[Queens Hillel](https://qchillel.org)** | **[Marketing and Development Intern](https://jobright.ai/jobs/info/6a987437def18223c854f8ba?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Remote | Sep 02 |
 | **[Wonder](https://www.wonder.com)** | **[Growth & Marketing Analytics Intern](https://jobright.ai/jobs/info/6a987721af954907d6573826?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 02 |
 | **[AARP](http://www.aarp.org)** | **[Digital Engagement Intern](https://jobright.ai/jobs/info/6a8d87a5cc0cf27068523a13?utm_campaign=1065&utm_source=git)** | Montgomery, AL, United States | Hybrid | Sep 02 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 02 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 02 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e19374e02153f14590d2?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 02 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 02 |
-| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 02 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 02 |
 | **[Plante Moran](http://www.plantemoran.com)** | **[27 Marketing Technology Intern](https://jobright.ai/jobs/info/6a9859ed11f73b6462c8e308?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | Hybrid | Sep 02 |
 | **[D2L](http://www.d2l.com)** | **[Product Marketing Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/6a989ff2dd171c728579350f?utm_campaign=1065&utm_source=git)** | Kitchener, ON, Canada | On Site | Sep 02 |
 | **[Henkel](http://www.henkel.com)** | **[Marketing Intern : Spring - Summer 2027 (7 month duration)](https://jobright.ai/jobs/info/6a984b19af954907d657267d?utm_campaign=1065&utm_source=git)** | Westlake, OH, United States | On Site | Sep 02 |
-| **[Shure](http://www.shure.com)** | **[Global Marketing Operations Intern](https://jobright.ai/jobs/info/6a989deac8ed473c5c76520b?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 02 |
-| ↳ | **[Global Marketing Intern (Events & Content Small Scale)](https://jobright.ai/jobs/info/6a989de9c8ed473c5c765209?utm_campaign=1065&utm_source=git)** | Niles, IL, United States | Hybrid | Sep 02 |
 | **[Echo Global Logistics](https://www.echo.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a98843283fc633357631ee5?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 02 |
 | **[uberliss](http://uberliss.com)** | **[Public Relations Intern](https://jobright.ai/jobs/info/6a989d3383fc6333576328ff?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[EveryMind.](https://www.every-mind.org)** | **[Spring Marketing & Events Intern](https://jobright.ai/jobs/info/6a988c37af954907d6573ffd?utm_campaign=1065&utm_source=git)** | Rockville, MD, United States | Hybrid | Sep 02 |
@@ -85,9 +86,9 @@ For a complete list, click the following sortable link below:
 | **[Plante Moran](http://www.plantemoran.com)** | **[27 Studio - Demand Management Marketing Intern](https://jobright.ai/jobs/info/6a9859dfc8ed473c5c763991?utm_campaign=1065&utm_source=git)** | Southfield, Michigan, United States | On Site | Sep 02 |
 | **[Children's Receiving Home of Sacramento](https://www.crhkids.org/)** | **[Fund Development & Communications Intern](https://jobright.ai/jobs/info/6a989a1a83fc63335763280d?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 02 |
 | **[UBS](https://www.ubs.com)** | **[Intern](https://jobright.ai/jobs/info/6a96794069b865490a632406?utm_campaign=1065&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Sep 02 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a988da2def18223c85501eb?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 02 |
-| ↳ | **[Intern](https://jobright.ai/jobs/info/6a96793569b865490a6323f7?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 02 |
 | ↳ | **[Intern](https://jobright.ai/jobs/info/6a988db183fc633357632363?utm_campaign=1065&utm_source=git)** | Providence, RI, United States | On Site | Sep 02 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a96793569b865490a6323f7?utm_campaign=1065&utm_source=git)** | Pasadena, CA, United States | On Site | Sep 02 |
+| ↳ | **[Intern](https://jobright.ai/jobs/info/6a988da2def18223c85501eb?utm_campaign=1065&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 02 |
 | **[Inviox Studios](https://www.invioxstudios.com)** | **[Brand Communications Intern](https://jobright.ai/jobs/info/6a9894ed83fc633357632689?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 02 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a861a1fe459fa3baa8660ae?utm_campaign=1065&utm_source=git)** | Reno, NV, United States | On Site | Sep 02 |
 | ↳ | **[Fall 2026 Management Intern Dallas](https://jobright.ai/jobs/info/6a9892efdd171c72857930f5?utm_campaign=1065&utm_source=git)** | Dallas, TX, United States | On Site | Sep 02 |
@@ -105,7 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Merrick & Company](http://www.merrick.com)** | **[Marketing Coordinator Intern](https://jobright.ai/jobs/info/6a9881aeaf954907d6573b46?utm_campaign=1065&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 02 |
 | **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Category Management Insights Intern - Undergrad](https://jobright.ai/jobs/info/6a9811e183fc63335762f744?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Corporate Marketing Intern](https://jobright.ai/jobs/info/6a987267dd171c7285792523?utm_campaign=1065&utm_source=git)** | Carmel, IN, United States | On Site | Sep 02 |
-| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/6a981fe3def18223c854d812?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
+| **[PepsiCo](http://www.pepsico.com)** | **[2027 Summer Intern: Marketing Intern - Undergrad](https://jobright.ai/jobs/info/6a9811e1dd171c72857901b8?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | On Site | Sep 02 |
 | **[AMOREPACIFIC](https://www.apgroup.com)** | **[Amazon Content Operations Intern](https://jobright.ai/jobs/info/6a713a439a0ca4480c7d38c1?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 02 |
 | **[Volo Sports](https://www.volosports.com)** | **[Sport Management Internship / Social Media / Content  (Fall Semester)](https://jobright.ai/jobs/info/6a987e88af954907d6573a67?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 02 |
 | **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Media Management & Design Intern](https://jobright.ai/jobs/info/6a989a7a83fc633357632832?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Sep 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advanced Electric Systems](https://advancedelectricsystems.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a984001dd171c728579105b?utm_campaign=1065&utm_source=git)** | Aurora, CO, United States | On Site | Sep 02 |
 | **[LV Collective](https://lvcollective.com)** | **[Marketing & Partnerships Intern / Rambler Northgate](https://jobright.ai/jobs/info/6a9842fb83fc633357630634?utm_campaign=1065&utm_source=git)** | College Station, TX, United States | On Site | Sep 02 |
 | ↳ | **[Marketing & Partnerships Intern / Rambler Clemson](https://jobright.ai/jobs/info/6a984273af954907d6572357?utm_campaign=1065&utm_source=git)** | Clemson, SC, United States | On Site | Sep 02 |
-| ↳ | **[Marketing & Partnerships Intern / Rambler Blacksburg](https://jobright.ai/jobs/info/6a9841ab11f73b6462c8d79a?utm_campaign=1065&utm_source=git)** | Blacksburg, VA, United States | On Site | Sep 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
