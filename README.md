@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zeno Group](http://www.zenogroup.com)** | **[Intern, Brand](https://jobright.ai/jobs/info/6a95cd10f28891320e85dfb0?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
+| ↳ | **[Intern, Brand](https://jobright.ai/jobs/info/6a85dced4afae74a08341b85?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 04 |
+| ↳ | **[Intern, Brand](https://jobright.ai/jobs/info/6a7e148719ce4e6e9d93137d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
 | **[Emergent](https://emergent.sh)** | **[Community Manager Intern](https://jobright.ai/jobs/info/6a58deff3ac7627fe9ffbe24?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 04 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Market Research Internship](https://jobright.ai/jobs/info/6a37a34d29c90c607e4e6a1d?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 03 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Management Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a5826569838a11e5d83711d?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 03 |
@@ -113,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a99ee8d8a8b765bc55f6613?utm_campaign=1065&utm_source=git)** | Katy, TX, United States | On Site | Sep 03 |
 | **[Association for Community Affiliated Plans (ACAP)](https://www.communityplans.net)** | **[Health Communications Intern](https://jobright.ai/jobs/info/6a99e619040e5c3d07599a1f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 03 |
 | **[Stellar](http://stellarindustries.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d132040e5c3d07599123?utm_campaign=1065&utm_source=git)** | Garner, IA, United States | On Site | Sep 03 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6a99e10cad752e2ad5502a76?utm_campaign=1065&utm_source=git)** | New London, CT, United States | On Site | Sep 03 |
-| ↳ | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a99e10c551435518ebf1db4?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Sep 03 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a99e10c551435518ebf1db4?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Sep 03 |
+| ↳ | **[Marketing Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6a99e10cad752e2ad5502a76?utm_campaign=1065&utm_source=git)** | New London, CT, United States | On Site | Sep 03 |
 | **[GLAMNETIC](https://glamnetic.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a99e096ad752e2ad5502a44?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a99e065ad752e2ad5502a27?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Corporate Communications - Spring 2027](https://jobright.ai/jobs/info/6a99dc0c8a8b765bc55f5fb8?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Sep 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlas Free](https://www.atlasfree.org)** | **[Development Internship](https://jobright.ai/jobs/info/6a99bfff8a8b765bc55f5357?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | On Site | Sep 03 |
 | ↳ | **[Marketing Admin Intern](https://jobright.ai/jobs/info/6a99bffe551435518ebf0cfa?utm_campaign=1065&utm_source=git)** | Kirkland, WA, United States | Remote | Sep 03 |
 | **[University of Notre Dame](https://www.nd.edu/)** | **[Administrative & Communications Intern PATH (Tuscon, Arizona)](https://jobright.ai/jobs/info/6a7df66019ce4e6e9d9306de?utm_campaign=1065&utm_source=git)** | Tucson, AZ, United States | On Site | Sep 03 |
-| **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a9163722e254e06fb9f4290?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 03 |
-| **[Stealth AI Startup](https://stealth-startups.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a99bcd2551435518ebf0b62?utm_campaign=1065&utm_source=git)** | San Francisco Bay Area, United States | Remote | Sep 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a7284dccb96192a3684e648?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
