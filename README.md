@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[2027 Intern – IBM Product Marketing (ATX)](https://jobright.ai/jobs/info/6a9a2b0f90a313642c654a09?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 03 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Shelley Whitman Associates / Copywriting & Social Media Internship — United States](https://jobright.ai/jobs/info/6a9a339e90a313642c654ba1?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 03 |
 | **[Harborside Inc.](https://www.shopharborside.com)** | **[Marketing Paid Internship (Part-Time) 3-6 months Months ($17.75 per hour)](https://jobright.ai/jobs/info/6a627e63d5caab4af8bae57d?utm_campaign=1065&utm_source=git)** | Bay Park, United States | Hybrid | Sep 03 |
 | **[Children's Receiving Home of Sacramento](https://www.crhkids.org/)** | **[Fund Development & Communication Intern](https://jobright.ai/jobs/info/6a9a311c90a313642c654b34?utm_campaign=1065&utm_source=git)** | Sacramento, CA, United States | Hybrid | Sep 03 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[Kinro (YC P26)](https://kinro.com/)** | **[Content & Brand Intern](https://jobright.ai/jobs/info/6a9a2cd0ad752e2ad5503fb0?utm_campaign=1065&utm_source=git)** | San Francisco, CA, United States | On Site | Sep 03 |
 | **[Emerson](http://www.emerson.com)** | **[Life Sciences Marketing Intern](https://jobright.ai/jobs/info/6a9a2cac8a8b765bc55f7bec?utm_campaign=1065&utm_source=git)** | Round Rock, TX, United States | Hybrid | Sep 03 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern – IBM Software Product Marketing (NYC)](https://jobright.ai/jobs/info/6a9a2b131388387060592a9a?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
-| ↳ | **[2027 Intern – IBM Product Marketing (ATX)](https://jobright.ai/jobs/info/6a9a2b0f90a313642c654a09?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 03 |
 | ↳ | **[2027 Intern — Marketing Analytics](https://jobright.ai/jobs/info/6a9a2b0d1388387060592a96?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[Huntington National Bank](http://www.huntington.com)** | **[Summer 2027 Social Media Internship](https://jobright.ai/jobs/info/6a99d357ad752e2ad55023bf?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | Remote | Sep 03 |
 | **[United Airlines](https://www.united.com)** | **[Intern - Product Marketing & Brand – Onboard Product (Summer 2027)](https://jobright.ai/jobs/info/6a97e91972b96b1c436f1a63?utm_campaign=1065&utm_source=git)** | Chicago, IL, United States | Hybrid | Sep 03 |
@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Management Trainee Summer Internship](https://jobright.ai/jobs/info/6a99ee8d8a8b765bc55f6613?utm_campaign=1065&utm_source=git)** | Katy, TX, United States | On Site | Sep 03 |
 | **[Association for Community Affiliated Plans (ACAP)](https://www.communityplans.net)** | **[Health Communications Intern](https://jobright.ai/jobs/info/6a99e619040e5c3d07599a1f?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | Hybrid | Sep 03 |
 | **[Stellar](http://stellarindustries.com)** | **[Marketing Intern - Summer 2027](https://jobright.ai/jobs/info/6a99d132040e5c3d07599123?utm_campaign=1065&utm_source=git)** | Garner, IA, United States | On Site | Sep 03 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6a99e10cad752e2ad5502a76?utm_campaign=1065&utm_source=git)** | New London, CT, United States | On Site | Sep 03 |
-| ↳ | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a99e10c551435518ebf1db4?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Sep 03 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Marketing Intern, Chartwells Higher Ed / Eastern Michigan University](https://jobright.ai/jobs/info/6a99e10c551435518ebf1db4?utm_campaign=1065&utm_source=git)** | Ypsilanti, MI, United States | On Site | Sep 03 |
+| ↳ | **[Marketing Intern, Chartwells Higher Ed / Connecticut College](https://jobright.ai/jobs/info/6a99e10cad752e2ad5502a76?utm_campaign=1065&utm_source=git)** | New London, CT, United States | On Site | Sep 03 |
 | **[GLAMNETIC](https://glamnetic.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a99e096ad752e2ad5502a44?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 03 |
 | **[Sarah Cotty Real Estate | Serhant.](https://sarahcotty.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a99e065ad752e2ad5502a27?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Corporate Communications - Spring 2027](https://jobright.ai/jobs/info/6a99dc0c8a8b765bc55f5fb8?utm_campaign=1065&utm_source=git)** | Woodcliff Lake, NJ, United States | Hybrid | Sep 03 |
@@ -106,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[New America](https://www.newamerica.org/)** | **[Fall 2026 - Communication Intern, Education and Work (Paid)](https://jobright.ai/jobs/info/6a6b24ce32f9300c3a3dd29d?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 03 |
 | **[Bain & Company](https://bain.com)** | **[Intern, Marketing (Content and Mailings)](https://jobright.ai/jobs/info/6a9a05b190a313642c6541a8?utm_campaign=1065&utm_source=git)** | Boston, MA, United States | Hybrid | Sep 03 |
 | **[IBM](http://www.ibm.com)** | **[2027 Intern — Performance Marketing (ATX)](https://jobright.ai/jobs/info/6a99bf9a8a8b765bc55f5327?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | Hybrid | Sep 03 |
-| ↳ | **[2027 Entry-Level — Marketing Analytics](https://jobright.ai/jobs/info/6a99a279551435518ebefebe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | ↳ | **[2027 Entry-Level – IBM Software Product Marketing](https://jobright.ai/jobs/info/6a99a277138838706058f378?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
+| ↳ | **[2027 Entry-Level — Marketing Analytics](https://jobright.ai/jobs/info/6a99a279551435518ebefebe?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | ↳ | **[2027 Intern – Copywriter](https://jobright.ai/jobs/info/6a99bfc013883870605900c8?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | ↳ | **[2027 Intern — Performance Marketing (NYC)](https://jobright.ai/jobs/info/6a99bf92ad752e2ad5501a46?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
 | ↳ | **[2027 Intern — Brand & Content Strategy](https://jobright.ai/jobs/info/6a99bfd38a8b765bc55f5344?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 03 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Transcard](http://www.transcard.com)** | **[2027 - Marketing Intern](https://jobright.ai/jobs/info/6a997da7040e5c3d0759685e?utm_campaign=1065&utm_source=git)** | Chattanooga, TN, United States | Remote | Sep 03 |
 | **[Performance Audio Video Inc](http://performanceaudiovideoinc.com)** | **[Marketing Intern (Unpaid)](https://jobright.ai/jobs/info/6a999fa2138838706058f1e3?utm_campaign=1065&utm_source=git)** | Peoria, AZ, United States | On Site | Sep 03 |
 | **[Electro](electrogum.com)** | **[Creator Marketing Intern](https://jobright.ai/jobs/info/6a999f2e040e5c3d075978e5?utm_campaign=1065&utm_source=git)** | Phoenix, AZ, United States | Remote | Sep 03 |
-| **[MOSO Bamboo Deutschland](https://www.moso-bamboo.com/de/)** | **[Online Marketing / Content Creation Internship](https://jobright.ai/jobs/info/6a999e0a551435518ebefbc0?utm_campaign=1065&utm_source=git)** | Indiana, United States | On Site | Sep 03 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Intern Fort Worth](https://jobright.ai/jobs/info/6a999ddc8a8b765bc55f4370?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | On Site | Sep 03 |
 | **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing - Design](https://jobright.ai/jobs/info/6a996ecd138838706058dd08?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 03 |
 | **[Electro](electrogum.com)** | **[Social Media & NIL Partnerships Intern](https://jobright.ai/jobs/info/6a999d44551435518ebefb0d?utm_campaign=1065&utm_source=git)** | Indianapolis, IN, United States | Remote | Sep 03 |
+| **[United States Steel Corporation](http://www.ussteel.com)** | **[Marketing Communications &amp; Brand Intern](https://jobright.ai/jobs/info/6a999c76040e5c3d075976c2?utm_campaign=1065&utm_source=git)** | Pittsburgh, PA, United States | On Site | Sep 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
