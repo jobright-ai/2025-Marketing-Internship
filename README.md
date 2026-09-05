@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Authentic Brands Group](https://authentic.com)** | **[Brand Management Lifestyle Summer Intern](https://jobright.ai/jobs/info/6a9c1a0bdacf777321a8db21?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 05 |
+| **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a880d27680f314a29d3abbe?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 05 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 05 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e19374e02153f14590d2?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
+| **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 05 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Commercial Marketing: Sustainability Data Specialist Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd6680f314a29d3f290?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Sep 05 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[PAID SPORTS PERFORMANCE INTERNSHIP](https://jobright.ai/jobs/info/6a89947bcde3717f9e9b862a?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Sep 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Sales & Marketing Strategy Intern, Latin America Trade Market, Spring 2027](https://jobright.ai/jobs/info/6a9b750513883870605981b3?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | Hybrid | Sep 05 |
 | ↳ | **[Marketing Strategy Intern, Latin America Consumer Direct, Spring 2027](https://jobright.ai/jobs/info/6a9b756913883870605981f7?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | Hybrid | Sep 05 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9b0934d5ff1f3f1c39d502?utm_campaign=1065&utm_source=git)** | Janesville, WI, United States | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Marketing Intern (NJUS)](https://jobright.ai/jobs/info/6a9af9322cdc5958f53e9f9c?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
 | **[CNA Corporation](https://www.cna.org)** | **[Communications - Intern](https://jobright.ai/jobs/info/6a9ad6272cdc5958f53e89bb?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 04 |
-| **[AMOREPACIFIC](https://www.apgroup.com)** | **[Laneige PR Intern](https://jobright.ai/jobs/info/6a9b1d461388387060596aee?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
-| **[Davidson Hospitality Group](https://davidsonhospitality.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9b1cc2fe45b8490f606e47?utm_campaign=1065&utm_source=git)** | Newport, RI, United States | On Site | Sep 04 |
-| **[Allied Solutions LLC](http://www.alliedsolutions.net/)** | **[Product Marketing Intern](https://jobright.ai/jobs/info/6a9aeb401388387060594a3c?utm_campaign=1065&utm_source=git)** | Carmel, IN, United States | On Site | Sep 04 |
-| **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Campaign Marketing](https://jobright.ai/jobs/info/6a9ae90b90a313642c6569f4?utm_campaign=1065&utm_source=git)** | Ottawa, ON, Canada | Remote | Sep 04 |
-| **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Communications and Marketing Intern 24-26](https://jobright.ai/jobs/info/6a998178551435518ebeebcc?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
-| **[H&H Group | B Corp™](https://www.hh.global)** | **[Retail Media Marketing Intern](https://jobright.ai/jobs/info/6a961851cabc9f6703e1c0e1?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
