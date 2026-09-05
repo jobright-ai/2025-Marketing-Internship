@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[Brand Management Lifestyle Summer Intern](https://jobright.ai/jobs/info/6a9c1a0bdacf777321a8db21?utm_campaign=1065&utm_source=git)** | New York City metropolitan area, United States | On Site | Sep 05 |
 | **[Bommarito Performance Systems](http://bommaritoperformance.com)** | **[PAID SPORTS PERFORMANCE INTERNSHIP](https://jobright.ai/jobs/info/6a89947bcde3717f9e9b862a?utm_campaign=1065&utm_source=git)** | Miami, FL, United States | On Site | Sep 05 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Sales & Marketing Strategy Intern, Latin America Trade Market, Spring 2027](https://jobright.ai/jobs/info/6a9b750513883870605981b3?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | Hybrid | Sep 05 |
 | ↳ | **[Marketing Strategy Intern, Latin America Consumer Direct, Spring 2027](https://jobright.ai/jobs/info/6a9b756913883870605981f7?utm_campaign=1065&utm_source=git)** | Celebration, FL, United States | Hybrid | Sep 05 |
@@ -73,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Immigrant Welcome Center](https://www.immigrantwelcomecenter.org)** | **[General Intern](https://jobright.ai/jobs/info/6a9bce0e2c964816f65e87ef?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a9b0eff9c24314c35f97889?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
 | ↳ | **[Summer 2027 Intern, Events & Experiences](https://jobright.ai/jobs/info/6a9b0eaf138838706059661c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York - Junior Intern](https://jobright.ai/jobs/info/6a9654083843db015990a594?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
-| ↳ | **[2027 Summer Intern -  Markets Group - New York Innovation Center - Graduate Intern](https://jobright.ai/jobs/info/6a96542bf28891320e8610ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York Innovation Center - Graduate Intern](https://jobright.ai/jobs/info/6a96542bf28891320e8610ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| ↳ | **[2027 Summer Intern -  Markets Group - New York - Junior Intern](https://jobright.ai/jobs/info/6a9654083843db015990a594?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 04 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a63fd728d536034496053bc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Sep 04 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a9b72029c24314c35f993e9?utm_campaign=1065&utm_source=git)** | Beach House Cowork, 2219 Main Street, Santa Monica, CA, United States | Remote | Sep 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Campaign Marketing](https://jobright.ai/jobs/info/6a9ae90b90a313642c6569f4?utm_campaign=1065&utm_source=git)** | Ottawa, ON, Canada | Remote | Sep 04 |
 | **[Housing Authority of the City of Austin](https://www.hacanet.org)** | **[Communications and Marketing Intern 24-26](https://jobright.ai/jobs/info/6a998178551435518ebeebcc?utm_campaign=1065&utm_source=git)** | Austin, TX, United States | On Site | Sep 04 |
 | **[H&H Group | B Corp™](https://www.hh.global)** | **[Retail Media Marketing Intern](https://jobright.ai/jobs/info/6a961851cabc9f6703e1c0e1?utm_campaign=1065&utm_source=git)** | Orlando, FL, United States | On Site | Sep 04 |
-| **[Tri-Mation Industries, Inc.](https://www.tri-mation.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a986d2faf954907d6573473?utm_campaign=1065&utm_source=git)** | Mattawan, MI, United States | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
