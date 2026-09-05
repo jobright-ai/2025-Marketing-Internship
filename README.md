@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNSF Railway](http://www.bnsf.com/)** | **[Marketing (B2B) Summer Intern 2027 Job Details / BNSF](https://jobright.ai/jobs/info/6a9bd698dacf777321a8d4f0?utm_campaign=1065&utm_source=git)** | Fort Worth, TX, United States | Hybrid | Sep 05 |
+| **[Paires](https://paires.ai/)** | **[VC Content Intern](https://jobright.ai/jobs/info/6a9163722e254e06fb9f4290?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 05 |
+| **[Immigrant Welcome Center](https://www.immigrantwelcomecenter.org)** | **[General Intern](https://jobright.ai/jobs/info/6a9bce0e2c964816f65e87ef?utm_campaign=1065&utm_source=git)** | Greater Indianapolis | On Site | Sep 05 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Marketing & Communications](https://jobright.ai/jobs/info/6a9b0eff9c24314c35f97889?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
 | ↳ | **[Summer 2027 Intern, Events & Experiences](https://jobright.ai/jobs/info/6a9b0eaf138838706059661c?utm_campaign=1065&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 05 |
-| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York - Junior Intern](https://jobright.ai/jobs/info/6a9654083843db015990a594?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
-| ↳ | **[2027 Summer Intern -  Markets Group - New York Innovation Center - Graduate Intern](https://jobright.ai/jobs/info/6a96542bf28891320e8610ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Intern -  Markets Group - New York Innovation Center - Graduate Intern](https://jobright.ai/jobs/info/6a96542bf28891320e8610ac?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
+| ↳ | **[2027 Summer Intern -  Markets Group - New York - Junior Intern](https://jobright.ai/jobs/info/6a9654083843db015990a594?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Affiliate Strategist Intern (TikTok Shop Creator and Affiliates) - 2027 Summer (MBA)](https://jobright.ai/jobs/info/6a701a34f5953013637f7276?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 04 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Management Trainee Fall Internship](https://jobright.ai/jobs/info/6a63fd728d536034496053bc?utm_campaign=1065&utm_source=git)** | Spring, TX, United States | On Site | Sep 04 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Community Events Intern](https://jobright.ai/jobs/info/6a9b72029c24314c35f993e9?utm_campaign=1065&utm_source=git)** | Beach House Cowork, 2219 Main Street, Santa Monica, CA, United States | Remote | Sep 04 |
@@ -79,7 +82,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Social Media Intern](https://jobright.ai/jobs/info/6a9b79782cdc5958f53ec6d5?utm_campaign=1065&utm_source=git)** | Montreal, QC, Canada | On Site | Sep 04 |
 | **[Axicom](http://axicom.de/)** | **[Summer Internship](https://jobright.ai/jobs/info/6a5330629fbdab22fe13e8e7?utm_campaign=1065&utm_source=git)** | New York, NY, United States | Hybrid | Sep 04 |
 | **[Love's Travel Stops](http://www.loves.com)** | **[Customer Loyalty Intern (Summer 2027)](https://jobright.ai/jobs/info/6a830496379c304e892f4573?utm_campaign=1065&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 04 |
-| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Communications Intern Part-Time (Fall 2026)](https://jobright.ai/jobs/info/6a9b4a509c24314c35f98cb9?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 04 |
+| **[Regal Rexnord](https://www.regalrexnord.com)** | **[Communications Intern Part-Time (Fall 2026)](https://jobright.ai/jobs/info/6a9b33e02cdc5958f53eb599?utm_campaign=1065&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Sep 04 |
 | **[CoreLab](https://www.corelabla.com)** | **[Marketing Intern (Social Media & Brand)](https://jobright.ai/jobs/info/6a9bafc6a7ba386c5d66d6f5?utm_campaign=1065&utm_source=git)** | Los Angeles, CA, United States | On Site | Sep 04 |
 | **[Electric Battery Adhesives](https://www.hbfuller.com/ev)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a9baea875edfa11b470cf46?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | On Site | Sep 04 |
 | **[Cadence Education](http://www.cadence-education.com/)** | **[SEO Copywriter Intern](https://jobright.ai/jobs/info/6a9b2e929c24314c35f98273?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | Hybrid | Sep 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Brand Marketing Intern](https://jobright.ai/jobs/info/6a9afc4a90a313642c658025?utm_campaign=1065&utm_source=git)** | Worthington, OH, United States | On Site | Sep 04 |
 | **[POET](http://www.poet.com)** | **[Merchandising Intern - Summer 2027](https://jobright.ai/jobs/info/6a9ae1e813883870605947af?utm_campaign=1065&utm_source=git)** | Sioux Falls, SD, United States | On Site | Sep 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Platform Campaign Project Intern (TikTok Shop - Operation Center) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a34c94d1232144fb156148a?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 04 |
-| **[Simon Property Group](https://www.simon.com/)** | **[Intern, Marketing](https://jobright.ai/jobs/info/6a50f4dfbf63b66c79977987?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, United States | On Site | Sep 04 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a52d233d007ee02d95f935b?utm_campaign=1065&utm_source=git)** | Lutz, FL, United States | On Site | Sep 04 |
-| ↳ | **[Intern, Marketing](https://jobright.ai/jobs/info/6a1bfa2cc2a87d6cd3e065a9?utm_campaign=1065&utm_source=git)** | King of Prussia, PA, US | On Site | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
