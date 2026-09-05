@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a9222a98e5968545337919e?utm_campaign=1065&utm_source=git)** | Jackson, MS, United States | Hybrid | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a880d27680f314a29d3abbe?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 05 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 05 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 05 |
-| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e19374e02153f14590d2?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 05 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Commercial Marketing: Sustainability Data Specialist Internship - Summer 2027](https://jobright.ai/jobs/info/6a899fd6680f314a29d3f290?utm_campaign=1065&utm_source=git)** | Long Island City, NY, United States | On Site | Sep 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kinaxis](http://www.kinaxis.com/)** | **[Co-op/Intern Analyst Relations](https://jobright.ai/jobs/info/6a9ae903fe45b8490f604d58?utm_campaign=1065&utm_source=git)** | Canada | Remote | Sep 04 |
 | **[Blain's Farm & Fleet (Blain Supply, Inc.)](https://www.farmandfleet.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a9b0934d5ff1f3f1c39d502?utm_campaign=1065&utm_source=git)** | Janesville, WI, United States | On Site | Sep 04 |
 | **[NetJets](https://www.netjets.com/)** | **[Marketing Intern (NJUS)](https://jobright.ai/jobs/info/6a9af9322cdc5958f53e9f9c?utm_campaign=1065&utm_source=git)** | Columbus, OH, United States | On Site | Sep 04 |
-| **[CNA Corporation](https://www.cna.org)** | **[Communications - Intern](https://jobright.ai/jobs/info/6a9ad6272cdc5958f53e89bb?utm_campaign=1065&utm_source=git)** | Arlington, VA, United States | Hybrid | Sep 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
