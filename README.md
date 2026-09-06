@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[StudyFetch](https://www.studyfetch.com/)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a63cafc8d536034496044e0?utm_campaign=1065&utm_source=git)** | Beverly Hills, CA, United States | On Site | Sep 06 |
 | **[Parks Automotive Group](https://www.parksautogroup.com/)** | **[Social Media Intern- Richmond (59928)](https://jobright.ai/jobs/info/6a5586fbf2c46727285f2b0c?utm_campaign=1065&utm_source=git)** | Winston-Salem, NC, United States | On Site | Sep 06 |
 | **[H.B. Fuller](http://www.hbfuller.com)** | **[Digital Marketing Intern](https://jobright.ai/jobs/info/6a9b1bea2cdc5958f53eae3a?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | On Site | Sep 06 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a9b1be2d5ff1f3f1c39db02?utm_campaign=1065&utm_source=git)** | St. Paul, MN, United States | On Site | Sep 06 |
@@ -67,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Marketing Internship](https://jobright.ai/jobs/info/6a424b68adab21425e9fd446?utm_campaign=1065&utm_source=git)** | New York, NY, United States | On Site | Sep 05 |
 | **[Join Pomegranate](https://joinpomegranate.com)** | **[Social Media Marketing Intern](https://jobright.ai/jobs/info/6a9cfa3e75edfa11b470ee4c?utm_campaign=1065&utm_source=git)** | Scottsdale, AZ, United States | Remote | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Digital Engagement Intern](https://jobright.ai/jobs/info/6a8d87a5cc0cf27068523a13?utm_campaign=1065&utm_source=git)** | Montgomery, AL, United States | Hybrid | Sep 05 |
-| **[Specialityvalve](https://www.specialityvalve.com/)** | **[Marketing Intern( Full time)](https://jobright.ai/jobs/info/6a9ce8f875edfa11b470ec28?utm_campaign=1065&utm_source=git)** | California, United States | Remote | Sep 05 |
 | **[Hems & Brims](http://www.hemsandbrims.com)** | **[Fashion Intern](https://jobright.ai/jobs/info/6a9ce163dacf777321a8eeeb?utm_campaign=1065&utm_source=git)** | United States | Remote | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Campaign Traffic Strategy & Operations Project Intern (TikTok Shop - US Operation) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a3e1e6c122f340d29cf2b04?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
 | **[DRB Homes](http://www.drbhomes.com/)** | **[Marketing Intern (2064)](https://jobright.ai/jobs/info/6a9c7f2a68f82b403673669d?utm_campaign=1065&utm_source=git)** | Franklin, Tennessee, United States | On Site | Sep 05 |
@@ -79,13 +79,13 @@ For a complete list, click the following sortable link below:
 | **[Codeable](https://gocodeable.com)** | **[Social Media Intern](https://jobright.ai/jobs/info/6a9c68532c964816f65e945a?utm_campaign=1065&utm_source=git)** | Mount Prospect, IL, United States | On Site | Sep 05 |
 | **[SwipePicks](https://swipepicks.app/)** | **[Sales & Growth Intern (Student/Part-Time)](https://jobright.ai/jobs/info/6a9d427f68f82b4036737801?utm_campaign=1065&utm_source=git)** | Toronto, ON, Canada | Remote | Sep 05 |
 | **[Enterprise Mobility](https://www.enterprisemobility.com/)** | **[Spring 2027 Management Trainee Internship](https://jobright.ai/jobs/info/6a89c207cde3717f9e9b89ea?utm_campaign=1065&utm_source=git)** | Columbia Metro | On Site | Sep 05 |
-| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d4fb17cba56903567c5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 05 |
+| **[Gaming Laboratories International, LLC](http://www.gaminglabs.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d3a20b26a6e93f47c80?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 05 |
+| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d4fb17cba56903567c5?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 05 |
 | ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a7579c9972ac843c699a070?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 05 |
-| ↳ | **[Marketing Intern](https://jobright.ai/jobs/info/6a749d3a20b26a6e93f47c80?utm_campaign=1065&utm_source=git)** | Las Vegas, NV, United States | On Site | Sep 05 |
 | **[AARP](http://www.aarp.org)** | **[Communications Intern](https://jobright.ai/jobs/info/6a9222a98e5968545337919e?utm_campaign=1065&utm_source=git)** | Jackson, MS, United States | Hybrid | Sep 05 |
 | **[TikTok](https://www.tiktok.com)** | **[Category Manager Intern (TikTok Shop - Operations) - 2027 Summer](https://jobright.ai/jobs/info/6a880d27680f314a29d3abbe?utm_campaign=1065&utm_source=git)** | Seattle, WA, United States | On Site | Sep 05 |
-| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 05 |
-| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
+| **[Hubbell Incorporated](https://www.hubbell.com)** | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e1912f4f0014cae26ac4?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
+| ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a988f93af954907d65741c8?utm_campaign=1065&utm_source=git)** | Tulsa, OK, United States | On Site | Sep 05 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a7f105fe51a1e18a2410145?utm_campaign=1065&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 05 |
 | ↳ | **[2027 Summer Intern: Product Marketing](https://jobright.ai/jobs/info/6a85e19374e02153f14590d2?utm_campaign=1065&utm_source=git)** | Portsmouth, NH, United States | On Site | Sep 05 |
 | **[InterDigital, Inc.](https://www.interdigital.com)** | **[Marketing/Communication Intern](https://jobright.ai/jobs/info/6a62c43d185082502f483bce?utm_campaign=1065&utm_source=git)** | Washington, DC, United States | On Site | Sep 05 |
